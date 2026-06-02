@@ -1,0 +1,862 @@
+;"strsplit(filename, ""\\."")[[1]][1]";header
+1;T0406;406
+2;T0406;GEHU J.M.
+3;T0406;1961
+4;T0406;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, 10.
+5;T0406;Carpinion
+6;T0406;Querco-Carpinetum primuletosum var … Mercurialis perennis
+7;T0406;XXXII 1-8
+8;T0406;A/D G.Roux 1994
+9;T0407;407
+10;T0407;GEHU J.M.
+11;T0407;1961
+12;T0407;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, 10.
+13;T0407;Carpinion
+14;T0407;Querco-Carpinetum corydaletosum
+15;T0407;XXXIII 1-4
+16;T0407;A/D G.Roux 1994
+17;T0408;408
+18;T0408;GEHU J.M.
+19;T0408;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, 10.
+20;T0408;Carpinion
+21;T0408;Querco-Carpinetum endymietosum
+22;T0408;XXXIV 1-13
+23;T0408;A/D G.Roux 1994
+24;T0409;409
+25;T0409;GEHU J.M.
+26;T0409;1961
+27;T0409;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, X, 5-6: 257-372.
+28;T0409;Querceto-Carpinetum asperuletosum
+29;T0409;XXXVI 1-30
+30;T0409;30 relev‚s
+31;T0409;Corr. & A/D G.Roux 1995
+32;T0410;410
+33;T0410;DUVIGNEAUD J.
+34;T0410;1959
+35;T0410;La forˆt alluviale du Mont Dieu (Ardennes).- Vegetatio
+36;T0410;Querco-Carpinetum stachyetosum
+37;T0410;III 1-9
+38;T0410;9 relev‚s
+39;T0410;Ajouts A/D et corrections G.Roux
+40;T0411;411
+41;T0411; 14 relev‚s
+42;T0411; 77 esp‚ces
+43;T0412;412
+44;T0412; 19 relev‚s
+45;T0412;120 esp‚ces
+46;T0413;413
+47;T0413; 13 relev‚s
+48;T0413; 90 esp‚ces
+49;T0414;414
+50;T0414; 32 relev‚s
+51;T0414;107 esp‚ces
+52;T0415;415
+53;T0415;RICHARD J.L.
+54;T0415;1968
+55;T0415;Sorbo-Aceretum
+56;T0415;I 5-19
+57;T0415;15 relev‚s
+58;T0415;Corr. & A/D G.Roux 1995
+59;T0416;416
+60;T0416;FRILEUX P.N.
+61;T0416;1977
+62;T0416;Fraxino-Carpinion neutro-basophile
+63;T0416;XXXV 1-19
+64;T0416;19 relev‚s
+65;T0416;A/D par G.Roux 1994
+66;T0417;417
+67;T0417; 52 relev‚s
+68;T0417;143 esp‚ces
+69;T0418;418
+70;T0418;FRILEUX P.N.
+71;T0418;1977
+72;T0418;Fraxino-Carpinion
+73;T0418;XXXIV 1-24
+74;T0418;24 relev‚s
+75;T0418;A/D par G.Roux 1994
+76;T0419;419
+77;T0419;VANDEN BERGHEN C.
+78;T0419;1953
+79;T0419;Contribution à l'étude des groupements végétaux notés dans la vallée de l'Ourthe en amont de Laroche en Ardenne.- Bull. Soc. Roy. Bot. Belgique, 85: 195-277.
+80;T0419;Lunario-Acerion
+81;T0419;Scolopendrio-Fraxinetum
+82;T0419;V 1-12
+83;T0419;Corr. et Bryophytes G.Roux 2000
+84;T0420;420
+85;T0420;  3 relev‚s
+86;T0420; 66 esp‚ces
+87;T0421;421
+88;T0421; 11 relev‚s
+89;T0421; 88 esp‚ces
+90;T0422;422
+91;T0422;NOIRFALISE A.
+92;T0422;1969
+93;T0422;La chˆnaie m‚lang‚e … Jacinthe du domaine atlantique de l'Europe (Endymio-Carpinetum).- Vegetatio, 17, 1-6: 131-150.
+94;T0422;Carpinion
+95;T0422;Endymio-Carpinetum ficarietosum
+96;T0422;II 1-45
+97;T0422;Corr., A/D & Bryophytes G.Roux 1994
+98;T0423;423
+99;T0423;BRAUN-BLANQUET J.
+100;T0423;1970
+101;T0423;La végétation sylvicole des Causses méridionaux.- SIGMA n°186
+102;T0423;Fagion
+103;T0423;Fagetum gallicum subass. buxetosum
+104;T0423;8 relevés
+105;T0423;IV 1-8
+106;T0423;Corr. & A-D G.Roux 1999
+107;T0424;424
+108;T0424;BRAUN J.
+109;T0424;1915
+110;T0424;Les C‚vennes m‚ridionales (Massif de l'Aigoual). Etude phytog‚ographique.- Arch. Bot.
+111;T0424;Hˆtraie
+112;T0424;512 1-14
+113;T0424;Corr. & A/D (estim‚es) par G.Roux
+114;T0425;425
+115;T0425; 30 relev‚s
+116;T0425; 99 esp‚ces
+117;T0426;426
+118;T0426; 12 relev‚s
+119;T0426; 57 esp‚ces
+120;T0427;427
+121;T0427; 32 relev‚s
+122;T0427;147 esp‚ces
+123;T0428;428
+124;T0428;NOIRFALISE A.
+125;T0428;1969
+126;T0428;La chˆnaie m‚lang‚e … Jacinthe du domaine atlantique de l'Europe (Endymio-Carpinetum).- Vegetatio, 17, 1-6: 131-150.
+127;T0428;Carpinion
+128;T0428;Endymio-Carpinetum typique
+129;T0428;III 1-40
+130;T0428;Corr., A/D & Bryophytes G.Roux 1994
+131;T0429;429
+132;T0429;NOIRFALISE A.
+133;T0429;1969
+134;T0429;La chˆnaie m‚lang‚e … Jacinthe du domaine atlantique de l'Europe (Endymio-Carpinetum).- Vegetatio, 17, 1-6: 131-150.
+135;T0429;Carpinion
+136;T0429;Endymio-Carpinetum filipenduletosum (1-20) & allietosum (21-35)
+137;T0429;I 1-35
+138;T0429;Corr., A/D & Bryophytes G.Roux 1994
+139;T0430;430
+140;T0430;NOIRFALISE A.
+141;T0430;1969
+142;T0430;La chˆnaie m‚lang‚e … Jacinthe du domaine atlantique de l'Europe (Endymio-Carpinetum).- Vegetatio, 17, 1-6: 131-150.
+143;T0430;Carpinion
+144;T0430;Endymio-Carpinetum holcetosum
+145;T0430;IV 1-45 
+146;T0430;Corr., A/D & Bryophytes G.Roux 1994
+147;T0431;431
+148;T0431; 22 relev‚s
+149;T0431; 93 esp‚ces
+150;T0432;432
+151;T0432;BANNES-PUYGIRON G. de
+152;T0432;1933
+153;T0432;Le Valentinois méridional.Esquisse phytosociologique.- SIGMA n°19.
+154;T0432;Association a Fagus silvatica et Calamintha grandiflora
+155;T0432;108 1-10 (le rel. 10 en presence-absence)
+156;T0432;Corr. & abondance-dominance G.Roux 2000
+157;T0433;433
+158;T0433;  5 relev‚s
+159;T0433; 84 esp‚ces
+160;T0434;434
+161;T0434; 15 relev‚s
+162;T0434;101 esp‚ces
+163;T0435;435
+164;T0435; 20 relev‚s
+165;T0435; 99 esp‚ces
+166;T0436;436
+167;T0436;TIMBAL J.
+168;T0436;1974
+169;T0436;Coll. Phytosoc.
+170;T0436;Hétraies à callune des Basses Vosges
+171;T0436;V 1-7
+172;T0436;7 relev‚s
+173;T0436;Corr. Bryoph. & A/D G.Roux 1996
+174;T0437;437
+175;T0437;TIMBAL J.
+176;T0437;1974
+177;T0437;Coll. Phytosoc.
+178;T0437;Hétraies acidophiles des Ardennes françaises
+179;T0437;II 1-4
+180;T0437;4 relev‚s
+181;T0437;Corr., Bryoph. et A/D G.Roux 1996
+182;T0438;438
+183;T0438;TIMBAL J.
+184;T0438;1974
+185;T0438;Coll. Phytosoc.
+186;T0438;Hétraies acidophiles de l'Argonne
+187;T0438;I 1-20
+188;T0438;20 relev‚s
+189;T0438;Corr., Bryoph. & A/D G.Roux 1996
+190;T0439;439
+191;T0439;TIMBAL J.
+192;T0439;1974
+193;T0439;Coll. Phytosoc.
+194;T0439;Chénaies sessiliflores des Basses-Vosges
+195;T0439;VI 1-18
+196;T0439;18 relev‚s
+197;T0439;Corr., Bryoph. & A/D G.Roux 1996
+198;T0440;440
+199;T0440;BRAUN-BLANQUET J.
+200;T0440;1967
+201;T0440;Vegetationsskizzen aus dem Baskenland mit Ausblicken auf des weitere Ibero-Atlantikum.- Vegetatio, XIV, 1-4: 1-126
+202;T0440;Ilici-Fagion
+203;T0440;Saxifrago hirsutae-Fagetum
+204;T0440;XXXII 1-16
+205;T0440;Corr., Bryophytes & A/D G.Roux 1994
+206;T0441;441
+207;T0441;BRAUN-BLANQUET J.
+208;T0441;1967
+209;T0441;Vegetationsskizzen aus dem Baskenland mit Ausblicken auf des Ibero-Atlantikum.- Vegetatio, XIV, 1-4: 1-126.
+210;T0441;Ilici-Fagion
+211;T0441;Ilici-Fagetum
+212;T0441;XXXI 1-8
+213;T0441;Corr., Bryophytes & A/D G.Roux 1994
+214;T0442;442
+215;T0442;RAMEAU J.C. & ROYER J.M.
+216;T0442;1974
+217;T0442;Les forets acidiphiles du S.E. du Bassin Parisien.- Coll. Phytosocio., 3.
+218;T0442;Quercion robori-petraea
+219;T0442;Peucedano-Quercetum subass. sorbetosum
+220;T0442;II 1-23
+221;T0442;Corr. & A/D G.Roux
+222;T0443;443
+223;T0443;RAMEAU J.C. & ROYER J.M.
+224;T0443;1974
+225;T0443;Les forˆts acidiphiles du S.E du Bassin Parisien.- Coll. Phytosoc., 3.
+226;T0443;Quercion robori-petarae
+227;T0443;Fago-Quercetum submontanum
+228;T0443;III 1-40
+229;T0443;Corr. & A/D G.Roux 1994
+230;T0444;444
+231;T0444; 27 relev‚s
+232;T0444; 96 esp‚ces
+233;T0445;445
+234;T0445; 14 relev‚s
+235;T0445; 96 esp‚ces
+236;T0446;446
+237;T0446;BRAUN-BLANQUET J.
+238;T0446;1967
+239;T0446;SIGMA n°178
+240;T0446;9 relev‚s
+241;T0446;Corr., Bryoph. & A/D G.Roux 1996
+242;T0447;447
+243;T0447;BRAUN-BLANQUET J.
+244;T0447;1967
+245;T0447;SIGMA n°178
+246;T0447;20 relev‚s
+247;T0447;A/D & Bryophytes G.Roux 1996
+248;T0448;448
+249;T0448;X
+250;T0448;CELLES J.C.
+251;T0448;1975
+252;T0448;Contribution … l'‚tude de la v‚g‚tation des confins saharo-constantinois (Alg‚rie). - ThŠse Doct. Etat, Univ. Nice, 374 p.
+253;T0448;X
+254;T0448;X
+255;T0448;I
+256;T0448;14
+257;T0448;janv-14
+258;T0448;7 M‚diterran‚en
+259;T0448;13 Alg‚rie
+260;T0448;PinŠde … pin d'Alep
+261;T0448;G. Roux
+262;T0449;449
+263;T0449;X
+264;T0449;CELLES J.C.
+265;T0449;1975
+266;T0449;Contribution … l'‚tude de la v‚g‚tation des confins saharo-constantinois (Alg‚rie). - ThŠse Doct. Etat, Univ. Nice, 374 p.
+267;T0449;X
+268;T0449;X
+269;T0449;I
+270;T0449;6
+271;T0449;15-20
+272;T0449;7 M‚diterran‚en
+273;T0449;13 Alg‚rie
+274;T0449;PinŠde … pin d'Alep
+275;T0449;G. Roux
+276;T0450;450
+277;T0450;X
+278;T0450;CELLES J.C.
+279;T0450;1975
+280;T0450;Contribution … l'‚tude de la v‚g‚tation des confins saharo-constantinois (Alg‚rie). - ThŠse Doct. Etat, Univ. Nice, 374 p.
+281;T0450;Rosmarino-Ericion (?)
+282;T0450;X
+283;T0450;II
+284;T0450;11
+285;T0450;01-nov
+286;T0450;7 M‚diterran‚en
+287;T0450;13 Alg‚rie
+288;T0450;Steppe arbor‚e
+289;T0450;G. Roux
+290;T0451;451
+291;T0451;FOUCAULT B. DE
+292;T0451;1976
+293;T0451;Contribution … l'‚tude phytosociologique des prairies et herbages de Basse-Normandie.- Doc. Phytosoc., 19-20.
+294;T0451;Arrhenatherion & Cynosurion
+295;T0451;Arrhenatheretum medio-europaeum & Lolio-Cynosuretum
+296;T0451;I 1-16
+297;T0451;Corr. & A/D G.Roux 1994
+298;T0452;452
+299;T0452;FOUCAULT B. DE
+300;T0452;1976
+301;T0452;Contribution … l'‚tude phytosociologique des prairies et herbages de Basse-Normandie.- Doc. Phytosoc., 19-20.
+302;T0452;Agropyro-Rumicion
+303;T0452;Rumicieto-Alopecuretum geniculati
+304;T0452;II 1-6
+305;T0452;Corr. & A/D G.Roux 1994
+306;T0453;453
+307;T0453;FOUCAULT B. DE
+308;T0453;1976
+309;T0453;Contribution … l'‚tude des prairies et herbages de Basse-Normandie.- Doc. Phytosoc., 19-20.
+310;T0453;Calthion
+311;T0453;Bromo-Senecionetum
+312;T0453;III 1-3
+313;T0453;Corr. & A/D G.Roux 1994
+314;T0454;454
+315;T0454;FOUCAULT B. DE
+316;T0454;1976
+317;T0454;Contribution … l'‚tude phytosociologique des prairies et herbages de Basse-Normandie.- Doc. Phytosoc., 19-20.
+318;T0454;Cynosurion cristati
+319;T0454;Lolio-Cynosuretum subass. … Cirsium arvense & Rumex crispus
+320;T0454;IV 1-6
+321;T0454;Corr. & A/D G.Roux 1994
+322;T0455;455
+323;T0455;X
+324;T0455;CELLES J.C.
+325;T0455;1975
+326;T0455;Contribution … l'‚tude de la v‚g‚tation des confins saharo-constantinois (Alg‚rie). - ThŠse Doct. Etat, Univ. Nice, 374 p.
+327;T0455;Rosmarino-Ericion (?)
+328;T0455;X
+329;T0455;II
+330;T0455;12
+331;T0455;déc-23
+332;T0455;7 M‚diterran‚en
+333;T0455;13 Alg‚rie
+334;T0455;Steppe arbor‚e
+335;T0455;G. Roux
+336;T0456;456
+337;T0456;X
+338;T0456;BRAUN-BLANQUET J. & BOLOS O. DE
+339;T0456;1950
+340;T0456;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+341;T0456;X
+342;T0456;X
+343;T0456;326
+344;T0456;1
+345;T0456;1
+346;T0456;Pelouse … vivaces
+347;T0456;M‚diterran‚en
+348;T0456;Espagne
+349;T0456;Catalogne
+350;T0456;G.Roux
+351;T0457;457
+352;T0457;X
+353;T0457;BRAUN-BLANQUET J. & BOLOS O. DE
+354;T0457;1950
+355;T0457;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+356;T0457;Chenopodietalia
+357;T0457;X
+358;T0457;334
+359;T0457;2
+360;T0457;01-févr
+361;T0457;Gpmt nitrophile
+362;T0457;M‚diterran‚en
+363;T0457;Espagne
+364;T0457;Catalogne
+365;T0457;G.Roux
+366;T0458;458
+367;T0458;X
+368;T0458;BRAUN-BLANQUET J. & BOLOS O. DE
+369;T0458;1950
+370;T0458;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+371;T0458;Quercion pubescenti-sessiliflorae
+372;T0458;Violo-Quercetum valentinae
+373;T0458;336
+374;T0458;1
+375;T0458;1
+376;T0458;"Ch‚naie ""pubescente"""
+377;T0458;M‚diterran‚en
+378;T0458;Espagne
+379;T0458;Catalogne
+380;T0458;G.Roux
+381;T0459;459
+382;T0459;X
+383;T0459;BRAUN-BLANQUET J. & BOLOS O. DE
+384;T0459;1950
+385;T0459;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+386;T0459;Quercion pubescenti-sessiliflorae
+387;T0459;Violo-Quercetum valentinae
+388;T0459;337
+389;T0459;1
+390;T0459;1
+391;T0459;Buxaie
+392;T0459;M‚diterran‚en
+393;T0459;Espagne
+394;T0459;Catalogne
+395;T0459;G.Roux
+396;T0460;460
+397;T0460;GEHU J.M.
+398;T0460;1961
+399;T0460;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio
+400;T0460;Bromion racemosi
+401;T0460;Filipendulo-Cirsietum
+402;T0460;XI 1-15
+403;T0460;15 relev‚s
+404;T0460;Corr. & A/D G.Roux 1995
+405;T0461;461
+406;T0461;GEHU J.M.
+407;T0461;1961
+408;T0461;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, X, 2: 69-148.
+409;T0461;Molinion
+410;T0461;Filipendulo-Scorzonoretum
+411;T0461;XII 1-25
+412;T0461;25 relev‚s
+413;T0461;Corr. & A/D G.Roux 1995
+414;T0462;462
+415;T0462;GEHU J.M.
+416;T0462;1961
+417;T0462;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, X, 3-4: 161-208.
+418;T0462;Bromion racemosi
+419;T0462;Bromo-Senecietum
+420;T0462;XIII 1-18
+421;T0462;18 relev‚s
+422;T0462;Corr. & A/D G.Roux 1995
+423;T0463;463
+424;T0463;GEHU J.M.
+425;T0463;1961
+426;T0463;Les groupements v‚g‚taux du bassin de la Sambre fran‡aise.- Vegetatio, X, 3-4: 161-208.
+427;T0463;Agropyro-Rumicion
+428;T0463;Rumiceto-Alopecuretum geniculati
+429;T0463;XIV 1-16
+430;T0463;16 relev‚s
+431;T0463;Corr. & A/D G.Roux 1995
+432;T0464;464
+433;T0464; 10 relev‚s
+434;T0464; 57 esp‚ces
+435;T0465;465
+436;T0465;  9 relev‚s
+437;T0465; 32 esp‚ces
+438;T0466;466
+439;T0466;WATTEZ J.R.
+440;T0466;1978
+441;T0466;Les jon‡aies acidoclines … Juncus acutiflorus Ehr. du Nord de la France.- Coll. Phytosoc., V:319-338.
+442;T0466;Juncus acutiflorus parmi les groupements du Caricion canescenti-fuscae
+443;T0466;I 1-13
+444;T0466;Corr. & A/D G.Roux 1994
+445;T0467;467
+446;T0467;WATTEZ J.R.
+447;T0467;1978
+448;T0467;Les jon‡aies acidoclines … Juncus acutiflorus Erh. du Nord de la France.- Coll. Phytosoc., V: 319-338. 
+449;T0467;Molinion
+450;T0467;Juncus acutiflorus parmi les groupements du Junco-Molinion
+451;T0467;III 1-43
+452;T0467;Corr. & A/D G.Roux
+453;T0468;468
+454;T0468;ALLORGE P.
+455;T0468;1922
+456;T0468;Les associations végétales du Vexin français
+457;T0468;Thèse
+458;T0468;Prairie a Festuca arundinacea et Silaus pratensis
+459;T0468;XII 1-16 (tableau en présence absence avec qqs indic. d'abondance)
+460;T0468;
+461;T0469;469
+462;T0469;BRAUN-BLANQUET J.
+463;T0469;Vegetation des Baskenlandes II. Teil.- Vegetatio
+464;T0469;Anagallido-Juncion
+465;T0469;Anagallido-Juncetum bulbosi
+466;T0469;XIV 1-22
+467;T0469;22 relev‚s
+468;T0469;Corr. & A/D G.Roux 1995 hors Bryophytes
+469;T0470;470
+470;T0470;BRAUN-BLANQUET J.
+471;T0470;Vegetation des Baskenlandes II Teil.- Vegetatio
+472;T0470;Anagallido-Juncion
+473;T0470;Tetralici-Narthecietum
+474;T0470;XV 1-9
+475;T0470;9 relev‚s
+476;T0470;Corr. & A/D G.Roux 1995
+477;T0471;471
+478;T0471;BRAUN-BLANQUET J.
+479;T0471;Vegetationsskizzen aus dem Baskenland mit ausblicken auf das Weitere ibero-atlantikum. II Teil.- Vegetatio
+480;T0471;Anagallido-Juncion
+481;T0471;Carici composii-Calthetum palustris prov.
+482;T0471;XVI 1-2
+483;T0471;2 relev‚s
+484;T0471;A/D G.Roux 1995
+485;T0472;472
+486;T0472;BRAUN-BLANQUET J.
+487;T0472;Vegetation des Baskenlandes II Teil.- Vegetatio
+488;T0472;Anagallido-Juncion
+489;T0472;Hyperico-Isolepidetum fluitantis
+490;T0472;XVII 1-3
+491;T0472;3 relev‚s
+492;T0472;Corr. & A/D G.Roux 1995
+493;T0473;473
+494;T0473;BRAUN-BLANQUET J.
+495;T0473;Vegetation des Baskenlandes II Teil.- Vegetatio
+496;T0473;Anagallido-Juncion
+497;T0473;XVIII 1-3
+498;T0473;3 relev‚s
+499;T0473;Corr. & A/D G.Roux 1995
+500;T0474;474
+501;T0474;WATTEZ J.R.
+502;T0474;1978
+503;T0474;Les jun‡aies acidoclines … Juncus acutiflorus Erh. du Nord de la France.- Coll. Phytosoc., V: 319-338.
+504;T0474;Juncus acutiflorus parmi les groupements de l'Ericion tetralicis et de l'Hypericion elodis
+505;T0474;II 1-9  
+506;T0474;Corr. & A/D G.Roux 1994
+507;T0475;475
+508;T0475;FRILEUX P.N.
+509;T0475;1977
+510;T0475;Angelico-Cirsietum
+511;T0475;XIII 1-5
+512;T0475;5 relev‚s
+513;T0475;A/D et corrections par G.Roux 1994
+514;T0476;476
+515;T0476;FRILEUX P.N.
+516;T0476;Juncion
+517;T0476;Prairie hygro. … Juncus acutiflorus et Carum verticillatum
+518;T0476;XIV 1-20
+519;T0476;20 relev‚s
+520;T0476;A/D par G.Roux 1994
+521;T0477;477
+522;T0477;FRILEUX P.N.
+523;T0477;1977
+524;T0477;Gpmt … Saxifraga granulata & Bromus erectus
+525;T0477;XV 1-4
+526;T0477;4 relev‚s
+527;T0477;A/D par G.Roux 1994
+528;T0478;478
+529;T0478;FRILEUX P.N.
+530;T0478;1977
+531;T0478;Arrhenatherion
+532;T0478;XVI 1-13
+533;T0478;13 relev‚s
+534;T0478;A/D par G.Roux 1994
+535;T0479;479
+536;T0479;FRILEUX P.N.
+537;T0479;1977
+538;T0479;Lolio-Cynosuretum
+539;T0479;XVII 1-39
+540;T0479;39 relev‚s
+541;T0479;A/D par G.Roux 1994
+542;T0480;480
+543;T0480;FRILEUX P.N.
+544;T0480;1977
+545;T0480;Lolio-Cynosuretum
+546;T0480;XVIII 1-25
+547;T0480;25 relev‚s
+548;T0480;A/D par G.Roux 1994
+549;T0481;481
+550;T0481;FRILEUX P.N.
+551;T0481;1977
+552;T0481;Lolio-Plantaginetum majoris
+553;T0481;XLVIII 1-11
+554;T0481;11 relev‚s
+555;T0481;A/D par G.Roux 1994
+556;T0482;482
+557;T0482;  3 relev‚s
+558;T0482; 62 esp‚ces
+559;T0483;483
+560;T0483; 16 relev‚s
+561;T0483;125 esp‚ces
+562;T0484;484
+563;T0484; 28 relev‚s
+564;T0484;184 esp‚ces
+565;T0485;485
+566;T0485; 12 relev‚s
+567;T0485;136 esp‚ces
+568;T0486;486
+569;T0486;X
+570;T0486;MOLINIER R.
+571;T0486;1942
+572;T0486;Notes sur la Flore et la V‚g‚tation du Massif d'Allauch (Marseille). - Le Chˆne, 47: 1-15.
+573;T0486;Quercion ilicis
+574;T0486;X
+575;T0486;6
+576;T0486;1
+577;T0486;1
+578;T0486;M‚diterran‚en
+579;T0486;France
+580;T0486;Ch‚naie verte
+581;T0486;G.Roux
+582;T0487;487
+583;T0487;X
+584;T0487;MOLINIER R.
+585;T0487;1942
+586;T0487;Notes sur la Flore et la V‚g‚tation du Massif d'Allauch (Marseille). - Le Chˆne, 47: 1-15.
+587;T0487;Quercion ilicis
+588;T0487;Quercetum cocciferae subass. brachypodietosum
+589;T0487;7
+590;T0487;1
+591;T0487;1
+592;T0487;M‚diterran‚en
+593;T0487;France
+594;T0487;Ch‚naie verte
+595;T0487;G.Roux
+596;T0488;488
+597;T0488;X
+598;T0488;MOLINIER R.
+599;T0488;1942
+600;T0488;Notes sur la Flore et la V‚g‚tation du Massif d'Allauch (Marseille). - Le Chˆne, 47: 1-15.
+601;T0488;Quercion ilicis
+602;T0488;Quercetum cocciferae subass. rosmarinetosum
+603;T0488;7
+604;T0488;1
+605;T0488;1
+606;T0488;M‚diterran‚en
+607;T0488;France
+608;T0488;Ch‚naie verte
+609;T0488;G.Roux
+610;T0489;489
+611;T0489;X
+612;T0489;MOLINIER R.
+613;T0489;1942
+614;T0489;Notes sur la Flore et la V‚g‚tation du Massif d'Allauch (Marseille). - Le Chˆne, 47: 1-15.
+615;T0489;Rosmarino-Ericion
+616;T0489;Rosmarino-Lithospermetum
+617;T0489;10
+618;T0489;1
+619;T0489;1
+620;T0489;M‚diterran‚en
+621;T0489;France
+622;T0489;Garrigue
+623;T0489;G.Roux
+624;T0490;490
+625;T0490;X
+626;T0490;MOLINIER R.
+627;T0490;1942
+628;T0490;Notes sur la Flore et la V‚g‚tation du Massif d'Allauch (Marseille). - Le Chˆne, 47: 1-15.
+629;T0490;Aphyllanthion
+630;T0490;Deschampsietum mediae faciŠs … Prunella hyssopifolia
+631;T0490;11
+632;T0490;1
+633;T0490;1
+634;T0490;M‚diterran‚en
+635;T0490;France
+636;T0490;Pelouse calcaire … vivaces
+637;T0490;G.Roux
+638;T0491;491
+639;T0491;X
+640;T0491;MOLINIER R.
+641;T0491;1942
+642;T0491;Notes sur la Flore et la V‚g‚tation du Massif d'Allauch (Marseille). - Le Chˆne, 47: 1-15.
+643;T0491;Xerobromion
+644;T0491;Brachypodietum ramosi
+645;T0491;12
+646;T0491;1
+647;T0491;1
+648;T0491;M‚diterran‚en
+649;T0491;France
+650;T0491;Pelouse calcaire … vivaces
+651;T0491;G.Roux
+652;T0492;492
+653;T0492;X
+654;T0492;MOLINIER R.
+655;T0492;1973
+656;T0492;Les ‚tudes phytosociologiques en Provence cristalline. - Bull. Mus. Hist. Nat. Marseille, 23: 7-46.
+657;T0492;Quercion ilicis
+658;T0492;Quercetum mediterraneo-montanum
+659;T0492;18
+660;T0492;1
+661;T0492;1
+662;T0492;M‚diterran‚en
+663;T0492;France
+664;T0492;Chenaie verte
+665;T0492;G.Roux
+666;T0493;493
+667;T0493;X
+668;T0493;MOLINIER R.
+669;T0493;1973
+670;T0493;Les ‚tudes phytosociologiques en Provence cristalline. - Bull. Mus. Hist. Nat. Marseille, 23: 7-46.
+671;T0493;Quercion ilicis
+672;T0493;Quercetum mediterraneo-montanum
+673;T0493;18
+674;T0493;1
+675;T0493;1
+676;T0493;M‚diterran‚en
+677;T0493;France
+678;T0493;Chenaie verte
+679;T0493;G.Roux
+680;T0494;494
+681;T0494;X
+682;T0494;MOLINIER R.
+683;T0494;1973
+684;T0494;Les ‚tudes phytosociologiques en Provence cristalline. - Bull. Mus. Hist. Nat. Marseille, 23: 7-46.
+685;T0494;Quercion ilicis
+686;T0494;Quercetum ilicis pubescentosum
+687;T0494;19
+688;T0494;1
+689;T0494;1
+690;T0494;M‚diterran‚en
+691;T0494;France
+692;T0494;Chenaie verte
+693;T0494;G.Roux
+694;T0495;495
+695;T0495;X
+696;T0495;MOLINIER R.
+697;T0495;1973
+698;T0495;Les ‚tudes phytosociologiques en Provence cristalline. - Bull. Mus. Hist. Nat. Marseille, 23: 7-46.
+699;T0495;Quercion ilicis
+700;T0495;Quercetum pubescentis s.l.
+701;T0495;22
+702;T0495;1
+703;T0495;1
+704;T0495;M‚diterran‚en
+705;T0495;France
+706;T0495;Chenaie verte
+707;T0495;G.Roux
+708;T0496;496
+709;T0496;X
+710;T0496;MOLINIER R.
+711;T0496;1953
+712;T0496;Observations sur la v‚g‚tation de la presqu'ile de Giens (Var). - Bull. Mus. Hist. Nat. Marseille, 13: 57-69.
+713;T0496;Quercion ilicis (plutot Oleo-Ceratonion pour G.Roux)
+714;T0496;Quercetum ilicis
+715;T0496;59
+716;T0496;1
+717;T0496;1
+718;T0496;M‚diterran‚en
+719;T0496;France
+720;T0496;Chenaie verte
+721;T0496;G.Roux
+722;T0497;497
+723;T0497;X
+724;T0497;MOLINIER R.
+725;T0497;1953
+726;T0497;Observations sur la v‚g‚tation de la presqu'ile de Giens (Var). - Bull. Mus. Hist. Nat. Marseille, 13: 57-69.
+727;T0497;Oleo-Ceratonion (pluto Juniperion lyciae pour G.Roux)
+728;T0497;Oleo-Lentiscetum
+729;T0497;65
+730;T0497;1
+731;T0497;1
+732;T0497;M‚diterran‚en
+733;T0497;France
+734;T0497;Chenaie verte
+735;T0497;G.Roux
+736;T0498;498
+737;T0498;X
+738;T0498;MOLINIER R.
+739;T0498;1953
+740;T0498;Observations sur la v‚g‚tation de la presqu'ile de Giens (Var). - Bull. Mus. Hist. Nat. Marseille, 13: 57-69.
+741;T0498;Oleo-Ceratonion (pluto Juniperion lyciae pour G.Roux)
+742;T0498;Oleo-Lentiscetum
+743;T0498;66
+744;T0498;1
+745;T0498;1
+746;T0498;M‚diterran‚en
+747;T0498;France
+748;T0498;Chenaie verte
+749;T0498;G.Roux
+750;T0499;499
+751;T0499;X
+752;T0499;MOLINIER R.
+753;T0499;1965
+754;T0499;La v‚g‚tation des Monts Olympe, Aur‚lien et Regaignas (Var). Consid‚rations d'ensemble d'aprŠs la nouvelle carte au 1/20000 Š. - Bull. Mus. Hist. Nat. Marseille, 25: 5-24.
+755;T0499;Rosmarino-Ericion
+756;T0499;Rosmarino-Lithospermetum staehelinetosum
+757;T0499;7
+758;T0499;2
+759;T0499;01-févr
+760;T0499;M‚diterran‚en
+761;T0499;France
+762;T0499;Garrigue
+763;T0499;G.Roux
+764;T0500;500
+765;T0500;X
+766;T0500;MOLINIER R.
+767;T0500;1965
+768;T0500;La v‚g‚tation des Monts Olympe, Aur‚lien et Regaignas (Var). Consid‚rations d'ensemble d'aprŠs la nouvelle carte au 1/20000 Š. - Bull. Mus. Hist. Nat. Marseille, 25: 5-24.
+769;T0500;Lavandulo-Ericion
+770;T0500;X
+771;T0500;10
+772;T0500;1
+773;T0500;1
+774;T0500;M‚diterran‚en
+775;T0500;France
+776;T0500;Maquis … Erica scoparia
+777;T0500;G.Roux
+778;T0501;501
+779;T0501;X
+780;T0501;MOLINIER R.
+781;T0501;1965
+782;T0501;La v‚g‚tation des Monts Olympe, Aur‚lien et Regaignas (Var). Consid‚rations d'ensemble d'aprŠs la nouvelle carte au 1/20000 Š. - Bull. Mus. Hist. Nat. Marseille, 25: 5-24.
+783;T0501;Aphyllanthion
+784;T0501;Lavandulo-Astragaletum
+785;T0501;13
+786;T0501;1
+787;T0501;1
+788;T0501;M‚diterran‚en
+789;T0501;France
+790;T0501;Garrigue
+791;T0501;G.Roux
+792;T0502;502
+793;T0502;X
+794;T0502;MOLINIER R.
+795;T0502;1965
+796;T0502;La v‚g‚tation des Monts Olympe, Aur‚lien et Regaignas (Var). Consid‚rations d'ensemble d'aprŠs la nouvelle carte au 1/20000 Š. - Bull. Mus. Hist. Nat. Marseille, 25: 5-24.
+797;T0502;Rosmarino-Ericion
+798;T0502;X
+799;T0502;16
+800;T0502;1
+801;T0502;1
+802;T0502;M‚diterran‚en
+803;T0502;France
+804;T0502;Garrigue
+805;T0502;G.Roux
+806;T0503;503
+807;T0503;X
+808;T0503;MOLINIER R.
+809;T0503;1965
+810;T0503;La v‚g‚tation des Monts Olympe, Aur‚lien et Regaignas (Var). Consid‚rations d'ensemble d'aprŠs la nouvelle carte au 1/20000 Š. - Bull. Mus. Hist. Nat. Marseille, 25: 5-24.
+811;T0503;Diplotaxidion erucoidis
+812;T0503;X
+813;T0503;18
+814;T0503;1
+815;T0503;1
+816;T0503;M‚diterran‚en
+817;T0503;France
+818;T0503;Friche
+819;T0503;G.Roux
+820;T0504;504
+821;T0504;X
+822;T0504;MOLINIER R.
+823;T0504;1965
+824;T0504;La v‚g‚tation des Monts Olympe, Aur‚lien et Regaignas (Var). Consid‚rations d'ensemble d'aprŠs la nouvelle carte au 1/20000 Š. - Bull. Mus. Hist. Nat. Marseille, 25: 5-24.
+825;T0504;Quercion pubescentis
+826;T0504;X
+827;T0504;18
+828;T0504;1
+829;T0504;1
+830;T0504;M‚diterran‚en
+831;T0504;France
+832;T0504;Ch‚naie pubescente
+833;T0504;G.Roux
+834;T0505;505
+835;T0505;X
+836;T0505;MOLINIER R.
+837;T0505;1957
+838;T0505;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+839;T0505;Oleo-Ceratonion
+840;T0505;Oleo-Lenticetum
+841;T0505;I
+842;T0505;5
+843;T0505;01-mai
+844;T0505;M‚diterran‚en
+845;T0505;France
+846;T0505;Ch‚naie verte
+847;T0505;G.Roux
+848;T0506;506
+849;T0506;X
+850;T0506;MOLINIER R.
+851;T0506;1957
+852;T0506;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+853;T0506;Quercion ilicis
+854;T0506;Quercetum ilicis
+855;T0506;II
+856;T0506;16
+857;T0506;janv-16
+858;T0506;M‚diterran‚en
+859;T0506;France
+860;T0506;Ch‚naie verte
+861;T0506;G.Roux

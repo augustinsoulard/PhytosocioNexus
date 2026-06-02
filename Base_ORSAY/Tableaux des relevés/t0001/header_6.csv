@@ -1,0 +1,992 @@
+;"strsplit(filename, ""\\."")[[1]][1]";header
+1;T0507;507
+2;T0507;X
+3;T0507;MOLINIER R.
+4;T0507;1957
+5;T0507;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+6;T0507;Quercion pubescentis
+7;T0507;Quercetum pubescentis
+8;T0507;53
+9;T0507;1
+10;T0507;1
+11;T0507;M‚diterran‚en
+12;T0507;France
+13;T0507;Ch‚naie pubescente
+14;T0507;G.Roux
+15;T0508;508
+16;T0508;X
+17;T0508;MOLINIER R.
+18;T0508;1957
+19;T0508;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+20;T0508;Quercion ilicis
+21;T0508;Erico-Arbutetum
+22;T0508;54
+23;T0508;1
+24;T0508;1
+25;T0508;M‚diterran‚en
+26;T0508;France
+27;T0508;Maquis
+28;T0508;G.Roux
+29;T0509;509
+30;T0509;X
+31;T0509;MOLINIER R.
+32;T0509;1957
+33;T0509;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+34;T0509;Quercion ilicis
+35;T0509;Erico-Arbutetum
+36;T0509;III
+37;T0509;3
+38;T0509;01-mars
+39;T0509;M‚diterran‚en
+40;T0509;France
+41;T0509;Maquis
+42;T0509;G.Roux
+43;T0510;510
+44;T0510;X
+45;T0510;MOLINIER R.
+46;T0510;1957
+47;T0510;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+48;T0510;Rosmarino-Ericion
+49;T0510;Rosmarino-Lithospermetum
+50;T0510;IV
+51;T0510;3
+52;T0510;01-mars
+53;T0510;M‚diterran‚en
+54;T0510;France
+55;T0510;Garrigue
+56;T0510;G.Roux
+57;T0511;511
+58;T0511;X
+59;T0511;MOLINIER R.
+60;T0511;1957
+61;T0511;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+62;T0511;Aphyllanthion
+63;T0511;X
+64;T0511;59
+65;T0511;1
+66;T0511;1
+67;T0511;M‚diterran‚en
+68;T0511;France
+69;T0511;Garrigue
+70;T0511;G.Roux
+71;T0512;512
+72;T0512;X
+73;T0512;MOLINIER R.
+74;T0512;1957
+75;T0512;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+76;T0512;Rosmarino-Ericion
+77;T0512;X
+78;T0512;59
+79;T0512;1
+80;T0512;1
+81;T0512;M‚diterran‚en
+82;T0512;France
+83;T0512;Garrigue … Juniperus
+84;T0512;G.Roux
+85;T0513;513
+86;T0513;X
+87;T0513;MOLINIER R.
+88;T0513;1957
+89;T0513;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+90;T0513;Rosmarino-Ericion
+91;T0513;Helianthemo-Ericetum
+92;T0513;V
+93;T0513;13
+94;T0513;janv-13
+95;T0513;M‚diterran‚en
+96;T0513;France
+97;T0513;Garrigue … Erica multiflora
+98;T0513;G.Roux
+99;T0514;514
+100;T0514;X
+101;T0514;MOLINIER R.
+102;T0514;1957
+103;T0514;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+104;T0514;Genistion lobelii
+105;T0514;Genistetum lobelii
+106;T0514;VI
+107;T0514;3
+108;T0514;01-mars
+109;T0514;M‚diterran‚en
+110;T0514;France
+111;T0514;Garrigue
+112;T0514;G.Roux
+113;T0515;515
+114;T0515;X
+115;T0515;MOLINIER R.
+116;T0515;1957
+117;T0515;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+118;T0515;Brachypodion phoenicoidis
+119;T0515;Brachypodietum phoenicoidis
+120;T0515;63
+121;T0515;1
+122;T0515;1
+123;T0515;M‚diterran‚en
+124;T0515;France
+125;T0515;Prairie … vivaces
+126;T0515;G.Roux
+127;T0516;516
+128;T0516;X
+129;T0516;MOLINIER R.
+130;T0516;1957
+131;T0516;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+132;T0516;Helianthemion guttati
+133;T0516;X ( relev‚ partiel )
+134;T0516;64
+135;T0516;1
+136;T0516;1
+137;T0516;M‚diterran‚en
+138;T0516;France
+139;T0516;Pelouse … annuelles
+140;T0516;G.Roux
+141;T0517;517
+142;T0517;X
+143;T0517;MOLINIER R.
+144;T0517;1957
+145;T0517;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+146;T0517;Thero-Brachypodion
+147;T0517;X
+148;T0517;64
+149;T0517;1
+150;T0517;1
+151;T0517;M‚diterran‚en
+152;T0517;France
+153;T0517;Pelouse … th‚rophytes
+154;T0517;G.Roux
+155;T0518;518
+156;T0518;X
+157;T0518;MOLINIER R.
+158;T0518;1957
+159;T0518;La v‚g‚tation du bassin synclinal de La Ciotat-Le Beausset (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 17: 45-71.
+160;T0518;Asplenion petrarchae
+161;T0518;Phagnalo-Asplenietum glandulosi
+162;T0518;VII
+163;T0518;4
+164;T0518;01-avr
+165;T0518;M‚diterran‚en
+166;T0518;France
+167;T0518;Rochers calcaires
+168;T0518;G.Roux
+169;T0519;519
+170;T0519;X
+171;T0519;MOLINIER R.
+172;T0519;1960
+173;T0519;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+174;T0519;Quercion ilicis
+175;T0519;Quercetum ilicis galloprovinciale
+176;T0519;18
+177;T0519;5
+178;T0519;01-mai
+179;T0519;M‚diterran‚en
+180;T0519;France
+181;T0519;Chˆnaie verte
+182;T0519;G.Roux
+183;T0520;520
+184;T0520;X
+185;T0520;MOLINIER R.
+186;T0520;1960
+187;T0520;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+188;T0520;Rosmarino-Ericion
+189;T0520;Rosmarino-Lithospermetum fragmentaire
+190;T0520;21
+191;T0520;1
+192;T0520;1
+193;T0520;M‚diterran‚en
+194;T0520;France
+195;T0520;Garrigue
+196;T0520;G.Roux
+197;T0521;521
+198;T0521;X
+199;T0521;MOLINIER R.
+200;T0521;1960
+201;T0521;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+202;T0521;Rosmarino-Ericion
+203;T0521;X
+204;T0521;21
+205;T0521;1
+206;T0521;1
+207;T0521;M‚diterran‚en
+208;T0521;France
+209;T0521;Garrigue … Juniperus oxycedrus
+210;T0521;G.Roux
+211;T0522;522
+212;T0522;X
+213;T0522;MOLINIER R.
+214;T0522;1960
+215;T0522;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+216;T0522;Rosmarino-Ericion
+217;T0522;X
+218;T0522;22
+219;T0522;1
+220;T0522;1
+221;T0522;M‚diterran‚en
+222;T0522;France
+223;T0522;Garrigue … Erica multiflora
+224;T0522;G.Roux
+225;T0523;523
+226;T0523;X
+227;T0523;MOLINIER R.
+228;T0523;1960
+229;T0523;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+230;T0523;Rosmarino-Ericion
+231;T0523;X
+232;T0523;23
+233;T0523;2
+234;T0523;01-févr
+235;T0523;M‚diterran‚en
+236;T0523;France
+237;T0523;Garrigue … Erica scoparia
+238;T0523;G.Roux
+239;T0524;524
+240;T0524;X
+241;T0524;MOLINIER R.
+242;T0524;1960
+243;T0524;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+244;T0524;Rosmarino-Ericion
+245;T0524;X
+246;T0524;24
+247;T0524;1
+248;T0524;1
+249;T0524;M‚diterran‚en
+250;T0524;France
+251;T0524;Garrigue … Erica scoparia
+252;T0524;G.Roux
+253;T0525;525
+254;T0525;X
+255;T0525;MOLINIER R.
+256;T0525;1960
+257;T0525;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+258;T0525;Quercion pubescentis ( stade de d‚grad. )
+259;T0525;X
+260;T0525;25
+261;T0525;2
+262;T0525;01-févr
+263;T0525;M‚diterran‚en
+264;T0525;France
+265;T0525;Garrigue … Erica scoparia
+266;T0525;G.Roux
+267;T0526;526
+268;T0526;X
+269;T0526;MOLINIER R.
+270;T0526;1960
+271;T0526;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+272;T0526;Rosmarino-Ericion ?
+273;T0526;X
+274;T0526;26
+275;T0526;1
+276;T0526;1
+277;T0526;M‚diterran‚en
+278;T0526;France
+279;T0526;Lande … Calluna
+280;T0526;G.Roux
+281;T0527;527
+282;T0527;X
+283;T0527;MOLINIER R.
+284;T0527;1960
+285;T0527;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+286;T0527;Brachypodion phoenicoidis ?
+287;T0527;X
+288;T0527;30
+289;T0527;1
+290;T0527;1
+291;T0527;M‚diterran‚en
+292;T0527;France
+293;T0527;Pelouse … Stipa aristella
+294;T0527;G.Roux
+295;T0528;528
+296;T0528;X
+297;T0528;MOLINIER R.
+298;T0528;1960
+299;T0528;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+300;T0528;Quercion pubescentis
+301;T0528;Querceto-Buxetum
+302;T0528;31
+303;T0528;3
+304;T0528;01-mars
+305;T0528;M‚diterran‚en
+306;T0528;France
+307;T0528;Chˆnaie pubescente
+308;T0528;G.Roux
+309;T0529;529
+310;T0529;X
+311;T0529;MOLINIER R.
+312;T0529;1960
+313;T0529;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+314;T0529;Genistion lobelii
+315;T0529;Genistetum lobelii
+316;T0529;37
+317;T0529;1
+318;T0529;1
+319;T0529;M‚diterran‚en
+320;T0529;France
+321;T0529;Garrigue
+322;T0529;G.Roux
+323;T0530;530
+324;T0530;X
+325;T0530;MOLINIER R.
+326;T0530;1960
+327;T0530;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+328;T0530;Asplenion glandulosi
+329;T0530;Sileno-Asplenietum fontani
+330;T0530;38
+331;T0530;2
+332;T0530;01-févr
+333;T0530;M‚diterran‚en
+334;T0530;France
+335;T0530;Rochers calcaires
+336;T0530;G.Roux
+337;T0531;531
+338;T0531;X
+339;T0531;MOLINIER R.
+340;T0531;1960
+341;T0531;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+342;T0531;Asplenion glandulosi
+343;T0531;Linario-Galietum pusilli
+344;T0531;38
+345;T0531;1
+346;T0531;1
+347;T0531;M‚diterran‚en
+348;T0531;France
+349;T0531;Rochers calcaires
+350;T0531;G.Roux
+351;T0532;532
+352;T0532;X
+353;T0532;MOLINIER R.
+354;T0532;1960
+355;T0532;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+356;T0532;Alno-Ulmion
+357;T0532;X
+358;T0532;39
+359;T0532;1
+360;T0532;1
+361;T0532;M‚diterran‚en
+362;T0532;France
+363;T0532;Ripisilve
+364;T0532;G.Roux
+365;T0533;533
+366;T0533;X
+367;T0533;MOLINIER R.
+368;T0533;1960
+369;T0533;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+370;T0533;Molinio-Holoschoenion
+371;T0533;Molinietum mediterraneum
+372;T0533;40
+373;T0533;2
+374;T0533;01-févr
+375;T0533;M‚diterran‚en
+376;T0533;France
+377;T0533;Prairies humides
+378;T0533;G.Roux
+379;T0534;534
+380;T0534;X
+381;T0534;MOLINIER R.
+382;T0534;1960
+383;T0534;Le massif de Mourre d'Agnis (Var). Monographies phytosociologiques. - Bull. Mus. Hist. Nat. Marseille, 20: 5-42.
+384;T0534;Deschampsion mediae
+385;T0534;Deschampsietum mediae
+386;T0534;40
+387;T0534;1
+388;T0534;1
+389;T0534;M‚diterran‚en
+390;T0534;France
+391;T0534;Prairies humides
+392;T0534;G.Roux
+393;T0535;535
+394;T0535;X
+395;T0535;SAIDI N.
+396;T0535;1984
+397;T0535;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+398;T0535;Quercion ilicis
+399;T0535;Viburno-Quercetum ilicis
+400;T0535;XV
+401;T0535;7
+402;T0535;01-juil
+403;T0535;M‚diterran‚en
+404;T0535;Alg‚rie
+405;T0535;Ch‚naie verte
+406;T0535;G.Roux
+407;T0536;536
+408;T0536;X
+409;T0536;SAIDI N.
+410;T0536;1984
+411;T0536;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+412;T0536;Quercion ilicis
+413;T0536;Myrto-Quercetum suberis
+414;T0536;XVI
+415;T0536;14
+416;T0536;janv-14
+417;T0536;M‚diterran‚en
+418;T0536;Alg‚rie
+419;T0536;Ch‚naie liŠge
+420;T0536;G.Roux
+421;T0537;537
+422;T0537;X
+423;T0537;SAIDI N.
+424;T0537;1984
+425;T0537;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+426;T0537;Oleo-Ceratonion
+427;T0537;X
+428;T0537;XVII
+429;T0537;7
+430;T0537;01-juil
+431;T0537;M‚diterran‚en
+432;T0537;Alg‚rie
+433;T0537;Haies
+434;T0537;G.Roux
+435;T0538;538
+436;T0538;X
+437;T0538;SAIDI N.
+438;T0538;1984
+439;T0538;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+440;T0538;Oleo-Ceratonion
+441;T0538;Oleo-Lentiscetum
+442;T0538;XVIII
+443;T0538;24
+444;T0538;janv-24
+445;T0538;M‚diterran‚en
+446;T0538;Alg‚rie
+447;T0538;Ch‚naie verte
+448;T0538;G.Roux
+449;T0539;539
+450;T0539;X
+451;T0539;SAIDI N.
+452;T0539;1984
+453;T0539;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+454;T0539;Cistion ?
+455;T0539;X
+456;T0539;XIX
+457;T0539;15
+458;T0539;janv-15
+459;T0539;M‚diterran‚en
+460;T0539;Alg‚rie
+461;T0539;Maquis … Cistes
+462;T0539;G.Roux
+463;T0540;540
+464;T0540;X
+465;T0540;SAIDI N.
+466;T0540;1984
+467;T0540;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+468;T0540;Cistion ?
+469;T0540;X
+470;T0540;XX
+471;T0540;25
+472;T0540;janv-25
+473;T0540;M‚diterran‚en
+474;T0540;Alg‚rie
+475;T0540;Maquis … Cistes
+476;T0540;G.Roux
+477;T0541;541
+478;T0541;X
+479;T0541;SAIDI N.
+480;T0541;1984
+481;T0541;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+482;T0541;Cistion ?
+483;T0541;X
+484;T0541;XX
+485;T0541;2
+486;T0541;26-27
+487;T0541;M‚diterran‚en
+488;T0541;Alg‚rie
+489;T0541;Maquis … Genista tricusp.
+490;T0541;G.Roux
+491;T0542;542
+492;T0542;X
+493;T0542;SAIDI N.
+494;T0542;1984
+495;T0542;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+496;T0542;Cistion ?
+497;T0542;X
+498;T0542;XX
+499;T0542;2
+500;T0542;28-29
+501;T0542;M‚diterran‚en
+502;T0542;Alg‚rie
+503;T0542;Maquis … Chamaerops
+504;T0542;G.Roux
+505;T0543;543
+506;T0543;X
+507;T0543;SAIDI N.
+508;T0543;1984
+509;T0543;Dynamique de la v‚g‚tation du maquis dans les chaines du Dj. Zerouela et du Dj. Bou-Zezga (Atlas tellien). - ThŠse Ing‚n. Agron., Inst. Nation. Agron. Alger : 131 p.
+510;T0543;Oleo-Ceratonion
+511;T0543;X
+512;T0543;XXI
+513;T0543;4
+514;T0543;01-avr
+515;T0543;M‚diterran‚en
+516;T0543;Alg‚rie
+517;T0543;PinŠde … Pin d'Alep
+518;T0543;G.Roux
+519;T0544;544
+520;T0544;X
+521;T0544;BOUDOURESQUE E.
+522;T0544;1978
+523;T0544;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+524;T0544;Rosmarino-Ericion
+525;T0544;Genisto-Ericetum multiflorae subass. oleo-micromerietosum nervosae
+526;T0544;III
+527;T0544;21
+528;T0544;janv-21
+529;T0544;M‚diterran‚en
+530;T0544;Tunisie
+531;T0544;Garrigue
+532;T0544;G.Roux
+533;T0545;545
+534;T0545;X
+535;T0545;BOUDOURESQUE E.
+536;T0545;1978
+537;T0545;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+538;T0545;Rosmarino-Ericion
+539;T0545;Genisto-Ericetum multiflorae subass. typicum
+540;T0545;III
+541;T0545;49
+542;T0545;22-70
+543;T0545;M‚diterran‚en
+544;T0545;Tunisie
+545;T0545;Garrigue
+546;T0545;G.Roux
+547;T0546;546
+548;T0546;X
+549;T0546;BOUDOURESQUE E.
+550;T0546;1978
+551;T0546;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+552;T0546;Rosmarino-Ericion
+553;T0546;Genisto-Ericetum multiflorae subass. odontito-onobrychietosum palasii
+554;T0546;III
+555;T0546;3
+556;T0546;71-73
+557;T0546;M‚diterran‚en
+558;T0546;Tunisie
+559;T0546;Garrigue
+560;T0546;G.Roux
+561;T0547;547
+562;T0547;X
+563;T0547;BOUDOURESQUE E.
+564;T0547;1978
+565;T0547;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+566;T0547;Rosmarino-Ericion
+567;T0547;Polygalo-Paronychietum capitatae
+568;T0547;IV
+569;T0547;3
+570;T0547;01-mars
+571;T0547;M‚diterran‚en
+572;T0547;Tunisie
+573;T0547;Garrigue
+574;T0547;G.Roux
+575;T0548;548
+576;T0548;X
+577;T0548;BOUDOURESQUE E.
+578;T0548;1978
+579;T0548;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+580;T0548;Rosmarino-Ericion
+581;T0548;Fumano-Astragaletum armati
+582;T0548;IV
+583;T0548;17
+584;T0548;avr-20
+585;T0548;M‚diterran‚en
+586;T0548;Tunisie
+587;T0548;Garrigue
+588;T0548;G.Roux
+589;T0549;549
+590;T0549;X
+591;T0549;BOUDOURESQUE E.
+592;T0549;1978
+593;T0549;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+594;T0549;Rosmarino-Ericion
+595;T0549;X
+596;T0549;IV
+597;T0549;3
+598;T0549;21-23
+599;T0549;M‚diterran‚en
+600;T0549;Tunisie
+601;T0549;Garrigue
+602;T0549;G.Roux
+603;T0550;550
+604;T0550;X
+605;T0550;BOUDOURESQUE E.
+606;T0550;1978
+607;T0550;Etude bioclimatique et phytosociologique de l'ensemble orographique du Djebel Mansour (Tunisie). - ThŠse Doct. 3Š Cycle, Aix-Marseille III: 154 p.
+608;T0550;Rosmarino-Ericion
+609;T0550;X
+610;T0550;IV
+611;T0550;7
+612;T0550;24-30
+613;T0550;M‚diterran‚en
+614;T0550;Tunisie
+615;T0550;Maquis … Cistes
+616;T0550;G.Roux
+617;T0551;551
+618;T0551;LEMEE G.
+619;T0551;1937
+620;T0551;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+621;T0551;Caricion davallianae
+622;T0551;Schoeno-juncetum obtusiflori
+623;T0551;XXXVIII 1-20
+624;T0551;Corr., A/D & Bryophytes G.Roux 1994
+625;T0552;552
+626;T0552;LEMEE G.
+627;T0552;1937
+628;T0552;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+629;T0552;Caricion davallianae
+630;T0552;Schoeno-Juncetum hypnetosum
+631;T0552;IXL 1-5
+632;T0552;Corr., A/D & Bryophytes G.Roux 1994
+633;T0553;553
+634;T0553;LEMEE G.
+635;T0553;1937
+636;T0553;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+637;T0553;Caricion fuscae
+638;T0553;Juncetum silvatici var. des tourbiŠres
+639;T0553;XL 1-11
+640;T0553;G.Roux 1994 A/D Bryophytes
+641;T0554;554
+642;T0554;LEMEE G.
+643;T0554;1937
+644;T0554;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+645;T0554;Caricion fuscae
+646;T0554;Juncetum silvatici var. des ‚tangs
+647;T0554;XLI 1-3
+648;T0554;Corr., A/D G.Roux 1994
+649;T0555;555
+650;T0555;LEMEE G.
+651;T0555;1937
+652;T0555;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+653;T0555;Molinion
+654;T0555;Molinietum coeruleae atlanticum
+655;T0555;XLII 1-7
+656;T0555;A/D & Bryophytes G.Roux 1994
+657;T0556;556
+658;T0556;LEMEE G.
+659;T0556;1937
+660;T0556;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+661;T0556;Molinion
+662;T0556;Molinietum caeruleae atlanticum var. des tourbiŠres acides et des clairiŠres
+663;T0556;XLIII 1-10
+664;T0556;A/D & Corrections G.Roux 1994
+665;T0557;557
+666;T0557;LEMEE G.
+667;T0557;1937
+668;T0557;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+669;T0557;Molinion
+670;T0557;Molinietum coeruleae atlanticum var. des ‚tangs
+671;T0557;XLIV 1-5
+672;T0557;Corr., A/D & Bryophytes G.Roux 1994
+673;T0558;558
+674;T0558;LEMEE G.
+675;T0558;1937
+676;T0558;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+677;T0558;Molinion coeruleae
+678;T0558;Agrostidetum caninae
+679;T0558;XLV 1-5
+680;T0558;Corr., A/D G.Roux 1994
+681;T0559;559
+682;T0559;LEMEE G.
+683;T0559;1937
+684;T0559;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+685;T0559;Molinion
+686;T0559;Parvocaricetum distantis
+687;T0559;XLVI 1-4
+688;T0559;A/D G.Roux 1994
+689;T0560;560
+690;T0560;LEMEE G.
+691;T0560;1937
+692;T0560;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+693;T0560;Ericion tetralicis
+694;T0560;Tetralici-Sphagnetum
+695;T0560;L 1-15
+696;T0560;A/D & Bryophytes G.Roux 1994
+697;T0561;561
+698;T0561;LEMEE G.
+699;T0561;1937
+700;T0561;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+701;T0561;Ericion tetralicis
+702;T0561;Tetralici-Sphagnetum narthecietosum
+703;T0561;LI 1-3
+704;T0561;A/D & Bryophytes G.Roux 1994
+705;T0562;562
+706;T0562;LEMEE G.
+707;T0562;1937
+708;T0562;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+709;T0562;Ericion tetralicis
+710;T0562;Tetralici-Ulicetum nani
+711;T0562;LII 1-8
+712;T0562;A/D & Bryophytes G.Roux 1994
+713;T0563;563
+714;T0563;LEMEE G.
+715;T0563;1937
+716;T0563;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+717;T0563;Erico-Ulicion
+718;T0563;Calluno-Ericetum cinereae
+719;T0563;LIII 1-10
+720;T0563;Corr., A/D & Bryophytes G.Roux 1994
+721;T0564;564
+722;T0564;LEMEE G.
+723;T0564;1937
+724;T0564;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+725;T0564;Erico-Ulicion
+726;T0564;Calluno-Ericetum cinereae faciŠs … Calluna & Hypnac‚es
+727;T0564;LIV 1-2
+728;T0564;Corr., A/D & Bryophytes G.Roux 1994
+729;T0565;565
+730;T0565;LEMEE G.
+731;T0565;1937
+732;T0565;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+733;T0565;X
+734;T0565;X Plantations de Pins var. sur sols calcaires
+735;T0565;LXVII 1-6
+736;T0565;A/D & Bryophytes G.Roux 1994
+737;T0566;566
+738;T0566;LEMEE G.
+739;T0566;1937
+740;T0566;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+741;T0566;X
+742;T0566;X Plantations de pins var. sur sols acides
+743;T0566;LXVIII 1-11
+744;T0566;Corr., A/D & Bryophytes G.Roux 1994
+745;T0567;567
+746;T0567;LEMEE G.
+747;T0567;1937
+748;T0567;Recherches ‚cologiques sur la v‚g‚tation du perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+749;T0567;Quercion robori-petraea
+750;T0567;Quercetum roboris parisiense
+751;T0567;LXXVIII 1-10 
+752;T0567;A/D & Bryophytes G.Roux 1994
+753;T0568;568
+754;T0568;LEMEE G.
+755;T0568;1937
+756;T0568;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+757;T0568;Quercion robori-petraea
+758;T0568;Querceto-Holcetum mollis
+759;T0568;LXXIX 1-13
+760;T0568;Corr., A/D & Bryophytes G.Roux 1994
+761;T0569;569
+762;T0569;LEMEE G.
+763;T0569;1937
+764;T0569;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+765;T0569;Quercion robori-petraea
+766;T0569;Quercetum sessiliflorae occidentale
+767;T0569;LXXX 1-16
+768;T0569;Corr., A/D & Bryophytes G.Roux 1994
+769;T0570;570
+770;T0570;LEMEE G.
+771;T0570;1937
+772;T0570;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Univ. Paris, Lib. G‚n. Enseign.
+773;T0570;Quercion robori-petraeae
+774;T0570;Quercetum sessiliflorae occidentale ilicetosum
+775;T0570;LXXXI 1-17
+776;T0570;A/D & Bryophytes G.Roux 1994
+777;T0571;571
+778;T0571;LEMEE G.
+779;T0571;1937
+780;T0571;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Sci. Nat., Univ. Paris.
+781;T0571;Alno-Padion
+782;T0571;Alno-Caricetum remotae
+783;T0571;CV 1-10
+784;T0571;10
+785;T0571;France
+786;T0571;Ripisylves
+787;T0571;Bensettiti F. em. Roux G.
+788;T0572;572
+789;T0572;LEMEE G.
+790;T0572;1937
+791;T0572;Recherches ‚cologiques sur la v‚g‚tation du Perche.- ThŠse Doct. Sci. Nat., Univ. Paris
+792;T0572;Alnion glutinosae
+793;T0572;Alno-Macrophorbietum
+794;T0572;CVII 1-10
+795;T0572;10
+796;T0572;France
+797;T0572;Ripisylves
+798;T0572;Bensettiti F. corr. Roux G.
+799;T0573;573
+800;T0573;1937
+801;T0573;LEMEE G.
+802;T0573;  7 relev‚s
+803;T0573; 35 esp‚ces
+804;T0573;G.Roux A/D et impl‚ment‚ des Bryophytes
+805;T0574;574
+806;T0574; 16 relev‚s
+807;T0574;129 esp‚ces
+808;T0575;575
+809;T0575;  5 relev‚s
+810;T0575; 67 esp‚ces
+811;T0576;576
+812;T0576; 30 relev‚s
+813;T0576;132 esp‚ces
+814;T0577;577
+815;T0577; 26 relev‚s
+816;T0577;175 esp‚ces
+817;T0578;578
+818;T0578; 21 relev‚s
+819;T0578; 39 esp‚ces
+820;T0579;579
+821;T0579; 39 relev‚s
+822;T0579; 55 esp‚ces
+823;T0580;580
+824;T0580;  2 relev‚s
+825;T0580; 36 esp‚ces
+826;T0581;581
+827;T0581; 33 relev‚s
+828;T0581; 95 esp‚ces
+829;T0582;582
+830;T0582; 17 relev‚s
+831;T0582; 79 esp‚ces
+832;T0583;583
+833;T0583; 24 relev‚s
+834;T0583; 67 esp‚ces
+835;T0584;584
+836;T0584;X
+837;T0584;BRAUN-BLANQUET J. & BOLOS O. DE
+838;T0584;1950
+839;T0584;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+840;T0584;Quercion pubescenti-sessiliflorae
+841;T0584;Violo-Quercetum valentinae
+842;T0584;338
+843;T0584;1
+844;T0584;1
+845;T0584;Buxaie
+846;T0584;M‚diterran‚en
+847;T0584;Espagne
+848;T0584;Catalogne
+849;T0584;G.Roux
+850;T0585;585
+851;T0585;X
+852;T0585;BRAUN-BLANQUET J. & BOLOS O. DE
+853;T0585;1950
+854;T0585;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+855;T0585;Quercion ilicis
+856;T0585;Quercetum cocciferae
+857;T0585;339
+858;T0585;1
+859;T0585;1
+860;T0585;ChŠnaie … Ch. kermŠs
+861;T0585;M‚diterran‚en
+862;T0585;Espagne
+863;T0585;Catalogne
+864;T0585;G.Roux
+865;T0586;586
+866;T0586;X
+867;T0586;BRAUN-BLANQUET J. & BOLOS O. DE
+868;T0586;1950
+869;T0586;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+870;T0586;Rosmarino-Ericion
+871;T0586;Erico-Thymeleetum tinctoriae
+872;T0586;339
+873;T0586;1
+874;T0586;1
+875;T0586;Garrigue
+876;T0586;M‚diterran‚en
+877;T0586;Espagne
+878;T0586;Catalogne
+879;T0586;G.Roux
+880;T0587;587
+881;T0587; 14 relev‚s
+882;T0587; 54 esp‚ces
+883;T0588;588
+884;T0588;GEHU J.M. & FOUCAULT B. DE
+885;T0588;1978
+886;T0588;Les pelouses … Tortula ruraliformis des dunes du Nord-Ouest de la France.- Coll. Phytosoc., VI, Les pelouses sŠches, Lille, 1977: 269-273.
+887;T0588;Koelerion albescentis
+888;T0588;Hornungio-Tortuletum ruraliformis
+889;T0588;I 1-19
+890;T0588;Corr. & A/D G.Roux 1994
+891;T0589;589
+892;T0589;GEHU J.M. & FOUCAULT B. DE
+893;T0589;1978
+894;T0589;Les pelouses … Tortula ruraliformis des dunes du Nord-Ouest de la France.- Coll.Phytosoc., VI, Les pelouses sŠches, Lille, 1977: 269-273.
+895;T0589;Koelerion albescentis
+896;T0589;Hornungio-Tortuletum ruraliformis race … Armeria plantaginea
+897;T0589;II 1-21
+898;T0589;Corr. & A/D G.Roux 1994
+899;T0590;590
+900;T0590;GEHU J.M. & FOUCAULT B. DE
+901;T0590;1978
+902;T0590;Les pelouses … Tortula ruraliformis des dunes du Nord-Ouest de la France.- Coll. Phytosoc., VI, Les pelouses sŠches, Lille, 1977: 269273.
+903;T0590;Koelerion albescentis 
+904;T0590;Phleo-Tortuletum ruraliformis
+905;T0590;III 1-57
+906;T0590;Corr. & A/D G.Roux 1994
+907;T0591;591
+908;T0591;VANDEN BERGHEN C. 
+909;T0591;1958
+910;T0591;Etude sur la v‚g‚tation des dunes et des landes de la Bretagne.- Vegetatio, VIII: 193-208.
+911;T0591;Koelerion albescentis
+912;T0591;Helichrysetum stoechadis
+913;T0591;II 1-11
+914;T0591;Corr. & A/D G.Roux 1994
+915;T0592;592
+916;T0592;CELINSKI F., BABCZYNSKA B. & MAGIERA A.
+917;T0592;1978
+918;T0592;Les pelouse psammophiles … Armeria elongata prŠs de Myslowice (Plateau sil‚sien, Pologne).- Coll. Phytosoc., VI, Lille, 1977: 123-131.
+919;T0592;Armerion elongatae
+920;T0592;Diantho-Armerietum
+921;T0592;I 1-32
+922;T0592;Corr. & A/D G.Roux 1994
+923;T0593;593
+924;T0593; 11 relev‚s
+925;T0593; 33 esp‚ces
+926;T0593;G.Roux 1989
+927;T0594;594
+928;T0594; 15 relev‚s
+929;T0594; 54 esp‚ces
+930;T0594;G.Roux 1989
+931;T0595;595
+932;T0595; 18 relev‚s
+933;T0595; 51 esp‚ces
+934;T0596;596
+935;T0596; 13 relev‚s
+936;T0596; 93 esp‚ces
+937;T0597;597
+938;T0597; 14 relev‚s
+939;T0597; 81 esp‚ces
+940;T0598;598
+941;T0598; 12 relev‚s
+942;T0598; 63 esp‚ces
+943;T0599;599
+944;T0599; 15 relev‚s
+945;T0599; 88 esp‚ces
+946;T0600;600
+947;T0600; 13 relev‚s
+948;T0600;111 esp‚ces
+949;T0601;601
+950;T0601;SHIMWELL D.W.
+951;T0601;1971
+952;T0601; 70 relev‚s
+953;T0601;Corr., Bryophytes & A/D G.Roux 1994
+954;T0602;602
+955;T0602;SHIMWELL D.W.
+956;T0602;1971
+957;T0602;Vegetatio
+958;T0602; 63 relev‚s
+959;T0602;Corr., A/D & Bryophytes G.Roux 1994
+960;T0603;603
+961;T0603;SHIMWELL D.W.
+962;T0603;1971
+963;T0603;Vegetatio
+964;T0603;Caricetum montanae
+965;T0603;VIII 1-7
+966;T0603;Corr., A/D & Bryophytes G.Roux 1994
+967;T0604;604
+968;T0604;SHIMWELL D.W
+969;T0604;1971
+970;T0604;Vegetatio
+971;T0604;Antennarietum hibernicae
+972;T0604;IX 1-7  
+973;T0604;Corr., A/D & Bryophytes G.Roux 1994
+974;T0605;605
+975;T0605;SHIMWELL D.W.
+976;T0605;1971
+977;T0605;Vegetatio
+978;T0605;Camptothecio-Asperuletum cynanchicae
+979;T0605;X 1-15
+980;T0605;Corr., A/D & Bryophytes G.Roux 1994
+981;T0606;606
+982;T0606;STOTT P.A.
+983;T0606;1971
+984;T0606;A Mesobrometum referable to the subassociation Mesobrometum seslerio-polygaletosum Tx. described for the Somme valley.- Vegetatio, XXIII, 1-2: 61-70.
+985;T0606;Mesobromion
+986;T0606;Mesobrometum seslerio-polygaletosum
+987;T0606;I 1-6
+988;T0606;A/D & Bryophytes G.Roux 1994
+989;T0607;607
+990;T0607; 21 relev‚s
+991;T0607;162 esp‚ces

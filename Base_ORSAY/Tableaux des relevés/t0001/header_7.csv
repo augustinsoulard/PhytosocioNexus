@@ -1,0 +1,779 @@
+;"strsplit(filename, ""\\."")[[1]][1]";header
+1;T0608;608
+2;T0608; 60 relev‚s
+3;T0608; 93 esp‚ces
+4;T0609;609
+5;T0609; 54 relev‚s
+6;T0609; 77 esp‚ces
+7;T0610;610
+8;T0610;TOMBAL P.
+9;T0610;1974
+10;T0610;Pelouses calcaires des c“tes de l'Automne
+11;T0610;Mesobromion
+12;T0610;I 1-11
+13;T0610;Corr. & A/D G.Roux 1994
+14;T0611;611
+15;T0611; 21 relev‚s
+16;T0611; 92 esp‚ces
+17;T0612;612
+18;T0612;GAMISANS J.
+19;T0612;1977
+20;T0612;Anthyllion hermanniae
+21;T0612;Helichryso-Genistetum salzmannii 
+22;T0612;XIX 1-25
+23;T0612;A/D et corrections G.Roux 1997
+24;T0613;613
+25;T0613;GAMISANS J.
+26;T0613;1977
+27;T0613;Berberido-Genistetum lobelioidis
+28;T0613;XXI 1-30
+29;T0613;Corr. & A/D G.Roux 1977
+30;T0614;614
+31;T0614;GAMISANS J.
+32;T0614;Paronychio-Armerietum multicepitis subass. genistetosum lobelioidis
+33;T0614;XXIII 1-25
+34;T0614;Corr. & A/D G.Roux 1997
+35;T0615;615
+36;T0615;GAMISANS J.
+37;T0615;1977
+38;T0615;Geeto-Phleetum brachystachyi
+39;T0615;XXV 1-33
+40;T0615;Corr. & A/D G.Roux
+41;T0616;616
+42;T0616;  2 relev‚s
+43;T0616; 22 esp‚ces
+44;T0617;617
+45;T0617;  8 relev‚s
+46;T0617; 41 esp‚ces
+47;T0618;618
+48;T0618; 32 relev‚s
+49;T0618; 81 esp‚ces
+50;T0619;619
+51;T0619; 15 relev‚s
+52;T0619; 69 esp‚ces
+53;T0620;620
+54;T0620;  6 relev‚s
+55;T0620; 47 esp‚ces
+56;T0621;621
+57;T0621;  6 relev‚s
+58;T0621; 19 esp‚ces
+59;T0622;622
+60;T0622; 30 relev‚s
+61;T0622; 49 esp‚ces
+62;T0623;623
+63;T0623; 19 relev‚s
+64;T0623; 39 esp‚ces
+65;T0624;624
+66;T0624;  6 relev‚s
+67;T0624; 14 esp‚ces
+68;T0625;625
+69;T0625;  4 relev‚s
+70;T0625; 33 esp‚ces
+71;T0626;626
+72;T0626;  1 relev‚s
+73;T0626; 14 esp‚ces
+74;T0627;627
+75;T0627;  9 relev‚s
+76;T0627; 34 esp‚ces
+77;T0628;628
+78;T0628;  8 relev‚s
+79;T0628; 25 esp‚ces
+80;T0629;629
+81;T0629;  5 relev‚s
+82;T0629; 13 esp‚ces
+83;T0630;630
+84;T0630;  8 relev‚s
+85;T0630; 51 esp‚ces
+86;T0631;631
+87;T0631;  7 relev‚s
+88;T0631; 45 esp‚ces
+89;T0632;632
+90;T0632;  7 relev‚s
+91;T0632; 54 esp‚ces
+92;T0633;633
+93;T0633;  1 relev‚s
+94;T0633; 16 esp‚ces
+95;T0634;634
+96;T0634; 28 relev‚s
+97;T0634; 39 esp‚ces
+98;T0635;635
+99;T0635; 27 relev‚s
+100;T0635; 35 esp‚ces
+101;T0636;636
+102;T0636;GAMISANS J.
+103;T0636;1977
+104;T0636;Caricion caryophyllae Gamisans nov.
+105;T0636;Sagino-Caricetum caryophyllae
+106;T0636;XVIII 1-22
+107;T0636;Correction & A/D G.Roux 1997
+108;T0637;637
+109;T0637;  6 relev‚s
+110;T0637; 40 esp‚ces
+111;T0638;638
+112;T0638;  5 relev‚s
+113;T0638; 45 esp‚ces
+114;T0639;639
+115;T0639;GAMISANS J.
+116;T0639;1977
+117;T0639;Paronychio-Armerietum multicepitis subass. armerietosum
+118;T0639;XXII 1-30
+119;T0639;Corr. & A/D G.Roux
+120;T0640;640
+121;T0640;GAMISANS J.
+122;T0640;1977
+123;T0640;Acino-Tanacetetum tomentosi
+124;T0640;XXIV 1-26 
+125;T0640;Corr. & A/D G.Roux 1997
+126;T0641;641
+127;T0641;  5 relev‚s
+128;T0641; 46 esp‚ces
+129;T0642;642
+130;T0642;GAMISANS J.
+131;T0642;1977
+132;T0642;Gnaphalio-Sibbaldietum procumbentis
+133;T0642;XXVI 1-14
+134;T0642;Corr. & A/D G.Roux
+135;T0643;643
+136;T0643; 30 relev‚s
+137;T0643; 65 esp‚ces
+138;T0644;644
+139;T0644; 18 relev‚s
+140;T0644; 58 esp‚ces
+141;T0645;645
+142;T0645;  8 relev‚s
+143;T0645; 54 esp‚ces
+144;T0646;646
+145;T0646; 12 relev‚s
+146;T0646; 65 esp‚ces
+147;T0647;647
+148;T0647;  3 relev‚s
+149;T0647; 35 esp‚ces
+150;T0648;648
+151;T0648;  6 relev‚s
+152;T0648; 39 esp‚ces
+153;T0649;649
+154;T0649; 30 relev‚s
+155;T0649; 59 esp‚ces
+156;T0650;650
+157;T0650;  2 relev‚s
+158;T0650; 33 esp‚ces
+159;T0651;651
+160;T0651;LACOSTE A.
+161;T0651;1975
+162;T0651;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+163;T0651;Potentillon caulescentis
+164;T0651;Phyteumo-Bupleuretum petraeae
+165;T0651;XIV 1-19
+166;T0651;Corr & A/D G.Roux  1994
+167;T0652;652
+168;T0652;LACOSTE A.
+169;T0652;1975
+170;T0652;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+171;T0652;Androsacion vandelii
+172;T0652;Silenetum cordifoliae
+173;T0652;XV 20-28
+174;T0652;Corr. & A/D G.Roux
+175;T0653;653
+176;T0653;LACOSTE A.
+177;T0653;1975
+178;T0653;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+179;T0653;Androsacion vandelii
+180;T0653;Saxifragetum florulentae
+181;T0653;XV 29-34
+182;T0653;Corr. & A/D G.Roux
+183;T0654;654
+184;T0654;LACOSTE A.
+185;T0654;1975
+186;T0654;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+187;T0654;Stipion calamagrostidis
+188;T0654;Calamagrostido-Centranthetum festucetosum
+189;T0654;XVI 35-46
+190;T0654;Corr. & A/D G.Roux 1994
+191;T0655;655
+192;T0655;LACOSTE A.
+193;T0655;1975
+194;T0655;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-maritimes).- Phytocoenologia, 3.
+195;T0655;Thlaspeion rotundifolii
+196;T0655;Thlaspeetum rotundifolii austro-occidentale
+197;T0655;XVI 47-48
+198;T0655;Corr. & A/D G.Roux 1994 
+199;T0656;656
+200;T0656;LACOSTE A.
+201;T0656;1975
+202;T0656;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+203;T0656;Thlaspion rotundifolii
+204;T0656;Petasitetum paradoxi athamantosum
+205;T0656;XVII 49-65
+206;T0656;Corr. & A.D. G.Roux 1994
+207;T0657;657
+208;T0657;LACOSTE A.
+209;T0657;1975
+210;T0657;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+211;T0657;Androsacion alpinae
+212;T0657;Ass. … Rubus idaeus & Dryopteris disjuncta
+213;T0657;157 1-4
+214;T0657;Corr. & A/D G.Roux
+215;T0658;658
+216;T0658;LACOSTE A.
+217;T0658;1975
+218;T0658;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+219;T0658;Senecion leucophyllae
+220;T0658;Saxifrago-Brassicetum montanae
+221;T0658;XVIII 66-84
+222;T0658;Corr. & A/D G.Roux
+223;T0659;659
+224;T0659;LACOSTE A.
+225;T0659;1975
+226;T0659;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+227;T0659;Xerobromion
+228;T0659;Astragalo-Onosmetum ononidetosum
+229;T0659;XIX 85-92
+230;T0659;Corr. & A/D G.Roux 1994
+231;T0660;660
+232;T0660;LACOSTE A.
+233;T0660;1975
+234;T0660;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+235;T0660;Bromion erecti
+236;T0660;Mesobrometum brachypodietosum
+237;T0660;XX 107-117
+238;T0660;Corr. & A/D G.Roux 1994
+239;T0661;661
+240;T0661;LACOSTE A.
+241;T0661;1975
+242;T0661;La v‚g‚tation de l' ‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+243;T0661;Festucion variae
+244;T0661;Festuco-Potentilletum valderiae
+245;T0661;XXI 118-138
+246;T0661;Corr. & A/D G.Roux 1994
+247;T0662;662
+248;T0662;LACOSTE A.
+249;T0662;1975
+250;T0662;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+251;T0662;Festucion variae
+252;T0662;Festucetum spadiceae austro-occidentale
+253;T0662;XXII 139-158
+254;T0662;Corr. & A/D G.Roux 1994
+255;T0663;663
+256;T0663;LACOSTE A.
+257;T0663;1975
+258;T0663;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+259;T0663;Caricion ferrugineae
+260;T0663;Poo-Alchemilletum hoppeanae
+261;T0663;XXIII 159-188
+262;T0663;Corr. & A/D G.Roux 1994
+263;T0664;664
+264;T0664;LACOSTE A.
+265;T0664;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+266;T0664;Caricion curvulae
+267;T0664;Leontodo-Alchemilletum alpinae
+268;T0664;XXIV 189-204
+269;T0664;Corr. & A/D G.Roux 1994
+270;T0665;665
+271;T0665;LACOSTE A.
+272;T0665;1975
+273;T0665;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+274;T0665;Nardion
+275;T0665;Nardetum alpigenum pedicularetosum
+276;T0665;XXV 205-220
+277;T0665;Corr. & A/D G.Roux
+278;T0666;666
+279;T0666;LACOSTE A.
+280;T0666;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+281;T0666;Nardion strictae
+282;T0666;Ranunculo-Alopecuretum gerardi
+283;T0666;XXVI 221-230
+284;T0666;Corr. & A/D G.Roux 1994
+285;T0667;667
+286;T0667;LACOSTE A.
+287;T0667;1975
+288;T0667;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+289;T0667;Triseto-Polygonion bistorti
+290;T0667;Triseto-Meetum athamantici
+291;T0667;XXVII 231-255
+292;T0667;Corr. & A/D G.Roux 1994
+293;T0667;147 esp‚ces
+294;T0668;668
+295;T0668;LACOSTE A.
+296;T0668;1975
+297;T0668;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+298;T0668;Vaccinio-Piceion
+299;T0668;Piceetum subalpinum myrtilletosum
+300;T0668;XXVIII 256-266
+301;T0668;Corr. & A/D G.Roux 1994
+302;T0669;669
+303;T0669;LACOSTE A.
+304;T0669;1975
+305;T0669;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+306;T0669;Abieto-Piceion
+307;T0669;Abietetum albae austro-occidentale
+308;T0669;XXIX 1-6
+309;T0670;670
+310;T0670;LACOSTE A.
+311;T0670;1975
+312;T0670;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3. 
+313;T0670;Adenostylion alliariae
+314;T0670;Adenostylo-Cicerbitetum cirsietosum
+315;T0670;Corr. & A/D G.Roux 1994  
+316;T0671;671
+317;T0671;LACOSTE A.
+318;T0671;1975
+319;T0671;La v‚g‚tation de l'‚tage subalpin du bassin sup‚rieur de la Tin‚e (Alpes-Maritimes).- Phytocoenologia, 3.
+320;T0671;Vaccinio-Piceion
+321;T0671;Rhodoreto-Vaccinietum
+322;T0671;XXXI 274-295
+323;T0671;Corr. & A/D G.Roux 1994
+324;T0672;672
+325;T0672;LACOSTE A.
+326;T0672;1965
+327;T0672;Etude phytosociologique des forˆts de m‚lŠzes dans les Alpes Maritimes.- Rev. G‚n. Botanique, 72: 603-614.
+328;T0672;Seslerion & Vaccinio-Piceion
+329;T0672;Alchemillo-Poetum violaceae & Rhodoreto-Vaccinietum
+330;T0672;I 1-18
+331;T0672;A/D G.Roux 1994
+332;T0673;673
+333;T0673;LACOSTE A.
+334;T0673;1964
+335;T0673;PremiŠres observations sur les associations subalpines des Alpes maritimes: ‚tude phytosociologique des pelouses sŠches basophiles.- B.S.B.F., 111, 1-2:  61-69. 
+336;T0673;Xerobromion
+337;T0673;Astragalo-Onosmetum subass. ononidetosum & carlinetosum
+338;T0673;I 1-13
+339;T0673;Corr. &A/D G.Roux 1994
+340;T0674;674
+341;T0674;X
+342;T0674;LONG G.
+343;T0674;1954
+344;T0674;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+345;T0674;Oleo-Ceratonion ?
+346;T0674;Pinetum halepensis
+347;T0674;I
+348;T0674;4
+349;T0674;01-avr
+350;T0674;M‚diterran‚en
+351;T0674;Tunisie
+352;T0674;PinŠde … Pin d'Alep
+353;T0674;G. Roux
+354;T0675;675
+355;T0675;X
+356;T0675;LONG G.
+357;T0675;1954
+358;T0675;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+359;T0675;Rosmarino-Ericion
+360;T0675;Junipero-Rosmarino-Artemisietum campestris
+361;T0675;II
+362;T0675;10
+363;T0675;01-oct
+364;T0675;M‚diterran‚en
+365;T0675;Tunisie
+366;T0675;Steppe arbor‚e … Juniperus
+367;T0675;G. Roux
+368;T0676;676
+369;T0676;X
+370;T0676;LONG G.
+371;T0676;1954
+372;T0676;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+373;T0676;Rosmarino-Ericion
+374;T0676;Rosmarino-Stipo-Artemisietum campestris subass. rosmarino-cistetosum libanotidis
+375;T0676;III
+376;T0676;9
+377;T0676;01-sept
+378;T0676;M‚diterran‚en
+379;T0676;Tunisie
+380;T0676;Steppe … alfa
+381;T0676;G. Roux
+382;T0677;677
+383;T0677;X
+384;T0677;LONG G.
+385;T0677;1954
+386;T0677;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+387;T0677;Rosmarino-Ericion
+388;T0677;Rosmarino-Stipo-Artemisietum campestris
+389;T0677;III
+390;T0677;6
+391;T0677;oct-15
+392;T0677;M‚diterran‚en
+393;T0677;Tunisie
+394;T0677;Steppe … alfa
+395;T0677;G. Roux
+396;T0678;678
+397;T0678;X
+398;T0678;LONG G.
+399;T0678;1954
+400;T0678;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+401;T0678;Rosmarino-Ericion
+402;T0678;Rosmarino-Stipo-Artemisietum campestris subass. stipetosum parviflorae
+403;T0678;III
+404;T0678;9
+405;T0678;16-24
+406;T0678;M‚diterran‚en
+407;T0678;Tunisie
+408;T0678;Steppe … alfa
+409;T0678;G. Roux
+410;T0679;679
+411;T0679;X
+412;T0679;LONG G.
+413;T0679;1954
+414;T0679;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+415;T0679;Rosmarino-Ericion
+416;T0679;Rosmarino-Stipo-Resedetum papillosae subass. plantagino-helianthemetosum kahirici
+417;T0679;V
+418;T0679;11
+419;T0679;01-nov
+420;T0679;M‚diterran‚en
+421;T0679;Tunisie
+422;T0679;Steppe … alfa
+423;T0679;G. Roux
+424;T0680;680
+425;T0680;X
+426;T0680;LONG G.
+427;T0680;1954
+428;T0680;Contribution … l'‚tude de la v‚g‚tation de la Tunisie centrale. - Ann. Serv. Bot. Agronom. Tunisie, XXVII: p 1-388.
+429;T0680;Rosmarino-Ericion
+430;T0680;Rosmarino-Stipo-Resedetum papillosae subass. plantagino-helianthemetosum kahirici
+431;T0680;V
+432;T0680;4
+433;T0680;déc-15
+434;T0680;M‚diterran‚en
+435;T0680;Tunisie
+436;T0680;Steppe … alfa
+437;T0680;G. Roux
+438;T0681;681
+439;T0681;X
+440;T0681;LE HOUEROU H.N.
+441;T0681;1969
+442;T0681;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+443;T0681;Rosmarino-Ericion
+444;T0681;Ass. … Pinus halepensis et Pistacia terebenthus
+445;T0681;I
+446;T0681;1
+447;T0681;1
+448;T0681;M‚diterran‚en
+449;T0681;Tunisie
+450;T0681;PinŠde … Pin d'Alep
+451;T0681;G. Roux
+452;T0682;682
+453;T0682;X
+454;T0682;LE HOUEROU H.N.
+455;T0682;1969
+456;T0682;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+457;T0682;Rosmarino-Ericion
+458;T0682;Ass. … Pinus halepensis et Stahelina dubia
+459;T0682;I
+460;T0682;1
+461;T0682;2
+462;T0682;M‚diterran‚en
+463;T0682;Tunisie
+464;T0682;PinŠde … Pin d'Alep
+465;T0682;G. Roux
+466;T0683;683
+467;T0683;X
+468;T0683;LE HOUEROU H.N.
+469;T0683;1969
+470;T0683;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+471;T0683;Rosmarino-Ericion
+472;T0683;Ass. … Pinus halepensis et Quercus ilex
+473;T0683;I
+474;T0683;19
+475;T0683;mars-21
+476;T0683;M‚diterran‚en
+477;T0683;Tunisie
+478;T0683;PinŠde … Pin d'Alep
+479;T0683;G. Roux
+480;T0684;684
+481;T0684;X
+482;T0684;LE HOUEROU H.N.
+483;T0684;1969
+484;T0684;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+485;T0684;Rosmarino-Ericion
+486;T0684;Ass. … Pinus halepensis et Teucrium compactum
+487;T0684;I
+488;T0684;19
+489;T0684;22-40
+490;T0684;M‚diterran‚en
+491;T0684;Tunisie
+492;T0684;PinŠde … Pin d'Alep
+493;T0684;G. Roux
+494;T0685;685
+495;T0685;X
+496;T0685;LE HOUEROU H.N.
+497;T0685;1969
+498;T0685;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+499;T0685;Rosmarino-Ericion
+500;T0685;Ass. … Pinus halepensis et Helianthemum ellipticum
+501;T0685;I
+502;T0685;6
+503;T0685;41-46
+504;T0685;M‚diterran‚en
+505;T0685;Tunisie
+506;T0685;PinŠde … Pin d'Alep
+507;T0685;G. Roux
+508;T0686;686
+509;T0686;X
+510;T0686;LE HOUEROU H.N.
+511;T0686;1969
+512;T0686;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+513;T0686;Rosmarino-Ericion
+514;T0686;Ass. … Rosmarinus officinalis et Ampelodesmos mauritanica
+515;T0686;II
+516;T0686;3
+517;T0686;01-mars
+518;T0686;M‚diterran‚en
+519;T0686;Tunisie
+520;T0686;Steppe arbor‚e … Romarin
+521;T0686;G. Roux
+522;T0687;687
+523;T0687;X
+524;T0687;LE HOUEROU H.N.
+525;T0687;1969
+526;T0687;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+527;T0687;Rosmarino-Ericion
+528;T0687;Ass. … Rosmarinus officinalis et Avena bromoides
+529;T0687;II
+530;T0687;9
+531;T0687;04-déc
+532;T0687;M‚diterran‚en
+533;T0687;Tunisie
+534;T0687;Steppe arbor‚e … Romarin
+535;T0687;G. Roux
+536;T0688;688
+537;T0688;X
+538;T0688;LE HOUEROU H.N.
+539;T0688;1969
+540;T0688;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+541;T0688;Rosmarino-Ericion
+542;T0688;Ass. … Rosmarinus officinalis et Pituranthos scoparius
+543;T0688;II
+544;T0688;13
+545;T0688;13-25
+546;T0688;M‚diterran‚en
+547;T0688;Tunisie
+548;T0688;Steppe arbor‚e … Romarin
+549;T0688;G. Roux
+550;T0689;689
+551;T0689;X
+552;T0689;LE HOUEROU H.N.
+553;T0689;1969
+554;T0689;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+555;T0689;Rosmarino-Ericion
+556;T0689;Ass. … Tetraclinis articulata et Quercus coccifera
+557;T0689;III
+558;T0689;5
+559;T0689;01-mai
+560;T0689;M‚diterran‚en
+561;T0689;Tunisie
+562;T0689;T‚traclinaie
+563;T0689;G. Roux
+564;T0690;690
+565;T0690;X
+566;T0690;LE HOUEROU H.N.
+567;T0690;1969
+568;T0690;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+569;T0690;Rosmarino-Ericion
+570;T0690;Ass. … Tetraclinis articulata et Artemisia herba-alba
+571;T0690;III
+572;T0690;19
+573;T0690;juin-24
+574;T0690;M‚diterran‚en
+575;T0690;Tunisie
+576;T0690;T‚traclinaie
+577;T0690;G. Roux
+578;T0691;691
+579;T0691;X
+580;T0691;LE HOUEROU H.N.
+581;T0691;1969
+582;T0691;La v‚g‚tation de la Tunisie steppique. - Ann. Inst. Nat. Rech. Agron. Tunisie, 42, 5: 622 p.
+583;T0691;Rosmarino-Ericion
+584;T0691;Ass. … Rosmarinus officinalis, Lavandula multifida & Stipa retorta
+585;T0691;IV
+586;T0691;28
+587;T0691;janv-28
+588;T0691;M‚diterran‚en
+589;T0691;Tunisie
+590;T0691;Garrigue
+591;T0691;G. Roux
+592;T0692;692
+593;T0692;X
+594;T0692;1978
+595;T0692;BARTOLO G., BRULLO S. & coll.
+596;T0692;Osservazioni fitosociologiche sulla pineta a Pinus halepensis di Vittoria (Sicilia meridionale). - Archiv. Botan. Biogeog. Italiano, 54, 3-4: 137-153.
+597;T0692;Cisto-Ericion
+598;T0692;Rosmarino-Thymetum capitati  Furnari
+599;T0692;I
+600;T0692;16
+601;T0692;janv-16
+602;T0692;M‚diterran‚en
+603;T0692;Italie (Sicile)
+604;T0692;Garrigue
+605;T0692;G. Roux
+606;T0693;693
+607;T0693;X
+608;T0693;BRAUN-BLANQUET J. & BOLOS O. DE
+609;T0693;1950
+610;T0693;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+611;T0693;Aphyllanthion
+612;T0693;X
+613;T0693;341
+614;T0693;1
+615;T0693;1
+616;T0693;Garrigue
+617;T0693;M‚diterran‚en
+618;T0693;Espagne
+619;T0693;Catalogne
+620;T0693;G.Roux
+621;T0694;694
+622;T0694;X
+623;T0694;BRAUN-BLANQUET J. & BOLOS O. DE
+624;T0694;1950
+625;T0694;Aper‡u des Groupements V‚g‚taux des Montagnes tarragonaises.- Coll. Botanica, II, 3: 303-342.
+626;T0694;Rosmarino-Ericion
+627;T0694;X
+628;T0694;340
+629;T0694;1
+630;T0694;1
+631;T0694;Garrigue
+632;T0694;M‚diterran‚en
+633;T0694;Espagne
+634;T0694;Catalogne
+635;T0694;G.Roux
+636;T0695;695
+637;T0695;X
+638;T0695;VIGO J.
+639;T0695;1968
+640;T0695;La vegetacio del Massis de Penyagolosa.- Inst. Est. Catalans, Sec. Ciencies, XXXVII: 247 p.
+641;T0695;Quercion ilicis
+642;T0695;Quercetum rotundifoliae
+643;T0695;123
+644;T0695;1
+645;T0695;1
+646;T0695;Ch‚naie verte
+647;T0695;M‚diterran‚en
+648;T0695;Espagne
+649;T0695;Catalogne
+650;T0695;G.Roux
+651;T0696;696
+652;T0696;X
+653;T0696;VIGO J.
+654;T0696;1968
+655;T0696;La vegetacio del Massis de Penyagolosa.- Inst. Est. Catalans, Sec. Ciencies, XXXVII: 247 p.
+656;T0696;Quercion ilicis
+657;T0696;Quercetum cocciferae thalictretosum
+658;T0696;I
+659;T0696;2
+660;T0696;01-févr
+661;T0696;Ch‚naie verte
+662;T0696;M‚diterran‚en
+663;T0696;Espagne
+664;T0696;Catalogne
+665;T0696;G.Roux
+666;T0697;697
+667;T0697;X
+668;T0697;VIGO J.
+669;T0697;1968
+670;T0697;La vegetacio del Massis de Penyagolosa.- Inst. Est. Catalans, Sec. Ciencies, XXXVII: 247 p.
+671;T0697;Quercion pubescenti-petraea
+672;T0697;Violo-Quercetum valentinae typicum
+673;T0697;IV
+674;T0697;5
+675;T0697;01-mai
+676;T0697;Ch‚naie pubescente
+677;T0697;M‚diterran‚en
+678;T0697;Espagne
+679;T0697;Catalogne
+680;T0697;G.Roux
+681;T0698;698
+682;T0698;X
+683;T0698;VIGO J.
+684;T0698;1968
+685;T0698;La vegetacio del Massis de Penyagolosa.- Inst. Est. Catalans, Sec. Ciencies, XXXVII: 247 p.
+686;T0698;Quercion pubescenti-petraea
+687;T0698;Violo-Quercetum valentinae quercetosum rotundifoliae
+688;T0698;IV
+689;T0698;7
+690;T0698;06-déc
+691;T0698;Ch‚naie pubescente
+692;T0698;M‚diterran‚en
+693;T0698;Espagne
+694;T0698;Catalogne
+695;T0698;G.Roux
+696;T0699;699
+697;T0699;X
+698;T0699;VIGO J.
+699;T0699;1968
+700;T0699;La vegetacio del Massis de Penyagolosa.- Inst. Est. Catalans, Sec. Ciencies, XXXVII: 247 p.
+701;T0699;Quercion pubescenti-petraea
+702;T0699;Violo-Quercetum valentinae brachypodietosum silvatici
+703;T0699;V
+704;T0699;7
+705;T0699;01-juil
+706;T0699;Ch‚naie pubescente
+707;T0699;M‚diterran‚en
+708;T0699;Espagne
+709;T0699;Catalogne
+710;T0699;G.Roux
+711;T0700;700
+712;T0700;CARBIENER R.
+713;T0700;1978
+714;T0700;Un exemple de prairie hygrophile primaire juv‚nile: l'Oenantho lachenalii-molinietum de la zonation d'atterrissement rhenane r‚sultant des endiguements du 19 Š siŠcle en moyenne Alsace.- Coll. Phytosoc., V, Les prairies humides, Lille, 1976: 13-42.
+715;T0700;Eriophorion latifoli
+716;T0700;Oenantho lachenalii-Molinietum
+717;T0700;I 1-18
+718;T0700;Corr. & A/D G.Roux 1994
+719;T0701;701
+720;T0701;DELPECH R. & FRILEUX P.N.
+721;T0701;Juncion acutiflori
+722;T0701;I 1-14
+723;T0701; 14 relev‚s
+724;T0702;702
+725;T0702;DELPECH R.
+726;T0702;1978
+727;T0702;Agropyro-Rumicion crispi
+728;T0702;I 1
+729;T0702;1 relev‚
+730;T0702;Ajouts et rectif. G.Roux
+731;T0703;703
+732;T0703;BABINOT M., METGE G. & SIMONNEAU P.
+733;T0703;1978
+734;T0703;Les moliniaies du revers occidental de la Crau. Leur ‚volution de 1967 … 1976.- Coll. Phytosoc., V, Les prairies humides, Lille, 1976: 65-77.
+735;T0703;Molinion
+736;T0703;Molinietum mediterraneum
+737;T0703;75 1-7
+738;T0703;Corr. & A/D G.Roux 1994
+739;T0704;704
+740;T0704;GRIGORE S. & COSTE I.
+741;T0704;Contribution … l'‚tude des associations des Magnocaricetalia dans le Banat (Roumanie).- Coll. Phytosoc., V, Les prairies humides, 1976, Lille: 79-87.
+742;T0704;Caricion gracilis
+743;T0704;Caricetum ripario-acutiformis
+744;T0704;I 1-25
+745;T0704;Corr. & A/D G.Roux
+746;T0705;705
+747;T0705;GRIGORE S. & COSTE I.
+748;T0705;1978
+749;T0705;Contribution … l'‚tude des associations des Magnocaricetalia dans le Banta (Roumanie).- Coll. Phytosoc., V, Les prairies humides, Lille, 1976: 79-87.
+750;T0705;Caricion gracilis
+751;T0705;Caricetum vesicariae
+752;T0705;II 1-2
+753;T0705;A/D G.Roux 1994
+754;T0706;706
+755;T0706;GROGORE S. & COSTE I.
+756;T0706;1978
+757;T0706;Contribution … l'‚tude des associations des Magnocaricetalia dans le Banat (Roumanie).- Coll. Phytosoc., V, Les prairies humides, Lille, 1976: 79-87.
+758;T0706;Caricion gracilis 
+759;T0706;Caricetum gracilis
+760;T0706;III 1-10
+761;T0706;Corr. & A/D G.Roux 1993
+762;T0707;707
+763;T0707;GRIGORE S. & COSTE I.
+764;T0707;1978
+765;T0707;Contribution … l'‚tude des associations des Magnocaricetalia dans le banat (Roumanie).- Coll. Phytosoc., V, Les prairies humides, Lille, 1976: 79-87.
+766;T0707;Caricion gracilis
+767;T0707;Caricetum vulpinae
+768;T0707;IV 1-13
+769;T0707;Corr. & A/D G.Roux 1994
+770;T0707; 59 esp‚ces
+771;T0708;708
+772;T0708;GRIGORE S. & COSTE I.
+773;T0708;1978
+774;T0708;Contribution … l'‚tude des associations des Magnocaricetalia du Banat (Roumanie).- Coll. Phytosoc., V, Les prairies humides, Lille, 1976: 79-87.
+775;T0708;Carcicion gracilis 
+776;T0708;Phalaridetum arundinaceae
+777;T0708;V 1-7
+778;T0708;Corr. & A/D G.Roux 1994
