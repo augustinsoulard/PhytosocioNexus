@@ -11,7 +11,7 @@ L'objectif de ce projet est d'évoluer grâce à la communauté. N'hésitez pas 
 *   **[FloraVeg](https://floraveg.eu/vegetation/)** : La référence de la phytosociologie et des végétations à l'échelle de l'Europe.
 *	**[Habitats Naturels](http://habitats-naturels.info/definition/)** : Site thématique dédié à la définition des habitats naturels français.
 *   **[App-Caricetum](https://app-phytosociologie.caricetum.fr/)** : Propositions d'unités phytosociologiques (basées sur HABREF v7).
-*	**[Notion Augustin Soulard](https://augustinsoulard.notion.site/Phytosociologie-classique-et-dynamico-cat-nale-750eecc222c64157a36eeffebff396d3) : Notes sur la phytosociologie
+*	**[Notion Augustin Soulard]**(https://augustinsoulard.notion.site/Phytosociologie-classique-et-dynamico-cat-nale-750eecc222c64157a36eeffebff396d3) : Notes sur la phytosociologie
 
 
 ### 🔍 Phytosociologie synusiale & Bases de données
