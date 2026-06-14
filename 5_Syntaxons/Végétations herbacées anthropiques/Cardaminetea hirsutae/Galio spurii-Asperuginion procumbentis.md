@@ -10,7 +10,5 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Associations :
+- [[Galio spurii-Anthriscetum caucalidis]] Misset et Garraud in Misset 2019 ; Sedetum fragrantis Quézel 1951

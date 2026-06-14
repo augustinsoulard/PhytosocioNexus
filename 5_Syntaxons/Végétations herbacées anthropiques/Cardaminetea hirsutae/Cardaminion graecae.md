@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Associations :
+- [[Geranio lucidi-Cardaminetum graecae]] Biondi et al. 2004
 
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Note CatVeg : la présence de cette alliance et de son association en Corse reste à confirmer (de Foucault, 2011b, Reymann et al., 2017).

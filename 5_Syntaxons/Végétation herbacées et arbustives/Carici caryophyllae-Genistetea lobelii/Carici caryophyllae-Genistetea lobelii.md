@@ -1,6 +1,6 @@
 ---
 tags:
-  - alliance
+  - classe
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,7 +10,5 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Ordres :
+- [[Carici caryophylleae-Genistetalia lobelii]] J.C. Klein 1972

@@ -10,7 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Associations :
+- [[Alysso robertiani-Genistetum salzmannii]] Ro. Molinier 1959 nom. invers. ; 
+- [[Helichryso italici-Genistetum salzmannii]] Gamisans 1975

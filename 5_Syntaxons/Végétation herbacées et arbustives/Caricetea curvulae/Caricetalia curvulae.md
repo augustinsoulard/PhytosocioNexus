@@ -1,6 +1,6 @@
 ---
 tags:
-  - alliance
+  - ordre
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,7 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Alliances :
+- [[Caricion curvulae]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926
+- [[Festucion supinae]] Braun-Blanquet 1948

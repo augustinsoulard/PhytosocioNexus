@@ -1,6 +1,6 @@
 ---
 tags:
-  - alliance
+  - ordre
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Alliances :
+- [[Calluno vulgaris-Arctostaphylion uvae-ursi]] Tüxen et Preising in Preising 1949 nom. inval.
+- [[Genistion tinctorio-germanicae]] B. Foucault 2008
+- [[Genisto pilosae-Vaccinion uliginosi]] Braun-Blanquet 1926

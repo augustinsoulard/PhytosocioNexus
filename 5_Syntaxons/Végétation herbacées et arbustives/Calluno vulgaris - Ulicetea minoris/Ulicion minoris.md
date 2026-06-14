@@ -10,7 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
-[[Amarantho delilei-Diplotaxietum erucoidis ]]Braun-Blanquet in Braun-Blanquet et al. 1936
-
-#alliance 
+Sous-alliances :
+- [[Ulicenion minoris]] Géhu et Botineau in Bardat et al. 2004
+- [[Ulici minoris-Ericenion ciliaris]] (Géhu 1975) Géhu et Botineau in Bardat et al. 2004
