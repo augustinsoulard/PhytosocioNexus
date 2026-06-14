@@ -1,0 +1,49 @@
+# ==========
+# Obsidian
+# ==========
+# Dossiers système d'Obsidian
+.obsidian/
+.obsidian-plugins/
+.obsidian-themes/
+
+# Fichiers temporaires et caches
+.obsidian/workspace-state.json
+.obsidian/graph.json
+.obsidian/app.json
+.obsidian/preferences.json
+.obsidian/state.json
+.obsidian/flags.json
+
+# Dossiers de plugins (sauf si tu veux les versionner)
+# Exclut tous les dossiers de plugins (désactive cette ligne si tu veux les inclure)
+/**.obsidian/plugins/
+
+# Fichiers de cache
+*.cache
+*.tmp
+*.swp
+
+# Fichiers de verrouillage (pour éviter les conflits)
+*.lock
+
+# ==========
+# Système
+# ==========
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+
+# ==========
+# Git LFS
+# ==========
+# NE PAS EXCLURE .gitattributes (nécessaire pour Git LFS)
+!.gitattributes
+
+# ==========
+# Dossiers à exclure (personnalisable)
+# ==========
+# Exemple : Exclure un dossier local qui n'a pas besoin d'être versionné
+# Projet/

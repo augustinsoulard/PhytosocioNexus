@@ -1,0 +1,1 @@
+**Habitats :** Lieux arides et sablonneux souvent salés ([[Juncetum maritimi]], parfois [[Brachypodietum phoenicoidis]])

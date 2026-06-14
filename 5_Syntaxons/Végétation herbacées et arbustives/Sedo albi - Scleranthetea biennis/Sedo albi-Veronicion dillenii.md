@@ -1,0 +1,16 @@
+
+
+Associations :
+- [[Festuco-Veronicetum dillenii]] Oberdorfer 1957
+- [[Gageo saxatilis-Veronicetum dillenii]] (Oberdorfer 1957) Korneck 1974
+- [[Petrorhagio proliferae-Festucetum lemanii]] Billy ex J.-M. Royer et Ferrez 2018
+- [[Saxifrago tridactylitae-Potentilletum neglectae]] Billy ex Thébaud et al. 2014
+- [[Scillo autumnalis-Sedetum albi]] Korneck 1975
+- [[Sedo rubentis-Scleranthetum perennis]] Robbe ex J.-M. Royer et al. 2006 ; 
+- [[Sedo rupestris-Hieracietum pilosellae]] Billy ex Thébaud et al. 2014 ; 
+- [[Spergulo pentandrae-Veronicetum dillenii]] Korneck 1975 ; 
+- [[Tuberario guttatae-Thymetum drucei]] Billy ex J.-M. Royer et Ferrez 2018
+
+
+
+#alliance 

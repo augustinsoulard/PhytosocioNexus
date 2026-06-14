@@ -1,0 +1,1 @@
+**Habitats :** Espèce héliophile, thermophile, xérophile, psammophile des pâturages xériques du [[Trachynion distachyae]].

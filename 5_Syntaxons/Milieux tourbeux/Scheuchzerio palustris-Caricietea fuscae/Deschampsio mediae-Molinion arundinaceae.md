@@ -1,0 +1,12 @@
+Associations :
+- [[Allio schoenoprasi-Deschampsietum mediae]] Laclos et J.-M. Royer in J.-M. Royer et al. 2006 ;
+- [[Blackstonio perfoliatae-Silaetum silai]] (P. Allorge 1922) B. Foucault 2008 ;
+- [[Carici lepidocarpae-Deschampsietum mediae]] J.-M. Royer et B. Didier 1996 ;
+- [[Dactylorhizo sesquipedalis-Molinietum arundinaceae]] Julve et O. Marchal in Julve 2001 ;
+- [[Galio constricti-Juncetum subnodulosi]] Braun-Blanquet in Braun-Blanquet et al. 1952 ;
+- [[Inulo viscosae-Schoenetum nigricantis]] Braun-Blanquet 1924 ;
+- [[Potentillo reptantis-Deschampsietum mediae]] Oberdorfer 1949 ;
+- [[Scirpo holoschoeni-Molinietum caeruleae]] (Braun-Blanquet ex Zitti 1938) Garcia-Mijangos 1997
+
+
+#alliance 

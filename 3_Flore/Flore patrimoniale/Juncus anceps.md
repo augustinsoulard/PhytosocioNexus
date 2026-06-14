@@ -1,0 +1,1 @@
+**Habitats :** Habitats marécageux surotut salés, domaine des [[Juncetalia maritimi]].

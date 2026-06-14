@@ -1,0 +1,1 @@
+**Habitats :** Prairies humides, prairies sablonneuses darrière-dune, marais ([[Molinio arundinaceae-Holoschoenion vulgaris]], [[Arrhenatherion elatioris]], [[Juncion maritimi]], [[Gaudinio fragilis-Arrhenatheretum elatioris])

@@ -1,0 +1,1 @@
+**Habitats :** Milieux sablonneux, alluvions de cours d'eau, indiférente au pH ([[Centaurio pulchelli-Blackstonion perfoliatae]]).

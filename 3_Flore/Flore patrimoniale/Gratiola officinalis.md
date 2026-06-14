@@ -1,0 +1,2 @@
+
+**Habitats :** Lieux humides s'assèchant l'été (ruisseaux, mares, étangs), uniquement sur sol acide et aux eau pauvres en éléments minéraux ([[Phragmition communis]], [[Glycerio fluitantis-Sparganion neglecti]]).

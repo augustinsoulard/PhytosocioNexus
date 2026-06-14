@@ -1,0 +1,1 @@
+**Habitats :** Mares sablonneuses oligotrophes surtout sur silice ([[Juncetea bufonii]]).

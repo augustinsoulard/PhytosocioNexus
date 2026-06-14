@@ -1,0 +1,6 @@
+Note CatVeg : la position synsystématique, reprise par Bardat et al. (2004), de cette alliance décrite initialement d’Espagne au sein des Nerio oleandri-Tamaricetea africanae, est très discutée. Si son exclusion de cette classe sur des bases floristiques et structurelles semble faire consensus, les propositions de positionnement sont diverses : Molinio-Arrhenatheretea (Biondi et al., 2014), Phragmito australisMagnocaricetea elatae (Mucina et al., 2016), Juncetea maritimi (de Foucault, 2021b). L’étude de l’association type de l’alliance (Equiseto ramosissimi-Erianthetum ravennae Braun-Blanquet & Bolòs 1958) et de groupements inédits en France méditerranéenne nous a conduit à une proposition alternative au sein de la classe des Agropyretea intermedio-repentis pour ces végétations de grandes herbes, structurées par Tripidium ravennae (= Saccharum ravennae) ou Imperata cylindrica, qui colonisent, en zone méditerranéenne, des sols argileux, sablo-limoneux ou sableux des vallées fluviales ou des dépressions humides littorales.
+
+
+
+
+#alliance 
