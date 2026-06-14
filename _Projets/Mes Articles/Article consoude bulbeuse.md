@@ -1,3 +1,0 @@
-- Présentation de la méthode adapter du [[Le Berre et al. - 2019 - Plan régional d'actions en faveur de la consoude bulbeuse (Symphytum bulbosum).pdf|PRA]]
-- Le QBiome adapté pour le protocole consoude bulbeuse : https://github.com/augustinsoulard/protocole-consoude-bulbeuse
-- 
