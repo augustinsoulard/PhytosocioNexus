@@ -16,4 +16,4 @@ Sous-alliances :
 - [[Rhinantho pumili-Arrhenatherenion elatioris]] B. Foucault et Corriol in B. Foucault 2016
 - [[Rumici obtusifolii-Arrhenatherenion elatioris]] B. Foucault 2016
 - [[Trifolio montani-Arrhenatherenion elatioris]] Rivas Goday et Rivas Martínez 1963
-- [[_Arrhenatherenion elatioris primaire_]] B. Foucault 2016
+- [[-Arrhenatherenion elatioris primaire-]] B. Foucault 2016

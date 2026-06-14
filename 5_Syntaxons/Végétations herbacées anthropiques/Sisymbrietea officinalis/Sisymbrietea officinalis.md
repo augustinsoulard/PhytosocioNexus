@@ -1,6 +1,6 @@
 ---
 tags:
-  - alliance
+  - classe
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
