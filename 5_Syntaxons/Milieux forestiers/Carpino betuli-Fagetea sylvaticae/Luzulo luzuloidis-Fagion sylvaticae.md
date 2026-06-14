@@ -1,6 +1,6 @@
 ---
 tags:
-  - ordre
+  - alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,7 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Alliances :
-- [[Cistion ladaniferi]] Braun-Blanquet in Braun-Blanquet et al. 1940
-- [[Cistion laurifolii]] Rivas Goday in Rivas Goday et al. 1956
-- [[Teucrion mari]] Gamisans et Muracciole 1984
+Sous-alliances : 
+- [[Ilici aquifolii-Fagenion sylvaticae]] (Braun-Blanquet 1967) Rivas Martínez 1973
+- [[Luzulo luzuloidis-Fagenion sylvaticae]] (W. Lohmeyer et Tüxen in Tüxen 1954) Oberdorfer 1957

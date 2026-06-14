@@ -2,6 +2,6 @@ Végétations des eaux douces assez fortement à fortement minéralisées parfoi
 
 Alliances :
 - [[Charion vulgaris]] W.Krause I981
-- [[Charion fragilis]] F.Sauer ex Dambska 1961
+- [[Charion intermediae]] F. Sauer 1937
 
 #ordre

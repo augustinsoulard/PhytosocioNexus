@@ -1,6 +1,6 @@
 ---
 tags:
-  - ordre
+  - sous-ordre
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -11,6 +11,5 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Alliances :
-- [[Cistion ladaniferi]] Braun-Blanquet in Braun-Blanquet et al. 1940
-- [[Cistion laurifolii]] Rivas Goday in Rivas Goday et al. 1956
-- [[Teucrion mari]] Gamisans et Muracciole 1984
+- [[Carpino betuli-Fagion sylvaticae]] Boeuf et al. in Boeuf 2011
+- [[Polysticho setiferi-Fraxinion excelsioris]] Géhu ex Renaux et al. 2019

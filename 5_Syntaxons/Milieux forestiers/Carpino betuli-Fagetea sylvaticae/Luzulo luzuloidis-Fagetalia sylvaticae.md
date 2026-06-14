@@ -11,6 +11,6 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Alliances :
-- [[Cistion ladaniferi]] Braun-Blanquet in Braun-Blanquet et al. 1940
-- [[Cistion laurifolii]] Rivas Goday in Rivas Goday et al. 1956
-- [[Teucrion mari]] Gamisans et Muracciole 1984
+- [[Galio rotundifolii-Fagion sylvaticae]] Gamisans 1975
+- [[Goodyero repentis-Abietion albae]] Renaux et al. 2019
+- [[Luzulo luzuloidis-Fagion sylvaticae]] W. Lohmeyer et Tüxen in Tüxen 1954

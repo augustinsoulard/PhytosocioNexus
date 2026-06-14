@@ -10,7 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Alliances :
-- [[Cistion ladaniferi]] Braun-Blanquet in Braun-Blanquet et al. 1940
-- [[Cistion laurifolii]] Rivas Goday in Rivas Goday et al. 1956
-- [[Teucrion mari]] Gamisans et Muracciole 1984
+Sous-ordres :
+- [[Tilienalia platyphylli]] (Moor 1973) Renaux et al. 2019
+- [[Acerenalia pseudoplatani]] Renaux, Timbal et al. 2019

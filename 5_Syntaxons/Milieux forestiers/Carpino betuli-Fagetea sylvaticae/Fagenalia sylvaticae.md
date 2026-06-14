@@ -1,6 +1,6 @@
 ---
 tags:
-  - ordre
+  - sous-ordre
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -11,6 +11,6 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Alliances :
-- [[Cistion ladaniferi]] Braun-Blanquet in Braun-Blanquet et al. 1940
-- [[Cistion laurifolii]] Rivas Goday in Rivas Goday et al. 1956
-- [[Teucrion mari]] Gamisans et Muracciole 1984
+- [[Chaerophyllo hirsuti-Abietion albae]] (Boeuf 2014) Renaux et al. 2015
+- [[Fagion sylvaticae]] Luquet 1926
+- [[Aceri pseudoplatani-Fagion sylvaticae]] (Oberdorfer 1957) Moor 1976

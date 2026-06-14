@@ -1,6 +1,6 @@
 ---
 tags:
-  - ordre
+  - alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,7 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Alliances :
-- [[Cistion ladaniferi]] Braun-Blanquet in Braun-Blanquet et al. 1940
-- [[Cistion laurifolii]] Rivas Goday in Rivas Goday et al. 1956
-- [[Teucrion mari]] Gamisans et Muracciole 1984
+
+Associations :
+- [[Carici flaccae-Quercetum roboris]] Brêthes 2011 ; 
+- [[Deschampsio cespitosae-Quercetum roboris]] Dupouey ex Boeuf et al. in Boeuf 2014 ; 
+- [[Quercetum petraeo-roboris]] Malcuit 1929
