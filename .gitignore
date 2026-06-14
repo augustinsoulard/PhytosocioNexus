@@ -46,4 +46,7 @@ $RECYCLE.BIN/
 # Dossiers à exclure (personnalisable)
 # ==========
 # Exemple : Exclure un dossier local qui n'a pas besoin d'être versionné
-_Projet/
+_Projets/
+Projet
+Projets
+_Projet
