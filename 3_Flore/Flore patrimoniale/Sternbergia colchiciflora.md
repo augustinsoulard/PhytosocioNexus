@@ -4,6 +4,6 @@ Elle fleurit après les pluies en fin d’été pour faire de petit fruits au pr
 
 L’espèce est protégée et est classée en danger (EN) par l’IUCN à l’échelle nationale.
 
-![[Sternbergia colchiciflora illustraiton Juliette Vallin.png]]
+![[Sternbergia colchiciflora_illustration_Juliette_Vallin.png]]
 
 Illustration par Juliette Vallin - [@naturalist-drawings](https://www.instagram.com/naturalist_drawings?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)

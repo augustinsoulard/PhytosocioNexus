@@ -3,6 +3,9 @@ tags:
   - classe
 syntaxon_superieur:
 syntaxon_inferieur:
+  - "[[Arrhenatheretalia elatioris]]"
+  - "[[Plantaginetalia majoris]]"
+  - "[[Trifolio repentis-Phleetalia pratensis]]"
 especes_indicatrices:
 date_maj: 2026-06-14
 auteurs:

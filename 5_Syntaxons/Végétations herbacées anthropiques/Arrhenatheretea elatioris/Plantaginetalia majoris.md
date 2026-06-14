@@ -10,9 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
 Alliances :
-- [[Arrhenatherion elatioris]]
-- [[Brachypodio rupestris-Centaureion nemoralis]] Braun-Blanq.  1967
-- [[Carici arenariae-Arrhenatherion elatioris]] B. Foucault 2016
-- [[Triseto flavescentis-Polygonion bistortae]] Braun-Blanquet et Tüxen ex Marschall 1947
+- [[Lolio perennis-Plantaginion majoris]] G. Sissingh 1969
+- [[Poion supinae]] Rivas Martínez et Géhu 1978
