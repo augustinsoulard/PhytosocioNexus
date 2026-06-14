@@ -1,14 +1,12 @@
 ---
 tags:
-  - "#classe"
-syntaxon_superieur:
+  - ordre
+syntaxon_superieur: "[[Armerio maritimae - Festucetea pruinosae]]"
 date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Adiantetalia capilli-veneris]] Braun-Blanquet ex Horvatić 1934
-
-
+Alliances : 
+- [[Crithmo maritimi-Armerion maritimae]] Géhu ex Géhu et Géhu-Franck 1984

@@ -1,3 +1,15 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Ammophiletalia australis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-14
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
 Associations :
 - [[Echinophoro spinosae-Ammophiletum arundinaceae]] Géhu et Biondi 1994 ; 
 - [[Echinophoro spinosae-Elymetum farcti]] (Braun-Blanquet 1933) Géhu 1988 ; 

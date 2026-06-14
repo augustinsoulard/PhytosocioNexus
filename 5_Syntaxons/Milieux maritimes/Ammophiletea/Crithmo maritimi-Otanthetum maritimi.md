@@ -1,0 +1,4 @@
+---
+auteurs:
+  - Augustin Soulard
+---

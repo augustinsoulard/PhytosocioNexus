@@ -1,14 +1,12 @@
 ---
 tags:
-  - "#classe"
-syntaxon_superieur:
+  - sous-alliance
+syntaxon_superieur: "[[Crithmo maritimi-Armerion maritimae]]"
 date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Adiantetalia capilli-veneris]] Braun-Blanquet ex Horvatić 1934
-
-
+Associations :
+- [[Armerio maritimae-Asplenietum marini]] Géhu et Géhu-Franck 1984

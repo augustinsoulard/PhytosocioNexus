@@ -1,3 +1,13 @@
+---
+tags:
+  - "#alliance"
+syntaxon_superieur:
+date_maj: 2026-06-14
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
 
 Associations :
 - [[Adianto capilli-veneris-Osmundetum regalis ]]Brullo et al. 1989 ; 
@@ -7,5 +17,3 @@ Associations :
 - [[Pinguiculo grandiflorae-Adiantetum capilli-veneris]] B. Foucault 2019 ; 
 - [[Samolo valerandi-Adiantetum capilli-veneris]] Julve ex B. Foucault 2015
 
-
-#alliance 

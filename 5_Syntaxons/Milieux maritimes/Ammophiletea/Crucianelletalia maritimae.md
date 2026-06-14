@@ -1,3 +1,7 @@
+---
+auteurs:
+  - Augustin Soulard
+---
 Alliance :
 - [[Crucianellion maritimae]] Rivas Goday et Rivas Martínez 1958
 - [[Diantho catalaunici-Scrophularion humifusae]] Baudière et Simonneau 1974

@@ -1,3 +1,7 @@
+---
+auteurs:
+  - Augustin Soulard
+---
 
 Associations :
 - [[Agropyro repentis-Tussilaginetum farfara]]e H. Passarge 1989 ; 

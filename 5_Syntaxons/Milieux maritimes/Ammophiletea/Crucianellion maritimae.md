@@ -1,3 +1,7 @@
+---
+auteurs:
+  - Augustin Soulard
+---
 
 Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur sables dunaires stabilisés du rivage de la Méditerranée centrale et occidentale. Espèces indicatrices : [[Crucianella maritima]], [[Malcolmia littorea]], [[Rumex roseus]], [[Ononis ramosissima]] (non revu),  [[Teucrium dunense]], [[Anthemis maritima]], [[Artemisia campestris subsp. glutinosa]].
 
