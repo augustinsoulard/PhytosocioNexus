@@ -1,3 +1,15 @@
+---
+tags:
+  - alliance
+syntaxon_superieur:
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
 Communautés dominées par des hydrophytes carnivores de grande taille flottant sous la surface de I’eau (utriculariides) et peuplant les eaux stagnantes de faible profondeur.
 
 Associations :
@@ -9,5 +21,3 @@ Associations :
 - [[Utricularietum australis]] T. Müller et Görs 1960
 
 Note CatVeg : l'Hydrocharition morsus-ranae Rübel ex Klika in Klika et Hadač 1944 est invalide (art. 2b) et nous proposons donc de retenir l'Utricularion vulgaris. Cette alliance semble avoir des affinités floristiques et écologiques avec le Lemno trisulcae-Salvinion natantis dont la distinction syntaxinomique reste à étudier.  Nous ne retenons pas les différentes sous-alliances proposées par Felzines (2012) car les différences floristiques et écologiques sont trop faibles.
-
-#alliance 

@@ -1,3 +1,11 @@
+---
+tags:
+  - eee_occitanie
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+---
 Canne de Provence (_Arundo donax_) est une espèce introduite classée comme en C par la hiérarchisation hône-Méditerranée-Corse (Gestion pertinente si intérêt local démontré sur des sites/espèces à intérêt patrimonial ou sur des sites renaturés). Le débat sur la date de sont introduction fait qu'elle nest pas considérée comme exotique envahissante par INVMED.
 
 **Description** : Grande graminée vivace rhizomateuse formant des fourrés denses, avec des chaumes cannelés robustes atteignant plusieurs mètres et des feuilles alternes longues, lancéolées, à gaine enveloppante. Souches massives et traçantes constituées de rhizomes ligneux très résistants, capables de régénérer depuis de petits fragments ; croissance rapide et forte production de biomasse aérienne et de litière. Reproduction surtout végétative en Europe (fragments de tiges/rhizomes), dispersés par les crues, les engins et les mouvements de terres ; établissement facilité après perturbation ou décapage de ripisylves.
