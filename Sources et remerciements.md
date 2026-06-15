@@ -12,6 +12,7 @@
 - [[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]
 - [[Roux et al. - 2024 - Prodrome des végétations de France 2.pdf]]
 - Atlas-Catalogue de la flore vasculaire du Var
+- [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine]]
 
 ## Auteurs de l'outil
 - Augustin Soulard (fondateur)

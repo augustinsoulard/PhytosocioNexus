@@ -1,5 +1,15 @@
-
-
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Sedo albi-Scleranthetalia biennis]]"
+syntaxon_inferieur: 
+especes_indicatrices: 
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
 Associations :
 - [[Festuco-Veronicetum dillenii]] Oberdorfer 1957
 - [[Gageo saxatilis-Veronicetum dillenii]] (Oberdorfer 1957) Korneck 1974
@@ -11,6 +21,3 @@ Associations :
 - [[Spergulo pentandrae-Veronicetum dillenii]] Korneck 1975 ; 
 - [[Tuberario guttatae-Thymetum drucei]] Billy ex J.-M. Royer et Ferrez 2018
 
-
-
-#alliance 
