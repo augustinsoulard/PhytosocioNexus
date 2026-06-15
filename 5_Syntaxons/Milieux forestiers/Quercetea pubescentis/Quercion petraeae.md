@@ -1,6 +1,6 @@
 ---
 tags:
-  - classe
+  - alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,6 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+Associations :
+- [[Genisto sagittalis-Quercetum petraeae]] (Issler 1926) T. Müller in Oberdorfer ex Boeuf et N. Simler in Boeuf 2011 ; 
+- [[Potentillo albae-Quercetum petraeae]] Libbert 1933 nom. invers.

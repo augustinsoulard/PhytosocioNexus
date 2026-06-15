@@ -1,0 +1,23 @@
+---
+tags:
+  - alliance
+syntaxon_superieur:
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+Associations :
+- [[Anemono hepaticae-Coryletum avellanae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
+- [[Berberido vulgaris-Prunetum brigantiacae ]]Braun-Blanquet 1961 ; 
+- [[Lonicero nigrae-Viburnetum lantanae]] B. Foucault in B. Foucault et J.-M. Royer 2016 ; 
+- [[Roso mollis-Rhamnetum alpinae]] J.L. Richard ex B. Foucault et J.-M. Royer 2016 ; 
+- [[Roso vosagiacae-Viburnetum lantanae]] Billy ex B. Foucault et J.-M. Royer 2016 ; 
+- [[Rubo canescentis-Rosetum rubiginosae ]]Gallandat et al. 1995 ; 
+- [[Valeriano montanae-Rhamnetum alpini]] J.L. Richard et C. Béguin 1971
+
+
+Note CatVeg : Mucina et al. (2016) proposent de retenir l’Astrantio-Corylion avellanae en remplacement du Corylo avellanae-Populion tremulae Braun-Blanquet ex Rivas Martínez et M.J. Costa 1998, dont ils proposent le rejet au titre des articles 3b et 36. L’Astrantio-Corylion avellanae a été placée par Renaux et al. (2019c) dans les forêts des Carpino betuli-Fagetea sylvaticae, ce qui ne paraît pas compatible avec la conception de son auteur qui la définit comme strictement arbustive (Passarge, 1978). Nous retenons donc la conception de Mucina et al. (2016). De plus, certaines associations de cette alliance se placent à la transition des Alnetalia viridis, notamment avec le Sorbo mougeotii-Lonicerion alpigenae. La connaissance de ces végétations doit être encore approfondie.

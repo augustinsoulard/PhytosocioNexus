@@ -1,6 +1,6 @@
 ---
 tags:
-  - classe
+  - alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,6 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+Associations :
+- [[Arbuto unedonis-Quercetum petraeae]] Lapraz 1962 ; 
+- [[Avenello flexuosae-Quercetum pubescentis]] Choisnet in Renaux et al. 2015

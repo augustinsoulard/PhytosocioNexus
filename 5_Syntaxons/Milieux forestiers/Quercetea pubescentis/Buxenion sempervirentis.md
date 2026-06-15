@@ -1,6 +1,6 @@
 ---
 tags:
-  - classe
+  - alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+Associations :
+- [[Asperulo odorae-Taxetum baccatae]] Gamisans 1970 ; 
+- [[Cardamino chelidoniae-Buxetum sempervirentis]] Gamisans 1975 ; 
+- [[Stellario montanae-Buxetum sempervirentis]] Gamisans 1975

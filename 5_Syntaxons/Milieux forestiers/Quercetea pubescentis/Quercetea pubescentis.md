@@ -11,5 +11,6 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+- [[Cotino coggygriae-Fraxinetalia orni]] Jakucs 1960 nom. invers. propos. Renaux et al. 2019
+- [[Quercetalia pubescenti-petraeae]] Klika 1933 nom. mut. propos. Chytrý 1997
+- [[Querco petraeae-Carpinetalia betuli]] Moor ex Boeuf 2014

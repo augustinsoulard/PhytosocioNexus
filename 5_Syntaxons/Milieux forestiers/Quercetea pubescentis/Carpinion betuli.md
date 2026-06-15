@@ -1,6 +1,6 @@
 ---
 tags:
-  - classe
+  - alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+Sous-alliances :
+- [[Carpinenion betuli]] Boeuf 2014
+- [[Rusco aculeati-Carpinenion betuli]] Renaux et al. 2019
+
+

@@ -1,6 +1,6 @@
 ---
 tags:
-  - classe
+  - sous-alliance
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,6 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+Associations :
+- [[Frangulo alni-Crataegetum monogynae]] Delelis in B. Foucault et J.-M. Royer 2016 ; 
+- [[Lonicero periclymeni-Viburnetum opuli]] B. Foucault et T. Philippe ex B. Foucault et J.-M. Royer 2016

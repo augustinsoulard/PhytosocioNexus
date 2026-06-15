@@ -1,6 +1,6 @@
 ---
 tags:
-  - classe
+  - ordre
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
@@ -10,6 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Ordres :
-- [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934
+Alliances :
+- [[Carpinion betuli]] Issler 1931
+- [[Erythronio dentis-canis-Carpinion betuli]] (Horvat 1958) Marinček in S. Wallnöfer et al. 1993
