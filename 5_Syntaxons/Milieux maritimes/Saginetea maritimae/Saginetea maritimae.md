@@ -11,6 +11,5 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Ordres :
-- [[Pinetalia halepensis]] Biondi et al. in Biondi et al. 2014
-- [[Pistacio lentisci-Rhamnetalia alaterni]] Rivas Martínez 1975
-- [[Quercetalia ilicis]] Braun-Blanquet ex Molinier 1934
+- [[Frankenietalia pulverulentae]] Rivas Martínez ex Castroviejo et J. Porta 1976
+- [[Saginetalia maritimae]] V. Westhoff et al. 1962

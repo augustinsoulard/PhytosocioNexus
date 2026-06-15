@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur: "[[Pistacio lentisci-Rhamnetalia alaterni]]"
+syntaxon_superieur: "[[Parietarietalia judaicae]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-06-15
@@ -11,5 +11,5 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Associations :
-- [[Phillyreo angustifoliae-Juniperetum turbinatae]] Arrigoni et al. 1985 corr. Bartolo et al. 1992 ; 
-- [[Pistacio lentisci-Juniperetum macrocarpae]] Caneva et al. 1981
+- [[Asplenio billotii-Cymbalarietum muralis]] Géhu 2005 ; 
+- [[Polypodio interjecti-Erigerontetum karvinskiani]] Géhu 2005

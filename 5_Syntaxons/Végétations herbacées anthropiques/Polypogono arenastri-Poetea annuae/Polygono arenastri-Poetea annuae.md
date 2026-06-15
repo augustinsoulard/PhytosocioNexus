@@ -11,6 +11,5 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Ordres :
-- [[Pinetalia halepensis]] Biondi et al. in Biondi et al. 2014
-- [[Pistacio lentisci-Rhamnetalia alaterni]] Rivas Martínez 1975
-- [[Quercetalia ilicis]] Braun-Blanquet ex Molinier 1934
+- [[Polygono arenastri-Poetalia annuae]] Tüxen in Géhu et al. 1972 corr. Rivas Martínez et al. 1991
+- [[Sagino apetalae-Polycarpetalia tetraphylli]] B. Foucault 2010
