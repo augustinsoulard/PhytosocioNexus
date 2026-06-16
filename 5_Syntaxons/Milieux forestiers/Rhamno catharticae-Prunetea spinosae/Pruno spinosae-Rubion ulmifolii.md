@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation arbustive thermophile pionnière des sols profonds et légèrement humides de l'Europe thermoatlantique et méditerranéenne. 
+
+Espèces indicatrices : [[Spartium junceum]], [[Pyrus spinosa]], [[Rubus ulmifolius]].
+
 Associations :
 - [[Coriario myrtifoliae-Spartietum juncei]] B. Foucault 2017 ; 
 - [[Crataego monogynae-Pyretum spinosae]] Biondi et al. 2002 corr.  - Présence supposée, à rechercher ; 

@@ -76,7 +76,7 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 - [[Calluno vulgaris-Ulicetea minoris]]
 - [[Caricetea curvulae]]
 - [[Carici caryophyllae-Genistetea lobelii]]
-- [[Cisto ladaniferi - Lavanduletea stoechadis]]
+- [[Cisto ladaniferi-Lavanduletea stoechadis]]
 - [[Elyno myosuroidis-Seslerietea caeruleae]]
 - [[Festuco-Brometea]]
 - [[Helianthemetea guttati]]
