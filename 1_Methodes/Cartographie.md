@@ -1,3 +1,10 @@
+---
+tags:
+date_maj: 2026-06-16
+auteurs:
+  - Augustin Soulard
+sources:
+---
 Dans l’idéal il faut réaliser au moins 3 relevés par associations végétales. Tout comme lorsque l’on identifie une espèce complexe, il faut regarder plusieurs individus pour confirmer l’identification.
 
 ## Contenu d’une carte

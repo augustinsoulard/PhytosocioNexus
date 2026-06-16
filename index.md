@@ -1,8 +1,21 @@
 ---
-title: Phytosociologie
+title: PhytosocioNexus
+tags:
+date_maj: 2026-06-16
+auteurs:
+  - Augustin Soulard
+sources:
 ---
-> *Chaque groupement végétale est hautement improbable, il existe alors un ordre caché proportionnel à l’improbabilité du groupement.* - Jean-Jacques Lazare
+# **Bienvenue sur PhytosocioNexus**
 
+Ce site est un dépôt communautaire centralisant les ressources, outils et sites web liés à la phytosociologie, avec un focus particulier sur la France. Il inclut notamment _PhytosocioNexus_, un outil Obsidian permettant une **visualisation interactive par liens et nœuds** des relations entre syntaxons, espèces associées et données phytosociologiques.
+
+Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https://github.com/augustinsoulard/PhytosocioNexus) et l'ouvrir via [Obsidian](https://obsidian.md/).  L'ouverture via Obsidian permet de débloquer certaines fonctionnalités.
+
+> [!todo] Participer
+> Si vous souhaitez participez à ce projet [contactez moi](https://www.synetea.fr/contact/) :)
+
+> *Chaque groupement végétale est hautement improbable, il existe alors un ordre caché proportionnel à l’improbabilité du groupement.* - Jean-Jacques Lazare
 # **Syntaxonomie**
 
 ### Milieux aquatiques d'eaux douces
@@ -55,6 +68,10 @@ title: Phytosociologie
 
 ### 🗺️ [[Cartographie]]
 
+### 🌳 [[Symphytosociologie]]
+
+### ⛰️ [[Géosymphytosociologie]]
+
 # **Liens externes**
 
 ### 🌐 Sites web & Références générales
@@ -77,8 +94,4 @@ title: Phytosociologie
 # **A propos**
 
 > [!faq] Conception 
-> Conçu avec [Obsiadian](https://obsidian.md/) (open source) et hébergé sur [o2switch](https://www.o2switch.fr/), un hébergeur français dont les data center sont en France. Le dépôt complet de l'outil est disponible sur mon [github](https://github.com/augustinsoulard/phytosociologie).
-
-
-> [!todo] Participer
-> Si vous souhaitez participez à ce projet [contactez moi](https://www.synetea.fr/contact/) :)
+> Conçu avec [Obsidian](https://obsidian.md/) (open source) et hébergé sur [o2switch](https://www.o2switch.fr/), un hébergeur français dont les data center sont en France. Le dépôt complet de l'outil est disponible sur mon [github](https://github.com/augustinsoulard/PhytosocioNexus).

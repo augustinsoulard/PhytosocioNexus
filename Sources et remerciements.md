@@ -2,8 +2,6 @@
 
 >🙏 Merci à Jean-Jacques Lazare pour sa formation de grande qualité distribuée au travers du [CECRV](http://www.cecrv.sitew.fr/).
 
-**Aidez-moi à compléter ou corriger ce site, vous serez cités ici pour chaque bloc que vous avez aider à faire !**
-
 ## Sources générales
 
 - [Initiation à la phytosociologie - CBNFC](https://cbnfc-ori.org/sites/default/files/formationphy2009_ecran.pdf)
@@ -15,4 +13,6 @@
 - [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine]]
 
 ## Auteurs de l'outil
-- Augustin Soulard (fondateur)
+- Augustin Soulard (Initiateur)
+
+**Aidez-moi à compléter ou corriger ce site, vous serez cités ici et ajouté aux métadonnées de chaque fiche rédigée**

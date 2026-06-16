@@ -1,3 +1,10 @@
+---
+tags:
+date_maj: 2026-06-16
+auteurs:
+  - Augustin Soulard
+sources:
+---
 **La géosymphytosociologie ou phytosociologie caténale** étudie plus vastement le paysage que la [[Symphytosociologie|symphytosociologie]]. Un individu de géosérie est composé d’un ensemble tesselaire (ensemble de tessela). De la même manière que la symphytosociologie traite un ensemble d’association végétale.
 
 Un géosigmarelevé est le relevé réalisé sur l’**ensemble tesselaire**. Cet ensemble est nommé une **catena.**
