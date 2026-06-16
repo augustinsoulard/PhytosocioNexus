@@ -52,16 +52,58 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 - [[Vaccinio-Piceetea]]
 ### Milieux maritimes
 - [[Ammophiletea]]
-
+- [[Armerio maritimae - Festucetea pruinosae]]
+- [[Cakiletea maritimae]]
+- [[Crithmo maritimi-Staticetea]]
+- [[Halodulo wrightii-Thalassietea testudinum]]
+- [[Honckenyo peploidis-Elymetea arenarii]]
+- [[Juncetea maritimi]]
+- [[Pegano harmalae-Salsoletea vermiculatae]]
+- [[Posidonietea oceanicae]]
+- [[Saginetea maritimae]]
+- [[Sarcocornietea fruticosae]]
+- [[Spartinetea glabrae]]
+- [[Thero-Suaedetea splendentis]]
+- [[Zosteretea marinae]]
 ### Milieux tourbeux
-
-
+- [[Oxycocco palustris-Sphagnetea magellanici]]
+- [[Scheuchzerio palustris-Caricetea fuscae]]
 ### Végétation herbacées et arbustives
-
-
+- [[Adiantetea capilli-veneris]]
+- [[Agropyretea intermedio-repentis]]
+- [[Anogrammo leptophyllae-Polypodietea cambrici]]
+- [[Asplenietea trichomanis]]
+- [[Calluno vulgaris-Ulicetea minoris]]
+- [[Caricetea curvulae]]
+- [[Carici caryophyllae-Genistetea lobelii]]
+- [[Cisto ladaniferi - Lavanduletea stoechadis]]
+- [[Elyno myosuroidis-Seslerietea caeruleae]]
+- [[Festuco-Brometea]]
+- [[Helianthemetea guttati]]
+- [[Koelerio-Corynephoretea canescentis]]
+- [[Loiseleurio procumbentis-Vaccinietea microphylli]]
+- [[Lygeo sparti-Stipetea tenacissimae]]
+- [[Melampyro pratensis-Holcetea mollis]]
+- [[Nardetea strictae]]
+- [[Parietarietea judaicae]]
+- [[Rosmarinetea officinalis]]
+- [[Salicetea herbaceae]]
+- [[Sedo albi-Scleranthetea biennis]]
+- [[Stipo capensis-Trachynietea distachyae]]
+- [[Stipo giganteae-Agrostietea castellanae]]
+- [[Thlaspietea rotundifolii]]
+- [[Trifolio medii-Geranietea sanguinei]]
 ### Végétations herbacées anthropiques
-
-
+- [[Agrostietea stoloniferae]]
+- [[Arrhenatheretea elatioris]]
+- [[Artemesietea vulgaris]]
+- [[Cardaminetea hirsutae]]
+- [[Galio aparines-Urticetea dioicae]]
+- [[Oryzetea sativae]]
+- [[Poetea bulbosae]]
+- [[Polygono arenastri-Poetea annuae]]
+- [[Sisymbrietea officinalis]]
+- [[Stellarietea mediae]]
 # **Méthodologie**
 
 ### 🔬 [[Analyses et rattachement]]
@@ -71,6 +113,8 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 ### 🌳 [[Symphytosociologie]]
 
 ### ⛰️ [[Géosymphytosociologie]]
+
+### 💻 [[Outils informatiques]]
 
 # **Liens externes**
 
@@ -93,5 +137,7 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 
 # **A propos**
 
-> [!faq] Conception 
+> [!faq] A propos 
 > Conçu avec [Obsidian](https://obsidian.md/) (open source) et hébergé sur [o2switch](https://www.o2switch.fr/), un hébergeur français dont les data center sont en France. Le dépôt complet de l'outil est disponible sur mon [github](https://github.com/augustinsoulard/PhytosocioNexus).
+> 
+> 🙏 **[[Sources et remerciements]]**
