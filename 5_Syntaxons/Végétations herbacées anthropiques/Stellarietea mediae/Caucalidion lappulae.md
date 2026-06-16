@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation annuelle, commensale des cultures de céréales sur sols basiques en Europe. 
+
+Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium pubescens]].
+
 Associations :
 - [[Adonido autumnalis-Iberidetum amarae]] (P. Allorge 1922) Tüxen 1950 ; 
 - [[Androsaco maximae-Iberidetum pinnatae]] (Braun-Blanquet 1915) Braun-Blanquet in Braun-Blanquet et al. 1936 ; 

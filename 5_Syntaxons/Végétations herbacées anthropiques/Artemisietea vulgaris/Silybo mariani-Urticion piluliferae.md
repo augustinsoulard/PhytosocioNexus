@@ -4,7 +4,7 @@ tags:
 syntaxon_superieur: "[[Carthametalia lanati]]"
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-14
+date_maj: 2026-06-16
 auteurs:
   - Augustin Soulard
 sources:

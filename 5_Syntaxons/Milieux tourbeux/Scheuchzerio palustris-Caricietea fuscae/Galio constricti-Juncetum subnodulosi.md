@@ -6,6 +6,6 @@ Espèces indicatrices : [[Juncus subnodulosus]], [[Juncus anceps]], [[Oenanthe l
 
 Écologie : Végétation hygrophile des substrats alcalins régulièrement inondés, pâturée ou régulièrement fauchée. Étage mésoméditerranéen. 
 
-Chorologie : Crau humide d’après un relevé de Molinier & Tallon 1950 à la Volpelière (Arles). Bibliographie : Molinier & Tallon 1950.
+Chorologie BdR (13) : Crau humide d’après un relevé de Molinier & Tallon 1950 à la Volpelière (Arles). Bibliographie : Molinier & Tallon 1950.
 
-#association 
+[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]
