@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation annuelle psammophile, xérophile et halophile, des sables dunaires mobiles du littoral de la Méditerranée et du littoral thermo-atlantique.
+
 Alliances :
 - [[Laguro ovati-Vulpion fasciculatae]] Géhu et Biondi 1994
 - [[Maresio nanae-Malcolmion ramosissimae]] (Rivas Martínez 1978) Rivas Martínez et al. 1992

@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation herbacée vivace, mésohygrophile à hygrophile, des sols humides à périodiquement inondés d'eau saumâtre des littoraux de la Méditerranée et de la zone thermo-atlantique. 
+
 Alliances :
 - [[Elytrigio-Artemision coerulescentis]] Pignatti 1953
 - [[Juncion maritimi]] Braun-Blanquet ex Horvatić 1934

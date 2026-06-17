@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation herbacée vivace, halo-nitrophile, dominée par de grands hémicryptophytes, des substrats sablolimoneux des littoraux atlantique et méditerranéen de l'Europe. 
+
+Espèces indicatrices : [[Elytrigia acuta]].
+
 Alliances :
 - [[Agropyrion pungentis]] Géhu 1968
 - [[Brachypodio pinnati-Agropyrion pungentis]] Géhu et Bioret in Bardat et al. 2004 nom. inval. (2b, 8)

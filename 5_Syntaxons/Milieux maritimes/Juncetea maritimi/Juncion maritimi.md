@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation herbacée vivace, mésohygrophile à hygrophile, des marais saumâtres littoraux longuement inondés de la Méditerranée et de la zone thermo-atlantique. 
+
+Espèces indicatrices : [[Carex extensa]], [[Juncus acutus]], [[Juncus subulatus]], [[Juncus gerardi]], [[Triglochin maritimum]].
+
+
 Associations :
 - [[Junco gerardii-Triglochinetum maritimae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
 - [[Limonio narbonensis-Caricetum extensae]] Géhu et Biondi 1994 ; 

@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation herbacée vivace, dominée par les hémicryptophytes, des pelouses ou prairies des terrains salés du littoral ou de l'intérieur des terres, de la Méditerranée, de l'Atlantique et de l'océan Arctique. 
+
+Espèces indicatrices : [[Juncus maritimus]], [[Aeluropus littoralis]], [[Sonchus maritimus]], [[Tripolium pannonicum subsp. pannonicum]], [[Limonium narbonense]], [[Puccinellia festuciformis]].
+
 Ordres :
 - [[Juncetalia maritimi]] Braun-Blanquet ex Horvatić 1934
 - [[Agropyretalia pungentis]] Géhu 1968

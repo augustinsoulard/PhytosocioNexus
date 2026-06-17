@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Unique alliance en Europe.
+
 Associations :
 - [[Cymodoceetum nodosae]] Feldmann 1938
 

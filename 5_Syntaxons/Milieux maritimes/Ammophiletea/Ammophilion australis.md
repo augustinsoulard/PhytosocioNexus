@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation herbacée vivace pionnière des dunes embryonnaires et des dunes blanches mobiles du littoral de la Méditerranée. 
+
+Espèces indicatrices : [[Ammophila arenaria subsp. arundinacea]], [[Echinophora spinosa]], [[Elytrigia juncea subsp. juncea]], [[Sporobolus pungens]]. 
+
 Associations :
 - [[Echinophoro spinosae-Ammophiletum arundinaceae]] Géhu et Biondi 1994 ; 
 - [[Echinophoro spinosae-Elymetum farcti]] (Braun-Blanquet 1933) Géhu 1988 ; 
@@ -26,5 +30,3 @@ Associations :
 - [[Sporobolo pungentis-Elymetum farcti]] (Braun-Blanquet 1933) Géhu et al. 1984
 
 Note CatVeg : "nous ne retenons pas les sous-alliances proposées par Bardat et al. (2004) (Ammophilenion australis Rivas Martínez & Géhu in Rivas Martínez et al. 1980 corr. Rivas Martínez et al. 1990, Sporobolenion arenarii Géhu 1988 et Sporobolo arenarii-Elymenion farcti Géhu 1988) dont les distinctions floristiques sont trop faibles."
-
-#alliance 

@@ -10,5 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation herbacée vivace aquatique sous-marine des substrats sableux et rocheux de la mer Méditerranée. 
+
+Espèces indicatrices : [[Posidonia oceanica]].
+
 Associations :
 - [[Posidonietum oceanicae]] Funk 1927

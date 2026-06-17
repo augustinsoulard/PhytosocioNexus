@@ -2,8 +2,8 @@
 tags:
   - alliance
 syntaxon_superieur: "[[Thero-Suaedetalia splendentis]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard

@@ -20,5 +20,3 @@ Associations :
 - [[Ruppietum brevirostris]] J.T.A. Verhoeven 1980 ; 
 - [[Ruppietum maritimae]] Gillner 1960 ; 
 - [[Ruppietum spiralis]] Iversen 1934
-
-#alliance

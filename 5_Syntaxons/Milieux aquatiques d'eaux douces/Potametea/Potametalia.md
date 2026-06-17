@@ -2,17 +2,16 @@
 tags:
   - ordre
 syntaxon_superieur: "[[Potametea]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des eaux douces peu profondes, courantes ou stagnantes, oligomésotrophes à eutrophes de l'Eurasie. Espèces indicatrices :[[ Ranunculus trichophyllus subsp. trichophyllus]], [[Callitriche stagnalis]], [[Myriophyllum verticillatum]], [[Myriophyllum spicatum]], [[Nuphar lutea]], [[Persicaria amphibia]], [[Potamogeton lucens]], [[Potamogeton pusillus]], [[Potamogeton perfoliatus]], [[Ranunculus circinatus]].
-
-Note CatVeg : la structuration de la classe en deux ordres (Potametalia et Luronio-Potametalia), telle que proposée par Felzines (2016), ne semble pas se justifier floristiquement. Nous proposons donc de ne maintenir qu'un seul ordre pour les végétations des eaux douces.
 
 Alliances :
 - [[Batrachion fluitantis]] Neuhäusl 1959
@@ -21,6 +20,6 @@ Alliances :
 - [[Nymphaeion albae]] Oberdorfer 1957
 - [[Potamion pusilli]] Hejný in Hejný et Husák 1978
 
-
+Note CatVeg : la structuration de la classe en deux ordres (Potametalia et Luronio-Potametalia), telle que proposée par Felzines (2016), ne semble pas se justifier floristiquement. Nous proposons donc de ne maintenir qu'un seul ordre pour les végétations des eaux douces.
 
 #ordre 

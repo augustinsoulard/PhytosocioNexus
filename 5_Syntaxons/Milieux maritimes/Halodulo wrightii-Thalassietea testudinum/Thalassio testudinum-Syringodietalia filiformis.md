@@ -10,5 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Unique ordre pour la classe en Europe.
+
 Alliances :
 - [[Cymodoceion nodosae]] Hartog ex Mucina in Mucina et al. 2016

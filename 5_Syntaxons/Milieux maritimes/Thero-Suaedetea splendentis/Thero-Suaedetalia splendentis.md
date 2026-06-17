@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Végétation annuelle halophile crassulescente pionnière des vases salées, régulièrement exondées, du littoral et de la bordure des lagunes et des étangs salés de l’Europe tempérée, boréale et subarctique et de la Méditerranée. 
+
 Alliances :
 - [[Salicornion dolichostachyo-fragilis]] Géhu et Rivas Martínez ex Géhu in Bardat et al. 2004
 - [[Salicornion europaeo-ramosissimae]] Géhu et Géhu-Franck ex Rivas Martínez 1990
