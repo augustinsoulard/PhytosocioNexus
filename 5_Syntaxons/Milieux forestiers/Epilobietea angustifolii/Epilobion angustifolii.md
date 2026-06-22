@@ -24,3 +24,5 @@ Associations :
 - [[Senecioni sylvatici-Epilobietum angustifolii]] Tüxen 1937 ;
 - [[Senecioni-Epilobietum angustifolii]] Hueck 1931 ;
 - [[Stellario holosteae-Rubetum idaei]] H. Passarge 1982
+
+![[Epilobion angustifolii_Augusitn_Soulard_Mezenc.jpg|697]]![[Epilobion angustifolii_Augusitn_Soulard_Mezenc.2jpg.jpg]]

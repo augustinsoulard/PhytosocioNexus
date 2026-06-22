@@ -10,7 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Associaitons :
+Espèces caractéristiques : [[Lycopodium clavatum]]
+
+Associations :
 - [[Alchemillo saxatilis-Vaccinietum uliginosi]] Thébaud ex Schaminée et al. 1993 ;
 - [[Allio victorialis-Vaccinietum myrtilli]] Schaminée et Hennekens ex Thébaud et al. 2014 ; 
 - [[Anemono narcissiflorae-Vaccinietum]] Carbiener 1966 ; 
@@ -31,3 +33,7 @@ Associaitons :
 - [[Vaccinietum uliginosi-myrtilli]] Braun-Blanquet 1926 ; 
 - [[Vaccinio vitis-idaeae-Callunetum vulgaris]] Büker 1942 ; 
 - [[Calluno vulgaris-Genistetum pilosae]] (Braun-Blanquet 1926) Oberdorfer 1938
+
+
+
+![[Genisto pilosae-Vaccinion uliginosi_Augustin_Soulard_Mezenc.jpg]]
