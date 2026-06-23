@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Mégaphorbiaies méditerranéennes
+
+**Espèces caractéristiques** : [[Lotus rectus]], [[Cirsium creticum]], [[Scirpoides holoschoenus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.11]]
+	- CB : [[37.4]]
+	- HIC EUR : [[6420]]
+
+ZH : oui
+
 Associations :
 - [[Cirsio cretici-Dorycnietum recti]] (Brullo et Ronsisvalle 1975) Géhu et Biondi 1988 ; 
 - [[Cypero longi-Oenanthetum crocatae]] Paradis in Reymann et al. 2017 nom. inval. (3b) ; 

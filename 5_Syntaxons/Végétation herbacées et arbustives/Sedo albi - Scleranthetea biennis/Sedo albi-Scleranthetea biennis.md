@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+
+
 Ordres :
 - [[Alysso alyssoidis-Sedetalia albi]] Moravec 1967
 - [[Sedo albi-Scleranthetalia biennis]] Braun-Blanquet 1955

@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés subhalophiles
+
+**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Schoenoplectus litoralis]], [[Tripolium pannonicum]]
+
+ZH : oui
+
 Alliances :
 - [[Bolboschoeno maritimi-Schoenoplection litoralis]] Rivas Martínez et al. ex Delcoigne et Thébaud 2018
 - [[Scirpion maritimi]] E. Dahl et Hadač 1941

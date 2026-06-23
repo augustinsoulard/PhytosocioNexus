@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétations luxuriantes de hautes herbes
+
+**Espèces caractéristiques** : [[Humulus lupulus]], [[Aegopodium podagraria]], [[Elytrigia repens subsp. repens]], [[Oenanthe crocata]], [[Angelica archangelica]], [[Epilobium hirsutum]], [[Equisetum telmateia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.411]] - [[E5.421]] - [[D4.1N12 suintement à Equisetum telmateia]] - [[C3.26 milieux littoraux, dominance de Phalaris arundinacea]]
+	- CB : [[37.25]] - [[37.71]] - [[54.122 suintement à Equisetum telmateia]] - [[53.16 milieux littoraux]]
+	- HIC EUR : [[6430-4]] en contexte alluvial, hors recolonisation de prairies - NC
+
+ZH : oui
+
 Associations :
 - [[Calystegio sepium-Asteretum lanceolati]] Holzner et al. ex H. Passarge 1993 ; 
 - [[Calystegio sepium-Phragmitetum australis]] J.-M. Royer et al. in J.-M. Royer et al. 2006 ; 

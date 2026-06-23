@@ -14,6 +14,8 @@ Végétation herbacée vivace pionnière des dunes embryonnaires et des dunes bl
 
 Espèces indicatrices : [[Ammophila arenaria subsp. arundinacea]], [[Echinophora spinosa]], [[Elytrigia juncea subsp. juncea]], [[Sporobolus pungens]]. 
 
+ZH : non
+
 Associations :
 - [[Echinophoro spinosae-Ammophiletum arundinaceae]] Géhu et Biondi 1994 ; 
 - [[Echinophoro spinosae-Elymetum farcti]] (Braun-Blanquet 1933) Géhu 1988 ; 

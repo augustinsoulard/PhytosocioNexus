@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation d’hémicryptophytes herbacées (schorre)
+
+**Espèces caractéristiques** : [[Puccinellia distans]], [[Spergularia marina]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[D6.11]]
+	- CB : [[15.41]]
+	- HIC EUR : [[1340-1]]
+
+ZH : oui
+
 Associations :
 - [[Junceto-Puccinellietum distantis]] J. Duvigneaud 1967 ; 
 - [[Plantagini maritimae-Puccinellietum fontanae]] (Corillion 1954) Choisnet et al. 2020 nom. ined. (1) ; 

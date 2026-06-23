@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation des sols et lithosols calcaires thermo- à méso-méditerranéenne
+
+**Espèces caractéristiques** : [[Stipellula capensis]], [[Hypochaeris achyrophorus]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Hypochoeridion achyrophori]] Biondi et V. Guerra 2008
 - [[Onobrychido capitis-galli-Ptilostemonion stellati]] Brullo et al. 2001

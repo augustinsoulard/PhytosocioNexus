@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches des arrière-dunes atlantiques anthropisées
+
+**Espèces caractéristiques** : [[Lagurus ovatus]], [[Anisantha diandra]], [[Anisantha madritensis]], [[Raphanus raphanistrum subsp. landra]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.6]] - [[E5.12]] - [[E5.13]] - [[I1.52]]
+	- CB : [[34.8]] - [[87.1]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Hordeo murinum-Arctothecetum calendulae]] J.A. Campos et al. 2000 ; 
 - [[Laguro ovati-Avenetum barbatae]] Géhu 2008 ; 

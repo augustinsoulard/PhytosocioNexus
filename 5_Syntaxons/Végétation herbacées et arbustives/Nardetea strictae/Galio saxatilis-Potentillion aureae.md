@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses atlantico-montagnardes acidiphiles
+
+**Espèces caractéristiques** : [[Potentilla aurea]], [[Pseudorchis albida]], [[Alchemilla saxatilis]], [[Epikeros pyrenaeus]], [[Galium saxatile]], [[Nardus stricta]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.311]] - [[E4.312]] - [[E4.313]]
+	- CB : [[36.311]] - [[36.312]] - [[36.313]]
+	- HIC EUR : [[6230-14]] & [[6230-15]]
+
+ZH : p.p.
+
 Associations :
 - [[Alchemillo saxatilis-Antennarietum dioicae]] Choisnet et Mulot ex Le Hénaff et al. 2021 ; 
 - [[Brizo mediae-Agrostietum capillaris]] Thébaud 2008 ; 

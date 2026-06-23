@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches de hautes herbes, sur substrats grossiers souvent rapportés
+
+**Espèces caractéristiques** : [[Crepis setosa]], [[Crepis foetida]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anchuso officinalis-Diplotaxietum tenuifoliae]] Julve in Farvacques et F. Duhamel 2015 ; 
 - [[Astero novi-belgii-Artemisietum vulgaris]] Billy ex Thébaud et al. 2014 ; 

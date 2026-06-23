@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Dunes cantabro-atlantiques à méso-méditerranéennes
+
+**Espèces caractéristiques** : [[Helichrysum stoechas]], [[Artemisia campestris subsp. maritima]], [[Ephedra distachya]], [[Silene portensis]], [[Dianthus gallicus]], [[Asparagus officinalis subsp. prostratus]], [[Euphorbia segetalis subsp. portlandica]], [[Linaria arenaria]], [[Omphalodes littoralis]] (dans les ouvertures)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.42]]
+	- CB : [[16.222]]
+	- HIC EUR : [[2130-2]]
+
+ZH : non
+
 Associations :
 - [[Alysso loiseleuri-Helichrysetum stoechadis]] Géhu ex P. Lafon et al. 2022 ; 
 - [[Artemisio lloydii-Ephedretum distachyae]] Géhu et G. Sissingh in G. Sissingh 1974 ; 

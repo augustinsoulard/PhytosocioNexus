@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches vernales, méditerranéennes-atlantiques, subnitrophiles
+
+**Espèces caractéristiques** : [[Anisantha rubens]], [[Anisantha diandra]], [[Anisantha rigida]], [[Anisantha madritensis]], [[Erucastrum incanum]], [[Echium plantagineum]], [[Crepis foetida]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Echio lycopsis-Galactition tomentosae]] O. Bolòs et Molinier 1969
 - [[Hordeion leporini]] Braun-Blanquet ex Braun-Blanquet et al. 1947

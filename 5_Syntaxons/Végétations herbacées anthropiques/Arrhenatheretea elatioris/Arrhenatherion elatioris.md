@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à submontagnardes
+
+**Espèces caractéristiques** : optimum pour [[Bromus hordeaceus]], [[Arrhenatherum elatius]], [[Silene vulgaris subsp. vulgaris]]
+
+ZH : non spécifié
+
 Sous-alliances :
 - [[Colchico autumnalis-Arrhenatherenion elatioris]] B. Foucault 1989
 - [[Poo angustifoliae-Arrhenatherenion elatioris]] Felzines 2012

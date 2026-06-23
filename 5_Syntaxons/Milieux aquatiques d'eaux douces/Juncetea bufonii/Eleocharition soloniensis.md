@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses à tendance eutrophile, continentales
+
+**Espèces caractéristiques** : Elatine div. sp., [[Eleocharis ovata]], [[Eleocharis acicularis]], [[Limosella aquatica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4214]] - [[C3.511]] - [[C3.5132]]
+	- CB : [[22.3414]] - [[22.321]] - [[22.32]]
+	- HIC EUR : [[3130-3]] - [[3130-4]]
+
+ZH : oui
+
 Associations :
 - [[Chenopodio rubri-Coleanthetum subtilis]] Le Bail et al. 2013 ; 
 - [[Cypero fusci-Limoselletum aquaticae]] Oberdorfer ex Korneck 1960 ; 

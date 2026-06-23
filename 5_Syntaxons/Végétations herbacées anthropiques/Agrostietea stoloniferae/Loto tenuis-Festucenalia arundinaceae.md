@@ -1,3 +1,21 @@
+---
+tags:
+  - sous-ordre
+syntaxon_superieur: "[[Potentillo anserinae-Polygonetalia avicularis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+
+**Description** : Prairies subhalophiles et/ou thermophiles soumises à de courtes inondations
+
+**Espèces caractéristiques** : [[Lotus tenuis]]
+
+ZH : oui
 
 Alliances :
 - [[Juncion gerardi]] Wendelberger 1943

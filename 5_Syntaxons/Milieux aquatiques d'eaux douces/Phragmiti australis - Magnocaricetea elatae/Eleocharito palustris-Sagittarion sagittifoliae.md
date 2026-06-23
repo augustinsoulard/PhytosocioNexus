@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace d'hélophytes
+
+**Espèces caractéristiques** : [[Oenanthe aquatica]], [[Alisma plantago-aquatica]], [[Butomus umbellatus]], [[Senecio paludosus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.24]]
+	- CB : [[53.141]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
+
 Associations :
 - [[Alismatetum lanceolati]] Zahlheimer ex Šumberová in Chytrý 2011 ; 
 - [[Alismato plantaginis-aquaticae-Sparganietum erecti]] H. Passarge 1999 ; 

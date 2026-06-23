@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses amphibies
+
+**Espèces caractéristiques** : [[Crassula vaillantii]], [[Lythrum borysthenicum]], [[Lythrum thymifolia]], [[Ranunculus nodiflorus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.421]]
+	- CB : [[22.341]]
+	- HIC EUR : [[3170-4 mares temporaires]]
+
+ZH : oui
+
 Associations :
 - [[Antinorio insularis-Lythretum borysthenici]] B. Foucault et al. 2013 ; 
 - [[Bellido annuae-Lythretum borysthenici]] (Poirion et Barbero 1966) B. Foucault 2013 ; 

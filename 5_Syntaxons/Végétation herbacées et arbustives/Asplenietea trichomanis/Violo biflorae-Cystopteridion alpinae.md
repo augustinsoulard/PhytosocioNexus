@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Violo biflorae-Cystopteridetalia alpinae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés subalpines
+
+**Espèces caractéristiques** : [[Cystopteris alpina]], [[Viola biflora]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.252]]
+	- CB : [[62.152]]
+	- HIC EUR : [[8210-14]] à [[8210-16]] (naturel) - NC (artificiel)
+
+ZH : non
+
 Associations :
 - [[Violo biflorae-Cystopteridetum alpinae]] Fernández Casas 1970 ; 
 - [[Violo biflorae-Cystopteridetum fragilis]] Fernández Casas 1970 ; 

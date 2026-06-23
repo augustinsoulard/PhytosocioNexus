@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés hygroclines, hémihéliophiles
+
+**Espèces caractéristiques** : [[Urtica dioica]], [[Anthriscus sylvestris]], [[Aegopodium podagraria]], [[Cruciata laevipes]], [[Lamium maculatum]], [[Silene dioica]], [[Sambucus ebulus]], [[Dipsacus pilosus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.43]]
+	- CB : [[37.72]]
+	- HIC EUR : [[6430-6]] (en contexte de lisière ou clairière forestière) - NC
+
+ZH : p.p.
+
 Associations :
 - [[Anthriscetum sylvestris]] Hadač 1978 ; 
 - [[Calystegio sepium-Aristolochietum clematitidis]] B. Foucault et Frileux in J.-M. Royer et al. 2006 ; 

@@ -1,7 +1,20 @@
 ---
 tags:
   - ordre
+syntaxon_superieur: "[[Agropyretea intermedio-repentis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés continentales
+
+**Espèces caractéristiques** : [[Elytrigia campestris]], [[Elytrigia campestris x repens]], [[Elytrigia campestris x intermedia]], [[Carex praecox]], [[Bromus inermis]], [[Saponaria officinalis]]
+
+ZH : non spécifié
 
 Alliances :
 - [[Artemisio-Agropyrion intermedii]] T. Müller et Görs 1969

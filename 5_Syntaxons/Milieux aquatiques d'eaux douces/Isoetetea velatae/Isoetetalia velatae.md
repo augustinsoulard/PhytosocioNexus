@@ -12,6 +12,12 @@ sources:
 ---
 Syn : Isoeto-Nanojuncetea
 
+**Description** : Pelouses vivaces amphibies
+
+**Espèces caractéristiques** : [[Isoetetea velatae]], [[Marsilea strigosa]]
+
+ZH : oui
+
 Alliances :
 - [[Antinorio agrostideae-Isoetion velatae]] (Braun-Blanquet 1936) B. Foucault 1988
 - [[Ophioglosso lusitanici-Isoetion histricis]] (Braun-Blanquet 1936) B. Foucault 1988

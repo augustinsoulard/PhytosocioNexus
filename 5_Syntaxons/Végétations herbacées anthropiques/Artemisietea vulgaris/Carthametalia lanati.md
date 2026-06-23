@@ -13,7 +13,9 @@ sources:
 ---
 Végétation herbacée vivace, dominée par de grands chardons à phénologie tardive, rudérale, des substrats perturbés de la Méditerranée et de l'Europe méridionale. 
 
-Espèces indicatrices : [[Carthamus lanatus]], [[Cynoglossum creticum]], [[Onopordum illyricum]], [[Picnomon acarna]],  [[Scolymus hispanicus]], [[Scolymus maculatus]].
+Espèces indicatrices : [[Carthamus lanatus]], [[Cynoglossum creticum]], [[Onopordum illyricum]], [[Picnomon acarna]],  [[Scolymus hispanicus]], [[Scolymus maculatus]], [[Silybum marianum]]
+
+ZH : non spécifié
 
 Alliances :
 - [[Onopordion illyrici]] Oberdorfer 1954

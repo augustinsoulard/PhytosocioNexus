@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses amphibies
+
+**Espèces caractéristiques** : [[Cyperus flavescens]], [[Cyperus fuscus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.5132]] - [[C3.5133]]
+	- CB : [[22.3232]] - [[22.3233]]
+	- HIC EUR : [[3130-5]] - [[3170-4 mares temporaires]]
+
+ZH : oui
+
 Associations :
 - [[Cyperetum flavescentis]] W. Koch ex Aichinger 1933 ; 
 - [[Gnaphalio uliginosi-Juncetum bufonii]] (G. Philippi 1968) H. Passarge 1978 ; 

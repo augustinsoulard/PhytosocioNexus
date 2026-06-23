@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés eurosibériennes (Cultures annuelles)
+
+**Espèces caractéristiques** : [[Scleranthus annuus]], [[Arnoseris minima]], [[Hypochaeris glabra]], [[Galeopsis segetum]], [[Anthoxanthum aristatum]], [[Matricaria chamomilla]], [[Logfia arvensis]], [[Myosotis discolor]], [[Ervum tetraspermum]], [[Papaver argemone]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[I1.3]] - [[I1.52]] - [[E1.91]]
+	- CB : [[87.1]] - [[35.21]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Alchemillo arvensis-Matricarietum chamomillae]] Tüxen 1937 ; 
 - [[Anchuso arvensis-Brometum sterilis]] Boeuf 2007 nom. ined. (1) ; 

@@ -13,7 +13,14 @@ sources:
 ---
 Végétation herbacée vivace halophile et subnitrophile de la bordure des dépressions inondables (sansouires) et des lagunes du littoral du nord de la Méditerranée. 
 
-Espèces indicatrices : [[Artemisia caerulescens subsp. gallica]], [[Elytrigia elongata]], [[Limbardia crithmoides subsp. longifolia]], [[Limonium narbonense]].
+Espèces indicatrices : [[Artemisia caerulescens subsp. gallica]], [[Elytrigia elongata]], [[Limbardia crithmoides subsp. longifolia]], [[Limonium narbonense]], [[Artemisia caerulescens]], [[Limonium narbonense]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.524]]
+	- CB : [[15.57]]
+	- HIC EUR : [[1410-2]]
+
+ZH : oui
 
 Associations :
 - [[Limonio narbonensis-Artemisietum caerulescentis]] (Pignatti 1953) Géhu et Scoppola 1984 ; 

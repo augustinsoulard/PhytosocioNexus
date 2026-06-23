@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses d’hémicryptophytes et parfois d’annuelles sur sables +/- stabilisés
+
+**Espèces caractéristiques** : [[Corynephorus canescens]], [[Carex arenaria]]
+
+ZH : non spécifié
+
 Ordres :
 - [[Artemisio lloydii-Koelerietalia albescentis]] G. Sissingh 1974
 - [[Corynephoretalia canescentis]] Klika 1934

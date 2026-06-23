@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés calcicoles collinéennes à montagnardes
+
+**Espèces caractéristiques** : [[Alyssum montanum]], [[Minuartia rostrata]], [[Poa alpina]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.11]] - [[H3.511]] - [[J2]]
+	- CB : [[34.11]] - [[62.3]] - [[86]]
+	- HIC EUR : [[6110-1]] & [[6110-2]] - NC (substrats superficiels)
+
+ZH : non
+
 Associations :
 - [[Alysso alyssoidis-Sedetum albi]] Oberdorfer et T. Müller in T. Müller 1961 ; 
 - [[Alysso montani-Festucetum pallentis]] Preising 1939 corr. R. Schub. et al. 2001 ; 

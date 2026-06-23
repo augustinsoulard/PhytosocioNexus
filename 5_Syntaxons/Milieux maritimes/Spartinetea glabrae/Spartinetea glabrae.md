@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière des vases salées
+
+**Espèces caractéristiques** : [[Spartina maritima]], [[Spartina x townsendii]], [[Spartina anglica]], [[Spartina alterniflora]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.554]]
+	- CB : [[15.21]]
+	- HIC EUR : [[1320-1 spartinaies pionnières]] - [[1130-1 estuaire]] - [[NC exotique]]
+
+ZH : oui
+
 Ordres :
 - [[Spartinetalia glabrae]] Conard 1935
 

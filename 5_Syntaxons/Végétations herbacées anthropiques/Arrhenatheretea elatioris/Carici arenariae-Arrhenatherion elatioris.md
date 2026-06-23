@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies nord-atlantiques, sur sols dérivés de substrats dunaires
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.75]]
+	- CB : [[35.15]]
+	- HIC EUR : [[6230-9]]
+
+ZH : non
+
 Associations :
 - [[Carici arenariae-Festucetum junceae]] Julve 1989 ; 
 - [[Carici arenariae-Luzuletum campestris]] B. Foucault 2016 ; 

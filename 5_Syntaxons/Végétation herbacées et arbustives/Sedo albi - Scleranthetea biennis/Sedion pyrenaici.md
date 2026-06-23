@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Dans les Pyrénées, du montagnard au subalpin
+
+**Espèces caractéristiques** : [[Sedum anglicum]] (incl. [[Sedum anglicum subsp. pyrenaicum]]), [[Sempervivum tectorum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.62]]
+	- CB : [[34.11]] - [[36.2]] - [[62.3]]
+	- HIC EUR : [[6110-2]] - [[8230-3]] - NC (substrats artificiels)
+
+ZH : non
+
 Associations :
 - [[Agrostio durieui-Sedetum pyrenaici]] Rivas Martínez et al. 1984 ; 
 - [[Sedetum pyrenaico-hirsuti]] Corriol in Corriol et al. 2022 ; 

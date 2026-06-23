@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Éboulis calcaricoles du montagnard à l'alpin
+
+**Espèces caractéristiques** : [[Petasites paradoxus]], [[Trisetum distichophyllum]], [[Coritospermum ferulaceum]], [[Valeriana montana]], [[Gymnocarpium robertianum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H2.431]]
+	- CB : [[61.231]]
+	- HIC EUR : [[8120-4]]
+
+ZH : non
+
 Associations :
 - [[Anthyllido-Leontodontetum hyoseroidis]] Zoller 1951 ; 
 - [[Athamantho cretensis-Trisetetum distichophylli]] (Jenny-Lips 1930) W. Lippert 1966 nom. inval. ; 

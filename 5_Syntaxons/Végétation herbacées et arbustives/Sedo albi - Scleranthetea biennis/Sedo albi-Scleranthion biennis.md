@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Dans les Alpes, Vosges, et le Massif central
+
+**Espèces caractéristiques** : [[Sedum album]], [[Scleranthus perennis]], [[Sempervivum arachnoideum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.11]] - [[H3.62]]
+	- CB : [[34.11]] - [[36.2]] - [[62.3]]
+	- HIC EUR : [[6110-2]] - [[8230-1]] & [[8230-2]] - NC (substrats artificiels)
+
+ZH : non
+
 Associations :
 - [[Agrostio rupestris-Sempervivetum montani]] Rivas Martínez et Géhu 1978 ; 
 - [[Anarrhino bellidifolii-Sedetum maximi]] Billy ex Thébaud et al. 2014 ; 

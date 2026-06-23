@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Potentilletalia caulescentis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés pyrénéennes, montagnardes à alpines
+
+**Espèces caractéristiques** : [[Saxifraga media]], [[Saxifraga longifolia]], [[Ramonda myconi]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.22]]
+	- CB : [[62.12]]
+	- HIC EUR : [[8210-20]] à [[8210-25]] (naturel) - NC (artificiel)
+
+ZH : non
+
 Associations :
 - [[Asperulo hirtae-Potentilletum alchemilloidis]] Chouard 1942 ; 
 - [[Asplenietum catalaunici]] Fernández Casas 1970 corr. O. Bolos et Vigo 1984 ; 

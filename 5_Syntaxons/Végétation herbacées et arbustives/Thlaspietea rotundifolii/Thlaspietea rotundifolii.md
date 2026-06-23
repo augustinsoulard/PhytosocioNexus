@@ -14,6 +14,8 @@ Végétation herbacée vivace des substrats détritiques (éboulis, moraines, te
 
 Espèces indicatrices : [[Ptychotis saxifraga]], [[Galeopsis angustifolia]].
 
+ZH : non spécifié
+
 Ordres : 
 - [[Androsacetalia alpinae]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926
 - [[Drabetalia hoppeanae]] Zollitsch ex Merxmüller et Zollitsch 1967

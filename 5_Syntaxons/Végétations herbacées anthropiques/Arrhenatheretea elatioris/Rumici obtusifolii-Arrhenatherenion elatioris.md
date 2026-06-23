@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à submontagnardes mésophiles à eutrophiles
+
+**Espèces caractéristiques** : [[Rumex obtusifolius]], [[Urtica dioica]], [[Elytrigia repens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.221]] - [[E2.23]]
+	- CB : [[38.22]] - [[38.23]]
+	- HIC EUR : [[6510-7]]
+
+ZH : non
+
 Associations :
 - [[Cirsio arvensis-Arrhenatheretum elatioris]] P. Lacroix et al. 2014 ; 
 - [[Dactylido glomeratae-Festucetum arundinaceae]] Tüxen ex W. Lohmeyer 1953 ; 

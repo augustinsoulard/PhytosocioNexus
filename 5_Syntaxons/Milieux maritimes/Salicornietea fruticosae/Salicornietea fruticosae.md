@@ -12,7 +12,9 @@ sources:
 ---
 Végétation herbacée vivace ou sous-arbustive crassulescente, halophile, des marécages salés méditerranéens et thermo-atlantiques. 
 
-Espèces indicatrices : [[Aeluropus littoralis]], [[Limonium narbonense]] 
+**Espèces caractéristiques** : [[Sarcocornia fruticosa]], [[Halimione portulacoides]], [[Suaeda vera subsp. vera]], [[Limbarda crithmoides]], [[Aeluropus littoralis]], [[Limonium narbonense]] 
+
+ZH : oui
 
 Ordres :
 - [[Limonietalia]] Braun-Blanquet et O. Bolòs 1958

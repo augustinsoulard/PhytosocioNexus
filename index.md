@@ -52,7 +52,7 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 - [[Vaccinio-Piceetea]]
 ### Milieux maritimes
 - [[Ammophiletea]]
-- [[Armerio maritimae - Festucetea pruinosae]]
+- [[Armerio maritimae-Festucetea pruinosae]]
 - [[Cakiletea maritimae]]
 - [[Crithmo maritimi-Staticetea]]
 - [[Halodulo wrightii-Thalassietea testudinum]]

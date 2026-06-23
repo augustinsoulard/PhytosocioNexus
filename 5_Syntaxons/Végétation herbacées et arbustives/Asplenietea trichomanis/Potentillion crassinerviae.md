@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Androsacenalia vandellii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés de Corse
+
+**Espèces caractéristiques** : [[Potentilla crassinervia]], [[Sedum brevifolium]], [[Dianthus godronianus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.14]]
+	- CB : [[62.24]]
+	- HIC EUR : [[8220-10]] & [[8220-11]]
+
+ZH : non
+
 Associations :
 - [[Armerio leucocephalae-Potentilletum crassinerviae]] Ro. Molinier 1959 ; 
 - [[Asplenio viridi-Drabetum dubiae]] Gamisans 1975 ; 

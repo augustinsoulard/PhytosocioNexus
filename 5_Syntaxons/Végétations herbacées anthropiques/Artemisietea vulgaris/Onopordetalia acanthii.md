@@ -10,9 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Végétation herbacée vivace, dominée par de grands chardons à phénologie tardive, rudérale, des substrats perturbés de l’Europe tempérée et de la Méditerranée. 
+Végétation herbacée vivace, dominée par de grands chardons à phénologie tardive, rudérale, thermophile, des substrats perturbés de l’Europe tempérée et de la Méditerranée. 
 
-**Espèces indicatrices** : [[Ballota nigra subsp. foetida]], [[Centaurea calcitrapa]], [[Cirsium vulgare subsp. vulgare]], [[Dipsacus fullonum]], [[Echium vulgare]], [[Marrubium vulgare]], [[Onopordum acanthium]], [[Tordylium maximum]], [[Verbascum pulverulentum]].
+**Espèces indicatrices** : [[Ballota nigra subsp. foetida]], [[Centaurea calcitrapa]], [[Cirsium vulgare subsp. vulgare]], [[Dipsacus fullonum]], [[Echium vulgare]], [[Marrubium vulgare]], [[Onopordum acanthium]], [[Tordylium maximum]], [[Verbascum pulverulentum]], [[Picris hieracioides]], [[Malva moschata]], [[Verbascum thapsus]], [[Cichorium intybus]]
+
+ZH : non spécifié
 
 **Alliances** :
 - [[Dauco carotae-Melilotion albi]] Görs 1966

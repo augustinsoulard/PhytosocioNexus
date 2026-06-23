@@ -12,7 +12,14 @@ sources:
 ---
 Végétation annuelle pionnière, subnitrophile et xérophile des sables dunaires mobiles légèrement perturbés de la Méditerranée nord-occidentale. 
 
-Espèces indicatrices : [[Lagurus ovatus]], [[Vulpia fasciculata]], [[Anisantha rigida]], [[Medicago littoralis]]. 
+Espèces indicatrices : [[Lagurus ovatus]], [[Vulpia fasciculata]], [[Anisantha rigida]], [[Medicago littoralis]], [[Erodium cicutarium subsp. bipinnatum]] 
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.48]] (littoral) - [[E1.A1]] (autre)
+	- CB : [[16.228]] (littoral) - [[35.4]] (autre)
+	- HIC EUR : NC
+
+ZH : non
 
 Note : Un groupement à [[Vulpia fasciculata]] et [[Lagurus ovatus]], peu diversifié et peu caractérisé, s’observe régulièrement sur la bordure externe, légèrement perturbée, des dunes blanches du littoral de la Camargue, associant les espèces citées ci-dessus avec [[Crepis foetida]], parfois [[Cutandia maritima]]. Il peut s’agir d’une communauté basale de l’alliance ([[Silene nicaeensis]] manque en Camargue) mais des études complémentaires devront être menées.
 

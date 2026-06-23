@@ -12,8 +12,14 @@ sources:
 ---
 Végétation herbacée vivace, mésohygrophile à hygrophile, des marais saumâtres littoraux longuement inondés de la Méditerranée et de la zone thermo-atlantique. 
 
-Espèces indicatrices : [[Carex extensa]], [[Juncus acutus]], [[Juncus subulatus]], [[Juncus gerardi]], [[Triglochin maritimum]].
+Espèces indicatrices : [[Carex extensa]], [[Juncus acutus]], [[Juncus subulatus]], [[Juncus gerardii]], [[Triglochin maritimum]], [[Puccinellia festuciformis]]
 
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.522]] - [[A2.523]]
+	- CB : [[15.51]] - [[15.52]]
+	- HIC EUR : [[1410-1]] - [[1410-2]]
+
+ZH : oui
 
 Associations :
 - [[Junco gerardii-Triglochinetum maritimae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 

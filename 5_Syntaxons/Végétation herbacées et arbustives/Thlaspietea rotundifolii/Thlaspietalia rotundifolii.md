@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Éboulis calcaricoles du montagnard à l'alpin
+
+ZH : non spécifié
+
 Alliances :
 - [[Iberidion spathulatae]] Braun-Blanquet 1948
 - [[Petasition paradoxi]] Zollitsch ex W. Lippert 1966

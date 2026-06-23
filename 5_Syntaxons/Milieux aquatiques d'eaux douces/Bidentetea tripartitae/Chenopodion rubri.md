@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Bidentetalia tripartitae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,16 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière annuelle des bordures à niveau variable
+
+**Espèces caractéristiques** : [[Amaranthus blitum subsp. emarginatus]], [[Echinochloa crus-galli]], [[Corrigiola litoralis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.52]] - [[C3.53]]
+	- CB : [[22.33]] - [[24.52]]
+	- HIC EUR : [[3270-1 bord de cours d'eau]] - [[NC]]
+
+ZH : oui
 
 Associations :
 - [[Amarantho emarginati-Chenopodietum rubri]] Felzines et Loiseau 2006 ; 

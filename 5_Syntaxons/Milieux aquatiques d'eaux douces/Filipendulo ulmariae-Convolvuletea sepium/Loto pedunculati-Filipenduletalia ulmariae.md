@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Mégaphorbiaies planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Lotus pedunculatus]], [[Scirpus sylvaticus]], [[Lysimachia vulgaris]], [[Stachys palustris]], [[Cirsium palustre]], [[Caltha palustris]], [[Symphytum officinale]], [[Hypericum tetrapterum]], [[Veronica longifolia]]
+
+ZH : oui
+
 Alliances :
 - [[Achilleo ptarmicae-Cirsion palustris]] Julve et F. Gillet ex B. Foucault 2011
 - [[Thalictro flavi-Filipendulion ulmariae]] B. Foucault in J.-M. Royer et al. 2006

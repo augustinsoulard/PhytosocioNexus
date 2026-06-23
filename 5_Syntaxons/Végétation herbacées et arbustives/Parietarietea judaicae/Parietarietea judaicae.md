@@ -10,5 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation nitrophile des murs
+
+**Espèces caractéristiques** : [[Erysimum cheiri]], [[Pseudofumaria alba]]
+
+ZH : non spécifié
+
 Ordres :
 - [[Parietarietalia judaicae]] Rivas Martínez in Rivas Goday 1964

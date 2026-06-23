@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches eurosibériennes, vernales
+
+**Espèces caractéristiques** : [[Lactuca serriola]], [[Tripleurospermum inodorum]], [[Sisymbrium altissimum]], [[Brassica nigra]], [[Carduus tenuiflorus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]] - [[I1.52]]
+	- CB : [[87.1]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Brassico nigrae-Carduetum tenuiflori]] (Bouzillé et al. 1984) Bioret et al. 1993 ; 
 - [[Bromo sterilis-Sisymbrietum macrolomae]] Vigo et al. 1997 ; 

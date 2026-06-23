@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses montagnardes à subalpines
+
+**Espèces caractéristiques** : [[Trifolium alpinum]], [[Meum athamanticum]], [[Scorzoneroides pyrenaica]], [[Hypochaeris maculata]], [[Luzula sudetica]], [[Geum montanum]], [[Jasione laevis]], [[Ajuga pyramidalis]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Agrostion schraderianae]] G. Grabherr 1993
 - [[Avenulo sulcatae-Nardion strictae]] Stieperaere ex B. Foucault 2012

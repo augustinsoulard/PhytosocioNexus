@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Potentilletalia caulescentis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés planitiaires et collinéennes des parois sèches
+
+**Espèces caractéristiques** : [[Asplenium trichomanes]], [[Asplenium ruta-muraria]], [[Asplenium ceterach]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.2B]] & [[F-J]]
+	- CB : [[62.1B]] - [[86.41]]
+	- HIC EUR : [[8210-9]] (naturel) - NC (artificiel)
+
+ZH : non
+
 Associations :
 - [[Asplenietum hastati]] J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Asplenietum pachyrachidis]] J.-M. Royer in J.-M. Royer et al. 2006 ;

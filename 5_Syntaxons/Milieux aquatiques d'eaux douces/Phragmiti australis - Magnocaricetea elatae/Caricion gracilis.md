@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Cariçaies (= Carex acuta)
+
+**Espèces caractéristiques** : [[Carex acuta]], [[Carex vesicaria]], [[Rumex aquaticus]], [[Scutellaria galericulata]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[D5.21]] - [[D5.3]]
+	- CB : [[53.21]] - [[53.5]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Caricetum acutiformis]] J. Eggler 1933 ; 
 - [[Caricetum gracilis]] E.G. Almquist 1929 ; 

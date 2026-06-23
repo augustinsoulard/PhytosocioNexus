@@ -8,6 +8,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation saxicole, rupicole (Suintements ombragés sur calcaire)
+
+**Espèces caractéristiques** : [[Adiantum capillus-veneris]]
+
+ZH : non spécifié
+
 Ordres :
 - [[Adiantetalia capilli-veneris]] Braun-Blanquet ex Horvatić 1934
 

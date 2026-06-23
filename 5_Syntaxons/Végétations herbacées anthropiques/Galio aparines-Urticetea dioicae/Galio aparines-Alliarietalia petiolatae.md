@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés des sols secs à frais
+
+**Espèces caractéristiques** : [[Alliaria petiolata]], [[Glechoma hederacea]], [[Chelidonium majus]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Aegopodion podagrariae]] Tüxen 1967 nom. cons. propos.
 - [[Balloto-Conion maculati]] Brullo et Marcenò 1985

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Herbiers de Phanérogames vivaces à feuilles flottantes
+
+**Espèces caractéristiques** : [[Nymphaea alba]], [[Trapa natans]], [[Nymphoides peltata]], [[Persicaria amphibia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C1.241]] - [[C1.34]] (eaux stagnantes) / [[C2.33]] - [[C2.34]] (eaux courantes)
+	- CB : [[22.431]] (eaux stagnantes) / [[24.43]] - [[24.44]] (eaux courantes)
+	- HIC EUR : [[NC]]
+
+ZH : non car aquatique
+
 Associations :
 - [[Ceratophyllo demersi-Potametum compressi]] R. Doll ex H. Passarge 1996 ; 
 - [[Elodeetum canadensis]] Pignatti ex Nedelcu 1967 ; 

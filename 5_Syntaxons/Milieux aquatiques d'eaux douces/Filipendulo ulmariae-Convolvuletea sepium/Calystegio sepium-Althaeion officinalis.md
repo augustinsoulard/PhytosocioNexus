@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétations luxuriantes de hautes herbes (sous influence littorale/estuarienne)
+
+**Espèces caractéristiques** : [[Althaea officinalis]], [[Oenanthe lachenalii]], [[Angelica heterocarpa]], [[Oenanthe crocata]], [[Cochlearia aestuaria]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.411]]
+	- CB : [[37.71]]
+	- HIC EUR : [[6430-5]] en contexte alluvial, hors recolonisation de prairies - NC
+
+ZH : oui
+
+
 Associations :
 - [[Althaeetum officinalis]] J. Duvigneaud 1967 ; 
 - [[Althaeo officinalis-Calystegietum sepium]] Beeftink 1965 ; 

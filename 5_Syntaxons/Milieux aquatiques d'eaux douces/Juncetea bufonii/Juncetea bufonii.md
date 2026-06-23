@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétations pionnières : Pelouses thérophytiques amphibies
+
+**Espèces caractéristiques** : [[Juncus bufonius]], [[Juncus tenageia]], [[Lythrum hyssopifolia]], [[Lythrum portula]]
+
+- **Correspondances typologiques** :
+	- Voir les ordres ci-dessous
+
+ZH : oui
+
 Ordres :
 - [[Elatino triandrae-Cyperetalia fusci]] B. Foucault 1988
 - [[Nanocyperetalia flavescentis]] Klika 1935

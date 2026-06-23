@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Sables calcaires
+
+**Espèces caractéristiques** : [[Koeleria macrantha]], [[Artemisia campestris]], [[Silene conica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.12]]
+	- CB : [[34.12]]
+	- HIC EUR : [[6120-1]]
+
+ZH : non
+
 Associations :
 - [[Artemisietum campestris]] G. Lemée 1937 ; 
 - [[Carici liparocarpi-Corynephoretum canescentis]] Choisnet 2019 nom. ined. (1) ; 

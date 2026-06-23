@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies montagnardes à subalpines
+
+**Espèces caractéristiques** : Alchemilla xanthochlora s.l ([[Alchemilla xanthochlora]])
+
+ZH : non spécifié
+
 Sous-alliances :
 - [[Alchemillo monticolae-Trisetenion flavescentis]] Ferrez 2007
 - [[Campanulo rhomboidalis-Trisetenion flavescentis]] Dierschke in Theurillat 1992

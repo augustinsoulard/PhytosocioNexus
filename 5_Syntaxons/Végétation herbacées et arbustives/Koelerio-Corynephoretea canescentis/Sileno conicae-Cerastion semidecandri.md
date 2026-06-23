@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés essentiellement annuelles, traditionnellement situées dans cet ordre, mais faisant transition avec la classe des Stipo capensis-Trachynietea distachyae (p. 39)
+
+**Espèces caractéristiques** : [[Cerastium semidecandrum]], [[Silene conica]], [[Phleum arenarium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.12]]
+	- CB : [[34.12]]
+	- HIC EUR : [[6120-1]]
+
+ZH : non
+
 Associations :
 - [[Erodio bipinnati-Alyssetum alyssoidis]] P. Lafon et E. Henry 2022 ; 
 - [[Linario arenariae-Omphalodetum littoralis]] Bioret et al. in Neto et al. 2015 ; 

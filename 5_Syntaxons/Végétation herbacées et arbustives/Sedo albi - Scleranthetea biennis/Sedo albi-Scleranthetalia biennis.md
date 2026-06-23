@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation des dalles rocheuses, à base notamment de crassulescentes (Communautés acidiphiles à acidiclines)
+
+**Espèces caractéristiques** : [[Sedum album]], [[Sedum acre]], [[Sedum sexangulare]], [[Sedum forsterianum]], [[Sempervivum tectorum]], [[Scleranthus perennis]], [[Sedum rupestre]], [[Sempervivum arachnoideum]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Sedion anglici]] Braun-Blanquet in Braun-Blanquet et Tüxen 1952
 - [[Sedion pyrenaici]] Tüxen ex Rivas Martínez et al. in T.E. Díaz et Fernández Prieto 1994

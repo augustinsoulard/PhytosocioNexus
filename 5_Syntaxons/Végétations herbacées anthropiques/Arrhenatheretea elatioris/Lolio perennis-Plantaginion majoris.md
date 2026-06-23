@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies surpâturées planitiaires à collinéennes
+
+**Espèces caractéristiques** : [[Lolium perenne]], [[Cichorium intybus]], [[Plantago coronopus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.6]] - [[E5.1]]
+	- CB : [[81.1]] - [[86.43]] - [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anthemido nobilis-Agrostietum capillaris]] P. Allorge ex B. Foucault in J.-M. Royer et al. 2006 ; 
 - [[Cichorietum intybi]] (Tüxen 1941) G. Sissingh 1969 ; 

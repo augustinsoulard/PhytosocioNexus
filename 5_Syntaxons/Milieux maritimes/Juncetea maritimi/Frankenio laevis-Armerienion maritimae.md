@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Hauts de schorres sur substrats plutôt sableux, secs l’été
+
+**Espèces caractéristiques** : [[Frankenia laevis]], [[Limonium auriculae-ursifolium]], [[Limonium ovalifolium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.531]]
+	- CB : [[15.33]]
+	- HIC EUR : [[1330-4]]
+
+ZH : oui
+
 Associations :
 - [[Cochleario anglicae-Frankenietum laevis]] Géhu et Géhu-Franck 1975 ; 
 - [[Frankenio laevis-Limonietum auriculi-ursifolii]] Bioret et Lahondère 2010 ; 

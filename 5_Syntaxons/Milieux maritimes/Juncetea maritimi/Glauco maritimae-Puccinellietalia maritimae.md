@@ -1,15 +1,23 @@
 ---
 tags:
   - ordre
-syntaxon_superieur: "[[Juncetea maritimi]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_superieur: "[[Juncetalia maritimi]]"
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+Syn : Lysimachio maritimae-Puccinellietalia maritimae
+
+**Description** : Végétation d’hémicryptophytes herbacées de schorre
+
+**Espèces caractéristiques** : [[Lysimachia maritima]], [[Limonium vulgare]], [[Armeria maritima]]
+
+ZH : oui
+
 Alliances :
 - [[Armerion maritimae]] Braun-Blanquet et De Leeuw 1936
 - [[Glauco maritimae-Juncion maritimi]] Géhu et Géhu-Franck ex Géhu in Bardat et al. 2004

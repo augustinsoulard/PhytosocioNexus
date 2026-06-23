@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Dunes atlantiques à nord-atlantiques
+
+**Espèces caractéristiques** : [[Armeria arenaria]], [[Phleum arenarium]], [[Rosa spinosissima]], [[Syntrichia ruraliformis]] (Bryophyte)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.41]] (dunes littorales) - [[E1.12]] (non littorales)
+	- CB : [[16.221]] (dunes littorales) - [[34.12]] (non littorales)
+	- HIC EUR : [[2130-1]] (dunes littorales) - [[6120-1]] (non littorales)
+
+ZH : non
+
 Associations :
 - [[Armerio arenariae-Rosetum pimpinellifoliae]] Géhu 2000 ; 
 - [[Asperulo densiflorae-Galietum maritimi]] Géhu 1995 nom. ined. (1) ; 

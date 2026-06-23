@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses sub- et nord-atlantiques, acidiclines
+
+**Espèces caractéristiques** : [[Festuca filiformis]], [[Viola canina]], [[Campanula rotundifolia]], [[Genista sagittalis]], [[Euphrasia officinalis subsp. rostkoviana]], [[Arnica montana]], [[Botrychium lunaria]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.712]] - [[E1.721]]
+	- CB : [[35.11]] - [[35.12]]
+	- HIC EUR : [[6230-1]] à [[6230-4]]
+
+ZH : non
+
 Associations :
 - [[Arnicetum montanae]] Schwickerath 1944 ; 
 - [[Aveno pratensis-Genistelletum sagittalis]] Oberdorfer 1957 ; 

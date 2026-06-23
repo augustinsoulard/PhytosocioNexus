@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière halophile (alliance mal connue en France)
+
+**Espèces caractéristiques** : [[Suaeda splendens]], [[Spergularia diandra]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.552]] - [[E6.13]]
+	- CB : [[15.12]]
+	- HIC EUR : [[1310-4]]
+
+ZH : oui
+
+
 Associations :
 - [[Junco bufonii-Chenopodietum chenopodioidis]] Géhu et Géhu-Franck 1984 ; 
 - [[Parapholidetum filiformis]] Brullo et al. 1994 ; 

@@ -7,12 +7,16 @@ syntaxon_inferieur:
   - "[[Plantaginetalia majoris]]"
   - "[[Trifolio repentis-Phleetalia pratensis]]"
 especes_indicatrices:
-date_maj: 2026-06-14
+date_maj: 2026-06-23
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation mésophile à mésohygrophile
+
+ZH : non spécifié
+
 Ordres :
 - [[Arrhenatheretalia elatioris]] Tüxen 1931
 - [[Plantaginetalia majoris]] Tüxen ex von Rochow 1951

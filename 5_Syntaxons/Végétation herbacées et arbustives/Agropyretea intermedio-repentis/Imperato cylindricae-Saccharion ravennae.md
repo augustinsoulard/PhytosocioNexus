@@ -1,6 +1,7 @@
 ---
 tags:
-syntaxon_superieur:
+  - alliance
+syntaxon_superieur: "[[Saccharetalia ravennae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-17
@@ -11,7 +12,14 @@ sources:
 ---
 Végétation herbacée vivace, haute, mésohygrophile à hygrophile, parfois légèrement halophile, des substrats sableux à sablo-limoneux temporairement inondés des dépressions arrière-dunaires ou du lit des cours d'eau de la Méditerranée. 
 
-Espèces indicatrices : [[Tripidium ravennae]], [[Scirpoides holoschoenus subsp. australis]], [[Imperata cylindrica]].
+Espèces indicatrices : [[Tripidium ravennae]], [[Scirpoides holoschoenus subsp. australis]], [[Imperata cylindrica]], [[Equisetum ramosissimum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.1]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : p.p.
 
 Associations :
 - [[Groupement à Imperata cylindrica et Scirpoides holoschoenus subsp. australis]] Noble nom. prov.

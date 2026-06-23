@@ -10,6 +10,20 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+
+**Description** : Pelouses thérophytiques amphibies
+
+**Espèces caractéristiques** : [[Lythrum tribracteatum]], [[Potentilla supina]], [[Limosella aquatica]]
+
+**Espèces de l'ancien Lythrion tribracteati** : [[Lythrum tribracteatum]], [[Lythrum junceum]], [[Damasonium alisma]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.421]]
+	- CB : [[22.341]]
+	- HIC EUR : [[3130-4]] - [[3170 mares temporaires]]
+
+ZH : oui
+
 Alliances :
 - [[Elatino triandrae-Damasonion alismatis]] B. Foucault 1988
 - [[Eleocharition soloniensis]] G. Philippi 1968

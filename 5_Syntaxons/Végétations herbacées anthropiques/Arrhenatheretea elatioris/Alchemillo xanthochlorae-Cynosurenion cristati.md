@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies montagnardes
+
+**Espèces caractéristiques** : Alchemilla gr. xanthochlora ([[Alchemilla xanthochlora]]), [[Euphrasia officinalis subsp. rostkoviana]], [[Gentiana lutea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.112]] - [[E2.113]]
+	- CB : [[38.112]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Alchemillo monticolae-Cynosuretum cristati]] Görs 1968 ; 
 - [[Cyano montani-Cynosuretum cristati]] B. Foucault 2016 ; 

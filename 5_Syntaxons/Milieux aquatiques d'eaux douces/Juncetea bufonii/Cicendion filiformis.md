@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses amphibies
+
+**Espèces caractéristiques** : [[Cicendia filiformis]], [[Exaculum pusillum]], [[Moenchia erecta]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4214]] - [[C3.5132]] - [[C3.5133]]
+	- CB : [[22.314]] - [[22.3232]] - [[22.3233]]
+	- HIC EUR : [[3130-4]] - [[3130-5]] - [[3170-4 mares temporaires]]
+
+ZH : oui
+
 Associations :
 - [[Centaurio maritimi-Juncetum capitati]] Bioret in B. Foucault 2013 ; 
 - [[Cicendietum filiformis]] P. Allorge 1922 ; 

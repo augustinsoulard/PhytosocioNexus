@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Androsacenalia vandellii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés silicicoles subalpines et alpines du Massif central
+
+**Espèces caractéristiques** : [[Dianthus gratianopolitanus]], [[Micranthes hieracifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.112]]
+	- CB : [[61.212]]
+	- HIC EUR : [[8220-8]]
+
+ZH : non
+
 Associations :
 - [[Biscutello arvernensis-Festucetum airoidis]] Billy ex Thébaud et al. 2014 ; 
 - [[Saxifragetum hieracifoliae]] Quézel et Rioux 1954 ; 

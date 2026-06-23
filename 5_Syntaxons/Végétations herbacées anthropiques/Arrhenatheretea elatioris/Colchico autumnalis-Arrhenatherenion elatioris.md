@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à submontagnardes mésohygrophiles (comprend un groupe d'associations planitiaires et un groupe d'associations collinéennes)
+
+**Espèces caractéristiques** : [[Colchicum autumnale]], [[Myosotis scorpioides]], [[Silaum silaus]], [[Ophioglossum vulgatum]], [[Achillea ptarmica]], [[Carex hirta]], Alchemilla gr. xanthochlora ([[Alchemilla xanthochlora]]), [[Campanula patula]], [[Phyteuma nigrum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.222]] - [[E2.23]]
+	- CB : [[38.22]] - [[38.23]]
+	- HIC EUR : [[6510-4]]
+
+ZH : oui
+
 Associations :
 - [[Alchemillo monticolae-Arrhenatheretum elatioris]] Görs 1968 ; 
 - [[Alchemillo xanthochlorae-Arrhenatheretum elatioris]] Sougnez in Sougnez et Limbourg 1963 ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses amphibies
+
+**Espèces caractéristiques** : [[Damasonium alisma]], [[Ranunculus lateriflorus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.42]]
+	- CB : [[22.34]]
+	- HIC EUR : [[3130-4]]
+
+ZH : oui
+
 Associations :
 - [[Elatinetum macropodae]] Braun-Blanquet 1936
 

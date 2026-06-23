@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés des sols engorgés une partie de l'année
+
+**Espèces caractéristiques** : [[Silene dioica]], [[Myosotis sylvatica]], [[Impatiens noli-tangere]], [[Rumex sanguineus]], [[Carex pendula]], [[Eupatorium cannabinum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.43]]
+	- CB : [[37.72]]
+	- HIC EUR : [[6430-7]] (en contexte de lisière forestière) - NC
+
+ZH : oui
+
 Associations :
 - [[Athyrio filicis-feminae-Caricetum pendulae]] (Jovet 1949) Julve ex J.-M. Royer et al. 2006 ; 
 - [[Athyrio filicis-feminae-Equisetetum sylvatici]] Decocq ex Catteau et Decocq in Catteau 2014 ; 

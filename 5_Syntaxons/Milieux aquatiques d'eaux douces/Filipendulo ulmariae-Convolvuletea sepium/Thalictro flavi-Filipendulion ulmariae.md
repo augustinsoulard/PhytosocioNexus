@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Mégaphorbiaies planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Thalictrum flavum]], [[Epilobium hirsutum]], [[Cirsium oleraceum]], [[Euphorbia villosa]], [[Valeriana officinalis subsp. repens]], [[Aconitum lusitanicum]], [[Eupatorium cannabinum]], [[Althaea officinalis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.411]] - [[E5.412]] - [[E5.421]]
+	- CB : [[37.25]] - [[37.715]]
+	- HIC EUR : [[6430-1 en contexte alluvial, hors recolonisation de prairies]]
+
+ZH : oui
+
 Associations :
 - [[Aconito napelli-Eupatorietum cannabini]] J.-M. Royer et al. ex J.-M. Royer et al. 2006 ; 
 - [[Angelico sylvestris-Filipenduletum ulmariae]] Roulier 1998 nom. illeg. ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Leonurus cardiaca]], [[Ballota nigra]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]]
+	- CB : [[87.1]] - [[87.2]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Arctio lappae-Artemisietum vulgaris]] Oberdorfer et al. ex Seybold et T. Müller 1972 ; 
 - [[Arctio minoris-Urticetum dioicae]] O. Bolòs ex O. Bolòs et Masalles 1983 ; 

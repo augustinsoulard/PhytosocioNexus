@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière de schorres (annuelles)
+
+**Espèces caractéristiques** : [[Cochlearia danica]], [[Catapodium marinum]], [[Spergularia marina]], [[Trifolium scabrum]], [[Hornungia procumbens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.553]] - [[B3.31]]
+	- CB : [[15.13]] - [[18.21]]
+	- HIC EUR : [[1310-4]] - [[1230-6]]
+
+ZH : oui / p.p.
+
 Associations :
 - [[Bromo ferronii-Trifolietum arvensis]] Géhu 2008 ; 
 - [[Catapodio marini-Centaurietum tenuiflori]] Bioret et al. 2017 ; 

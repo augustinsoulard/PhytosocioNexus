@@ -1,3 +1,26 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Loto pedunculati-Cardaminenalia pratensis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Communautés pâturées acidiclines à basiphiles
+
+**Espèces caractéristiques** : [[Juncus inflexus]], [[Pulicaria dysenterica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.41]] - [[E3.44]]
+	- CB : [[37.21]] - [[37.24]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Achilleo ptarmicae-Juncetum inflexi]] Mayot 1977 ; 
 - [[Carici distantis-Potentilletum reptantis]] Gamisans 1975 ; 

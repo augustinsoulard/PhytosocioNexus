@@ -10,10 +10,13 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Espèces caractéristiques** : [[Pontetilla caulescens var. petiolulata]], [[Asplenium trichomanes]]
+**Description** : Communautés calcicoles
+
+**Espèces caractéristiques** : [[Pontetilla caulescens var. petiolulata]], [[Potentilla caulescens]], [[Asplenium trichomanes]]
 
 **Espèces compagnes** :[[ Adiantum capillus-veneris]], [[Parietaria judaica]], [[Aster bellidiastrum]], [[Sedum fragans]], [[Hedera helix]]
 
+ZH : non spécifié
 
 Alliances :
 - [[Arenarion bertolonii]] Gamisans ex Theurillat in Mucina et al. 2015

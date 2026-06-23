@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies thermo-atlantiques à supraméditerranéennes mésohygrophiles
+
+**Espèces caractéristiques** : [[Bromus racemosus]], [[Oenanthe pimpinelloides]], [[Anacamptis laxiflora]], [[Lychnis flos-cuculi]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.211]]
+	- CB : [[38.21]]
+	- HIC EUR : [[6510-1]] & [[6510-3]]
+
+ZH : oui
+
 Associations :
 - [[Carici divisae-Trisetetum flavescentis]] F. Hardy 2011 ; 
 - [[Centaureo nemoralis-Schedonoretum arundinaceae]] M. Gruber ex B. Foucault 2016 ; 

@@ -10,9 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+
 Végétation sous-arbustive crassulescente, halophile, des sols régulièrement et longuement inondés d'eau salée, restant humides l’été, en zone méditerranéenne ou thermo-atlantique. 
 
-Espèces indicatrices : [[Limonium bellidifolium]], [[Sarcocornia perennis]], [[Sarcocornia fruticosa]].
+Espèces indicatrices : [[Arthrocnemum macrostachyum]], [[Senecio transiens]] [[Limonium bellidifolium]], [[Sarcocornia perennis]], [[Sarcocornia fruticosa]].
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.526]]
+	- CB : [[15.61]]
+	- HIC EUR : [[1410]]
+
+ZH : oui
 
 Associations :
 - [[Agropyro-Inuletum crithmoidis]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 

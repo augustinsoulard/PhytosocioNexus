@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches mésoxérophiles méditerranéo-atlantiques (Alliance située provisoirement par CatVeg dans les Galio-Urticetea, mais pour des raisons à la fois physionomiques, floristiques et écologiques, elle semble mieux située ici - [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine]])
+
+**Espèces caractéristiques** : [[Smyrnium olusatrum]], [[Galium aparine]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.6]] - [[E5.12]] - [[E5.13]] - [[I1.52]]
+	- CB : [[34.8]] - [[87.1]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Galio aparines-Smyrnietum olusatri]] (Izco et Géhu 1978) Bioret et al. 1993 ; 
 - [[Soncho oleracei-Smyrnietum olusatri]] Izco et Géhu 1978

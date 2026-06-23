@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation non nitrophile des parois et des murs
+
+ZH : non spécifié
+
 Ordre :
 - [[Androsacetalia vandellii ]]Braun-Blanquet in H. Meier et Braun-Blanquet 1934 corr. BraunBlanq. 1948
 - [[Asplenietalia glandulosi]] Braun-Blanquet et H. Meier in H. Meier et Braun-Blanquet 1934

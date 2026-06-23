@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Asplenienalia lanceolato-obovati]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés silicicoles collinéennes et montagnardes
+
+**Espèces caractéristiques** : [[Asplenium septentrionale]], [[Asplenium adiantum-nigrum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.112]]
+	- CB : [[62.212]]
+	- HIC EUR : [[8220-12]] (naturel) - NC (artificiel)
+
+ZH : non
+
 Associations :
 - [[Asplenietum septentrionali-adianti-nigri]] Oberdorfer 1938 ; 
 - [[Biscutello laevigatae-Asplenietum septentrionalis]] Korneck 1974 ; 

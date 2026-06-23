@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Androsacenalia vandellii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés silicicoles subalpines et alpines des Alpes et des Pyrénées
+
+**Espèces caractéristiques** : [[Androsace vandelii]], [[Primula hirsuta]], [[Cardamine resedifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.111]]
+	- CB : [[62.211]]
+	- HIC EUR : [[8220-1]] à [[8220-7]] (naturel) - NC (artificiel)
+
+ZH : non
+
 Associations :
 - [[Androsacetum pyrenaicae]] J. Benito 2000 ; 
 - [[Androsacetum vandellii]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926 ; 

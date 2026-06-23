@@ -14,6 +14,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Rochers littoraux (chasmophytes et pelouses aérohalines atlantiques)
+
+**Espèces caractéristiques** : [[Crithmum maritimum]], [[Dactylis glomerata subsp. oceanica]], [[Spergularia rupicola]], [[Daucus carota subsp. gummifer]], [[Matthiola incana]]
+
+ZH : p.p.
+
 Sous-alliances :
 - [[Armerio maritimae-Asplenienion marini]] Géhu 2008
 - [[Crithmo maritimi-Limonienion binervosi]] Géhu et Géhu-Franck 1984 nom. inval. (2b, 8)

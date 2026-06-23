@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses centre-méditerranéennes
+
+**Espèces caractéristiques** : [[Cicendia filiformis]], [[Isolepis cernua]], [[Silene laeta]], [[Bellis annua]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4218]]
+	- CB : [[22.3418]]
+	- HIC EUR : [[3130-4]] - [[3170-4 mares temporaires]]
+
+ZH : oui
+
 Associations :
 - [[Agrostio pourretii-Juncetum capitati]] (Barbero 1965) B. Foucault 2013 ; 
 - [[Bellido annuae-Cicendietum filiformis]] B. Foucault ex Paradis et Pozzo di Borgo 2005 ; 

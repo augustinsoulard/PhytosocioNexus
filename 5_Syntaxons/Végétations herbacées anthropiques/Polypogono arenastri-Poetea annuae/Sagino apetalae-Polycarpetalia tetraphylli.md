@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation thermophile d'optimum méditerranéen
+
+**Espèces caractéristiques** : [[Polycarpon tetraphyllum]], [[Sagina apetala]], [[Portulaca oleracea]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Digitario sanguinalis-Polygonion avicularis]] B. Foucault 2010
 - [[Euphorbion prostratae]] Rivas Martínez 1975

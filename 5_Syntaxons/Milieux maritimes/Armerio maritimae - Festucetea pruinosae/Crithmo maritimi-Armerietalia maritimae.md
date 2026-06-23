@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur: "[[Armerio maritimae - Festucetea pruinosae]]"
+syntaxon_superieur: "[[Armerio maritimae-Festucetea pruinosae]]"
 date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard

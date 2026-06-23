@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace basse d'hélophytes (pouvant être exondées)
+
+**Espèces caractéristiques** : [[Glyceria fluitans]], [[Catabrosa aquatica]], [[Sparganium neglectum]], [[Veronica beccabunga]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.11]] - [[C3.252]]
+	- CB : [[53.4]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Catabrosetum aquaticae]] Rübel 1912 ; 
 - [[Glycerietum fluitantis]] J. Eggler 1933 ; 

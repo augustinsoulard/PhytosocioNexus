@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Cultures sur sols acidiclines limono-sableux (sols argilo-limoneux)
+
+**Espèces caractéristiques** : [[Stachys arvensis]], [[Misopates orontium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[I1.1]] - [[I1.52]]
+	- CB : [[82.2]] - [[87.1]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Allio vineale-Ranunuculetum sardoi]] Lazare 2005 ; 
 - [[Amarantho hybridi-Chenopodietum polyspermi]] Tüxen et Oberdorfer 1958 ; 

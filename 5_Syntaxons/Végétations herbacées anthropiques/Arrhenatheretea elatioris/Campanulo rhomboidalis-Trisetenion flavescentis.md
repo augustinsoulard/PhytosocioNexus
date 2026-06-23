@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies montagnardes à subalpines basiphiles (Jura et surtout Alpes)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.31]]
+	- CB : [[38.3]]
+	- HIC EUR : [[6420-4]]
+
+ZH : p.p.
+
 Associations :
 - [[Campanulo rhomboidalis-Crepidetum biennis]] B. Foucault et Simeray in B. Foucault 2016 ; 
 - [[Euphorbio brittingeri-Trisetetum flavescentis]] B. Foucault 1986 ; 

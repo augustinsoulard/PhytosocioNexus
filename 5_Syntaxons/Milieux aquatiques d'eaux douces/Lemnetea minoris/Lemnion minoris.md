@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Lemnetalia minoris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,10 +10,16 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-
 Végétation annuelle aquatique flottante, unistrate, des eaux mésotrophes à hypertrophes de l'Europe tempérée. 
 
-Espèces indicatrices : [[Lemna gibba]], [[Wolffia arrhiza]].
+Espèces indicatrices : [[Lemna gibba]], [[Wolffia arrhiza]],[[Azolla filiculoides]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C1.221]] - [[C1.32]] - [[C2]]
+	- CB : [[22.411]]
+	- HIC EUR : [[3150-3]]
+
+ZH : non
 
 Associations :
 - [[Lemnetum gibbae]] W. Koch ex A. Miyawaki et J. Tüxen 1960 ; 

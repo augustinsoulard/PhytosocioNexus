@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses atlantiques à subatlantiques
+
+**Espèces caractéristiques** : [[Festuca filiformis]], [[Danthonia decumbens]], [[Carex pilulifera]], [[Galium saxatile]], [[Polygala serpyllifolia]], [[Veronica officinalis]], [[Rumex acetosella]], [[Calluna vulgaris]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Agrostion curtisii]] B. Foucault 1986
 - [[Danthonio decumbentis-Serapiadion linguae]] B. Foucault 1994

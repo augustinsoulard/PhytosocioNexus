@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés +/- hygroclines, nitrophiles et sciaphiles
+
+**Espèces caractéristiques** : [[Torilis japonica]], [[Chaerophyllum temulum]], [[Sison amomum]], [[Mycelis muralis]], [[Geranium lucidum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.43]]
+	- CB : [[37.72]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Alliarietum petiolatae]] W. Lohmeyer in Oberdorfer et al. ex Görs et T. Müller 1969 ; 
 - [[Alliario petiolatae-Chaerophylletum temuli]] (Kreh 1935) W. Lohmeyer 1949 ; 

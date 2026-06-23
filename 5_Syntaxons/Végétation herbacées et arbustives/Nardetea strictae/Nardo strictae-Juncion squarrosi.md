@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses plutôt atlantiques, mésohygrophiles (comprend un groupe d'associations à affinités atlantiques marquées et un groupe d'associations à affinités subatlantiques à subcontinentales)
+
+**Espèces caractéristiques** : [[Juncus squarrosus]], [[Carex panicea]], [[Carex nigra]], [[Carex echinata]], [[Agrostis canina]], [[Carum verticillatum]], [[Carex binervis]], [[Wahlenbergia hederacea]], [[Avenella flexuosa]], [[Nardus stricta]], [[Polygala vulgaris]], [[Gentiana pneumonanthe]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.52]]
+	- CB : [[37.32]]
+	- HIC EUR : [[6230-2]]
+
+ZH : oui
+
 Associations :
 - [[Carici binervis-Nardetum strictae]] (Pethybridge et Praeger 1905) Braun-Blanquet et Tüxen 1952 ; 
 - [[Carici trinervis-Nardetum strictae]] B. Foucault et al. 1978 ; 

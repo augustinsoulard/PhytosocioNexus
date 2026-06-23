@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets mésothermophiles nord- et subatlantiques
+
+**Espèces caractéristiques** : [[Anisantha sterilis]], [[Valerianella locusta]], [[Cerastium glomeratum]], [[Myosotis arvensis]], [[Geranium robertianum]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Anisantho sterilis-Geranion purpurei]] Misset 2019
 - [[Anthrisco caucalidis-Cochlearion danicae]] B. Foucault 2009

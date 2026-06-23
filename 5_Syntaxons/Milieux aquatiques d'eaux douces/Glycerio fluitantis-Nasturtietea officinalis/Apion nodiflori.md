@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace basse d'hélophytes (milieux aquatiques peu profonds)
+
+**Espèces caractéristiques** : [[Helosciadium nodiflorum]], [[Nasturtium officinale]], [[Berula erecta]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.11]]
+	- CB : [[53.4]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Beruletum erectae]] H. Roll 1938 mut. Sádlo 2011 ; 
 - [[Helosciadetum nodiflori]] Maire 1924 ; 

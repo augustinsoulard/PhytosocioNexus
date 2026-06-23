@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Éboulis calcaricoles du montagnard à l'alpin
+
+**Espèces caractéristiques** : [[Noccaea rotundifolia]], [[Doronicum grandiflorum]], [[Berardia lanuginosa]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H2.42]] - [[H2.432]]
+	- CB : [[61.22]] - [[61.232]]
+	- HIC EUR : [[8120-2]] & [[8120-3]]
+
+ZH : non
+
 Associations :
 - [[Berardio subacaulis-Brassicetum repandae]] Guinochet 1938 ; 
 - [[Doronicetum grandiflori]] Thimm 1953 ; 

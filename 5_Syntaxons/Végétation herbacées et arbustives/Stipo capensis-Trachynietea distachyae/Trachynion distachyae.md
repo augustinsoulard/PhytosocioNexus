@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation des sols et lithosols calcaires méditerranéo-atlantique (inclut notamment l'association Lino leonii-Arenarietum controversae)
+
+**Espèces caractéristiques** : [[Brachypodium distachyon]], [[Bupleurum baldense]], [[Linum leonii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.5131]]
+	- CB : [[34.5131]]
+	- HIC EUR : [[6220-2]] à [[6220-4]]
+
+ZH : non
+
 Associations :
 - [[Alysso simplicis-Holosteetum umbellati]] Laigneau et Corriol 2019 ; 
 - [[Bupleuro baldensis-Bombycilaenetum erectae]] Choisnet 2019 nom. ined. (1) ; 

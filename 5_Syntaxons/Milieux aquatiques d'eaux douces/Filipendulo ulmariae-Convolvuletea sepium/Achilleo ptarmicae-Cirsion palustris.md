@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Mégaphorbiaies planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Juncus effusus]], [[Juncus acutiflorus]], [[Scirpus sylvaticus]], [[Angelica sylvestris]], [[Scrophularia auriculata]], [[Athyrium filix-femina]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.411]] - [[E5.412]] - [[E5.421]]
+	- CB : [[37.25]] - [[37.715]]
+	- HIC EUR : [[6430-1]] en contexte alluvial, hors recolonisation de prairies - NC
+
+ZH : oui
+
 Associations :
 - [[Achilleo ptarmicae-Filipenduletum ulmariae]] H. Passarge (1971) 1975 ; 
 - [[Athyrio filicis-feminae-Phalaridetum arundinaceae]] Labadille in B. Foucault 2011 ; 

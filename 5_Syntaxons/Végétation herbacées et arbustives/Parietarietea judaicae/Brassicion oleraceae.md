@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés de hauts de falaises subhalophiles
+
+**Espèces caractéristiques** : [[Brassica oleracea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.31]] - [[J1.31]]
+	- CB : [[18.21]] - [[87.2]]
+	- HIC EUR : [[1230-6]] - NC
+
+ZH : p.p.
+
 Associations :
 - [[Beto maritimae-Parietarietum judaicae]] Bioret et Géhu 2011 ; 
 - [[Crithmo maritimi-Centranthetum rubri]] Géhu 2005 ; 

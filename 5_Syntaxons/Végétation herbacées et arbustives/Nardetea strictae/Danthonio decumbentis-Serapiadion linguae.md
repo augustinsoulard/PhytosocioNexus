@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses thermo-atlantiques, acidiclines
+
+**Espèces caractéristiques** : [[Serapias lingua]], [[Serapias cordigera]], [[Anacamptis morio]], [[Platanthera bifolia]], [[Danthonia decumbens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.721]]
+	- CB : [[35.12]]
+	- HIC EUR : [[6230-5]]
+
+ZH : non
+
 Associations :
 - [[Anacamptido morionis-Caricetum caryophylleae]] Misset 2014 ; 
 - [[Danthonio decumbentis-Isoetetum histricis]] Guitton et Thomassin 2013 ; 

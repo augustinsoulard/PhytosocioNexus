@@ -1,4 +1,25 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Loto pedunculati-Cardaminenalia pratensis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Communautés fauchées continentales (et relictuellement mégaphorbiaies)
 
+**Espèces caractéristiques** : [[Sanguisorba officinalis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.551]]
+	- CB : ?
+	- HIC EUR : [[1310-2]]
+
+ZH : oui
 
 Note CatVeg : de Foucault & Catteau (2012) utilisent le nom Alopecurion pratensis H. Passarge 1964 pour désigner l’alliance des prairies humides continentales en indiquant comme type l'Alopecuretum pratensis Eggler 1933. Or, il s'agit d'une erreur puisque Passarge (1964) mentionne l’Alopecuretum pratensis Regel 1925, qui s’avère être un groupe d’associations à Alopecurus pratensis. L'Alopecurion pratensis H. Passarge 1964 est donc invalide (art. 2b).  Le Calthion palustris Tüxen 1937 est une alliance fréquemment citée dans les travaux d’Europe centrale pour désigner les prairies humides continentales. En France, le sens donné à cette alliance se rapproche davantage d'une végétation des sols paratourbeux selon la conception de Bardat et al. (2004) et Royer et al. (2006), avec des associations incluses (Epilobio palustris-Juncetum effusi, Ranunculo flammulaeScirpetum sylvatici, etc.) très différentes de l’association type du Calthion palustris, l’Angelico sylvestrisCirsietum oleracei. Cette dernière serait même à considérer comme un complexe entre une prairie (Agrostietea stoloniferae) et une mégaphorbiaie (Filipendulo ulmariae-Convolvuletea sepium). Il y a donc une divergence d’interprétation majeure selon les auteurs. Par conséquent, nous pensons que le Calthion palustris est à considérer comme un nomen ambiguum rejiciendum propositum (art. 36). Nous retenons donc provisoirement l’Alopecurion pratensis dans le sens donné par de Foucault & Catteau 2012.
 

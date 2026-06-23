@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Androsacetalia vandellii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés silicicoles (collinéennes à montagnardes et supraméditerranéennes)
+
+ZH : non spécifié
+
 Alliances :
 - [[Antirrhinion asarinae]] (Braun-Blanquet in H. Meier et Braun-Blanquet 1934) Braun-Blanquet et al. 1952
 - [[Asplenion serpentini]] Braun-Blanquet et Tüxen ex J. Eggler 1955

@@ -3,7 +3,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur sables dunaires stabilisés du rivage de la Méditerranée centrale et occidentale. Espèces indicatrices : [[Crucianella maritima]], [[Malcolmia littorea]], [[Rumex roseus]], [[Ononis ramosissima]] (non revu),  [[Teucrium dunense]], [[Anthemis maritima]], [[Artemisia campestris subsp. glutinosa]].
+Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur sables dunaires stabilisés du rivage de la Méditerranée centrale et occidentale. 
+
+**Espèces caractéristiques** : [[Crucianella maritima]], [[Malcolmia littorea]], [[Rumex roseus]], [[Ononis ramosissima]] (non revu),  [[Teucrium dunense]], [[Anthemis maritima]], [[Artemisia campestris subsp. glutinosa]], [[Helichrysum italicum]], [[Scrophularia canina subsp. ramosissima]], [[Ephedra distachya]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.43]]
+	- CB : [[16.223]]
+	- HIC EUR : [[2110-1]]
+
+ZH : non
 
 Associations : 
 - [[Artemisio glutinosae-Teucrietum maritimi]] Molin. & Tallon 1965

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à submontagnardes mésophiles plutôt basiphiles
+
+**Espèces caractéristiques** : Taxons issus des Festuco-Brometea et des Trifolio-Geranietea
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.221]] - [[E2.23]]
+	- CB : [[38.22]] - [[38.23]]
+	- HIC EUR : [[6510-5]] & [[6510-6]] - NC
+
+ZH : non
+
 Associations :
 - [[Agrostio capillaris-Saxifragetum granulatae]] Billy ex Thébaud et al. 2014 ; 
 - [[Arrhenatheretum elatioris]] Braun-Blanquet ex Scherrer 1925 ; 

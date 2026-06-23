@@ -12,6 +12,15 @@ sources:
 ---
 Végétations d’algues à ramifications verticillées, ancrées au substrat par des rhizoïdes (charophytes), présentes dans des eaux stagnantes parfois faiblement courantes, douces ou saumâtres, faiblement acides à basiques, oligotrophes à mésoeutrophes, non ou très peu polluées. Elles colonisent des substrats meubles, formant des peuplements pionniers éphémères ou pérennes, monospécifiques à paucispécifiques, pouvant constituer la strate la plus profonde de la végétation aquatique.
 
+**Espèces caractéristiques** : [[Chara vulgaris]], [[Chara aspera]], [[Chara globularis]], [[Chara contraria]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C1.14]] - [[C1.25]] - [[C1.4]] (eaux stagnantes) - [[C2.33]] (eaux courantes)
+	- CB : [[22.44]] (eaux stagnantes) - [[24.43]] (eaux courantes)
+	- HIC EUR : [[3140-1]] - [[3140-2]] (eaux stagnantes) - [[3260-3]] - [[3260-4]] (eaux courantes)
+
+ZH : p.p. (eaux stagnantes) / non car aquatique (eaux courantes)
+
 Ordres :
 - [[Nitelletalia flexilis]] W.Krause 1969
 - [[Charetalia intermediae]] F. Sauer 1937

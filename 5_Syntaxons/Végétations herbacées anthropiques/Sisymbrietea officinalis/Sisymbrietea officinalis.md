@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches hautes : Friches à annuelles et bisannuelles, +/- nitrophiles
+
+**Espèces caractéristiques** : [[Sisymbrium officinale]], [[Anisantha tectorum]], [[Anisantha sterilis]]
+
+ZH : non spécifié
+
 Ordres :
 - [[Brometalia rubenti-tectorum]] Rivas Martínez et Izco 1977
 - [[Chenopodietalia muralis]] Braun-Blanquet in Braun-Blanquet et al. 1936

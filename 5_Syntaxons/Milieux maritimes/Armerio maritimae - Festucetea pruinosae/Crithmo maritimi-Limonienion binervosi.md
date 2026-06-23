@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière de la base des falaises aspergées d'embruns
+
+**Espèces caractéristiques** : [[Crithmum maritimum]], [[Limonium binervosum]], [[Limonium dodartii]], [[Limonium ovalifolium]], [[Limbarda crithmoides]], [[Dactylis glomerata subsp. oceanica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.31]]
+	- CB : [[18.21]]
+	- HIC EUR : [[1230-2]]
+
+ZH : p.p.
+
 Associations :
 - [[Armerio maritimae-Cochlearietum officinalis]] Géhu et Géhu-Franck 1984 ; 
 - [[Armerio maritimae-Inuletum crithmoidis]] Géhu 2006 ; 

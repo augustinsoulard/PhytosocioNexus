@@ -1,5 +1,3 @@
-
-
 ---
 tags:
   - alliance
@@ -12,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés du Midi sur sables xériques
+
+**Espèces caractéristiques** : [[Tuberaria guttata]], [[Plantago bellardii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.81]]
+	- CB : [[35.3]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anthoxanthetum ovati]] Gamisans et Paradis 1992 ; 
 - [[Crepido bellidifoliae-Plantaginetum weldenii]] Paradis et al. 2014 ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Herbiers de Phanérogames vivaces (eaux courantes et stagnantes)
+
+**Espèces caractéristiques** : [[Ranunculus fluitans]], [[Ranunculus penicillatus subsp. pseudofluitans]], [[Callitriche hamulata]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C2.2]] - [[C2.3]] (eaux courantes) / [[C1.2]] - [[C1.3]] (eaux stagnantes)
+	- CB : [[24.16]] - [[24.4]] (eaux courantes) / [[22.4]] (eaux stagnantes)
+	- HIC EUR : [[3260-1]] - [[3260-3]] - [[3260-4]] - [[3260-6]] (eaux courantes) / [[3150-1]] - [[NC]] (eaux stagnantes)
+
+ZH : non
+
 Associations :
 - [[Callitrichetum obtusangulae]] P. Seibert 1962 ; 
 - [[Callitricho hamulatae-Myriophylletum alterniflori]] Steusloff ex Weber-Oldecop 1967 ; 

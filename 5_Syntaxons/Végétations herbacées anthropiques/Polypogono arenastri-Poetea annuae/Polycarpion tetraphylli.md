@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation méditerranéenne occidentale à irradiation thermoatlantique
+
+**Espèces caractéristiques** : [[Polycarpon tetraphyllum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.8]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Crassulo tillaeae-Saginetum apetalae]] Rivas Martínez 1975 ; 
 - [[Plantagini coronopodis-Erodietum maritimi]] Géhu et Géhu-Franck 1991 ; 

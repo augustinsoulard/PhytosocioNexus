@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Terrasses alluviales mésiques
+
+**Espèces caractéristiques** : [[Poa pratensis subsp. angustifolia]], [[Rumex thyrsifolius]], Elytrigia div. sp (ex : [[Elytrigia repens]], [[Elytrigia campestris]]).
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.221]]
+	- CB : [[38.22]]
+	- HIC EUR : [[6510-4]]
+
+ZH : non
+
 Associations :
 - [[Carici divulsae-Poetum angustifoliae]] Felzines 2012 ; 
 - [[Carici leersii-Arrhenatheretum elatioris]] Loiseau et Felzines ex Felzines 2012 ; 

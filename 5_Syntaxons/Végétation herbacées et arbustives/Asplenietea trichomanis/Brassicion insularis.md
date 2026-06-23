@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Asplenietalia glandulosi]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés calcicoles thermo- à mésoméditerranéennes
+
+**Espèces caractéristiques** : [[Brassica insularis]], [[Ruta graveolens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.211]]
+	- CB : [[62.1111]]
+	- HIC EUR : [[8210-5]]
+
+ZH : non
+
 Associations :
 - [[Ruto graveolenti-Brassicetum insularis]] (Litardière 1928) Gamisans 1991
 

@@ -1,3 +1,28 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Loto tenuis-Festucenalia arundinaceae]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+
+**Description** : Prairies méditerranéo-atlantiques
+
+**Espèces caractéristiques** : [[Trifolium pratense subsp. maritimum]], [[Trifolium squamosum]], [[Trifolium michelianum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.41]]
+	- CB : [[37.21]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
+Associations :
 - [[Agropyro pycnanthi-Trifolietum maritimi]] Braun-Blanquet in Braun-Blanquet et al 1952 ; 
 - Carici divisaeLolietum perennis B. Foucault 2008 ; 
 - [[Dorycnio gracilis-Festucetum arundinaceae]] (Molinier et Devaux 1978) B. Foucault in B. Foucault et Catteau 2012 ; 

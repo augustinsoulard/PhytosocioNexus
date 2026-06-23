@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation des sols et lithosols calcaires (souvent en mélange avec les Alysso alyssoidis-Sedetalia albi)
+
+**Espèces caractéristiques** : [[Brachypodium distachyon]], [[Linum strictum]], [[Euphorbia exigua]], [[Bupleurum baldense]], [[Neatostema apulum]]
+
+ZH : non spécifié
+
 Ordres :
 - [[Brachypodietalia distachyi]] Rivas Martínez 1978
 - [[Stipo capensis-Bupleuretalia semicompositi]] Brullo ex Brullo et al. 2001

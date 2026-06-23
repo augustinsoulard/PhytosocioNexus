@@ -10,6 +10,13 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+
+**Description** : Végétation vivace haute de Poaceae et Cyperaceae
+
+**Espèces caractéristiques** : [[Phragmites australis]], [[Phalaris arundinacea]], Typha div. sp. ([[Typha angustifolia]], [[Typha latifolia]]), [[Cladium mariscus]], [[Sparganium erectum]], [[Butomus umbellatus]], [[Acorus calamus]], [[Equisetum fluviatile]], [[Ranunculus lingua]], [[Rorippa amphibia]], [[Sium latifolium]]
+
+ZH : oui
+
 Ordres :
 - [[Bolboschoenetalia maritimi]] Hejný in Holub et al. 1967
 - [[Magnocaricetalia]] Pignatti 1954

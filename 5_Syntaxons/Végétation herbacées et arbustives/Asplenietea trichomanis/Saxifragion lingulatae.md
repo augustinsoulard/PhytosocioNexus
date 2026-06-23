@@ -10,8 +10,16 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Espèces caractéristiques : [[Moeringia intermedia]], [[Hypericum coris]], [[Campanula rotundifolia subsp. macrorrhiza]]
+**Description** : Communautés héliophiles supra- et oroméditerranéennes des Alpes-Maritimes
 
+**Espèces caractéristiques** : [[Moeringia intermedia]], [[Hypericum coris]], [[Campanula rotundifolia subsp. macrorrhiza]], [[Saxifraga callosa]], [[Saxifraga cochlearis]], [[Potentilla saxifraga]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.23]]
+	- CB : [[62.13]]
+	- HIC EUR : [[8210-6]] à [[8210-8]]
+
+ZH : non
 
 Associations :
 - [[Ballotetum frutescentis]] Quézel 1950 ; 

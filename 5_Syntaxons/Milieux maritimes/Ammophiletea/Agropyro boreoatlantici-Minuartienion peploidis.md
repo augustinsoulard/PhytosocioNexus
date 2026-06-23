@@ -8,6 +8,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace pionnière des dunes mobiles
+
+**Espèces caractéristiques** : [[Elytrigia juncea subsp. boreoatlantica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.311]]
+	- CB : [[16.21]]
+	- HIC EUR : [[2110-1]]
+
+ZH : non
+
 
 Associations :
 - [[Crithmo maritimi-Otanthetum maritimi]] (Pavillard 1928) Géhu 2009 ; 

@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies ouvertes, piétinées
+
+**Espèces caractéristiques** : [[Plantago major]], [[Sagina procumbens]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Lolio perennis-Plantaginion majoris]] G. Sissingh 1969
 - [[Poion supinae]] Rivas Martínez et Géhu 1978

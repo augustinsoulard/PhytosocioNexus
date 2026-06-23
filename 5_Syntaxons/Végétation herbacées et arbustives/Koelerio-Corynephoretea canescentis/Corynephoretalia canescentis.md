@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétations maritimes ou de l'intérieur des terres
+
+**Espèces caractéristiques** : Abondance de Bryophytes ([[Polytrichum piliferum]]) et Lichens (Cladonia spp.)
+
+ZH : non spécifié
+
 Alliances :
 - [[Corynephorion canescentis]] Klika 1931
 - [[Sileno conicae-Cerastion semidecandri]] Korneck 1974

@@ -10,7 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Végétation herbacée vivace aquatique, halophile, des eaux des lagunes et des étangs saumâtres de l’Europe tempérée et de la Méditerranée.
+**Description** : Végétation herbacée vivace aquatique, halophile, des eaux des lagunes et des étangs saumâtres de l’Europe tempérée et de la Méditerranée
+
+**Espèces caractéristiques** : [[Ruppia maritima]], [[Ruppia cirrhosa]], [[Zannichellia obtusifolia]], [[Althenia filiformis]], [[Ranunculus baudotii]]
+
+- **Correspondances typologiques** :
+	- HIC EUR : [[1110-1 bancs de sable submergés]] - [[1140 sables]] - [[1130-1 estuaire]] - [[1150-1 eaux salées côtières peu profondes]]
 
 Alliances :
 - [[Zannichellion pedicellatae]] Schaminée et al. ex Ri. Pott 1992

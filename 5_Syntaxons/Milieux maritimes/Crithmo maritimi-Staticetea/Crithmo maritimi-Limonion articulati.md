@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés corses de chasmophytes et pelouses aérohalines méditerranéennes
+
+**Espèces caractéristiques** : [[Limonium articulatum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.331]]
+	- CB : [[18.22]]
+	- HIC EUR : [[1240-1]] - [[1240-2]]
+
+ZH : non
+
 
 Associations :
 - [[Armerio soleirolii-Seseletum praecoci]] Gamisans et Muracciole 1984 ; 

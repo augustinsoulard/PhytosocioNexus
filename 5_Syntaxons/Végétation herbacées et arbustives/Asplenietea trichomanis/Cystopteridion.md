@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Violo biflorae-Cystopteridetalia alpinae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés collinéennes
+
+**Espèces caractéristiques** : [[Cystopteris fragilis]], [[Valeriana tripteris]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.252]]
+	- CB : [[62.152]]
+	- HIC EUR : [[8210-17]] & [[8210-18]] (naturel) - NC (artificiel)
+
+ZH : non
+
 Association :
 - [[Asplenio viridis-Cystopteridetum fragilis]] (Kuhnholtz-Lordat 1939) Oberdorfer 1949 ; 
 - [[Androsaco lacteae-Ranunculetum alpestris]] J.L. Richard 1972 ; 

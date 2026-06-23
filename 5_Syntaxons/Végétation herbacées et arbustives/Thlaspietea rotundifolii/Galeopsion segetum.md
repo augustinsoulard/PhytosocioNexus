@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Éboulis siliceux secs, du collinéen au montagnard
+
+**Espèces caractéristiques** : [[Galeopsis segetum]], [[Galeopsis bifida]], [[Anarrhinum bellidifolium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H2.32]]
+	- CB : [[61.12]]
+	- HIC EUR : [[8150-1]]
+
+ZH : non
+
 Associations :
 - [[Anarrhinetum bellidifolii]] Korneck 1974 ; 
 - [[Biscutello lamottei-Galeopsietum segeti]] Coquillard et al. ex Thébaud et al. 2014 ; 

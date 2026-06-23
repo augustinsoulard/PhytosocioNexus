@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses thermo- à eu-atlantiques, acidiphiles (comprend un groupe d'associations thermo-atlantiques, un groupe d'associations eu-atlantiques, et un groupe d'associations de pointements rocheux à Glaïeul et Agrostis curtisii)
+
+**Espèces caractéristiques** : [[Agrostis curtisii]], [[Pseudarrhenatherum longifolium]], [[Helictochloa marginata]], [[Carex binervis]], [[Simethis mattiazzii]], [[Viola lactea]], [[Tractema umbellata]], [[Cirsium filipendulum]], [[Ulex gallii]], [[Jasione montana]], [[Gladiolus gallaecicus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.721]]
+	- CB : [[35.12]]
+	- HIC EUR : [[6230-5]] à [[6230-7]]
+
+ZH : non
+
 Associations :
 - [[Agrostietum capillari-curtisii]] Wattez et Godeau ex B. Foucault 1993 ; 
 - [[Agrostio curtisii-Avenuletum sulcatae]] B. Foucault (1986) 1993 ; 

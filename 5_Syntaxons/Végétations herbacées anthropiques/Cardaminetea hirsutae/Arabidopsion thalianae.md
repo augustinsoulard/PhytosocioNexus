@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Bromo sterilis-Cardaminetalia hirsutae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets mésothermes
+
+**Espèces caractéristiques** : [[Myosotis stricta]], [[Holosteum umbellatum]], [[Ervilia hirsuta]], [[Viola arvensis]], [[Trifolium arvense]], [[Anchusa arvensis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anchuso arvensis-Arabidopsietum thalianae]] Billy 2002 nom. inval. (3b) ; 
 - [[Myosotido strictae-Arabidopsietum thalianae]] H. Passarge (1962) 1977 ; 

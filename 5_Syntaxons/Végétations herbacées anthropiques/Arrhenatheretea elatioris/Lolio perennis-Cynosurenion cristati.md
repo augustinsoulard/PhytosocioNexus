@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à montagnardes eutrophiles
+
+**Espèces caractéristiques** : [[Rumex obtusifolius]], [[Cirsium arvense]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.111]] - [[E2.6]]
+	- CB : [[38.111]] - [[81]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Cirsio arvensis-Lolietum perennis]] B. Foucault 2016 ; 
 - [[Cynosuro cristati-Lolietum perennis]] Braun-Blanquet et De Leeuw 1936 ; 

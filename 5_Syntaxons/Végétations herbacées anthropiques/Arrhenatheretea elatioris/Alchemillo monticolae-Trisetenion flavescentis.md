@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies montagnardes à subalpines basiphiles eutrophisées
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.31]] - [[E4.51]]
+	- CB : [[38.3]] - [[36.51]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Alchemillo monticolae-Brometum mollis]] J.L. Richard ex Ferrez 2007 ; 
 - [[Heracleo sibirici-Arrhenatheretum elatioris]] B. Foucault 1987 nom. corr. ; 

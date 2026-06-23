@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés provençales mésohygrophiles
+
+**Espèces caractéristiques** : [[Vulpia ligustica]], [[Lotus hispidus]], [[Trifolium resupinatum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.2]]
+	- CB : [[37.5]]
+	- HIC EUR : NC
+
+ZH : oui
+
 Associations :
 - [[Loto hispidi-Trifolietum resupinati]] G. Aubert et R.J. Loisel 1971 ; 
 - [[Tillaeetum muscosae]] Molinier et Tallon 1950 ; 

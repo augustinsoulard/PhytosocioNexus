@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Cariçaies sur sols vaseux non consolidés
+
+**Espèces caractéristiques** : [[Carex pseudocyperus]], [[Carex riparia]], [[Carex acutiformis]], [[Cicuta virosa]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[D5.218]]
+	- CB : [[53.218]] - [[53.5]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Berulo erectae-Ranunculetum linguae]] Prey et Wattez in Catteau et al. 2017 ; 
 - [[Calletum palustris]] (Osvald 1923) Vanden Berghen 1952 ; 

@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies essentiellement fauchées
+
+**Espèces caractéristiques** : [[Arrhenatherum elatius]], [[Bromus hordeaceus]], [[Dactylis glomerata]]
+
+ZH : non spécifié
 
 Alliances :
 - [[Arrhenatherion elatioris]]

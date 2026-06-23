@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Régions subatlantiques à médioeuropéennes
+
+**Espèces caractéristiques** : [[Sedum album]], [[Veronica dillenii]], [[Gagea bohemica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.114]] - [[H3.62]] - [[J2]]
+	- CB : [[34.114]] - [[62.3]] - [[86]]
+	- HIC EUR : [[6110-1]] - [[8230-4]] - NC (substrats artificiels)
+
+ZH : non
+
 Associations :
 - [[Festuco-Veronicetum dillenii]] Oberdorfer 1957
 - [[Gageo saxatilis-Veronicetum dillenii]] (Oberdorfer 1957) Korneck 1974

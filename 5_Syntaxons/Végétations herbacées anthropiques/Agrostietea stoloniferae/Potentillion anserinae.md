@@ -1,3 +1,26 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Loto pedunculati-Cardaminenalia pratensis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Communautés surpiétinées
+
+**Espèces caractéristiques** : [[Potentilla anserina]], [[Potentilla reptans]], [[Juncus compressus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.442]]
+	- CB : [[37.24]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Caricetum hirto-distichae]] B. Didier et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Carici flaccae-Agrostietum albae]] C. Béguin 1970 ; 

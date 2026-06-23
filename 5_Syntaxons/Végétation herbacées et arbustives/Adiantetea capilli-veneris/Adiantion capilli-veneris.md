@@ -1,13 +1,23 @@
 ---
 tags:
   - "#alliance"
-syntaxon_superieur:
+syntaxon_superieur: "[[Adiantetalia capilli-veneris]]"
 date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Suintements ombragés sur calcaire
+
+**Espèces caractéristiques** : [[Samolus valerandi]], [[Eucladium verticillatum]] (Bryophyte)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.41]]
+	- CB : [[62.51]]
+	- HIC EUR : NC
+
+ZH : oui
 
 Associations :
 - [[Adianto capilli-veneris-Osmundetum regalis ]]Brullo et al. 1989 ; 

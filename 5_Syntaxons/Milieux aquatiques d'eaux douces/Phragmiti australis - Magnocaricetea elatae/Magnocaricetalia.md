@@ -10,6 +10,13 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés à inondation moins prolongée
+
+**Espèces caractéristiques** : [[Galium palustre]], [[Lathyrus palustris]]
+
+ZH : oui
+
+
 Alliances :
 - [[Carici pseudocyperi-Rumicion hydrolapathi]] H. Passarge 1964
 - [[Caricion gracilis]] Neuhäusl 1959

@@ -13,10 +13,10 @@ sources:
 Communautés pionnières le plus souvent éphémères des milieux peu profonds ou temporaires, basiques, parfois sub-saumâtres, mésotrophes à légèrement eutrophes.
 
 Associations :
-- ✓ 13-[[Tolypelletum glomeratae]]* Corill. 1957 
-- ✓ 14-[[Charetum vulgaris]]* Corill. 1949 
-- ✓ 15-[[Nitelletum opacae]]* Corill. 1957 
-- ✓ 16-[[Charetum imperfectae]] Cirujano 1995 
+- [[Tolypelletum glomeratae]]* Corill. 1957 
+- [[Charetum vulgaris]]* Corill. 1949 
+- -[[Nitelletum opacae]]* Corill. 1957 
+- [[Charetum imperfectae]] Cirujano 1995 
 - [[Charo vulgaris-Tolypelletum intricatae]] W. Krause ex W. Krause et G. Lang in Oberdorfer 1977 ; 
 - [[Nitelletum batrachospermae]] Corillion 1957 ; 
 - [[Nitelletum syncarpo-tenuissimae]] W. Krause 1969 ; 

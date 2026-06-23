@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Sables acides ou décalcifiés souvent mobiles et arènes granitiques
+
+**Espèces caractéristiques** : [[Corynephorus canescens]], [[Mibora minima]], [[Micropyrum tenellum]], [[Sesamoides purpurascens]], [[Sedum album subsp. micranthum]], [[Spergula morisonii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.41]] (dunes littorales) - [[E1.93]] - [[E1.94]] - [[E1.95]] (non littorales)
+	- CB : [[16.221]] (dunes littorales) - [[35.23]] - [[64.11]] - [[64.12]] (non littorales)
+	- HIC EUR : [[2130-1]] (dunes littorales) - [[6120-1]] (non littorales)
+
+ZH : non
+
 Associations :
 - [[Agrostietum vinealis]] Kobendza 1930 corr. Kratzert et Dengler 1999 ; 
 - [[Astrocarpo purpurascentis-Corynephoretum canescentis]] Braun-Blanquet 1967 ; 

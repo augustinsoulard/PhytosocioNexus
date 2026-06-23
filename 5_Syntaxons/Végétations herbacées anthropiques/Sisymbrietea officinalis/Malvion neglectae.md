@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches subcontinentales, phénologie plus tardive
+
+**Espèces caractéristiques** : [[Malva neglecta]], [[Hyoscyamus niger]], [[Datura stramonium]], [[Oxybasis glauca]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]] - [[I1.52]]
+	- CB : [[87.1]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Chenopodietum vulvariae]] Gutte et Pyšek 1976 ; 
 - [[Chenopodio vulvariae-Malvetum neglectae]] Gutte 1972 ; 

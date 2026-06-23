@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés de large répartition, littorales ou non
+
+**Espèces caractéristiques** : [[Tuberaria guttata]], [[Teesdalia nudicaulis]], [[Ornithopus perpusillus]], [[Crassula tillaea]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Vulpion ligusticae]] G. Aubert et R.J. Loisel 1971
 - [[Helianthemion guttati]] Braun-Blanquet in Braun-Blanquet et al. 1940

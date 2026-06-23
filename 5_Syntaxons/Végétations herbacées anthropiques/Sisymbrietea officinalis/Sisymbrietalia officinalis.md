@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches tardivernales, eurosibériennes et méditerranéennes
+
+**Espèces caractéristiques** : [[Descurainia sophia]], [[Capsella bursa-pastoris]], [[Erigeron canadensis]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Bromo-Hordeion murini]] Hejný 1978
 - [[Malvion neglectae]] Hejný 1978

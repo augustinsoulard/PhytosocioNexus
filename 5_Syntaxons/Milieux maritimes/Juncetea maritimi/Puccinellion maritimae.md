@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Bas à moyens schorres
+
+**Espèces caractéristiques** : [[Puccinellia maritima]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.541]] - [[A2.542]] - [[A2.546]]
+	- CB : [[15.31]] - [[15.32]]
+	- HIC EUR : [[1330-1]] - [[1330-2]]
+
+ZH : oui
+
 Associations :
 - [[Puccinellietum fasciculatae]] Beeftink 1965 ; 
 - [[Puccinellietum maritimae]] W.F. Christiansen 1927 ; 

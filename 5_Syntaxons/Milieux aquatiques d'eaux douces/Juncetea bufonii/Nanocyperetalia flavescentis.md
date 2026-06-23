@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses thérophytiques amphibies
+
+**Espèces caractéristiques** : [[Juncus capitatus]], [[Radiola linoides]], [[Isolepis setacea]], [[Montia fontana]]
+
+ZH : oui
+
 Alliances :
 - [[Agrostion salmanticae]] Rivas Goday 1958
 - [[Centaurio pulchelli-Blackstonion perfoliatae]] (Müller-Stoll et W. Pietsch 1965) B. Foucault 1988

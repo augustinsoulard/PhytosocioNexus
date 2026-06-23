@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses vivaces amphibies
+
+**Espèces caractéristiques** : [[Isoetes histrix]], [[Isoetes duriei]], [[Ophioglossum lusitanicum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4211]]
+	- CB : [[22.3411]]
+	- HIC EUR : [[3120-2]]
+
+ZH : oui
+
+
 Associations :
 - [[Chamaemelo nobilis-Isoetetum histricis]] Bioret in B. Foucault 2013 ; 
 - [[Isoetetum durieui]] Braun-Blanquet 1936 ; 

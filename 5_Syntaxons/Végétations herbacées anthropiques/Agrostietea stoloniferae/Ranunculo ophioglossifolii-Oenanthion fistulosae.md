@@ -1,3 +1,26 @@
+---
+tags:
+  - association
+syntaxon_superieur: "[[Mentho pulegii-Eleocharitenalia palustris]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Prairies méditerranéo-atlantiques des sols inondables
+
+**Espèces caractéristiques** : [[Anacamptis laxiflora]], [[Trifolium michelianum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.41]]
+	- CB : [[37.21]]
+	- HIC EUR : NC
+
+ZH : oui
+
 Associations :
 - [[Baldellio ranunculoidis-Lythretum salicariae]] Gamisans et al. 1998 ; 
 - [[Eleocharito palustris-Scirpetum americani]] B. Foucault 1988 nom. inval. (3b) ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation nitrophile des murs
+
+**Espèces caractéristiques** : [[Centranthus ruber]], [[Parietaria judaica]], [[Hyoscyamus albus]], [[Chaenorrhinum origanifolium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[J1.31]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Asarino procumbentis-Parietarietum judaicae]] B. Foucault 2017 ; 
 - [[Capparietum rupestris]] O. Bolòs et Molinier 1958 ; 

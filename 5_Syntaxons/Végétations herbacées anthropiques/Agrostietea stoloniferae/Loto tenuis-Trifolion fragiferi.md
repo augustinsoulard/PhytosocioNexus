@@ -1,3 +1,26 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Loto tenuis-Festucenalia arundinaceae]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Communautés littorales ou parfois continentales
+
+**Espèces caractéristiques** : [[Lysimachia maritima]], [[Samolus valerandi]], [[Apium graveolens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.31]] - [[B1.84]] - [[A2.531]] - [[D6.1]]
+	- CB : [[18.21]] - [[15.33]] - [[16.34]] - [[15.43]]
+	- HIC EUR : [[NC]] - [[2190-4]] (panne dunaire) - [[1410-3]] (pré salé littoral) - [[1340-3]] (pré salé continental)
+
+ZH : oui
+
 Associations :
 - [[Agropyro repentis-Juncetum gerardi]] J. Duvigneaud 1967 ; 
 - [[Agrostio stoloniferae-Caricetum vikingensis]] Géhu 1982 ; 
@@ -16,5 +39,3 @@ Associations :
 - [[Trifolietum fragifero-repentis]] Julve 1989 nom. ined. (1)
 
 Note CatVeg : le Teucrio scordioidis-Agrostietum stoloniferae est placé dans le Trifolio fragiferi-Cynodontion dactyli par de Foucault & Catteau (2012), mais cette association s’y distingue par la part importante des taxons tempérés. Nous la plaçons provisoirement dans le Loto tenuis-Trifolion fragiferi en attendant une étude plus approfondie.
-
-#alliance 

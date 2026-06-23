@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+
+**Description** : Pelouses amphibies
+
+**Espèces caractéristiques** : Crypsis div. sp (exemple : [[Sporobolus schoenoides]]), [[Cyperus michelianus]], [[Lindernia palustris]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.423]]
+	- CB : [[22.343]]
+	- HIC EUR : [[3130-3]] - [[3130-4]] - [[3170-3 mares temporaires]]
+
+ZH : oui
+
 Associations :
 - [[Crypsio schoenoidis-Cyperetum micheliani]] Martínez Parras et al. 1988 ; 
 - [[Cypero fusci-Crypsidetum alopecuroidis]] F. Prud'homme et al. in Corriol et al. 2022 ; 

@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace rase et amphibie
+
+**Espèces caractéristiques** : Isoetes sp. pl.
+
+ZH : oui
+
 Alliances :
 - [[Carici nigrae-Juncion bulbosi]] B. Foucault 2010
 - [[Eleocharition acicularis]] W. Pietsch 1967

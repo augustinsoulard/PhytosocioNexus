@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Lemnetalia minoris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -11,6 +11,15 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
 Communautés dominées par des hydrophytes carnivores de grande taille flottant sous la surface de I’eau (utriculariides) et peuplant les eaux stagnantes de faible profondeur.
+
+**Espèces caractéristiques** : [[Utricularia vulgaris]], [[Utricularia australis]], [[Aldrovanda vesiculosa]], [[Ceratophyllum demersum]], [[Ceratophyllum submersum]],  [[Hydrocharis morsus-ranae]], [[Stratiotes aloides]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C1.224]] - [[C1.221]] - [[C2.5]] - [[C1.23]] - [[C1.22]] - [[C1.32]] - [[C1.222]]
+	- CB : [[22.4]] - [[24.4]] - [[22.422]] - [[22.41]] - [[22.412]]
+	- HIC EUR : [[3150-2]] - [[3150-3]]
+
+ZH : non
 
 Associations :
 - [[Lemno minoris-Hydrocharitetum morsus-ranae]] Oberdorfer ex H. Passarge 1978 ; 

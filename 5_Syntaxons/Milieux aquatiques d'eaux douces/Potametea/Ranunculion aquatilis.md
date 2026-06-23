@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Herbiers des eaux douces et saumâtres
+
+**Espèces caractéristiques** : [[Ranunculus aquatilis]], [[Callitriche brutia]], [[Hottonia palustris]], [[Zannichellia palustris]], [[Zannichellia pedunculata]], [[Ranunculus baudotii]], [[Ranunculus omiophyllus]], [[Ranunculus ololeucos]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C1.341]]
+	- CB : [[22.432]]
+	- HIC EUR : [[NC]]
+
+ZH : p.p.
+
 Associations :
 - [[Batrachietum rionii]] Hejný et Husák in Dykyjová et Květ 1978 ; 
 - [[Batrachietum rionii]] J.M. Pizarro et Rivas Martínez in Rivas Martínez et al. 2002 ; 

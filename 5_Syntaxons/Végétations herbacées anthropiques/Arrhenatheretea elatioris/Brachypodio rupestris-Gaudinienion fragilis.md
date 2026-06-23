@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies thermo-atlantiques à supraméditerranéennes mésophiles
+
+**Espèces caractéristiques** : [[Brachypodium rupestre]], [[Poterium sanguisorba]], [[Jacobaea vulgaris]], [[Galium pumilum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.211]]
+	- CB : [[38.21]]
+	- HIC EUR : [[6510-1]], [[6510-2]] & [[6510-3]]
+
+ZH : non
+
 Associations :
 - [[Chamaemelo nobilis-Vicietum nigrae]] B. Foucault 2016 ; 
 - [[Diantho armeriae-Spiranthetum spiralis]] Labadille et B. Foucault 1997 ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à submontagnardes mésophiles pyrénéennes
+
+**Espèces caractéristiques** : [[Rhinanthus pumilus]], [[Heracleum pyrenaicum]], [[Knautia arvernensis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.211]]
+	- CB : [[38.21]]
+	- HIC EUR : [[6510-3]]
+
+ZH : non
+
 Associations :
 - [[Colchico autumnalis-Avenuletum pubescentis]] B. Foucault 2019 ; 
 - [[Heracleo setosi-Arrhenatheretum elatioris]] Corriol 2013 ; 

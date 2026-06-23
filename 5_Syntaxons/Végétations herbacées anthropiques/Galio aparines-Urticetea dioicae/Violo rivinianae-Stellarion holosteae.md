@@ -10,6 +10,20 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés des sols frais, +/- ombragés, à géophytes vernaux
+
+**Espèces caractéristiques** : [[Ficaria verna]], [[Hyacinthoides non-scripta]], [[Adoxa moschatellina]], Arum div. sp. ([[Arum maculatum]], [[Arum italicum]]), [[Symphytum tuberosum]], [[Melica uniflora]], [[Polygonatum multiflorum]], [[Viola odorata]], [[Stellaria holostea]], [[Viola riviniana]], [[Primula veris subsp. veris]], [[Anemone nemorosa]]
+
+**Espèces caractéristiques** : 
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.43]]
+	- CB : [[37.72]]
+	- HIC EUR : NC
+
+
+ZH : non spécifié
+
 Associations :
 - [[Adoxo moschatellinae-Ranunculetum ficariae]] (Julve 1994) Felzines in J.-M. Royer et al. 2006 ; 
 - [[Aquilegio vulgaris-Silenetum dioicae]] Robbe ex J.-M. Royer et al. 2006 ; 

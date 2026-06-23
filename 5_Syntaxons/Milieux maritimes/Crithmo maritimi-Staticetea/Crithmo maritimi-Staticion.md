@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés continentales de chasmophytes et pelouses aérohalines méditerranéennes
+
+**Espèces caractéristiques** : [[Limonium pseudominutum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.331]]
+	- CB : [[18.22]]
+	- HIC EUR : [[1240-1]] - [[1240-2]]
+
+ZH : non
+
 Associations :
 - [[Armerietum ruscinonensis]] Braun-Blanquet ex Rioux et al. 1955 ; 
 - [[Camphorosmo monspeliacae-Frankenietum]] hirsutae Molinier 1934 ; 

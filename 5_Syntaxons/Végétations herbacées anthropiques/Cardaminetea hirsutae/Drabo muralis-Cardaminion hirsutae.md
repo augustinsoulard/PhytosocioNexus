@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Bromo sterilis-Cardaminetalia hirsutae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,7 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Associaitons :
+**Description** : Ourlets thermo- à nord-atlantiques, non littoraux
+
+**Espèces caractéristiques** : [[Valerianella carinata]], [[Sedum cepaea]], [[Draba muralis]], [[Geranium lucidum]], [[Microthlaspi perfoliatum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
+Associations :
 - [[Alliario petiolatae-Calepinetum irregularis]] Choisnet 2019 nom. ined. (1) et inval. (4) ; 
 - [[Arabidopsio thalianae-Myosotidetum balbisianae]] B. Foucault 2017 ; 
 - [[Barbareetum vernae]] Robbe in J.-M. Royer et al. 2006 ; 

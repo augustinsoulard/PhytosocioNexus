@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace haute de Poaceae et Cyperaceae (Cariçaies)
+
+**Espèces caractéristiques** : [[Carex elata]], [[Carex rostrata]], [[Carex acuta]], [[Thysselinum palustre]], [[Poa palustris]], [[Hippuris vulgaris]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.85]] (Dunes) - [[D5.24]] (Cladium mariscus dominant) - [[D5.3]] (Juncus effusus dominant) - [[D4.11]] (Tourbeux et alcalin) - [[D5.21]] (Autres)
+	- CB : [[16.35]] (Dunes) - [[53.31]] (Cladium mariscus dominant) - [[53.5]] (Juncus effusus dominant) - [[54.21]] (Tourbeux et alcalin) - [[53.21]] (Autres)
+	- HIC EUR : [[2190-5]] (Dunes) - [[7210-1]] (Cladium mariscus dominant) - [[NC]] (Autres)
+
+ZH : oui
+
+
 Associations :
 - [[Caricetum acutiformi-paniculatae]] Vlieger et Zinderen-Bakker in Boer 1942 ; 
 - [[Caricetum cespitosae]] (Cajander 1905) Steffen 1931 ; 

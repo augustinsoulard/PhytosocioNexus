@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés tyrrhéniennes des sables meubles
+
+**Espèces caractéristiques** : [[Malcolmia ramosissima]], [[Maresia nana]], [[Trifolium cherleri]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.48]] (littoral) - [[E1.A1]] (autre)
+	- CB : [[16.228]] (littoral) - [[35.4]] (autre)
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Corrigiolo telephifoliae-Corynephoretum articulati]] Géhu et al. 1987 ; 
 - [[Cutandietum maritimae]] C. Piazza et Paradis 1994 ; 

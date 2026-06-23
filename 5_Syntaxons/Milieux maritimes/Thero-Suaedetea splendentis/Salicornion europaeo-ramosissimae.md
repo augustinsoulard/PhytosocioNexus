@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés atlantiques des schorres de plus haut niveau (diploïdes)
+
+**Espèces caractéristiques** : [[Salicornia europaea]], [[Salicornia obscura]], [[Salicornia ramosissima]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.551]]
+	- CB : [[15.111]]
+	- HIC EUR : [[1310-2]]
+
+ZH : oui
+
 Associations :
 - [[Astero tripolii-Suaedetum maritimae]] Géhu et Géhu-Franck 1984 ; 
 - [[Salicornietum obscurae]] Géhu et Géhu-Franck 1984 ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches dominées par de grands chardons
+
+**Espèces caractéristiques** : [[Carduus nutans]], [[Reseda luteola]], [[Verbascum densiflorum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Artemisio vulgaris-Cirsietum eriophori]] Billy ex Felzines 2012 ; 
 - [[Carduo nutantis-Cirsietum richteriani]] Loidi 1983 ; 

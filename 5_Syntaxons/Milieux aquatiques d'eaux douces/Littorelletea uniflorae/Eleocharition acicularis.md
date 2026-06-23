@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés continentales-montagnardes
+
+**Espèces caractéristiques** : [[Alisma lanceolatum]], [[Alisma gramineum]], [[Marsilea quadrifolia]], [[Isoëtes velata subsp. tenuissima]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4113]]
+	- CB : [[22.3113]]
+	- HIC EUR : [[3110-1]]
+
+ZH : oui
+
 Associations :
 - [[Deschampsietum rhenanae]] Oberdorfer ex Dierßen 1975 ; 
 - [[Eleocharitetum acicularis]] W. Koch ex E.G. Almquist 1929 ; 

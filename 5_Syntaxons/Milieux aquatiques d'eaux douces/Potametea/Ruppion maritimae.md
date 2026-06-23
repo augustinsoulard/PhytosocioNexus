@@ -12,6 +12,13 @@ sources:
 ---
 Végétation herbacée vivace aquatique, halophile, des eaux des lagunes et étangs saumâtres, souvent asséchés l’été, de l’Europe tempérée et de la Méditerranée. 
 
+- **Correspondances typologiques** :
+	- EUNIS : [[X01]] - [[X03]] - [[A5.534]]
+	- CB : [[13.41]] - [[23.211]] - [[12.41]]
+	- HIC EUR : [[1130-1 estuaire]] - [[1150-1 lagune côtière]] - [[NC autres contextes]]
+
+ZH : p.p.
+
 Espèces indicatrices : [[Althenia filiformis]], [[Ruppia cirrhosa]], [[Ruppia maritima]].
 
 Associations :

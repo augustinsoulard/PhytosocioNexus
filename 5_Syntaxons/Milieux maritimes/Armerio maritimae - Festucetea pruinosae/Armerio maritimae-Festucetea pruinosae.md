@@ -8,6 +8,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Rochers littoraux : Végétation de chasmophytes et des pelouses aérohalines atlantiques
+
+**Espèces caractéristiques** : [[Festuca rubra subsp. juncea]], [[Armeria maritima]], [[Crithmum maritimum]]
+
+ZH : p.p.
+
 Ordres :
 - [[Crithmo maritimi-Armerietalia maritimae]] Géhu et Géhu-Franck 1984
 

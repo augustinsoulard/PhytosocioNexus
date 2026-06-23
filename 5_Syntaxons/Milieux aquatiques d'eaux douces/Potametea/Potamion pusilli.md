@@ -12,7 +12,14 @@ sources:
 ---
 Végétation herbacée vivace aquatique, enracinée, plutôt submergée, des eaux calmes, stagnantes à faiblement courantes, oligomésotrophes à eutrophes, des étages inférieurs de l'Eurasie. 
 
-Espèces indicatrices : [[Elodea nuttallii]], [[Hippuris vulgaris]], [[Najas marina]] s.l., [[Potamogeton berchtoldii]], [[Potamogeton nodosus]], [[Vallisneria spiralis]], [[Zannichellia palustris subsp. palustris]].
+Espèces indicatrices : [[Elodea nuttallii]], [[Hippuris vulgaris]], [[Najas marina]] s.l., [[Potamogeton berchtoldii]], [[Potamogeton nodosus]], [[Vallisneria spiralis]], [[Zannichellia palustris subsp. palustris]], [[Potamogeton friesii]], [[Potamogeton trichoides]], [[Potamogeton gramineus]], [[Elodea canadensis]], [[Ranunculus circinatus]], [[Potamogeton perfoliatus]], [[Potamogeton pusillus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C1.12]] - [[C1.23]] - [[C1.33]] - [[C1.42]] - [[J3.3]]
+	- CB : [[22.42]]
+	- HIC EUR : [[NC]] - [[3150-1]] - [[3150-4]]
+
+ZH : non car aquatique
 
 Associations :
 - [[Myriophyllo alterniflori-Potametum trichoidis]] Velayos et al. 1989 ; 

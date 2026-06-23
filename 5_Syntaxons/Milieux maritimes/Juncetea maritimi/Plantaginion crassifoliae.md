@@ -10,9 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+
+
 Végétation herbacée vivace, mésohygrophile, des substrats sablo-graveleux des dépressions arrière-dunaires périodiquement inondées de la Méditerranée nord-occidentale. 
 
-Espèces indicatrices : [[Juncus littoralis]], [[Plantago crassifolia]], [[Schoenus nigricans]], [[Scirpoides holoschoenus subsp. australis]].
+**Espèces indicatrices** : [[Juncus littoralis]], [[Plantago crassifolia]], [[Schoenus nigricans]], [[Scirpoides holoschoenus subsp. australis]],  [[Limonium virgatum]], [[Tripidium ravennae]].
+
+- **Correspondances typologiques** :
+	- EUNIS : [[A2.532]]
+	- CB : [[15.53]]
+	- HIC EUR : [[1410-2]]
+
+ZH : oui
 
 Associations :
 - [[Eriantho ravennae-Schoenetum nigricantis]] (Pignatti 1953) Géhu in Géhu et al. 1984 ; 

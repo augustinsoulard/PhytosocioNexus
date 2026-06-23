@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés des bordures maritimes nitrohalophiles
+
+**Espèces caractéristiques** : [[Elytrigia acuta]], [[Brachypodium rupestre]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.31]]
+	- CB : [[18.21]]
+	- HIC EUR : [[1230-1]]
+
+ZH : non
+
 Associations :
 - [[Crithmo maritimi-Elytrigietum acutae]] Bioret et al. 2016
 

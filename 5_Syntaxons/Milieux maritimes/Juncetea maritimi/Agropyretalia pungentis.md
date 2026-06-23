@@ -12,7 +12,9 @@ sources:
 ---
 Végétation herbacée vivace, halo-nitrophile, dominée par de grands hémicryptophytes, des substrats sablolimoneux des littoraux atlantique et méditerranéen de l'Europe. 
 
-Espèces indicatrices : [[Elytrigia acuta]].
+Espèces indicatrices : [[Elytrigia acuta]], [[Elytrigia campestris subsp. maritima]]
+
+ZH : non spécifié
 
 Alliances :
 - [[Agropyrion pungentis]] Géhu 1968

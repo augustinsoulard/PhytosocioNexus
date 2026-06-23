@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies montagnardes à subalpines (Massif central et Pyrénées)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.31]] - [[E4.51]]
+	- CB : [[38.3]] - [[36.51]]
+	- HIC EUR : [[6520-1]] & [[6520-2]]
+
+ZH : p.p.
+
 Associations :
 - [[Agrostio capillaris-Festucetum rubrae]] Frain et al. 2009 ; 
 - [[Astrantio majoris-Avenuletum pubescentis]] Vigo 1984 ; 

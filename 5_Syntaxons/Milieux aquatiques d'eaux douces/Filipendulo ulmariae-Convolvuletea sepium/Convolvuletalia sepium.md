@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétations luxuriantes de hautes herbes non graminoïdes
+
+**Espèces caractéristiques** : [[Convolvulus sepium]], [[Solanum dulcamara]], [[Rubus caesius]], [[Galium aparine]], [[Cirsium arvense]]
+
+ZH : oui
+
 Alliances :
 - [[Calystegio sepium-Althaeion officinalis]] B. Foucault 2011
 - [[Convolvulion sepium]] Tüxen ex Oberdorfer 1957

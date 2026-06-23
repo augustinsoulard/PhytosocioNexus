@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Prairies planitiaires à submontagnardes mésophiles
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E2.221]] - [[E2.23]]
+	- CB : [[38.22]] - [[38.23]]
+	- HIC EUR : [[6510-5]] - NC
+
+ZH : non
+
 Associations :
 - [[Arabidopsio halleri-Arrhenatheretum elatioris]] Boullet in B. Foucault 2016 ; 
 - [[Dauco gummiferi-Dactylidetum glomeratae]] Géhu 2008 ; 

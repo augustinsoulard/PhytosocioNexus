@@ -12,7 +12,14 @@ sources:
 ---
 Végétation annuelle, commensale des cultures de céréales sur sols basiques en Europe. 
 
-Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium pubescens]].
+Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium pubescens]], [[Neslia paniculata]], [[Galium tricornutum]], [[Vaccaria hispanica]], [[Nigella arvensis]], [[Bunium bulbocastanum]], [[Caucalis platycarpos]], [[Scandix pecten-veneris]], [[Kickxia spuria]], [[Kickxia elatine]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[I1.3]] - [[I1.52]] - [[E1.12]]
+	- CB : [[82.3]] - [[87.1]] - [[34.12]]
+	- HIC EUR : NC
+
+ZH : non
 
 Associations :
 - [[Adonido autumnalis-Iberidetum amarae]] (P. Allorge 1922) Tüxen 1950 ; 

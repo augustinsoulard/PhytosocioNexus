@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace des bordures sablo-graveleuses
+
+**Espèces caractéristiques** : [[Crambe maritima]], [[Crithmum maritimum]], [[Glaucium flavum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B2.3]]
+	- CB : [[17.3]]
+	- HIC EUR : [[1220-1]]
+
+ZH : non
+
 Associations :
 - [[Crithmo maritimi-Crambetum maritimae]] (Géhu 1960) Géhu et Géhu-Franck 1969 ; 
 - [[Crithmo maritimi-Elytrigietum boreoatlanticae]] (Géhu et Géhu-Franck 1969) Bioret et al. 2015 ; 

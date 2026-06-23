@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses amphibies (et gazons des pannes dunaires)
+
+**Espèces caractéristiques** : [[Centaurium pulchellum]], [[Blackstonia imperfoliata]], [[Samolus valerandi]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4218]] - [[C3.512]] - [[C3.513]] - [[B1.82]] (gazons des pannes dunaires)
+	- CB : [[22.3418]] - [[22.322]] - [[22.323]] - [[16.32]] (gazons des pannes dunaires)
+	- HIC EUR : [[3130-6]] - [[2190]] (gazons des pannes dunaires)
+
+ZH : oui
+
 Associations :
 - [[Blackstonio imperfoliatae-Juncetum bufonii]] Choisnet 2019 nom. ined. (1) ; 
 - [[Blackstonio perfoliatae-Isolepidetum cernuae]] B. Foucault 2020 ; 

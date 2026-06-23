@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés des lacs oligotrophes montagnards à alpins
+
+**Espèces caractéristiques** : [[Isoetes echinospora]], [[Sparganium angustifolium]], [[Subularia aquatica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.4113]] - [[C3.4114]]
+	- CB : [[22.3113]] - [[22.3114]]
+	- HIC EUR : [[3110-1]]
+
+ZH : oui
+
 Associations :
 - [[Callitricho palustris-Sparganietum angustifolii]] Braun-Blanquet ex Oberdorfer 1957 ; 
 - [[Callitricho palustris-Subularietum aquaticae]] Lazare et S. Riba in Lazare 2017 ; 

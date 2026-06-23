@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace haute d'hélophytes (roselières, cariçaies)
+
+**Espèces caractéristiques** : Typha spp. ([[Typha angustifolia]], [[Typha latifolia]]), [[Thelypteris palustris]]  [[Equisetum palustris]], [[Equisetum fluviatile]], [[Glyceria maxima]], [[Cladium mariscus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.21]] - [[C3.22]] - [[C3.23]] - [[C3.251]] - [[B1.85]] (Milieux dunaires)
+	- CB : [[53.11]] - [[53.12]] - [[53.13]] - [[53.15]] - [[16.35]] (Milieux dunaires)
+	- HIC EUR : [[NC]] - [[2190-5]] (Milieux dunaires)
+
+ZH : oui
+
 Associations :
 - [[Acoretum calami]] M. Schulz 1941 ; 
 - [[Angelico heterocarpae-Phragmitetum communis]] (Géhu et Géhu-Franck 1978) Géhu 1995 ; 

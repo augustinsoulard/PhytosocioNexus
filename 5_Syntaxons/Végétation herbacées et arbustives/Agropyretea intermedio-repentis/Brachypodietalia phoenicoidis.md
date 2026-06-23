@@ -1,3 +1,19 @@
+---
+tags:
+  - ordre
+syntaxon_superieur: "[[Agropyretea intermedio-repentis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Communautés méditerranéennes
+
+ZH : non spécifié
+
 Alliances :
 - [[Brachypodion phoenicoidis]] Braun-Blanquet ex Molinier 1934
 - [[Bromo-Oryzopsion miliaceae]] O. Bolòs 1970

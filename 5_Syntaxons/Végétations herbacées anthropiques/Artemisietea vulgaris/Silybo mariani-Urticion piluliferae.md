@@ -13,7 +13,14 @@ sources:
 ---
 Végétation herbacée vivace, rudérale, très nitrophile, des sols profonds frais à humides l’hiver, dominée par de grands chardons et en particulier par Silybum marianum, de la Méditerranée centro-occidentale. 
 
-Espèces indicatrices : [[Carduus tenuiflorus]], [[Cirsium vulgare subsp. crinitum]], [[Silybum marianum]].
+Espèces indicatrices : [[Carduus tenuiflorus]], [[Cirsium vulgare subsp. crinitum]], [[Silybum marianum]], [[Urtica pilulifera]].
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.12]] - [[E5.13]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
 
 Associations :
 - [[Anthrisceto-Papaveretum setigeri]] Molinier et Tallon 1970 ; 

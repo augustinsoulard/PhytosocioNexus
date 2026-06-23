@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Asplenietea trichomanis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés orophiles des fissures de bas de falaises
+
+**Espèces caractéristiques** : Cystopteris div. sp. (ex : [[Cystopteris fragilis]], [[Cystopteris alpina]])
+
+ZH : non spécifié
+
 Alliances :
 - [[Asplenio scolopendrii-Geranion robertiani]] Ferrez 2009
 - [[Cystopteridion]] J.L. Richard 1972

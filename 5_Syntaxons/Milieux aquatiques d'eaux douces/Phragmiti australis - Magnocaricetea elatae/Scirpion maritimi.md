@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace haute de Poaceae et Cyperaceae
+
+**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Schoenoplectus tabernaemontani]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.21]] - [[C3.27]]
+	- CB : [[53.11]] - [[53.17]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Astero tripolii-Phragmitetum australis]] (Jeschke 1968) Succow 1974 ; 
 - [[Bolboschoeno cymosi-Schoenoplectetum tabernaemontani]] Bueno Sánchez et Fernández Prieto in Bueno Sánchez 1997 ; 

@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière halophile
+
+**Espèces caractéristiques** : [[Frankenia pulverulenta]], [[Polypogon maritimus]], [[Polypogon monspeliensis]], [[Sphenopus divaricatus]], [[Parapholis filiformis]], [[Hordeum marinum]], [[Spergularia marina]]
+
+- **Correspondances typologiques** :
+	- Voir les alliances ci-dessous
+
+ZH : oui
+
 Alliances :
 - [[Frankenion pulverulentae]] Rivas Martínez ex Castroviejo et J. Porta 1976
 - [[Polypogonion subspathacei]] Gamisans 1990

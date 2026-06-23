@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Éboulis siliceux secs, du collinéen au montagnard
+
+
+ZH : non spécifié
+
 Alliances :
 - [[Arrhenatherion sardoi]] Gamisans 1989
 - [[Galeopsion pyrenaicae]] Rivas Martínez 1977

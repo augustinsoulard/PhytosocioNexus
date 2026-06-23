@@ -15,6 +15,8 @@ Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des
 
 Espèces indicatrices : [[Stuckenia pectinata]], [[Potamogeton crispus]], [[Ceratophyllum demersum]], [[Callitriche brutia]].
 
+ZH : non car aquatique
+
 Ordres : 
 - [[Potametalia]] W. Koch 1926
 - [[Ruppietalia maritimae]] J. Tüxen ex Hartog et Segal 1964

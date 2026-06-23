@@ -1,3 +1,26 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Holoschoenetalia vulgaris]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+**Description** : Prairies longuement inondables riches en Poaceae panicoïdes eurytropicales naturalisées
+
+**Espèces caractéristiques** : [[Paspalum distichum]], [[Paspalum dilatatum]], [[Paspalum vaginatum]], [[Panicum repens]], [[Polypogon viridis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E3.11]] - [[E5.44]]
+	- CB : [[24.53]] - [[37.4]]
+	- HIC EUR : [[3280-1]] - [[6420-5]]
+
+ZH : oui
+
 Associations :
 - [[Carici hirtae-Menthetum pulegii]] F. Prud'homme et al. in Corriol et al. 2022 ; 
 - [[Cypero eragrostis-Paspaletum dilatati]] B. Foucault 2018 ; 

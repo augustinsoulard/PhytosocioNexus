@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Mégaphorbiaies planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Bistorta officinalis]], [[Crepis paludosa]], [[Geranium sylvaticum]], [[Ligularia sibirica]], [[Ranunculus aconitifolius]], [[Chaerophyllum hirsutum]], [[Filipendula ulmaria]], [[Scirpus sylvaticus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.412]] - [[E5.421]]
+	- CB : [[37.25]]
+	- HIC EUR : [[6430-2]] en contexte alluvial, hors recolonisation de prairies
+
+ZH : oui
+
 Associations :
 - [[Achilleo ptarmicae-Sanguisorbetum officinalis]] Lavagne et Rebuffel 2002 ; 
 - [[Aconito napelli-Chaerophylletum cicutariae]] Gallandat 1982 ; 

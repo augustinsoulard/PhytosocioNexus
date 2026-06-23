@@ -1,7 +1,25 @@
 ---
+tags:
+  - alliance
+syntaxon_superieur: Agropyretalia intermedio-repentis
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-23
 auteurs:
   - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés mésophiles eurosibériennes
+
+**Espèces caractéristiques** : [[Elytrigia campestris x repens]], [[Elytrigia campestris x intermedia]], [[Oloptum miliaceum]], [[Tussilago farfara]], [[Tanacetum vulgare]], [[Artemisia vulgaris]], [[Dittrichia viscosa]], [[Bunium bulbocastanum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.1]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
 
 Associations :
 - [[Agropyro repentis-Tussilaginetum farfara]]e H. Passarge 1989 ; 

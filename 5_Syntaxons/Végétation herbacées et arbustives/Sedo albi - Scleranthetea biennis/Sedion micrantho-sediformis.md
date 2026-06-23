@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés calcicoles de la région méditerranéenne
+
+**Espèces caractéristiques** : [[Sedum album subsp. micranthum]], [[Sedum sediforme]], [[Sedum ochroleucum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[H3.511]] - [[J2]]
+	- CB : [[62.3]] - [[86]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Sedetum micrantho-sediformis]] O. Bolòs et Masalles in O. Bolòs 1981 ; 
 - [[Sedetum ochroleuco-sediformis]] B. Foucault ex B. Foucault et al. in J.-M. Royer et Ferrez 2018

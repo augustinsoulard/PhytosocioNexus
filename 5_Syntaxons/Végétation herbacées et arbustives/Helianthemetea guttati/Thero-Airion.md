@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés atlantiques à médioeuropéennes sur sables et dalles
+
+**Espèces caractéristiques** : [[Micropyrum tenellum]], [[Arnoseris minima]], [[Crassula tillaea]], [[Plantago coronopus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.91]]
+	- CB : [[35.21]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Airetum praecocis]] (Schwickerath 1944) Krausch 1968 ; 
 - [[Airo caryophylleae-Festucetum ovinae]] Tüxen 1955 nom. inval. ; 

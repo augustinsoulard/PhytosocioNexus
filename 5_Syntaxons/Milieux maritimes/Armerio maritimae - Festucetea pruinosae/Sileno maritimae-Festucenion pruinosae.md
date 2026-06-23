@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses et ourlets des niveaux moyens et supérieurs des falaises exposées
+
+**Espèces caractéristiques** : [[Festuca rubra subsp. juncea]], [[Silene uniflora subsp. uniflora]], [[Spergularia rupicola]], [[Daucus carota subsp. gummifer]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.31]]
+	- CB : [[18.21]]
+	- HIC EUR : [[1230-3]]
+
+ZH : p.p.
+
 Associations :
 - [[Apio graveolentis-Crithmetum maritimi]] Bioret et al. 2016 ; 
 - [[Apio graveolentis-Tussilaginetum farfarae]] Bioret et Géhu 2008 nom. inval. (2b, 3o) ; 

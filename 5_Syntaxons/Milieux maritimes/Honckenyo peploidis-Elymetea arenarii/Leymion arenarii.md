@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation vivace des bordures sablo-graveleuses (subsp. boreali-atlantica)
+
+**Espèces caractéristiques** : [[Honckenya peploides subsp. peploides]], [[Leymus arenarius]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.31]]
+	- CB : [[16.211]]
+	- HIC EUR : [[2110-1]]
+
+ZH : non
+
 Associations :
 - [[Elymo arenarii-Agropyretum juncei]] Tüxen 1952
 

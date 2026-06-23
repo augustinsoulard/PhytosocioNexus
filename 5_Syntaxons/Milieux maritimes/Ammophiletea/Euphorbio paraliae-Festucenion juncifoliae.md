@@ -1,3 +1,27 @@
+---
+tags:
+  - sous-alliance
+syntaxon_superieur: "[[Ammophilion australis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-22
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+---
+
+**Description** : Dunes semi-fixées
+
+**Espèces caractéristiques** : [[Festuca juncifolia]], [[Festuca arenaria]], [[Euphorbia paralias]], [[Hieracium eriophorum]], [[Linaria thymifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.321]]
+	- CB : [[16.21]]
+	- HIC EUR : [[2120-1]]
+
+ZH : non
+
 Associations :
 - [[Euphorbio paraliae-Festucetum arenariae]] Géhu 1963 corr. Géhu 1982 corr. Géhu 1982 ; 
 - [[Festuco dumetorum-Galietum arenarii]] Géhu 1964 ; 

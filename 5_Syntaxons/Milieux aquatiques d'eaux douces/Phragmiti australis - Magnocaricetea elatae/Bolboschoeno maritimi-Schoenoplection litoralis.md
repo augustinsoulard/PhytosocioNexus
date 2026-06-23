@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés méditerranéennes
+
+**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Schoenoplectus litoralis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[C3.21]] - [[C3.27]]
+	- CB : [[53.11]] - [[53.17]]
+	- HIC EUR : [[NC]]
+
+ZH : oui
+
 Associations :
 - [[Bolboschoeno maritimi-Juncetum subulati]] Géhu et al. 1992 ; 
 - [[Inulo crithmoidis-Phragmitetum australis]] Gamisans 1992 ; 

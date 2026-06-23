@@ -11,7 +11,11 @@ sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des eaux douces peu profondes, courantes ou stagnantes, oligomésotrophes à eutrophes de l'Eurasie. Espèces indicatrices :[[ Ranunculus trichophyllus subsp. trichophyllus]], [[Callitriche stagnalis]], [[Myriophyllum verticillatum]], [[Myriophyllum spicatum]], [[Nuphar lutea]], [[Persicaria amphibia]], [[Potamogeton lucens]], [[Potamogeton pusillus]], [[Potamogeton perfoliatus]], [[Ranunculus circinatus]].
+Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des eaux douces peu profondes, courantes ou stagnantes, oligomésotrophes à eutrophes de l'Eurasie. 
+
+Espèces indicatrices :[[ Ranunculus trichophyllus subsp. trichophyllus]], [[Callitriche stagnalis]], [[Myriophyllum verticillatum]], [[Myriophyllum spicatum]], [[Nuphar lutea]], [[Persicaria amphibia]], [[Potamogeton lucens]], [[Potamogeton pusillus]], [[Potamogeton perfoliatus]], [[Ranunculus circinatus]], [[Ranunculus trichophyllus]], [[Myriophyllum alterniflorum]], [[Fontinalis antipyretica]], [[Potamogeton perfoliatus]]
+
+ZH : non car aquatique
 
 Alliances :
 - [[Batrachion fluitantis]] Neuhäusl 1959

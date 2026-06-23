@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation nitrophile des murs
+
+**Espèces caractéristiques** : [[Cymbalaria muralis]], [[Parietaria judaica]], [[Asplenium ruta-muraria]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[J1.31]]
+	- CB : [[87.2]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Adianto capilli-veneris-Parietarietum judaicae]] Segal 1969 ; 
 - [[Cheirantho cheiri-Parietarietum judaicae]] Oberdorfer 1957 ; 

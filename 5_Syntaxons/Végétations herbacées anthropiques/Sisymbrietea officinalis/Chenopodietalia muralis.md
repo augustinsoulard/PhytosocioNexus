@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Friches estivales, euryméditerranéennes, très nitrophiles
+
+**Espèces caractéristiques** : [[Chenopodiastrum murale]], [[Ecballium elaterium]], [[Amaranthus deflexus]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Chenopodion muralis]] Braun-Blanquet in Braun-Blanquet et al. 1936
 - [[Malvion parviflorae]] (Rivas Martínez 1978) Brullo in Brullo et Marcenò 1985

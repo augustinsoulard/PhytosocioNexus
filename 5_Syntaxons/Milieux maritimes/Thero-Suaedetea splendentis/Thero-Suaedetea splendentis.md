@@ -12,7 +12,9 @@ sources:
 ---
 Végétation annuelle halophile crassulescente pionnière des vases salées, régulièrement exondées, du littoral et de la bordure des lagunes et des étangs salés de l’Eurasie. 
 
-Espèces indicatrices : [[Salicornia procumbens]], [[Salicornia europaea]], [[Salsola soda]].
+Espèces indicatrices : [[Salicornia procumbens]], [[Salicornia europaea]], [[Salsola soda]], [[Suaeda maritima]], [[Suaeda splendens]].
+
+ZH : oui
 
 Ordres :
 - [[Thero-Suaedetalia splendentis]] Braun-Blanquet et O. Bolòs 1958

@@ -14,6 +14,8 @@ Végétation annuelle aquatique composée d'hydrophytes flottants ou immergés n
 
 Espèces indicatrices : [[Lemna minor]], [[Lemna trisulca]].
 
+ZH : non
+
 Ordres :
 - [[Lemnetalia minoris]] Tüxen ex O. Bolòs et Masclans 1955
 

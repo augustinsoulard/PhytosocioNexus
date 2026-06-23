@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Cultures sur sols acidiclines limono-sableux (sols sableux)
+
+**Espèces caractéristiques** : [[Ornithopus perpusillus]], [[Portulaca oleracea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[I1.1]] - [[I1.52]]
+	- CB : [[82.2]] - [[87.1]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Digitarietum ischaemi]] (Tüxen et Preising 1942) Tüxen 1950 ; 
 - [[Digitario sanguinalis-Eragrostietum megastachyae]] Tüxen ex von Rochow 1951 ; 
