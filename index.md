@@ -1,7 +1,7 @@
 ---
 title: PhytosocioNexus
 tags:
-date_maj: 2026-06-16
+date_maj: 2026-06-23
 auteurs:
   - Augustin Soulard
 sources:
@@ -61,7 +61,7 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 - [[Pegano harmalae-Salsoletea vermiculatae]]
 - [[Posidonietea oceanicae]]
 - [[Saginetea maritimae]]
-- [[Sarcocornietea fruticosae]]
+- [[Salicornietea fruticosae]]
 - [[Spartinetea glabrae]]
 - [[Thero-Suaedetea splendentis]]
 - [[Zosteretea marinae]]

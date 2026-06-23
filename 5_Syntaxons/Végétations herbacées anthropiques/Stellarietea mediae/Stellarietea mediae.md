@@ -12,7 +12,7 @@ sources:
 ---
 Végétation annuelle, nitrophile, commensale des cultures annuelles ou sarclées des régions tempérées de l'Eurasie. En régression partout en France.
 
-Espèces indicatrices : [[Adonis annua]], [[Adonis flammea]], [[Anchusa italica]], [[Bifora radians]], [[Bifora testiculata]], [[Buglossoides arvensis subsp. arvensis]], [[Bupleurum rotundifolium]], [[Camelina microcarpa subsp. sylvestris]], [[Caucalis platycarpos]], [[Centaurea benedicta]], [[Ceratocephala falcata]], [[Cyanus segetum]], [[Delphinium consolida]], [[Delphinium orientale]], [[Gagea villosa]], [[Galium tricornutum]], [[Legousia hybrida]], [[Neslia paniculata subsp. thracica]], [[Papaver rhoeas]], [[Papaver argemone]], [[Papaver dubium]], [[Papaver hybridum]], [[Ranunculus arvensis]], [[Vaccaria hispanica]], [[Vicia pannonica var. purpurascens]], [[Alopecurus myosuroides]], [[Fallopia convolvulus]],Valerianella div. sp., [[Stellaria media]].
+Espèces indicatrices : [[Adonis annua]], [[Adonis flammea]], [[Anchusa italica]], [[Bifora radians]], [[Bifora testiculata]], [[Buglossoides arvensis subsp. arvensis]], [[Bupleurum rotundifolium]], [[Camelina microcarpa subsp. sylvestris]], [[Caucalis platycarpos]], [[Centaurea benedicta]], [[Ceratocephala falcata]], [[Cyanus segetum]], [[Delphinium consolida]], [[Delphinium orientale]], [[Gagea villosa]], [[Galium tricornutum]], [[Legousia hybrida]], [[Neslia paniculata subsp. thracica]], [[Papaver rhoeas]], [[Papaver argemone]], [[Papaver dubium]], [[Papaver hybridum]], [[Ranunculus arvensis]], [[Vaccaria hispanica]], [[Vicia pannonica var. purpurascens]], [[Alopecurus myosuroides]], [[Fallopia convolvulus]], Valerianella div. sp., [[Stellaria media]].
 
 ZH : non spécifié
 
