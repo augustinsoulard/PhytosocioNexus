@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Fraxino excelsioris-Quercion roboris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts submontagnardes
+
+**Espèces caractéristiques** : [[Fraxinus excelsior]], [[Luzula sylvatica]], [[Rubus idaeus]], [[Polygonatum verticillatum]], [[Senecio ovatus]], [[Corydalis solida]], [[Bistorta officinalis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A13]]
+	- CB : [[41.23]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Carici montanae-Quercetum roboris]] Rameau ex B. Didier et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Corydalido solidae-Fraxinetum excelsioris]] Billy 1997 ; 

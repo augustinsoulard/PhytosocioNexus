@@ -13,7 +13,7 @@ sources:
 ---
 Végétation vivace, sous-arbustive à arbustive, méso-xérophile à xérophile, calcicole, des sols immatures ou érodés aux étages thermo à supraméditerranéen de la Méditerranée. 
 
-Espèces indicatrices : [[Coris monspeliensis]], [[Lotus hirsutus]], [[Fumana viridis]], [[Helichrysum stoechas]], [[Hippocrepis scorpioides]], [[Matthiola fruticulosa]], [[Rosmarinus officinalis]], [[Teucrium polium subsp. polium]].
+Espèces indicatrices : [[Coris monspeliensis]], [[Lotus hirsutus]], [[Fumana viridis]], [[Helichrysum stoechas]], [[Hippocrepis scorpioides]], [[Matthiola fruticulosa]], [[Rosmarinus officinalis]], [[Teucrium polium subsp. polium]],  [[Brachypodium retusum]], [[Helictochloa bromoides]], [[Aphyllanthes monspeliensis]], [[Sedum sediforme]], [[Fumana ericoides]], [[Mercurialis tomentosa]], [[Polygala rupestris]]
 
 Ordres :
 - [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994

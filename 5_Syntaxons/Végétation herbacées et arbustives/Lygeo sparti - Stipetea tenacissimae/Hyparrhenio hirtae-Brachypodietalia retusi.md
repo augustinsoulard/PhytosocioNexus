@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses xéro-thermophiles des sols pierreux et pentus
+
+**Espèces caractéristiques** : [[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Stipellula parviflora]], [[Piptatherum caerulescens]], [[Brachypodium retusum]]
+
 Alliances :
 - [[Hyparrhenion sinaico-hirtae]] B. Foucault et V. Noble 2023
 

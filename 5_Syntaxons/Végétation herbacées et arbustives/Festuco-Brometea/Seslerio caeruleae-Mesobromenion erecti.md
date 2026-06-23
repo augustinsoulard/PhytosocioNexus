@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses mésoxérophiles atlantiques et subatlantiques sur sols xéroclines, montagnard
+
+**Espèces caractéristiques** : [[Carex ornithopoda]], [[Thesium alpinum]], [[Koeleria pyramidata]], [[Euphrasia salisburgensis]], [[Viola rupestris]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.265]]
+	- CB : [[34.325]]
+	- HIC EUR : [[6210-8]] à [[6210-11]]
+
+ZH : non
+
 Associations :
 - [[Coronillo minimae-Seslerietum caeruleae]] Braque ex J.-M. Royer et Ferrez 2020 ; 
 - [[Festuco lemanii-Seslerietum caeruleae]] Boullet in J.-M. Royer et Ferrez 2020 ; 

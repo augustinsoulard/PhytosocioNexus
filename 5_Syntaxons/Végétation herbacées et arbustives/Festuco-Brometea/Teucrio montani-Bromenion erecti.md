@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses mésoxérophiles atlantiques et subatlantiques sur sols xéroclines, subatlantique
+
+**Espèces caractéristiques** : [[Festuca lemanii]], [[Bromopsis erecta]], [[Fumana procumbens]], [[Helianthemum apenninum]], [[Linum leonii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.262]]
+	- CB : [[34.322]]
+	- HIC EUR : [[6210-22]] à [[6210-24]]
+
+ZH : non
+
 Associations :
 - [[Antherico ramosi-Brometum erecti]] J.H. Willems 1982 ; 
 - [[Antherico ramosi-Pulsatilletum vulgaris]] (Prelli 1968) Boullet 1996 nom. ined. (1) et inval. (3b) ; 

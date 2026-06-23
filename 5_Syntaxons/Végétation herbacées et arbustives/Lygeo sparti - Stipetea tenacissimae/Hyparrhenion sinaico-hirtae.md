@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Steppes ouest méditerranéennes
+
+**Espèces caractéristiques** : Les mêmes que celles de l'ordre ([[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Stipellula parviflora]], [[Piptatherum caerulescens]], [[Brachypodium retusum]])
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.434]]
+	- CB : [[34.634]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Cheilantho marantae-Diplachnetum serotinae]] R.J. Loisel 1970 ; 
 - [[Piptathero caerulescentis-Brachypodietum retusi]] V. Noble et Baret 2019 nom. ined. (1)

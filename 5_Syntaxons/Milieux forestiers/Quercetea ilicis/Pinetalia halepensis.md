@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pinèdes méditerranéennes
+
+**Espèces caractéristiques** : [[Pinus halepensis]], [[Pinus pinea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G3.73]] - [[G3.74]]
+	- CB : [[42.83]] - [[42.84]]
+	- HIC EUR : [[9540-2]] & [[9540-3]]
+
 Alliances :
 - [[Pistacio lentisci-Pinion halepensis]] Biondi et al. in Biondi et al. 2014
 

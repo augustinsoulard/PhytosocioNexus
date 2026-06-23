@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses thermophiles alpestres acidiclines
+
+**Espèces caractéristiques** : [[Patzkea paniculata subsp. paniculata]], [[Hypericum richeri]], [[Pilosella peleteriana]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.331]]
+	- CB : [[36.331]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anemono alpinae-Meetum athamantici]] Lippmaa 1933 ; 
 - [[Centaureo uniflorae-Festucetum spadiceae]] Lippmaa 1933 ; 

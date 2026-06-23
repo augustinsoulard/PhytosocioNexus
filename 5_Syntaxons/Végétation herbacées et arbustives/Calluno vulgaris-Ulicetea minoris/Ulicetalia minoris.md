@@ -10,10 +10,16 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Landes cantabro- et méditerranéo-atlantiques
+
+**Espèces caractéristiques** : [[Ulex minor]], [[Erica cinerea]], [[Ulex europaeus]]
+
+ZH : non spécifié
 
 Alliances :
 - [[Cisto salviifolii-Ericion cinereae]] Géhu in Bardat et al. 2004
 - [[Daboecion cantabricae]] (P. Dupont ex Rivas Martínez 1979) Rivas Martínez et al. 1998
+- [[Dactylido oceanicae-Ulicion maritimi ]]Géhu 1975
 - [[Ulicion minoris]] Malcuit 1929
 
 

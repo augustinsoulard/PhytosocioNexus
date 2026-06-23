@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Vaccinio myrtilli-Genistetalia pilosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Landes acidiclines à acido-neutroclines, mésothermes
+
+**Espèces caractéristiques** : [[Genista germanica]], [[Genista tinctoria]], [[Genista sagittalis]], [[Calluna vulgaris]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F4.22A]] - [[F4.226]]
+	- CB : [[31.22A]] - [[31.226]]
+	- HIC EUR : [[4030-15]] & [[4030-16]]
+
+ZH : non
+
 Associations :
 - [[Antherico liliaginis-Callunetum vulgaris]] G. Stöcker 1959 ; 
 - [[Calluno vulgaris-Brachypodietum pinnati]] J.-M. Royer in J.-M. Royer et al. 2006 ; 

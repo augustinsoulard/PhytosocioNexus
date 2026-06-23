@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation acidiphile à acidicline des sols faiblement enrichis en azote
+
+**Espèces caractéristiques** : [[Digitalis purpurea]], [[Avenella flexuosa]], [[Holcus mollis]], [[Agrostis capillaris]], [[Carex pilulifera]], [[Carex leporina]], [[Gnaphalium sylvaticum]], [[Pteridium aquilinum]], [[Linaria repens]], [[Ceratocapnos claviculata]], [[Senecio ovatus]], [[Epilobium angustifolium]], [[Cytisus scoparius]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G5.82]] - [[G5.83]] - [[G5.841]]
+	- CB : [[31.8711]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Ceratocapno claviculatae-Digitalietum purpureae]] Billy ex Thébaud et al. 2014 ;
 - [[Epilobio angustifolii-Calamagrostietum arundinaceae]] (J. Šmarda et al. 1971) Kliment 1995 ;

@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Végétation arbustive
+**Description** : Végétation arbustive des berges et des lits de cours d'eau temporaires
 
 ZH : oui
 

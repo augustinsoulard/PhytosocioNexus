@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets mésophiles, héliophiles à sciaclines
+
+**Espèces caractéristiques** : [[Trifolium medium]], [[Aquilegia vulgaris]], [[Clinopodium nepeta subsp. sylvaticum]], [[Vicia dumetorum]] (et de nombreuses espèces des [[Arrhenatheretea elatioris]] 
+
 Alliances :
 - [[Knaution dipsacifoliae]] Julve ex Dengler et Boch 2008
 - [[Trifolion medii]] T. Müller 1962

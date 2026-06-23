@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses médio- à est- européennes
+
+**Espèces caractéristiques** : [[Festuca rupicola]], [[Adonis vernalis]], [[Linum austriacum]], [[Oxytropis pilosa]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Stipo-Poion xerophilae]] Braun-Blanquet et F. Richard 1950
 

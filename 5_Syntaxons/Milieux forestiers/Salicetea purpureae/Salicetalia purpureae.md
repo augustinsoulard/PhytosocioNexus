@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation riveraine basse arbustive, pionnière (Note : Fourrés et lisières ligneuses préforestières (= manteaux))
+
+**Espèces caractéristiques** : [[Salix purpurea]], [[Salix viminalis]], [[Salix triandra]], [[Rubus caesius]]
+
 Alliances :
 - [[Salicion apennino-purpureae]] Allegrezza et Biondi in Biondi et al. 2014
 - [[Salicion eleagno-daphnoidis]] (Moor 1958) Grass in Mucina et al. 1993

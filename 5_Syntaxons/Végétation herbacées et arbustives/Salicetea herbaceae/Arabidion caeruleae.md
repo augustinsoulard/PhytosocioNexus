@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation neutro-basiphile
+
+**Espèces caractéristiques** : [[Carex parviflora]], [[Soldanella alpina]], [[Salix retusa]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.1211]] - [[F2.12111]]
+	- CB : [[36.122]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Arabidetum caeruleae]] Braun-Blanquet 1918 ; 
 - [[Potentillo dubiae-Gnaphalietum hoppeani]] Braun-Blanquet 1948 ; 

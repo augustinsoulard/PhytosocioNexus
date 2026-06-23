@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses +/- xérophiles
+
+**Espèces caractéristiques** : [[Koeleria macrantha]], [[Armeria arenaria]], [[Dactylorhiza sambucina]], [[Saxifraga granulata]]
+
+ZH : non spécifié
+
 Sous-alliances :
 - [[Festucenion longifolio-lemanii]] Loiseau et Felzines 2010
 - [[Koelerio macranthae-Phleenion phleoidis]] J.-M. Royer in J.-M. Royer et al. 2006

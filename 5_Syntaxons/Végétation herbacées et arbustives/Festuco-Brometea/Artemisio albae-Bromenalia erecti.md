@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses xérophiles
+
+**Espèces caractéristiques** : [[Koeleria vallesiana]], [[Melica ciliata]], [[Stipa gallica]], [[Carex halleriana]], [[Anthericum liliago]], [[Allium sphaerocephalon]], [[Teucrium chamaedrys]], [[Teucrium montanum]], [[Convolvulus cantabrica]], [[Astragalus monspessulanus]], [[Ononis pusilla]], [[Helianthemum apenninum]], [[Helianthemum canum]], [[Thesium humifusum subsp. divaricatum]], [[Trinia glauca]], [[Inula montana]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Centaureo stoebes-Koelerion vallesianae]] J.-M. Royer et Ferrez 2020
 - [[Festucion auquieri-marginatae]] J.-M. Royer et Ferrez 2020

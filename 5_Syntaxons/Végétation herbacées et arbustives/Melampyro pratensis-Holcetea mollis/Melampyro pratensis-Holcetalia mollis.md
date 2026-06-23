@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets préforestiers acidiphiles, xéro- à méso-hygrophiles
+
+**Espèces caractéristiques** : [[Teucrium scorodonia]], [[Pteridium aquilinum]], [[Hypericum pulchrum]], [[Hieracium virgultorum]], [[Hieracium lachenalii]], [[Hieracium umbellatum]]
+
 Alliances :
 - [[Conopodio majoris-Teucrion scorodoniae]] Julve ex Boullet et Rameau in Bardat et al. 2004
 - [[Holco mollis-Pteridion aquilini]] H. Passarge (1994) 2002

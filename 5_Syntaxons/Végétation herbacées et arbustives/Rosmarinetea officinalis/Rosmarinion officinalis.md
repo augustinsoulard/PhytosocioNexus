@@ -13,7 +13,15 @@ sources:
 ---
 Végétation vivace, sous-arbustive à arbustive, xérophile, calcicole, des sols immatures ou érodés aux étages thermo- à supraméditerranéen de la Méditerranée nord-occidentale. 
 
-Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [[Convolvulus lanuginosus]], [[Coronilla juncea]], [[Erica multiflora]], [[Fumana laevipes]], [[Globularia alypum]], [[Helianthemum marifolium]], [[PhytosocioNexus/3_Flore/Autres-non classees/Helianthemum syriacum]], [[Malva subovata]], [[Ulex parviflorus]], [[Viola arborescens]].
+Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [[Convolvulus lanuginosus]], [[Coronilla juncea]], [[Erica multiflora]], [[Fumana laevipes]], [[Globularia alypum]], [[Helianthemum marifolium]], [[Helianthemum syriacum]], [[Malva subovata]], [[Ulex parviflorus]], [[Viola arborescens]], [[Rosmarinus officinalis]], [[Lithodora fruticosa]], [[Fumana thymifolia]], [[Helichrysum stoechas]], [[Lotus dorycnium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F5.1311]] - [[F6.15]] (si junipéraie) - [[F6.1]] (autre)
+	- CB : [[32.1311]] - [[32.45]] (si junipéraie) - [[32.4]] (autre)
+	- HIC EUR : [[5210-1]] (si junipéraie) - NC (autre)
+
+ZH : non
+
 
 Associations :
 - [[Coronillo junceae-Malvetum subovatae]] V. Noble et Baret 2019 nom. ined. (1) ; 

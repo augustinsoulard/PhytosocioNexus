@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies sud et ouest atlantiques
+
+**Espèces caractéristiques** : [[Quercus pyrenaica]], [[Pinus pinaster]], [[Sorbus domestica]], [[Euonymus europaeus]], [[Ulex europaeus]], [[Dioscorea communis]], [[Rubia peregrina]], [[Lonicera periclymenum]], [[Erica vagans]], [[Daboecia cantabrica]], [[Hypericum androsaemum]], [[Pseudarrhenatherum longifolium]], [[Blechnum spicant]], [[Potentilla montana]], [[Peucedanum gallicum]], [[Pulmonaria longifolia]], [[Asphodelus albus]], [[Ranunculus serpens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.84]] - [[G1.85]] (si Quercus pyrenaica dominant : [[G1.7B5]])
+	- CB : [[41.54]] - [[41.55]] (si Quercus pyrenaica dominant : [[41.65]])
+	- HIC EUR : NC - [[9230-1]], [[9230-2]], [[9230-4]] - [[2180-4]] (dunes littorales) - NC (autres cas)
+
+ZH : p.p.
+
 Associations :
 - [[Arbuto unedonis-Quercetum roboris]] Romeyer et P. Lafon 2018 ; 
 - [[Asphodelo albi-Quercetum pyrenaicae]] Botineau et al. 1990 ; 

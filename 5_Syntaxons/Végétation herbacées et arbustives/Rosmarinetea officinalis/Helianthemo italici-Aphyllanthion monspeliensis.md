@@ -12,7 +12,14 @@ sources:
 ---
 Végétation vivace herbacée à sous-arbustive, riche en chaméphytes, mésoxérophile, calcicole, sur substrats marneux ou calcaro-marneux, des étages mésoméditerranéen à supraméditerranéen de la Méditerranée nordoccidentale. 
 
-Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Helianthemum oelandicum]], [[Euphorbia nicaeensis]], [[Genista provincialis]], [[Genista hispanica subsp. hispanica]].
+Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Helianthemum oelandicum]], [[Euphorbia nicaeensis]], [[Genista provincialis]], [[Genista hispanica subsp. hispanica]], [[Genista hispanica]], [[Stipa offneri]],  [[Helianthemum italicum]], [[Argyrolobium zanonii]], [[Fumana thymifolia]], [[Rosmarinus officinalis]], [[Helictochloa pratensis subsp. iberica]], [[Lavandula angustifolia subsp. pyrenaica]], [[Stipa iberica]], [[Thymelaea ruizii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F5.1311]] - [[F6.15]] (si junipéraie) - [[E1.52]] - [[F6.1]] - [[F6.63]] (autre)
+	- CB : [[32.1311]] - [[32.45]] (si junipéraie) - [[32.4]] - [[32.63]] - [[34.721]] (autre)
+	- HIC EUR : [[5210-1]] (si junipéraie) - NC (autre)
+
+ZH : non 
 
 Associations :
 - [[Aphyllantho monspeliensis-Genistetum hispanicae]] Archiloque et al. 1970 ; 

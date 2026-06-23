@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Boulaies pionnières de colonisation ou de recolonisation forestière (ouest de la France et côtes de la mer du Nord)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[9111]]
+	- CB : [[41.B11]]
+	- HIC EUR : NC
+
+ZH : oui
+
 Associations :
 - [[Blechno spicant-Betuletum pubescentis]] Géhu 2006
 

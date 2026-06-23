@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses steppiques méditerranéennes à hautes Poaceae vivaces
+
+**Espèces caractéristiques** : [[Macrochloa tenacissima]], [[Lygeum spartum]], [[Hyparrhenia hirta]]
+
 Ordres :
 - [[Hyparrhenio hirtae-Brachypodietalia retusi]] Horvatić 1957 ex 1962
 - [[Lygeo sparti-Stipetalia tenacissimae]] Braun-Blanquet et O. Bolòs 1958

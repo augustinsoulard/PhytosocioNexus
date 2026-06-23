@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets mésophiles dominés par Pteridium aquilinum
+
+**Espèces caractéristiques** : [[Pteridium aquilinum]], [[Holcus mollis]], [[Molinia caerulea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.3]]
+	- CB : [[31.86]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Carici piluliferae-Pteridietum aquilini]] F. Gillet 1986 ; 
 - [[Endymio-Dactylidetum glomeratae]] (Géhu et Géhu-Franck 1961) Bioret et Géhu 1996 ; 

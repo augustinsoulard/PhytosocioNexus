@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Alno glutinosae-Ulmenalia minoris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ripisylves étroites des berges de petits cours d'eau rapide
+
+**Espèces caractéristiques** : [[Alnus glutinosa]], [[Alnus incana]], [[Fraxinus excelsior]], [[Solanum dulcamara]], [[Equisetum hyemale]], [[Dryopteris dilatata]], [[Carex pendula]], [[Carex remota]], [[Carex riparia]], [[Glyceria fluitans]], [[Lycopus europaeus]], [[Eupatorium cannabinum]], [[Impatiens noli-tangere]], [[Caltha palustris]], Chrysosplenium div. sp., [[Cardamine amara]], [[Cardamine flexuosa]], [[Stellaria alsine]], [[Stellaria nemorum]], [[Lysimachia nemorum]], [[Chaerophyllum hirsutum]], [[Ranunculus aconitifolius]], [[Mentha longifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.21]]
+	- CB : [[44.3]]
+	- HIC EUR : [[91E0]]
+
+ZH : oui
+
 Associations :
 - [[Artemisio vulgaris-Alnetum glutinosa]]e Le Hénaff et Renaux in Renaux et al. 2015 ; 
 - [[Blechno spicant-Alnetum glutinosae]] F. Blanchard et al. 2004 ; 

@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Carpino betuli-Fagenalia sylvaticae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Formations littorales atlantiques sur pente raide mais non ébouleuse
+
+**Espèces caractéristiques** : [[Fraxinus excelsior]], [[Ulmus minor]], [[Polystichum setiferum]], [[Ruscus aculeatus]], [[Rubia peregrina]], [[Iris foetidissima]], [[Arum italicum subsp. neglectum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A19]] - [[G1.A23]] - [[G1.A61]]
+	- CB : [[41.29]] - [[41.33]] - [[41.F1]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Aro neglecti-Fraxinetum excelsioris]] Géhu et Géhu-Franck 1988 ; 
 - [[Aro neglecti-Ulmetum minoris]] Géhu et Géhu-Franck ex Renaux et al. 2019 ; 

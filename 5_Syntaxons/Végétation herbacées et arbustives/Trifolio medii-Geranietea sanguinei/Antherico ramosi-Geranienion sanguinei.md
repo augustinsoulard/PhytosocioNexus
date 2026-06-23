@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Sous-alliance xérophile. Subdivisée en 6 groupes d'associations : associations atlantiques et subatlantiques ; associations acidiclines des massifs hercyniens ; associations médioeuropéennes et subatlantiques ; association provençale ; associations méditerranéo-montagnardes ; associations montagnardes à subalpines.
+
+**Espèces caractéristiques** : [[Anthericum ramosum]], [[Lathyrus latifolius]], [[Aster amellus]], [[Anemone sylvestris]], [[Rubia peregrina]], [[Geranium sanguineum]], [[Pulmonaria longifolia]], [[Cytisus lotoides]], [[Melampyrum cristatum]], [[Serratula tinctoria]], [[Euphorbia angulata]], [[Spiraea hypericifolia subsp. obovata]], [[Hylotelephium maximum]], [[Oreoselinum nigrum]], [[Hieracium virgultorum]], [[Teucrium scorodonia]], [[Potentilla montana]], [[Polygonatum odoratum]], [[Libanotis pyrenaica]], [[Dictamnus albus]], [[Coronilla coronata]], [[Euphorbia loreyi]], [[Asperula tinctoria]], [[Campanula medium]], [[Potentilla pedata]], [[Geranium lanuginosum]], [[Sesleria argentea]], [[Galatella sedifolia]], [[Silene italica]], [[Xanthoselinum alsaticum subsp. venetum]], [[Brachypodium rupestre]], [[Laserpitium siler]], [[Laserpitium latifolium]], [[Lilium croceum]], [[Anthericum liliago]], [[Centaurea triumfettii]], [[Trifolium alpestre]], [[Trifolium montanum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.21]]
+	- CB : [[34.41]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Asperulo tinctoriae-Vincetoxicetum hirundinariae]] A. Schmitt et Rameau 1983 ; 
 - [[Asphodelo macrocarpi-Laserpitietum sileris]] Misset 2013 ; 

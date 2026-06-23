@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses du Massif central, Pyrénées, vallées de la Loire et de l'Allier
+
+**Espèces caractéristiques** : [[Festuca arvernensis]], [[Festuca longifolia]], [[Festuca lemanii]], [[Oreoselinum nigrum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.28]]
+	- CB : [[34.34]]
+	- HIC EUR : [[6210-36]]
+
+ZH : non
+
 Associations :
 - [[Achilleo tomentosae-Festucetum arvernensis]] Culat in Le Hénaff et al. 2021 ; 
 - [[Ajugo genevensis-Festucetum valesiacae]] Billy ex Loiseau et Felzines 2010 ; 

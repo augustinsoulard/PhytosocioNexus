@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses à caractère subméditerranéen
+
+**Espèces caractéristiques** : Les mêmes que celles de l'alliance, [[Ranunculus gramineus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.272]]
+	- CB : [[34.332]]
+	- HIC EUR : [[6210-28]] & [[6210-30]]
+
+ZH : non
+
 Associations :
 - [[Astragalo monspessulani-Festucetum marginatae]] Choisnet in Le Hénaff et al. 2021 ; 
 - [[Bromo erecti-Ranunculetum graminei]] J.-M. Royer 1973 ; 

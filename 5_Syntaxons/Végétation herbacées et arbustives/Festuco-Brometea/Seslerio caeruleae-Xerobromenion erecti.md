@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Rebords de corniches, à caractère montagnard
+
+**Espèces caractéristiques** : [[Sesleria caerulea]], [[Festuca marginata]], [[Anthericum ramosum]], [[Bupleurum falcatum]], [[Carduus defloratus]], [[Libanotis pyrenaica]], [[Cephalaria leucantha]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.272]]
+	- CB : [[34.332]]
+	- HIC EUR : [[6210-32]] à [[6210-34]]
+
+ZH : non
+
 Associations :
 - [[Allio sphaerocephali-Seslerietum caeruleae]] J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Carici humilis-Anthyllidetum montanae]] Pottier-Alapetite 1942 ; 

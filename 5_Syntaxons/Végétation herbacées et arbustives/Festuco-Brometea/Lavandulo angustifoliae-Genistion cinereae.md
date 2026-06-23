@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés riches en chaméphytes mésoxérophiles oro- et supra-méditerranéennes
+
+**Espèces caractéristiques** : [[Genista cinerea]], [[Astragalus hypoglottis]], [[Leucanthemum pallens]], [[Lilium pomponium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F6.63]]
+	- CB : [[32.63]]
+	- HIC EUR : NC
+
+ZH : non
+
 Sous-alliances :
 - [[Lavandulo angustifoliae-Genistenion cinereae]] Gaultier in J.-M. Royer et Ferrez 2020
 - [[Lilio pomponii-Artemisienion albae]] Gaultier in J.-M. Royer et Ferrez 2020

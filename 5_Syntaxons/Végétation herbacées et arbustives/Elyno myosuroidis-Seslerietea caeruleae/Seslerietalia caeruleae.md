@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses des Alpes et du Jura, non cryophiles, non oroméditerranéennes
+
+**Espèces caractéristiques** : [[Festuca violacea]], [[Festuca laevigata]], [[Senecio doronicum]], [[Gentiana clusii]], [[Linum alpinum]], [[Thesium alpinum]], [[Polygala alpestris]], [[Galium anisophyllon]], [[Bellidiastrum michelii]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Agrostio capillaris-Seslerion caerulae]] (C. Béguin 1972) Prunier et al. ex T. Sanz et al. in Corriol et al. 2023
 - [[Anthoxantho villosi-Plantaginion brutiae]] Barbero et Quézel 1975

@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Fagenalia sylvaticae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts du montagnard supérieur (subalpin)
+
+**Espèces caractéristiques** : [[Abies alba]], [[Fagus sylvatica]], [[Acer pseudoplatanus]], [[Sorbus aucuparia]], [[Gymnocarpium dryopteris]], [[Adenostyles alliariae]], [[Rumex arifolius]], [[Geranium sylvaticum]], [[Aconitum lycoctonum]], [[Aconitum napellus]], [[Valeriana rotundifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.65]]
+	- CB : [[41.15]]
+	- HIC EUR : [[9140-1]] à [[9140-3]]
+
+ZH : p.p.
+
 Associations :
 - [[Aceri pseudoplatani-Fagetum sylvaticae]] J. Bartsch et M. Bartsch 1940 ; 
 - [[Doronico autriacii-Fagetum sylvaticae]] Seytre in Renaux et al. 2019 ; 

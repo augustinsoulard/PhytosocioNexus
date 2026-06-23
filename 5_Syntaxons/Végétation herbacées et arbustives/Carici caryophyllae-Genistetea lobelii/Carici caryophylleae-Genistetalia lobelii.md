@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Carici caryophyllae-Genistetea lobelii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fruticées à xérophytes épineux de Corse et de Sardaigne
+
+**Espèces caractéristiques** : [[Genista lobelii]], [[Genista salzmannii]], [[Anthyllis hermanniae]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Anthyllidion hermanniae]] J.C. Klein 1972
 - [[Genistion salzmannii]] Delbosc et al. in Delbosc et al. 2021

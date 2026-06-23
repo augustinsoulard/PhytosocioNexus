@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fourrés +/- méditerranéens peu diversifiés
+
+**Espèces caractéristiques** : [[Erica arborea]], [[Cistus laurifolius]], [[Cytisus scoparius]], [[Cytisus spinosus]], [[Calicotome spinosa]], [[Euphorbia characias]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F5.211]]
+	- CB : [[32.31]] - [[32.32]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Cytiso scoparii-Ericetum arboreae]] B. Foucault 2016 ; 
 - [[Erico arboreae-Arbutetum unedonis]] Molinier 1937 ; 

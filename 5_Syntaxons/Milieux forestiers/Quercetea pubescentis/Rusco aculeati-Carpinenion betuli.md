@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Carpinion betuli]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Charmaies mésophiles sur sols plus profonds
+
+**Espèces caractéristiques** : [[Quercus petraea]], [[Carpinus betulus]], [[Sorbus aria]], [[Viburnum lantana]], [[Ruscus aculeatus]], [[Loncomelos pyrenaicum]], [[Ficaria verna]], [[Iris foetidissima]], [[Rubia peregrina]], [[Pulmonaria longifolia]], [[Pulmonaria affinis]], [[Daphne laureola]], [[Arum italicum]], [[Cephalanthera damasonium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A17]]
+	- CB : [[41.27]]
+	- HIC EUR : NC
+
+ZH : non
+
 Sous-alliances :
 - [[Cephalanthero damasonii-Quercetum petraeae]] Billy ex Thébaud et Renaux in Renaux et al. 2019 ; 
 - [[Ornithogalo pyrenaici-Carpinetum betuli]] (Billy 1997) Renaux, Timbal et al. 2019 ; 

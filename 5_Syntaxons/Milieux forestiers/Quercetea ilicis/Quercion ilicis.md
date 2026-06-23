@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies sempervirentes
+
+**Espèces caractéristiques** : [[Quercus ilex]], [[Quercus suber]]
+
+ZH : (à préciser)
+
 Sous-alliances :
 - [[Quercenion ilicis]] Rivas Goday 1960
 - [[Quercenion suberis]] (R.J. Loisel 1971) Rameau in Bardat et al. 2004

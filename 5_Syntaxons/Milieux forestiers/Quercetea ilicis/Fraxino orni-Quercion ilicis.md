@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Bois rocailleux et maquis
+
+**Espèces caractéristiques** : [[Fraxinus ornus]], [[Quercus ilex]], [[Phillyrea latifolia]], [[Cyclamen repandum]], [[Galium scabrum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.122]]
+	- CB : [[45.319]]
+	- HIC EUR : [[9340-7]]
+
+ZH : non
+
 Associations :
 - [[Aceri monspessulani-Quercetum ilicis]] Arrigoni et al. 1985 ; 
 - [[Buxo sempervirentis-Quercetum ilicis]] Delbosc et al. 2015 ; 

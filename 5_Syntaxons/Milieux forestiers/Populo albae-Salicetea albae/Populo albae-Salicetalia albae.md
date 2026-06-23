@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés eurosibériennes
+
 Alliances :
 - [[Fraxino excelsioris-Populion albae]] Carbiener et al. ex B. Foucault et T. Cornier 2020
 - [[Rubo caesii-Populion nigrae]] H. Passarge 1985

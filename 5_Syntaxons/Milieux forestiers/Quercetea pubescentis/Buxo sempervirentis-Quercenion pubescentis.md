@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Quercion pubescenti-petraeae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies pubescentes ne dépassant pas les Cévennes, le sud du Massif central, les Causses du Quercy, et remontant dans le centre-ouest (en évitant le sud-ouest aquitain)
+
+**Espèces caractéristiques** : [[Quercus pubescens]], [[Acer monspessulanum]], [[Acer opalus]], [[Buxus sempervirens]], [[Sorbus domestica]], [[Rhamnus alaternus]], [[Lonicera etrusca]], [[Genista hispanica]], [[Cotinus coggygria]], [[Asphodelus ramosus]], [[Euphorbia duvalii]], [[Salvia glutinosa]], [[Saponaria ocymoides]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.7111]]
+	- CB : [[41.711]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Buxo sempervirentis-Quercetum pubescentis]] Braun-Blanquet ex Bannes-Puygiron 1933 ; 
 - [[Campanulo bononiensis-Quercetum pubescentis]] Braun-Blanquet 1961 ; 

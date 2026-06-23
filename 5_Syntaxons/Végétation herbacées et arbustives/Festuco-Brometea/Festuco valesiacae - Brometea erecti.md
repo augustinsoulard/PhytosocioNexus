@@ -1,3 +1,0 @@
-[[Ononidetalia striatae]]
-
-#classe

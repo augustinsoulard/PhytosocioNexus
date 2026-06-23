@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Sous-alliance acidicline (présence d'espèces des [[Melampyro pratensis-Holcetea mollis]])
+
+**Espèces caractéristiques** : [[Agrimonia procera]], [[Melittis melissophyllum]], [[Festuca heterophylla]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.22]]
+	- CB : [[34.42]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Agrimonio repentis-Brachypodietum sylvatici]] J.-M. Royer et Rameau 1983 ; 
 - [[Melittio melissophylli-Festucetum heterophyllae]] Misset et al. in J.-M. Royer et al. 2006 ; 

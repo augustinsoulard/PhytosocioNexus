@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés xérophiles montagnardes du sud-est
+
+**Espèces caractéristiques** : [[Festuca burgundiana]], [[Achillea odorata]], [[Astragalus incanus]], [[Teucrium polium]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.51]]
+	- CB : [[34.71]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Achilleo odoratae-Andropogonetum ischaemi]] Allier 1971 ; 
 - [[Astragalo incani-Potentilletum gaudinii]] Allier 1971 ; 

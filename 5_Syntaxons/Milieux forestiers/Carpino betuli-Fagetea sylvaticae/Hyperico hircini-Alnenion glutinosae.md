@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Osmundo regalis-Alnion glutinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,18 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés riveraines corse sur sol neutre à basique
+
+**Espèces caractéristiques** : [[Alnus cordata]], [[Fraxinus ornus]], [[Erica terminalis]], [[Calamagrostis varia subsp. corsica]], [[Eupatorium cannabinum subsp. corsicum]], [[Hypericum hircinum]], [[Borago pygmaea]], [[Alnus glutinosa]], [[Euphorbia amygdaloides subsp. semiperfoliata]],  [[Asplenium scolopendrium]]
+
+**Espèces caractéristiques** :, 
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.133]]
+	- CB : [[44.53]]
+	- HIC EUR : [[92A0-4]]
+
+ZH : oui
+
 Associations :
 - [[Eupatorio corsici-Alnetum glutinosae]] Dierschke 1975
 

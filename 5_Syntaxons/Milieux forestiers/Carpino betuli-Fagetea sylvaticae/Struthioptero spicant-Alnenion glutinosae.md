@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Osmundo regalis-Alnion glutinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14

@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur:
+syntaxon_superieur: "[[Alnetalia viridis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14

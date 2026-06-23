@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Sambucetalia racemosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ronciers neutro-acidiclinophiles
+
+- **Correspondances typologiques** :
+    - EUNIS : [[F3.11]]
+    - CB : [[31.81]]
+    - HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Agrostio-Franguletum alni]] H. Passarge 1964 ; 
 - [[Pruno spinosae-Rubetum bifrondis]] H.E. Weber 1990 ; 

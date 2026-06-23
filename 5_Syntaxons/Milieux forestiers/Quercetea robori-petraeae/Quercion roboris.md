@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies-Hêtraies médioeuropéennes, subatlantiques à nord atlantiques
+
+**Espèces caractéristiques** : [[Fagus sylvatica]] (optimum dans cette classe), [[Ilex aquifolium]], [[Luzula pilosa]]
+
+ZH : (à préciser)
+
 Sous-alliances :
 - [[Ilici aquifolii-Quercenion petraeae]] Rameau ex Renaux et al. 2019
 - [[Quercenion robori-petraeae]] Rivas Martínez 1975

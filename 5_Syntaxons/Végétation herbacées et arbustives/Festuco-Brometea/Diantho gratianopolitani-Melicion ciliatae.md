@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés +/- rupicoles du nord-est de la France
+
+**Espèces caractéristiques** : [[Dianthus gratianopolitanus]], [[Achillea nobilis]], [[Alyssum montanum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.29]]
+	- CB : [[34.35]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Diantho gratianopolitani-Festucetum pallentis]] Gauckler 1938 ; 
 - [[Diantho gratianopolitani-Festucetum patzkei]] (J.-M. Royer 2011) J.-M. Royer et Ferrez 2020 ; 

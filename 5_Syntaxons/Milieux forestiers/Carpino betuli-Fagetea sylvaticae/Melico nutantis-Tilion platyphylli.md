@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Tilienalia platyphylli]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts du nord-est, Vosges méridionales, Jura, Alpes, Pyrénées, Massif central
+
+**Espèces caractéristiques** : [[Tilia cordata]], [[Tilia platyphyllos]], [[Acer opalus]], [[Asplenium adiantum-nigrum]], [[Cystopteris fragilis]], [[Sesleria caerulea]], [[Clinopodium grandiflorum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A45]]
+	- CB : [[41.45]]
+	- HIC EUR : [[9180-11]] à [[9180-13]]
+
+ZH : non
+
 Associations :
 - [[Aceri monspessulani-Tilietum cordatae]] Corriol et M. Chaney 2011 ; 
 - [[Aceri opali-Tilietum platyphylli]] (P. Kissling 1985) Rameau ex Renaux et al. 2019 ; 

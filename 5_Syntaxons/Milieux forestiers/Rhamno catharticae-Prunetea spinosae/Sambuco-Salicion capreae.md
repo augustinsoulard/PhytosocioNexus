@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Sambucetalia racemosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fourrés souvent pionniers (coupes, friches, etc.)
+
+**Espèces caractéristiques** : [[Sambucus nigra]], [[Sambucus racemosa]], [[Salix caprea]], [[Rubus idaeus]]
+
+- **Correspondances typologiques** :
+    - EUNIS : [[F3.11]] - [[G5.85]]
+    - CB : [[31.81]] - [[31.872]]
+    - HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Betulo pendulae-Salicetum capreae]] Billy ex B. Foucault in B. Foucault et J.-M. Royer 2016 ; 
 - [[Cicerbito plumieri-Aceretum pseudoplatani]] Robbe in J.-M. Royer et al. 2006 ; 

@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Rhamno catharticae-Prunetea spinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -12,7 +12,7 @@ sources:
 ---
 Végétation arbustive thermophile des sols riches en nutriments sous climat tempéré à hiver doux de l'Europe atlantique, subméditerranéenne et de la Macaronésie. 
 
-Espèces indicatrices : [[Dioscorea communis]].
+Espèces indicatrices : [[Rubus ulmifolius]], [[Dioscorea communis]], [[Rubia peregrina]], [[Lonicera periclymenum]]
 
 Alliances :
 - [[Cytision sessilifolii]] Biondi in Biondi et al. 1988

@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Ulicion minoris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Landes xériques à subxériques
+
+**Espèces caractéristiques** : [[Ulex minor]], [[Erica cinerea]], [[Erica vagans]], [[Genista pilosa]], [[Rubia peregrina]], [[Pseudarrhenatherum longifolium]], [[Cistus lasianthus subsp. alyssoides]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F4.23]] - [[F4.24]]
+	- CB : [[31.23]] - [[31.24]]
+	- HIC EUR : [[4030-4]] à [[4030-7]]
+
+ZH : non
+
 Associations :
 - [[Agrostio curtisii-Ericetum cinereae]] (Le Normand 1966) Be. Clément et al. 1978 ; 
 - [[Agrostio setaceae-Ericetum cinereae]] (Be. Clément et al. 1978) Géhu et al. 1986 ; 

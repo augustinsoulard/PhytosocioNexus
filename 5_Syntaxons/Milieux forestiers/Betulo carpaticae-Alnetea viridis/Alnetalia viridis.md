@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Betulo carpaticae-Alnetea viridis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets atlantiques et subatlantiques, xérophiles à mésophiles
+
+**Espèces caractéristiques** : [[Conopodium majus]], [[Peucedanum gallicum]], [[Pulmonaria longifolia]], [[Centaurea nigra]], [[Anemone nemorosa]], [[Euphorbia hyberna]], [[Jacobaea adonidifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.22]] - [[E5.33]]
+	- CB : [[34.42]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anemono nemorosae-Euphorbietum hybernae]] Bouzillé et B. Foucault in J.-M. Royer et al. 2006 ; 
 - [[Arenario montanae-Pseudarrhenatheretum longifolii]] P. Lafon 2019 ; 

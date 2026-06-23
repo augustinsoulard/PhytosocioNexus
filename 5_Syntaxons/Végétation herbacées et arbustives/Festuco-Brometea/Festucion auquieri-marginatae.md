@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses du sud-ouest et du centre-ouest
+
+**Espèces caractéristiques** : [[Festuca auquieri]], [[Festuca marginata subsp. marginata]], [[Koeleria vallesiana]], [[Sesleria caerulea]], [[Carex liparocarpos]], [[Biscutella guillonii]], [[Linum suffruticosum subsp. appressum]], [[Helichrysum stoechas]], [[Staehelina dubia]], [[Carthamus mitissimus]], [[Artemisia alba]], [[Globularia vulgaris]], [[Ononis striata]], [[Leucanthemum graminifolium]], [[Sideritis hyssopifolia subsp. guillonii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.272]]
+	- CB : [[34.332]]
+	- HIC EUR : [[6210-26]] & [[6210-27]]
+
+ZH : non
+
 Associations :
 - [[Astragalo monspessulani-Festucetum lahonderei]] Lahondère ex J.-M. Royer et Ferrez 2020 ; 
 - [[Bellidi sylvestris-Festucetum lemanii]] Boullet in J.-M. Royer et Ferrez 2020 ; 

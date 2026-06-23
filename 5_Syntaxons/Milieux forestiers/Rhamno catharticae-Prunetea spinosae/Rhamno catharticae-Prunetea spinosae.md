@@ -12,7 +12,7 @@ sources:
 ---
 Végétation arbustive, mésotrophile à eutrophile, mésohygrophile à xérophile des étages planitaire à montagnard de l'Europe tempérée et subméditerranéenne. 
 
-Espèces indicatrices : [[Clematis vitalba]], [[Cornus sanguinea]], [[Corylus avellana]], [[Crataegus monogyna]], [[Euonymus europaeus]], [[Ligustrum vulgare]], [[Malus sylvestris]], [[Prunus spinosa]], [[Rosa canina]], [[Rosa agrestis]].
+Espèces indicatrices : [[Clematis vitalba]], [[Cornus sanguinea]], [[Corylus avellana]], [[Crataegus monogyna]], [[Euonymus europaeus]], [[Ligustrum vulgare]], [[Malus sylvestris]], [[Prunus spinosa]], [[Rosa canina]], [[Rosa agrestis]],  [[Clematis vitalba]], Rosa canina aggr. ([[Rosa canina]]).
 
 Ordres :
 - [[Lauro nobilis-Sambucetalia nigrae]] Biondi et al. in Biondi et al. 2014

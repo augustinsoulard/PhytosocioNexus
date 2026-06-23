@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses des substrats +/- perturbés par la gélifluxion des étages subalpin et alpin (Alpes)
+
+**Espèces caractéristiques** : [[Oxytropis lapponica]], [[Oxytropis jacquinii]], [[Oxytropis amethystea]], [[Viola calcarata]], [[Pedicularis rostratospicata]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.4312]] - [[E4.432]]
+	- CB : [[36.4312]] - [[36.432]]
+	- HIC EUR : [[6170-7]] & [[6170-8]]
+
+ZH : non
+
 Associations :
 - [[Artemisio glacialis-Festucetum pumilae]] L. Richard ex Corriol et al. 2023 ;
 - [[Astragalo leontini-Seslerietum caeruleae]] L. Richard ex Corriol et al. 2023 ;

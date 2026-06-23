@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Rhamno catharticae-Prunetea spinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fourrés européens, plutôt psychrophiles
+
+**Espèces caractéristiques** :  
+[[Crataegus laevigata]], [[Sambucus nigra]], [[Salix caprea]], [[Populus tremula]], [[Betula pendula]]
+
 Alliances :
 - [[Humulo lupuli-Sambucion nigrae]] B. Foucault et Julve ex B. Foucault et J.-M. Royer 2016
 - [[Lonicero nigrae-Corylion avellanae]] B. Foucault et Julve ex B. Foucault et J.-M. Royer 2016

@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés des pentes et plateaux des Causses et Corbières
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.314]]
+	- CB : [[34.514]]
+	- HIC EUR : [[6220-6]]
+
+ZH : non
+
 Associations :
 - [[Arenario hispidae-Minuartietum capillaceae]] Quézel et Granel de Solignac ex Barbero et al. 1972 ; 
 - [[Armerio arenariae-Festucetum christianii-bernardii]] (Braun-Blanquet 1971) Corriol et Laigneau 2017 ; 

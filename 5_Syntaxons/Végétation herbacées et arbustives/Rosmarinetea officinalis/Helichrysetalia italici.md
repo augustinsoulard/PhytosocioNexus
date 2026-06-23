@@ -14,6 +14,10 @@ Végétation herbacée vivace chaméphytique, halotolérante, des garrigues prim
 
 Anciennement rangé dans les [[Ammophiletea]] australis.
 
+**Espèces caractéristiques** : [[Helichrysum italicum]], [[Helichrysum stoechas]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Euphorbion pithyusae ]]Biondi et Géhu in Géhu et Biondi 1994
 

@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Boulaies, Pinèdes, Pessières, sur tourbe mature
+
+**Espèces caractéristiques** : [[Betula pubescens]], [[Vaccinium uliginosum subsp. uliginosum]], [[Molinia caerulea]], [[Polytrichum commune]], [[Sphagnum flexuosum]], [[Sphagnum angustifolium]]
+
 Alliances :
 - [[Betulion pubescentis]] W. Lohmeyer et Tüxen ex Scamoni et H. Passarge 1959
 - [[Eriophoro vaginati-Piceion abietis]] H. Passarge 1968

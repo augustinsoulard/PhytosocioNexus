@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses ouvertes sur sols caillouteux, soumises à d'intenses contrastes thermiques
+
+**Espèces caractéristiques** : [[Astragalus sempervirens]], [[Anthyllis montana]], [[Scutellaria alpina]], [[Iberis sempervirens]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Avenion sempervirentis]] Barbero 1968
 - [[Festucion scopariae]] Braun-Blanquet 1948

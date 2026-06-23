@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Sous-alliance basiphile à neutrocline
+
+**Espèces caractéristiques** : [[Campanula trachelium]], [[Aquilegia vulgaris]] (optimum), [[Rubus caesius]], [[Lathyrus sylvestris]], [[Digitalis lutea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.22]]
+	- CB : [[34.42]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Brachypodio sylvatici-Rubetum caesii]] Thévenin et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Calamintho menthifoliae-Brachypodietum sylvatici]] J.-M. Royer et Rameau 1983 ; 

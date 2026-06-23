@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Communautés méditerranéennes
+**Description** : Pelouses-friches méso-xérophiles des sols profonds mésotrophes (Note : ordre/alliance situé(e) dans les Agropyretea intermedio-repentis [p. 41] par CatVeg ; nous choisissons de le/la conserver au sein des végétations strictement méditerranéennes)
 
-ZH : non spécifié
+**Espèces caractéristiques** : [[Brachypodium phoenicoides]], [[Dittrichia viscosa]]
 
 Alliances :
 - [[Brachypodion phoenicoidis]] Braun-Blanquet ex Molinier 1934

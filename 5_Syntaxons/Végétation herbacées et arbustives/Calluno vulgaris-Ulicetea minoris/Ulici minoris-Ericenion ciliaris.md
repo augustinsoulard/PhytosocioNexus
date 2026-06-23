@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Ulicion minoris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Landes mésophiles à humides
+
+**Espèces caractéristiques** : [[Erica ciliaris]], [[Erica tetralix]], [[Erica scoparia]], [[Genista anglica]], [[Ulex gallii]], [[Ulex minor]], [[Scorzonera humilis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F4.11]] - [[F4.12]] - [[F4.13]]
+	- CB : [[31.11]] - [[31.12]] - [[31.13]]
+	- HIC EUR : [[4010-1]] - [[4020-1]] - [[4030-8]]
+
+ZH : p.p.
+
 Associations :
 - [[Arrhenathero thorei-Ericetum ciliaris]] Géhu et Géhu-Franck 1975 ; 
 - [[Calluno vulgaris-Ericetum tetralicis]] Géhu et Wattez 1975 ; 

@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Cytisetalia scopario-striati]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fourrés atlantiques et continentaux, collinéens et montagnards
+
+**Espèces caractéristiques** : [[Cytisus scoparius]], [[Pteridium aquilinum]], [[Teucrium scorodonia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F3.14]]
+	- CB : [[31.841]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Abieti albae-Cytisetum scoparii]] B. Foucault 2018 ; 
 - [[Calluno vulgaris-Sarothamnetum scoparii]] Malcuit 1929 ; 

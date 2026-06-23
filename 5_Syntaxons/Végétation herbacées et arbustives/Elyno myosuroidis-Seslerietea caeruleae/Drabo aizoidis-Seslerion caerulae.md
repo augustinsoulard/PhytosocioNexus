@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses ouvertes calcicoles, thermophiles à mésocryophiles
+
+**Espèces caractéristiques** : [[Coronilla vaginalis]], [[Veronica fruticulosa]], [[Dianthus saxicola]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.431]]
+	- CB : [[36.431]]
+	- HIC EUR : [[6170-9]] & [[6170-10]]
+
+ZH : non
+
 Associations :
 - [[Androsaco villosae-Gentianetum angustifoliae]] Je. Ritter 1972 ;
 - [[Helictotricho setacei-Galietum saxosi]] Gontard 1955 ;

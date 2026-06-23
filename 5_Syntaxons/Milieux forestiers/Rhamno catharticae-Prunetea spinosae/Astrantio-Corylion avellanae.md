@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Prunetalia spinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Peuplements pionniers ou postpionniers, surtout montagnards
+
+**Espèces caractéristiques** : [[Rubus idaeus]], [[Lonicera nigra]], [[Sambucus racemosa]], [[Sorbus aucuparia]], [[Rosa tomentosa]], [[Viburnum lantana]], [[Corylus avellana]], [[Acer pseudoplatanus]], [[Acer campestre]], [[Betula pendula]], [[Corylus avellana]], [[Populus tremula]], [[Ulmus minor]], [[Geum urbanum]], [[Prenanthes purpurea]], [[Polygonatum verticillatum]], [[Senecio ovatus]], [[Lactuca plumieri]], [[Neottia ovata]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F3.17]] - [[G1.92]]
+	- CB : [[31.8C]] - [[41.D]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anemono hepaticae-Coryletum avellanae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
 - [[Berberido vulgaris-Prunetum brigantiacae ]]Braun-Blanquet 1961 ; 

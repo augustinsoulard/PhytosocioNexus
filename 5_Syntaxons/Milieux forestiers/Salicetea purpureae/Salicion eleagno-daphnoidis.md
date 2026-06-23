@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés montagnardes et subalpines du Jura, des Alpes, des Pyrénées et des Cévennes
+
+**Espèces caractéristiques** : [[Salix eleagnos]], [[Salix daphnoides]], [[Myricaria germanica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F9.14]]
+	- CB : [[24.223]] - [[24.224]]
+	- HIC EUR : [[3230-1]] & [[3230-2]] - [[3240-1]] & [[3240-2]]
+
+ZH : oui
+
 Associations :
 - [[Myricarietum germanicae]] Beger ex Soó 1927 ; 
 - [[Petasito hybridi-Salicetum triandrae]] T. Müller et Görs 1958 ; 

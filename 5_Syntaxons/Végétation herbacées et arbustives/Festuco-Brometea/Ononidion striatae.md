@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés herbacées mésoxérophiles, surtout des pentes rocheuses des ubacs
+
+**Espèces caractéristiques** : [[Centaurea pectinata]], [[Linum campanulatum]], [[Euphorbia duvalii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.51]]
+	- CB : [[34.71]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Bupleuro telonensis-Ranunculetum graminei]] Granel de Solignac et Quézel 1952 ; 
 - [[Daphno cneori-Gentianetum costei]] Barbero et al. 1972 ; 

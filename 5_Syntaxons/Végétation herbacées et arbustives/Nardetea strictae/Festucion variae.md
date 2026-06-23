@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses thermophiles acidiphiles, surtout alpestres (exceptionnel, Massif central). 
+
+**Espèces caractéristiques** : [[Festuca scabriculmis]], [[Trifolium montanum]], [[Carlina acaulis]], [[Scorzoneroides pyrenaica]], [[Alchemilla alpina]], [[Viola calcarata]], [[Pedicularis rostratospicata]], [[Phyteuma orbiculare]], [[Nigritella nigra subsp. corneliana]], [[Nardus stricta]], [[Sempervivum arachnoideum]], [[Androsace vitaliana]], [[Bellardiochloa violacea]], [[Trifolium alpinum]], [[Leucanthemum delarbrei]], [[Patzkea paniculata subsp. paniculata]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.333]]
+	- CB : [[36.333]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Anthoxantho odorati-Veronicetum allionii]] Lavagne et al. 1983 ; 
 - [[Avenetum parlatorei]] Lavagne et al. 1983 ; 

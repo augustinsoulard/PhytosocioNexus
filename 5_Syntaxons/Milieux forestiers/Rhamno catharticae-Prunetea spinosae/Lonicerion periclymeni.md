@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Pyro spinosae-Rubetalia ulmifolii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fourrés mésophiles à mésoxérophiles, thermo- à eu-atlantiques
+
+**Espèces caractéristiques** : [[Ulex europaeus]], [[Lonicera periclymenum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F3.1112]] - [[F3.171]]
+	- CB : [[31.8112]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Corylo avellanae-Crataegetum monogynae]] B. Foucault ex B. Foucault et J.-M. Royer 2016 ; 
 - [[Daphno gnidii-Ligustretum vulgaris]] (Géhu 1968) Géhu et Géhu-Franck 1975 ; 

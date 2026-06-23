@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Cytisetalia scopario-striati]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15

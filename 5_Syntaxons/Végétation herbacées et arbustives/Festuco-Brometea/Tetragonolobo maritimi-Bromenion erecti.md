@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses mésoxérophiles atlantiques et subatlantiques sur sols marneux
+
+**Espèces caractéristiques** : [[Molinia arundinacea]], [[Molinia caerulea]], [[Sesleria caerulea]], [[Carex tomentosa]], [[Catananche caerulea]], [[Cervaria rivini]], [[Lotus maritimus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.262]]
+	- CB : [[34.322]]
+	- HIC EUR : [[6210-20]] & [[6210-21]]
+
+ZH : non
+
 Associations :
 - [[Blackstonio perfoliatae-Brometum erecti]] J.-M. Royer et Bidault ex J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Calamagrostio variae-Molinietum littoralis]] J.M. Royer in Ferrez et al. 2011 ; 

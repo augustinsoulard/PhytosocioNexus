@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Vaccinio myrtilli-Genistetalia pilosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,7 +10,16 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Espèces caractéristiques : [[Lycopodium clavatum]]
+**Description** : Landes acidiphiles, subcontinentales, planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Vaccinium uliginosum]], [[Vaccinium vitis-idaea]], [[Vaccinium myrtillus]], [[Calluna vulgaris]], [[Genista pilosa]], [[Lycopodium clavatum]], [[Gentiana lutea]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F4.213]] - [[F4.223]] - [[F4.226]]
+	- CB : [[31.213]] - [[31.223]] - [[31.226]]
+	- HIC EUR : [[4030-10]] à [[4030-14]]
+
+ZH : non
 
 Associations :
 - [[Alchemillo saxatilis-Vaccinietum uliginosi]] Thébaud ex Schaminée et al. 1993 ;

@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation pionnière des coupes et chablis. Végétation herbacée transitoire, nitrohéliophile (incluant des Ronciers pionniers).
+
+**Espèces caractéristiques** : [[Epilobium angustifolium]], [[Lactuca muralis]], [[Rubus idaeus]], Rubus gr. fruticosus ([[Rubus fruticosus]]), [[Verbascum thapsus]], [[Senecio sylvaticus]], [[Senecio ovatus]]
+
 Alliances :
 - [[Atropion belladonnae]] Braun-Blanquet ex Aichinger 1933
 - [[Epilobion angustifolii]] Oberdorfer 1957

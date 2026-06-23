@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Carpino betuli-Fagenalia sylvaticae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,24 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts planitiaires à collinéennes (4 groupes d'associations)
+
+**Espèces caractéristiques** : [[Carpinus betulus]], [[Crataegus laevigata]], [[Rosa arvensis]], [[Vinca minor]], [[Ranunculus auricomus]], [[Luzula pilosa]], [[Carex umbrosa]], [[Atrichum undulatum]]
+
+*Groupes d'associations (caractéristiques et différentielles) :*
+- **Communes aux associations du centre-ouest/Massif central et sud-aquitaniennes/pyrénéennes** : [[Arum italicum]], [[Brachypodium pinnatum]], [[Geranium nodosum]], [[Ilex aquifolium]], [[Lathyrus linifolius]], [[Pulmonaria affinis]], [[Pulmonaria longifolia]], [[Ruscus aculeatus]], [[Symphytum tuberosum]]
+	- **Centre-ouest, surtout ligériennes, et du Massif central** : [[Quercus petraea]], [[Fagus sylvatica]], [[Sorbus aria]], [[Luzula sylvatica]], [[Doronicum pardalianches]], [[Lilium martagon]], [[Scilla bifolia]], [[Polygonatum multiflorum]], [[Rubia peregrina]]
+	- **Sud-aquitaniennes et du piedmont pyrénéen** : [[Fagus sylvatica]], [[Blechnum spicant]], [[Hypericum androsaemum]], [[Iris foetidissima]], [[Erica vagans]], [[Pulmonaria affinis]]
+- **Nord-atlantiques** : [[Fagus sylvatica]], [[Taxus baccata]], [[Daphne laureola]], [[Blechnum spicant]], [[Hyacinthoides non-scripta]], [[Ilex aquifolium]], [[Ruscus aculeatus]]
+- **Médio-européennes** : [[Fagus sylvatica]], [[Carpinus betulus]], [[Equisetum hyemale]], [[Carex digitata]], [[Carex pilosa]], [[Luzula luzuloides]], [[Deschampsia cespitosa]], [[Hordelymus europaeus]], [[Poa chaixii]], [[Milium effusum]], [[Lathyrus vernus]], [[Pulmonaria montana]], [[Pulmonaria obscura]], [[Scilla bifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.63]] - [[G1.64]] - [[G1.A12]] - [[G1.A19]] - [[G1.A23]]
+	- CB : [[41.13]] - [[41.14]] - [[41.22]] - [[41.29]] - [[41.33]]
+	- HIC EUR : [[9130-3]] (hêtraies à Jacinthe des bois non thermophiles) - NC
+
+ZH : non
+
 Associations :
 - [[Androsaemo officinalis-Fagetum sylvaticae]] B. Comps et al. ex Renaux et al. 2019 ; 
 - [[Carici flaccae-Fagetum sylvaticae]] Thill 1964 ; 

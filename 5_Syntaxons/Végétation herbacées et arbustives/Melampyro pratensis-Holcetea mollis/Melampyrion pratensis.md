@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets continentaux, xéroclines à mésoxérophiles
+
+**Espèces caractéristiques** : [[Melampyrum pratense]], [[Hieracium maculatum]], [[Luzula forsteri]], [[Festuca heterophylla]], [[Lathyrus montanus]] (absence des atlantiques)
+
+- **Correspondances typologiques** :
+	- EUNIS : NC
+	- CB : NC
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Campanulo persicifoliae-Melampyretum velebetici]] Billy ex Thébaud et al. 2014 ; 
 - [[Carici piluliferae-Avenuletum flexuosae]] H. Passarge 1984 ; 

@@ -10,5 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés plutôt ouest-méditerranéennes
+
 Alliances :
 - [[Rubo ulmifolii-Populion albae]] B. Foucault et T. Cornier 2020

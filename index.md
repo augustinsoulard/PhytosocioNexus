@@ -13,7 +13,7 @@ Ce site est un dépôt communautaire centralisant les ressources, outils et site
 Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https://github.com/augustinsoulard/PhytosocioNexus) et l'ouvrir via [Obsidian](https://obsidian.md/).  L'ouverture via Obsidian permet de débloquer certaines fonctionnalités.
 
 > [!todo] Participer
-> Si vous souhaitez participez à ce projet [contactez moi](https://www.synetea.fr/contact/) :)
+> Si vous souhaitez participez à ce projet, rendez-vous sur la [[Prendre part à PhytosocioNexus|page dédiée]] ou [contactez moi](https://www.synetea.fr/contact/) :)
 
 > *Chaque groupement végétale est hautement improbable, il existe alors un ordre caché proportionnel à l’improbabilité du groupement.* - Jean-Jacques Lazare
 # **Syntaxonomie**

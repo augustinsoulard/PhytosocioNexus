@@ -12,7 +12,14 @@ sources:
 ---
 Végétation herbacée vivace structurée par des chaméphytes épineux, mésoxérophile à xérophile, des substrats rocheux calcaires exposés aux vents (rebords de corniches, crêtes ventées, lapiaz), des reliefs de la Méditerranée nord-occidentale. 
 
-Espèces indicatrices : [[Brassica repanda subsp. saxatilis]], [[Genista lobelii]].
+Espèces indicatrices : [[Brassica repanda subsp. saxatilis]], [[Genista lobelii]], [[Sempervivum calcareum]], [[Seseli galloprovinciale]].
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F7.445]]
+	- CB : [[31.745]]
+	- HIC EUR : [[4090-2]] à [[4090-4]]
+
+ZH : non
 
 Sous-alliances :
 - [[Genistenion lobelii]] Molinier ex A. Valls 2003

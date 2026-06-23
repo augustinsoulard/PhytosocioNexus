@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés de recolonisation forestière, xéro-mésophiles
+
+**Espèces caractéristiques** : [[Epipactis muelleri]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G3.47]]
+	- CB : [[42.57]]
+	- HIC EUR : NC
+
 Alliances :
 - [[Epipactido muelleri-Pinion sylvestris]] J.-M. Royer in J.-M. Royer et al. 2006
 

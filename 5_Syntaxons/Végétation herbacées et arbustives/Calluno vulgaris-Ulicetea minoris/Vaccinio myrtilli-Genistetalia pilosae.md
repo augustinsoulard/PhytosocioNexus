@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Landes subatlantiques à continentales, planitiaires à montagnardes
+
+**Espèces caractéristiques** : [[Genista pilosa]], [[Vaccinium myrtillus]], [[Lycopodium clavatum]]
+
+ZH : non spécifié
+
 Alliances :
 - [[Calluno vulgaris-Arctostaphylion uvae-ursi]] Tüxen et Preising in Preising 1949 nom. inval.
 - [[Genistion tinctorio-germanicae]] B. Foucault 2008

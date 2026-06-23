@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pinèdes à Pinus sylvestris calcicoles à acidiphiles montagnardes, sous influence méditerranéenne
+
+**Espèces caractéristiques** : [[Pinus sylvestris]], [[Erica carnea]]
+
 Ordres :
 - [[Astragalo monspessulani-Pinetalia sylvestris]] Oberdorfer ex Theurillat in Theurillat et al. 1995
 - [[Buxo sempervirentis-Pinetalia sylvestris]] Rameau 1998

@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Acerenalia pseudoplatani]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts atlantiques à subatlantiques, planitiaires à collinéennes sous influence océanique
+
+**Espèces caractéristiques** : [[Tilia platyphyllos]], [[Fraxinus excelsior]], [[Ulmus glabra]], [[Polystichum setiferum]], [[Polystichum x bicknellii]], [[Dryopteris affinis subsp. affinis]], [[Dryopteris affinis subsp. borreri]], [[Asplenium scolopendrium]], [[Polypodium interjectum]], [[Hypericum androsaemum]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A41]] - [[G1.A44]]
+	- CB : [[41.41]] - [[41.44]]
+	- HIC EUR : [[9180-1]] à [[9180-3]] & [[9180-10]]
+
+ZH : p.p.
+
 Associations :
 - [[Dryopterido affinis-Fraxinetum excelsioris]] (Bardat 1993) Bardat et al. in Boeuf 2011 ; 
 - [[Hyperico androsaemi-Ulmetum glabrae]] Vanden Berghen 1968 ; 

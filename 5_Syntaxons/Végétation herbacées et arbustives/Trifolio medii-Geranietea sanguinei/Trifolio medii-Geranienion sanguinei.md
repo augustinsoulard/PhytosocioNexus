@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Sous-alliance mésoxérophile
+
+**Espèces caractéristiques** : [[Trifolium medium]], [[Agrimonia eupatoria]], [[Lathyrus pratensis]], [[Knautia arvensis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.21]]
+	- CB : [[34.41]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Bupleuro falcati-Laserpitietum latifolii]] Billy ex J.-M. Royer 2016 ; 
 - [[Centaureo semidecurrentis-Melampyretum cristati]] Braque et Loiseau ex J.-M. Royer 2016 ; 

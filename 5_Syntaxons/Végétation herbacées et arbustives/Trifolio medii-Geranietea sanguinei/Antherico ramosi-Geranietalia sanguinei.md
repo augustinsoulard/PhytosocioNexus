@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets xérophiles
+
+**Espèces caractéristiques** : [[Geranium sanguineum]], [[Primula veris subsp. columnae]], [[Rubia peregrina]], [[Campanula rapunculoides]], [[Filipendula vulgaris]], [[Peucedanum officinale]], [[Rosa spinosissima]]
+
 Alliances :
 - [[Galio veri-Geranion sanguinei]] Géhu et Géhu-Franck 1983 nom. mut. propos. Dengler et Boch 2008
 - [[Geranion sanguinei]] Tüxen in T. Müller 1962

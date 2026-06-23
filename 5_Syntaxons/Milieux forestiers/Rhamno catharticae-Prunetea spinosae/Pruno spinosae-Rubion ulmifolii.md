@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Pyro spinosae-Rubetalia ulmifolii]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -12,7 +12,14 @@ sources:
 ---
 Végétation arbustive thermophile pionnière des sols profonds et légèrement humides de l'Europe thermoatlantique et méditerranéenne. 
 
-Espèces indicatrices : [[Spartium junceum]], [[Pyrus spinosa]], [[Rubus ulmifolius]].
+Espèces indicatrices : [[Spartium junceum]], [[Pyrus spinosa]], [[Rubus ulmifolius]], [[Smilax aspera]], [[Rosa sempervirens]], [[Clematis flammula]], [[Osyris alba]], [[Lonicera etrusca]], [[Coriaria myrtifolia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F3.164]] - [[F3.221]] - [[F5.4]]
+	- CB : [[31.88]] - [[31.891]]
+	- HIC EUR : NC - [[5130]] (recolonisation de pelouses)
+
+ZH : p.p.
 
 Associations :
 - [[Coriario myrtifoliae-Spartietum juncei]] B. Foucault 2017 ; 

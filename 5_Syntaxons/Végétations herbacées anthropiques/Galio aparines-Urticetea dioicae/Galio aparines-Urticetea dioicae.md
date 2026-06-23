@@ -14,8 +14,6 @@ sources:
 
 **Espèces caractéristiques** : [[Galium aparine]], [[Urtica dioica]], [[Geranium robertianum]], [[Geum urbanum]]
 
-ZH : non spécifié
-
 Ordres :
 - [[Galio aparines-Alliarietalia petiolatae]] Oberdorfer ex Görs et T. Müller 1969
 - [[Impatienti noli-tangere-Stachyetalia sylvaticae]] Boullet et al. in Bardat et al. 2004

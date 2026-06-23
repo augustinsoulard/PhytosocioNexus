@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts de l'étage subalpin des Pyrénées
+
+**Espèces caractéristiques** : [[Pinus mugo subsp. uncinata]], [[Abies alba]], [[Juniperus communis subsp. nana]]
+
+ZH : (à préciser)
+
 Sous-alliances :
 - [[Arctostaphylo uvae-ursi-Pinenion uncinatae]] Thébaud et Delcoigne 2018
 - [[Rhododendro ferruginei-Pinenion uncinatae]] Rivas Martínez et al. 1991

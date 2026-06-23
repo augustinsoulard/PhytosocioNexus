@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses mésoxérophiles atlantiques et subatlantiques sur sols peu épais, hyperatlantique
+
+**Espèces caractéristiques** : [[Euphorbia segetalis subsp. portlandica]], [[Anthyllis vulneraria]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.262]]
+	- CB : [[34.322]]
+	- HIC EUR : [[6210]]
+
+ZH : non
+
 Associations :
 - [[Anthyllido vulnerariae-Festucetum armoricanae]] Bioret et Glemarec 2016 ; 
 - [[Galio littoralis-Brachypodietum rupestris]] Géhu et Géhu-Franck 1984 corr. Bioret 2008

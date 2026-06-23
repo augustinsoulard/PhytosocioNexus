@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pinèdes de la zone interne du Massif central
+
+**Espèces caractéristiques** : [[Pinus sylvestris]], [[Juniperus communis]], [[Goodyera repens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G3.47]]
+	- CB : [[42.57]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Diantho monspessulani-Pinetum sylvestris]] Billy ex Thébaud et al. 2014 ; 
 - [[Teucrio scorodoniae-Pinetum sylvestris]] Billy ex Thébaud et al. 2014

@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses mésophiles subatlantiques
+
+**Espèces caractéristiques** : [[Gentiana cruciata]], [[Trifolium montanum]], [[Trifolium ochroleucon]]
+
+ZH : non spécifié
+
 Sous-alliances :
 - [[Chamaespartio sagittalis-Agrostienion tenuis]] Vigo ex J.-M. Royer et Ferrez 2020
 - [[Mesobromenion erecti]] Braun-Blanquet et Moor 1938

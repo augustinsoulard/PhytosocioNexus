@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Alnetalia viridis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Fourrés acidiclines à calcicoles de l'étage montagnard supérieur
+
+**Espèces caractéristiques** : [[Lonicera alpigena]], [[Lonicera xylosteum]], [[Sorbus mougeotii]], [[Sorbus aria]], [[Fagus sylvatica]], [[Acer pseudoplatanus]], [[Ribes alpinum]], [[Laburnum alpinum]], [[Abies alba]]
+
+- **Correspondances typologiques** :
+  - EUNIS : [[G1.913]] - [[G1.93]]
+  - CB : [[41.B3]] - [[41.E]]
+  - HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Aceri pseudoplatani-Salicetum appendiculatae]] (Braun-Blanquet 1950) Oberdorfer 1957 ; 
 - [[Cotoneastro integerrimi-Sorbetum chamaemespili]] Gallandat et al. 1995 ; 

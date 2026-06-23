@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies-Boulaies pubescentes hygroacidiphiles sur sols sableux engorgés
+
+**Espèces caractéristiques** : [[Quercus robur]], [[Betula pubescens]], [[Populus tremula]], [[Alnus glutinosa]], Salix pl. sp., [[Frangula alnus]], [[Molinia caerulea]], [[Agrostis canina]], [[Dryopteris dilatata]], [[Dryopteris carthusiana]], [[Polytrichum commune]], Sphagnum pl. sp,  [[Betula pubescens]], [[Lonicera periclymenum]], [[Pteridium aquilinum]]
+
 Alliances :
 - [[Lonicero periclymeni-Betulion pubescentis]] Géhu 2006
 - [[Molinio caeruleae-Quercion roboris]] Scamoni et H. Passarge ex H. Passarge 1968

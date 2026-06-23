@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts dominées le plus souvent par Picea abies
+
+**Espèces caractéristiques** : [[Lycopodium annotinum]], [[Luzula luzuloides]], [[Bazzania trilobata]] (Hépatique)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G3.161]] - [[G3.164]]
+	- CB : [[42.221]] - [[42.224]]
+	- HIC EUR : [[9410-2]] - [[9410-4]]
+
+ZH : non - p.p.
+
 Associations :
 - [[Asplenio viridis-Piceetum abietis]] Kuoch 1954 ; 
 - [[Bazzanio trilobatae-Piceetum abietis]] (Schmid et E. Gaisberg 1936) Braun-Blanquet et Sissingh in Braun-Blanquet et al. 1939 mut. Willner et al. 2007 ; 

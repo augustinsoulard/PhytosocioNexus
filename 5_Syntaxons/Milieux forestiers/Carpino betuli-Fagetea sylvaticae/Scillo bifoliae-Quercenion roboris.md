@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Fraxino excelsioris-Quercion roboris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts médioeuropéennes à subatlantiques (quart nord-est de la France) (Note : comparer avec F-III-1-3-2, p. 73)
+
+**Espèces caractéristiques** : [[Daphne mezereum]], [[Lonicera xylosteum]], [[Asarum europaeum]], [[Aconitum lycoctonum]], [[Glechoma hederacea]], [[Campanula trachelium]], [[Loncomelos pyrenaicum]], [[Neottia nidus-avis]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A14]]
+	- CB : [[41.24]]
+	- HIC EUR : [[9160-1]] à [[9160-3]]
+
+ZH : p.p.
+
 Associations :
 - [[Aconito vulpariae-Quercetum pedunculatae]] (Chouard 1926) F. Bugnon et Rameau 1974 ; 
 - [[Aconito vulpariae-Quercetum roboris]] (Chouard 1927) F. Bugnon et Rameau 1974 ; 

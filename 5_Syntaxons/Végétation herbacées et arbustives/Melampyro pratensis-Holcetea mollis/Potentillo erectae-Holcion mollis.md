@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets collinéens à montagnards, méso- à méso-hygrophiles
+
+**Espèces caractéristiques** : [[Holcus mollis]], [[Potentilla erecta]], [[Phegopteris connectilis]], [[Oreopteris limbosperma]], [[Blechnum spicant]], [[Athyrium filix-femina]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.22]] - [[E5.4]]
+	- CB : [[37.7]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Athyrio filicis-feminae-Blechnetum spicant]] B. Foucault 1995 ; 
 - [[Blechno spicant-Oreopteridetum limbospermae]] Robbe ex J.-M. Royer et al. 2006 ; 

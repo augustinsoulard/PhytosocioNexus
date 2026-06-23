@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies sessiliflores nord-ouest atlantiques hyperocéaniques
+
+**Espèces caractéristiques** : [[Quercus petraea]], [[Hymenophyllum tunbrigense]], [[Hymenophyllum wilsonii]], [[Dryopteris aemula]], [[Blechnum spicant]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.822]]
+	- CB : [[41.522]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Blechno spicant-Quercetum petraeae]] Braun-Blanquet et Tüxen 1952
 

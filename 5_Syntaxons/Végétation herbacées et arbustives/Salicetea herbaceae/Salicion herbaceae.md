@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation acidiphile
+
+**Espèces caractéristiques** : [[Luzula alpino-pilosa]], [[Sibbaldia procumbens]], [[Cardamine alpina]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.112]] - [[F2.111]]
+	- CB : [[36.1112]]
+	- HIC EUR : NC
+
+ZH : p.p.
+
 Associations :
 - [[Alchemillo fissae-Luzuletum candollei]] Rivas Martínez et al. in Rivas Martínez et al. 2002 ; 
 - [[Anthelio juratzkanae-Salicetum herbaceae]] Braun-Blanquet 1948 ; 

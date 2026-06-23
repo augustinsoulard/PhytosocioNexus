@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses des Vosges, plaine d'Alsace, région parisienne, Alpes, Ardennes
+
+**Espèces caractéristiques** : [[Festuca heteropachys]], [[Potentilla incana]], [[Scabiosa canescens]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.28]]
+	- CB : [[34.34]]
+	- HIC EUR : [[6210-36]]
+
+ZH : non
+
 Associations :
 - [[Achilleo nobilis-Melicetum transsilvanicae]] Boeuf et J.-P. Berchtold in Collaud et al. 2016 ; 
 - [[Agrostio vinealis-Brometum erecti]] Issler ex Oberdorfer et Korneck in Oberdorfer 1978 ; 

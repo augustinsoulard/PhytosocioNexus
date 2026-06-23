@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies supraméditerranéennes, médioeuropéennes à subatlantiques (Massif central oriental et méridional, Cévennes, Pyrénées centrales et orientales, Maures et Estérel, Alpes-Maritimes)
+
+**Espèces caractéristiques** : [[Quercus robur]], [[Quercus petraea]], [[Castanea sativa]], [[Sorbus aria]], [[Quercus pubescens]], [[Genista pilosa]], [[Genista sagittalis]], [[Conopodium majus]], [[Luzula forsteri]], [[Poa nemoralis]], [[Silene nutans]], [[Betonica officinalis]], [[Lathyrus montanus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.8]] - [[G1.712]] - [[G1.913]] - [[G1.93]]
+	- CB : [[41.5]] - [[41.712]] - [[24.224]] - [[41.B3]] - [[41.E]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Aristolochio pallidae-Castaneetum sativae]] (R.J. Loisel et Mercurin in R.J. Loisel 1971) Rameau ex Renaux et al. 2019 ; 
 - [[Calamintho sylvaticae-Fagetum sylvaticae]] J.-M. Savoie 1996 ; 

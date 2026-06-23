@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Rosmarinetalia officinalis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
@@ -10,6 +10,15 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétations basses de l'Ardèche (mélange d'espèces des Rosmarinetalia et des Sedo albi-Scleranthetea biennis)
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F6.1]]
+	- CB : [[32.4]]
+	- HIC EUR : NC
+
+ZH : non
+
 Associations :
 - [[Artemisio campestris-Thymetum vulgaris]] Choisnet 2019 nom. ined. (1) ; 
 - [[Cisto albidi-Thymetum vulgaris]] Choisnet 2019 nom. ined. (1) ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Communautés planitiaires et collinéennes
+
+**Espèces caractéristiques** : [[Salix triandra]], [[Salix viminalis]], ([[Acer negundo]])
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F9.12]]
+	- CB : [[44.12]]
+	- HIC EUR : NC
+
+ZH : oui
+
 Associations :
 - [[Calystegio sepium-Salicetum triandrae]] Jurko 1964 ; 
 - [[Chaerophyllo hirsuti-Salicetum fragilis]] T. Müller et Görs 1958 ; 

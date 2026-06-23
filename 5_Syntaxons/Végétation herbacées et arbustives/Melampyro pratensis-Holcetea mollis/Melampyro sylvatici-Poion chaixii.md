@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ourlets montagnards, subatlantiques à continentaux
+
+**Espèces caractéristiques** : [[Melampyrum sylvaticum]], [[Poa chaixii]], [[Knautia integrifolia]], [[Knautia arvernensis]], [[Euphorbia hyberna]], [[Luzula luzuloides]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E5.22]]
+	- CB : [[34.42]]
+	- HIC EUR : NC
+
+ZH : oui
+
 Associations :
 - [[Antherico liliago-Teucrietum scorodoniae]] S. Muller 1985 nom. inval. ; 
 - [[Hieracio sabaudi-Melampyretum pratensis]] (T. Müller in Oberdorfer 1978) H. Passarge 1979 ; 

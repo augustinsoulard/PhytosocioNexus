@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Cephalanthero damasonii-Fagion sylvaticae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Hêtraies et Hêtraies-Sapinières montagnardes
+
+**Espèces caractéristiques** : [[Abies alba]], [[Picea abies]], [[Fagus sylvatica]], [[Sorbus aucuparia]], [[Rosa pendulina]], [[Lonicera alpigena]], [[Sesleria caerulea]], [[Carex alba]], [[Lathyrus vernus]], [[Prenanthes purpurea]], [[Phyteuma spicatum]], [[Polygala chamaebuxus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.66]]
+	- CB : [[41.16]]
+	- HIC EUR : [[9150]]
+
+ZH : non
+
 Associations :
 - [[Buxo sempervirentis-Fagetum sylvaticae]] Braun-Blanquet et Susplugas 1937 ; 
 - [[Carici albae-Fagetum sylvaticae]] Moor 1952 ; 

@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses primaires écorchées ventées
+
+**Espèces caractéristiques** : [[Oxytropis campestris]], [[Oxytropis halleri]], [[Carex myosuroides]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.42]]
+	- CB : [[36.42]]
+	- HIC EUR : [[6170-6]]
+
+ZH : non
+
 Sous-alliances :
 - [[Eu-Oxytropido-Elynenion myosuroidis]]
 - [[Festuco pumilae-Elynenion myosuroidis]] Corriol et al. 2023

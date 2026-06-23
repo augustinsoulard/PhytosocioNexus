@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Chênaies vertes sur rochers calcaires
+
+**Espèces caractéristiques** : [[Quercus ilex]], [[Phillyrea media]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G2.121]] - [[G2.122]]
+	- CB : [[45.31]] - [[45.32]]
+	- HIC EUR : [[9340-1]] à [[9340-6]], [[9340-8]] & [[9340-9]]
+
+ZH : non
+
 Associations :
 - [[Arisaro vulgaris-Quercetum ilicis]] (Barbero et R.J. Loisel 1983) Barbero et al. 1992 ; 
 - [[Asplenio onopteridis-Quercetum ilicis]] (Braun-Blanquet 1936) Rivas Martínez 1975 ; 

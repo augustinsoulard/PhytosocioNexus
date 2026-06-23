@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Falaises des Alpes-maritimes et de Corse
+
+**Espèces caractéristiques** : [[Euphorbia pithyusa]], [[Anthyllis barba-jovis]], [[Thymelaea hirsuta]], [[Pallenis maritima]], [[Helichrysum italicum]], [[Anthyllis cytisoides]], [[Matthiola incana]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B3.32]]
+	- CB : [[18.22]]
+	- HIC EUR : [[1240-3]]
+
+ZH : p.p.
+
 Associations :
 - [[Anthyllido barbae-jovis-Thymelaeetum hirsutae]] Molinier 1954 ; 
 - [[Armerietum praecocis]] Molinier 1954 ; 

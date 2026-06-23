@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Acerenalia pseudoplatani]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts montagnardes, sous climat médioeuropéen, neutrocalcicoles
+
+**Espèces caractéristiques** : [[Actaea spicata]], [[Fraxinus excelsior]], [[Aconitum lycoctonum]], [[Acer pseudoplatanus]], [[Polystichum aculeatum]], [[Asplenium scolopendrium]], [[Lathyrus vernus]], [[Aruncus dioicus]], [[Lunaria rediviva]], [[Cardamine heptaphylla]], [[Cardamine pentaphyllos]], [[Lonicera nigra]], [[Lonicera alpigena]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[G1.A411]] - [[G1.A44]]
+	- CB : [[41.43]]
+	- HIC EUR : [[9180-4]] à [[9180-9]]
+
+ZH : p.p.
+
 Associations :
 - [[Arunco dioici-Aceretum pseudoplatani]] Moor 1952 ; 
 - [[Asperulo taurinae-Aceretum pseudoplatani]] Ellenberg et Klötzli 1972 ; 

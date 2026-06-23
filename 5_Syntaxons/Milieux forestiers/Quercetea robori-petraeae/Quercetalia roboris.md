@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Forêts xérophiles à mésohygrophiles
+
+**Espèces caractéristiques** : [[Quercus petraea]], [[Quercus robur]], [[Fagus sylvatica]], [[Betula pendula]], [[Pinus sylvestris]], [[Castanea sativa]] (souvent introduite), [[Cytisus scoparius]], [[Rubus nessensis]], [[Rubus plicatus]], [[Rubus silvaticus]], [[Polypodium vulgare]], [[Galium saxatile]], [[Veronica officinalis]], [[Teucrium scorodonia]], [[Viola riviniana]], [[Solidago virgaurea]], [[Hypericum pulchrum]], [[Lathyrus linifolius]], [[Pleurozium schreberi]]
+
 Alliances :
 - [[Agrostio capillaris-Quercion petraeae]] Scamoni et H. Passarge 1959
 - [[Hymenophyllo tunbrigensis-Quercion petraeae]] Je. Pallas 2000

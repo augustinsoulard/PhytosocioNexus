@@ -10,6 +10,17 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Pelouses mésoxérophiles atlantiques et subatlantiques sur sols xéroclines, atlantique
+
+**Espèces caractéristiques** : [[Festuca marginata]], [[Bromopsis erecta]], [[Trinia glauca]], [[Ononis pusilla]], [[Linum tenuifolium]], [[Carthamus mitissimus]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.262]]
+	- CB : [[34.322]]
+	- HIC EUR : [[6210-12]] à [[6210-14]]
+
+ZH : non
+
 Associations :
 - [[Anacamptido pyramidalis-Seselietum montani]] J.L. Verrier ex J.-M. Royer et Ferrez 2020 ; 
 - [[Carthamo mitissimi-Brometum erecti]] (Lapraz 1962) J.-M. Royer et Ferrez 2020 ; 

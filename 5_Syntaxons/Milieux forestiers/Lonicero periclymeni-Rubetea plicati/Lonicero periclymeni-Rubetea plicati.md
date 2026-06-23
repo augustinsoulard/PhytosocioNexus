@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Ronciers. Fourrés à Rubus des sols acides, caractérisés par diverses espèces de Ronces.
+
+**Espèces caractéristiques** : Diverses espèces de Ronces
+
 Ordres :
 - [[Rubetalia plicati]] H.E. Weber in Ri. Pott 1995
 

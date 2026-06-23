@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur:
+syntaxon_superieur: "[[Rhamno catharticae-Prunetea spinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15

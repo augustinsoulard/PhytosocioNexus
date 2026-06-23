@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description** : Végétation arbustive de l'étage subalpin. Nombreux taxons des genres *Sorbus*, *Lonicera* et *Salix*.
+
 Ordres :
 - [[Alnetalia viridis]] Rübel ex Karner et Willner in Willner et G. Grabherr 2007
 
