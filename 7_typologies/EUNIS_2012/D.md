@@ -1,0 +1,219 @@
+# Habitat EUNIS D : Tourbières hautes et bas-marais
+
+#### Niveaux inférieurs 🔽
+- [[D1]] Tourbières hautes et tourbières de couverture
+- [[D2]] Tourbières de vallée, bas-marais acides et tourbières de transition
+- [[D4]] Bas-marais riches en bases et tourbières des sources calcaires
+- [[D5]] Roselières sèches et cariçaies, normalement sans eau libre
+- [[D6]] Marais continentaux salés et saumâtres et roselières
+
+#### 🔄 Correspondances Typologiques
+- [[5]] Tourbières et marais
+- [[4]] Forêts
+- [[1]] Habitats littoraux et halophiles
+
+#### Correspondance avec PVF2
+*Aucune correspondance trouvée avec le PVF2.*
+
+#### 🌿 Espèces indicatrices et Taxons associés
+- [[Conocephalus dorsalis]]
+- [[Conocephalus fuscus]]
+- [[Pteronemobius heydenii]]
+- [[Pteronemobius heydenii]] heydenii
+- [[Trigonidium (Trigonidium) cicindeloides]]
+- [[Metrioptera brachyptera]]
+- [[Tetrix bolivari]]
+- [[Sympetrum danae]] (Sulzer, 1776)
+- [[Sympetrum flaveolum]] (Linnaeus, 1758)
+- [[Lestes sponsa]] (Hansemann, 1823)
+- [[Vespertilio murinus]] Linnaeus, 1758
+- [[Aeshna isoceles]] (O. F. Müller, 1767)
+- [[Aiolopus thalassinus]]
+- [[Eyprepocnemis plorans]]
+- [[Ceriagrion tenellum]] (Villers, 1789)
+- [[Somatochlora metallica]] (Vander Linden, 1825)
+- [[Eptesicus serotinus]] (Schreber, 1774)
+- [[Discoglossus sardus]] Tschudi in Otth, 1837
+- [[Sympetrum vulgatum]] (Linnaeus, 1758)
+- [[Galemys pyrenaicus]] (E. Geoffroy, 1811)
+- [[Eyprepocnemis plorans]] plorans
+- [[Locusta migratoria]] migratoria
+- [[Mecostethus parapleurus]]
+- [[Mecostethus parapleurus]] parapleurus
+- [[Aiolopus thalassinus]] thalassinus
+- [[Chorthippus montanus]]
+- [[Chorthippus montanus]] montanus
+- [[Boloria aquilonaris]] (Stichel, 1908)
+- [[Colias palaeno]] (Linnaeus, 1761)
+- [[Somatochlora arctica]] (Zetterstedt, 1840)
+- [[Cordulegaster bidentata]] Selys, 1843
+- [[Alytes obstetricans]] (Laurenti, 1768)
+- [[Lestes dryas]] Kirby, 1890
+- [[Pelophylax lessonae]] (Camerano, 1882)
+- [[Bufo viridis]] (Laurenti, 1768)
+- [[Stethophyma grossum]]
+- [[Sympetrum sanguineum]] (O. F. Müller, 1764)
+- [[Pyrrhosoma nymphula]] (Sulzer, 1776)
+- [[Orthetrum coerulescens]] (Fabricius, 1798)
+- [[Ischnura pumilio]] (Charpentier, 1825)
+- [[Libellula quadrimaculata]] Linnaeus, 1758
+- [[Coenagrion lunulatum]] (Charpentier, 1840)
+- [[Leucorrhinia albifrons]] (Burmeister, 1839)
+- [[Salamandra lanzai]] (Nascetti, Andreone, Capula & Bullini, 1988)
+- [[Aeshna grandis]] (Linnaeus, 1758)
+- [[Aeshna subarctica]] Walker, 1908
+- [[Leucorrhinia dubia]] (Vander Linden, 1825)
+- [[Rana temporaria]] Linnaeus, 1758
+- [[Vipera seoanei]] (Lataste, 1879)
+- [[Nyctalus lasiopterus]] (Schreber, 1780)
+- [[Aeshna cyanea]] (O. F. Müller, 1764)
+- [[Pelophylax kl]]. grafi (Crochet, Dubois, Ohler & Tunner, 1995)
+- [[Triturus vulgaris]] (Linnaeus, 1758)
+- [[Somatochlora alpestris]] (Selys, 1840)
+- [[Pipistrellus pipistrellus]] (Schreber, 1774)
+- [[Nehalennia speciosa]] (Charpentier, 1840)
+- [[Coenonympha tullia]] (O. F. Müller, 1764)
+- [[Aeshna caerulea]] (Ström, 1783)
+- [[Orthetrum brunneum]] (Fonscolombe, 1837)
+- [[Anguis fragilis]] Linnaeus, 1758
+- [[Myotis mystacinus]] (Kuhl, 1817)
+- [[Pelophylax kl]]. esculentus (Linnaeus, 1758)
+- [[Vertigo moulinsiana]] (Dupuy, 1849)
+- [[Euproctus asper]] (Dugès, 1852)
+- [[Lestes virens]] (Charpentier, 1825)
+- [[Aeshna juncea]] (Linnaeus, 1758)
+- [[Enallagma cyathigerum]] (Charpentier, 1840)
+- [[Coenagrion hastulatum]] (Charpentier, 1825)
+- [[Leucorrhinia pectoralis]] (Charpentier, 1825)
+- [[Vipera berus]] (Linnaeus, 1758)
+- [[Pipistrellus nathusii]] (Keyserling & Blasius, 1839)
+- [[Salamandra corsica]] (Savi, 1838)
+- [[Hyla meridionalis]] Boettger, 1874
+- [[Pelophylax perezi]] (Seoane, 1885)
+- [[Vertigo angustior]] Jeffreys, 1830
+- [[Zootoca vivipara]] (Lichtenstein, 1823)
+- [[Leucorrhinia rubicunda]] (Linnaeus, 1758)
+- [[Somatochlora flavomaculata]] (Vander Linden, 1825)
+- [[Sympetrum striolatum]] (Charpentier, 1840)
+- [[Rana arvalis]] Nilsson, 1842
+- [[Cordulia aenea]] (Linnaeus, 1758)
+- [[Anas platyrhynchos]] Linnaeus, 1758
+- [[Gallinago gallinago]] (Linnaeus, 1758)
+- [[Numenius arquata]] (Linnaeus, 1758)
+- [[Rallus aquaticus]] Linnaeus, 1758
+- [[Grus grus]] (Linnaeus, 1758)
+- [[Caprimulgus europaeus]] Linnaeus, 1758
+- [[Saxicola rubetra]] (Linnaeus, 1758)
+- [[Turdus pilaris]] Linnaeus, 1758
+- [[Acrocephalus schoenobaenus]] (Linnaeus, 1758)
+- [[Acrocephalus scirpaceus]] (Hermann, 1804)
+- [[Phylloscopus collybita]] (Vieillot, 1887)
+- [[Carduelis flammea]] (Linnaeus, 1758)
+- [[Carpodacus erythrinus]] (Pallas, 1770)
+- [[Emberiza schoeniclus]] (Linnaeus, 1758)
+- [[Clostera anachoreta]] (Denis & Schiffermüller, 1775)
+- [[Clostera anastomosis]] (Linnaeus, 1758)
+- [[Bonasa bonasia]] (Linnaeus, 1758)
+- [[Phragmataecia castaneae]] (Hübner, 1790)
+- [[Euthrix potatoria]] (Linnaeus, 1758)
+- [[Scopula caricaria]] (Reutti, 1853)
+- [[Scopula nigropunctata]] (Hufnagel, 1767)
+- [[Scopula ternata]] (Schrank, 1802)
+- [[Scopula floslactata]] (Haworth, 1809)
+- [[Carsia sororiata]] (Hübner, 1813)
+- [[Eulithis testata]] (Linnaeus, 1761)
+- [[Eulithis populata]] (Linnaeus, 1758)
+- [[Lampropteryx otregiata]] (Metcalfe, 1917)
+- [[Pasiphila debiliata]] (Hübner, 1817)
+- [[Eupithecia ultimaria]] Boisduval, 1840
+- [[Eupithecia scopariata]] (Rambur, 1833)
+- [[Eupithecia trisignaria]] Herrich-Schäffer, 1848
+- [[Hydriomena furcata]] (Thunberg & Borgström, 1784)
+- [[Hydriomena ruberata]] (Freyer, 1831)
+- [[Anticollix sparsata]] (Treitschke, 1828)
+- [[Mesotype verberata]] (Scopoli, 1763)
+- [[Rheumaptera undulata]] (Linnaeus, 1758)
+- [[Pterapherapteryx sexalata]] (Retzius, 1783)
+- [[Xanthorhoe incursata]] (Hübner, 1813)
+- [[Xanthorhoe montanata]] (Denis & Schiffermüller, 1775)
+- [[Orthonama vittata]] (Borkhausen, 1794)
+- [[Eucrostes indigenata]] (Villers, 1789)
+- [[Jodis putata]] (Linnaeus, 1758)
+- [[Pseudoterpna pruinata]] (Hufnagel, 1767)
+- [[Angerona prunaria]] (Linnaeus, 1758)
+- [[Arichanna melanaria]] (Linnaeus, 1758)
+- [[Pachycnemia hippocastanaria]] (Hübner, 1799)
+- [[Laelia coenosa]] (Hübner, 1808)
+- [[Epicallia villica]] (Linnaeus, 1758)
+- [[Rhyparioides metelkana]] (Lederer, 1861)
+- [[Pelosia muscerda]] (Hufnagel, 1766)
+- [[Pelosia obtusa]] (Herrich-Schäffer, 1852)
+- [[Schrankia taenialis]] (Hübner, 1809)
+- [[Syngrapha interrogationis]] (Linnaeus, 1758)
+- [[Protolampra sobrina]] (Duponchel, 1843)
+- [[Coenophila subrosea]] (Stephens, 1829)
+- [[Anaplectoides prasina]] (Denis & Schiffermüller, 1775)
+- [[Polypogon gryphalis]] (Herrich-Schäffer, 1851)
+- [[Macrochilo cribrumalis]] (Hübner, 1793)
+- [[Herminia grisealis]] (Denis & Schiffermüller, 1775)
+- [[Rhizedra lutosa]] (Hübner, 1803)
+- [[Phragmatiphila nexa]] (Hübner, 1808)
+- [[Photedes captiuncula]] (Treitschke, 1825)
+- [[Nonagria typhae]] (Thunberg, 1784)
+- [[Hydraecia micacea]] (Esper, 1789)
+- [[Hydraecia osseola]] Staudinger, 1882
+- [[Coenobia rufa]] (Haworth, 1809)
+- [[Celaena haworthii]] (Curtis, 1829)
+- [[Archanara neurica]] (Hübner, 1808)
+- [[Archanara dissoluta]] (Treitschke, 1825)
+- [[Apamea unanimis]] (Hübner, 1813)
+- [[Lateroligia ophiogramma]] (Esper, 1794)
+- [[Amphipoea oculea]] (Linnaeus, 1761)
+- [[Amphipoea fucosa]] (Freyer, 1830)
+- [[Amphipoea lucens]] (Freyer, 1845)
+- [[Hoplodrina octogenaria]] (Goeze, 1781)
+- [[Charanyca trigrammica]] (Hufnagel, 1766)
+- [[Papestra biren]] (Goeze, 1781)
+- [[Lacanobia splendens]] (Hübner, 1808)
+- [[Coranarta cordigera]] (Thunberg, 1788)
+- [[Phlogophora scita]] (Hübner, 1790)
+- [[Eucarta amethystina]] (Hübner, 1803)
+- [[Chilodes maritima]] (Tauscher, 1806)
+- [[Athetis gluteosa]] (Treitschke, 1835)
+- [[Athetis pallustris]] (Hübner, 1808)
+- [[Senta flammea]] (Curtis, 1828)
+- [[Mythimna impura]] (Hübner, 1808)
+- [[Mythimna congrua]] (Hübner, 1817)
+- [[Leucania obsoleta]] (Hübner, 1803)
+- [[Leucania zeae]] (Duponchel, 1827)
+- [[Leucania joannisi]] Boursin & Rungs, 1952
+- [[Xanthia icteritia]] (Hufnagel, 1766)
+- [[Catocala optata]] (Godart, 1824)
+- [[Amphipyra tragopoginis]] (Clerck, 1759)
+- [[Viminia menyanthidis]] (Esper, 1789)
+- [[Helotropha leucostigma]] (Hübner, 1808)
+- [[Globia sparganii]] (Esper, 1790)
+- [[Protarchanara brevilinea]] (Fenn, 1864)
+- [[Scopula corrivalaria]] (Kretschmar, 1862)
+- [[Lenisa geminipuncta]] (Haworth, 1809)
+- [[Chariaspilates formosaria]] (Eversmann, 1837)
+- [[Selenia dentaria]] (Fabricius, 1775)
+- [[Epione vespertaria]] (Linnaeus, 1767)
+- [[Gynaephora selenitica]] (Esper, 1789)
+- [[Lithosia quadra]] (Linnaeus, 1758)
+- [[Thumatha senex]] (Hübner, 1808)
+- [[Schrankia costaestrigalis]] (Stephens, 1834)
+- [[Hypenodes humidalis]] Doubleday, 1850
+- [[Plusia putnami]] (Grote, 1873)
+- [[Diachrysia chryson]] (Esper, 1789)
+- [[Diarsia dahlii]] (Hübner, 1813)
+- [[Herminia tarsicrinalis]] (Knoch, 1782)
+- [[Herminia tenuialis]] (Rebel, 1899)
+- [[Sedina buettneri]] (E. Hering, 1858)
+- [[Mythimna pudorina]] (Denis & Schiffermüller, 1775)
+- [[Mythimna straminea]] (Treitschke, 1825)
+- [[Xanthia togata]] (Esper, 1788)
+- [[Deltote bankiana]] (Fabricius, 1775)
+- [[Deltote uncula]] (Clerck, 1759)
+- [[Paradiarsia punicea]] (Hübner, 1803)
+

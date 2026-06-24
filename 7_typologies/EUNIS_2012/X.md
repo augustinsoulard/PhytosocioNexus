@@ -1,0 +1,284 @@
+# Habitat EUNIS X : Complexes d'habitats
+
+#### 🔍 Informations descriptives
+La liste des complexes d’habitats est une version préliminaire. Ces complexes n’ont pas été soumis à un examen assez rigoureux pour assurer une cohérence. Certains complexes d’habitats ont été listés précédement (par exemple, les tourbières de vallée de l’unité D2.1).
+
+#### Niveaux inférieurs 🔽
+- [[X01]] Estuaires
+- [[X02]] Lagunes littorales salées
+- [[X03]] Lagunes littorales saumâtres
+- [[X04]] Complexes de tourbières hautes
+- [[X05]] Combes à neige
+- [[X06]] Cultures ombragées par des arbres
+- [[X07]] Cultures intensives parsemées de bandes de végétation naturelle et/ou semi-naturelle
+- [[X09]] Pâturages boisés (avec une strate arborée recouvrant le pâturage)
+- [[X10]] Bocages
+- [[X11]] Grands parcs
+- [[X13]] Terrains faiblement boisés avec des arbres feuillus caducifoliés
+- [[X14]] Terrains faiblement boisés avec des arbres feuillus sempervirents
+- [[X15]] Terrains faiblement boisés avec des conifères
+- [[X16]] Terrains faiblement boisés avec des arbres feuillus et des conifères
+- [[X20]] Écotones de la limite de développement des arbres
+- [[X22]] Petits jardins non domestiques des centres-villes
+- [[X23]] Grands jardins non domestiques
+- [[X24]] Jardins domestiques des villes et des centres-villes
+- [[X25]] Jardins domestiques des villages et des périphéries urbaines
+- [[X28]] Complexes de tourbières de couverture
+- [[X30]] Habitats bentho-pélagiques
+- [[X31]] Mosaïques de substrats mobiles et non-mobile de la zone intertidale
+- [[X32]] Mosaïques de substrats mobiles et non-mobile de l'infralittoral
+- [[X33]] Mosaïques de substrats mobiles et non-mobiles du circalittoral
+- [[X34]] Grottes anchialines
+
+#### 🔄 Correspondances Typologiques
+- [[85]] Parcs urbains et grands jardins
+- [[84]] Alignements d'arbres, haies, petits bois, bocage, parcs
+- [[8]] Terres agricoles et paysages artificiels
+
+#### Correspondance avec PVF2
+*Aucune correspondance trouvée avec le PVF2.*
+
+#### 🌿 Espèces indicatrices et Taxons associés
+- [[Aporia crataegi]] (Linnaeus, 1758)
+- [[Pelophylax kl]]. esculentus (Linnaeus, 1758)
+- [[Podarcis muralis]] (Laurenti, 1768)
+- [[Petromyzon marinus]] Linnaeus, 1758
+- [[Vipera aspis]] (Linnaeus, 1758)
+- [[Myotis mystacinus]] (Kuhl, 1817)
+- [[Aphanius fasciatus]] (Valenciennes, 1821)
+- [[Coenagrion hastulatum]] (Charpentier, 1825)
+- [[Aeshna juncea]] (Linnaeus, 1758)
+- [[Bufo viridis]] (Laurenti, 1768)
+- [[Phocoena phocoena]] (Linnaeus, 1758)
+- [[Bufo bufo]] (Linnaeus, 1758)
+- [[Acipenser sturio]] Linnaeus, 1758
+- [[Phoca vitulina]] Linnaeus, 1758
+- [[Osmoderma eremita]] (Scopoli, 1763)
+- [[Myotis nattereri]] (Kuhl, 1817)
+- [[Myotis alcathoe]] Helversen & Heller, 2001
+- [[Myotis brandtii]] (Eversmann, 1845)
+- [[Pipistrellus pipistrellus]] (Schreber, 1774)
+- [[Quercusia quercus]] (Linnaeus, 1758)
+- [[Plecotus austriacus]] (J.B. Fischer, 1829)
+- [[Elona quimperiana]] (Blainville, 1821)
+- [[Sympetrum fonscolombii]] (Selys, 1840)
+- [[Somatochlora metallica]] (Vander Linden, 1825)
+- [[Papilio machaon]] Linnaeus, 1758
+- [[Pelophylax perezi]] (Seoane, 1885)
+- [[Leucorrhinia dubia]] (Vander Linden, 1825)
+- [[Pieris rapae]] (Linnaeus, 1758)
+- [[Coronella girondica]] (Daudin, 1803)
+- [[Alosa fallax]] (Lacepède, 1803)
+- [[Nyctalus leisleri]] (Kuhl, 1817)
+- [[Pipistrellus kuhlii]] (Kuhl, 1817)
+- [[Crocothemis erythraea]] (Brullé, 1832)
+- [[Lampides boeticus]] (Linnaeus, 1767)
+- [[Alosa alosa]] (Linnaeus, 1758)
+- [[Lampetra fluviatilis]] (Linnaeus, 1758)
+- [[Tursiops truncatus]] (Montagu, 1821)
+- [[Anguis fragilis]] Linnaeus, 1758
+- [[Vipera berus]] (Linnaeus, 1758)
+- [[Vipera seoanei]] (Lataste, 1879)
+- [[Plecotus auritus]] (Linnaeus, 1758)
+- [[Ischnura elegans]] (Vander Linden, 1820)
+- [[Sympetrum meridionale]] (Selys, 1841)
+- [[Sympetrum danae]] (Sulzer, 1776)
+- [[Vanessa atalanta]] (Linnaeus, 1758)
+- [[Aeshna subarctica]] Walker, 1908
+- [[Cerambyx cerdo]] Linnaeus, 1758
+- [[Hyla meridionalis]] Boettger, 1874
+- [[Salamandra salamandra]] (Linnaeus, 1758)
+- [[Eptesicus serotinus]] (Schreber, 1774)
+- [[Pipistrellus pygmaeus]] (Leach, 1825)
+- [[Lestes macrostigma]] (Eversmann, 1836)
+- [[Aeshna caerulea]] (Ström, 1783)
+- [[Somatochlora alpestris]] (Selys, 1840)
+- [[Somatochlora arctica]] (Zetterstedt, 1840)
+- [[Pieris brassicae]] (Linnaeus, 1758)
+- [[Pieris napi]] (Linnaeus, 1758)
+- [[Lucanus cervus]] (Linnaeus, 1758)
+- [[Hierophis viridiflavus]] (Lacepède, 1789)
+- [[Testudo hermanni]] Gmelin, 1789
+- [[Myotis escalerai]] Cabrera, 1904
+- [[Pipistrellus nathusii]] (Keyserling & Blasius, 1839)
+- [[Anas platyrhynchos]] Linnaeus, 1758
+- [[Anas querquedula]] Linnaeus, 1758
+- [[Botaurus stellaris]] (Linnaeus, 1758)
+- [[Ixobrychus minutus]] (Linnaeus, 1766)
+- [[Bubulcus ibis]] (Linnaeus, 1758)
+- [[Egretta garzetta]] (Linnaeus, 1766)
+- [[Ardea cinerea]] Linnaeus, 1758
+- [[Ardea purpurea]] Linnaeus, 1766
+- [[Ciconia ciconia]] (Linnaeus, 1758)
+- [[Platalea leucorodia]] Linnaeus, 1758
+- [[Tringa totanus]] (Linnaeus, 1758)
+- [[Buteo buteo]] (Linnaeus, 1758)
+- [[Hieraaetus pennatus]] (Gmelin, 1788)
+- [[Pandion haliaetus]] (Linnaeus, 1758)
+- [[Falco tinnunculus]] Linnaeus, 1758
+- [[Falco subbuteo]] Linnaeus, 1758
+- [[Tadorna tadorna]] (Linnaeus, 1758)
+- [[Pernis apivorus]] (Linnaeus, 1758)
+- [[Elanus caeruleus]] (Desfontaines, 1789)
+- [[Milvus migrans]] (Boddaert, 1783)
+- [[Milvus milvus]] (Linnaeus, 1758)
+- [[Circus aeruginosus]] (Linnaeus, 1758)
+- [[Accipiter nisus]] (Linnaeus, 1758)
+- [[Tetrao urogallus]] Linnaeus, 1758
+- [[Alectoris rufa]] (Linnaeus, 1758)
+- [[Gallinula chloropus]] (Linnaeus, 1758)
+- [[Porphyrio porphyrio]] (Linnaeus, 1758)
+- [[Fulica atra]] Linnaeus, 1758
+- [[Haematopus ostralegus]] Linnaeus, 1758
+- [[Himantopus himantopus]] (Linnaeus, 1758)
+- [[Recurvirostra avosetta]] Linnaeus, 1758
+- [[Burhinus oedicnemus]] (Linnaeus, 1758)
+- [[Glareola pratincola]] (Linnaeus, 1766)
+- [[Charadrius dubius]] Scopoli, 1786
+- [[Larus melanocephalus]] Temminck, 1820
+- [[Larus genei]] Brême, 1839
+- [[Larus canus]] Linnaeus, 1758
+- [[Gelochelidon nilotica]] (Gmelin, 1789)
+- [[Sterna sandvicensis]] Latham, 1787
+- [[Sterna hirundo]] Linnaeus, 1758
+- [[Sternula albifrons]] (Pallas, 1764)
+- [[Columba oenas]] Linnaeus, 1758
+- [[Columba palumbus]] Linnaeus, 1758
+- [[Streptopelia decaocto]] (Frivaldszky, 1838)
+- [[Cuculus canorus]] canorus Linnaeus, 1758
+- [[Otus scops]] (Linnaeus, 1758)
+- [[Strix aluco]] Linnaeus, 1758
+- [[Asio otus]] (Linnaeus, 1758)
+- [[Aegolius funereus]] (Linnaeus, 1758)
+- [[Upupa epops]] Linnaeus, 1758
+- [[Jynx torquilla]] Linnaeus, 1758
+- [[Picus canus]] Gmelin, 1788
+- [[Picus viridis]] Linnaeus, 1758
+- [[Dendrocopos major]] (Linnaeus, 1758)
+- [[Dendrocopos minor]] (Linnaeus, 1758)
+- [[Anthus trivialis]] (Linnaeus, 1758)
+- [[Motacilla flava]] Linnaeus, 1758
+- [[Parus caeruleus]] Linnaeus, 1758
+- [[Parus major]] Linnaeus, 1758
+- [[Sitta europaea]] Linnaeus, 1758
+- [[Certhia brachydactyla]] C.L. Brehm, 1820
+- [[Lanius collurio]] Linnaeus, 1758
+- [[Lanius excubitor]] Linnaeus, 1758
+- [[Motacilla alba]] Linnaeus, 1758
+- [[Troglodytes troglodytes]] (Linnaeus, 1758)
+- [[Prunella modularis]] (Linnaeus, 1758)
+- [[Erithacus rubecula]] (Linnaeus, 1758)
+- [[Luscinia megarhynchos]] C. L. Brehm, 1831
+- [[Luscinia svecica]] (Linnaeus, 1758)
+- [[Phoenicurus phoenicurus]] (Linnaeus, 1758)
+- [[Turdus merula]] Linnaeus, 1758
+- [[Turdus pilaris]] Linnaeus, 1758
+- [[Turdus philomelos]] C. L. Brehm, 1831
+- [[Turdus viscivorus]] Linnaeus, 1758
+- [[Acrocephalus melanopogon]] (Temminck, 1823)
+- [[Acrocephalus arundinaceus]] (Linnaeus, 1758)
+- [[Sylvia conspicillata]] Temminck, 1820
+- [[Sylvia atricapilla]] (Linnaeus, 1758)
+- [[Phylloscopus collybita]] (Vieillot, 1887)
+- [[Regulus regulus]] (Linnaeus, 1758)
+- [[Muscicapa striata]] (Pallas, 1764)
+- [[Panurus biarmicus]] (Linnaeus, 1758)
+- [[Aegithalos caudatus]] (Linnaeus, 1758)
+- [[Parus cristatus]] Linnaeus, 1758
+- [[Lanius senator]] Linnaeus, 1758
+- [[Garrulus glandarius]] (Linnaeus, 1758)
+- [[Pica pica]] (Linnaeus, 1758)
+- [[Corvus frugilegus]] Linnaeus, 1758
+- [[Corvus corone]] Linnaeus, 1758
+- [[Sturnus vulgaris]] Linnaeus, 1758
+- [[Passer montanus]] (Linnaeus, 1758)
+- [[Fringilla coelebs]] Linnaeus, 1758
+- [[Serinus serinus]] (Linnaeus, 1766)
+- [[Carduelis chloris]] (Linnaeus, 1758)
+- [[Carduelis carduelis]] (Linnaeus, 1758)
+- [[Carduelis cannabina]] (Linnaeus, 1758)
+- [[Pyrrhula pyrrhula]] (Linnaeus, 1758)
+- [[Coccothraustes coccothraustes]] (Linnaeus, 1758)
+- [[Emberiza citrinella]] Linnaeus, 1758
+- [[Emberiza cirlus]] Linnaeus, 1758
+- [[Phalera bucephala]] (Linnaeus, 1758)
+- [[Ptilophora plumigera]] (Denis & Schiffermüller, 1775)
+- [[Pterostoma palpina]] (Clerck, 1759)
+- [[Clostera curtula]] (Linnaeus, 1758)
+- [[Saturnia pyri]] (Denis & Schiffermüller, 1775)
+- [[Gastropacha quercifolia]] (Linnaeus, 1758)
+- [[Malacosoma neustria]] (Linnaeus, 1758)
+- [[Poecilocampa populi]] (Linnaeus, 1758)
+- [[Eriogaster lanestris]] (Linnaeus, 1758)
+- [[Odonestis pruni]] (Linnaeus, 1758)
+- [[Daphnis nerii]] (Linnaeus, 1758)
+- [[Phoenicopterus roseus]] Pallas, 1811
+- [[Larus michahellis]] Naumann, 1840
+- [[Paysandisia archon]] (Burmeister, 1880)
+- [[Phragmataecia castaneae]] (Hübner, 1790)
+- [[Zeuzera pyrina]] (Linnaeus, 1761)
+- [[Cossus cossus]] (Linnaeus, 1758)
+- [[Euthrix potatoria]] (Linnaeus, 1758)
+- [[Cilix glaucata]] (Scopoli, 1763)
+- [[Habrosyne pyritoides]] (Hufnagel, 1766)
+- [[Idaea rusticata]] (Denis & Schiffermüller, 1775)
+- [[Casilda consecraria]] (Staudinger, 1871)
+- [[Rhodostrophia vibicaria]] (Clerck, 1759)
+- [[Eupithecia phoeniceata]] (Rambur, 1834)
+- [[Eupithecia selinata]] Herrich-Schäffer, 1861
+- [[Eupithecia egenaria]] Herrich-Schäffer, 1848
+- [[Eupithecia nanata]] (Hübner, 1813)
+- [[Eupithecia insigniata]] (Hübner, 1790)
+- [[Eupithecia intricata]] (Zetterstedt, 1839)
+- [[Eupithecia assimilata]] Doubleday, 1856
+- [[Eupithecia icterata]] (Villers, 1789)
+- [[Eupithecia subumbrata]] (Denis & Schiffermüller, 1775)
+- [[Horisme tersata]] (Denis & Schiffermüller, 1775)
+- [[Operophtera fagata]] (Scharfenberg, 1805)
+- [[Operophtera brumata]] (Linnaeus, 1758)
+- [[Epirrita autumnata]] (Borkhausen, 1794)
+- [[Pareulype berberata]] (Denis & Schiffermüller, 1775)
+- [[Xanthorhoe fluctuata]] (Linnaeus, 1758)
+- [[Hemithea aestivaria]] (Hübner, 1789)
+- [[Ligdia adustata]] (Denis & Schiffermüller, 1775)
+- [[Erannis defoliaria]] (Clerck, 1759)
+- [[Phigalia pilosaria]] (Denis & Schiffermüller, 1775)
+- [[Menophra abruptaria]] (Thunberg, 1792)
+- [[Selenia dentaria]] (Fabricius, 1775)
+- [[Ennomos quercinaria]] (Hufnagel, 1767)
+- [[Ennomos fuscantaria]] (Haworth, 1809)
+- [[Ennomos quercaria]] (Hübner, 1813)
+- [[Apeira syringaria]] (Linnaeus, 1758)
+- [[Opisthograptis luteolata]] (Linnaeus, 1758)
+- [[Chiasmia aestimaria]] (Hübner, 1809)
+- [[Alsophila aescularia]] (Denis & Schiffermüller, 1775)
+- [[Leucoma salicis]] (Linnaeus, 1758)
+- [[Orgyia antiqua]] (Linnaeus, 1758)
+- [[Callimorpha dominula]] (Linnaeus, 1758)
+- [[Pelosia obtusa]] (Herrich-Schäffer, 1852)
+- [[Tyta luctuosa]] (Denis & Schiffermüller, 1775)
+- [[Chrysodeixis acuta]] (Walker, 1858)
+- [[Abrostola tripartita]] (Hufnagel, 1766)
+- [[Abrostola agnorista]] Dufay, 1956
+- [[Noctua interjecta]] Hübner, 1803
+- [[Hypena proboscidalis]] (Linnaeus, 1758)
+- [[Periphanes delphinii]] (Linnaeus, 1758)
+- [[Ipimorpha subtusa]] (Denis & Schiffermüller, 1775)
+- [[Cosmia trapezina]] (Linnaeus, 1758)
+- [[Mythimna congrua]] (Hübner, 1817)
+- [[Orthosia miniosa]] (Denis & Schiffermüller, 1775)
+- [[Conistra vaccinii]] (Linnaeus, 1761)
+- [[Agrochola macilenta]] (Hübner, 1809)
+- [[Cucullia argentea]] (Hufnagel, 1766)
+- [[Catocala nupta]] (Linnaeus, 1767)
+- [[Catocala elocata]] (Esper, 1787)
+- [[Clytie illunaris]] (Hübner, 1813)
+- [[Amphipyra pyramidea]] (Linnaeus, 1758)
+- [[Amphipyra livida]] (Denis & Schiffermüller, 1775)
+- [[Acronicta strigosa]] (Denis & Schiffermüller, 1775)
+- [[Nola cucullatella]] (Linnaeus, 1758)
+- [[Saxicola torquatus]] auct.
+- [[Regulus ignicapilla]] (Temminck, 1820)
+- [[Caradrina clavipalpis]] (Scopoli, 1763)
+- [[Phigaliohybernia aurantiaria]] (Hübner, 1799)
+

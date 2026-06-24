@@ -104,6 +104,10 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 - [[Polygono arenastri-Poetea annuae]]
 - [[Sisymbrietea officinalis]]
 - [[Stellarietea mediae]]
+# **Autres typologies**
+
+- **[[EUNIS 2012]]**
+
 # **Méthodologie**
 
 ### 🔬 [[Analyses et rattachement]]

@@ -1,0 +1,179 @@
+# Habitat EUNIS B : Habitats côtiers
+
+#### 🔍 Informations descriptives
+Les habitats côtiers sont ceux au‐dessus de la limite des marées de vives eaux d’équinoxe (ou ceux au‐dessus du niveau moyen des eaux s’il y a absence de marée) occupant les différentes parties de la côte et caractérisés par leur proximité avec la mer, y compris les dunes côtières, boisées ou non, les plages et les falaises. Ils englobent également les habitats supralittoraux où l’écoulement de l’eau se fait librement, adjacents des habitats marins, qui sont normalement atteints uniquement par les embruns, les laisses de mer caractérisées par des invertébrés terrestres, les dépressions intradunaires humides et leurs retenues d’eau. Sont exclus les cuvettes rocheuses supralittorales et les habitats adjacents aux habitats marins qui ne sont pas caractérisés par une humectation salée ou par une érosion due à l’action des vagues ou de la glace.
+
+#### Niveaux inférieurs 🔽
+- [[B1]] Dunes côtières et rivages sableux
+- [[B2]] Galets côtiers
+- [[B3]] Falaises, corniches et rivages rocheux, incluant le supralittoral
+
+#### 🔄 Correspondances Typologiques
+- [[1]] Habitats littoraux et halophiles
+- [[2]] Milieux aquatiques non marins
+
+#### Correspondance avec PVF2
+*Aucune correspondance trouvée avec le PVF2.*
+
+#### 🌿 Espèces indicatrices et Taxons associés
+- [[Algyroides fitzingeri]] (Wiegmann, 1834)
+- [[Ischnura genei]] (Rambur, 1842)
+- [[Halichoerus grypus]] (Fabricius, 1791)
+- [[Pelobates cultripes]] (Cuvier, 1829)
+- [[Sympecma fusca]] (Vander Linden, 1820)
+- [[Vertigo angustior]] Jeffreys, 1830
+- [[Lestes sponsa]] (Hansemann, 1823)
+- [[Podarcis tiliguerta]] (Gmelin, 1789)
+- [[Lestes virens]] (Charpentier, 1825)
+- [[Argynnis pandora]] (Denis & Schiffermüller, 1775)
+- [[Aeshna affinis]] Vander Linden, 1820
+- [[Bufo viridis]] (Laurenti, 1768)
+- [[Rhinechis scalaris]] (Schinz, 1822)
+- [[Spialia sertorius]] (Hoffmannsegg, 1804)
+- [[Sympetrum fonscolombii]] (Selys, 1840)
+- [[Brachytron pratense]] (O. F. Müller, 1764)
+- [[Sympetrum meridionale]] (Selys, 1841)
+- [[Euleptes europaea]] (Gené, 1839)
+- [[Lacerta bilineata]] Daudin, 1802
+- [[Psammodromus edwarsianus]] (Dugès, 1829)
+- [[Crocothemis erythraea]] (Brullé, 1832)
+- [[Ischnura pumilio]] (Charpentier, 1825)
+- [[Phoca vitulina]] Linnaeus, 1758
+- [[Coronella girondica]] (Daudin, 1803)
+- [[Podarcis muralis]] (Laurenti, 1768)
+- [[Aeshna isoceles]] (O. F. Müller, 1767)
+- [[Psammodromus algirus]] (Linnaeus, 1758)
+- [[Coenagrion scitulum]] (Rambur, 1842)
+- [[Chalcides striatus]] (Cuvier, 1829)
+- [[Nyctalus leisleri]] (Kuhl, 1817)
+- [[Timon lepidus]] (Daudin, 1802)
+- [[Lestes barbarus]] (Fabricius, 1798)
+- [[Malpolon monspessulanus]] (Hermann, 1804)
+- [[Bufo calamita]] (Laurenti, 1768)
+- [[Fulmarus glacialis]] (Linnaeus, 1761)
+- [[Calonectris diomedea]] (Scopoli, 1769)
+- [[Apamea oblonga]] (Haworth, 1809)
+- [[Spodoptera cilium]] Guenée, 1852
+- [[Sideridis turbida]] (Esper, 1790)
+- [[Lacanobia blenna]] (Hübner, 1824)
+- [[Cardepia sociabilis]] (de Graslin, 1850)
+- [[Mythimna straminea]] (Treitschke, 1825)
+- [[Mythimna sicula]] (Treitschke, 1835)
+- [[Mythimna litoralis]] (Curtis, 1827)
+- [[Mythimna congrua]] (Hübner, 1817)
+- [[Anapoma riparia]] (Boisduval, 1829)
+- [[Leucania obsoleta]] (Hübner, 1803)
+- [[Leucania zeae]] (Duponchel, 1827)
+- [[Leucania punctosa]] (Treitschke, 1825)
+- [[Leucania joannisi]] Boursin & Rungs, 1952
+- [[Leucania loreyi]] (Duponchel, 1827)
+- [[Aporophyla australis]] (Boisduval, 1829)
+- [[Eublemma pura]] (Hübner, 1813)
+- [[Cucullia argentea]] (Hufnagel, 1766)
+- [[Cucullia calendulae]] Treitschke, 1835
+- [[Cucullia chamomillae]] (Denis & Schiffermüller, 1775)
+- [[Cucullia asteris]] (Denis & Schiffermüller, 1775)
+- [[Xanthodes albago]] (Fabricius, 1794)
+- [[Amphipyra tragopoginis]] (Clerck, 1759)
+- [[Simyra nervosa]] (Denis & Schiffermüller, 1775)
+- [[Pardoxia graellsi]] (Feisthamel, 1837)
+- [[Mythimna languida]] (Walker, 1858)
+- [[Delichon urbicum]] (Linnaeus, 1758)
+- [[Litoligia literosa]] (Haworth, 1809)
+- [[Cucullia scrophulariphaga]] Rambur, 1833
+- [[Lacanobia aliena]] (Hübner, 1809)
+- [[Caradrina proxima]] Rambur, 1837
+- [[Anarta stigmosa]] (Christoph, 1887)
+- [[Globia sparganii]] (Esper, 1790)
+- [[Eublemma candidana]] (Fabricius, 1794)
+- [[Caradrina selini]] Boisduval, 1840
+- [[Caradrina kadenii]] Freyer, 1836
+- [[Anarta sodae]] (Rambur, 1829)
+- [[Puffinus puffinus]] (Brünnich, 1764)
+- [[Puffinus yelkouan]] (Acerbi, 1827)
+- [[Somateria mollissima]] (Linnaeus, 1758)
+- [[Hydrobates pelagicus]] (Linnaeus, 1758)
+- [[Morus bassanus]] (Linnaeus, 1758)
+- [[Phalacrocorax carbo]] (Linnaeus, 1758)
+- [[Phalacrocorax aristotelis]] (Linnaeus, 1761)
+- [[Pandion haliaetus]] (Linnaeus, 1758)
+- [[Mergus serrator]] Linnaeus, 1758
+- [[Falco peregrinus]] Tunstall, 1771
+- [[Haematopus ostralegus]] Linnaeus, 1758
+- [[Burhinus oedicnemus]] (Linnaeus, 1758)
+- [[Charadrius hiaticula]] Linnaeus, 1758
+- [[Charadrius alexandrinus]] Linnaeus, 1758
+- [[Arenaria interpres]] (Linnaeus, 1758)
+- [[Larus audouinii]] Payraudeau, 1826
+- [[Larus canus]] Linnaeus, 1758
+- [[Larus fuscus]] Linnaeus, 1758
+- [[Larus argentatus]] Pontoppidan, 1763
+- [[Larus marinus]] Linnaeus, 1758
+- [[Rissa tridactyla]] (Linnaeus, 1758)
+- [[Sterna sandvicensis]] Latham, 1787
+- [[Sterna paradisaea]] Pontoppidan, 1763
+- [[Sternula albifrons]] (Pallas, 1764)
+- [[Sterna dougallii]] Montagu, 1813
+- [[Uria aalge]] (Pontoppidan, 1763)
+- [[Alca torda]] Linnaeus, 1758
+- [[Fratercula arctica]] (Linnaeus, 1758)
+- [[Columba livia]] Gmelin, 1789
+- [[Columba oenas]] Linnaeus, 1758
+- [[Bubo bubo]] (Linnaeus, 1758)
+- [[Caprimulgus europaeus]] Linnaeus, 1758
+- [[Calandrella brachydactyla]] (Leisler, 1814)
+- [[Galerida cristata]] (Linnaeus, 1758)
+- [[Riparia riparia]] (Linnaeus, 1758)
+- [[Anthus campestris]] (Linnaeus, 1758)
+- [[Anthus petrosus]] (Montagu, 1798)
+- [[Oenanthe oenanthe]] (Linnaeus, 1758)
+- [[Monticola solitarius]] (Linnaeus, 1758)
+- [[Acrocephalus palustris]] (Bechstein, 1798)
+- [[Pyrrhocorax pyrrhocorax]] (Linnaeus, 1758)
+- [[Corvus monedula]] Linnaeus, 1758
+- [[Corvus corax]] Linnaeus, 1758
+- [[Carduelis cannabina]] (Linnaeus, 1758)
+- [[Emberiza calandra]] Linnaeus, 1758
+- [[Larus michahellis]] Naumann, 1840
+- [[Phragmataecia castaneae]] (Hübner, 1790)
+- [[Euthrix potatoria]] (Linnaeus, 1758)
+- [[Hyles dahlii]] (Geyer, 1828)
+- [[Idaea mancipiata]] (Staudinger, 1871)
+- [[Casilda consecraria]] (Staudinger, 1871)
+- [[Rhodometra sacraria]] (Linnaeus, 1767)
+- [[Scopula emutaria]] (Hübner, 1809)
+- [[Scopula minorata]] (Boisduval, 1833)
+- [[Phibalapteryx virgata]] (Hufnagel, 1767)
+- [[Colostygia multistrigaria]] (Haworth, 1809)
+- [[Thera juniperata]] (Linnaeus, 1758)
+- [[Eupithecia ultimaria]] Boisduval, 1840
+- [[Eupithecia venosata]] (Fabricius, 1787)
+- [[Eupithecia scopariata]] (Rambur, 1833)
+- [[Eupithecia variostrigata]] Alphéraky, 1876
+- [[Dyscia fagaria]] (Thunberg & Borgström, 1784)
+- [[Aspitates ochrearia]] (Rossi, 1794)
+- [[Pachycnemia hippocastanaria]] (Hübner, 1799)
+- [[Chiasmia aestimaria]] (Hübner, 1809)
+- [[Epicallia villica]] (Linnaeus, 1758)
+- [[Lithosia quadra]] (Linnaeus, 1758)
+- [[Apaidia rufeola]] (Rambur, 1832)
+- [[Thysanoplusia daubei]] (Boisduval, 1840)
+- [[Ctenoplusia accentifera]] (Lefèbvre, 1827)
+- [[Chrysodeixis chalcites]] (Esper, 1789)
+- [[Euxoa eruta]] (Hübner, 1817)
+- [[Euxoa obelisca]] (Denis & Schiffermüller, 1775)
+- [[Euxoa cursoria]] (Hufnagel, 1766)
+- [[Agrotis ripae]] Hübner, 1823
+- [[Agrotis spinifera]] (Hübner, 1808)
+- [[Agrotis vestigialis]] (Hufnagel, 1766)
+- [[Agrotis graslini]] Rambur, 1848
+- [[Actebia praecox]] (Linnaeus, 1758)
+- [[Eugnorisma glareosa]] (Esper, 1788)
+- [[Ochropleura leucogaster]] (Freyer, 1831)
+- [[Brithys crini]] (Fabricius, 1775)
+- [[Protoschinia scutosa]] (Denis & Schiffermüller, 1775)
+- [[Heliothis maritima]] Graslin, 1855
+- [[Rhizedra lutosa]] (Hübner, 1803)
+- [[Nonagria typhae]] (Thunberg, 1784)
+- [[Archanara dissoluta]] (Treitschke, 1825)
+

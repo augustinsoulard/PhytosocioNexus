@@ -1,0 +1,251 @@
+# Habitat EUNIS J : Zones bâties, sites industriels et autres habitats artificiels
+
+#### 🔍 Informations descriptives
+Zones principalement utilisées pour l’occupation humaine, bâtiments, sites industriels, réseaux de transport, décharges publiques. Elles comprennent des plans d’eau artificiels, d’eau salée et non salée, avec des fonds entièrement construits ou des eaux fortement polluées (telles que les lagunes industrielles et les salines) qui sont pratiquement dépourvus de vie animale et végétale. Les mines souterraines désaffectées (H1.7) sont exclues de cette unité.
+
+#### Niveaux inférieurs 🔽
+- [[J1]] Bâtiments des villes et des villages
+- [[J2]] Constructions à faible densité
+- [[J3]] Sites industriels d'extraction
+- [[J4]] Réseaux de transport et autres zones de construction à surface dure
+- [[J5]] Plans d'eau construits très artificiels et structures connexes
+- [[J6]] Dépôts de déchets
+
+#### 🔄 Correspondances Typologiques
+- [[8]] Terres agricoles et paysages artificiels
+
+#### Correspondance avec PVF2
+*Aucune correspondance trouvée avec le PVF2.*
+
+#### 🌿 Espèces indicatrices et Taxons associés
+- [[Myotis dasycneme]] (Boie, 1825)
+- [[Tarentola mauritanica]] (Linnaeus, 1758)
+- [[Eptesicus serotinus]] (Schreber, 1774)
+- [[Elona quimperiana]] (Blainville, 1821)
+- [[Mustela putorius]] Linnaeus, 1758
+- [[Psammodromus algirus]] (Linnaeus, 1758)
+- [[Vipera aspis]] (Linnaeus, 1758)
+- [[Vipera seoanei]] (Lataste, 1879)
+- [[Algyroides fitzingeri]] (Wiegmann, 1834)
+- [[Discoglossus sardus]] Tschudi in Otth, 1837
+- [[Hyla meridionalis]] Boettger, 1874
+- [[Anax parthenope]] (Selys, 1839)
+- [[Enallagma cyathigerum]] (Charpentier, 1840)
+- [[Gomphus pulchellus]] Selys, 1840
+- [[Orthetrum albistylum]] (Selys, 1848)
+- [[Libellula depressa]] Linnaeus, 1758
+- [[Pyrrhosoma nymphula]] (Sulzer, 1776)
+- [[Sympetrum sanguineum]] (O. F. Müller, 1764)
+- [[Myotis daubentonii]] (Kuhl, 1817)
+- [[Nyctalus leisleri]] (Kuhl, 1817)
+- [[Myotis brandtii]] (Eversmann, 1845)
+- [[Eptesicus nilssonii]] (Keyserling & Blasius, 1839)
+- [[Erythromma lindenii]] (Selys, 1840)
+- [[Rhinolophus ferrumequinum]] (Schreber, 1774)
+- [[Myotis bechsteini]] (Kuhl, 1817)
+- [[Pelophylax perezi]] (Seoane, 1885)
+- [[Hemidactylus turcicus]] (Linnaeus, 1758)
+- [[Zamenis longissimus]] (Laurenti, 1768)
+- [[Pipistrellus pygmaeus]] (Leach, 1825)
+- [[Plecotus auritus]] (Linnaeus, 1758)
+- [[Podarcis tiliguerta]] (Gmelin, 1789)
+- [[Crocothemis erythraea]] (Brullé, 1832)
+- [[Libellula quadrimaculata]] Linnaeus, 1758
+- [[Orthetrum cancellatum]] (Linnaeus, 1758)
+- [[Pelophylax kl]]. esculentus (Linnaeus, 1758)
+- [[Aeshna cyanea]] (O. F. Müller, 1764)
+- [[Podarcis muralis]] (Laurenti, 1768)
+- [[Myotis mystacinus]] (Kuhl, 1817)
+- [[Myotis nattereri]] (Kuhl, 1817)
+- [[Pipistrellus kuhlii]] (Kuhl, 1817)
+- [[Lacerta bilineata]] Daudin, 1802
+- [[Iberolacerta aranica]] (Arribas, 1993)
+- [[Iberolacerta aurelioi]] (Arribas, 1994)
+- [[Myotis myotis]] (Borkhausen, 1797)
+- [[Sympetrum striolatum]] (Charpentier, 1840)
+- [[Podarcis liolepis]] (Boulenger, 1905)
+- [[Coenagrion puella]] (Linnaeus, 1758)
+- [[Pipistrellus pipistrellus]] (Schreber, 1774)
+- [[Rhinolophus hipposideros]] (Bechstein, 1800)
+- [[Sympetrum depressiusculum]] (Selys, 1841)
+- [[Trithemis annulata]] (Palisot de Beauvois, 1807)
+- [[Orthetrum brunneum]] (Fonscolombe, 1837)
+- [[Coronella girondica]] (Daudin, 1803)
+- [[Coronella austriaca]] Laurenti, 1768
+- [[Hierophis viridiflavus]] (Lacepède, 1789)
+- [[Ischnura elegans]] (Vander Linden, 1820)
+- [[Ischnura genei]] (Rambur, 1842)
+- [[Hemianax ephippiger]] (Burmeister, 1839)
+- [[Barbastella barbastellus]] (Schreber, 1774)
+- [[Salamandra salamandra]] (Linnaeus, 1758)
+- [[Bufo viridis]] (Laurenti, 1768)
+- [[Tadarida teniotis]] (Rafinesque, 1814)
+- [[Nyctalus noctula]] (Schreber, 1774)
+- [[Hypsugo savii]] (Bonaparte, 1837)
+- [[Vespertilio murinus]] Linnaeus, 1758
+- [[Myotis punicus]] Felten, Spitzenberger & Storch, 1977
+- [[Plecotus macrobullaris]] Kuzjakin, 1965
+- [[Archaeolacerta bedriagae]] (Camerano, 1885)
+- [[Iberolacerta bonnali]] (Lantz, 1927)
+- [[Cordulia aenea]] (Linnaeus, 1758)
+- [[Rhinolophus euryale]] Blasius, 1853
+- [[Platycnemis pennipes]] (Pallas, 1771)
+- [[Myotis blythii]] (Tomes, 1857)
+- [[Myotis capaccinii]] (Bonaparte, 1837)
+- [[Myotis emarginatus]] (E. Geoffroy, 1806)
+- [[Sympetrum vulgatum]] (Linnaeus, 1758)
+- [[Chalcolestes viridis]] (Vander Linden, 1825)
+- [[Pipistrellus nathusii]] (Keyserling & Blasius, 1839)
+- [[Plecotus austriacus]] (J.B. Fischer, 1829)
+- [[Polygonia egea]] (Cramer, 1775)
+- [[Anax imperator]] [Leach, 1815]
+- [[Sympetrum fonscolombii]] (Selys, 1840)
+- [[Coenagrion scitulum]] (Rambur, 1842)
+- [[Epirrita dilutata]] (Denis & Schiffermüller, 1775)
+- [[Perizoma affinitata]] (Stephens, 1831)
+- [[Pareulype berberata]] (Denis & Schiffermüller, 1775)
+- [[Camptogramma bilineata]] (Linnaeus, 1758)
+- [[Epirrhoe tristata]] (Linnaeus, 1758)
+- [[Epirrhoe pupillata]] (Thunberg, 1788)
+- [[Epirrhoe alternata]] (O.F. Müller, 1764)
+- [[Catarhoe rubidata]] (Denis & Schiffermüller, 1775)
+- [[Xanthorhoe fluctuata]] (Linnaeus, 1758)
+- [[Abraxas grossulariata]] (Linnaeus, 1758)
+- [[Aspitates gilvaria]] (Denis & Schiffermüller, 1775)
+- [[Erannis defoliaria]] (Clerck, 1759)
+- [[Agriopis bajaria]] (Denis & Schiffermüller, 1775)
+- [[Phigalia pilosaria]] (Denis & Schiffermüller, 1775)
+- [[Hypomecis punctinalis]] (Scopoli, 1763)
+- [[Menophra japygiaria]] (O. Costa, 1849)
+- [[Colotois pennaria]] (Linnaeus, 1761)
+- [[Selenia dentaria]] (Fabricius, 1775)
+- [[Ennomos autumnaria]] (Werneburg, 1859)
+- [[Ennomos quercinaria]] (Hufnagel, 1767)
+- [[Ennomos quercaria]] (Hübner, 1813)
+- [[Pseudopanthera macularia]] (Linnaeus, 1758)
+- [[Epione vespertaria]] (Linnaeus, 1767)
+- [[Orgyia antiqua]] (Linnaeus, 1758)
+- [[Arctia caja]] (Linnaeus, 1758)
+- [[Epicallia villica]] (Linnaeus, 1758)
+- [[Eilema caniola]] (Hübner, 1808)
+- [[Lithosia quadra]] (Linnaeus, 1758)
+- [[Paidia rica]] (Freyer, 1858)
+- [[Parascotia fuliginaria]] (Linnaeus, 1761)
+- [[Abrostola tripartita]] (Hufnagel, 1766)
+- [[Abrostola agnorista]] Dufay, 1956
+- [[Agrotis puta]] (Hübner, 1803)
+- [[Hypena palpalis]] (Hübner, 1796)
+- [[Periphanes delphinii]] (Linnaeus, 1758)
+- [[Oligia latruncula]] (Denis & Schiffermüller, 1775)
+- [[Oligia fasciuncula]] (Haworth, 1809)
+- [[Luperina rubella]] (Duponchel, 1835)
+- [[Petronia petronia]] (Linnaeus, 1766)
+- [[Macroglossum stellatarum]] (Linnaeus, 1758)
+- [[Hyles vespertilio]] (Esper, 1780)
+- [[Hyles euphorbiae]] (Linnaeus, 1758)
+- [[Larus michahellis]] Naumann, 1840
+- [[Passer italiae]] (Vieillot, 1817)
+- [[Paysandisia archon]] (Burmeister, 1880)
+- [[Idaea fuscovenosa]] (Goeze, 1781)
+- [[Scopula umbelaria]] (Hübner, 1813)
+- [[Timandra comae]] Schmidt, 1931
+- [[Minoa murinata]] (Scopoli, 1763)
+- [[Electrophaes corylata]] (Thunberg & Sebaldt, 1792)
+- [[Plemyria rubiginata]] (Denis & Schiffermüller, 1775)
+- [[Cidaria fulvata]] (J. R. Forster, 1771)
+- [[Dysstroma truncata]] (Hufnagel, 1767)
+- [[Ecliptopera silaceata]] (Denis & Schiffermüller, 1775)
+- [[Eulithis mellinata]] (Fabricius, 1787)
+- [[Coenotephria salicata]] (Denis & Schiffermüller, 1775)
+- [[Cosmorhoe ocellata]] (Linnaeus, 1758)
+- [[Eupithecia haworthiata]] Doubleday, 1856
+- [[Eupithecia inturbata]] (Hübner, 1817)
+- [[Eupithecia linariata]] (Denis & Schiffermüller, 1775)
+- [[Eupithecia pulchellata]] Stephens, 1831
+- [[Eupithecia pygmaeata]] (Hübner, 1799)
+- [[Eupithecia abbreviata]] Stephens, 1831
+- [[Eupithecia simpliciata]] (Haworth, 1809)
+- [[Eupithecia nanata]] (Hübner, 1813)
+- [[Eupithecia indigata]] (Hübner, 1813)
+- [[Eupithecia valerianata]] (Hübner, 1813)
+- [[Eupithecia millefoliata]] Rössler, 1866
+- [[Eupithecia icterata]] (Villers, 1789)
+- [[Eupithecia subumbrata]] (Denis & Schiffermüller, 1775)
+- [[Eupithecia orphnata]] W. Petersen, 1909
+- [[Pelurga comitata]] (Linnaeus, 1758)
+- [[Mesoleuca albicillata]] (Linnaeus, 1758)
+- [[Earophila badiata]] (Denis & Schiffermüller, 1775)
+- [[Anticlea derivata]] (Denis & Schiffermüller, 1775)
+- [[Horisme vitalbata]] (Denis & Schiffermüller, 1775)
+- [[Operophtera brumata]] (Linnaeus, 1758)
+- [[Luperina dumerilii]] (Duponchel, 1826)
+- [[Apamea sordens]] (Hufnagel, 1766)
+- [[Sideridis rivularis]] (Fabricius, 1775)
+- [[Melanchra persicariae]] (Linnaeus, 1761)
+- [[Hadena compta]] (Denis & Schiffermüller, 1775)
+- [[Cardepia sociabilis]] (de Graslin, 1850)
+- [[Phlogophora meticulosa]] (Linnaeus, 1758)
+- [[Mormo maura]] (Linnaeus, 1758)
+- [[Ipimorpha subtusa]] (Denis & Schiffermüller, 1775)
+- [[Euplexia lucipara]] (Linnaeus, 1758)
+- [[Mythimna l-album]] (Linnaeus, 1767)
+- [[Orthosia cruda]] (Denis & Schiffermüller, 1775)
+- [[Trigonophora flammea]] (Esper, 1785)
+- [[Cucullia absinthii]] (Linnaeus, 1761)
+- [[Cucullia cemenelensis]] Boursin, 1923
+- [[Cucullia lucifuga]] (Denis & Schiffermüller, 1775)
+- [[Cucullia tanaceti]] (Denis & Schiffermüller, 1775)
+- [[Cucullia asteris]] (Denis & Schiffermüller, 1775)
+- [[Craniophora ligustri]] (Denis & Schiffermüller, 1775)
+- [[Camptogramma bistrigata]] (Treitschke, 1828)
+- [[Callopistria latreillei]] (Duponchel, 1827)
+- [[Delichon urbicum]] (Linnaeus, 1758)
+- [[Anorthoa munda]] (Denis & Schiffermüller, 1775)
+- [[Photedes extrema]] (Hübner, 1809)
+- [[Caradrina proxima]] Rambur, 1837
+- [[Phigaliohybernia aurantiaria]] (Hübner, 1799)
+- [[Acontia viridisquama]] Guenée, 1852
+- [[Anarta sodae]] (Rambur, 1829)
+- [[Ophiuche lividalis]] (Hübner, 1796)
+- [[Actitis hypoleucos]] (Linnaeus, 1758)
+- [[Falco naumanni]] Fleischer, 1818
+- [[Falco tinnunculus]] Linnaeus, 1758
+- [[Falco peregrinus]] Tunstall, 1771
+- [[Gallinula chloropus]] (Linnaeus, 1758)
+- [[Tetrax tetrax]] (Linnaeus, 1758)
+- [[Burhinus oedicnemus]] (Linnaeus, 1758)
+- [[Charadrius dubius]] Scopoli, 1786
+- [[Larus fuscus]] Linnaeus, 1758
+- [[Larus argentatus]] Pontoppidan, 1763
+- [[Larus marinus]] Linnaeus, 1758
+- [[Rissa tridactyla]] (Linnaeus, 1758)
+- [[Columba oenas]] Linnaeus, 1758
+- [[Streptopelia decaocto]] (Frivaldszky, 1838)
+- [[Tyto alba]] (Scopoli, 1769)
+- [[Otus scops]] (Linnaeus, 1758)
+- [[Aegolius funereus]] (Linnaeus, 1758)
+- [[Apus apus]] (Linnaeus, 1758)
+- [[Apus pallidus]] (Shelley, 1870)
+- [[Tachymarptis melba]] (Linnaeus, 1758)
+- [[Alcedo atthis]] (Linnaeus, 1758)
+- [[Merops apiaster]] Linnaeus, 1758
+- [[Upupa epops]] Linnaeus, 1758
+- [[Galerida cristata]] (Linnaeus, 1758)
+- [[Riparia riparia]] (Linnaeus, 1758)
+- [[Ptyonoprogne rupestris]] (Scopoli, 1769)
+- [[Hirundo rustica]] Linnaeus, 1758
+- [[Motacilla alba]] Linnaeus, 1758
+- [[Phoenicurus ochruros]] (S. G. Gmelin, 1774)
+- [[Oenanthe hispanica]] (Linnaeus, 1758)
+- [[Monticola solitarius]] (Linnaeus, 1758)
+- [[Locustella naevia]] (Boddaert, 1783)
+- [[Acrocephalus palustris]] (Bechstein, 1798)
+- [[Hippolais polyglotta]] (Vieillot, 1817)
+- [[Phylloscopus bonelli]] (Vieillot, 1819)
+- [[Corvus monedula]] Linnaeus, 1758
+- [[Corvus corax]] Linnaeus, 1758
+- [[Sturnus vulgaris]] Linnaeus, 1758
+- [[Sturnus unicolor]] Temminck, 1820
+- [[Passer domesticus]] (Linnaeus, 1758)
+- [[Passer montanus]] (Linnaeus, 1758)
+
