@@ -17,7 +17,7 @@ sources:
 - **Correspondances typologiques** :
 	- EUNIS : [[C2.18]] - [[C2.25]] (eaux courantes) / [[C1.131]] (eaux stagnantes)
 	- CB : [[24.41]] (eaux courantes) / [[22.432]] (eaux stagnantes)
-	- HIC EUR : [[3260-1 oligotrophes acides]] (eaux courantes) / [[NC]] (eaux stagnantes)
+	- HIC EUR : [[3260-1]] oligotrophes acides (eaux courantes) / NC (eaux stagnantes)
 
 ZH : p.p.
 

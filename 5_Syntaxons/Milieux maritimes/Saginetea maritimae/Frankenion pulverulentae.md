@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Végétation pionnière halophile (alliance mal connue en France)
+**Description** : Végétation pionnière, annuelle des substrats sablo-limoneux salés, temporairement inondés l'hiver, de la Méditerranée occidentale. 
 
-**Espèces caractéristiques** : [[Suaeda splendens]], [[Spergularia diandra]]
+**Espèces caractéristiques** : [[Suaeda splendens]], [[Spergularia diandra]], [[Galium aparine subsp. aparinella]], [[Polypogon subspathaceus]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[A2.552]] - [[E6.13]]
@@ -20,7 +20,6 @@ sources:
 	- HIC EUR : [[1310-4]]
 
 ZH : oui
-
 
 Associations :
 - [[Junco bufonii-Chenopodietum chenopodioidis]] Géhu et Géhu-Franck 1984 ; 

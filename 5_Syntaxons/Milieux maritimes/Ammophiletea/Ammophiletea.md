@@ -12,7 +12,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-Végétation herbacée vivace chaméphytique ou suffrutescente, halotolérante, des garrigues primaires des littoraux sableux ou rocheux de l'Europe atlantique et de la Méditerranée. 
+**Syn** : Helichryso-Crucianelletea et Ammophiletea
+
+**Description :** Végétation herbacée vivace chaméphytique ou suffrutescente, halotolérante, des garrigues primaires des littoraux sableux ou rocheux de l'Europe atlantique et de la Méditerranée.  
 
 **Espèces indicatrices** : [[Helichrysum stoechas]], [[Ephedra distachya]], [[Reichardia picroides]], [[Lobularia maritima]], [[Euphorbia paralias]], [[Convolvulus soldanella]], [[Eryngium maritimum]]
 
@@ -22,4 +24,4 @@ Ordres :
 - [[Ammophiletalia australis]]
 - [[Crucianelletalia maritimae]]
 
-Syn : Helichryso-Crucianelletea et Ammophiletea
+

@@ -19,5 +19,3 @@ Alliances :
 - [[Lemnion minoris]] Tüxen ex O. Bolòs et Masclans 1955
 - [[Lemno trisulcae-Salvinion natantis]] Slavnič 1956
 - [[Lemno trisulcae-Riccienion fluitantis]] H. Passarge 1978
-
-#ordre

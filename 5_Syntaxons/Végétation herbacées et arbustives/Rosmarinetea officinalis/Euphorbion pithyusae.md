@@ -10,9 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Falaises des Alpes-maritimes et de Corse
+**Description** : Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur substrats rocheux du littoral tyrrhénien de la Méditerranée nord-occidentale. Falaises des Alpes-maritimes et de Corse
 
-**Espèces caractéristiques** : [[Euphorbia pithyusa]], [[Anthyllis barba-jovis]], [[Thymelaea hirsuta]], [[Pallenis maritima]], [[Helichrysum italicum]], [[Anthyllis cytisoides]], [[Matthiola incana]]
+**Espèces caractéristiques** : [[Euphorbia pithyusa]], [[Anthyllis barba-jovis]], [[Thymelaea hirsuta]], [[Pallenis maritima]], [[Helichrysum italicum]], [[Anthyllis cytisoides]], [[Matthiola incana]], [[Astragalus tragacantha]],  [[Euphorbia linifolia]], [[Plantago subulata]], [[Teucrium polium subsp. purpurascens]], [[Thymelaea tartonraira subsp. tartonraira]], [[Dianthus siculus]], [[Jacobaea maritima]]. 
+
 
 - **Correspondances typologiques** :
 	- EUNIS : [[B3.32]]

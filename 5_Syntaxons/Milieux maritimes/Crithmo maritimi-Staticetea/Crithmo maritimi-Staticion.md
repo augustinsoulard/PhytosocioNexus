@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Crithmo maritimi-Staticetalia]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Communautés continentales de chasmophytes et pelouses aérohalines méditerranéennes
+**Description** : Végétation herbacée vivace chasmophytique, halophile, des falaises et rochers littoraux soumis aux embruns de la Méditerranée nord-occidentale
 
-**Espèces caractéristiques** : [[Limonium pseudominutum]]
+**Espèces caractéristiques** : [[Limonium pseudominutum]], [[Limonium cordatum]], [[Lotus cytisoides]], [[Frankenia hirsuta]], [[Sonchus asper subsp. glaucescens]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[B3.331]]

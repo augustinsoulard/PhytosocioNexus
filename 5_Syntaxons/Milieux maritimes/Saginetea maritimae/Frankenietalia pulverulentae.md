@@ -10,14 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Végétation pionnière halophile
+**Description** : Végétation pionnière, annuelle tardi-vernale ou estivale, halophile, subnitrophile, des substrats sablo-argilo-limoneux, temporairement inondés l'hiver, des littoraux méditerranéen et macaronésien. 
 
-**Espèces caractéristiques** : [[Frankenia pulverulenta]], [[Polypogon maritimus]], [[Polypogon monspeliensis]], [[Sphenopus divaricatus]], [[Parapholis filiformis]], [[Hordeum marinum]], [[Spergularia marina]]
+**Espèces caractéristiques** : [[Frankenia pulverulenta]], [[Polypogon maritimus]], [[Polypogon monspeliensis]], [[Sphenopus divaricatus]], [[Parapholis filiformis]], [[Hordeum marinum]], [[Spergularia marina]],  [[Spergula heldreichii]], [[Hornungia procumbens]], [[Bromus hordeaceus subsp. molliformis]].
 
-- **Correspondances typologiques** :
-	- Voir les alliances ci-dessous
-
-ZH : oui
+**ZH** : oui
 
 Alliances :
 - [[Frankenion pulverulentae]] Rivas Martínez ex Castroviejo et J. Porta 1976

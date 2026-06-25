@@ -13,7 +13,7 @@ sources:
 ---
 Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des eaux douces peu profondes, courantes ou stagnantes, oligomésotrophes à eutrophes de l'Eurasie. 
 
-Espèces indicatrices :[[ Ranunculus trichophyllus subsp. trichophyllus]], [[Callitriche stagnalis]], [[Myriophyllum verticillatum]], [[Myriophyllum spicatum]], [[Nuphar lutea]], [[Persicaria amphibia]], [[Potamogeton lucens]], [[Potamogeton pusillus]], [[Potamogeton perfoliatus]], [[Ranunculus circinatus]], [[Ranunculus trichophyllus]], [[Myriophyllum alterniflorum]], [[Fontinalis antipyretica]], [[Potamogeton perfoliatus]]
+**Espèces indicatrices** :[[ Ranunculus trichophyllus subsp. trichophyllus]], [[Callitriche stagnalis]], [[Myriophyllum verticillatum]], [[Myriophyllum spicatum]], [[Nuphar lutea]], [[Persicaria amphibia]], [[Potamogeton lucens]], [[Potamogeton pusillus]], [[Potamogeton perfoliatus]], [[Ranunculus circinatus]], [[Ranunculus trichophyllus]], [[Myriophyllum alterniflorum]], [[Fontinalis antipyretica]], [[Potamogeton perfoliatus]]
 
 ZH : non car aquatique
 
@@ -25,5 +25,3 @@ Alliances :
 - [[Potamion pusilli]] Hejný in Hejný et Husák 1978
 
 Note CatVeg : la structuration de la classe en deux ordres (Potametalia et Luronio-Potametalia), telle que proposée par Felzines (2016), ne semble pas se justifier floristiquement. Nous proposons donc de ne maintenir qu'un seul ordre pour les végétations des eaux douces.
-
-#ordre 

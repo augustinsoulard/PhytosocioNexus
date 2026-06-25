@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
+**Description :** Végétation frutescente halophile et nitrophile (ornitho-coprophile) du littoral de la Méditerranée nordoccidentale (et de l’Europe thermo-atlantique ?). 
+
+Espèces indicatrices : [[Malva arborea]]. 
+
 Associations :
 - [[Camphorosmo monspeliacae-Suaedetum verae]] V. Noble et Baret 2019 nom. ined. (1) ; 
 - [[Dactylo hispanicae-Malvetum arboreae]] V. Noble et Baret 2019 nom. ined. (1)

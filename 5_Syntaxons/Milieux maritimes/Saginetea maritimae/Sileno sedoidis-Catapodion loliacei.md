@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
 ---
-**Description** : Végétation pionnière (méditerranéen)
+**Description** : Végétation pionnière, annuelle, aérohalophile, thermophile, des replats et cuvettes des rochers littoraux de la Méditerranée orientale et centrale. 
 
-**Espèces caractéristiques** : [[Limonium echioides]], [[Mesembryanthemum nodiflorum]]
+**Espèces caractéristiques** : [[Limonium echioides]], [[Mesembryanthemum nodiflorum]], [[Silene sedoides]], [[Sedum littoreum]], [[Anthemis secundiramea]]. 
 
 - **Correspondances typologiques** :
 	- Non spécifié dans cet extrait
@@ -21,3 +21,4 @@ ZH : oui / p.p.
 
 Associations :
 - [[Catapodio marini-Silenetum sedoidis]] Géhu et al. 1992 nom. inval.
+- [[Groupement à Anthemis secundiramea et Senecio leucanthemifolius subsp. crassifolius]] Noble et Baret, 2019
