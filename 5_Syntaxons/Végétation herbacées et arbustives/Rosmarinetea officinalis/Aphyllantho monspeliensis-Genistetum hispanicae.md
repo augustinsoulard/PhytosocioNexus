@@ -14,7 +14,7 @@ Syn. : ass. à [[Genista hispanica]] et [[Euphorbia nicaeensis]] Archiloque et a
 
 Physionomie : Végétation herbacée vivace d’aspect assez homogène et au recouvrement presque total, riche en chaméphytes, dominée le plus souvent par [[Genista hispanica]] avec parfois une strate arbustive ou arborescente lâche qui se superpose. 
 
-Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Euphorbia nicaeensis]] (rare), [[Genista hispanica subsp. hispanica]], [[Helianthemum oelandicum]], [[Linum narbonense]], [[Linum appressum]]. 
+Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Coronilla minima]], [[Euphorbia nicaeensis]] (rare), [[Festuca inops]], [[Galium corrudifolium]],  [[Genista hispanica subsp. hispanica]], [[Genista pilosa]], [[Helianthemum hirtum]], [[Helianthemum oelandicum]], [[Knautia collina]], [[Linum narbonense]], [[Linum appressum]], [[Teucrium montanum]]. 
 
 Écologie : Végétation hémisciaphile des substrats marneux calcaires souvent marqués d’un début d’acidification, peu pentus, en situation sèche mais ombragée (fond de vallons, exposition nord ou est), le plus souvent en situation de lisière, clairière ou sous couvert d’une pinède claire de [[Pinus halepensis]]. 
 

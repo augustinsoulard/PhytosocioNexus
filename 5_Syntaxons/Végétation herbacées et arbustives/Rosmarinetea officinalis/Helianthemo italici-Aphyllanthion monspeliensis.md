@@ -9,10 +9,12 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - Foucault, Bruno de. 2020. Sur la synsystématique des Rosmarinetea officinalis ouest-méditerranéens.
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Végétation vivace herbacée à sous-arbustive, riche en chaméphytes, mésoxérophile, calcicole, sur substrats marneux ou calcaro-marneux, des étages mésoméditerranéen à supraméditerranéen de la Méditerranée nordoccidentale. 
 
-Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Helianthemum oelandicum]], [[Euphorbia nicaeensis]], [[Genista provincialis]], [[Genista hispanica subsp. hispanica]], [[Genista hispanica]], [[Stipa offneri]],  [[Helianthemum italicum]], [[Argyrolobium zanonii]], [[Fumana thymifolia]], [[Rosmarinus officinalis]], [[Helictochloa pratensis subsp. iberica]], [[Lavandula angustifolia subsp. pyrenaica]], [[Stipa iberica]], [[Thymelaea ruizii]]
+Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Argyrolobium zanonii]], [[Asperula cynanchica]], [[Astragalus monspessulanus subsp. monspessulanus]], [[Brachypodium phoenicoides]], [[Bromopsis erecta subsp. erecta]], [[Bothriochloa ischaemum]], [[Carex humilis]], [[Catananche caerulea]], [[Coronilla minima subsp. minima]], [[Euphorbia nicaeensis]], [[Fumana thymifolia]], [[Genista hispanica]], [[Genista hispanica subsp. hispanica]], [[Genista provincialis]], [[Helictochloa pratensis subsp. iberica]], [[Helianthemum italicum]], [[Helianthemum oelandicum]], [[Lavandula angustifolia subsp. pyrenaica]], [[Linum narbonense]], [[Linum suffruticosum]], [[Linum viscosum]], [[Lotus corniculatus subsp. delortii]], [[Onobrychis supina]], [[Pilosella officinarum]], [[Potentilla verna]], [[Prunella hyssopifolia]], [[Prunella laciniata]], [[Rosmarinus officinalis]], [[Satureja montana subsp. montana]], [[Stipa atlantica]], [[Stipa offneri]], [[Teucrium chamaedrys]], [[Teucrium polium subsp. polium]], [[Thymelaea ruizii]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[F5.1311]] - [[F6.15]] (si junipéraie) - [[E1.52]] - [[F6.1]] - [[F6.63]] (autre)
@@ -35,6 +37,7 @@ Associations :
 - [[Genisto scorpii-Staehelinetum dubiae]] Choisnet 2019 nom. ined. (1) ; 
 - [[Hyssopo officinalis-Artemisietum albae]] Vanden Berghen 1963 ; 
 - [[Koelerio macranthae-Thymetum vulgaris]] B. Foucault 2018 ; 
+- [[Onobrychidetum supinae]] G. Braun-Blanq. 1936 (Braun-Blanquet et al., 1952 : 189)
 - [[Salvio pratensis-Festucetum burgundianae]] Choisnet 2019 nom. ined. (1) ; 
 - [[Staehelino dubiae-Dorycnietum suffruticosi]] Tomaselli 1949 ; Stipetum junceae Liou 1929
 

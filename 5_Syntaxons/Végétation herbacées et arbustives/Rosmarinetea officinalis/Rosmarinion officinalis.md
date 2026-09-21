@@ -25,7 +25,7 @@ ZH : non
 
 Associations :
 - [[Coronillo junceae-Malvetum subovatae]] V. Noble et Baret 2019 nom. ined. (1) ; 
-- [[Fumano thymifoliae-Rosmarinetum officinalis]] Lapraz 1973 ; [
+- [[Fumano thymifoliae-Rosmarinetum officinalis]] Lapraz 1973 ;
 - [[Helianthemo syriaci-Ericetum multiflorae]] Molinier 1934 ; 
 - [[Helichryso stoechadis-Dorycnietum pentaphyllae]] E. Henry 2019 ;
 - [[Ibero-Armerietum belgenciencis]] Molinier et Tronchetti 1967 ; 

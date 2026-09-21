@@ -9,4 +9,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Espèces indicatrices : [[Euphorbia serrata]], [[Urospermum dalechampii]], [[Koeleria macrantha]], [[Festuca occitanica]], [[Serapias vomeracea]]
+Syntaxon non mentionné en France.
+
+Espèces indicatrices : [[Poterium verrucosum]], [[Leucanthemum graminifolium]]
+[[Linum campanulatum]]
