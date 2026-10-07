@@ -25,6 +25,7 @@ Associations :
 - [[Lemno minoris-Hydrocharitetum morsus-ranae]] Oberdorfer ex H. Passarge 1978 ; 
 - [[Lemno trisulcae-Utricularietum vulgaris]] Soó 1947 ; 
 - [[Potamo-Ceratophylletum submersi]] I. Pop 1962 ; 
+- [[Ceratophylletum demersi]] Corillion 1957 ;
 - [[Spirodelo-Aldrovandetum vesiculosae]] Borhidi et Jarai-Komlodi 1959 ; 
 - [[Stratiotetum aloidis]] Miljan 1933 ; 
 - [[Utricularietum australis]] T. Müller et Görs 1960
