@@ -12,3 +12,6 @@
 - [[I|I - Habitats agricoles, horticoles et domestiques régulièrement ou récemment cultivés]]
 - [[J|J - Zones bâties, sites industriels et autres habitats artificiels]]
 - [[X|X - Complexes d'habitats]]
+
+
+[[GAYET et al - 2025 - Guide de détermination des habitats EUNIS.pdf]]
