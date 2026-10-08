@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[010 - Brachypodion phoenicoidis.jpg]]
+
 Associations :
 - [[Agrimonio eupatoriae-Brachypodietum phoenicoidis]] Choisnet 2019 nom. ined. (1) ; 
 - [[Aspalthio bituminosi-Brachypodietum pinnati]] O. Bolòs 1970 ; 

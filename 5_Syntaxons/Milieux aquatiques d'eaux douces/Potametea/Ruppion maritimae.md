@@ -21,6 +21,8 @@ ZH : p.p.
 
 Espèces indicatrices : [[Althenia filiformis]], [[Ruppia cirrhosa]], [[Ruppia maritima]].
 
+![[427 - Ruppion maritimae.jpg]]
+
 Associations :
 - [[Chaetomorpho lini-Ruppietum cirrhosae]] Braun-Blanquet in Braun-Blanquet et al. 1952 corr. Berg in Dengler et al. 2004 ; 
 - [[Ruppieto maritimae-Enteromorphetum intestinali]]s V. Westhoff 1943 ; 

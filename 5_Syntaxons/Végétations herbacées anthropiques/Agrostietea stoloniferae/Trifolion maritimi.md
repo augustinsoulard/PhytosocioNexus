@@ -22,6 +22,8 @@ sources:
 
 ZH : oui
 
+![[033 - Trifolion maritimi.jpg]]
+
 Associations :
 - [[Agropyro pycnanthi-Trifolietum maritimi]] Braun-Blanquet in Braun-Blanquet et al 1952 ; 
 - Carici divisaeLolietum perennis B. Foucault 2008 ; 

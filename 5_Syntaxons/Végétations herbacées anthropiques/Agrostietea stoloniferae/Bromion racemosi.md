@@ -22,6 +22,8 @@ sources:
 
 ZH : oui
 
+![[025 - Bromion racemosi.jpg]]
+
 Associations :
 - [[Achilleo ptarmicae-Brometum racemosi]] Oberdorfer 1957 ; 
 - [[Agrostio capillaris-Caricetum]] distichae Culat in Le Hénaff et al. 2021 ; 

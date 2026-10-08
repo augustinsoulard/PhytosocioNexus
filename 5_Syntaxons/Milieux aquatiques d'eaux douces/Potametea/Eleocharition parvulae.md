@@ -21,5 +21,7 @@ sources:
 
 ZH : p.p. (potentielle)
 
+![[426 - Eleocharition parvulae.jpg]]
+
 Associations :
 - [[Eleocharitetum parvulae]] (W.F. Christiansen 1933) Gillner 1960

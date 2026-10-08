@@ -10,9 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Herbiers de Phanérogames vivaces à feuilles flottantes
+**Description** : Végétation herbacée vivace aquatique, enracinée, plutôt submergée ou à grandes feuilles flottantes (nymphaeides), des eaux douces calmes, stagnantes à faiblement courantes, oligomésotrophes à eutrophes, des étages inférieurs de l'Eurasie.
 
 **Espèces caractéristiques** : [[Nymphaea alba]], [[Trapa natans]], [[Nymphoides peltata]], [[Persicaria amphibia]]
+ Espèces caractéristiques de l'ancien Potamion pectinatii : [[Elodea nuttallii]], [[Hippuris vulgaris]], [[Najas marina]] s.l., [[Potamogeton berchtoldii]], [[Potamogeton nodosus]], [[Vallisneria spiralis]], [[Zannichellia palustris subsp. palustris]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C1.241]] - [[C1.34]] (eaux stagnantes) / [[C2.33]] - [[C2.34]] (eaux courantes)
@@ -20,6 +21,8 @@ sources:
 	- HIC EUR : [[NC]]
 
 ZH : non car aquatique
+
+![[423 - Nymphaeion albae.jpg]]
 
 Associations :
 - [[Ceratophyllo demersi-Potametum compressi]] R. Doll ex H. Passarge 1996 ; 

@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[018 - Ranunculo ophioglossifolii-Oenanthion fistulosae.jpg]]
+
 Associations :
 - [[Baldellio ranunculoidis-Lythretum salicariae]] Gamisans et al. 1998 ; 
 - [[Eleocharito palustris-Scirpetum americani]] B. Foucault 1988 nom. inval. (3b) ; 

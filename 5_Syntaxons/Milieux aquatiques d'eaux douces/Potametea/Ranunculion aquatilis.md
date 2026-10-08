@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Herbiers des eaux douces et saumâtres
+**Description** : Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des eaux stagnantes à faiblement courantes, oligomésotrophes à mésotrophes, des eaux douces et saumâtres, parfois soumises à émersion estivale.
 
-**Espèces caractéristiques** : [[Ranunculus aquatilis]], [[Callitriche brutia]], [[Hottonia palustris]], [[Zannichellia palustris]], [[Zannichellia pedunculata]], [[Ranunculus baudotii]], [[Ranunculus omiophyllus]], [[Ranunculus ololeucos]]
+**Espèces caractéristiques** : [[Ranunculus aquatilis]], [[Callitriche brutia]], [[Hottonia palustris]], [[Zannichellia palustris]], [[Zannichellia pedunculata]], [[Ranunculus baudotii]], [[Ranunculus omiophyllus]], [[Ranunculus ololeucos]], [[Zannichellia palustris subsp. pedicellata]], [[Zannichellia obtusifolia]], [[Zannichellia peltata]], [[Callitriche truncata subsp. occidentalis]], 
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C1.341]]
@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[422 - Ranunculion aquatilis.jpg]]
+
 Associations :
 - [[Batrachietum rionii]] Hejný et Husák in Dykyjová et Květ 1978 ; 
 - [[Batrachietum rionii]] J.M. Pizarro et Rivas Martínez in Rivas Martínez et al. 2002 ; 
@@ -28,7 +30,11 @@ Associations :
 - [[Hottonietum palustris]] Tüxen ex H. Roll 1940 ; 
 - [[Myriophyllo alterniflori-Callitrichetum brutiae]] Cirujano et al. 1986 ; 
 - [[Potamo crispi-Ranunculetum trichophylli]] Imchenetzky 1926 ; 
+- [[Ranunculetum baudotii]] Braun-Blanq. in Braun-Blanq. et al. 1952
 - [[Ranunculetum aquatilis]] F. Sauer ex Géhu et Mériaux 1983 ; 
 - [[Ranunculetum peltati]] (Segal 1965) Weber-Oldecop 1969 ; 
 - [[Ranunculo trichophylli-Callitrichetum vernae]] Bajić 1978 ; 
 - [[Ranunculo tripartiti-Callitrichetum brutiae]] Fernez, Ferreira et Causse 2022
+- [[Parvopotamo-Zannichellietum pedicellatae]] Soó (1934) 1947
+
+

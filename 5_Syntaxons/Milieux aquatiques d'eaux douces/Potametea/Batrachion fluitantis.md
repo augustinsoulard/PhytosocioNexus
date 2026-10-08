@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Herbiers de Phanérogames vivaces (eaux courantes et stagnantes)
+**Description** : Végétation herbacée vivace (herbiers de Phanérogames ), enracinée, immergée ou flottante, des eaux courantes (voire stagnantes) oligotrophes à mésotrophes, oligocalciques à calciques, peu profondes de l'Europe.
 
-**Espèces caractéristiques** : [[Ranunculus fluitans]], [[Ranunculus penicillatus subsp. pseudofluitans]], [[Callitriche hamulata]]
+**Espèces caractéristiques** : [[Ranunculus fluitans]], [[Ranunculus penicillatus subsp. pseudofluitans]], [[Callitriche hamulata]], [[Groenlandia densa]], [[Callitriche obtusangula]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C2.2]] - [[C2.3]] (eaux courantes) / [[C1.2]] - [[C1.3]] (eaux stagnantes)
@@ -21,12 +21,15 @@ sources:
 
 ZH : non
 
+![[420 - Batrachion fluitantis.jpg]]
+
 Associations :
 - [[Callitrichetum obtusangulae]] P. Seibert 1962 ; 
 - [[Callitricho hamulatae-Myriophylletum alterniflori]] Steusloff ex Weber-Oldecop 1967 ; 
 - [[Callitricho hamulatae-Ranunculetum fluitantis]] Oberdorfer 1957 ; 
 - [[Callitricho hamulatae-Ranunculetum penicillati]] Dethioux et Noirfalise ex Felzines 2016 ; 
 - [[Callitricho hamulatae-Ranunculetum penicillati]] T. Müller ex H. Passarge 1992 ; 
+- [[Groenlandietum densae]] Segal ex P. Schipper et al. in Schaminée et al. 1995
 - [[Potametum colorati]] P. Allorge 1921 ; 
 - [[Potamo perfoliati-Ranunculetum fluitantis]] P. Allorge ex W. Koch 1926 ; 
 - [[Ranunculetum fluitantis]] P. Allorge 1922 ; 

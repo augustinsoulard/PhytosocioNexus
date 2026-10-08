@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[007 - Falcario vulgaris-Poion angustifoliae.jpg]]
+
 Association :
 - [[Asparago officinalis-Chondrilletum junceae]] H. Passarge 1978 ; 
 - [[Cardario drabae-Agropyretum repentis]] T. Müller et Görs 1969 ; 

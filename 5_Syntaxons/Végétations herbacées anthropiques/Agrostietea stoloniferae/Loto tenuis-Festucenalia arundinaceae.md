@@ -23,5 +23,3 @@ Alliances :
 - [[Loto tenuis-Trifolion fragiferi]] V. Westhoff et al. ex B. Foucault 2008
 - [[Scirpoido holoschoeni-Juncion inflexi]] B. Foucault et Catteau 2012
 - [[Trifolion maritimi]] Braun-Blanquet ex Braun-Blanquet et al. 1952
-
-#sous-ordre

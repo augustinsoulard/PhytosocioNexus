@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[429 - Buxo sempervirentis-Pistacion terebenthi.jpg]]
+
 Associations :
 - [[Buxo sempervirentis-Phillyreetum mediae]] Choisnet 2019 nom. ined. (1)
 

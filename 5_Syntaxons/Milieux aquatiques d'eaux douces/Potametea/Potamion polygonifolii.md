@@ -20,6 +20,8 @@ sources:
 	- HIC EUR : [[3260-1]] oligotrophes acides (eaux courantes) / NC (eaux stagnantes)
 
 ZH : p.p.
+![[421 - Potamion polygonifolii.jpg]]
+
 
 Associations :
 - [[Luronio natantis-Potametum polygonifolii]] W. Pietsch ex H. Passarge 1994 ; 

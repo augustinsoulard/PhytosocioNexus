@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[021 - Molinio arundinaceae-Holoschoenion vulgaris.jpg]]
+
 Associations :
 - [[Cirsio monspessulani-Holoschoenetum vulgaris]] Braun-Blanquet ex Tchou 1948 ; 
 - [[Dittrichio viscosae-Juncetum acuti]] Paradis et al. 2013 ; 

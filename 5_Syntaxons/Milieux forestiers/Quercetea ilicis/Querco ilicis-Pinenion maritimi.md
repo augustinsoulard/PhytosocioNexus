@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[439 - Querco ilicis-Pinenion maritimi.jpg]]
+
 Associations :
 - [[Pino pinastri-Quercetum ilicis]] (Abbayes 1954) Géhu et Géhu-Franck 1984 ; 
 - [[Pino pinastri-Quercetum suberis]] (Géhu 1969) Vanden Berghen 1970 ; 

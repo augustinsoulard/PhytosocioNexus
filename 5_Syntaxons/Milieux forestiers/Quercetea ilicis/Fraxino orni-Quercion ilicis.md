@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[434 - Fraxino orni-Quercion ilicis.jpg]]
+
 Associations :
 - [[Aceri monspessulani-Quercetum ilicis]] Arrigoni et al. 1985 ; 
 - [[Buxo sempervirentis-Quercetum ilicis]] Delbosc et al. 2015 ; 
