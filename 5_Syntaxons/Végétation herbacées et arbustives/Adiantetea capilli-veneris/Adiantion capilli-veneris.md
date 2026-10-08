@@ -19,6 +19,8 @@ sources:
 
 ZH : oui
 
+![[001 - Adiantion capilli-veneris.jpg]]
+
 Associations :
 - [[Adianto capilli-veneris-Osmundetum regalis ]]Brullo et al. 1989 ; 
 - [[Crithmo maritimi-Adiantetum capilli-veneris]] Géhu et al. ex B. Foucault 2015 ; 

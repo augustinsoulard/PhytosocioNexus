@@ -20,6 +20,7 @@ sources:
 	- HIC EUR : [[2180-3]] (dunes littorales) - [[2180-3]] (dunes internes) - [[9330-1]] à [[9330-5]] (si Quercus suber dominant)
 
 ZH : p.p.
+![[438 - Quercenion suberis.jpg]]
 
 Associations :
 - [[Querco suberis-Genistetum candicantis]] R.J. Loisel 1971 ; 

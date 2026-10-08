@@ -21,7 +21,7 @@ sources:
 
 ZH : oui
 
+![[029 - Juncion gerardi.jpg]]
+
 Associations :
 - [[Taraxaco bessarabici-Caricetum distantis]] (Soó 1930) Wendelberger 1943
-
-#alliance 

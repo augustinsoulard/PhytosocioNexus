@@ -1,3 +1,7 @@
+
+
+![[008 - Gageo pratensis-Allion schoenoprasi.jpg]]
+
 Associations :
 - [[Gageo pratensis-Allietum oleracei]] H. Passarge (1964) 1985 ; 
 - [[Geranio rotundifolii-Allietum vinealis]] (von Rochow 1948) Tüxen ex von Rochow 1951

@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[022 - Paspalo distichi-Polypogonion viridis.jpg]]
+
 Associations :
 - [[Carici hirtae-Menthetum pulegii]] F. Prud'homme et al. in Corriol et al. 2022 ; 
 - [[Cypero eragrostis-Paspaletum dilatati]] B. Foucault 2018 ; 

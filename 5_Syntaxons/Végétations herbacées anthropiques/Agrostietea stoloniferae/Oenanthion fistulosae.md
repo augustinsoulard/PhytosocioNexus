@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[015 - Oenanthion fistulosae.jpg]]
+
 Associations :
 - [[Eleocharito palustris-Oenanthetum fistulosae]] B. Foucault 2008 ; 
 - [[Gratiolo officinalis-Oenanthetum fistulosae]] B. Foucault in J.-M. Royer et al. 2006 ; 

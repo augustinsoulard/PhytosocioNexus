@@ -21,6 +21,8 @@ Espèces indicatrices : [[Achillea ageratum]], [[Centaurea jacea subsp. timbalii
 
 ZH : oui
 
+![[019 - Deschampsion mediae.jpg]]
+
 Associations :
 - [[Agrostio maritimae-Achilleetum agerati]] Braun-Blanquet in Braun-Blanquet et al. 1952
 - [[Dorycnio gracilis-Schoenetum nigricantis]] Braun-Blanquet in Braun-Blanquet et al. 1952

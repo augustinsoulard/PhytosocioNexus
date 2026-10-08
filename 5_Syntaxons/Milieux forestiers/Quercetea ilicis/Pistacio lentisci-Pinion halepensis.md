@@ -10,5 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+
+
+
+![[428 - Pistacio lentisci-Pinion halepensis.jpg]]
+
 Associations :
 - [[Pistacio lentisci-Pinetum halepensis]] De Marco et al. 1984

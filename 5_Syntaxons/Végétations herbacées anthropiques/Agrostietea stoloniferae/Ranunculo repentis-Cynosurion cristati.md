@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[028 - Ranunculo repentis-Cynosurion cristati.jpg]]
+
 Association :
 - [[Cirsio arvensis-Alopecuretum pratensis]] Catteau in B. Foucault et Catteau 2012 ; 
 - [[Cirsio palustris-Juncetum effusi]] Gallandat 1982 ; 

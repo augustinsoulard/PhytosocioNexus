@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[437 - Quercenion ilicis.jpg]]
+
 Associations :
 - [[Arisaro vulgaris-Quercetum ilicis]] (Barbero et R.J. Loisel 1983) Barbero et al. 1992 ; 
 - [[Asplenio onopteridis-Quercetum ilicis]] (Braun-Blanquet 1936) Rivas Martínez 1975 ; 

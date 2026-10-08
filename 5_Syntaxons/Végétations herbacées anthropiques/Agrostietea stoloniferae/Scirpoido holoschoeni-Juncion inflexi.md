@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[032 - Scirpoido holoschoeni-Juncion inflexi.jpg]]
+
 Associations :
 - Cichorio intybi-Festucetum arundinaceae Billy ex Thébaud et al. 2014 ; 
 - Cirsio monspessulani-Menthetum longifoliae O. Bolòs et Vives in O. Bolòs 1956 ; 

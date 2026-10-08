@@ -21,6 +21,8 @@ Espèces indicatrices : [[Tripidium ravennae]], [[Scirpoides holoschoenus subsp.
 
 ZH : p.p.
 
+![[012 - Imperato cylindricae-Saccharion ravennae.jpg]]
+
 Associations :
 - [[Groupement à Imperata cylindrica et Scirpoides holoschoenus subsp. australis]] Noble nom. prov.
 

@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[432 - Oleo sylvestris-Ceratonion siliquae.jpg]]
+
 Associations :
 - [[Anthyllido barbae-jovis-Juniperetum turbinatae]] Foggi et al. 2006 ; 
 - [[Asparago acutifolii-Anthyllidetum barbajovis]] Géhu et al. 1992 ; 

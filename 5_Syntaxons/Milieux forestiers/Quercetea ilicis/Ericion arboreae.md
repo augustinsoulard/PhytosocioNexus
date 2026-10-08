@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[430 - Ericion arboreae.jpg]]
+
 Associations :
 - [[Cytiso scoparii-Ericetum arboreae]] B. Foucault 2016 ; 
 - [[Erico arboreae-Arbutetum unedonis]] Molinier 1937 ; 

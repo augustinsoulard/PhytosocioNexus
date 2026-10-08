@@ -1,4 +1,6 @@
 
+![[009 - Muscario racemosi-Allion vinealis.jpg]]
+
 Associations : 
 - [[Aristolochio clematitidis-Tulipetum sylvestris]] (Issler 1908) Tüxen 1950 nom. inval. (3b)
 

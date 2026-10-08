@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[005 - Convolvulo arvensis-Agropyrion repentis.jpg]]
+
 Associations :
 - [[Agropyro repentis-Tussilaginetum farfara]]e H. Passarge 1989 ; 
 - [[Bunio bulbocastani-Brachypodietum pinnati]] Wattez et Boullet 1988 ; 

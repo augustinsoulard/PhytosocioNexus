@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[031 - Loto tenuis-Trifolion fragiferi.jpg]]
+
 Associations :
 - [[Agropyro repentis-Juncetum gerardi]] J. Duvigneaud 1967 ; 
 - [[Agrostio stoloniferae-Caricetum vikingensis]] Géhu 1982 ; 

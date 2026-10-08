@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[433 - Rhamno lycioidis-Quercion cocciferae.jpg]]
+
 Associations :
 - [[Buxo sempervirentis-Juniperetum phoeniceae]] Rivas Martínez 1969 ; 
 - [[Buxo sempervirentis-Quercetum cocciferae]] Choisnet 2019 nom. inval. ; 

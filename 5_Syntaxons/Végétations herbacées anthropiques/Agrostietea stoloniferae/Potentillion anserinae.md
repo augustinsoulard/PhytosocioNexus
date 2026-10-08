@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[027 - Potentillion anserinae.jpg]]
+
 Associations :
 - [[Caricetum hirto-distichae]] B. Didier et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Carici flaccae-Agrostietum albae]] C. Béguin 1970 ; 

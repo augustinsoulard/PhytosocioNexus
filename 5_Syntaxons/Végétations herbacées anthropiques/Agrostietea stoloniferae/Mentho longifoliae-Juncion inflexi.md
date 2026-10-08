@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[026 - Mentho longifoliae-Juncion inflexi.jpg]]
+
 Associations :
 - [[Achilleo ptarmicae-Juncetum inflexi]] Mayot 1977 ; 
 - [[Carici distantis-Potentilletum reptantis]] Gamisans 1975 ; 

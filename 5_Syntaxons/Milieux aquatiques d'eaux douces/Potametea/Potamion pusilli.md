@@ -21,6 +21,8 @@ Espèces indicatrices : [[Elodea nuttallii]], [[Hippuris vulgaris]], [[Najas mar
 
 ZH : non car aquatique
 
+![[424 - Potamion pusilli.jpg]]
+
 Associations :
 - [[Myriophyllo alterniflori-Potametum trichoidis]] Velayos et al. 1989 ; 
 - [[Najadetum marinae]] F. Fukarek 1961 ; 
