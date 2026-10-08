@@ -20,6 +20,8 @@ sources:
 
 ZH : p.p.
 
+![[047 - Crithmo maritimi-Armerion maritimae.jpg]]
+
 Sous-alliances :
 - [[Armerio maritimae-Asplenienion marini]] Géhu 2008
 - [[Crithmo maritimi-Limonienion binervosi]] Géhu et Géhu-Franck 1984 nom. inval. (2b, 8)

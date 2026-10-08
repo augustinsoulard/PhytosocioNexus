@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Cheilanthetalia maranto-maderensis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+
+![[094 - Phagnalo saxatilis-Cheilanthion maderensis.jpg]]
 Associations :
 - [[Bufonio-Linarietum galioidis]] R.J. Loisel 1968 ; 
 - [[Cymbalarietum aequitrilobae]] Gamisans et Paradis 1992 ; 

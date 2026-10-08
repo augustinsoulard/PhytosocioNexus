@@ -16,6 +16,8 @@ sources:
 
 ZH : non spécifié
 
+![[064 - Triseto flavescentis-Polygonion bistortae.jpg]]
+
 Sous-alliances :
 - [[Alchemillo monticolae-Trisetenion flavescentis]] Ferrez 2007
 - [[Campanulo rhomboidalis-Trisetenion flavescentis]] Dierschke in Theurillat 1992

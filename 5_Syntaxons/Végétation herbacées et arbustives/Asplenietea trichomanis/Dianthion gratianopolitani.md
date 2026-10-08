@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[085 - Dianthion gratianopolitani.jpg]]
+
 Associations :
 - [[Biscutello arvernensis-Festucetum airoidis]] Billy ex Thébaud et al. 2014 ; 
 - [[Saxifragetum hieracifoliae]] Quézel et Rioux 1954 ; 

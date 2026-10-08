@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[090 - Asplenio billotii-Umbilicion rupestris.jpg]]
+
 Associations :
 - [[Asplenietum billotii]] Jü. Blum 1970 ; 
 - [[Umbilico rupestris-Asplenietum billotii]] B. Foucault 1979 ; 

@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[054 - Poo angustifoliae-Arrhenatherenion elatioris.jpg]]
+
 Associations :
 - [[Carici divulsae-Poetum angustifoliae]] Felzines 2012 ; 
 - [[Carici leersii-Arrhenatheretum elatioris]] Loiseau et Felzines ex Felzines 2012 ; 

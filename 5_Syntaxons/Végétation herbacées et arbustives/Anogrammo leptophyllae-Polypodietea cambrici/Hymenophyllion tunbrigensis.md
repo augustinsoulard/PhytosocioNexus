@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[044 - Hymenophyllion tunbrigensis.jpg]]
+
 Associations :
 - [[Dryopterido aemuli-Hymenophylletum tunbrigensis]] (P. Allorge 1941) T.E. Díaz et Fernández Prieto 1994 ; 
 - [[Hymenophylletum tunbrigensis]] Braun-Blanquet in Braun-Blanquet et Tüxen 1952 ; 

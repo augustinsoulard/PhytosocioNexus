@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[093 - Brassicion insularis.jpg]]
+
 Associations :
 - [[Ruto graveolenti-Brassicetum insularis]] (Litardière 1928) Gamisans 1991
 

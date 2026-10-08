@@ -19,6 +19,8 @@ sources:
 
 ZH : p.p.
 
+![[068 - Rhinantho pumili-Trisetenion flavescentis.jpg]]
+
 Associations :
 - [[Agrostio capillaris-Festucetum rubrae]] Frain et al. 2009 ; 
 - [[Astrantio majoris-Avenuletum pubescentis]] Vigo 1984 ; 

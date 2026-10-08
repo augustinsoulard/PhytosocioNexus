@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[100 - Saxifragion lingulatae.jpg]]
+
 Associations :
 - [[Ballotetum frutescentis]] Quézel 1950 ; 
 - [[Phyteumetum villarsii]] Quézel 1950 ; 

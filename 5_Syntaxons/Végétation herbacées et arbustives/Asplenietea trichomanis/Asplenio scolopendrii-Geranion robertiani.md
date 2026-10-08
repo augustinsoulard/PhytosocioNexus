@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[102 - Asplenio scolopendrii-Geranion robertiani.jpg]]
+
 Associations :
 - [[Asplenietum quadrivalenti-scolopendrii]] B. Foucault 1995 ; 
 - [[Diplotaxido muralis-Cystopteridetum fragilis]] Robbe ex J.-M. Royer et al. 2006

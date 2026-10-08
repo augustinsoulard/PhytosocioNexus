@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[077 - Lolio perennis-Cynosurenion cristati.jpg]]
+
 Associations :
 - [[Cirsio arvensis-Lolietum perennis]] B. Foucault 2016 ; 
 - [[Cynosuro cristati-Lolietum perennis]] Braun-Blanquet et De Leeuw 1936 ; 

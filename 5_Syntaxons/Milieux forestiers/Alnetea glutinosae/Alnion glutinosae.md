@@ -1,3 +1,18 @@
+---
+tags:
+  - "#alliance"
+syntaxon_superieur: "[[Alnetalia glutinosae]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-10-08
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+
+![[034 - Alnion glutinosae.jpg]]
+
 Associations :
 - [[Aconito napelli-Alnetum glutinosae]] G. Bailly 2013 ; 
 - [[Angelico sylvestris-Alnetum glutinosae]] Gamisans 2013 ; 
@@ -21,5 +36,3 @@ Associations :
 - [[Peucedano palustris-Alnetum glutinosae]] Noirfalise et Sougnez 1961
 
 Note CatVeg : Boeuf (2014) décrit deux sous-alliances, l'Alnenion glutinosae et le Glycerio fluitantis-Alnenion glutinosae, sans définitions écologiques précises. La différenciation floristique entre ces deux unités ne paraît pas assez marquée pour justifier leur maintien actuellement.
-
-#alliance 

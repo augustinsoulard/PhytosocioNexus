@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[076 - Galio veri-Cynosurenion cristati.jpg]]
+
 Associations :
 - [[Centaureo subrhomboidalis-Cynosuretum cristati]] Nègre 1969 ; 
 - [[Eryngio campestris-Lolietum perennis]] Julve 1989 ; 

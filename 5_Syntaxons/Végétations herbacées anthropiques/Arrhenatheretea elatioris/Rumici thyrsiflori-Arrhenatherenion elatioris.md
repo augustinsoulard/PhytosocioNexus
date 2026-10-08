@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[062 - Rumici thyrsiflori-Arrhenatherenion elatioris.jpg]]
+
 Associations :
 - [[Eryngio campestris-Oenanthetum pimpinelloides]] P. Lacroix et al. 2014 ; 
 - [[Fritillario meleagridis-Arrhenatheretum elatioris]] P. Lacroix et al. 2014 ; 

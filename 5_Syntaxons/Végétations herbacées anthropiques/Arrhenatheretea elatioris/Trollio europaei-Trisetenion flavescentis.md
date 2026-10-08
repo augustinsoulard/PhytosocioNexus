@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[069 - Trollio europaei-Trisetenion flavescentis.jpg]]
+
 Associations 
 - [[Knautio arvernensis-Trisetetum flavescentis]] Billy ex Thébaud et al. 2014 ; 
 - [[Phyteumato spicati-Narcissetum poetici]] Seytre in B. Foucault 2016

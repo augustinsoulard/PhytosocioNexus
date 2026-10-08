@@ -19,6 +19,8 @@ sources:
 
 ZH : non
 
+![[063 - Carici arenariae-Arrhenatherion elatioris.jpg]]
+
 Associations :
 - [[Carici arenariae-Festucetum junceae]] Julve 1989 ; 
 - [[Carici arenariae-Luzuletum campestris]] B. Foucault 2016 ; 

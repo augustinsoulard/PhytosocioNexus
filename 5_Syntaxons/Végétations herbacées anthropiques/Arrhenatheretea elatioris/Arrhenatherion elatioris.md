@@ -16,6 +16,8 @@ sources:
 
 ZH : non spécifié
 
+![[052 - Arrhenatherion elatioris.jpg]]
+
 Sous-alliances :
 - [[Colchico autumnalis-Arrhenatherenion elatioris]] B. Foucault 1989
 - [[Poo angustifoliae-Arrhenatherenion elatioris]] Felzines 2012

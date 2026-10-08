@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[091 - Asplenion septentrionalis.jpg]]
+
 Associations :
 - [[Asplenietum septentrionali-adianti-nigri]] Oberdorfer 1938 ; 
 - [[Biscutello laevigatae-Asplenietum septentrionalis]] Korneck 1974 ; 

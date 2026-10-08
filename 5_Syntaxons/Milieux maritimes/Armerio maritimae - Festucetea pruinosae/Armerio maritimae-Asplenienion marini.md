@@ -19,5 +19,7 @@ sources:
 
 ZH : p.p.
 
+![[048 - Armerio maritimae-Asplenienion marini.jpg]]
+
 Associations :
 - [[Armerio maritimae-Asplenietum marini]] Géhu et Géhu-Franck 1984

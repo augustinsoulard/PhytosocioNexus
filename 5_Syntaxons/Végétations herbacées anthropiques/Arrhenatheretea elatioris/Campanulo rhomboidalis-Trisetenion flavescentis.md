@@ -19,6 +19,8 @@ sources:
 
 ZH : p.p.
 
+![[066 - Campanulo rhomboidalis-Trisetenion flavescentis.jpg]]
+
 Associations :
 - [[Campanulo rhomboidalis-Crepidetum biennis]] B. Foucault et Simeray in B. Foucault 2016 ; 
 - [[Euphorbio brittingeri-Trisetetum flavescentis]] B. Foucault 1986 ; 

@@ -21,8 +21,7 @@ sources:
 
 ZH : non
 
+![[046 - Selaginello denticulatae-Anogrammion leptophyllae.jpg]]
+
 Associations :
 - [[Selaginello denticulatae-Anogrammetum leptophyllae]] Molinier 1937
-
-
-#alliance

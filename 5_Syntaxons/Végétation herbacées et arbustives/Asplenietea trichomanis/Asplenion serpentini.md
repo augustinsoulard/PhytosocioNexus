@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[089 - Asplenion serpentini.jpg]]
+
 Associations :
 - [[Asplenietum cuneifolii]] (R. Knapp 1942) Gauckler 1954 ; 
 - [[Cheilantho marantae-Asplenietum cuneifolii]] P. Silva 1965 ; 

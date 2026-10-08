@@ -16,6 +16,8 @@ Espèces indicatrices : [[Ammophila arenaria subsp. arundinacea]], [[Echinophora
 
 ZH : non
 
+![[040 - Ammophilion australis.jpg]]
+
 Associations :
 - [[Echinophoro spinosae-Ammophiletum arundinaceae]] Géhu et Biondi 1994 ; 
 - [[Echinophoro spinosae-Elymetum farcti]] (Braun-Blanquet 1933) Géhu 1988 ; 

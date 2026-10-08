@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[078 - Poion alpinae.jpg]]
+
 Associations :
 - [[Crepido aureae-Cynosuretum cristati]] R. Knapp 1962 ; 
 - [[Crepido aureae-Festucetum rubrae]] W. Lüdi 1948 ; 

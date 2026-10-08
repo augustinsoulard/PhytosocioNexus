@@ -14,6 +14,8 @@ sources:
 
 **Espèces caractéristiques** : optimum des caractéristiques d'ordre
 
+![[072 - Cynosurion cristati.jpg]]
+
 Sous-alliances :
 - [[Alchemillo xanthochlorae-Cynosurenion cristati]] H. Passarge 1969
 - [[Chamaemelo nobilis-Cynosurenion cristati]] B. Foucault 2016

@@ -17,6 +17,8 @@ sources:
 
 ZH : non spécifié
 
+![[059 - Brachypodio rupestris-Centaureion nemoralis.jpg]]
+
 Sous-alliances :
 - [[Brachypodio rupestris-Gaudinienion fragilis]] B. Foucault 2016
 - [[Lino angustifolii-Oenanthenion pimpinelloidis]] B. Foucault 2016

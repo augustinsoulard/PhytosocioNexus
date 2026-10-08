@@ -23,4 +23,6 @@ Syn : Onopordion nervosi
 
 ZH : non
 
+![[080 - Onopordion castellani.jpg]]
+
 Note CatVeg : alliance mentionnée en Corse (Reymann et al., 2017) sans association et reprise par de Foucault (2019) comme potentiellement présente en France.

@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[060 - Brachypodio rupestris-Gaudinienion fragilis.jpg]]
+
 Associations :
 - [[Chamaemelo nobilis-Vicietum nigrae]] B. Foucault 2016 ; 
 - [[Diantho armeriae-Spiranthetum spiralis]] Labadille et B. Foucault 1997 ; 

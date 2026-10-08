@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[074 - Chamaemelo nobilis-Cynosurenion cristati.jpg]]
+
 Associations :
 - [[Chamaemelo nobilis-Trifolietum repentis]] B. Foucault 1995
 

@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[092 - Asplenion glandulosi.jpg]]
+
 Associations :
 - [[Asplenio glandulosi-Campanuletum macrorrhizae]] Braun-Blanquet et al. 1952 ; 
 - [[Erysimo collisparsi-Centranthetum lecoqii]] Choisnet 2019 nom. ined. (1) ; 

@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[086 - Potentillion crassinerviae.jpg]]
+
 Associations :
 - [[Armerio leucocephalae-Potentilletum crassinerviae]] Ro. Molinier 1959 ; 
 - [[Asplenio viridi-Drabetum dubiae]] Gamisans 1975 ; 
