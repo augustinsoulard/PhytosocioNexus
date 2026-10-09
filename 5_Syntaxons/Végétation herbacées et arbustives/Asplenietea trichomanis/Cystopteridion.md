@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[103 - Cystopteridion.jpg]]
+
 Association :
 - [[Asplenio viridis-Cystopteridetum fragilis]] (Kuhnholtz-Lordat 1939) Oberdorfer 1949 ; 
 - [[Androsaco lacteae-Ranunculetum alpestris]] J.L. Richard 1972 ; 

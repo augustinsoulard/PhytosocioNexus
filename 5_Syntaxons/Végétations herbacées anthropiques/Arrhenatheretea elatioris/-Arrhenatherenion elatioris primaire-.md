@@ -19,6 +19,8 @@ sources:
 
 ZH : non
 
+![[058 - « Arrhenatherenion elatioris primaire ».jpg]]
+
 Associations :
 - [[Arabidopsio halleri-Arrhenatheretum elatioris]] Boullet in B. Foucault 2016 ; 
 - [[Dauco gummiferi-Dactylidetum glomeratae]] Géhu 2008 ; 

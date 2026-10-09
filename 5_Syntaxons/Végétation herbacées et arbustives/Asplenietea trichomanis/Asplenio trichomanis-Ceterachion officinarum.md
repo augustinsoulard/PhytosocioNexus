@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[096 - Asplenio trichomanis-Ceterachion officinarum.jpg]]
+
 Associations :
 - [[Asplenietum hastati]] J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Asplenietum pachyrachidis]] J.-M. Royer in J.-M. Royer et al. 2006 ;

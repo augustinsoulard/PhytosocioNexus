@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Arrhenatherion elatioris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -20,6 +20,8 @@ sources:
 	- HIC EUR : [[6510-3]]
 
 ZH : non
+
+![[055 - Rhinantho pumili-Arrhenatherenion elatioris.jpg]]
 
 Associations :
 - [[Colchico autumnalis-Avenuletum pubescentis]] B. Foucault 2019 ; 

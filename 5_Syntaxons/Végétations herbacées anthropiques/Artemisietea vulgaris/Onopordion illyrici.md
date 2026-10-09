@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[079 - Onopordion illyrici.jpg]]
+
 Associations :
 - [[Glaucio flavi-Scolymetum hispanici]] Bartolo et al. 1990 ; 
 - [[Onopordetum illyrici]] Braun-Blanquet ex Soroceanu 1936

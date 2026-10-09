@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[070 - Lolio perennis-Plantaginion majoris.jpg]]
+
 Associations :
 - [[Anthemido nobilis-Agrostietum capillaris]] P. Allorge ex B. Foucault in J.-M. Royer et al. 2006 ; 
 - [[Cichorietum intybi]] (Tüxen 1941) G. Sissingh 1969 ; 

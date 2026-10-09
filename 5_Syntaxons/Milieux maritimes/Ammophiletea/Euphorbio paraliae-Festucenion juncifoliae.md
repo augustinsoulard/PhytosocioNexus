@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur: "[[Ammophilion australis]]"
+syntaxon_superieur: "[[Euphorbio paraliae-Ammophilion arenariae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-22
@@ -21,6 +21,8 @@ sources:
 	- HIC EUR : [[2120-1]]
 
 ZH : non
+
+![[039 - Euphorbio paraliae-Festucenion juncifoliae.jpg]]
 
 Associations :
 - [[Euphorbio paraliae-Festucetum arenariae]] Géhu 1963 corr. Géhu 1982 corr. Géhu 1982 ; 

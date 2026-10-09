@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[101 - Saxifragion mediae.jpg]]
+
 Associations :
 - [[Asperulo hirtae-Potentilletum alchemilloidis]] Chouard 1942 ; 
 - [[Asplenietum catalaunici]] Fernández Casas 1970 corr. O. Bolos et Vigo 1984 ; 

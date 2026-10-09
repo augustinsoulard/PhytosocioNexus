@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[084 - Androsacion vandellii.jpg]]
+
 Associations :
 - [[Androsacetum pyrenaicae]] J. Benito 2000 ; 
 - [[Androsacetum vandellii]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926 ; 

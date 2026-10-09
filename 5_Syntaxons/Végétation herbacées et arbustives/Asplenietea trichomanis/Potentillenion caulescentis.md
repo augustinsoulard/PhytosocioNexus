@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[099 - Potentillenion caulescentis.jpg]]
+
 Associations :
 - [[Androsacetum helveticae]] Braun-Blanquet 1918 ; 
 - [[Asplenio fontani-Erinetum alpini]] B. Foucault 2019 ; 

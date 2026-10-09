@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[056 - Rumici obtusifolii-Arrhenatherenion elatioris.jpg]]
+
 Associations :
 - [[Cirsio arvensis-Arrhenatheretum elatioris]] P. Lacroix et al. 2014 ; 
 - [[Dactylido glomeratae-Festucetum arundinaceae]] Tüxen ex W. Lohmeyer 1953 ; 

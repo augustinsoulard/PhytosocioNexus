@@ -1,7 +1,7 @@
 ---
 tags:
   - sous-alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Euphorbio paraliae-Ammophilion arenariae]]"
 date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
@@ -19,6 +19,7 @@ sources:
 
 ZH : non
 
+![[037 - Agropyro boreoatlantici-Minuartienion peploidis.jpg]]
 
 Associations :
 - [[Crithmo maritimi-Otanthetum maritimi]] (Pavillard 1928) Géhu 2009 ; 

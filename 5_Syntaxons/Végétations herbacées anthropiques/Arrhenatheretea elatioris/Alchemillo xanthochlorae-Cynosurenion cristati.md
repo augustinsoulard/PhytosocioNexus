@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[073 - Alchemillo xanthochlorae-Cynosurenion cristati.jpg]]
+
 Associations :
 - [[Alchemillo monticolae-Cynosuretum cristati]] Görs 1968 ; 
 - [[Cyano montani-Cynosuretum cristati]] B. Foucault 2016 ; 

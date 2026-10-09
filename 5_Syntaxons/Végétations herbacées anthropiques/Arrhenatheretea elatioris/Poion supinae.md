@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[071 - Poion supinae.jpg]]
+
 Associations :
 - [[Alchemillo monticolae-Poetum supinae]] Aichinger 1933 ; 
 - [[Gageo fistulosae-Poetum supinae]] Berset 1957 ; 

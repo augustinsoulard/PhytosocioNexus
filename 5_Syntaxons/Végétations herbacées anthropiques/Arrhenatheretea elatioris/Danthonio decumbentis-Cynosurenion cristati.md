@@ -21,5 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[075 - Danthonio decumbentis-Cynosurenion cristati.jpg]]
+
 Associations :
 - [[Luzulo campestris-Cynosuretum cristati]] (K. Meisel 1966) B. Foucault 2016 nom. inval. (16) et illeg. (31)

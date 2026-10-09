@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[051 - Sileno maritimae-Festucenion pruinosae.jpg]]
+
 Associations :
 - [[Apio graveolentis-Crithmetum maritimi]] Bioret et al. 2016 ; 
 - [[Apio graveolentis-Tussilaginetum farfarae]] Bioret et Géhu 2008 nom. inval. (2b, 3o) ; 

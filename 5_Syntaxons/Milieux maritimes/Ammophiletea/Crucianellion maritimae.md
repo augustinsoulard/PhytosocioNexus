@@ -22,6 +22,8 @@ sources:
 
 ZH : non
 
+![[041 - Crucianellion maritimae.jpg]]
+
 Associations : 
 - [[Artemisio glutinosae-Teucrietum maritimi]] Molin. & Tallon 1965
 - [[Crucianelletum maritimae]] Braun-Blanq. 1933

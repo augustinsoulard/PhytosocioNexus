@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[087 - Saxifragion pedemontanae.jpg]]
+
 Associations :
 - [[Saxifragetum pedemontanae]] Focquet 1982 ; 
 - [[Silenetum cordifoliae]] A. Lacoste 1975

@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[061 - Lino angustifolii-Oenanthenion pimpinelloidis.jpg]]
+
 Associations :
 - [[Carici divisae-Trisetetum flavescentis]] F. Hardy 2011 ; 
 - [[Centaureo nemoralis-Schedonoretum arundinaceae]] M. Gruber ex B. Foucault 2016 ; 

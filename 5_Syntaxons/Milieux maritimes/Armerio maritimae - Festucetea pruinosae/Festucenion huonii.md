@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[050 - Festucenion huonii.jpg]]
+
 Associations :
 - [[Festuco huonii-Plantaginetum littoralis]] Bioret et al. 1988 ; 
 - [[Sedo anglici-Festucetum armoricanae]] Bioret et al. 2014 ; 

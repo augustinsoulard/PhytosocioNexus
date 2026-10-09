@@ -21,7 +21,7 @@ sources:
 
 ZH : non
 
+![[043 - Bartramio strictae-Polypodion serrati.jpg]]
+
 Associations :
 - [[Anogrammo leptophyllae-Umbilicetum rupestris]] Amor et al. 1993
-
-#alliance 

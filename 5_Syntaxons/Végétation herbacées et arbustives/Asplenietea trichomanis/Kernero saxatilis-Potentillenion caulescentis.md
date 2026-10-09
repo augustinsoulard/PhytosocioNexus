@@ -21,5 +21,7 @@ sources:
 
 ZH : non
 
+![[098 - Kernero saxatilis-Potentillenion caulescentis.jpg]]
+
 Associations :
 - [[Drabo aizoidis-Daphnetum alpinae]] Chouard ex J.-M. Royer 1973

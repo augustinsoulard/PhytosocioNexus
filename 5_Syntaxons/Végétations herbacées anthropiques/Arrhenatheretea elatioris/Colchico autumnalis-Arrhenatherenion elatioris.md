@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[053 - Colchico autumnalis-Arrhenatherenion elatioris.jpg]]
+
 Associations :
 - [[Alchemillo monticolae-Arrhenatheretum elatioris]] Görs 1968 ; 
 - [[Alchemillo xanthochlorae-Arrhenatheretum elatioris]] Sougnez in Sougnez et Limbourg 1963 ; 

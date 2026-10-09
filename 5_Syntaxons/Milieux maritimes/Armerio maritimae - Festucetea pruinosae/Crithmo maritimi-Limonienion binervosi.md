@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[049 - Crithmo maritimi-Limonienion binervosi.jpg]]
+
 Associations :
 - [[Armerio maritimae-Cochlearietum officinalis]] Géhu et Géhu-Franck 1984 ; 
 - [[Armerio maritimae-Inuletum crithmoidis]] Géhu 2006 ; 

@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[104 - Violo biflorae-Cystopteridion alpinae.jpg]]
+
 Associations :
 - [[Violo biflorae-Cystopteridetum alpinae]] Fernández Casas 1970 ; 
 - [[Violo biflorae-Cystopteridetum fragilis]] Fernández Casas 1970 ; 

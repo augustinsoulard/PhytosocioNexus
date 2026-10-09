@@ -14,6 +14,8 @@ sources:
 
 ZH : non spécifié
 
+![[097 - Potentillion caulescentis.jpg]]
+
 Sous-Alliances :
 - [[Kernero saxatilis-Potentillenion caulescentis]] Theurillat in Theurillat et al. 1995
 - [[Potentillenion caulescentis]] Theurillat in Theurillat et al. 1995

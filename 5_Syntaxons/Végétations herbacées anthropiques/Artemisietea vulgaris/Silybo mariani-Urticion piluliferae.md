@@ -22,6 +22,8 @@ Espèces indicatrices : [[Carduus tenuiflorus]], [[Cirsium vulgare subsp. crinit
 
 ZH : non
 
+![[081 - Silybo mariani-Urticion piluliferae.jpg]]
+
 Associations :
 - [[Anthrisceto-Papaveretum setigeri]] Molinier et Tallon 1970 ; 
 - [[Carduo tenuiflori-Onopordetum illyrici]] (Molinier et Tallon 1950) B. Foucault 2012 ; 

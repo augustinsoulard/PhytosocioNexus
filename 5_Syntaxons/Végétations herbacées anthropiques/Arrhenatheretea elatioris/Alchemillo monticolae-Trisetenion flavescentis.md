@@ -19,6 +19,8 @@ sources:
 
 ZH : p.p.
 
+![[065 - Alchemillo monticolae-Trisetenion flavescentis.jpg]]
+
 Associations :
 - [[Alchemillo monticolae-Brometum mollis]] J.L. Richard ex Ferrez 2007 ; 
 - [[Heracleo sibirici-Arrhenatheretum elatioris]] B. Foucault 1987 nom. corr. ; 

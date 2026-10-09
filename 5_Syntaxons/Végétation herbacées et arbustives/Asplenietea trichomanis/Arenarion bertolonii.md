@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[095 - Arenarion bertolonii.jpg]]
+
 Associations :
 - [[Asplenio ruta-murariae-Arenarietum bertolonii]] Gamisans 1975 ; 
 - [[Elymo corsici-Ptychotetum saxifragae]] (Litardière 1928) Gamisans 1991

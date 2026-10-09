@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[057 - Trifolio montani-Arrhenatherenion elatioris.jpg]]
+
 Associations :
 - [[Agrostio capillaris-Saxifragetum granulatae]] Billy ex Thébaud et al. 2014 ; 
 - [[Arrhenatheretum elatioris]] Braun-Blanquet ex Scherrer 1925 ; 

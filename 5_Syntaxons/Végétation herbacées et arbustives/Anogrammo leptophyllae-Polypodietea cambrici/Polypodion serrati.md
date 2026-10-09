@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[045 - Polypodion serrati.jpg]]
+
 Associations :
 - [[Polypodietum serrati]] Braun-Blanquet 1931 ; 
 - [[Umbilico rupestris-Sedetum andegavense]] Delbosc et Bioret 2020

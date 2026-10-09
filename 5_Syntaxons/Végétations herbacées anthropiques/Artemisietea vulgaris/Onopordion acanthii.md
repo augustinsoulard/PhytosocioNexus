@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[083 - Onopordion acanthii.jpg]]
+
 Associations :
 - [[Artemisio vulgaris-Cirsietum eriophori]] Billy ex Felzines 2012 ; 
 - [[Carduo nutantis-Cirsietum richteriani]] Loidi 1983 ; 

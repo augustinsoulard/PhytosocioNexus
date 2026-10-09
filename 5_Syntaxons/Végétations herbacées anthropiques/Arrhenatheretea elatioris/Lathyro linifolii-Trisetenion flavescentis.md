@@ -19,6 +19,8 @@ sources:
 
 ZH : p.p.
 
+![[067 - Lathyro linifolii-Trisetenion flavescentis.jpg]]
+
 Associations :
 - [[Geranio sylvatici-Trisetetum flavescentis ]]R. Knapp ex Oberdorfer 1957 ; 
 - [[Meo athamantici-Festucetum rubrae]] Tüxen ex J. Bartsch et M. Bartsch 1940
