@@ -4,7 +4,7 @@ tags:
 syntaxon_superieur: "[[Potametalia]]"
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-10-09
 auteurs:
   - Augustin Soulard
 sources:
