@@ -1,7 +1,7 @@
 ---
 tags:
   - ordre
-syntaxon_superieur: "[[Koelerio-corynephoretea canescentis]]"
+syntaxon_superieur: "[[Koelerio-Corynephoretea canescentis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-15
