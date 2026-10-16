@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[126 - Arabidopsion thalianae.jpg]]
+
 Associations :
 - [[Anchuso arvensis-Arabidopsietum thalianae]] Billy 2002 nom. inval. (3b) ; 
 - [[Myosotido strictae-Arabidopsietum thalianae]] H. Passarge (1962) 1977 ; 

@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Geranio purpurei-Cardaminetalia hirsutae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[132 - Cotulo australis-Ranunculion parviflori.jpg]]
+
 Associations :
 - [[Cotulo australis-Ranunculetum parviflori]] Misset 2019 ; 
 - [[Sherardio arvensis-Ranunculetum parviflori]] Misset 2019

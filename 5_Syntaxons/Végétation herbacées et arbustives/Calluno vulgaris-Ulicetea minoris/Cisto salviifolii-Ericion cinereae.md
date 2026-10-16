@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[115 - Cisto salviifolii-Ericion cinereae.jpg]]
+
 Associations : 
 - [[Cisto salviifolii-Ericetum cinereae]] Guitton et al. 2017 ; 
 - [[Cytiso oromediterranei-Ericetum cinereae]] B. Foucault et E. Henry in B. Foucault 2017 ; 

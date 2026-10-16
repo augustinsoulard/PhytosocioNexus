@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p. (oui pour [[F4.12]]/[[31.12]]/[[4020-1]], non pour les autres)
 
+![[116 - Daboecion cantabricae.jpg]]
+
 Associations :
 - [[Cirsio filipenduli-Ericetum ciliaris]] Braun-Blanquet et al. 1964 ; 
 - [[Erico tetralicis-Ulicetum gallii]] (Tarazona et Zaldívar 1987) Loidi et al. in M. Herrera 1995 ; 

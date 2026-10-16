@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[111 - Chenopodion rubri.jpg]]
+
 Associations :
 - [[Amarantho emarginati-Chenopodietum rubri]] Felzines et Loiseau 2006 ; 
 - [[Bidenti tripartitae-Brassicetum nigrae]] P. Allorge 1921 ; 

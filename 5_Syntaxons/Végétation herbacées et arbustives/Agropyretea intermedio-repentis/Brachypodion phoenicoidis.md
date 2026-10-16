@@ -33,5 +33,3 @@ Associations :
 - [[Helichryso italici-Dittrichietum viscosae]] Di Pietro et al. ex B. Foucault et Jasprica 2019 ; 
 - [[Loto hirsuti-Brachypodietum phoenicoidis ]]Choisnet 2019 nom. ined. (1) ; 
 - [[Trisetario-Brachypodietum phoenicoidis]] (A. Bolòs et O. Bolòs 1950) O. Bolòs 1956
-
-#alliance 

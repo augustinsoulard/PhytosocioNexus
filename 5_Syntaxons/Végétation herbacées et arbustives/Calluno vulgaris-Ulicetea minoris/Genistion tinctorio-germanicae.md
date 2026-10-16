@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[122 - Genistion tinctorio-germanicae.jpg]]
+
 Associations :
 - [[Antherico liliaginis-Callunetum vulgaris]] G. Stöcker 1959 ; 
 - [[Calluno vulgaris-Brachypodietum pinnati]] J.-M. Royer in J.-M. Royer et al. 2006 ; 

@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[130 - Valantio muralis-Galion muralis.jpg]]
+
 Associations :
 - [[Biscutello cichoriifoliae-Geranietum purpurei]] Choisnet 2019 nom. ined. (1) et inval. (4) ; 
 - [[Fumario capreolatae-Torilidetum nodosae]] B. Foucault 2009 ; 

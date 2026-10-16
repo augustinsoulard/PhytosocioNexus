@@ -21,6 +21,8 @@ sources:
 
 ZH : oui
 
+![[110 - Bidention tripartitae.jpg]]
+
 Associations :
 - [[Alopecuretum aequalis]] Soó ex F. Runge 1966 ; 
 - [[Alopecuretum aequalis]] T. Müller 1975 ; 

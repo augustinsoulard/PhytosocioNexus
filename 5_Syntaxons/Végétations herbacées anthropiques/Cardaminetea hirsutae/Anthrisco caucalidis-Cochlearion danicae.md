@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[125 - Anthrisco caucalidis-Cochlearion danicae.jpg]]
+
 Associations :
 - [[Anthrisco caucalidis-Cochlearietum danicae]] Bioret et al. 1993 ; 
 - [[Claytonio perfoliatae-Anthriscetum caucalidis]] Izco et al. 1978 ; 

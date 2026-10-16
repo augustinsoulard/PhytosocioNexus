@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Thero-Atriplicetalia]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -13,6 +13,8 @@ sources:
 Végétation annuelle halo-nitrophile, psammophile, pionnière, des laisses de mer des rives méditerranéennes à cantabro-atlantiques. 
 
 Espèces indicatrices : [[Euphorbia peplis]], [[Polygonum maritimum]].
+
+![[114 - Euphorbion peplidis.jpg]]
 
 Associations :
 - [[Atriplicetum hastato-tornabenei]] O. Bolòs 1962 ; 

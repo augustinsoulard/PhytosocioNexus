@@ -1,6 +1,7 @@
 ---
 tags:
-syntaxon_superieur:
+  - "#alliance"
+syntaxon_superieur: "[[Geranio purpurei-Cardaminetalia hirsutae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -19,6 +20,8 @@ sources:
 	- HIC EUR : NC
 
 ZH : non
+
+![[129 - Geranio pusilli-Anthriscion caucalidis.jpg]]
 
 Associations :
 - [[Cardamino hirsutae-Erophiletum praecocis]] O. Bolòs 1981 ; 

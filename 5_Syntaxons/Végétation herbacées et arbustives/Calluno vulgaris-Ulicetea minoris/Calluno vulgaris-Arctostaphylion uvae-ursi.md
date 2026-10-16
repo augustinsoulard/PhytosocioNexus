@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[121 - Calluno vulgaris-Arctostaphylion uvae-ursi.jpg]]
+
 Associations :
 - [[Arctostaphylo uvae-ursi-Callunetum vulgaris]] M. Gruber 1996 ; 
 - [[Arctostaphylo uvae-ursi-Ericetum vagantis]] Corriol et Laigneau in Corriol et al. 2020 ; 

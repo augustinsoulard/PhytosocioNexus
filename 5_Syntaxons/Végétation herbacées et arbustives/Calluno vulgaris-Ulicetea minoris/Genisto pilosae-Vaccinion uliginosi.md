@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[123 - Genisto pilosae-Vaccinion uliginosi.jpg]]
+
 Associations :
 - [[Alchemillo saxatilis-Vaccinietum uliginosi]] Thébaud ex Schaminée et al. 1993 ;
 - [[Allio victorialis-Vaccinietum myrtilli]] Schaminée et Hennekens ex Thébaud et al. 2014 ; 

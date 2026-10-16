@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Bromo sterilis-Cardaminetalia hirsutae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[124 - Anisantho sterilis-Geranion purpurei.jpg]]
+
 Associations :
 - [[Androsaco elongatae-Arabidopsietum thalianae]] Misset 2019 ; 
 - [[Atocioni armeriae-Arabidopsietum thalianae]] Misset 2019 ; 

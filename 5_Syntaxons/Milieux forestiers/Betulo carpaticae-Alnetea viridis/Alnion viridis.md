@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[105 - Alnion viridis.jpg]]
+
 Associations :
 - [[Alnetum suaveolentis]] Litardière et Malcuit 1926 ; 
 - [[Alnetum viridis]] Braun-Blanquet ex Beger 1922 ; 

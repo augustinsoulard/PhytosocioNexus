@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[120 - Ulici minoris-Ericenion ciliaris.jpg]]
+
 Associations :
 - [[Arrhenathero thorei-Ericetum ciliaris]] Géhu et Géhu-Franck 1975 ; 
 - [[Calluno vulgaris-Ericetum tetralicis]] Géhu et Wattez 1975 ; 

@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[107 - Salicion helveticae.jpg]]
+
 Associations :
 - [[Salicetum helveticae]] Braun-Blanquet et al. 1954 ; 
 - [[Salicetum lapponum]] Zlatník 1928

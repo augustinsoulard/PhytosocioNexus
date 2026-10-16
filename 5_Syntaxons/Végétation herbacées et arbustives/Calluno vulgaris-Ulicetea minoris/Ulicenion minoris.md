@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[119 - Ulicenion minoris.jpg]]
+
 Associations :
 - [[Agrostio curtisii-Ericetum cinereae]] (Le Normand 1966) Be. Clément et al. 1978 ; 
 - [[Agrostio setaceae-Ericetum cinereae]] (Be. Clément et al. 1978) Géhu et al. 1986 ; 

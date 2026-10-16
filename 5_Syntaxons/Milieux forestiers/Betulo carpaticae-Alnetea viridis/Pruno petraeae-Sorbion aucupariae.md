@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[106 - Pruno petraeae-Sorbion aucupariae.jpg]]
+
 Associations :
 - [[Ribeso petraei-Sorbetum aucupariae]] (Issler 1932) Boeuf et N. Simler in Boeuf 2012 ; 
 - [[Sorbetum]] Lachapelle in G. Cusset et Lachapelle 1964 nom. inval. (3f)
