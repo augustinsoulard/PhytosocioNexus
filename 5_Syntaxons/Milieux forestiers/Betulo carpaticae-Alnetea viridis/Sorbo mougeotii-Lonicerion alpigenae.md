@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[109 - Sorbo mougeotii-Lonicerion alpigenae.jpg]]
+
 Associations :
 - [[Aceri pseudoplatani-Salicetum appendiculatae]] (Braun-Blanquet 1950) Oberdorfer 1957 ; 
 - [[Cotoneastro integerrimi-Sorbetum chamaemespili]] Gallandat et al. 1995 ; 

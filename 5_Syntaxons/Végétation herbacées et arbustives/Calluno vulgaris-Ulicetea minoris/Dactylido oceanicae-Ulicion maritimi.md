@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[117 - Dactylido oceanicae-Ulicion maritimi.jpg]]
+
 Associations :
 - [[Carici arenariae-Ulicetum maritimae]] (Wattez et Godeau 1986) Bioret et Géhu 2008 ; 
 - [[Dactylido oceanicae-Sarothamnetum maritimi]] (Géhu 1963) Géhu et Géhu-Franck 1975 ; 

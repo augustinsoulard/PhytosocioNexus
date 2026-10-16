@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[108 - Salicion pentandrae.jpg]]
+
 Associations :
 - [[Chaerophyllo hirsuti-Salicetum bicoloris]] Boeuf et N. Simler in Boeuf 2014 ; 
 - [[Salicetum auritae-bicoloris]] (Issler 1925) Boeuf et N. Simler in Boeuf 1911 ; 

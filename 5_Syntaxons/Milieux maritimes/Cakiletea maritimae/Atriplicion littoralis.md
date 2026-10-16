@@ -21,6 +21,8 @@ sources:
 
 ZH : oui / p.p.
 
+![[113 - Atriplicion littoralis.jpg]]
+
 Associations :
 - [[Atriplicetum littoralis]] (W.F. Christiansen 1933) Tüxen 1937 ; 
 - [[Atriplicetum salinae lotharingiense]] J. Duvigneaud 1967 ; 

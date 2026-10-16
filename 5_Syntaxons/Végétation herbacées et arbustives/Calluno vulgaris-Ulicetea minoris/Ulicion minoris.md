@@ -14,6 +14,8 @@ sources:
 
 ZH : non spécifié
 
+![[118 - Ulicion minoris.jpg]]
+
 Sous-alliances :
 - [[Ulicenion minoris]] Géhu et Botineau in Bardat et al. 2004
 - [[Ulici minoris-Ericenion ciliaris]] (Géhu 1975) Géhu et Botineau in Bardat et al. 2004
