@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[138 - Genistion salzmannii.jpg]]
+
 Associations :
 - [[Alysso robertiani-Genistetum salzmannii]] Ro. Molinier 1959 nom. invers. ; 
 - [[Helichryso italici-Genistetum salzmannii]] Gamisans 1975

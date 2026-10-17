@@ -21,6 +21,8 @@ sources:
 
 ZH : non
 
+![[135 - Festucenion airoidis.jpg]]
+
 Associations :
 - [[Arenario grandiflorae-Festucetum yvesii]] Baudière et Serve 1975 nom. inval. (45) ; 
 - [[Hieracio pumili-Festucetum supinae]] Braun-Blanquet 1948 ; 

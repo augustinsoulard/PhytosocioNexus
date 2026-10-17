@@ -21,6 +21,8 @@ sources:
 
 ZH : p.p.
 
+![[145 - Polysticho setiferi-Fraxinion excelsioris.jpg]]
+
 Associations :
 - [[Aro neglecti-Fraxinetum excelsioris]] Géhu et Géhu-Franck 1988 ; 
 - [[Aro neglecti-Ulmetum minoris]] Géhu et Géhu-Franck ex Renaux et al. 2019 ; 

@@ -14,12 +14,18 @@ sources:
 
 **Espèces caractéristiques** : [[Jasione crispa]], [[Androsace carnea]], [[Thymus nervosus]], [[Primula integrifolia]], [[Festuca glacialis]], [[Festuca eskia]], [[Sibbaldia procumbens]], [[Luzula alpino-pilosa]], [[Oreochloa disticha subsp. blanka]]
 
+Sous-associations : 
+- [[Festucenion airoidis]] G. Peyre et X. Font 2011
+- [[Oreochloo blankae-Caricenion curvulae]] G. Peyre et X. Font ex Corriol in Corriol et Mikolajczak 2017
+
 - **Correspondances typologiques** :
 	- EUNIS : [[E4.34]] - [[E4.344]]
 	- CB : [[36.34]] - [[36.344]]
 	- HIC EUR : NC
 
 ZH : non
+
+![[134 - Festucion supinae.jpg]]
 
 Sous-alliances :
 - [[Festucenion airoidis]] G. Peyre et X. Font 2011

@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Salicetalia auritae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,7 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Associaitons :
+![[142 - Salicion cinereae.jpg]]
+
+Associations :
 - [[Eriophoro angustifolii-Salicetum auritae]] H. Passarge et Ger. Hofmann 1968 ; 
 - [[Frangulo alni-Populetum tremulae]] Felzines in J.-M. Royer et al. 2006 ; 
 - [[Frangulo alni-Salicetum auritae]] Tüxen 1937 ; 

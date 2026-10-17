@@ -17,4 +17,4 @@ sources:
 
 **Écologie** : Végétation nitrophile située aux abords des reposoirs de taureaux. Étage mésoméditerranéen. 
 
-**Chorologie BdR** : Camargue où la présence de cette association devra être confirmée. Bibliographie : Molinier & Tallon 1965a, 1970 ; Molinier 1980.
+**Chorologie BdR** : Camargue où la présence de cette association devra être confirmée.

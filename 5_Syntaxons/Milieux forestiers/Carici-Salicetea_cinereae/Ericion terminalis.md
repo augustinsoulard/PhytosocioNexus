@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur:
+syntaxon_superieur: "[[Salicetalia auritae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-06-14
@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[139 - Ericion terminalis.jpg]]
+
 Associations :
 - [[Carici microcarpae-Ericetum terminalis]] Litardière et Malcuit 1926 ; 
 - [[Carici microcarpae-Salicetum atrocinereae]] Angius et Bacchetta 2009 ; 
