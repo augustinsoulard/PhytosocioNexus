@@ -20,4 +20,3 @@ Chorologie BdR (13) : Présence possible dans toutes les plaines du département
 
 Note : Cette association se rapproche des communautés rudérales et post-culturales de la classe des [[Digitario sanguinalis-Eragrostietea minoris]] mais la fréquence des espèces messicoles peut appuyer son maintien au sein de la présente classe. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

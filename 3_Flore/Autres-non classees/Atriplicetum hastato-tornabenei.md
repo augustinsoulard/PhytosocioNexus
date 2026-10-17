@@ -23,4 +23,3 @@ Chorologie BdR (13) : Rives de l’étang de Berre.
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression (perturbation annuelle), située au contact de la végétation des dunes embryonnaires de l’[[Ammophilion australis]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

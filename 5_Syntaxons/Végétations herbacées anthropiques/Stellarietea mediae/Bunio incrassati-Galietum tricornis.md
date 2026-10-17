@@ -18,4 +18,3 @@ Espèces indicatrices : [[Galium tricornutum]], [[Neslia paniculata subsp. thrac
 
 Chorologie BdR (13) : Communauté la plus commune de la classe et certainement la plus variable, elle est présente dans une grande partie du département à l’exception de la Camargue et du nord-ouest. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

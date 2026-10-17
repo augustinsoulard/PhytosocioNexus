@@ -23,4 +23,3 @@ Chorologie BdR (13) : Camargue, autour du Vaccarès et étang de Berre.
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression primaire, située au contact des végétations des lagunes ([[Ruppietalia maritimae]]) et des sansouires vivaces ([[Salicornietea fruticosae]]).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

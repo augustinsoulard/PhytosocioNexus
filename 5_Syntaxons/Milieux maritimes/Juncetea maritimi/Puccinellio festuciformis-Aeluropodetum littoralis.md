@@ -22,4 +22,3 @@ Chorologie BdR (13) : Camargue.
 
 Précision dynamique : Généralement en contact avec le [[Statico bellidifoliae-Salicornietum fruticosae]] Braun-Blanq. 1933. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -42,4 +42,3 @@ Associations :
 - [[Salvio pratensis-Festucetum burgundianae]] Choisnet 2019 nom. ined. (1) ; 
 - [[Staehelino dubiae-Dorycnietum suffruticosi]] Tomaselli 1949 ; Stipetum junceae Liou 1929
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

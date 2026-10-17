@@ -21,4 +21,3 @@ Espèces indicatrices : [[Cymodocea nodosa]].
 
 Chorologie BdR (13) : Végétation rare, observée en quelques points du département (golfe de Fos, littoral de la Nerthe et des Calanques), peut-être en expansion récente avec le réchauffement de l’eau de mer. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

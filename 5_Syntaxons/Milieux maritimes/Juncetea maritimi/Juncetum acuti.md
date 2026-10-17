@@ -22,4 +22,3 @@ Chorologie BdR (13) : Camargue littorale, plus ponctuelle en Camargue interne et
 
 Précision dynamique : Se situe topographiquement en position intermédiaire entre les végétations psammophiles des [[Saccharetalia ravennae]] et les végétations halophiles des bassins saumâtres relevant des [[Salicornietea fruticosae]]. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

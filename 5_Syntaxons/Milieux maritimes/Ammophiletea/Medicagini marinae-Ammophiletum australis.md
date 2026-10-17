@@ -23,4 +23,3 @@ Chorologie BdR (13) : Littoral de la Camargue (autrefois dans le golfe de Fos-su
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression située généralement entre la dune embryonnaire ([[Echinophoro spinosae-Elymetum farcti]]) et la dune en voie de fixation ([[Crucianelletalia maritimae]]).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -18,4 +18,3 @@ Espèces indicatrices : [[Roemeria hybrida]], [[Hypecoum pendulum]].
 
 Chorologie BdR (13) : Entre Aix-en-Provence et Lançon-de-Provence ; région d’Allauch. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -22,4 +22,3 @@ Chorologie BdR (13) : Îles des archipels du Frioul et de Riou, littoral des Cal
 
 Précision dynamique : Cette végétation pionnière s’insère dans les mosaïques de végétation halophile des rochers littoraux du [[Crithmo maritimi-Limonietum pseudominuti]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -23,4 +23,3 @@ Écologie : Végétation xérophile et thermophile des pentes bien exposées et
 
 Chorologie BdR (13) : Variante à Helianthemum marifolium : secteurs abrités et côtiers de la Nerthe et collines de Vitrolles et de Velaux près de l’étang de Berre. Variante classique : adrets de la chaîne de l’Étoile, Calanques (Marseilleveyre, adrets de Carpiagne) ; cap Canaille (jusqu’aux falaises Soubeyrannes).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -20,4 +20,3 @@ Ordres :
 - [[Pyro spinosae-Rubetalia ulmifolii]] Biondi et al. in Biondi et al. 2014
 - [[Sambucetalia racemosae]] Oberdorfer ex H. Passarge in Scamoni 1963
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

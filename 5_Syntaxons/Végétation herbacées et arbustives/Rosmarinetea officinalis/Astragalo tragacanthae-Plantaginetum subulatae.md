@@ -22,4 +22,3 @@ Chorologie BdR (13) : Archipel du Frioul, Calanques (autour du cap Croisette ent
 
 Précision dynamique : Végétation primaire stable située à l’interface des végétations halophiles des [[Crithmo maritimi-Staticetea]] et des végétations arbustives à potentiel évolutif des [[Rosmarinetea officinalis]] ou des [[Quercetea ilicis]]. Elle peut s’étendre ponctuellement et s’insérer dans la dynamique secondaire en cas de perturbation de ces dernières. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -22,4 +22,3 @@ Précision dynamique : Cette végétation pionnière s’insère dans les mosaï
 
 Note Catalogue BdR (13) : La conception qu’avait Molinier de son [[Camphorosmo monspeliacae-Frankenietum hirsutae]] apparaît un peu large et laisse clairement apparaître [[Anthemis secundiramea]] et un cortège d’espèces annuelles qui relèvent de ce groupement. Le groupement à [[Anthemis secundiramea]] des Bouches-du-Rhône pourrait être rapproché du [[Frankenio pulverulentae-Anthemidetum secundirameae]] Brullo & Scelsi 1998 de Sicile mais des relevés complémentaires seront nécessaires pour statuer. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -25,4 +25,3 @@ Précision dynamique : Végétation pionnière sans évolution potentielle situ�
 
 Note catalogue BdR : L’identité exacte de la [[Sarcocornia perennis]] présente en Camargue reste à étudier et nous préférons pour l’instant ne pas la nommer [[Salicornia sarcocornia subsp. alpini]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

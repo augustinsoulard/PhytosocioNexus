@@ -22,4 +22,3 @@ Chorologie BdR (13) : Camargue.
 
 Note Catalogue BdR (13) : Géhu et al. 1992b identifient en Camargue un groupement distinct à [[Spartina patens]] d’apparence moins hygrophile et colonisateur, situé en position frontale prédunaire qu’ils intègrent aux [[Ammophiletea]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

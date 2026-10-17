@@ -22,4 +22,3 @@ Chorologie BdR (13) : Camargue.
 
 Note Catalogue BdR (13) : Cette association montre certaines affinités avec la classe des [[Koelerio glaucae-Corynephoretea canescentis]] Klika in Klika & V. Novák 1941 par la présence d’espèces psammophiles vivaces et annuelles non spécialement littorales. Le positionnement adopté ici pourrait être revu dans le cadre d’une synthèse sur cette dernière classe. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

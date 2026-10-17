@@ -22,4 +22,3 @@ Chorologie BdR (13) : Cordon dunaire de la Camargue ; localisée et même margin
 
 Précision dynamique : Se place en situation intermédiaire entre les végétations dunaires psammophiles des [[Ammophiletea]] et les végétations halophiles des bassins saumâtres relevant des [[Salicornietea fruticosae]]. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

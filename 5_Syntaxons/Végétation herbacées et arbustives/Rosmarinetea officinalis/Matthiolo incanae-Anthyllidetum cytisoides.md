@@ -22,4 +22,3 @@ Chorologie BdR (13) : Falaises Soubeyranes du cap Canaille entre environ 10 et 2
 
 Précision dynamique : Végétation primaire stable située à l’interface des végétations halophiles des [[Crithmo maritimi-Staticetea]] et des végétations arbustives à potentiel évolutif des [[Quercetea ilicis]]. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -22,4 +22,3 @@ Chorologie BdR (13) : Massifs de la partie orientale du département aux exposit
 
 Précision dynamique : Végétation plutôt stable sans réel potentiel évolutif dans des conditions édaphiques et géomorphologiques particulières.
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]
