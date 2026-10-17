@@ -22,4 +22,3 @@ Chorologie BdR (13) : Îles et îlots des archipels du Frioul et de Riou.
 
 Précision dynamique : Cette végétation semble dériver, par eutrophisation, de l’extrême dégradation des sols occupés auparavant par les fourrés littoraux du [[Myrto communis-Pistacietum lentisci]] ([[Quercetea ilicis]]). 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

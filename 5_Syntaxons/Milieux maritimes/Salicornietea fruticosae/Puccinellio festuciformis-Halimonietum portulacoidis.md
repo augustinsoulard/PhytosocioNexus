@@ -19,4 +19,3 @@ Espèces indicatrices : [[Halimione portulacoides]], [[Puccinellia festuciformis
 
 Chorologie BdR (13) : Camargue. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -22,4 +22,3 @@ Chorologie BdR (13) : Plutôt dans les plaines et vallons de la partie orientale
 
 Précision dynamique : Colonisée par [[Pinus halepensis]], cette végétation évolue ensuite vers la chênaie blanche méditerranéenne ([[Lathyro latifolii-Quercetum pubescentis]]).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

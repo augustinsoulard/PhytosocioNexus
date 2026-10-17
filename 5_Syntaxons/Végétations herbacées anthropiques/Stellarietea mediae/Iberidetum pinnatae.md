@@ -20,4 +20,3 @@ Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium p
 
 Chorologie BdR (13) : Végétation principalement localisée entre Aix-en-Provence et Salon-de-Provence et au nord de la montagne Sainte-Victoire. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

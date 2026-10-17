@@ -19,4 +19,3 @@ Espèces indicatrices : [[Posidonia oceanica]].
 
 Chorologie BdR (13) : Tout le littoral du département à l’exception de la Camargue. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

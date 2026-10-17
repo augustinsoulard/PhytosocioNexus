@@ -20,4 +20,3 @@ Chorologie BdR (13) : Camargue (extrémité sud-occidentale).
 
 Précision dynamique : Évolution lente vers des fourrés du [[Juniperion turbinatae]] ([[Quercetea ilicis]]). 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

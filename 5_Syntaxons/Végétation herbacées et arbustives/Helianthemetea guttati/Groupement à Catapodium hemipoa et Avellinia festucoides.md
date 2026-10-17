@@ -21,4 +21,3 @@ Chorologie BdR (13) : Camargue ; groupement affine dans la sablière d'Anjarre d
 
 Précision dynamique : Végétation liée à l’altération des systèmes dunaux par le pâturage ou le piétinement peu intensif, s’intégrant en mosaïque au sein des végétations psammophiles vivaces spécifiques des dunes en voie de fixation ([[Crucianelletalia maritimae]]) avec lesquelles elle sont liées dynamiquement dans la série conduisant au bois de genévriers ([[Phillyreo angustifoliae-Juniperetum turbinatae]] ; [[Quercetea ilicis]]).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

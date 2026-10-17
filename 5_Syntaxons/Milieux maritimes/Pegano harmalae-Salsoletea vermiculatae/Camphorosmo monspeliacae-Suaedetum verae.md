@@ -20,4 +20,3 @@ Chorologie BdR (13) : Archipel du Frioul ; à préciser sur les îles de Maïre 
 
 Précision dynamique : Végétation pionnière des substrats rocheux perturbés du littoral sans réel potentiel d’évolution pouvant certainement évoluer progressivement, après lessivage du substrat, vers des fourrés du [[Myrto communis-Pistacietum lentisci]] ([[Quercetea ilicis]]).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -25,4 +25,3 @@ Espèces indicatrices : [[Limonium bellidifolium]], [[Limonium narbonense]], [[S
 
 Chorologie BdR (13) : Camargue, étang de Berre. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

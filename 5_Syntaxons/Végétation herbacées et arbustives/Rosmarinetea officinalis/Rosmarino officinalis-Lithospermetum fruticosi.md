@@ -22,4 +22,3 @@ Chorologie BdR (13) : Contreforts de la Sainte-Baume, chaîne de l’Étoile, co
 
 Note : Communauté peut-être originale, aujourd’hui incluse dans une conception large de l’association décrite du Languedoc par Braun-Blanquet possédant de nombreuses variantes. Une étude à l’échelle de la Méditerranée française continentale permettrait d’y voir plus clair. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

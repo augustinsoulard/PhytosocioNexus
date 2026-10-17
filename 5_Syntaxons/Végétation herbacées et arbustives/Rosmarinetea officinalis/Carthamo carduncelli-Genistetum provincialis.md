@@ -22,4 +22,3 @@ Espèces indicatrices : [[Genista provincialis]], [[Carthamus carduncellus]], [[
 
 Chorologie BdR (13) : Saint-Paul-lès-Durance
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

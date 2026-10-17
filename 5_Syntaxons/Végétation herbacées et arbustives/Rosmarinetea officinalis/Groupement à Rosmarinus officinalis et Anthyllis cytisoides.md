@@ -18,4 +18,3 @@ Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [
 
 Chorologie BdR (13) : Secteur du cap Canaille au Bec de l’Aigle (St-Frétouse) entre Cassis et La Ciotat surtout dans la partie sud où cette végétation relaie l’[[Helianthemo syriaci-Ericetum multiflorae]]. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

@@ -20,4 +20,3 @@ Espèces indicatrices : [[Carex extensa]], [[Juncus maritimus]], [[Limonium narb
 
 Chorologie BdR (13) : Camargue. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

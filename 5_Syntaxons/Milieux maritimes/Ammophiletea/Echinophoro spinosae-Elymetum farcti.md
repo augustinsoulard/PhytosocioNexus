@@ -23,4 +23,3 @@ Chorologie BdR (13) : Littoral de la Camargue, cordon du Jaï en bordure de l’
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression généralement en contact avec la végétation des laisses de mer ([[Cakiletea maritimae]]) et, lorsque les accumulations sableuses sont conséquentes, avec celle de la dune ([[Medicagini marinae-Ammophiletum australis]]).
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

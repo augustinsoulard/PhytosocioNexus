@@ -21,4 +21,3 @@ Chorologie BdR (13) : Camargue.
 
 Précision dynamique : Végétation pionnière transitoire en contact avec la végétation des laisses de mer ([[Cakiletea maritimae]]) et celle de la dune de l’[[Echinophoro spinosae-Elymetum farcti]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

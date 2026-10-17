@@ -18,4 +18,3 @@ Espèces indicatrices : [[Azolla filiculoides]], [[Lemna minor]], [[Wolffia arrh
 
 Chorologie BdR (13) : Camargue, Crau, contre-canaux du Rhône. 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

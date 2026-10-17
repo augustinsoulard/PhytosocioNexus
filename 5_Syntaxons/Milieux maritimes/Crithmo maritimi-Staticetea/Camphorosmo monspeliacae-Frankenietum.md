@@ -20,4 +20,3 @@ Chorologie BdR (13) : Archipel de Riou et du Frioul, cap Croisette, plus localis
 
 Précision dynamique : Communauté secondaire dérivée, par dégradation, du [[Crithmo maritimi-Limonietum pseudominuti]] mais surtout des garrigues littorales halotolérantes de l’[[Euphorbion pithyusae]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

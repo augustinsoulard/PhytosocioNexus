@@ -22,4 +22,3 @@ Chorologie BdR (13) : Plaines et vallons de la partie orientale du département 
 
 Précision dynamique : Evolution vers la chênaie mixte mésoméditerranéenne ([[Lathyro latifolii-Quercetum pubescentis]] Loisel 1976). 
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

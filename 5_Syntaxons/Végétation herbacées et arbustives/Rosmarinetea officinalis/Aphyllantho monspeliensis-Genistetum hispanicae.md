@@ -22,4 +22,3 @@ Chorologie BdR (13) : Reliefs de la partie est du département ; Saint-Paul-lès
 
 Précision dynamique : En relation dynamique avec les pinèdes de pin d’Alep qui préfigurent une évolution vers le [[Lathyro latifolii-Quercetum pubescentis]] ; souvent en situation d’ourlet.
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]

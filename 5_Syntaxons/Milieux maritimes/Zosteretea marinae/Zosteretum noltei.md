@@ -21,4 +21,3 @@ Chorologie BdR (13) : Golfe de Fos ; étang de Berre ; Camargue (Vaccarès).
 
 Note : Cette végétation est à distinguer des communautés de lagunes temporaires relevant des [[Ruppietalia maritimae]] pouvant intégrer parfois [[Zostera noltei]].
 
-Sources : [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf|Noble et Baret 2019]]
