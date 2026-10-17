@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[395 - Asplenio billotii-Cymbalarion muralis.jpg]]
 Associations :
 - [[Asplenio billotii-Cymbalarietum muralis]] Géhu 2005 ; 
 - [[Polypodio interjecti-Erigerontetum karvinskiani]] Géhu 2005

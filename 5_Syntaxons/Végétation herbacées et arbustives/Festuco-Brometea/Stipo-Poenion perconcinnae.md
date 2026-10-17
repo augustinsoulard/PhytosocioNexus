@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[256 - Stipo-Poenion perconcinnae.jpg]]
 Associations :
 - [[Astragalo-Stipetum pennatae]] Braun-Blanquet 1961 ; 
 - [[Bromo-Kolerietum vallesianae]] Braun-Blanquet 1961 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[529 - Caricenion pulchello-trinervis.jpg]]
 Associations :
 - [[Acrocladio cuspidati-Salicetum arenariae]] Braun-Blanquet et De Leeuw 1936 ; 
 - [[Agrostio marinae-Pedicularietum palustris]] Géhu et al. 2008 ; 

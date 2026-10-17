@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[205 - Eu-Festucenion scopariae.jpg]]
 Associations :
 - [[Festucetum scopariae]] Braun-Blanquet 1948 ;
 - [[Festuco scopariae-Seslerietum caeruleae]] Susplugas 1942 ;

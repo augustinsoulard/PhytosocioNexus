@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[498 - Frankenion pulverulentae.jpg]]
 Associations :
 - [[Junco bufonii-Chenopodietum chenopodioidis]] Géhu et Géhu-Franck 1984 ; 
 - [[Parapholidetum filiformis]] Brullo et al. 1994 ; 

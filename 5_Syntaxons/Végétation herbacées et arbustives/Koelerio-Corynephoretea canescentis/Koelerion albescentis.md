@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[325 - Koelerion albescentis.jpg]]
 Associations :
 - [[Armerio arenariae-Rosetum pimpinellifoliae]] Géhu 2000 ; 
 - [[Asperulo densiflorae-Galietum maritimi]] Géhu 1995 nom. ined. (1) ; 

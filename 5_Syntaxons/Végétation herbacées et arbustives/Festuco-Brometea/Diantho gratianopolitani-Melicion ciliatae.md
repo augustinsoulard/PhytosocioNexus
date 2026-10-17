@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[250 - Diantho gratianopolitani-Melicion ciliatae.jpg]]
 Associations :
 - [[Diantho gratianopolitani-Festucetum pallentis]] Gauckler 1938 ; 
 - [[Diantho gratianopolitani-Festucetum patzkei]] (J.-M. Royer 2011) J.-M. Royer et Ferrez 2020 ; 

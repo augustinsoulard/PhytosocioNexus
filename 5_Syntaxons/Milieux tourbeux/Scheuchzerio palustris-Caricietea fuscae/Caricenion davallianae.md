@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[525 - Caricenion davallianae.jpg]]
 Associations :
 - [[Carici davallianae-Eriophoretum latifolii]] Nègre 1972 ; 
 - [[Carici mairei-Pinguiculetum grandiflorae]] B. Foucault 2019 ; 

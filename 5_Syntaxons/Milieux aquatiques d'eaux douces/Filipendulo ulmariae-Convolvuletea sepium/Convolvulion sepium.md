@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[268 - Convolvulion sepium.jpg]]
 Associations :
 - [[Calystegio sepium-Asteretum lanceolati]] Holzner et al. ex H. Passarge 1993 ; 
 - [[Calystegio sepium-Phragmitetum australis]] J.-M. Royer et al. in J.-M. Royer et al. 2006 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[338 - Carici nigrae-Juncion bulbosi.jpg]]
 Associations :
 - [[Juncetum conglomerato-bulbosi]] B. Foucault et al. in B. Foucault 2016 ; 
 - [[Lythro portulae-Eleocharitetum acicularis]] Gamisans 1975 ; 

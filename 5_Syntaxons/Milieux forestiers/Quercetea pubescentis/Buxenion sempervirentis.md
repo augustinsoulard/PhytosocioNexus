@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[445 - Buxenion sempervirentis.jpg]]
 Associations :
 - [[Asperulo odorae-Taxetum baccatae]] Gamisans 1970 ; 
 - [[Cardamino chelidoniae-Buxetum sempervirentis]] Gamisans 1975 ; 

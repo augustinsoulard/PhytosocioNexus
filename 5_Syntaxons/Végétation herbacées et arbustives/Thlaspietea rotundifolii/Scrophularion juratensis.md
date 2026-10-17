@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[589 - Scrophularion juratensis.jpg]]
 Associations :
 - [[Gymnocarpietum robertiani]] Kuhnholtz-Lordat 1937 nom. inval. (22) ; 
 - [[Rumicetum scutati]] (A. Faber 1936) Kuhnholtz-Lordat 1937 ; 

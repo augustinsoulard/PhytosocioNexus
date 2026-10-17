@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[223 - Seslerion caeruleae.jpg]]
 Associations :
 - [[Artemisio glacialis-Festucetum pumilae]] L. Richard ex Corriol et al. 2023 ;
 - [[Astragalo leontini-Seslerietum caeruleae]] L. Richard ex Corriol et al. 2023 ;

@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[328 - Armerion elongatae.jpg]]
 Associations :
 - [[Diantho deltoidis-Armerietum elongatae]] Krausch 1959

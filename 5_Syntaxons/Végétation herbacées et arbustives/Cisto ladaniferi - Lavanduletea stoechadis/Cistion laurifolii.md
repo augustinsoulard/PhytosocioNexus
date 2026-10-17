@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[191 - Cistion laurifolii.jpg]]
 Associations :
 - [[Artemisio lloydii-Cistetum salviifolii]] Lazare 2017 ; 
 - [[Genisto jordanii-Cistetum laurifolii]] (Quézel et Barbero 1988) B. Foucault 2016 ; 

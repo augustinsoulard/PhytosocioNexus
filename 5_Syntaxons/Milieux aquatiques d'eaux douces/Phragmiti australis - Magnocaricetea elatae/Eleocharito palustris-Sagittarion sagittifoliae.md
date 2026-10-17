@@ -22,6 +22,7 @@ sources:
 ZH : oui
 
 
+![[407 - Eleocharito palustris-Sagittarion sagittifoliae.jpg]]
 Associations :
 - [[Alismatetum lanceolati]] Zahlheimer ex Šumberová in Chytrý 2011 ; 
 - [[Alismato plantaginis-aquaticae-Sparganietum erecti]] H. Passarge 1999 ; 

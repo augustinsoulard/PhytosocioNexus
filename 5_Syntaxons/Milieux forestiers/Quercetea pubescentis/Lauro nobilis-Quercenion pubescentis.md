@@ -10,3 +10,5 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+
+![[443 - Lauro nobilis-Quercenion pubescentis.jpg]]

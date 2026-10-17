@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[321 - Deschampsio flexuosae-Pinion sylvestris.jpg]]
 Associations :
 - [[Deschampsio flexuosae-Pinetum sylvestris]] Braun-Blanquet 1961

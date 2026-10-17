@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[482 - Mespilo germanicae-Ilicion aquifolii.jpg]]
 Associations :
 - [[Ilici aquifolii-Prunetum spinosae]] Delelis in B. Foucault et J.-M. Royer 2016 ; 
 - [[Lonicero periclymeni-Coryletum avellanae]] F. Gillet 1986 nom. ined. (1) ; 

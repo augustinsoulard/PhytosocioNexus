@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[377 - Nardo strictae-Agrostion tenuis.jpg]]
 Associations :
 - [[Campanulo rotundifoliae-Nardetum strictae]] C. Béguin in C. Béguin et Theurillat 1985 ; 
 - [[Dactylorhizo latifoliae-Nardetum strictae]] Je. Ritter et B. Foucault 2012 ; 

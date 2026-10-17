@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[347 - Rubion hirto-pedemontani.jpg]]
 Associations :
 - [[Frangulo alni-Rubetum plicati]] (A. Neumann in Tüxen 1952) Oberdorfer ex B. Foucault et J.-M. Royer 2014 ; 
 - [[Rubetum flaccidifolio-horridicaulis]] J.-M. Royer et Ferrez 2017

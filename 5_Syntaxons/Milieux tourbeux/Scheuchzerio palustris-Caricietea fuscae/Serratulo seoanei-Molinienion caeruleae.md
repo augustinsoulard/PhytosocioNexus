@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[519 - Serratulo seoanei-Molinienion caeruleae.jpg]]
 Associations :
 - [[Avenulo sulcatae-Scorzoneretum humilis]] B. Foucault 1993 ; 
 - [[Cirsio filipenduli-Molinietum caeruleae]] (P. Allorge 1941) B. Foucault 2008 ; 

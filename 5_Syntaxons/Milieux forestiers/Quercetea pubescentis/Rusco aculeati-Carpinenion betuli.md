@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[452 - Rusco aculeati-Carpinenion betuli.jpg]]
 Sous-alliances :
 - [[Cephalanthero damasonii-Quercetum petraeae]] Billy ex Thébaud et Renaux in Renaux et al. 2019 ; 
 - [[Ornithogalo pyrenaici-Carpinetum betuli]] (Billy 1997) Renaux, Timbal et al. 2019 ; 

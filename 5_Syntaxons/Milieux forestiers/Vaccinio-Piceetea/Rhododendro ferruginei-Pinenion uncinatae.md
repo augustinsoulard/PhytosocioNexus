@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[610 - Rhododendro ferruginei-Pinenion uncinatae.jpg]]
 Associations :
 - [[Pulsatillo alpinae-Pinetum uncinatae]] Vigo 1974 ; 
 - [[Rhododendro ferruginei-Abietetum albae]] (Braun-Blanquet in Braun-Blanquet et al. 1939) Braun-Blanquet 1948 ; 

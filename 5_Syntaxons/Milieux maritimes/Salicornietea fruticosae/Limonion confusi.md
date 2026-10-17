@@ -14,6 +14,7 @@ Végétation herbacée vivace des sols salés, secs, du littoral de la Méditerr
 
 Espèces indicatrices : [[Limonium virgatum]], [[Limonium girardianum]], [[Limonium cuspidatum]].
 
+![[508 - Limonion confusi.jpg]]
 Associations :
 - [[Artemisio gallicae-Staticetum virgatae]] Braun-Blanquet 1933 ; 
 - [[Statico lychnidifolii-Limoniastretum monopetali]] Braun-Blanquet 1933

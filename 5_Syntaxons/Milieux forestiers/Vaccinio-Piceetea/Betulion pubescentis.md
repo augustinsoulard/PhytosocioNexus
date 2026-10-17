@@ -21,5 +21,6 @@ sources:
 
 ZH : oui
 
+![[618 - Betulion pubescentis.jpg]]
 Sous-alliances :
 - [[Betulenion pubescentis]] Boeuf et Renaux in Boeuf 2014

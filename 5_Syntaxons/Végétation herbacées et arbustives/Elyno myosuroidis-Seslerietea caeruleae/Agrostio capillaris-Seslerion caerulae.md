@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[217 - Agrostio capillaris-Seslerion caerulae.jpg]]
 Associations :
 - [[Alchemillo conjunctae-Seslerietum caeruleae]] Prunier et al. ex Corriol et al. 2023 ;
 - [[Dichoropetalo carvifoliae-Caricetum sempervirentis]] Misset 2017 ;

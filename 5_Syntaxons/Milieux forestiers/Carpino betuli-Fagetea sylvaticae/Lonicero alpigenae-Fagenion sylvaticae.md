@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[150 - Lonicero alpigenae-Fagenion sylvaticae.jpg]]
 Associaitons :
 - [[Dentario heptaphylli-Fagetum sylvaticae]] (Braun-Blanquet 1932) F.K. Hartmann et G. Jahn 1967 ; 
 - [[Hordelymo europae-Fagetum sylvaticae]] Kuhnholtz-Lordat 1937 ; 

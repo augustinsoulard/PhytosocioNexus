@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[509 - Halimionion portulacoidis.jpg]]
 Associations :
 - [[Agropyro pungentis-Suaedetum verae]] Géhu 1976 ; 
 - [[Obionetum portulacoidis]] Kuhnholtz-Lordat 1927 ; 

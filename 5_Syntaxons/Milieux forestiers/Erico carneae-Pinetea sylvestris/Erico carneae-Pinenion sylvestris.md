@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[231 - Erico carneae-Pinenion sylvestris.jpg]]
 Associations :
 - [[Bellidiastro micheli-Pinetum sylvestris]] J.L. Richard 1972 ;
 - [[Buxo sempervirenti-Pinetum sylvestris]] Guinochet in A. Lacoste 1967 ;

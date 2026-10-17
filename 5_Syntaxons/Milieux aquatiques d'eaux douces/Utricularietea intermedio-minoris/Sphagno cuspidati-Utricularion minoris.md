@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[605 - Sphagno cuspidati-Utricularion minoris.jpg]]
 Associations :
 - [[Carici rostratae-Sphagnetum cuspidati]] Osvald 1923 ; 
 - [[Drepanoclado fluitantis-Sphagnetum cuspidati]] Julve 1991 ; 

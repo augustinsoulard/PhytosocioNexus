@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[170 - Osmundo regalis-Alnion glutinosae.jpg]]
 Sous-alliances :
 - [[Hyperico hircini-Alnenion glutinosae]] Dierschke 1975
 - [[Struthioptero spicant-Alnenion glutinosae]] Sciandrello et al. 2022

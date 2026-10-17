@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[522 - Carici davallianae-Molinienion caeruleae.jpg]]
 Associations :
 - [[Ranunculo polyanthemoidis-Molinietum caeruleae]] Rameau et J.-M. Royer 1978 ; 
 - [[Trollio europaei-Molinietum caeruleae]] Guinochet et Lemée 1950 nom. invers. Ferrez et al. 2011 ; 

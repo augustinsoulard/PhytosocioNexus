@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[226 - Ononido rotundifoliae-Pinion sylvestris.jpg]]
 Sous-alliances :
 - [[Ononido rotundifoliae-Pinenion sylvestris]] Theurillat in Theurillat et al. 1995

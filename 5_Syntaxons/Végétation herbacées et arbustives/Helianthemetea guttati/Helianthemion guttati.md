@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[289 - Helianthemion guttati.jpg]]
 Associations :
 - [[Anthoxanthetum ovati]] Gamisans et Paradis 1992 ; 
 - [[Crepido bellidifoliae-Plantaginetum weldenii]] Paradis et al. 2014 ; 

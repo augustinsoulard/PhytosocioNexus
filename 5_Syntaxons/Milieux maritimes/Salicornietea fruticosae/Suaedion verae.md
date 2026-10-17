@@ -14,6 +14,7 @@ Végétation sous-arbustive crassulescente, halo-nitrophile, des sols argileux-s
 
 Espèces indicatrices : [[Suaeda vera]] (et faible recouvrement des Sarcocornia et Arthrocnemum).
 
+![[511 - Suaedion verae.jpg]]
 Associations :
 - [[Halimiono portulacoidis-Suaedetum verae]] (Braun-Blanquet 1952) Molinier et Tallon 1969 ; 
 - [[Suaedetum fruticosae]] Braun-Blanquet ex O. Bolòs et Molinier 1958

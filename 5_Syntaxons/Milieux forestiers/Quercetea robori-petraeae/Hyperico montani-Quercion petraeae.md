@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[458 - Hyperico montani-Quercion petraeae.jpg]]
 Associations :
 - [[Aristolochio pallidae-Castaneetum sativae]] (R.J. Loisel et Mercurin in R.J. Loisel 1971) Rameau ex Renaux et al. 2019 ; 
 - [[Calamintho sylvaticae-Fagetum sylvaticae]] J.-M. Savoie 1996 ; 

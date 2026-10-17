@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[396 - Cymbalario muralis-Asplenion rutae-murariae.jpg]]
 Associations :
 - [[Adianto capilli-veneris-Parietarietum judaicae]] Segal 1969 ; 
 - [[Cheirantho cheiri-Parietarietum judaicae]] Oberdorfer 1957 ; 

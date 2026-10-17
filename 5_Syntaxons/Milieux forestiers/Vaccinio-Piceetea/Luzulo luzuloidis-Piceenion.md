@@ -21,6 +21,7 @@ sources:
 
 ZH : non - p.p.
 
+![[613 - Luzulo luzuloidis-Piceenion.jpg]]
 Associations :
 - [[Asplenio viridis-Piceetum abietis]] Kuoch 1954 ; 
 - [[Bazzanio trilobatae-Piceetum abietis]] (Schmid et E. Gaisberg 1936) Braun-Blanquet et Sissingh in Braun-Blanquet et al. 1939 mut. Willner et al. 2007 ; 

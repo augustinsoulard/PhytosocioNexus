@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[334 - Lemno trisulcae-Riccienion fluitantis.jpg]]
 Associations :
 - [[Lemnetum trisulcae]] Hartog 1963 ; 
 - [[Riccietum fluitantis]] Slavnič 1956 ; 

@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[216 - Festuco violaceae-Trifolienion thalii.jpg]]
 Associations :
 - [[Festuco violaceae-Trifolietum thalii]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926

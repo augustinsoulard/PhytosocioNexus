@@ -22,6 +22,7 @@ sources:
 
 ZH : p.p.
 
+![[489 - Salicion arenariae.jpg]]
 Associations :
 - [[Hippophao rhamnoidis-Ligustretum vulgaris]] Boerboom 1960 ; 
 - [[Pyrolo maritimae-Hippophaetum rhamnoidis]] Géhu et Géhu-Franck 1983 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[149 - Geranio nodosi-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Calamintho grandiflorae-Fagetum sylvaticae]] Braun-Blanquet 1915 ; 
 - [[Phyteumo ovati-Abietetum albae]] (Barbero et Bono 1970) Barbero et Quézel 1975 ; 

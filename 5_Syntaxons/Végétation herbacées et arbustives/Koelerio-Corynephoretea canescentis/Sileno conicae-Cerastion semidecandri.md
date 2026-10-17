@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[327 - Sileno conicae-Cerastion semidecandri.jpg]]
 Associations :
 - [[Erodio bipinnati-Alyssetum alyssoidis]] P. Lafon et E. Henry 2022 ; 
 - [[Linario arenariae-Omphalodetum littoralis]] Bioret et al. in Neto et al. 2015 ; 

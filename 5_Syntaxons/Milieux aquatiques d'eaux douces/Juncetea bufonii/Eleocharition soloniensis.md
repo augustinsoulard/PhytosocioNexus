@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[298 - Eleocharition soloniensis.jpg]]
 Associations :
 - [[Chenopodio rubri-Coleanthetum subtilis]] Le Bail et al. 2013 ; 
 - [[Cypero fusci-Limoselletum aquaticae]] Oberdorfer ex Korneck 1960 ; 

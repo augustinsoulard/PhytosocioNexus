@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[392 - Sphagnion medii.jpg]]
 Sous-alliances :
 - [[Polytricho communis-Eriophorenion vaginati]] Thébaud et Pétel 2008
 - [[Sphagnenion magellanici]] Thébaud et Pétel 2008

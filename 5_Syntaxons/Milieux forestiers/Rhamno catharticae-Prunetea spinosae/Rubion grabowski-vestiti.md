@@ -19,6 +19,7 @@ sources:
 
 ZH : non
 
+![[484 - Rubion grabowski-vestiti.jpg]]
 Associations :
 - [[Rubetum canescenti-vestiti]] J.-M. Royer 2013 ; 
 - [[Rubetum constricto-sulcati]] J.-M. Royer 2013 ; 

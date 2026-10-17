@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[341 - Arctostaphylo-Cetrarion nivalis.jpg]]
 Associations :
 - [[Arctostaphylo alpinae-Loiseleurietum procumbentis]] Oberdorfer 1950 ; 
 - [[Salici pyrenaicae-Arctostaphyletum alpini]] Rivas Martínez et al. 1991

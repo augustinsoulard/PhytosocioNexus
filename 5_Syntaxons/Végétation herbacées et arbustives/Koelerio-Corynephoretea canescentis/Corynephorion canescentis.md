@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[326 - Corynephorion canescentis.jpg]]
 Associations :
 - [[Agrostietum vinealis]] Kobendza 1930 corr. Kratzert et Dengler 1999 ; 
 - [[Astrocarpo purpurascentis-Corynephoretum canescentis]] Braun-Blanquet 1967 ; 

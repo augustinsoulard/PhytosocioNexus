@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[539 - Sedion micrantho-sediformis.jpg]]
 Associations :
 - [[Sedetum micrantho-sediformis]] O. Bolòs et Masalles in O. Bolòs 1981 ; 
 - [[Sedetum ochroleuco-sediformis]] B. Foucault ex B. Foucault et al. in J.-M. Royer et Ferrez 2018

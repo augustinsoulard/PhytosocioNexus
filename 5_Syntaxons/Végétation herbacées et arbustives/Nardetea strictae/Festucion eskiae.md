@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[372 - Festucion eskiae.jpg]]
 Associations :
 - [[Androsaco laggeri-Festucetum eskiae]] M. Gruber 1975 ; 
 - [[Armerio plantagineae-Festucetum paniculatae]] Nègre 1977 ; 

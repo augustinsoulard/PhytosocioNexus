@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[336 - Lobelio dortmannae-Isoetion.jpg]]
 Associations :
 - [[Isoetetum boryanae]] (Vanden Berghen 1969) Dierßen 1975 ; 
 - [[Isoeto lacustris-Lobelietum dortmannae]] Tüxen 1937 ; 

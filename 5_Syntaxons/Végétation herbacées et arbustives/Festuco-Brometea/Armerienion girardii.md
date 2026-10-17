@@ -20,5 +20,6 @@ sources:
 
 ZH : non
 
+![[258 - Armerienion girardii.jpg]]
 Associations :
 - [[Arenario aggregatae-Armerietum junceae]] Liou 1929

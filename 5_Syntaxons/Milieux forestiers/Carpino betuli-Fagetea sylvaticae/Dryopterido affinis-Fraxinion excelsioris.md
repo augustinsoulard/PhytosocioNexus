@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[165 - Dryopterido affinis-Fraxinion excelsioris.jpg]]
 Associations :
 - [[Dryopterido affinis-Fraxinetum excelsioris]] (Bardat 1993) Bardat et al. in Boeuf 2011 ; 
 - [[Hyperico androsaemi-Ulmetum glabrae]] Vanden Berghen 1968 ; 

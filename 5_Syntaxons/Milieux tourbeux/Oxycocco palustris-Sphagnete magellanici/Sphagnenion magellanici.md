@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[394 - Sphagnenion magellanici.jpg]]
 Associations :
 - [[Dicrano bergeri-Callunetum vulgaris]] Thébaud et Pétel 2008 ; 
 - [[Eriophoro vaginati-Trichophoretum cespitosi]] Osvald ex G.M. Steiner 1992 ; 

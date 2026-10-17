@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[136 - Oreochloo blankae-Caricenion curvulae.jpg]]
 Associations :
 - [[Gentiano alpinae-Caricetum curvulae]] Nègre 1968 ; 
 - [[Sempervivo montani-Arenarietum moehringioidis]] Nègre 1968 corr. Rivas Martínez et al. 2002

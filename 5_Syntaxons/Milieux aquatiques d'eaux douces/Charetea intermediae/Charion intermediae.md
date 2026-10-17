@@ -1,5 +1,6 @@
 Communautés pérennes des eaux permanentes de profondeur plus ou moins grande, riches en calcaire, oligomésotrophes.
 
+![[187 - Charion intermediae.jpg]]
 Associations :
 - [[Charetum curtae]]* Heuf in Felzines et Lambert 2012 
 - [[Charetum strigosae]] Dambska 1966 

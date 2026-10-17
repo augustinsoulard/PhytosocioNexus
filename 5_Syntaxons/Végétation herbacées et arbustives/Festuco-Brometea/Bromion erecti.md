@@ -16,6 +16,7 @@ sources:
 
 ZH : non spécifié
 
+![[240 - Bromion erecti.jpg]]
 Sous-alliances :
 - [[Chamaespartio sagittalis-Agrostienion tenuis]] Vigo ex J.-M. Royer et Ferrez 2020
 - [[Mesobromenion erecti]] Braun-Blanquet et Moor 1938

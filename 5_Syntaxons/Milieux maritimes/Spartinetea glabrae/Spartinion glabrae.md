@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[556 - Spartinion glabrae.jpg]]
 Associations :
 - [[Spartinetum alterniflorae]] Corillion 1953 ; 
 - [[Spartinetum anglicae]] Corill. 1953 corr. Géhu et Géhu-Franck 1984 ; 

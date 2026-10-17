@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[490 - Sambuco-Salicion capreae.jpg]]
 Associations :
 - [[Betulo pendulae-Salicetum capreae]] Billy ex B. Foucault in B. Foucault et J.-M. Royer 2016 ; 
 - [[Cicerbito plumieri-Aceretum pseudoplatani]] Robbe in J.-M. Royer et al. 2006 ; 

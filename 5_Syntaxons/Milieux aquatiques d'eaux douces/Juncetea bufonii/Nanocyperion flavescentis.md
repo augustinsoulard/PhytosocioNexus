@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[305 - Nanocyperion flavescentis.jpg]]
 Associations :
 - [[Cyperetum flavescentis]] W. Koch ex Aichinger 1933 ; 
 - [[Gnaphalio uliginosi-Juncetum bufonii]] (G. Philippi 1968) H. Passarge 1978 ; 

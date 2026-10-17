@@ -19,6 +19,7 @@ sources:
 
 ZH : oui
 
+![[454 - Lonicero periclymeni-Betulion pubescentis.jpg]]
 Associations :
 - [[Blechno spicant-Betuletum pubescentis]] Géhu 2006
 

@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[167 - Alnion incanae.jpg]]
 Associations :
 - [[Artemisio vulgaris-Alnetum glutinosa]]e Le Hénaff et Renaux in Renaux et al. 2015 ; 
 - [[Blechno spicant-Alnetum glutinosae]] F. Blanchard et al. 2004 ; 

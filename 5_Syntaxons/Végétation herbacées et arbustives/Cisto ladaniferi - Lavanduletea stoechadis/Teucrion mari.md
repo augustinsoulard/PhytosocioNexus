@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[192 - Teucrion mari.jpg]]
 Associations :
 - [[Astragalo terracianoi-Genistetum corsicae]] Géhu et Biondi 1994 ; 
 - [[Cisto salviifolii-Halimietum halimifolii]] Géhu et Biondi 1994 ; 

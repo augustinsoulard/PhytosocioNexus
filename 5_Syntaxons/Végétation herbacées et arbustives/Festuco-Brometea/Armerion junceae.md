@@ -16,6 +16,7 @@ sources:
 
 ZH : non spécifié
 
+![[257 - Armerion junceae.jpg]]
 Sous-alliances :
 - [[Armerienion girardii]] A. Valls ex J.-M. Royer et Ferrez 2020
 - [[Astero cebennensis-Anthyllidenion montanae]] A. Valls 2003

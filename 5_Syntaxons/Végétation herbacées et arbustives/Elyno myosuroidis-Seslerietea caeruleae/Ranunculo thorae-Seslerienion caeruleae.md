@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[213 - Ranunculo thorae-Seslerienion caeruleae.jpg]]
 Associations :
 - [[Armerio orissonensis-Alchemilletum amphisericeae]] Lazare 2017 ;
 - [[Ranunculo thorae-Seslerietum caerulae]] Vigo ex Rivas Martínez in Rivas Martínez et al. 2002

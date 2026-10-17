@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[382 - Nardo strictae-Juncion squarrosi.jpg]]
 Associations :
 - [[Carici binervis-Nardetum strictae]] (Pethybridge et Praeger 1905) Braun-Blanquet et Tüxen 1952 ; 
 - [[Carici trinervis-Nardetum strictae]] B. Foucault et al. 1978 ; 

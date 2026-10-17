@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[279 - Arction lappae.jpg]]
 Associations :
 - [[Arctio lappae-Artemisietum vulgaris]] Oberdorfer et al. ex Seybold et T. Müller 1972 ; 
 - [[Arctio minoris-Urticetum dioicae]] O. Bolòs ex O. Bolòs et Masalles 1983 ; 

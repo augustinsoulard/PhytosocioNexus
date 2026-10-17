@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[300 - Agrostion salmanticae.jpg]]
 Associations :
 - [[Elatino brochonii-Juncetum pygmaei]] C. Lorenzoni et Paradis ex J. Benito 2010

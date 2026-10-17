@@ -22,6 +22,7 @@ sources:
 ZH : oui
 
 
+![[267 - Calystegio sepium-Althaeion officinalis.jpg]]
 Associations :
 - [[Althaeetum officinalis]] J. Duvigneaud 1967 ; 
 - [[Althaeo officinalis-Calystegietum sepium]] Beeftink 1965 ; 

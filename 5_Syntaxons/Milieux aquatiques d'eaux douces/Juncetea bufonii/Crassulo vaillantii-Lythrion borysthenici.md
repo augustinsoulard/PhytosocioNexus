@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[304 - Crassulo vaillantii-Lythrion borysthenici.jpg]]
 Associations :
 - [[Antinorio insularis-Lythretum borysthenici]] B. Foucault et al. 2013 ; 
 - [[Bellido annuae-Lythretum borysthenici]] (Poirion et Barbero 1966) B. Foucault 2013 ; 

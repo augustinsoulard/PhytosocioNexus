@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[204 - Saponarienion caespitosae.jpg]]
 Associations :
 - [[Gentiano occidentalis-Androsacetum villosae]] Corriol et al. in Corriol et al. 2023 ;
 - [[Gypsophilo repentis-Festucetum scopariae]] Corriol in Corriol et al. 2023 ;

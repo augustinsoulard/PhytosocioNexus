@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[239 - vomeraceae.jpg]]
 Associations :
 - [[Serapiado vomeraceae-Caricetum flaccae]] Corriol et Laigneau 2017 ; 
 - [[Urospermo dalechampii-Serapiadetum vomeraceae]] B. Foucault 2018

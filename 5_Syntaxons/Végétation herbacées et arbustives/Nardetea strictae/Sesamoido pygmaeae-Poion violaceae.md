@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[386 - Sesamoido pygmaeae-Poion violaceae.jpg]]
 Associations :
 - [[Acini corsici-Tanacetetum tomentosi]] (Litardière et Malcuit 1926) Gamisans 1975 ; 
 - [[Paronychio polygonifoliae-Armerietum multicepitis]] Gamisans 1975

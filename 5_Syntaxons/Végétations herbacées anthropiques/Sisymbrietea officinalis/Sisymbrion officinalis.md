@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[555 - Sisymbrion officinalis.jpg]]
 Associations :
 - [[Brassico nigrae-Carduetum tenuiflori]] (Bouzillé et al. 1984) Bioret et al. 1993 ; 
 - [[Bromo sterilis-Sisymbrietum macrolomae]] Vigo et al. 1997 ; 

@@ -23,6 +23,7 @@ Syn : Lysimachio maritimae-Juncion maritimi ???
 
 ZH : oui
 
+![[315 - Glauco maritimae-Juncion maritimi.jpg]]
 Associations :
 - [[Agrostio stoloniferae-Juncetum maritimi]] Izco et al. 1993 ; 
 - [[Carici punctatae-Plantaginetum maritimae]] Glemarec et Wattez 2020 ; 

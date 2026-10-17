@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[335 - Elodo palustris-Sparganion.jpg]]
 Associations :
 - [[Apio inundati-Littorelletum uniflorae]] Fröde ex H. Passarge 1999 ; 
 - [[Eleocharitetum multicaulis]] P. Allorge ex Tüxen 1937 ; 

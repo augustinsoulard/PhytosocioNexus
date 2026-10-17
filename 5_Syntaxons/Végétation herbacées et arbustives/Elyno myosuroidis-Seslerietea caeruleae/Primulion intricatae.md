@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[214 - Primulion intricatae.jpg]]
 Sous-alliances :
 - [[Eu-Primulenion intricatae]]
 - [[Festuco violaceae-Trifolienion thalii]] J. Van Es et T. Sanz in Corriol et al. 2023

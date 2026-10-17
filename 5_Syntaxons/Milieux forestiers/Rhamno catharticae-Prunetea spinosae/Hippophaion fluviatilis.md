@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[474 - Hippophaion fluviatilis.jpg]]
 Associations :
 - [[Berberido vulgaris-Hippophaetum fluviatilis]] W. Koch ex Moor 1958 ; 
 - [[Hippophao rhamnoidis-Salicetum elaeagni]] Braun-Blanquet et O.H. Volk 1940 corr. B. Foucault et Julve ; 

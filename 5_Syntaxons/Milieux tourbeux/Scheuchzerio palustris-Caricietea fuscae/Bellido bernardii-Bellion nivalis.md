@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[512 - Bellido bernardii-Bellion nivalis.jpg]]
 Associations :
 - [[Bellido bernardii-Caricetum nigrae]] (Litardière et Malcuit 1926) B. Foucault 2021 ; 
 - [[Carici intricatae-Ranunculetum cordigeri]] Gamisans 1975 ; 

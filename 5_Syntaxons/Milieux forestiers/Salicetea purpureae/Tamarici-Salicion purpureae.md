@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[507 - Tamarici-Salicion purpureae.jpg]]
 Associations :
 - [[Tamarici gallicae-Salicetum elaeagni]] Arènes ex B. Foucault in B. Foucault et T. Cornier 2020

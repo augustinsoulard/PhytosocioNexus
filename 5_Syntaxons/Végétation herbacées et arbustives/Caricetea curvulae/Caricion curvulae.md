@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[133 - Caricion curvulae.jpg]]
 Associations :
 - [[Caricetum curvulae]] Braun-Blanquet 1926 ; 
 - [[Caricetum fimbriatae]] (I. Guyot 1925) J.L. Richard 1985 ; 

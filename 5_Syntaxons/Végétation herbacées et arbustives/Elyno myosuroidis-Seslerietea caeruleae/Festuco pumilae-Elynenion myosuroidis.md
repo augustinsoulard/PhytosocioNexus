@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[209 - Festuco pumilae-Elynenion myosuroidis.jpg]]
 Associations :
 - [[Carici atratae-Kobresietum myosuroidis]] Braun-Blanquet 1913 ;
 - [[Festucetum pumilae]] Gams 1927 ;

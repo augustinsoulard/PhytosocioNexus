@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[247 - Seslerio caeruleae-Mesobromenion erecti.jpg]]
 Associations :
 - [[Coronillo minimae-Seslerietum caeruleae]] Braque ex J.-M. Royer et Ferrez 2020 ; 
 - [[Festuco lemanii-Seslerietum caeruleae]] Boullet in J.-M. Royer et Ferrez 2020 ; 

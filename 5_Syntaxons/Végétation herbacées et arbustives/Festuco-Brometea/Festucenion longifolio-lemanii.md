@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[252 - Festucenion longifolio-lemanii.jpg]]
 Associations :
 - [[Achilleo tomentosae-Festucetum arvernensis]] Culat in Le Hénaff et al. 2021 ; 
 - [[Ajugo genevensis-Festucetum valesiacae]] Billy ex Loiseau et Felzines 2010 ; 

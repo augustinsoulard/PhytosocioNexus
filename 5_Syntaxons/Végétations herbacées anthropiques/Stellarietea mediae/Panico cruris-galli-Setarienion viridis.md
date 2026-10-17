@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[564 - Panico cruris-galli-Setarienion viridis.jpg]]
 Associations :
 - [[Digitarietum ischaemi]] (Tüxen et Preising 1942) Tüxen 1950 ; 
 - [[Digitario sanguinalis-Eragrostietum megastachyae]] Tüxen ex von Rochow 1951 ; 

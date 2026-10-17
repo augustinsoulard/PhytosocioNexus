@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[249 - Teucrio montani-Bromenion erecti.jpg]]
 Associations :
 - [[Antherico ramosi-Brometum erecti]] J.H. Willems 1982 ; 
 - [[Antherico ramosi-Pulsatilletum vulgaris]] (Prelli 1968) Boullet 1996 nom. ined. (1) et inval. (3b) ; 

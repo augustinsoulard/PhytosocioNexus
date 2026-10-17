@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[405 - Caricion gracilis.jpg]]
 Associations :
 - [[Caricetum acutiformis]] J. Eggler 1933 ; 
 - [[Caricetum gracilis]] E.G. Almquist 1929 ; 

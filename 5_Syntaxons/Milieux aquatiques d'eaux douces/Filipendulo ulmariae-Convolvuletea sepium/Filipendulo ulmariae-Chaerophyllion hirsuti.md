@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[273 - Filipendulo ulmariae-Chaerophyllion hirsuti.jpg]]
 Associations :
 - [[Achilleo ptarmicae-Sanguisorbetum officinalis]] Lavagne et Rebuffel 2002 ; 
 - [[Aconito napelli-Chaerophylletum cicutariae]] Gallandat 1982 ; 

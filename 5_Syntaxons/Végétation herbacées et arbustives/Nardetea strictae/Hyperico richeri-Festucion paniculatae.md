@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[376 - Hyperico richeri-Festucion paniculatae.jpg]]
 Associations :
 - [[Anemono alpinae-Meetum athamantici]] Lippmaa 1933 ; 
 - [[Centaureo uniflorae-Festucetum spadiceae]] Lippmaa 1933 ; 

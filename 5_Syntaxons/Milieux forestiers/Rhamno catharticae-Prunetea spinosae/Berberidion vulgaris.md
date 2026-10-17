@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[469 - Berberidion vulgaris.jpg]]
 Sous-alliances :
 - [[Berberido vulgaris-Juniperenion sabinae]] Theurillat in Theurillat et al. 1995
 - [[Ligustro vulgaris-Prunenion spinosae]] Theurillat in Theurillat et al. 1995

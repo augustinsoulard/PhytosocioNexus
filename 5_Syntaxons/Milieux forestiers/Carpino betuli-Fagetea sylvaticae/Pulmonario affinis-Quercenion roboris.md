@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[180 - Pulmonario affinis-Quercenion roboris.jpg]]
 Associations :
 - [[Aro italici-Carpinetum betuli]] Choisnet et Le Hénaff in Renaux et al. 2015 ; 
 - [[Pulmonario affinis-Fraxinetum excelsioris]] Billy ex Le Hénaff et Renaux in Renaux et al. 2015 ; 

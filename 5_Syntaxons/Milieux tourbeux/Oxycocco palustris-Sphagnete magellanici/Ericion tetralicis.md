@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[390 - Ericion tetralicis.jpg]]
 Associations :
 - [[Ericetum tetralicis]] (P. Allorge 1922) Jonas ex Thébaud 2011 ; 
 - [[Eriophoro vaginati-Scirpetum cespitosi]] Ghestem et al. 1988 ; 

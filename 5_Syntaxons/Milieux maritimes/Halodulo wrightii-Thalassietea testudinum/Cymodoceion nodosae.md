@@ -12,6 +12,7 @@ sources:
 ---
 Unique alliance en Europe.
 
+![[287 - Cymodoceion nodosae.jpg]]
 Associations :
 - [[Cymodoceetum nodosae]] Feldmann 1938
 

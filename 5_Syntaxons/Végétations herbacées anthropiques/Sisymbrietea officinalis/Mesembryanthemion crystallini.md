@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[551 - Mesembryanthemion crystallini.jpg]]
 Associations :
 - [[Chenopodio muralis-Mesembryanthemetum crystallini]] (Vanden Berghen 1979) Paradis et al. 2014 ; 
 - [[Lavatero arboreae-Atriplicetum prostratae]] Paradis et al. 2014 ; 

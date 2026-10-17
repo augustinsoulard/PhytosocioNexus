@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[196 - Cytision oromediterranei.jpg]]
 Associations :
 - [[Abieti albae-Cytisetum oromediterranei]] B. Foucault 2019 ; 
 - [[Pino uncinatae-Cytisetum oromediterranei]] B. Foucault et al. 2013 ; 

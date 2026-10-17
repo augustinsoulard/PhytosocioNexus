@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[275 - Aegopodion podagrariae.jpg]]
 Associations :
 - [[Anthriscetum sylvestris]] Hadač 1978 ; 
 - [[Calystegio sepium-Aristolochietum clematitidis]] B. Foucault et Frileux in J.-M. Royer et al. 2006 ; 

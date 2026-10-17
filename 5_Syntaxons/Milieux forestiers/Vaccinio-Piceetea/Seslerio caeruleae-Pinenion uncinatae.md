@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[611 - Seslerio caeruleae-Pinenion uncinatae.jpg]]
 Associations :
 - [[Pulsatillo fontqueri-Pinetum uncinatae]] Vigo 1974 corr. Carreras et al. 1995

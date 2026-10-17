@@ -25,6 +25,7 @@ Sous-alliances :
 - [[Festucenion airoidis]] G. Peyre et X. Font 2011
 - [[Oreochloo blankae-Caricenion curvulae]] G. Peyre et X. Font ex Corriol in Corriol et Mikolajczak 2017
 
+![[134 - Festucion supinae.jpg]]
 Associations :
 - [[Noccaeo caerulescentis-Arenarietum multicaulis]] Laigneau et Corriol in Corriol et al. 2022
 

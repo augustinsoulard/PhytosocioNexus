@@ -25,6 +25,7 @@ ZH : oui
 
 Note : Cette alliance rassemble des communautés correspondant à deux contextes écologiques bien distincts. Les deux premières associations décrivent des végétations strictement halophiles, pionnières et peu nitrophiles des vases salées régulièrement inondées. Les deux suivantes sont directement liées à l’accumulation de matières organiques en bordure des lagunes et des étangs salés (laisses) et se rapprochent, par leur composition floristique et leur structure, des végétations des [[Cakiletea maritimae]].
 
+![[575 - Thero-Suaedion splendentis.jpg]]
 Associations :
 - [[Suaedo splendentis-Salsoletum sodae]] Braun-Blanquet 1933 ; 
 - [[Suaedo maritimae-Sodetum inermi]] Bioret et al. 2022 ; 

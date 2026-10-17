@@ -23,6 +23,7 @@ Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Argyrolobium zanonii]]
 
 ZH : non 
 
+![[492 - Helianthemo italici-Aphyllanthion monspeliensis.jpg]]
 Associations :
 - [[Aphyllantho monspeliensis-Genistetum hispanicae]] Archiloque et al. 1970 ; 
 - [[Aphyllantho monspeliensis-Leontodontetum hirti]] Braun-Blanquet 1931 ; 

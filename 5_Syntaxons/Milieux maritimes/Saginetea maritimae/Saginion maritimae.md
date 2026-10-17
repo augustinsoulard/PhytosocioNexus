@@ -21,6 +21,7 @@ sources:
 
 ZH : oui / p.p.
 
+![[500 - Saginion maritimae.jpg]]
 Associations :
 - [[Bromo ferronii-Trifolietum arvensis]] Géhu 2008 ; 
 - [[Catapodio marini-Centaurietum tenuiflori]] Bioret et al. 2017 ; 

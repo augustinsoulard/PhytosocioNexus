@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[576 - Allosuro crispi-Athyrion alpestris.jpg]]
 Associations :
 - [[Allosori crispi-Poetum fontquerii]] Nègre 1968 ; 
 - [[Biscutello arvernensis-Rumicetum scutati]] Billy ex Le Hénaff et al. 2021 ; 

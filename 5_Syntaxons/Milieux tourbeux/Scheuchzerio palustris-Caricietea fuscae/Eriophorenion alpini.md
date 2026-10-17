@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[534 - Eriophorenion alpini.jpg]]
 Associations :
 - [[Campylio stellati-Trichophoretum alpini]] Bŕezina et al. 1963 ; 
 - [[Caricetum heleonastae]] (He. Paul et J. Lutz 1941) Oberdorfer 1957 ; 

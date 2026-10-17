@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[181 - Pulmonario longifoliae-Quercenion roboris.jpg]]
 Associations :
 - [[Geranio nodosi-Quercetum roboris]] Corriol 2012 ; 
 - [[Hyperico androsaemi-Quercetum roboris]] Rameau ex Corriol 2012 ; 

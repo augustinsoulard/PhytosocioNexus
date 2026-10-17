@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[622 - Vaccinio uliginosi-Betulenion pubescentis.jpg]]
 Associations :
 - [[Sphagno capillifolii-Pinetum sylvestris]] Issler ex S. Muller et al. in Boeuf 2014 ; 
 - [[Sphagno magellanici-Betuletum pubescentis]] (Noirfalise et al. 1971) Boeuf et al. in Boeuf 2014 ; 

@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[172 - Struthioptero spicant-Alnenion glutinosae.jpg]]
 Associations :
 - [[Gentiano asclepiadeae-Alnetum glutinosae]] (Litardière et Malcuit 1926) Renaux et al. 2019

@@ -19,6 +19,7 @@ sources:
 
 ZH : non
 
+![[494 - Sedo sediformis-Thymion vulgaris.jpg]]
 Associations :
 - [[Artemisio campestris-Thymetum vulgaris]] Choisnet 2019 nom. ined. (1) ; 
 - [[Cisto albidi-Thymetum vulgaris]] Choisnet 2019 nom. ined. (1) ; 

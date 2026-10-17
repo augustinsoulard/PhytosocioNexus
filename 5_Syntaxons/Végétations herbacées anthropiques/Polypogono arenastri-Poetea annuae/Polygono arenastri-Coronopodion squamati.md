@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[412 - Polygono arenastri-Coronopodion squamati.jpg]]
 Associations :
 - [[Coronopodo procumbentis-Sclerochloetum durae]] Braun-Blanquet 1936 ; 
 - [[Herniarietum glabrae]] (Hohenester 1960) Hejný et Jehlík 1975 ; 

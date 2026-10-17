@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[225 - Epilobion angustifolii.jpg]]
 Associations :
 - [[Ceratocapno claviculatae-Digitalietum purpureae]] Billy ex Thébaud et al. 2014 ;
 - [[Epilobio angustifolii-Calamagrostietum arundinaceae]] (J. Šmarda et al. 1971) Kliment 1995 ;

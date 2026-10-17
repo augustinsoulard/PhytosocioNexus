@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[190 - Cistion ladaniferi.jpg]]
 Associations :
 - [[Calicotomo spinosae-Cistetum crispi]] Braun-Blanquet in Braun-Blanquet et al. 1940 ; 
 - [[Calicotomo spinosae-Cistetum ladaniferi]] R.J. Loisel 1971 ; 

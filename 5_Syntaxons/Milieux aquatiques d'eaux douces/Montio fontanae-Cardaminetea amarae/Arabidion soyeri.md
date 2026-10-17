@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[356 - Arabidion soyeri.jpg]]
 Associations :
 - [[Alchemillo coriaceae-Cardaminetum asarifoliae]] (Guinochet 1938) B. Foucault 2018 ; 
 - [[Cochlearietum pyrenaicae]] Oberdorfer ex B. Foucault 2018 ; 

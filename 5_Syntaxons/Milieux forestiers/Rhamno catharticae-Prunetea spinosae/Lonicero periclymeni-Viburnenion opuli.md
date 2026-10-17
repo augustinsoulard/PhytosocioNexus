@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[487 - Lonicero periclymeni-Viburnenion opuli.jpg]]
 Associations :
 - [[Frangulo alni-Crataegetum monogynae]] Delelis in B. Foucault et J.-M. Royer 2016 ; 
 - [[Lonicero periclymeni-Viburnetum opuli]] B. Foucault et T. Philippe ex B. Foucault et J.-M. Royer 2016

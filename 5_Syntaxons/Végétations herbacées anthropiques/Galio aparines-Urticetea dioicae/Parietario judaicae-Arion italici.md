@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[278 - Parietario judaicae-Arion italici.jpg]]
 Associations :
 - [[Parietario judaicae-Aretum italici]] Biondi et al. in Biondi et al. 2014
 

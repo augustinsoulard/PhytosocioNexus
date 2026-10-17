@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[371 - Carici macrostyli-Nardion strictae.jpg]]
 Associations :
 - [[Alchemillo flabellatae-Nardetum strictae]] M. Gruber 1975 ; 
 - [[Botrychio lunariae-Nardetum strictae]] A. Peeters et Vanden Berghen 1981 ; 

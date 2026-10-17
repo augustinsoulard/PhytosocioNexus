@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[270 - Achilleo ptarmicae-Cirsion palustris.jpg]]
 Associations :
 - [[Achilleo ptarmicae-Filipenduletum ulmariae]] H. Passarge (1971) 1975 ; 
 - [[Athyrio filicis-feminae-Phalaridetum arundinaceae]] Labadille in B. Foucault 2011 ; 

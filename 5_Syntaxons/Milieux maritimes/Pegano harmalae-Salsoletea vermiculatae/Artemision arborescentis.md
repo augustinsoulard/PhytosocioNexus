@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[399 - Artemision arborescentis.jpg]]
 Associations :
 - [[Cinerario maritimae-Artemisietum arborescentis]] Géhu et al. 1988 ; 
 - [[Cinerario maritimae-Suaedetum verae]] Géhu et Biondi ex B. Foucault 2015

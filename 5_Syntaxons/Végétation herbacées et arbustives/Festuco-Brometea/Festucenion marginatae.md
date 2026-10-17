@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[246 - Festucenion marginatae.jpg]]
 Associations :
 - [[Anacamptido pyramidalis-Seselietum montani]] J.L. Verrier ex J.-M. Royer et Ferrez 2020 ; 
 - [[Carthamo mitissimi-Brometum erecti]] (Lapraz 1962) J.-M. Royer et Ferrez 2020 ; 

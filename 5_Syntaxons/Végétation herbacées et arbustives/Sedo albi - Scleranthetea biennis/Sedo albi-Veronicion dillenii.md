@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[544 - Sedo albi-Veronicion dillenii.jpg]]
 Associations :
 - [[Festuco-Veronicetum dillenii]] Oberdorfer 1957
 - [[Gageo saxatilis-Veronicetum dillenii]] (Oberdorfer 1957) Korneck 1974

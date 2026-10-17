@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[571 - Cypero-Spergularion salinae.jpg]]
 Associations :
 - [[Atriplici prostratae-Crypsietum aculeatae]] Paradis et C. Lorenzoni 1994 ; 
 - [[Chenopodio chenopodioidis-Crypsietum aculeatae]] Paradis et C. Lorenzoni 1994 ; 

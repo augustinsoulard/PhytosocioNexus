@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[349 - Hyparrhenion sinaico-hirtae.jpg]]
 Associations :
 - [[Cheilantho marantae-Diplachnetum serotinae]] R.J. Loisel 1970 ; 
 - [[Piptathero caerulescentis-Brachypodietum retusi]] V. Noble et Baret 2019 nom. ined. (1)

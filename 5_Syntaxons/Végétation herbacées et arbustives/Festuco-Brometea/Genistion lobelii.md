@@ -21,6 +21,7 @@ Espèces indicatrices : [[Brassica repanda subsp. saxatilis]], [[Genista lobelii
 
 ZH : non
 
+![[261 - Genistion lobelii.jpg]]
 Sous-alliances :
 - [[Genistenion lobelii]] Molinier ex A. Valls 2003
 - [[Globularienion cordifoliae]] (Guinochet 1938) A. Valls ex J.-M. Royer et Ferrez 2020

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[230 - Erico carneae-Pinion sylvestris.jpg]]
 Sous-alliances :
 - [[Erico carneae-Pinenion sylvestris]] Theurillat in Theurillat et al. 1995
 - [[Molinio arundinaceae-Pinenion sylvestris]] Ellenberg et Klötzli ex Theurillat in Theurillat et al. 1995

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[521 - Allio angulosi-Molinienion caeruleae.jpg]]
 Associations :
 - [[Allio suaveolentis-Molinietum caeruleae]] Görs in Oberdorfer 1983 ; 
 - [[Caricetum buxbaumii]] Issler 1932 ; 

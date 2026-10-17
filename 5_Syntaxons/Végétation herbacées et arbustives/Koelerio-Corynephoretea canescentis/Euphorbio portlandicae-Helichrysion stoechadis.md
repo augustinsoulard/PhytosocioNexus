@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[324 - Euphorbio portlandicae-Helichrysion stoechadis.jpg]]
 Associations :
 - [[Alysso loiseleuri-Helichrysetum stoechadis]] Géhu ex P. Lafon et al. 2022 ; 
 - [[Artemisio lloydii-Ephedretum distachyae]] Géhu et G. Sissingh in G. Sissingh 1974 ; 

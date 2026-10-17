@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[276 - Balloto-Conion maculati.jpg]]
 Associations :
 - [[Artemisio annuae-Conietum maculati]] J. Pino 2000 ; 
 - [[Lamio albi-Ballotetum foetidae]] W. Lohmeyer 1970 ; 

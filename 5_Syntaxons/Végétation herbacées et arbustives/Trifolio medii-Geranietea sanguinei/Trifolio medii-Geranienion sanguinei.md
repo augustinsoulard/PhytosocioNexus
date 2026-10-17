@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[597 - Trifolio medii-Geranienion sanguinei.jpg]]
 Associations :
 - [[Bupleuro falcati-Laserpitietum latifolii]] Billy ex J.-M. Royer 2016 ; 
 - [[Centaureo semidecurrentis-Melampyretum cristati]] Braque et Loiseau ex J.-M. Royer 2016 ; 

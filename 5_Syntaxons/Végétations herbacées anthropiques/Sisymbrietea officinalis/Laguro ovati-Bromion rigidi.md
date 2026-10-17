@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[547 - Laguro ovati-Bromion rigidi.jpg]]
 Associations :
 - [[Hordeo murinum-Arctothecetum calendulae]] J.A. Campos et al. 2000 ; 
 - [[Laguro ovati-Avenetum barbatae]] Géhu 2008 ; 

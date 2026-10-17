@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[513 - Caricion fuscae.jpg]]
 Associations :
 - [[Bartsio alpinae-Caricetum nigrae]] J. Bartsch et M. Bartsch 1940 ; 
 - [[Bartsio-Caricetum vulgaris]] J. Bartsch et M. Bartsch 1940 ; 

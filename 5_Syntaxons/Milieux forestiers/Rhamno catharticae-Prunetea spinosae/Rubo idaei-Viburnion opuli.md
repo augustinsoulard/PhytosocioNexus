@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[485 - Rubo idaei-Viburnion opuli.jpg]]
 Associations :
 - [[Crataego monogynae-Salicetum pentandrae]] Billy ex B. Foucault et J.-M. Royer 2016 ; 
 - [[Prunetum padospinosae]] J.M. Dumont et Lebrun ex B. Foucault et J.-M. Royer 2016

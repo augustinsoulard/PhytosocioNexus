@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[142 - Salicion cinereae.jpg]]
 Associaitons :
 - [[Eriophoro angustifolii-Salicetum auritae]] H. Passarge et Ger. Hofmann 1968 ; 
 - [[Frangulo alni-Populetum tremulae]] Felzines in J.-M. Royer et al. 2006 ; 

@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[389 - Oryzo sativae-Echinochloion oryzoidis.jpg]]
 Associations :
 - [[Cypero difformis-Ammanietum coccineae]] O. Bolòs et Masclans 1955

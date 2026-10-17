@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[567 - Hypochoeridion achyrophori.jpg]]
 Associations :
 - [[Medicagini rigidulae-Trifolietum scabri]] Fanelli et al. 2010

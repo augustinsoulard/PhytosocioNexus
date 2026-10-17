@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[346 - Lonicero periclymeni-Rubion sylvatici.jpg]]
 Associations :
 - [[Rubetum grati]] Tüxen et A. Neumann ex H.E. Weber 1976 ; 
 - [[Rubetum nessensi-integribasis]] J.-M. Royer et Ferrez 2013 ; 

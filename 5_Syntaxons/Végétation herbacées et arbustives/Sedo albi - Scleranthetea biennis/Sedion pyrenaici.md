@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[542 - Sedion pyrenaici.jpg]]
 Associations :
 - [[Agrostio durieui-Sedetum pyrenaici]] Rivas Martínez et al. 1984 ; 
 - [[Sedetum pyrenaico-hirsuti]] Corriol in Corriol et al. 2022 ; 

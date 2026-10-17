@@ -22,6 +22,7 @@ Espèces indicatrices : [[Artemisia caerulescens subsp. gallica]], [[Elytrigia e
 
 ZH : oui
 
+![[318 - Elytrigio-Artemision coerulescentis.jpg]]
 Associations :
 - [[Limonio narbonensis-Artemisietum caerulescentis]] (Pignatti 1953) Géhu et Scoppola 1984 ; 
 - [[Limonio narbonensis-Pucinellietum festuciformis]] (Pignatti 1966) Géhu et Scoppola 1984

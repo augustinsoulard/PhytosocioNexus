@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[447 - Avenello flexuosae-Quercion pubescentis.jpg]]
 Associations :
 - [[Arbuto unedonis-Quercetum petraeae]] Lapraz 1962 ; 
 - [[Avenello flexuosae-Quercetum pubescentis]] Choisnet in Renaux et al. 2015

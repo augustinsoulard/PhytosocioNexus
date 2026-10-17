@@ -17,6 +17,7 @@ sources:
 ZH : oui
 
 
+![[311 - Armerion maritimae.jpg]]
 Sous-alliances :
 - [[Eu-Armerienion maritimae]] (à classer - source [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine|Botineau et Dupont - 2026 ]]) [[Botineau et Dupont - 2026|]])
 - [[Festucenion littoralis]] (Corillion 1953) Géhu 1976

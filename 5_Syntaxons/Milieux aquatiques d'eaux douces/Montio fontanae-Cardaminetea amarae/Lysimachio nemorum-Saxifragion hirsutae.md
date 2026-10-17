@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[358 - Lysimachio nemorum-Saxifragion hirsutae.jpg]]
 Associations :
 - [[Cardamino flexuosae-Saxifragetum hirsutae]] B. Foucault 1995 ; 
 - [[Saxifrago clusii-Soldanelletum villosae]] P. Allorge ex Aizpuru et Catalán 1987 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[368 - Agrostion schraderianae.jpg]]
 Associations :
 - [[Agrostietum agrostiflorae]] Braun-Blanquet 1949
 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[312 - Festucenion littoralis.jpg]]
 Associations :
 - [[Artemisietum maritimae]] Hocquette 1927 ; 
 - [[Festucetum littoralis]] Corillion 1953 corr. Géhu 1976 ; 

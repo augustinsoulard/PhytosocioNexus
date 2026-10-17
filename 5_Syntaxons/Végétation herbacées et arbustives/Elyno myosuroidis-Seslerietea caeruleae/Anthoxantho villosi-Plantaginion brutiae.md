@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[218 - Anthoxantho villosi-Plantaginion brutiae.jpg]]
 Associations :
 - [[Alchemillo alpigenae-Bellardiochloetum variegatae]] A. Lacoste 1965 ;
 - [[Anthoxantho odorati-Avenelletum flexuosae]] Archiloque et al. 1971 ;

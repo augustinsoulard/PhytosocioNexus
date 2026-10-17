@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[173 - Osmundo regalis-Alnenion glutinosae.jpg]]
 Associations :
 - [[Molinio arundinaceae-Alnetum glutinosae]] Choisnet et Renaux ex Renaux et al. 2019 ; 
 - [[Tilio cordatae-Alnetum glutinosae]] R.J. Loisel 1976

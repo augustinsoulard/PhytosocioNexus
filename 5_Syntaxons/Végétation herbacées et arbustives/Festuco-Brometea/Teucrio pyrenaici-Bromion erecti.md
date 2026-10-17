@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[235 - Teucrio pyrenaici-Bromion erecti.jpg]]
 Associations :
 - [[Koelerio vallesianae-Globularietum willkommii]] Susplugas 1942 ; 
 - [[Koelerio vallesianae-Saturejetum montanae]] Chouard 1943 ; 

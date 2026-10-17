@@ -10,3 +10,5 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+
+![[442 - Laburno anagyroidis-Ostryenion carpinifoliae.jpg]]

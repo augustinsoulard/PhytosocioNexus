@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[159 - Ilici aquifolii-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Deschampsio flexuosae-Fagetum sylvaticae]] (Lemée 1959) G. Cusset ex Thébaud et al. 2014 ; 
 - [[Ilici aquifolii-Fagetum sylvaticae]] Braun-Blanquet 1967 ; 

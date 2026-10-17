@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[616 - Vaccinio-Piceenion.jpg]]
 Associations :
 - [[Alno alnobetulae-Piceetum abietis]] L. Richard in Thébaud et C.-E. Bernard 2018 nom. inval. (3b) ; 
 - [[Calamagrostio villosae-Abietetum albae]] (Kuoch 1954) Thébaud et C.-E. Bernard 2018 ; 

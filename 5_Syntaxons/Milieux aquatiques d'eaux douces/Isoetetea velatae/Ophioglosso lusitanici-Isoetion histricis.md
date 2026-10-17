@@ -22,6 +22,7 @@ sources:
 ZH : oui
 
 
+![[296 - Ophioglosso lusitanici-Isoetion histricis.jpg]]
 Associations :
 - [[Chamaemelo nobilis-Isoetetum histricis]] Bioret in B. Foucault 2013 ; 
 - [[Isoetetum durieui]] Braun-Blanquet 1936 ; 

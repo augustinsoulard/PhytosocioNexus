@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[360 - Wahlenbergio hederaceae-Sibthorpion europaeae.jpg]]
 Associations :
 - [[Chrysosplenio oppositifolii-Sibthorpietum europaeae]] B. Foucault 1981

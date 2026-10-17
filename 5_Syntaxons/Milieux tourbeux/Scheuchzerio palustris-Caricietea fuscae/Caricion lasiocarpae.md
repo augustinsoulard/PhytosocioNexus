@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[531 - Caricion lasiocarpae.jpg]]
 Sous-alliances :
 - [[Caricenion chordorrhizo-lasiocarpae]] (Julve 1993) J.-M. Royer in Bardat et al. 2004 nom. inval. (2b, 3b, 8)
 - [[Caricenion lasiocarpae]] H. Passarge 1999

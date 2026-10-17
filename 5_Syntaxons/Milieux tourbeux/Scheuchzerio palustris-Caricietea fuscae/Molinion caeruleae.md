@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[520 - Molinion caeruleae.jpg]]
 Sous-alliances :
 - [[Allio angulosi-Molinienion caeruleae]] B. Foucault et Géhu 1980
 - [[Carici davallianae-Molinienion caeruleae]] B. Foucault et Géhu 1980

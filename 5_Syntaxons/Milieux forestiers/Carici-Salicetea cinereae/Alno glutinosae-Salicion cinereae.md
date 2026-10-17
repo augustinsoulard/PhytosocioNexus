@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[143 - Alno glutinosae-Salicion cinereae.jpg]]
 Associations :
  - [[Alno glutinosae-Salicetum cinereae]] H. Passarge 1956 ; 
  - [[Carici gracilis-Salicetum cinereae]] K.H. Walther 1977 ; 

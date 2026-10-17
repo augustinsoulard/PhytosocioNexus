@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[558 - Scleranthion annui.jpg]]
 Associations :
 - [[Alchemillo arvensis-Matricarietum chamomillae]] Tüxen 1937 ; 
 - [[Anchuso arvensis-Brometum sterilis]] Boeuf 2007 nom. ined. (1) ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[537 - Alysso alyssoidis-Sedion albi.jpg]]
 Associations :
 - [[Alysso alyssoidis-Sedetum albi]] Oberdorfer et T. Müller in T. Müller 1961 ; 
 - [[Alysso montani-Festucetum pallentis]] Preising 1939 corr. R. Schub. et al. 2001 ; 

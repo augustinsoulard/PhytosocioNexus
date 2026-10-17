@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[184 - Ligustro vulgaris-Betulion pubescentis.jpg]]
 Associations :
 - [[Ligustro vulgaris-Betuletum pubescentis]] Géhu et Wattez 1978

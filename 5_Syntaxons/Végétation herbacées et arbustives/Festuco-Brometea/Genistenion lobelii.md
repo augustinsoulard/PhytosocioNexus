@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[262 - Genistenion lobelii.jpg]]
 Associations :
 - [[Genisto lobelii-Potentilletum velutinae]] Molinier 1934

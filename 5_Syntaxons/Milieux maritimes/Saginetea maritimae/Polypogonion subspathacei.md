@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[499 - Polypogonion subspathacei.jpg]]
 Associations :
 - [[Centaurio acutiflori-Hordeetum gussoneani]] Gamisans 1990 ; 
 - [[Polypogonetum subspathacei]] Gamisans 1990 ; 

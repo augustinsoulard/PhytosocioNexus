@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[323 - Junipero hemisphaericae-Pinion sylvestris.jpg]]
 Associations :
 - [[Galio rotundifolii-Pinetum sylvestris]] M. Gruber 1997 ; 
 - [[Polygalo calcareae-Pinetum sylvestris]] (Vigo 1974) Rivas Martínez 1983 corr. Rivas Martínez et Costa 1998 ; 

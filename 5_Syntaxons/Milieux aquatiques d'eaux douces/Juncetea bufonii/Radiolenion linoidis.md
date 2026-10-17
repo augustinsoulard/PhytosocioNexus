@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[308 - Radiolenion linoidis.jpg]]
 Associations :
 - [[Centunculo minimi-Isolepidetum setaceae]] Braun-Blanquet et Tüxen 1952 ; 
 - [[Junco capitati-Morisietum monanthi]] Gamisans 1975 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[352 - Holco mollis-Pteridion aquilini.jpg]]
 Associations :
 - [[Carici piluliferae-Pteridietum aquilini]] F. Gillet 1986 ; 
 - [[Endymio-Dactylidetum glomeratae]] (Géhu et Géhu-Franck 1961) Bioret et Géhu 1996 ; 

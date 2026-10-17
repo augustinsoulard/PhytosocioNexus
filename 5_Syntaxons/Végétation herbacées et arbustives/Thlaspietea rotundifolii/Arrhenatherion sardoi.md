@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[583 - Arrhenatherion sardoi.jpg]]
 Associations :
 - [[Dryopterido oreadi-Arrhenatheretum sardoi]] Gamisans 1989 ; 
 - [[Sedo annui-Coincyetum rectangularis]] Gamisans 1989

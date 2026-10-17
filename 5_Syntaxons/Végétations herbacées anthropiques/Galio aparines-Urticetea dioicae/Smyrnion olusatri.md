@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[282 - Smyrnion olusatri.jpg]]
 Associations :
 - [[Galio aparines-Smyrnietum olusatri]] (Izco et Géhu 1978) Bioret et al. 1993 ; 
 - [[Soncho oleracei-Smyrnietum olusatri]] Izco et Géhu 1978

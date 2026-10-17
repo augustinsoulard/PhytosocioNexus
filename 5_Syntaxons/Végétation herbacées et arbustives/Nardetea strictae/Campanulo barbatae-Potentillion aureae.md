@@ -21,5 +21,6 @@ sources:
 
 ZH : p.p.
 
+![[370 - Campanulo barbatae-Potentillion aureae.jpg]]
 Associations :
 - [[Potentillo aureae-Nardetum strictae]] Braun-Blanquet 1950

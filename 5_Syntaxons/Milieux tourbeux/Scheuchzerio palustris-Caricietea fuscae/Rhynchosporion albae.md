@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[536 - Rhynchosporion albae.jpg]]
 Associations :
 - [[Caricetum limosae]] Braun-Blanquet 1921 ; 
 - [[Drosero intermediae-Juncetum bulbosi]] H. Passarge 1999 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[290 - Thero-Airion.jpg]]
 Associations :
 - [[Airetum praecocis]] (Schwickerath 1944) Krausch 1968 ; 
 - [[Airo caryophylleae-Festucetum ovinae]] Tüxen 1955 nom. inval. ; 

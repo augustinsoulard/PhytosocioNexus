@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[418 - Rubo caesii-Populion nigrae.jpg]]
 Associations :
 - [[Phalarido arundinaceae-Populetum nigrae]] Varèse 1993 ; 
 - [[Salicetum fragili-albae]] Tüxen ex H. Passarge 1956 ; 

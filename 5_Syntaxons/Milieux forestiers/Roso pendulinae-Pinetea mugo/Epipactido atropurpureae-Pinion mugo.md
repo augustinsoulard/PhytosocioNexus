@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[495 - Epipactido atropurpureae-Pinion mugo.jpg]]
 Associations :
 - [[Daphno mezerei-Pinetum mugo]] (Bono et al. 1967) Thébaud et C.-E. Bernard 2017

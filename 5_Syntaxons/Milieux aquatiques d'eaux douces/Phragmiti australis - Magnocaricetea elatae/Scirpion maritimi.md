@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[403 - Scirpion maritimi.jpg]]
 Associations :
 - [[Astero tripolii-Phragmitetum australis]] (Jeschke 1968) Succow 1974 ; 
 - [[Bolboschoeno cymosi-Schoenoplectetum tabernaemontani]] Bueno Sánchez et Fernández Prieto in Bueno Sánchez 1997 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[502 - Arabidion caeruleae.jpg]]
 Associations :
 - [[Arabidetum caeruleae]] Braun-Blanquet 1918 ; 
 - [[Potentillo dubiae-Gnaphalietum hoppeani]] Braun-Blanquet 1948 ; 

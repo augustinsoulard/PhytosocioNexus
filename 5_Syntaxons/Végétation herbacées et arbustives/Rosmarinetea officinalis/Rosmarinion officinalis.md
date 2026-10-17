@@ -23,6 +23,7 @@ Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [
 ZH : non
 
 
+![[493 - Rosmarinion officinalis.jpg]]
 Associations :
 - [[Coronillo junceae-Malvetum subovatae]] V. Noble et Baret 2019 nom. ined. (1) ; 
 - [[Fumano thymifoliae-Rosmarinetum officinalis]] Lapraz 1973 ;

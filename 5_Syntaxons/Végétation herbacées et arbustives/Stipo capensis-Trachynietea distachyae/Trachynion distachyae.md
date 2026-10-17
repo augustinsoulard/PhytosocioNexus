@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[566 - Trachynion distachyae.jpg]]
 Associations :
 - [[Alysso simplicis-Holosteetum umbellati]] Laigneau et Corriol 2019 ; 
 - [[Bupleuro baldensis-Bombycilaenetum erectae]] Choisnet 2019 nom. ined. (1) ; 

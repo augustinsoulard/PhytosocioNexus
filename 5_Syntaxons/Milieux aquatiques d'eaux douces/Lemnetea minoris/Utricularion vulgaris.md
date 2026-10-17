@@ -21,6 +21,7 @@ Communautés dominées par des hydrophytes carnivores de grande taille flottant 
 
 ZH : non
 
+![[331 - Utricularion vulgaris.jpg]]
 Associations :
 - [[Lemno minoris-Hydrocharitetum morsus-ranae]] Oberdorfer ex H. Passarge 1978 ; 
 - [[Lemno trisulcae-Utricularietum vulgaris]] Soó 1947 ; 

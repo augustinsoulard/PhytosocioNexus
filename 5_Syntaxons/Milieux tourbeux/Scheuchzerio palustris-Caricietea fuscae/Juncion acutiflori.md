@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[515 - Juncion acutiflori.jpg]]
 Sous-alliances :
 - [[Caro verticillati-Juncenion acutiflori]] B. Foucault et Géhu 1980
 - [[Junco subuliflori-Molinienion caeruleae]] (V. Westhoff in V. Westhoff et A. Held 1969) B. Foucault et Géhu 1980

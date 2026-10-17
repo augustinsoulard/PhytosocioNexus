@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[222 - Drabo aizoidis-Seslerion caerulae.jpg]]
 Associations :
 - [[Androsaco villosae-Gentianetum angustifoliae]] Je. Ritter 1972 ;
 - [[Helictotricho setacei-Galietum saxosi]] Gontard 1955 ;

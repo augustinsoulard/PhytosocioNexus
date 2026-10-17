@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[224 - Atropion belladonnae.jpg]]
 Associations :
 - [[Arctietum nemorosi]] Tüxen ex Oberdorfer 1957 ;
 - [[Digitali luteae-Atropetum belladonnae]] Oberdorfer 1957 ;

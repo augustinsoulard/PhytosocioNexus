@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[182 - Scillo bifoliae-Quercenion roboris.jpg]]
 Associations :
 - [[Aconito vulpariae-Quercetum pedunculatae]] (Chouard 1926) F. Bugnon et Rameau 1974 ; 
 - [[Aconito vulpariae-Quercetum roboris]] (Chouard 1927) F. Bugnon et Rameau 1974 ; 

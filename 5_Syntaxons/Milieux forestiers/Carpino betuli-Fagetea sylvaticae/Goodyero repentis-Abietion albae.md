@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[157 - Goodyero repentis-Abietion albae.jpg]]
 Associations :
 - [[Galio rotundifolii-Abietum albae]] Wraber 1959 ; 
 - [[Goodyero repentis-Abietetum albae]] (O. Bolòs 1957) Rivas Martínez 1968

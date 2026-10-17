@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[317 - Puccinellion maritimae.jpg]]
 Associations :
 - [[Puccinellietum fasciculatae]] Beeftink 1965 ; 
 - [[Puccinellietum maritimae]] W.F. Christiansen 1927 ; 

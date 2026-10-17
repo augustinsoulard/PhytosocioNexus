@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[594 - Galio veri-Geranion sanguinei.jpg]]
 Associations :
 - [[Astero armoricani-Geranietum sanguinei]] Bioret 2008 ; 
 - [[Carici arenariae-Silenetum nutantis]] B. Foucault 1986 ; 

@@ -12,6 +12,7 @@ sources:
 ---
 Communautés pionnières le plus souvent éphémères des milieux peu profonds ou temporaires, basiques, parfois sub-saumâtres, mésotrophes à légèrement eutrophes.
 
+![[188 - Charion vulgaris.jpg]]
 Associations :
 - [[Tolypelletum glomeratae]]* Corill. 1957 
 - [[Charetum vulgaris]]* Corill. 1949 

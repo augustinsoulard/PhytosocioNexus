@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[451 - Carpinenion betuli.jpg]]
 Associaitons :
 - [[Carici albae-Tilietum cordatae]] T. Müller et Görs 1958 ; 
 - [[Lithospermo purpurocaerulei-Carpinetum betuli]] (Issler 1926) Oberdorfer 1957 ; 

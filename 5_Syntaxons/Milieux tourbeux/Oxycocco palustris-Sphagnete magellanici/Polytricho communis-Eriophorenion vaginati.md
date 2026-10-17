@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[393 - Polytricho communis-Eriophorenion vaginati.jpg]]
 Associations :
 - [[Avenello flexuosae-Sphagnetum capillifolii]] Thébaud et Pétel 2008 ; 
 - [[Calluno vulgaris-Sphagnetum capillifolii]] B. Foucault 2019 ; 

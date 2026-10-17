@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[227 - Ononido rotundifoliae-Pinenion sylvestris.jpg]]
 Associations :
 - [[Astragalo vesicarii-Pinetum sylvestris]] Braun-Blanquet 1961 ;
 - [[Carici humilis-Pinetum sylvestris]] Braun-Blanquet 1939 ;

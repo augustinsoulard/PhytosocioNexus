@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[342 - Ericion carneae.jpg]]
 Associations :
 - [[Ericetum herbaceae]] Rübel 1911 ; 
 - [[Erico carneae-Rhododendretum hirsutae]] (Braun-Blanquet et al. 1939) Oberdorfer in Oberdorfer et al. 1967

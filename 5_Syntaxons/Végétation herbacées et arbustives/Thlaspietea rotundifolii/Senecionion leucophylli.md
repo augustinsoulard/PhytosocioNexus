@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[578 - Senecionion leucophylli.jpg]]
 Associations :
 - [[Galeopsio pyrenaicae-Poetum fontquerii]] Braun-Blanquet 1948 ; 
 - [[Senecionetum leucophylli]] Braun-Blanquet 1948 ; 

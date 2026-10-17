@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[137 - Anthyllidion hermanniae.jpg]]
 Associations :
 - [[Juniperetum nanae]] Litardière et Malcuit 1926 ; 
 - [[Paronychio polygonifoliae-Genistetum lobelioidis]] Gamisans 1975 nom. invers. ; 

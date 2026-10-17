@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[517 - Junco subuliflori-Molinienion caeruleae.jpg]]
 Associations :
 - [[Carici hostianae-Scorzoneretum humilis]] B. Foucault 2019 ; 
 - [[Carici oedocarpae-Agrostietum caninae]] B. Foucault in J.-M. Royer et al. 2006 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[380 - Danthonio decumbentis-Serapiadion linguae.jpg]]
 Associations :
 - [[Anacamptido morionis-Caricetum caryophylleae]] Misset 2014 ; 
 - [[Danthonio decumbentis-Isoetetum histricis]] Guitton et Thomassin 2013 ; 

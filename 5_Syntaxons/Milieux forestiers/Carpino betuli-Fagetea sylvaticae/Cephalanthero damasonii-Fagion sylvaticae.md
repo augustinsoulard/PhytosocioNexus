@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[153 - Cephalanthero damasonii-Fagion sylvaticae.jpg]]
 Sous-alliances :
 - [[Antherico ramosi-Fagenion sylvaticae]] H. Passarge ex Boeuf 2014
 - [[Cephalanthero damasonii-Fagenion sylvaticae]] Tüxen et Oberdorfer 1958

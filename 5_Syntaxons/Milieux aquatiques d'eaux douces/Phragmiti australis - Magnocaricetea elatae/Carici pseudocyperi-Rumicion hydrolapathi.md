@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[404 - Carici pseudocyperi-Rumicion hydrolapathi.jpg]]
 Associations :
 - [[Berulo erectae-Ranunculetum linguae]] Prey et Wattez in Catteau et al. 2017 ; 
 - [[Calletum palustris]] (Osvald 1923) Vanden Berghen 1952 ; 

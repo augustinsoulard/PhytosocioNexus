@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[354 - Melampyro sylvatici-Poion chaixii.jpg]]
 Associations :
 - [[Antherico liliago-Teucrietum scorodoniae]] S. Muller 1985 nom. inval. ; 
 - [[Hieracio sabaudi-Melampyretum pratensis]] (T. Müller in Oberdorfer 1978) H. Passarge 1979 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[518 - Polygono bistortae-Juncenion acutiflori.jpg]]
 Associations :
 - [[Crepido paludosae-Juncetum acutiflori]] Oberdorfer 1957 ; 
 - [[Epilobio palustris-Juncetum effusi]] Oberdorfer 1957 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[255 - Lavandulo-Artemisienion.jpg]]
 Associations :
 - [[Herniario-Agropyretum]] Braun-Blanquet 1961 ; 
 - [[Koelerio-Astragaletum vesicariae]] Braun-Blanquet 1961 ; 

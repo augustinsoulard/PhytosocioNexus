@@ -14,5 +14,6 @@ Végétation herbacée vivace aquatique sous-marine des substrats sableux et roc
 
 Espèces indicatrices : [[Posidonia oceanica]].
 
+![[419 - Posidonion oceanicae.jpg]]
 Associations :
 - [[Posidonietum oceanicae]] Funk 1927

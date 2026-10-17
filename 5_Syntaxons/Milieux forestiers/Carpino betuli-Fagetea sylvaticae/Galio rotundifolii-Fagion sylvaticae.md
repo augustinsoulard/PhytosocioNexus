@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[156 - Galio rotundifolii-Fagion sylvaticae.jpg]]
 Associations :
 - [[Anthyllido hermanniae-Pinetum laricionis]] (Gamisans 1975) Gauberville et al. 2019 ; 
 - [[Galio rotundifoliiPinetum laricionis]] (Braun-Blanquet 1955) Gamisans 1975 ; 

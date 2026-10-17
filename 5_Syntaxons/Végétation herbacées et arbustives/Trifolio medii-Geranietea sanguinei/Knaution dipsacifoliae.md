@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[598 - Knaution dipsacifoliae.jpg]]
 Sous-alliances :
 - [[Knautienion dipsacifoliae]] J.-M. Royer 2016
 - [[Laserpitio latifolii-Teucrienion scorodoniae]] J.-M. Royer 2016

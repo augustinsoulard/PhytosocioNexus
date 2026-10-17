@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[415 - Polycarpion tetraphylli.jpg]]
 Associations :
 - [[Crassulo tillaeae-Saginetum apetalae]] Rivas Martínez 1975 ; 
 - [[Plantagini coronopodis-Erodietum maritimi]] Géhu et Géhu-Franck 1991 ; 

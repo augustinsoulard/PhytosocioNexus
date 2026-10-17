@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[476 - Cytision sessilifolii.jpg]]
 Associations :
 - [[Spartio-Cytisetum sessilifolii]] Biondi in Biondi et al. 1988

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[467 - Amelanchiero ovalis-Buxenion sempervirentis.jpg]]
 Associations :
 - [[Aceri monspessulani-Buxetum sempervirentis]] Billy ex B. Foucault et J.-M. Royer 2016 ; 
 - [[Amelanchiero ovalisJuniperetum thuriferae]] B. Foucault 1991 ; 

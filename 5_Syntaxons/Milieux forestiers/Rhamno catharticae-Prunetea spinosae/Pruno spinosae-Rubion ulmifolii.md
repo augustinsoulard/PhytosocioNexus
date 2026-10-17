@@ -21,6 +21,7 @@ Espèces indicatrices : [[Spartium junceum]], [[Pyrus spinosa]], [[Rubus ulmifol
 
 ZH : p.p.
 
+![[479 - Pruno spinosae-Rubion ulmifolii.jpg]]
 Associations :
 - [[Coriario myrtifoliae-Spartietum juncei]] B. Foucault 2017 ; 
 - [[Crataego monogynae-Pyretum spinosae]] Biondi et al. 2002 corr.  - Présence supposée, à rechercher ; 

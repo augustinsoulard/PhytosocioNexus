@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[166 - Tilio platyphylli-Acerion pseudoplatani.jpg]]
 Associations :
 - [[Arunco dioici-Aceretum pseudoplatani]] Moor 1952 ; 
 - [[Asperulo taurinae-Aceretum pseudoplatani]] Ellenberg et Klötzli 1972 ; 

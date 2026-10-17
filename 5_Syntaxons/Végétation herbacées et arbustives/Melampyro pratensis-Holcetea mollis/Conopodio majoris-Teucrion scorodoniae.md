@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[351 - Conopodio majoris-Teucrion scorodoniae.jpg]]
 Associations :
 - [[Anemono nemorosae-Euphorbietum hybernae]] Bouzillé et B. Foucault in J.-M. Royer et al. 2006 ; 
 - [[Arenario montanae-Pseudarrhenatheretum longifolii]] P. Lafon 2019 ; 

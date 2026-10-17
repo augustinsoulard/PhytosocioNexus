@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[295 - Antinorio agrostideae-Isoetion velatae.jpg]]
 Associations :
 - [[Apietum crassipedis]] Paradis et Pozzo di Borgo 2005 ; 
 - [[Carici erythrostachyos-Helosciadetum crassipedis]] Paradis et Pozzo di Borgo ex B. Foucault 2013 ; 

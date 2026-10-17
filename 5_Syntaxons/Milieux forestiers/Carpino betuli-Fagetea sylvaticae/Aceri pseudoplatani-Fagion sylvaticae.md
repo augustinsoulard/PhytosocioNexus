@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[152 - Aceri pseudoplatani-Fagion sylvaticae.jpg]]
 Associations :
 - [[Aceri pseudoplatani-Fagetum sylvaticae]] J. Bartsch et M. Bartsch 1940 ; 
 - [[Doronico autriacii-Fagetum sylvaticae]] Seytre in Renaux et al. 2019 ; 

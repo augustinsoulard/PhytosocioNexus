@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[506 - Salicion triandrae.jpg]]
 Associations :
 - [[Calystegio sepium-Salicetum triandrae]] Jurko 1964 ; 
 - [[Chaerophyllo hirsuti-Salicetum fragilis]] T. Müller et Görs 1958 ; 

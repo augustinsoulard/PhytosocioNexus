@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[409 - Phragmition communis.jpg]]
 Associations :
 - [[Acoretum calami]] M. Schulz 1941 ; 
 - [[Angelico heterocarpae-Phragmitetum communis]] (Géhu et Géhu-Franck 1978) Géhu 1995 ; 

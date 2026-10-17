@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[623 - Sorbo aucupariae-Betulion pubescentis.jpg]]
 Associations :
 - [[Betulo carpaticae-Sorbetum aucupariae]] W. Lohmeyer et U. Bohn 1972 nom. inval. ; 
 - [[Sphagno capillifolii-Betuletum carpaticae]] D. Cartier et al. in Boeuf 2014 nom. inval. (3b)

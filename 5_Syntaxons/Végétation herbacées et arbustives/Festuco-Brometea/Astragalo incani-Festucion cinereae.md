@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[260 - Astragalo incani-Festucion cinereae.jpg]]
 Associations :
 - [[Achilleo odoratae-Andropogonetum ischaemi]] Allier 1971 ; 
 - [[Astragalo incani-Potentilletum gaudinii]] Allier 1971 ; 

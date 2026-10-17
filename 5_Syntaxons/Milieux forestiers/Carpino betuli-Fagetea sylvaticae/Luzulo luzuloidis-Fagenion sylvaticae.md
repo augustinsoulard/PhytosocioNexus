@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[160 - Luzulo luzuloidis-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Luzulo luzuloidis-Fagetum sylvaticae]] Meusel 1937

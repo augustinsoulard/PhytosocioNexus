@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[309 - Agropyrion pungentis.jpg]]
 Associations :
 - [[Agropyro pungentis-Althaeetum officinalis]] Géhu et Géhu-Franck 1976 ; 
 - [[Atriplici hastatae-Agropyretum pungentis]] Beeftink et V. Westhoff 1962 ; 

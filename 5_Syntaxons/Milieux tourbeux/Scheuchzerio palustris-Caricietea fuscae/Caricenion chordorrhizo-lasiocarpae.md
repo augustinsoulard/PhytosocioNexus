@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[532 - Caricenion chordorrhizo-lasiocarpae.jpg]]
 Associations :
 - [[Drepanoclado revolventis-Caricetum chordorrhizae]] Osvald 1925 ; 
 - [[Equiseto limosi-Caricetum rostratae]] Zumpfe 1929 ; 

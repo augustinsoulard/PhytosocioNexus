@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[238 - Xerobromenion erecti.jpg]]
 Associations :
 - [[Astragalo monspessulani-Festucetum marginatae]] Choisnet in Le Hénaff et al. 2021 ; 
 - [[Bromo erecti-Ranunculetum graminei]] J.-M. Royer 1973 ; 

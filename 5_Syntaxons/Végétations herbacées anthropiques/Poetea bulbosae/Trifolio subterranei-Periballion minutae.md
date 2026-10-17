@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[411 - Trifolio subterranei-Periballion minutae.jpg]]
 Associations :
 - [[Trifolietum scabro-tomentosi]] G. Aubert et R.J. Loisel 1971

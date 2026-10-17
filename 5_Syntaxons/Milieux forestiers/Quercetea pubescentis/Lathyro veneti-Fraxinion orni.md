@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[444 - Lathyro veneti-Fraxinion orni.jpg]]
 Sous-alliances :
 - [[Buxenion sempervirentis]] Gamisans 1975
 - [[Cyclamino repandi-Fraxinenion orni]] Gamisans in Renaux et al. 2019

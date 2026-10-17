@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[604 - Scorpidio scorpidioidis-Utricularion minoris.jpg]]
 Associations :
 - [[Scorpidio scorpioidis-Utricularietum minoris]] T. Müller et Görs 1960 ; 
 - [[Sparganietum minimi]] Schaaf 1925 nom. nud. (2b) ; 

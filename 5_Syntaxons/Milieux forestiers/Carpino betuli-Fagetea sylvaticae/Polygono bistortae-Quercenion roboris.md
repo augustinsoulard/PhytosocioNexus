@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[179 - Polygono bistortae-Quercenion roboris.jpg]]
 Associations :
 - [[Carici montanae-Quercetum roboris]] Rameau ex B. Didier et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Corydalido solidae-Fraxinetum excelsioris]] Billy 1997 ; 
