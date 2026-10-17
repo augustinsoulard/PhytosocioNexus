@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[400 - Beto maritimae-Malvion arboreae.jpg]]
 Associations :
 - [[Lavateretum arboreae]] Géhu et Géhu-Franck ex Géhu et Géhu-Franck 1969
 

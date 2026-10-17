@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[579 - Androsacion ciliatae.jpg]]
 Associations :
 - [[Alsine cerastiifoliae-Androsacetum ciliatae]] Chouard 1943 ; 
 - [[Minuartio sedoidis-Androsacetum ciliatae]] Rivas Martínez 1988

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[207 - Oxytropido-Elynion myosuroidis.jpg]]
 Sous-alliances :
 - [[Eu-Oxytropido-Elynenion myosuroidis]]
 - [[Festuco pumilae-Elynenion myosuroidis]] Corriol et al. 2023

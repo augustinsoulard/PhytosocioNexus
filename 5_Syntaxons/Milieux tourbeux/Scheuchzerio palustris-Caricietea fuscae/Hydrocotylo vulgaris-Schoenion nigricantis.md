@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[528 - Hydrocotylo vulgaris-Schoenion nigricantis.jpg]]
 Sous-alliances :
 - [[Caricenion pulchello-trinervis]] Julve ex B. Foucault 2008
 - [[Hydrocotylo vulgaris-Schoenenion nigricantis]] J.-M. Royer in Bardat et al. 2004 nom. inval. (2b, 3b, 8)

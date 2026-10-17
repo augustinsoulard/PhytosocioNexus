@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[271 - Thalictro flavi-Filipendulion ulmariae.jpg]]
 Associations :
 - [[Aconito napelli-Eupatorietum cannabini]] J.-M. Royer et al. ex J.-M. Royer et al. 2006 ; 
 - [[Angelico sylvestris-Filipenduletum ulmariae]] Roulier 1998 nom. illeg. ; 

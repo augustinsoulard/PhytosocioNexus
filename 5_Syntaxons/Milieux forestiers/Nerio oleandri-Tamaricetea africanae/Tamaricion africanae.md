@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[388 - Tamaricion africanae.jpg]]
 Associations :
 - [[Althaeo officinalis-Tamariscetum africanae]] Gamisans 1992 ; 
 - [[Inulo crithmoidis-Tamaricetum africanae]] Gamisans 1992 ; 

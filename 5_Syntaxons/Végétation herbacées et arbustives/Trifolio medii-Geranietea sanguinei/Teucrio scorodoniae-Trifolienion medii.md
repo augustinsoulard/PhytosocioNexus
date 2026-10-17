@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[603 - Teucrio scorodoniae-Trifolienion medii.jpg]]
 Associations :
 - [[Agrimonio repentis-Brachypodietum sylvatici]] J.-M. Royer et Rameau 1983 ; 
 - [[Melittio melissophylli-Festucetum heterophyllae]] Misset et al. in J.-M. Royer et al. 2006 ; 

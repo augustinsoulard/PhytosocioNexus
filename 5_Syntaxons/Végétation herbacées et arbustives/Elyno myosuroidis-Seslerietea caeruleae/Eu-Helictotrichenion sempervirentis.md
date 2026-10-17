@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[202 - Eu-Helictotrichenion sempervirentis.jpg]]
 Associations :
 - [[Arenario cinereae-Helictotrichetum sempervirentis]] Barbero 1968 ;
 - [[Centaureo triumfetti-Helictotrichetum sempervirentis]] Barbero 1968 ;

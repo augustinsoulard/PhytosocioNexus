@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[237 - Seslerio caeruleae-Xerobromenion erecti.jpg]]
 Associations :
 - [[Allio sphaerocephali-Seslerietum caeruleae]] J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Carici humilis-Anthyllidetum montanae]] Pottier-Alapetite 1942 ; 

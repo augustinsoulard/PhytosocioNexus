@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[146 - Chaerophyllo hirsuti-Abietion albae.jpg]]
 Associations :
 - [[Carici pendulae-Abietetum albae]] (Frehner 1963) Boeuf et Oger in Boeuf 2011 ; 
 - [[Chaerophyllo hirsuti-Abietetum albae]] Duchaufour et Millischer ex Boeuf et N. Simler in Boeuf 2011 ; 

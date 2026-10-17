@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[322 - Goodyero repentis-Pinion sylvestris.jpg]]
 Associations :
 - [[Diantho monspessulani-Pinetum sylvestris]] Billy ex Thébaud et al. 2014 ; 
 - [[Teucrio scorodoniae-Pinetum sylvestris]] Billy ex Thébaud et al. 2014

@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[168 - Ulmion minoris.jpg]]
 Associations :
 - [[Alno glutinosae-Carpinetum betuli]] Issler 1926 ; 
 - [[Ribo rubri-Ulmetum minoris]] (Noirfalise et Sougnez 1961) Gelez et Catteau in Renaux et al. 2019 ; 

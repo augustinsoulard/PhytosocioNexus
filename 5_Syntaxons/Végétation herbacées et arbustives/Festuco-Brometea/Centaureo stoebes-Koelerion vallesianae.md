@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[233 - Centaureo stoebes-Koelerion vallesianae.jpg]]
 Associations :
 - [[Chamaespartio sagittalis-Helianthemetum apennini]] Billy ex Thébaud et al. 2014 ; 
 - [[Koelerio vallesianae-Helianthemetum apennini]] Luquet 1937

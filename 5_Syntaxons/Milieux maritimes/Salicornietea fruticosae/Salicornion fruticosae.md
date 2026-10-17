@@ -22,6 +22,7 @@ Espèces indicatrices : [[Arthrocnemum macrostachyum]], [[Senecio transiens]] [[
 
 ZH : oui
 
+![[510 - Salicornion fruticosae.jpg]]
 Associations :
 - [[Agropyro-Inuletum crithmoidis]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
 - [[Puccinellio festuciformis-Halimonietum portulacoidis]] Géhu et al. 1992 ; 

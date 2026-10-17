@@ -11,6 +11,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 
+![[199 - Frangulo alni-Pyrion cordatae.jpg]]
 Associations :
 - [[Ericetum scopario-erigenae]] Lahondère et Bioret 1996 ; 
 - [[Erico scopariae-Franguletum alni]] Géhu et GéhuFranck 1975 ; 

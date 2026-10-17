@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[592 - Petasition paradoxi.jpg]]
 Associations :
 - [[Anthyllido-Leontodontetum hyoseroidis]] Zoller 1951 ; 
 - [[Athamantho cretensis-Trisetetum distichophylli]] (Jenny-Lips 1930) W. Lippert 1966 nom. inval. ; 

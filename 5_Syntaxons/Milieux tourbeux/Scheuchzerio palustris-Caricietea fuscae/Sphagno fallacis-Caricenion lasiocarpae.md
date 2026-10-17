@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[535 - Sphagno fallacis-Caricenion lasiocarpae.jpg]]
 Associations :
 - [[Caricetum diandrae]] Osvald 1923 ; 
 - [[Caricetum rostratae]] (Rübel 1912) Jonas 1923 ; 

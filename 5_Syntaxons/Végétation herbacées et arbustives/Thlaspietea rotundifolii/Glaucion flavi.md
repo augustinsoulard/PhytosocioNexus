@@ -14,6 +14,7 @@ Végétation herbacée vivace pionnière, eutrophile, des dépôts de galets des
 
 Espèces indicatrices : [[Glaucium flavum]], [[Scrophularia canina subsp. canina]].
 
+![[582 - Glaucion flavi.jpg]]
 Associations :
 - [[Glaucio flavi-Scrophularietum caninae]] (Braun-Blanquet 1936) Tchou 1946 ; 
 - [[Heliantho tuberosiSaponarietum officinalis]] Choisnet 2019 nom. ined. (1) ; 

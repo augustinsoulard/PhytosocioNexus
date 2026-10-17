@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[464 - Quercenion robori-petraeae.jpg]]
 Associations :
 - [[Betulo pendulae-Quercetum petraeae]] Schwickerath 1933 nom. invers. Je. Pall. 1996 ; 
 - [[Betulo-Quercetum pubescentis]] Tombal 1975 ; 

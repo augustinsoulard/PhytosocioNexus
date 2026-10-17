@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[619 - Betulenion pubescentis.jpg]]
 Associations :
 - [[Carici canescentis-Betuletum pubescentis]] Mériaux et al. ex Boeuf et Renaux in Boeuf 2014 ; 
 - [[Holco mollis-Betuletum pubescentis]] (Tüxen 1937) Oberdorfer 1957 ; 

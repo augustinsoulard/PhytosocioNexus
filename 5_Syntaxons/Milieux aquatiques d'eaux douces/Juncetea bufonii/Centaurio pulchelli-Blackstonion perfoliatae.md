@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[301 - Centaurio pulchelli-Blackstonion perfoliatae.jpg]]
 Associations :
 - [[Blackstonio imperfoliatae-Juncetum bufonii]] Choisnet 2019 nom. ined. (1) ; 
 - [[Blackstonio perfoliatae-Isolepidetum cernuae]] B. Foucault 2020 ; 

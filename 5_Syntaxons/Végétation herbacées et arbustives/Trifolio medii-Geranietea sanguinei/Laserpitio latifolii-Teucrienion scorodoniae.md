@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[600 - Laserpitio latifolii-Teucrienion scorodoniae.jpg]]
 Associations :
 - [[Centaureo nigrae-Vicietum orobi]] Billy ex J.-M. Royer 2016 ; 
 - [[Cirsio erisithalis-Teucrietum scorodoniae]] Billy ex J.-M. Royer 2016 ; 

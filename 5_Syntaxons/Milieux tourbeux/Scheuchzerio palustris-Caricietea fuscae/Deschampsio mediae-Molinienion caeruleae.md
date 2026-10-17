@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[523 - Deschampsio mediae-Molinienion caeruleae.jpg]]
 Associations :
 - [[Allio schoenoprasi-Deschampsietum mediae]] Laclos et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Blackstonio perfoliatae-Silaetum silai]] (P. Allorge 1922) B. Foucault 2008 ; 

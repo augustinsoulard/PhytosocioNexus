@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[480 - Humulo lupuli-Sambucion nigrae.jpg]]
 Associations :
 - [[Corno sanguineae-Salicetum purpureae]] Billy ex Thébaud et al. 2014 ; 
 - [[Humulo lupuli-Sambucetum nigrae]] T. Müller ex B. Foucault 1991 ; 

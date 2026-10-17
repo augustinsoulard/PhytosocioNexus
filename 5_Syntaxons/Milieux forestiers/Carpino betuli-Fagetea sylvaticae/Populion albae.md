@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[174 - Populion albae.jpg]]
 Associations :
 - [[Fraxino angustifoliae-Alnetum glutinosae]] Tchou 1949 nom. invers. Renaux et al. 2019 ; 
 - [[Populetum albae]] Braun-Blanquet ex Tchou 1949

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[586 - Dryopteridion abbreviatae.jpg]]
 Associations :
 - [[Athyrietum alpestris]] Em. Schmid 1923 ; 
 - [[Cryptogrammo crispae-Dryopteridetum oreadis]] Rivas Martínez in Rivas Martínez et M. Costa 1970 corr. Rivas Martínez et al. 1991 ; 

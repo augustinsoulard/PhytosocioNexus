@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[210 - Caricenion firmae.jpg]]
 Associations :
 - [[Caricetum firmae]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926 ;
 - [[Dryadetum octopetalae]] Rübel 1911

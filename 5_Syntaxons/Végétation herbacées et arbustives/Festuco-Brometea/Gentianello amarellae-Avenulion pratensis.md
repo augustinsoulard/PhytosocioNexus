@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[243 - Gentianello amarellae-Avenulion pratensis.jpg]]
 Associations :
 - [[Thymo britannici-Festucetum hirtulae]] Boullet (1986) 1989 nom. ined. (1)
 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[293 - Honckenyo latifoliae-Crambion maritimae.jpg]]
 Associations :
 - [[Crithmo maritimi-Crambetum maritimae]] (Géhu 1960) Géhu et Géhu-Franck 1969 ; 
 - [[Crithmo maritimi-Elytrigietum boreoatlanticae]] (Géhu et Géhu-Franck 1969) Bioret et al. 2015 ; 

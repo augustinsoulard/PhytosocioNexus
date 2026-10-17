@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[504 - Salicion apennino-purpureae.jpg]]
 Associations :
 - [[Dittricho viscosae-Salicetum purpureae]] Gamisans 2013

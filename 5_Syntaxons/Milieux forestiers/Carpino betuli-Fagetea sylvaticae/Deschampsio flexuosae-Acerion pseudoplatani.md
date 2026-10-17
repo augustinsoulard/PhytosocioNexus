@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[164 - Deschampsio flexuosae-Acerion pseudoplatani.jpg]]
 Associations :
 - [[Avenello flexuosae-Aceretum pseudoplatani]] Klauck ex Boeuf et Renaux in Renaux et al. 2019 ; 
 - [[Calamagrostio arundinaceae-Aceretum pseudoplatani]] Boeuf 2014 nom. inval. (3b) ; 

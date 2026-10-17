@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[219 - Caricion ferrugineae.jpg]]
 Sous-alliances :
 - [[Calamagrostidenion variae]] (Sillinger 1932) T. Sanz et al. in Corriol et al. 2023
 - [[Eu-Caricenion ferrugineae]]

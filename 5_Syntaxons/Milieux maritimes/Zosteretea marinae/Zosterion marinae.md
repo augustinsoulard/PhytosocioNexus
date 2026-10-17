@@ -16,6 +16,7 @@ Végétation herbacée vivace aquatique sous-marine, associée à des algues mar
 Espèces indicatrices : [[Zostera marina]].
 
 
+![[624 - Zosterion marinae.jpg]]
 Associations :
 - [[Zosteretum angustifoliae]] G.W. Harmsen 1936 ; 
 - [[Zosteretum marinae]] (Børgesen 1905) G.W. Harmsen 1936 ; 

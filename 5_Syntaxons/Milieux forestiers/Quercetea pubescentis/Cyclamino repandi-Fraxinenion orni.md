@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[446 - Cyclamino repandi-Fraxinenion orni.jpg]]
 Associations :
 - [[Digitali luteae-Castanetum sativae]] Gamisans 1975 ; 
 - [[Ilici aquifolii-Quercetum ilicis]] Gamisans 1975 ; 

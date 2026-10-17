@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[561 - Diplotaxion erucoidis.jpg]]
 Associations :
 - [[Amarantho delilei-Diplotaxietum erucoidis]] Braun-Blanquet in Braun-Blanquet et al. 1936
 

@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[355 - Potentillo erectae-Holcion mollis.jpg]]
 Associations :
 - [[Athyrio filicis-feminae-Blechnetum spicant]] B. Foucault 1995 ; 
 - [[Blechno spicant-Oreopteridetum limbospermae]] Robbe ex J.-M. Royer et al. 2006 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[175 - Buxo sempervirentis-Fraxinion angustifoliae.jpg]]
 Associations :
 - [[Buxo sempervirentis-Fraxinetum angustifoliae]] Choisnet et Gauberville in Renaux et al. 2019 ; 
 - [[Carici pendulae-Fraxinetum angustifoliae]] Choisnet et Bensettiti in Renaux et al. 2019 ; 

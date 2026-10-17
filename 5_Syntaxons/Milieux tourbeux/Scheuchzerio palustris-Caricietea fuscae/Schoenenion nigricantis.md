@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[526 - Schoenenion nigricantis.jpg]]
 Associations :
 - [[Carici davallianae-Schoenetum x intermedii]] Rameau et J.-M. Royer 1978 ; 
 - [[Eriophoro latifolii-Caricetum lepidocarpae]] J.-M. Royer et B. Didier 1996 ; 

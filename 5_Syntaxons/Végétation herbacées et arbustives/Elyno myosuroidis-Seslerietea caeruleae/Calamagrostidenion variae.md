@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[220 - Calamagrostidenion variae.jpg]]
 Associations :
 - [[Calamagrostietum variae]] W. Lüdi 1921 ;
 - [[Campanulo thyrsoidis-Laserpitietum latifolii]] C. Béguin 1972 ;

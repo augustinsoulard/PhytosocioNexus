@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[591 - Iberidion spathulatae.jpg]]
 Associations :
 - [[Aquilegio pyrenaicae-Bordereetum pyrenaicae]] Quézel 1956 ; 
 - [[Crepidetum pygmaeae]] Braun-Blanquet 1948 ; 

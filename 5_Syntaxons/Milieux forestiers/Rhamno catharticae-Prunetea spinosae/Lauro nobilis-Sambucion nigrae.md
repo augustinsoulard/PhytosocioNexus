@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[465 - Lauro nobilis-Sambucion nigrae.jpg]]
 Associations :
 - [[Fico caricae-Sambucetum nigrae]] B. Foucault 2016

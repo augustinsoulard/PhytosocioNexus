@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[348 - Rubion pedatifolio-questieri.jpg]]
 Associations :
 - [[Rubetum canaliculato-questieri]] J.-M. Royer et Ferrez 2017 ; 
 - [[Rubetum gillotii-pedatifolii]] J.-M. Royer et Ferrez 2017 ; 

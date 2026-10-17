@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[361 - Cardamino amarae-Montion fontanae.jpg]]
 Associations :
 - [[Chaerophyllo calabrici-Cardaminetum asarifoliae]] Gerdol et Tomaselli ex B. Foucault 2018 ; 
 - [[Montio fontanae-Philonotidetum fontanae]] Büker et Tüxen 1941 ; 

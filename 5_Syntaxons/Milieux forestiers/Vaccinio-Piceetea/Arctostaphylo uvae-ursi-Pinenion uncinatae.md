@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[609 - Arctostaphyllo uvae-ursi-Pinenion uncinatae.jpg]]
 Associations :
 - [[Arctostaphylo uvae-ursi-Pinetum uncinatae]] Rivas Martínez 1968

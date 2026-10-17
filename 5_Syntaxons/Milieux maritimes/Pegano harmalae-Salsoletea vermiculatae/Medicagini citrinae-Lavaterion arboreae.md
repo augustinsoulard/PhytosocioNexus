@@ -14,6 +14,7 @@ sources:
 
 Espèces indicatrices : [[Malva arborea]]. 
 
+![[401 - Medicagini citrinae-Lavaterion arboreae.jpg]]
 Associations :
 - [[Camphorosmo monspeliacae-Suaedetum verae]] V. Noble et Baret 2019 nom. ined. (1) ; 
 - [[Dactylo hispanicae-Malvetum arboreae]] V. Noble et Baret 2019 nom. ined. (1)

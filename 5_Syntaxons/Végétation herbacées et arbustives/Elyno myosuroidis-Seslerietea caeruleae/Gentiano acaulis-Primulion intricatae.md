@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[206 - Gentiano acaulis-Primulion intricatae.jpg]]
 Associations :
 - [[Gentiano acaulis-Primuletum intricatae]] Vigo 1972

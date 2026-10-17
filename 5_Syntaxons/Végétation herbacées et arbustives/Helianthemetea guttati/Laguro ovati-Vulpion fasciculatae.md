@@ -23,6 +23,7 @@ ZH : non
 
 Note : Un groupement à [[Vulpia fasciculata]] et [[Lagurus ovatus]], peu diversifié et peu caractérisé, s’observe régulièrement sur la bordure externe, légèrement perturbée, des dunes blanches du littoral de la Camargue, associant les espèces citées ci-dessus avec [[Crepis foetida]], parfois [[Cutandia maritima]]. Il peut s’agir d’une communauté basale de l’alliance ([[Silene nicaeensis]] manque en Camargue) mais des études complémentaires devront être menées.
 
+![[291 - Laguro ovati-Vulpion fasciculatae.jpg]]
 Associations :
 - [[Erodio bipinnati-Vulpietum fasciculatae]] B. Foucault 2017 ; 
 - [[Sileno nicaeensis-Vulpietum fasciculatae]] (Paradis et C. Piazza 1991) Géhu et Biondi 1994 ; 

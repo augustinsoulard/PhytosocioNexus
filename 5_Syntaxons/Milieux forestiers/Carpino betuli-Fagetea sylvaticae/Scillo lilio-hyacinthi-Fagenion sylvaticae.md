@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[151 - Scillo lilio-hyacinthi-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Adoxo moschatellinae-Fagetum sylvaticae]] Rivas Martínez et al. 1991 ; 
 - [[Euphorbio hybernae-Fagetum sylvaticae]] Billy ex Thébaud et al. 2014 ; 

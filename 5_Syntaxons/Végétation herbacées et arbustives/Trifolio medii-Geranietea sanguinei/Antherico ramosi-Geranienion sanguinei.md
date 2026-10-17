@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[596 - Antherico ramosi-Geranienion sanguinei.jpg]]
 Associations :
 - [[Asperulo tinctoriae-Vincetoxicetum hirundinariae]] A. Schmitt et Rameau 1983 ; 
 - [[Asphodelo macrocarpi-Laserpitietum sileris]] Misset 2013 ; 

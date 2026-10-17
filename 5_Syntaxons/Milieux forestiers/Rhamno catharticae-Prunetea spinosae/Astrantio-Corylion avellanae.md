@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[473 - Astrantio-Corylion avellanae.jpg]]
 Associations :
 - [[Anemono hepaticae-Coryletum avellanae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
 - [[Berberido vulgaris-Prunetum brigantiacae ]]Braun-Blanquet 1961 ; 

@@ -22,6 +22,7 @@ sources:
 ZH : oui
 
 
+![[406 - Magnocaricion elatae.jpg]]
 Associations :
 - [[Caricetum acutiformi-paniculatae]] Vlieger et Zinderen-Bakker in Boer 1942 ; 
 - [[Caricetum cespitosae]] (Cajander 1905) Steffen 1931 ; 

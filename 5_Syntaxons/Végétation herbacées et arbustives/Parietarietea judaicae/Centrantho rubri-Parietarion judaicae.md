@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[398 - Centrantho rubri-Parietarion judaicae.jpg]]
 Associations :
 - [[Asarino procumbentis-Parietarietum judaicae]] B. Foucault 2017 ; 
 - [[Capparietum rupestris]] O. Bolòs et Molinier 1958 ; 

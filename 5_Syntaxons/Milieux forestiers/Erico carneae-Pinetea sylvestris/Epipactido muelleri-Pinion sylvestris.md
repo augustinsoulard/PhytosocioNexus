@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[229 - Epipactido muelleri-Pinion sylvestris.jpg]]
 Associations :
 - [[Cephalanthero longifoliae-Pinetum sylvestris]] Billy ex Thébaud et al. 2014 ;
 - [[Cervario rivini-Pinetum sylvestris]] J.-M. Royer in J.-M. Royer et al. 2006 ;

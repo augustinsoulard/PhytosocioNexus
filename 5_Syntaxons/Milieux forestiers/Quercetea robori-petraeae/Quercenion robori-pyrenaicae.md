@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[460 - Quercenion robori-pyrenaicae.jpg]]
 Associations :
 - [[Arbuto unedonis-Quercetum roboris]] Romeyer et P. Lafon 2018 ; 
 - [[Asphodelo albi-Quercetum pyrenaicae]] Botineau et al. 1990 ; 

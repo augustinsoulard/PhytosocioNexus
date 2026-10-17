@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[516 - Caro verticillati-Juncenion acutiflori.jpg]]
 Associations :
 - [[Anagallido tenellae-Juncetum bulbosi]] Braun-Blanquet 1967 ; 
 - [[Anagallido tenellae-Pinguiculetum lusitanicae]] (Rivas Goday 1964) B. Foucault 2008 ; 

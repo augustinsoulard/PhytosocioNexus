@@ -28,6 +28,7 @@ sources:
 
 ZH : non
 
+![[144 - Carpino betuli-Fagion sylvaticae.jpg]]
 Associations :
 - [[Androsaemo officinalis-Fagetum sylvaticae]] B. Comps et al. ex Renaux et al. 2019 ; 
 - [[Carici flaccae-Fagetum sylvaticae]] Thill 1964 ; 

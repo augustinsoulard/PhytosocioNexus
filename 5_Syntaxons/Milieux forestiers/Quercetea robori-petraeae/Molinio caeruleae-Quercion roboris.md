@@ -21,5 +21,6 @@ sources:
 
 ZH : oui
 
+![[455 - Molinio caeruleae-Quercion roboris.jpg]]
 Associations :
 - [[Molinio caeruleae-Quercetum roboris]] (Tüxen 1937) Scamoni et H. Passarge 1959

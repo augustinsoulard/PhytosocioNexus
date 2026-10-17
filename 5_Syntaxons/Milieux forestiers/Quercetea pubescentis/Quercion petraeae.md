@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[448 - Quercion petraeae.jpg]]
 Associations :
 - [[Genisto sagittalis-Quercetum petraeae]] (Issler 1926) T. Müller in Oberdorfer ex Boeuf et N. Simler in Boeuf 2011 ; 
 - [[Potentillo albae-Quercetum petraeae]] Libbert 1933 nom. invers.

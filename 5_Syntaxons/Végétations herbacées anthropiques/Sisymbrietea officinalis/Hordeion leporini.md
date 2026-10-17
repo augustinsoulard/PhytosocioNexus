@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[546 - Hordeion leporini.jpg]]
 Associations :
 - [[Asphodelo fistulosi-Hordeetum leporini]] A. Bolòs et O. Bolòs in A. Bolòs 1950 ; 
 - [[Hordeetum leporini]] Braun-Blanquet 1936 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[197 - Sarothamnion scoparii.jpg]]
 Associations :
 - [[Abieti albae-Cytisetum scoparii]] B. Foucault 2018 ; 
 - [[Calluno vulgaris-Sarothamnetum scoparii]] Malcuit 1929 ; 

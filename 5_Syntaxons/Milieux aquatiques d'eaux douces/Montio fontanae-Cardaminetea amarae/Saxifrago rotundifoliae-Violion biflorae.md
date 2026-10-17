@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[359 - Saxifrago rotundifoliae-Violion biflorae.jpg]]
 Associations :
 - [[Hyperico corsici-Myosotietum soleirolii]] Gamisans 1975 ; 
 - [[Saxifrago rotundifoliae-Violetum biflorae]] B. Foucault et Delpech 1985

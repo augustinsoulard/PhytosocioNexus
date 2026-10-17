@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[608 - Seslerio caeruleae-Pinion uncinatae.jpg]]
 Sous-alliances :
 - [[Arctostaphylo uvae-ursi-Pinenion uncinatae]] Thébaud et Delcoigne 2018
 - [[Rhododendro ferruginei-Pinenion uncinatae]] Rivas Martínez et al. 1991

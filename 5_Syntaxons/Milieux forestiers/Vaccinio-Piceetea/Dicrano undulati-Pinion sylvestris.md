@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[617 - Dicrano undulati-Pinion sylvestris.jpg]]
 Associations :
 - [[Cladino-Pinetum sylvestris]] Juraszek 1928 nom. invers. Berg et al. 2004 ; 
 - [[Vaccinio-Pinetum sylvestris]] Juraszek 1928 nom. invers. Berg et al. 2004

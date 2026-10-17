@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[373 - Festucion variae.jpg]]
 Associations :
 - [[Anthoxantho odorati-Veronicetum allionii]] Lavagne et al. 1983 ; 
 - [[Avenetum parlatorei]] Lavagne et al. 1983 ; 

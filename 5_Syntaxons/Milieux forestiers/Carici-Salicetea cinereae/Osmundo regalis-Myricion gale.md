@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[140 - Osmundo regalis-Myricion gale.jpg]]
 Associations :
 - [[Erico scopariae-Myricetum gale]] B. Foucault et al. in B. Foucault et J.-M. Royer 2015 ; 
 - [[Myricetum gale]] Osvald 1923 ; 

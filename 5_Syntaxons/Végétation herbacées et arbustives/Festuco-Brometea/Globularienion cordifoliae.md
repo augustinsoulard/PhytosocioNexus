@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[263 - Globularienion cordifoliae.jpg]]
 Associations :
 - [[Arenario modestae-Genistetum pulchellae]] Barbero et al. 1972 ; 
 - [[Genisto villarsii-Anthyllidetum montanae]] (Allier et Je. Ritter 1971) J.-M. Royer et Ferrez 2020 ; 

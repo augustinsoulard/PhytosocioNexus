@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[337 - Samolo valerandi-Baldellion ranunculoidis.jpg]]
 Associations :
 - [[Littorello uniflorae-Baldellietum ranunculoidis]] Ivimey Cook et M. Proctor 1966 ; 
 - [[Samolo valerandi-Littorelletum uniflorae]] V. Westhoff ex Schoof-van Pelt 1973

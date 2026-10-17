@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[505 - Salicion eleagno-daphnoidis.jpg]]
 Associations :
 - [[Myricarietum germanicae]] Beger ex Soó 1927 ; 
 - [[Petasito hybridi-Salicetum triandrae]] T. Müller et Görs 1958 ; 

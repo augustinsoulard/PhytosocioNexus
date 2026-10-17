@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[272 - Dorycnio recti-Rumicion conglomerati.jpg]]
 Associations :
 - [[Cirsio cretici-Dorycnietum recti]] (Brullo et Ronsisvalle 1975) Géhu et Biondi 1988 ; 
 - [[Cypero longi-Oenanthetum crocatae]] Paradis in Reymann et al. 2017 nom. inval. (3b) ; 

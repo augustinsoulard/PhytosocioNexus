@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[524 - Caricion davallianae.jpg]]
 Sous-alliances :
 - [[Caricenion davallianae]] Giugni 1991
 - [[Schoenenion nigricantis]] Giugni 1991

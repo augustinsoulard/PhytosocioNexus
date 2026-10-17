@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[302 - Cicendio filiformis-Solenopsion laurentiae.jpg]]
 Associations :
 - [[Agrostio pourretii-Juncetum capitati]] (Barbero 1965) B. Foucault 2013 ; 
 - [[Bellido annuae-Cicendietum filiformis]] B. Foucault ex Paradis et Pozzo di Borgo 2005 ; 

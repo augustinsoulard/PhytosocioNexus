@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[345 - Juniperion nanae.jpg]]
 Associations :
 - [[Cotoneastro integerrimi-Arctostaphyletum uvae-ursi]] Nègre 1950 ; 
 - [[Cotoneastro pyrenaici-Juniperetum nanae]] (Turmel 1955) Rivas Martínez et al. 2002 ; 

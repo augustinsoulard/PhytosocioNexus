@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[397 - Brassicion oleraceae.jpg]]
 Associations :
 - [[Beto maritimae-Parietarietum judaicae]] Bioret et Géhu 2011 ; 
 - [[Crithmo maritimi-Centranthetum rubri]] Géhu 2005 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[413 - Digitario sanguinalis-Polygonion avicularis.jpg]]
 Associations :
 - [[Amarantho deflexi-Polygonetum avicularis]] G. Sissingh 1969 ; 
 - [[Eleusinetum indicae]] Pignatti 1953 ; 

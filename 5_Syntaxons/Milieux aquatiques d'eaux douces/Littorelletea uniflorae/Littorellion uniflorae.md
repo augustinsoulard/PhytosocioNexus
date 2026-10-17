@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[340 - Littorellion uniflorae.jpg]]
 Associations :
 - [[Callitricho palustris-Sparganietum angustifolii]] Braun-Blanquet ex Oberdorfer 1957 ; 
 - [[Callitricho palustris-Subularietum aquaticae]] Lazare et S. Riba in Lazare 2017 ; 

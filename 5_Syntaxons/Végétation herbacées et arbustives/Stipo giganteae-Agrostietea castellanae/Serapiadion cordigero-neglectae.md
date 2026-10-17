@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[570 - Serapiadion cordigero-neglectae.jpg]]
 Associations :
 - [[Anacamptido laxiflorae-Serapiadetum linguae]] B. Foucault et Klesczewski 2022 ; 
 - [[Oenantho-Caricetum chaetophyllae]] (G. Aubert et R.J. Loisel 1971) R.J. Loisel 1976 ; 

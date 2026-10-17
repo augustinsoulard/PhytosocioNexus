@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[387 - Rubo ulmifolii-Nerion oleandri.jpg]]
 Associations :
 - [[Erico scopariae-Nerietum oleandri]] (Lavagne et Moutte 1971) B. Foucault et al. 2012 ; 
 - [[Nerio oleandri-Viticetum agni-casti]] Paradis 2006 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[533 - Caricenion lasiocarpae.jpg]]
 Associations :
 - [[Caricetum lasiocarpae]] Osvald 1923 ; 
 - [[Caricetum lasiocarpae]] W. Koch 1926 ; 

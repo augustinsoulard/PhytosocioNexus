@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[416 - Rubo ulmifolii-Populion albae.jpg]]
 Associations :
 - [[Alno incanae-Salicetum albae]] Varèse ex B. Foucault et T. Cornier 2020 ; 
 - [[Brachypodio phoenicoidis-Populetum nigrae]] Varèse ex B. Foucault et T. Cornier 2020 ; 

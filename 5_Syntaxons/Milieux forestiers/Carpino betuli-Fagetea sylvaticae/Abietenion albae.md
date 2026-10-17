@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[148 - Abietenion albae.jpg]]
 Associations :
 - [[Daphno laureolae-Abietetum albae]] Boeuf 2014 ; 
 - [[Festuco altissimae-Abietetum albae]] (Issler 1924) A. Hubert ex Boeuf 2011 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[211 - Salicion pyrenaicae.jpg]]
 Sous-alliances :
 - [[Eu-Salicenion pyrenaicae]]
 - [[Ranunculo thorae-Seslerienion caeruleae]] G. Peyre et X. Font ex Lazare 2017

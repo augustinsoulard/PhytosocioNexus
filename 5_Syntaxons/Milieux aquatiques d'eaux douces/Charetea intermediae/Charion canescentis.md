@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[186 - Charion canescentis.jpg]]
 Associations :
 - ✓ 31-[[Tolypelletum hispanicae]]* Corill. 1957 
 - ✓ 32-[[Lamprothamnietum papulosi]]* Corill. 1953 

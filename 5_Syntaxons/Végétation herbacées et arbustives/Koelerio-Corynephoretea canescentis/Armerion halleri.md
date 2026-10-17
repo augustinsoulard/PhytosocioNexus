@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[330 - Armerion halleri.jpg]]
 Associations :
 - [[Armerietum halleri]] Libbert 1930

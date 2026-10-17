@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[453 - Erythronio dentis-canis-Carpinion betuli.jpg]]
 Associations :
 - [[Euphorbio dulcis-Carpinetum betuli]] R.J. Loisel et Barbero 1970

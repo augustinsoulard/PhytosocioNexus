@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[457 - Hymenophyllo tunbrigensis-Quercion petraeae.jpg]]
 Associations :
 - [[Blechno spicant-Quercetum petraeae]] Braun-Blanquet et Tüxen 1952
 

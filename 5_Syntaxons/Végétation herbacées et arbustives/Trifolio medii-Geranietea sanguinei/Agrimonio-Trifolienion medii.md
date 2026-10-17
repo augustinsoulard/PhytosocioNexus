@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[602 - Agrimonio-Trifolienion medii.jpg]]
 Associations :
 - [[Brachypodio sylvatici-Rubetum caesii]] Thévenin et J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Calamintho menthifoliae-Brachypodietum sylvatici]] J.-M. Royer et Rameau 1983 ; 

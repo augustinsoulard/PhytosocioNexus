@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[381 - Galio saxatilis-Festucion filiformis.jpg]]
 Associations :
 - [[Galio hercynici-Festucetum tenuifoliae]] R. Rasch ex Stieperaere 1969 ; 
 - [[Galio saxatilis-Gentianetum luteae]] Chabrol et Reimringer ex Le Hénaff et al. 2021 ; 

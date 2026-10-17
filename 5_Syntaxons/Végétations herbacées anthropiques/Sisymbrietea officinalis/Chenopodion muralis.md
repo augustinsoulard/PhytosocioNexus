@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[549 - Chenopodion muralis.jpg]]
 Associations :
 - [[Amarantho blitoidis-Chenopodietum ambrosioidis]] O. Bolòs 1967 ; 
 - [[Chenopodietum muralis]] Braun-Blanquet in Braun-Blanquet et al. 1936 ; 

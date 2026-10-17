@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[614 - Vaccinio vitis-idaeae-Abietenion albae.jpg]]
 Associations :
 - [[Dryopterido carthusianae-Abietetum albae]] (Nègre 1972) Thébaud et C.-E. Bernard 2018 ; 
 - [[Dryopterido dilatatae-Abietetum albae]] Thébaud et al. 2014 ; 

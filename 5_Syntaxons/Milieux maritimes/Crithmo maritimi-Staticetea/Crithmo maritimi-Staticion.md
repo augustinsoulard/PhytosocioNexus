@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[193 - Crithmo maritimi-Staticion.jpg]]
 Associations :
 - [[Armerietum ruscinonensis]] Braun-Blanquet ex Rioux et al. 1955 ; 
 - [[Camphorosmo monspeliacae-Frankenietum]] hirsutae Molinier 1934 ; 

@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[177 - Fraxino excelsioris-Quercion roboris.jpg]]
 Sous-alliances :
 - [[Hyacinthoido non-scriptae-Quercenion roboris]] Renaux et al. 2019
 - [[Polygono bistortae-Quercenion roboris]] Renaux et al. 2019

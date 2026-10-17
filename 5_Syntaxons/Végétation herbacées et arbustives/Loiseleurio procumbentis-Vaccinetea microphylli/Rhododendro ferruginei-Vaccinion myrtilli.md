@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[344 - Rhododendro ferruginei-Vaccinion myrtilli.jpg]]
 Associations :
 - [[Listero cordatae-Rhododendretum ferruginei]] Braun-Blanquet 1939 ; 
 - [[Lycopodio selagi-Pinetum uncinatae]] (Moor 1957) J.L. Richard 1961 ; 

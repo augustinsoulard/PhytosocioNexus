@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[530 - Hydrocotylo vulgaris-Schoenenion nigricantis.jpg]]
 Associations :
 - [[Anagallido tenellae-Eleocharitetum quinqueflorae]] (Bournérias in Riomet et Bournérias 1952) B. Foucault in J.-M. Royer et al. 2006 ; 
 - [[Caricetum viridulo-lepidocarpae]] Catteau et al. in Catteau et al. 2017 ; 

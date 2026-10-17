@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[228 - Cephalanthero rubrae-Pinion sylvestris.jpg]]
 Associations :
 - [[Cephalanthero rubrae-Pinetum sylvestris]] Vanden Berghen 1963

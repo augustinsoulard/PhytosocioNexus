@@ -22,6 +22,7 @@ sources:
 
 ZH : oui
 
+![[171 - Hyperico hircini-Alnenion glutinosae.jpg]]
 Associations :
 - [[Eupatorio corsici-Alnetum glutinosae]] Dierschke 1975
 

@@ -14,6 +14,7 @@ Végétation annuelle, commensale des cultures annuelles des étages méso- et s
 
 Espèces indicatrices : [[Hypecoum pendulum]], [[Roemeria hybrida]], [[Legousia pentagonia]].
 
+![[560 - Roemerion hybridae.jpg]]
 Associations :
 - [[Bunio incrassati-Galietum tricornis]] Braun-Blanquet in Braun-Blanquet et al. 1936 ; 
 - [[Roemerio hybridae-Hypecoetum penduli]] Braun-Blanquet et O. Bolòs 1954

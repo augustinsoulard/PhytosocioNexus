@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[169 - Fraxinion angustifoliae.jpg]]
 Associations :
 - [[Carici remotae-Fraxinetum angustifoliae]] F. Pedrotti 1970 corr. 1992 ; 
 - [[Fraxino angustifoliae-Quercetum ilicis]] Choisnet et Bensettiti in Renaux, Timbal et al. 2019 ; 

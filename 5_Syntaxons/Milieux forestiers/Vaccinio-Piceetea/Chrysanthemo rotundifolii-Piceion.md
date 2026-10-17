@@ -21,6 +21,7 @@ sources:
 
 ZH : non (p.p. pour les pessières à hautes herbes)
 
+![[607 - Chrysanthemo rotundifolii-Piceion.jpg]]
 Associations :
 - [[Adenostylo alliariae-Piceetum]] Zukrigl 1973 ; 
 - [[Calamagrostio variae-Abietetum albae]] C. Bartoli ex Thébaud et al. 2018 ; 

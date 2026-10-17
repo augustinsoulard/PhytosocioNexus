@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[307 - Centunculenion minimi.jpg]]
 Associations :
 - [[Centunculo minimi-Anthocerotetum punctati]] W. Koch ex Moor 1936 ; 
 - [[Junco tenageiae-Radioletum linoidis]] W. Pietsch 1963 ; 

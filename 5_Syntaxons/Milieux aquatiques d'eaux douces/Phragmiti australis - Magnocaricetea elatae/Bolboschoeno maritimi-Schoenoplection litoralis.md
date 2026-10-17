@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[402 - Bolboschoeno maritimi-Schoenoplection litoralis.jpg]]
 Associations :
 - [[Bolboschoeno maritimi-Juncetum subulati]] Géhu et al. 1992 ; 
 - [[Inulo crithmoidis-Phragmitetum australis]] Gamisans 1992 ; 

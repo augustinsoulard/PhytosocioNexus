@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[599 - Knautienion dipsacifoliae.jpg]]
 Associations :
 - [[Calamintho menthifoliae-Knautietum dipsacifoliae]] Rameau et A. Schmitt ex Julve in J.-M. Royer 2016 ; 
 - [[Colchico autumnalis-Brachypodietum pinnati]] Kienzle 1984 ; 

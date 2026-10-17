@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[375 - Galio saxatilis-Potentillion aureae.jpg]]
 Associations :
 - [[Alchemillo saxatilis-Antennarietum dioicae]] Choisnet et Mulot ex Le Hénaff et al. 2021 ; 
 - [[Brizo mediae-Agrostietum capillaris]] Thébaud 2008 ; 

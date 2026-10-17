@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[176 - Frangulo dodonei-Quercion roboris.jpg]]
 Associations :
 - [[Carici flaccae-Quercetum roboris]] Brêthes 2011 ; 
 - [[Deschampsio cespitosae-Quercetum roboris]] Dupouey ex Boeuf et al. in Boeuf 2014 ; 

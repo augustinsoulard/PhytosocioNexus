@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[383 - Violion caninae.jpg]]
 Associations :
 - [[Arnicetum montanae]] Schwickerath 1944 ; 
 - [[Aveno pratensis-Genistelletum sagittalis]] Oberdorfer 1957 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[574 - Salicornion patulae.jpg]]
 Associations :
 - [[Suaedo maritimae-Salicornietum patulae]] (Brullo et Furnari 1976) Géhu et Géhu-Franck 1984 ; 
 - [[Suaedo maritimae-Kochietum hirsutae]] Braun-Blanquet 1928

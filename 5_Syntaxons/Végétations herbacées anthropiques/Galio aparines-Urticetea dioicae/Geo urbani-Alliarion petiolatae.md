@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[277 - Geo urbani-Alliarion petiolatae.jpg]]
 Associations :
 - [[Alliarietum petiolatae]] W. Lohmeyer in Oberdorfer et al. ex Görs et T. Müller 1969 ; 
 - [[Alliario petiolatae-Chaerophylletum temuli]] (Kreh 1935) W. Lohmeyer 1949 ; 

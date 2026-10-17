@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[266 - Lilio pomponii-Artemisienion albae.jpg]]
 Associations :
 - [[Thalictro foetidi-Senecionetum doronici]] A. Lacoste 1967

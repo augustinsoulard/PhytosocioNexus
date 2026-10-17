@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[514 - Eriophorion scheuchzeri.jpg]]
 Associations :
 - [[Eriophoretum scheuchzeri]] Rübel 1912 ; 
 - [[Scorzoneroido duboisii-Eriophoretum scheuchzeri]] Corriol in Corriol et al. 2022

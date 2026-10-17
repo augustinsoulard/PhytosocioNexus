@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[379 - Agrostion curtisii.jpg]]
 Associations :
 - [[Agrostietum capillari-curtisii]] Wattez et Godeau ex B. Foucault 1993 ; 
 - [[Agrostio curtisii-Avenuletum sulcatae]] B. Foucault (1986) 1993 ; 

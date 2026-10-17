@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[408 - Bolboschoenion yagaro-laticarpi.jpg]]
 Associations :
 - [[Bolboschoenetum yagarae]] J. Eggler 1933 corr. Hroudová, Hrivnák et Chytrý 2009
 

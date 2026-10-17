@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[384 - Caricion caryophylleae.jpg]]
 Associations :
 - [[Anthoxantho odorati-Brachypodietum pinnati]] Gamisans 1989 ; 
 - [[Ophioglosso azorici-Nardetum strictae]] Gamisans 1975 ; 

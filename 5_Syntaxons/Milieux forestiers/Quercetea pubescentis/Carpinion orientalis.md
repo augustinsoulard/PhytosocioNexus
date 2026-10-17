@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[440 - Carpinion orientalis.jpg]]
 Sous-alliances :
 - [[Campanulo mediae-Ostryenion carpinifoliae]] (Ubaldi 1986) Ubaldi 1995
 - [[Laburno anagyroidis-Ostryenion carpinifoliae]] (Ubaldi 1995) Blasi et al. 2004

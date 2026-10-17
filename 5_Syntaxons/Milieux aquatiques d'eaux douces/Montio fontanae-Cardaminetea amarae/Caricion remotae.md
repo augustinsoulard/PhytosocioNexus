@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[357 - Caricion remotae.jpg]]
 Associations :
 - [[Cardaminetum flexuosae]] Oberdorfer 1957 ; 
 - [[Cardaminetum latifoliae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 

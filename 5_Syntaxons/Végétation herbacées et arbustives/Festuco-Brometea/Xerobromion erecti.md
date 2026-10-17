@@ -16,6 +16,7 @@ sources:
 
 ZH : non spécifié
 
+![[236 - Xerobromion erecti.jpg]]
 Sous-alliances :
 - [[Seslerio caeruleae-Xerobromenion erecti]] Oberdorfer 1957
 - [[Xerobromenion erecti]] Braun-Blanquet et Moor 1938

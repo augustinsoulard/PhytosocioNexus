@@ -16,6 +16,7 @@ sources:
 
 ZH : non spécifié
 
+![[251 - Koelerio macranthae-Phleion phleoidis.jpg]]
 Sous-alliances :
 - [[Festucenion longifolio-lemanii]] Loiseau et Felzines 2010
 - [[Koelerio macranthae-Phleenion phleoidis]] J.-M. Royer in J.-M. Royer et al. 2006

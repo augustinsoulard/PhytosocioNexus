@@ -23,6 +23,7 @@ Végétation herbacée vivace, mésohygrophile, des substrats sablo-graveleux de
 
 ZH : oui
 
+![[320 - Plantaginion crassifoliae.jpg]]
 Associations :
 - [[Eriantho ravennae-Schoenetum nigricantis]] (Pignatti 1953) Géhu in Géhu et al. 1984 ; 
 - [[Juncetum acuti]] Molinier et Tallon 1969 ; 

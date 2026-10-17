@@ -21,6 +21,7 @@ Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium p
 
 ZH : non
 
+![[559 - Caucalidion lappulae.jpg]]
 Associations :
 - [[Adonido autumnalis-Iberidetum amarae]] (P. Allorge 1922) Tüxen 1950 ; 
 - [[Androsaco maximae-Iberidetum pinnatae]] (Braun-Blanquet 1915) Braun-Blanquet in Braun-Blanquet et al. 1936 ; 

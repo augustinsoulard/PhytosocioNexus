@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[158 - Luzulo luzuloidis-Fagion sylvaticae.jpg]]
 Sous-alliances : 
 - [[Ilici aquifolii-Fagenion sylvaticae]] (Braun-Blanquet 1967) Rivas Martínez 1973
 - [[Luzulo luzuloidis-Fagenion sylvaticae]] (W. Lohmeyer et Tüxen in Tüxen 1954) Oberdorfer 1957

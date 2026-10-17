@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[316 - Puccinellio maritimae-Spergularion salinae.jpg]]
 Associations :
 - [[Junceto-Puccinellietum distantis]] J. Duvigneaud 1967 ; 
 - [[Plantagini maritimae-Puccinellietum fontanae]] (Corillion 1954) Choisnet et al. 2020 nom. ined. (1) ; 

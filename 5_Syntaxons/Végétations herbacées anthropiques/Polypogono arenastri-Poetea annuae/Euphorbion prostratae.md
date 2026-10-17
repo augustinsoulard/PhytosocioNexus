@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[414 - Euphorbion prostratae.jpg]]
 Associations :
 - [[Trago racemosi-Euphorbietum prostratae]] B. Foucault 2018

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[208 - Eu-Oxytropido-Elynenion myosuroidis.jpg]]
 Associations :
 - [[Elyno myosuroidis-Salicetum retusae]] Nègre 1968 ;
 - [[Oxytropido campestris-Caricetum rupestris]] Corriol in Corriol et al. 2023 ;

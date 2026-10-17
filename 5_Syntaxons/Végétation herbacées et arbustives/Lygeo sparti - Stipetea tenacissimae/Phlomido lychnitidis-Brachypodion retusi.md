@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[350 - Phlomido lychnitidis-Brachypodion retusi.jpg]]
 Associations :
 - [[Asphodeletum fistulosi]] Molinier et Tallon 1949 ; 
 - [[Brachypodio retusi-Stipetum ibericae]] sensu R.J. Loisel 1976 nom. inval. ; 

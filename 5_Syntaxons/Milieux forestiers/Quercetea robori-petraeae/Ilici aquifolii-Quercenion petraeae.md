@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[463 - Ilici aquifolii-Quercenion petraeae.jpg]]
 Associations :
 - [[Hieracio laevigati-Quercetum petraeae]] Bardat 1993 ; 
 - [[Hieracio sabaudii-Quercetum petraeae]] Billy ex Renaux, Timbal et al. 2019 ; 

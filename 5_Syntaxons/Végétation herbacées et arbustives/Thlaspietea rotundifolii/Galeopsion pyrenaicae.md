@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[584 - Galeopsion pyrenaicae.jpg]]
 Associations :
 - [[Linario repentis-Galeopsietum ladani]] O. Bolòs 1974 ; 
 - [[Rumici scutati-Galeopsietum angustifoliae]] Chouard ex Nègre 1968

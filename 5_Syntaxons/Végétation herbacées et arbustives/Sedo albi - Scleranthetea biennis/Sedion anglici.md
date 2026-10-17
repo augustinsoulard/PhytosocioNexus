@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[541 - Sedion anglici.jpg]]
 Associations :
 - [[Anarrhino bellidifolii-Sedetum rupestris]] F. Kessler et al. in Corriol et al. 2022 ; 
 - [[Dactylido marinae-Sedetum anglici]] Géhu et al. 1978 ; 

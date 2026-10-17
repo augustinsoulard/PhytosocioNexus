@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[288 - Vulpion ligusticae.jpg]]
 Associations :
 - [[Loto hispidi-Trifolietum resupinati]] G. Aubert et R.J. Loisel 1971 ; 
 - [[Tillaeetum muscosae]] Molinier et Tallon 1950 ; 

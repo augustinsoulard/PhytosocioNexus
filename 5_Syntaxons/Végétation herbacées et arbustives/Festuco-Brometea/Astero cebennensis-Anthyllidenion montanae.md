@@ -19,6 +19,7 @@ sources:
 
 ZH : non
 
+![[259 - Astero cebennensis-Anthyllidenion montanae.jpg]]
 Associations :
 - [[Arenario hispidae-Minuartietum capillaceae]] Quézel et Granel de Solignac ex Barbero et al. 1972 ; 
 - [[Armerio arenariae-Festucetum christianii-bernardii]] (Braun-Blanquet 1971) Corriol et Laigneau 2017 ; 

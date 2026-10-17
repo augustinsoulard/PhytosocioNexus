@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[601 - Trifolion medii.jpg]]
 Sous-alliances :
 - [[Agrimonio-Trifolienion medii]] R. Knapp 1976
 - [[Teucrio scorodoniae-Trifolienion medii]] R. Knapp 1976

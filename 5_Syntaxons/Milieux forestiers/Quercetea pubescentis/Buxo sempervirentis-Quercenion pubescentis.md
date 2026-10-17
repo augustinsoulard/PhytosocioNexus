@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[449 - Buxo sempervirentis-Quercenion pubescentis.jpg]]
 Associations :
 - [[Buxo sempervirentis-Quercetum pubescentis]] Braun-Blanquet ex Bannes-Puygiron 1933 ; 
 - [[Campanulo bononiensis-Quercetum pubescentis]] Braun-Blanquet 1961 ; 

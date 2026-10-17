@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[550 - Malvion parviflorae.jpg]]
 Associations :
 - [[Lavateretum cretico-arboreae]] Braun-Blanquet et Molinier 1935 ; 
 - [[Malvetum parvifloro-nicaeensis]] Braun-Blanquet et Maire 1924

@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[286 - Glycerio fluitantis-Sparganion neglecti.jpg]]
 Associations :
 - [[Catabrosetum aquaticae]] Rübel 1912 ; 
 - [[Glycerietum fluitantis]] J. Eggler 1933 ; 

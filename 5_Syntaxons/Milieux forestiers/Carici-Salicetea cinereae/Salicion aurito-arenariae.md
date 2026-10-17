@@ -10,5 +10,6 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[141 - Salicion aurito-arenariae.jpg]]
 Associations :
 - [[Hydrocotylo vulgaris-Salicetum dunensis]] F. Duhamel 2016

@@ -22,6 +22,7 @@ sources:
 ZH : non
 
 
+![[194 - Crithmo maritimi-Limonion articulati.jpg]]
 Associations :
 - [[Armerio soleirolii-Seseletum praecoci]] Gamisans et Muracciole 1984 ; 
 - [[Camphorosmo monspeliacae-Limonietum obtusifolii]] Paradis et al. 2013 ; 

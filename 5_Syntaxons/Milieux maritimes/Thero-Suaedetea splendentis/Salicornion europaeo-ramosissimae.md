@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[573 - Salicornion europaeo-ramosissimae.jpg]]
 Associations :
 - [[Astero tripolii-Suaedetum maritimae]] Géhu et Géhu-Franck 1984 ; 
 - [[Salicornietum obscurae]] Géhu et Géhu-Franck 1984 ; 

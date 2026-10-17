@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[478 - Lonicerion periclymeni.jpg]]
 Associations :
 - [[Corylo avellanae-Crataegetum monogynae]] B. Foucault ex B. Foucault et J.-M. Royer 2016 ; 
 - [[Daphno gnidii-Ligustretum vulgaris]] (Géhu 1968) Géhu et Géhu-Franck 1975 ; 

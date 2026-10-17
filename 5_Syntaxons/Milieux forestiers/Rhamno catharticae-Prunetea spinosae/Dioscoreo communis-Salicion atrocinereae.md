@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[477 - Dioscoreo communis-Salicion atrocinereae.jpg]]
 Associations :
 - [[Salici atrocinereae-Euonymetum europaei]] Delelis et al. ex B. Foucault et J.-M. Royer 2016 ; 
 - [[Tamo communis-Salicetum atrocinereae]] B. Foucault 1995 nom. inval. (45)

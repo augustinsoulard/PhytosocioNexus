@@ -16,6 +16,7 @@ sources:
 
 ZH : non spécifié
 
+![[244 - Thesio humifusi-Koelerion pyramidatae.jpg]]
 Sous-alliances :
 - [[Euphorbio portlandicae-Anthyllidenion vulnerariae]] J.-M. Royer et Ferrez 2020
 - [[Festucenion marginatae]] Boullet in J.-M. Royer et Ferrez 2020

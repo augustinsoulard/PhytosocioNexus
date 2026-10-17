@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[281 - Allion triquetri.jpg]]
 Associations :
 - [[Acantho mollis-Smyrnietum olusatri]] Brullo et Marcenò 1985 ; 
 - [[Carduo cephalanti-Helicodiceretum muscivori]] (Gamisans et Paradis 1992) Géhu et Biondi 1994 corr. in Reymann et al. 2017 ; 

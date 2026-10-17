@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[314 - Limonio vulgaris-Plantaginenion maritimae.jpg]]
 Associations :
 - [[Cochleario anglicae-Plantaginetum maritimae]] Géhu 1976 ; 
 - [[Plantagini maritimae-Limonietum vulgaris]] (W.F. Christiansen 1927) V. Westhoff et Segal 1961

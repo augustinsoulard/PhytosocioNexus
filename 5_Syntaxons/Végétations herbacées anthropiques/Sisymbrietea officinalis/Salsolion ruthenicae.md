@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[554 - Salsolion ruthenicae.jpg]]
 Associations :
 - [[Amarantho retroflexi-Salsoletum ruthenicae]] H. Passarge (1984) 1988 ; 
 - [[Bromo tectorum-Corispermetum leptopteri]] G. Sissingh et V. Westhoff ex G. Sissingh 1950 corr. Dengler in Dengler et al. 2003 ; 

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[215 - Eu-Primulenion intricatae.jpg]]
 Associations :
 - [[Alchemillo plitaculae-Adonidetum pyrenaicae]] Braun-Blanquet ex M. Gruber 1978 ;
 - [[Anthyllido vulnerarioidis-Plantaginetum alpinae]] Corriol in Corriol et al. 2023 ;

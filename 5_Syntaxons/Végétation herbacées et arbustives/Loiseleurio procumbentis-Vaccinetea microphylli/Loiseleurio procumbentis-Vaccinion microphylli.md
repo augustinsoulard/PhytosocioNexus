@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[343 - Loiseleurio procumbentis-Vaccinion microphylli.jpg]]
 Associations :
 - [[Carici curvulae-Empetretum hermaphroditi]] Rivas Martínez (1968) 1987 ; 
 - [[Carici vaginatae-Callunetum vulgaris]] R. Michalet et T. Philippe ex Thébaud et al. 2014 ; 

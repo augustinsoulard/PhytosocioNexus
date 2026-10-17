@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[486 - Salici cinereae-Rhamnion catharticae.jpg]]
 Sous-alliances :
 - [[Lonicero periclymeni-Viburnenion opuli]] B. Foucault et Julve ex B. Foucault et J.-M. Royer 2016
 - [[Salici cinereae-Rhamnenion catharticae]] Géhu et al. 1983

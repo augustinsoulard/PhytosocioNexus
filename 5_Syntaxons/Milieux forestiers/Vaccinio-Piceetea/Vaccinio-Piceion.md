@@ -21,5 +21,6 @@ sources:
 
 ZH : non (p.p. pour les pessières à hautes herbes)
 
+![[615 - Vaccinio-Piceion.jpg]]
 Sous-alliances :
 - [[Vaccinio-Piceenion]] Oberdorfer 1957

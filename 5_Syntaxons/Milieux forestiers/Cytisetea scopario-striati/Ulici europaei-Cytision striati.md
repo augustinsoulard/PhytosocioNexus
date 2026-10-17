@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[198 - Ulici europaei-Cytision striati.jpg]]
 Associations :
 - [[Adenocarpo complicati-Ericetum arboreae]] Braun-Blanquet ex Braun-Blanquet et al. 1952 ; 
 - [[Adenocarpo parvifolii-Cytisetum scoparii]] Guitton et Glemarec 2018 ; 

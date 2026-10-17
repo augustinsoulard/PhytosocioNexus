@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[563 - polyspermi.jpg]]
 Associations :
 - [[Allio vineale-Ranunuculetum sardoi]] Lazare 2005 ; 
 - [[Amarantho hybridi-Chenopodietum polyspermi]] Tüxen et Oberdorfer 1958 ; 

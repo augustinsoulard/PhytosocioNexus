@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[468 - Cotoneastro integerrimi-Amelanchierenion ovalis.jpg]]
 Associations :
 - [[Cotoneastro integerrimi-Amelanchieretum ovalis]] A. Faber ex Korneck 1974 ; 
 - [[Cytiso sessilifolii-Amelanchieretum ovalis]] B. Foucault 1991 ; 

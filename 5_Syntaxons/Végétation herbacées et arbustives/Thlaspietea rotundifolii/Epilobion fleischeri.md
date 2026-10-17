@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[581 - Epilobion fleischeri.jpg]]
 Associations :
 - [[Calamagrostietum pseudophragmitis]] K. Kopecký 1968 ; 
 - [[Epilobietum fleischeri]] Lippmaa 1933 ; 

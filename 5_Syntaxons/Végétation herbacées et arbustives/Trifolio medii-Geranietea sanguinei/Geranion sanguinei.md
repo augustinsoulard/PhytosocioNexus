@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[595 - Geranion sanguinei.jpg]]
 Sous-alliances :
 - [[Antherico ramosi-Geranienion sanguinei]] J.-M. Royer 2016
 - [[Trifolio medii-Geranienion sanguinei]] Gils et Gilissen 1976

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[548 - geniculatae.jpg]]
 Associations :
 - [[Bromo tectorum-Stipetum capensis]] Rivas Martínez et Izco 1977 ; 
 - [[Medicagini rigidulae-Aegilopetum geniculatae]] Rivas Martínez et Izco 1977 ; 

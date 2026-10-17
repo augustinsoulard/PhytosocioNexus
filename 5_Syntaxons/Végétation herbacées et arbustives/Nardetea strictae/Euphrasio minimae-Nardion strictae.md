@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[378 - Euphrasio minimae-Nardion strictae.jpg]]
 Associations :
 - [[Euphrasio minimae-Nardetum strictae]] R. Michalet et T. Philippe ex Thébaud et al. 2014 ; 
 - [[Plantagini alpinae-Agrostietum rupestris]] R. Michalet et T. Philippe ex Thébaud et al. 2014 ; 

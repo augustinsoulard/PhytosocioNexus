@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[417 - Fraxino excelsioris-Populion albae.jpg]]
 Associations :
 - [[Deschampsio cespitosae-Aceretum negundo]] Felzines et Loiseau in J.-M. Royer et al. 2006 ; 
 - [[Ligustro vulgaris-Populetum nigrae]] Schnitzler et Carbiener in B. Foucault et T. Cornier 2020 ; 

@@ -23,5 +23,6 @@ ZH : non
 
 ![[046 - Selaginello denticulatae-Anogrammion leptophyllae.jpg]]
 
+![[046 - leptophyllae.jpg]]
 Associations :
 - [[Selaginello denticulatae-Anogrammetum leptophyllae]] Molinier 1937

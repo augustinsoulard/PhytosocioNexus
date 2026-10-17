@@ -22,6 +22,7 @@ sources:
 
 ZH : p.p.
 
+![[491 - Euphorbion pithyusae.jpg]]
 Associations :
 - [[Anthyllido barbae-jovis-Thymelaeetum hirsutae]] Molinier 1954 ; 
 - [[Armerietum praecocis]] Molinier 1954 ; 

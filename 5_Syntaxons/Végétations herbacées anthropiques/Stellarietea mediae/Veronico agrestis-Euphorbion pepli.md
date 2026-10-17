@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[565 - Veronico agrestis-Euphorbion pepli.jpg]]
 Associations :
 - [[Amarantho-Chenopodietum albi]] R. Schubert 1989 ; 
 - [[Euphorbio peplidis-Galinsogetum ciliatae]] (Weinert 1956) H. Passarge 1981 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[297 - Elatino triandrae-Damasonion alismatis.jpg]]
 Associations :
 - [[Elatinetum macropodae]] Braun-Blanquet 1936
 

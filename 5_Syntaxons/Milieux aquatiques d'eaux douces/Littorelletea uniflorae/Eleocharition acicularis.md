@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[339 - Eleocharition acicularis.jpg]]
 Associations :
 - [[Deschampsietum rhenanae]] Oberdorfer ex Dierßen 1975 ; 
 - [[Eleocharitetum acicularis]] W. Koch ex E.G. Almquist 1929 ; 

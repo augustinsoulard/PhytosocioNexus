@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[587 - Leontodontion hyoseroidis.jpg]]
 Associations :
 - [[Galeopsio angustifoliae-Teucrietum botrydis]] Decocq 1999 ; 
 - [[Iberidetum violletii]] J. Duvigneaud et al. 1970 ; 

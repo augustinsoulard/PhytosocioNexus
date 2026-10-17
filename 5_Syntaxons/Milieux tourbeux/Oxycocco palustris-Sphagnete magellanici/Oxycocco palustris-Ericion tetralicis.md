@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[391 - Oxycocco palustris-Ericion tetralicis.jpg]]
 Associations :
 - [[Erico tetralicis-Sphagnetum magellanici]] (Osvald 1923) J.J. Moore ex Thébaud 2011 ; 
 - [[Erico tetralicis-Sphagnetum rubelli]] (P. Allorge 1926) G. Lemée ex Thébaud 2011 ; 

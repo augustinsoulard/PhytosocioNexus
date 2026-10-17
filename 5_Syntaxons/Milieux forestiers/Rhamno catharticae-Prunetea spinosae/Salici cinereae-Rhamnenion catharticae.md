@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[488 - Salici cinereae-Rhamnenion catharticae.jpg]]
 Associations :
 - [[Evonymo europaei-Sambucetum nigrae]] Moor 1958 ; 
 - [[Frangulo alni-Salicetum purpureae]] J.-M. Royer et B. Didier in J.-M. Royer et al. 2006 ; 

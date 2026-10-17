@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[274 - Petasition officinalis.jpg]]
 Associations :
 - [[Petasitetum hybridi]] Hilbig 1972
 

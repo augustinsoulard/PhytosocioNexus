@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[265 - Lavandulo angustifoliae-Genistenion cinereae.jpg]]
 Associations :
 - [[Centaureo pectinatae-Anthyllidetum montanae]] Choisnet 2019 nom. ined. (1) ; 
 - [[Euphorbio spinosae-Genistetum cinereae]] Gaultier in J.-M. Royer et Ferrez 2020 ; 

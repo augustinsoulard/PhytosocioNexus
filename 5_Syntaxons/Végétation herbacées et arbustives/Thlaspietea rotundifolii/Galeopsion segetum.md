@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[585 - Galeopsion segetum.jpg]]
 Associations :
 - [[Anarrhinetum bellidifolii]] Korneck 1974 ; 
 - [[Biscutello lamottei-Galeopsietum segeti]] Coquillard et al. ex Thébaud et al. 2014 ; 

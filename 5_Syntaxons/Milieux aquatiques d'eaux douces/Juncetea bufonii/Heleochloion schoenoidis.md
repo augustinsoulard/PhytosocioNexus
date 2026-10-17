@@ -22,6 +22,7 @@ sources:
 
 ZH : oui
 
+![[299 - Heleochloion schoenoidis.jpg]]
 Associations :
 - [[Crypsio schoenoidis-Cyperetum micheliani]] Martínez Parras et al. 1988 ; 
 - [[Cypero fusci-Crypsidetum alopecuroidis]] F. Prud'homme et al. in Corriol et al. 2022 ; 

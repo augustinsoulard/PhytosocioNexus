@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[568 - Onobrychido capitis-galli-Ptilostemonion stellati.jpg]]
 Associations :
 - [[Convolvulo linaeti-Ononidetum pubescentis]] Braun-Blanquet ex Braun-Blanquet et al. 1952 ; 
 - [[Onobrychido capitis-galli-Barbuletum gracilis]] Braun-Blanquet ex Braun-Blanquet et al. 1952

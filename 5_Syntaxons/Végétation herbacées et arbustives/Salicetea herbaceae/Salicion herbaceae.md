@@ -21,6 +21,7 @@ sources:
 
 ZH : p.p.
 
+![[503 - Salicion herbaceae.jpg]]
 Associations :
 - [[Alchemillo fissae-Luzuletum candollei]] Rivas Martínez et al. in Rivas Martínez et al. 2002 ; 
 - [[Anthelio juratzkanae-Salicetum herbaceae]] Braun-Blanquet 1948 ; 

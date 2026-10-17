@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[385 - Sedo alpestris-Phleion brachystachyos.jpg]]
 Associations :
 - [[Geo montani-Phleetum brachystachyos]] (Gamisans 1968) Gamisans 1975 ; 
 - [[Gnaphalio supini-Sibbaldietum procumbentis]] Gamisans 1975 ; 

@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[154 - Antherico ramosi-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Aceri monspessulani-Fagetum sylvaticae]] B. Comps et al. ex Renaux et al. 2019 ; 
 - [[Carici montanae-Fagetum sylvaticae]] (Rameau 1974) J.-M. Royer et al. in Boeuf 2014 ; 

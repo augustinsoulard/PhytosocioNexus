@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[245 - vulnerariae.jpg]]
 Associations :
 - [[Anthyllido vulnerariae-Festucetum armoricanae]] Bioret et Glemarec 2016 ; 
 - [[Galio littoralis-Brachypodietum rupestris]] Géhu et Géhu-Franck 1984 corr. Bioret 2008

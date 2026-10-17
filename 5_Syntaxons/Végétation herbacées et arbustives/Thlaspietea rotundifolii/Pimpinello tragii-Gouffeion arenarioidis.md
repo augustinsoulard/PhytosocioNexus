@@ -14,6 +14,7 @@ Végétation herbacée vivace des éboulis calcaires de l'Europe méditerranéen
 
 Espèces indicatrices : [[Arenaria provincialis]], [[Centranthus lecoqii]], [[Linaria supina]], [[Centranthus ruber]].
 
+![[588 - Pimpinello tragii-Gouffeion arenarioidis.jpg]]
 Associations :
 - [[Brassico montanae-Galeopsidetum angustifoliae]] R.J. Loisel 1976 ; 
 - [[Centranthetum lecoqii]] Braun-Blanquet 1931 ; 

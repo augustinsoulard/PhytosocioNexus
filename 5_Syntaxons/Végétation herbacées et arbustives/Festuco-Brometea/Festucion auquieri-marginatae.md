@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[234 - Festucion auquieri-marginatae.jpg]]
 Associations :
 - [[Astragalo monspessulani-Festucetum lahonderei]] Lahondère ex J.-M. Royer et Ferrez 2020 ; 
 - [[Bellidi sylvestris-Festucetum lemanii]] Boullet in J.-M. Royer et Ferrez 2020 ; 

@@ -23,6 +23,7 @@ Syn : Salicornion procumbentis
 
 ZH : oui
 
+![[572 - Salicornion dolichostachyo-fragilis.jpg]]
 Associations :
 - [[Astero tripolii-Suaedetum maritimae]] Géhu et Géhu-Franck 1984 ; 
 - [[Salicornietum obscurae]] Géhu et Géhu-Franck 1984 ; 

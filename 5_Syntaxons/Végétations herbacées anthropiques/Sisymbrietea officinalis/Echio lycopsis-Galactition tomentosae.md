@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[545 - Echio lycopsis-Galactition tomentosae.jpg]]
 Associations :
 - [[Alyssetum corsici]] Ro. Molinier 1959 ; 
 - [[Echio lycopsis-Galactitetum tomentosae]] Molinier 1937 ; 

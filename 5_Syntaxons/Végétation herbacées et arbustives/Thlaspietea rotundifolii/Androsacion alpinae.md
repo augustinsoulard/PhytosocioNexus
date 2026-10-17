@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[577 - Androsacion alpinae.jpg]]
 Associations :
 - [[Androsacetum alpinae]] Braun-Blanquet 1918 ; 
 - [[Doronico grandiflori-Oxyrietum digynae]] Gamisans (1975) 1976 ; 

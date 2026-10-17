@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[543 - Sedo albi-Scleranthion biennis.jpg]]
 Associations :
 - [[Agrostio rupestris-Sempervivetum montani]] Rivas Martínez et Géhu 1978 ; 
 - [[Anarrhino bellidifolii-Sedetum maximi]] Billy ex Thébaud et al. 2014 ; 

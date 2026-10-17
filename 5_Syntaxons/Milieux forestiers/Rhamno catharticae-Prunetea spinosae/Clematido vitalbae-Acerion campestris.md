@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[472 - Clematido vitalbae-Acerion campestris.jpg]]
 Associations :
  - [[Clematido vitalbae-Coryletum avellanae]] Ger. Hofmann ex S. Klotz in R. Schubert et al. 1995 ; 
  - [[Lithospermo purpurocaerulei-Aceretum campestris]] Felzines in J.-M. Royer et al. 2006 ; 

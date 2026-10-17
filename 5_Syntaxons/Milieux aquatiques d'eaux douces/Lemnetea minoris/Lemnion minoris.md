@@ -21,6 +21,7 @@ Espèces indicatrices : [[Lemna gibba]], [[Wolffia arrhiza]], [[Azolla filiculoi
 
 ZH : non
 
+![[332 - Lemnion minoris.jpg]]
 Associations :
 - [[Lemnetum gibbae]] W. Koch ex A. Miyawaki et J. Tüxen 1960 ; 
 - [[Lemnetum minori-turioniferae]] (P. Wolff et Jentsch 1992) H. Passarge 1996 ; 

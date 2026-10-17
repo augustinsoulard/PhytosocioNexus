@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[264 - Lavandulo angustifoliae-Genistion cinereae.jpg]]
 Sous-alliances :
 - [[Lavandulo angustifoliae-Genistenion cinereae]] Gaultier in J.-M. Royer et Ferrez 2020
 - [[Lilio pomponii-Artemisienion albae]] Gaultier in J.-M. Royer et Ferrez 2020

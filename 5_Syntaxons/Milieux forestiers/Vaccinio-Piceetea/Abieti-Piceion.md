@@ -21,5 +21,6 @@ sources:
 
 ZH : non
 
+![[606 - Abieti-Piceion.jpg]]
 Associations :
 - [[Melampyro sylvatici-Abietetum albae]] (Braun-Blanquet in Braun-Blanquet et al. 1939) Thébaud et C.-E. Bernard 2018

@@ -19,6 +19,7 @@ sources:
 
 ZH : oui / p.p.
 
+![[501 - Sileno sedoidis-Catapodion loliacei.jpg]]
 Associations :
 - [[Catapodio marini-Silenetum sedoidis]] Géhu et al. 1992 nom. inval.
 - [[Groupement à Anthemis secundiramea et Senecio leucanthemifolius subsp. crassifolius]] Noble et Baret, 2019

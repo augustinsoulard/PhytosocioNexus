@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[475 - Rubo ulmifolii-Viburnion lantanae.jpg]]
 Associations :
 - [[Aceri monspessulani-Euonymetum europaei]] Botineau et al. 1998 ; 
 - [[Coluteo arborescentis-Loniceretum etruscae]] Billy ex B. Foucault et J.-M. Royer 2016 ; 

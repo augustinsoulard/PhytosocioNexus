@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[303 - Cicendion filiformis.jpg]]
 Associations :
 - [[Centaurio maritimi-Juncetum capitati]] Bioret in B. Foucault 2013 ; 
 - [[Cicendietum filiformis]] P. Allorge 1922 ; 

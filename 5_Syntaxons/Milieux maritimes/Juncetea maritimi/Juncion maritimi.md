@@ -21,6 +21,7 @@ Espèces indicatrices : [[Carex extensa]], [[Juncus acutus]], [[Juncus subulatus
 
 ZH : oui
 
+![[319 - Juncion maritimi.jpg]]
 Associations :
 - [[Junco gerardii-Triglochinetum maritimae]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
 - [[Limonio narbonensis-Caricetum extensae]] Géhu et Biondi 1994 ; 

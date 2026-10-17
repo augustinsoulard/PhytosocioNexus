@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[527 - Caricion incurvae.jpg]]
 Associations :
 - [[Caricetum atrofusco-vaginatae]] Nordhagen 1928 ; 
 - [[Caricetum microglochinis]] Nordhagen 1928 ; 

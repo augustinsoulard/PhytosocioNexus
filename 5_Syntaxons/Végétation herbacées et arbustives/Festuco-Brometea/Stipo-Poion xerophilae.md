@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[254 - Stipo-Poion xerophilae.jpg]]
 Sous-alliances :
 - [[Lavandulo-Artemisienion]] Braun-Blanquet 1961
 - [[Stipo-Poenion perconcinnae]] J.-M. Royer et Ferrez 2020

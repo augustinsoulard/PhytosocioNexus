@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[283 - Impatienti noli-tangere-Stachyion sylvaticae.jpg]]
 Associations :
 - [[Athyrio filicis-feminae-Caricetum pendulae]] (Jovet 1949) Julve ex J.-M. Royer et al. 2006 ; 
 - [[Athyrio filicis-feminae-Equisetetum sylvatici]] Decocq ex Catteau et Decocq in Catteau 2014 ; 

@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[620 - Eriophoro vaginati-Piceion abietis.jpg]]
 Sous-alliances :
 - [[Eriophoro vaginati-Piceenion abietis]] Thébaud et Delcoigne 2018
 - [[Vaccinio uliginosi-Betulenion pubescentis]] Boeuf 2014

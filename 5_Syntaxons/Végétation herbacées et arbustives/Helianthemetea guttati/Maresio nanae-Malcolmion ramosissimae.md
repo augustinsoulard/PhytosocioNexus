@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[292 - Maresio nanae-Malcolmion ramosissimae.jpg]]
 Associations :
 - [[Corrigiolo telephifoliae-Corynephoretum articulati]] Géhu et al. 1987 ; 
 - [[Cutandietum maritimae]] C. Piazza et Paradis 1994 ; 

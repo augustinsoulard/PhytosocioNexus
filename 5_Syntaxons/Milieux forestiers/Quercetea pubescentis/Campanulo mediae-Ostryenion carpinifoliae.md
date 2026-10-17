@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[441 - Campanulo mediae-Ostryenion carpinifoliae.jpg]]
 Associations :
 - [[Fraxino orni-Quercetum pubescentis]] Klika 1938 ; 
 - [[Leucanthemo virgati-Ostryetum carpinifoliae]] M. Gruber 1968

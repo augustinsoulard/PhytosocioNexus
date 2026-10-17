@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[459 - Quercion pyrenaicae.jpg]]
 Sous-alliances :
 - [[Quercenion robori-pyrenaicae]] (Braun-Blanquet et al. 1956) Rivas Martínez 1975
 - [[Sorbo torminalis-Quercenion petraeae]] Renaux et al. 2019

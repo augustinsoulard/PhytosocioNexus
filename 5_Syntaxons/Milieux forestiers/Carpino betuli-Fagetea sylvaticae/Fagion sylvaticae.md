@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[147 - Fagion sylvaticae.jpg]]
 Sous-alliances :
 - [[Abietenion albae]] Boeuf 2014
 - [[Geranio nodosi-Fagenion sylvaticae]] (S. Gentile 1974) Ubaldi et Speranza 1985

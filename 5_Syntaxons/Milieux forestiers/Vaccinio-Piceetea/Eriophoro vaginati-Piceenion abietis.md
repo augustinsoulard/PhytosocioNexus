@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[621 - Eriophoro vaginati-Piceenion abietis.jpg]]
 Associations :
 - [[Pinetum rotundatae]] M. Kästner et Flössner 1933 corr. Mucina in G.M. Steiner 1993 ; 
 - [[Sphagno magellanici-Piceetum abietis]] Bick ex Boeuf 2014

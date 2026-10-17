@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[612 - Luzulo luzuloidis-Piceion abietis.jpg]]
 Sous-alliances :
 - [[Luzulo luzuloidis-Piceenion]] H. Passarge 1978
 - [[Vaccinio vitis-idaeae-Abietenion albae]] Oberdorfer 1962

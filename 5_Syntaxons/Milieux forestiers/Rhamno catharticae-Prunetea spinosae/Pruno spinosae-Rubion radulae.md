@@ -19,6 +19,7 @@ sources:
 
 ZH : p.p.
 
+![[483 - Pruno spinosae-Rubion radulae.jpg]]
 Associations :
 - [[Agrostio-Franguletum alni]] H. Passarge 1964 ; 
 - [[Pruno spinosae-Rubetum bifrondis]] H.E. Weber 1990 ; 

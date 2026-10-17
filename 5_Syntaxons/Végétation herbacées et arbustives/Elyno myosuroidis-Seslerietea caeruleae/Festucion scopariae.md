@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[203 - Festucion scopariae.jpg]]
 Sous-alliances :
 - [[Saponarienion caespitosae]] (P. Montserrat et L. Villar 1987) Rivas Martínez et al. 1991
 - [[Eu-Festucenion scopariae]]

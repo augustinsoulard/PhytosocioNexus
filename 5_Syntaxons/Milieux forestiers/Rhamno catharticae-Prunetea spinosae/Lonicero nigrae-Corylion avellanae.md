@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[481 - Lonicero nigrae-Corylion avellanae.jpg]]
 Associations :
 - [[Daphno mezerei-Coryletum avellanae]] C. Roux in Thébaud et al. 2014 ; 
 - [[Pruno spinosae-Rosetum vosagiacae]] Billy ex B. Foucault et J.-M. Royer 2016 ; 

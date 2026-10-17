@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[201 - Ononidenion cristatae.jpg]]
 Associations :
 - [[Astragalo sempervirentis-Ononidetum cenisiae]] Barbero 1972 ;
 - [[Astragalo sempervirentis-Onosmetum fastigiatae]] A. Lacoste 1964 ;

@@ -16,6 +16,7 @@ sources:
 
 ZH : (à préciser)
 
+![[450 - Carpinion betuli.jpg]]
 Sous-alliances :
 - [[Carpinenion betuli]] Boeuf 2014
 - [[Rusco aculeati-Carpinenion betuli]] Renaux et al. 2019

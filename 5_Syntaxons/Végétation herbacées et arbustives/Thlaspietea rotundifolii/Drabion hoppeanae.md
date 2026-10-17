@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[580 - Drabion hoppeanae.jpg]]
 Associations :
 - [[Artemisio genepi-Saxifragetum muscoidis]] J.L. Richard 1981 ; 
 - [[Campanulo cenisiae-Saxifragetum oppositifoliae]] Oberdorfer 1959 ; 

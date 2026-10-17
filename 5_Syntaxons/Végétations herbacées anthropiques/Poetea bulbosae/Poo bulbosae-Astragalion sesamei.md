@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[410 - Poo bulbosae-Astragalion sesamei.jpg]]
 Associations :
 - [[Camphorosmo monspeliacae-Trifolietum subterranei]] Molinier et Tallon 1950 ; 
 - [[Medicagini arabicae-Trifolietum tomentosi]] Molinier 1934 ; 

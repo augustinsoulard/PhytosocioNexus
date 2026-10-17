@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[471 - Ligustro vulgaris-Prunenion spinosae.jpg]]
 Associations :
 - [[Astragalo alopecuri-Juniperetum sabinae]] Braun-Blanquet 1961 ; 
 - [[Buxo sempervirentis-Coryletum avellanae]] Corriol 2012 ; 

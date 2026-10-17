@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[183 - pseudoacaciae.jpg]]
 Associations :
 - [[Chelidonio majoris-Robinietum pseudoacaciae]] Jurko 1963 ; 
 - [[Humulo lupuli-Robinietum pseudoacaciae]] Schnitzler ex Felzines et Loiseau in J.-M. Royer et al. 2006 ; 

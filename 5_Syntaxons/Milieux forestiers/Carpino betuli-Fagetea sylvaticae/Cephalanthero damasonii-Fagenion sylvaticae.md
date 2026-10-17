@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[155 - Cephalanthero damasonii-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Buxo sempervirentis-Fagetum sylvaticae]] Braun-Blanquet et Susplugas 1937 ; 
 - [[Carici albae-Fagetum sylvaticae]] Moor 1952 ; 

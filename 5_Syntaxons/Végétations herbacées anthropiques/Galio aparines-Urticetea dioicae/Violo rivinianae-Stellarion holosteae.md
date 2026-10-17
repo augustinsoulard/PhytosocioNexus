@@ -24,6 +24,7 @@ sources:
 
 ZH : non spécifié
 
+![[284 - Violo rivinianae-Stellarion holosteae.jpg]]
 Associations :
 - [[Adoxo moschatellinae-Ranunculetum ficariae]] (Julve 1994) Felzines in J.-M. Royer et al. 2006 ; 
 - [[Aquilegio vulgaris-Silenetum dioicae]] Robbe ex J.-M. Royer et al. 2006 ; 

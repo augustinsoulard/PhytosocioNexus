@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+![[212 - Eu-Salicenion pyrenaicae.jpg]]
 Associations :
 - [[Dryado octopetalae-Salicetum pyrenaicae]] Chouard 1943 ;
 - [[Geo pyrenaici-Caricetum sempervirentis]] Chouard 1943 ;

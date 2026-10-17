@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[280 - Rumicion alpini.jpg]]
 Associations :
 - [[Poo supinae-Chenopodietum boni-henrici]] (Braun-Blanquet 1949) T. Müller 1967 ; 
 - [[Rumicetum alpini]] Beger 1922 ; 

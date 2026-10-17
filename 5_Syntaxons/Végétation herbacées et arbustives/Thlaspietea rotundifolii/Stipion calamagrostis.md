@@ -14,6 +14,7 @@ Végétation herbacée vivace, thermophile, des éboulis calcaires ou marno-calc
 
 Espèces indicatrices : [[Achnatherum calamagrostis]], [[Rumex scutatus]].
 
+![[590 - Stipion calamagrostis.jpg]]
 Associations :
 - [[Achnathero calamagrostidis-Centranthetum angustifolii]] Braun-Blanquet in Braun-Blanquet et al. 1952 ; 
 - [[Arrhenathero subhirsuti-Centranthetum angustifolii]] J.-M. Royer et B. Didier in J.-M. Royer et al. 2006 ; 

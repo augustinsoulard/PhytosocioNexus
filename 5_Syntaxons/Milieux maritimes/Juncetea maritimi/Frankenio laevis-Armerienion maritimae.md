@@ -21,6 +21,7 @@ sources:
 
 ZH : oui
 
+![[313 - Frankenio laevis-Armerienion maritimae.jpg]]
 Associations :
 - [[Cochleario anglicae-Frankenietum laevis]] Géhu et Géhu-Franck 1975 ; 
 - [[Frankenio laevis-Limonietum auriculi-ursifolii]] Bioret et Lahondère 2010 ; 

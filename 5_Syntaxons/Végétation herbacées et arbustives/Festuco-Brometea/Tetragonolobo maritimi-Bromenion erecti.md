@@ -21,6 +21,7 @@ sources:
 
 ZH : non
 
+![[248 - Tetragonolobo maritimi-Bromenion erecti.jpg]]
 Associations :
 - [[Blackstonio perfoliatae-Brometum erecti]] J.-M. Royer et Bidault ex J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Calamagrostio variae-Molinietum littoralis]] J.M. Royer in Ferrez et al. 2011 ; 
