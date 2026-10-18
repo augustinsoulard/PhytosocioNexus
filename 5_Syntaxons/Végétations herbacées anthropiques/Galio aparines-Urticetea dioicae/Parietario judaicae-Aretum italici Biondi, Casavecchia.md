@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation herbacée vivace, dense, plutôt basse et dominée par Arum italicum et Parietaria judaica formant un ourlet en nappe au recouvrement total.
 
-Espèces indicatrices : [[Arum italicum]], [[Parietaria judaica]], [[Galium aparine subsp. aparine. Allium neapolitanum est indiqué comme caractéristique mais cela reste à confirmer dans le département]].
+Espèces indicatrices : [[Arum italicum]], [[Parietaria judaica]], [[Galium aparine subsp. aparine]]. Allium neapolitanum est indiqué comme caractéristique mais cela reste à confirmer dans le département.
 
 Écologie : Végétation très nitrophile, sciaphile, mésophile des sols profonds humides, riches en matières organiques, anciennement remaniés. Étage mésoméditerranéen.
 

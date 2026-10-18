@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation annuelle assez dense, d'expression estivo-automnale, marquée par la présence d'Atriplex rosea et d'un cortège riche en Chenopodiaceae et Amaranthaceae.
 
-Espèces indicatrices : [[Atriplex rosea]], [[Atriplex tatarica]], [[Chenopodium vulvaria]], [[Ch. album]].
+Espèces indicatrices : [[Atriplex rosea]], [[Atriplex tatarica]], [[Chenopodium vulvaria]], [[Chenopodium album]].
 
 Écologie : Végétation thermophile, très nitrophile, des terrains enrichis en azote par la présence de bétail, au voisinage des étables. Étage mésoméditerranéen.
 

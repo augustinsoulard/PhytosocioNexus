@@ -14,7 +14,7 @@ Syn. : Peuplements à Scolopendrium hemionitis Knoerr 1960 ; Pallenido maritimae
 
 **Description :** Végétation souvent d'étendue très limitée par des exigences d'exposition et de microtopographie précises, reconnaissable par la présence d'Asplenium sagittatum, espèce rare en France.
 
-Espèces indicatrices : [[Asplenium sagittatum]], [[Parietaria judaica. La présence sur la roche de Roccella phycopsis]], [[petit lichen fruticuleux]], [[est indicatrice de conditions écologiques favorables]].
+Espèces indicatrices : [[Asplenium sagittatum]], [[Parietaria judaica]]. La présence sur la roche de Roccella phycopsis, petit lichen fruticuleux, est indicatrice de conditions écologiques favorables.
 
 Écologie : Végétation naturelle thermophile, légèrement hygrophile et nitrophile, se développant en conditions ombragées dans des gouffres, des surplombs ou dans les crevasses des parois rocheuses calcaires non loin du littoral. La proximité de la mer assure des variations faibles de température et apporte l'humidité atmosphérique nécessaire à l'humidification régulière du substrat par condensation. L'apport en éléments minéraux est quant à lui assuré par le lessivage des déjections des oiseaux marins. Étage mésoméditerranéen inférieur.
 
