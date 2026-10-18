@@ -28,4 +28,4 @@ Associations :
 - [[Nasturtietum officinalis]] P. Seibert 1962 ; 
 - [[Oenanthetum crocatae]] Braun-Blanquet et al. 1950 ; 
 - [[Veronico anagallidis-aquaticae-Sietum erecti]] (G. Philippi 1973) H. Passarge 1982 ; 
-- [[Veronico beccabungae-Callitrichetum platycarpae]] H.J. Grube ex Felzines 2016
+- [[Veronico beccabungae-Callitrichetum platycarpae H.J. Grube ex Felzines 2016]]

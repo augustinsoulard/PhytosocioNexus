@@ -32,4 +32,4 @@ Associations :
 - [[Glycerio fluitantis-Catabrosetum aquaticae]] Loidi 1982 ; 
 - [[Glycerio fluitantis-Leersietum oryzoidis]] H. Passarge (1957) 1999 ; 
 - [[Glycerio-Sparganietum neglecti]] W. Koch 1926 ; 
-- [[Ranunculetum hederacei]] Schnell 1939
+- [[Ranunculetum hederacei Schnell 1939]]

@@ -16,7 +16,7 @@ Associations :
 - [[Montio fontanae-Philonotidetum fontanae]] Büker et Tüxen 1941 ; 
 - [[Myosotido martini-Micranthetum stellaris]] B. Foucault 2018 ; 
 - [[Nardietum compressae]] P. Geissler 1976 ; 
-- [[Ranunculetum hederacei]] Tüxen et Diémont ex Libbert 1940 ; 
+- [[Ranunculetum hederacei Tüxen et Diémont ex Libbert 1940]] ; 
 - [[Sagino saginoidis-Micranthetum stellaris]] (Rivas Martínez et Géhu 1978) B. Foucault 2018 ; 
 - [[Saxifragetum aquaticae]] Braun-Blanquet 1948 ; 
 - [[Saxifragetum stellaris]] Litardière et Malcuit 1926 ; 
