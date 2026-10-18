@@ -9,8 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
+**Description :** Végétation herbacée vivace pionnière, xérophile, généralement structurée par de petites espèces crassulescentes, parfois riche en thérophytes, des sols squelettiques sur dalles rocheuses plus ou moins horizontales de l'Europe tempérée, méditerranéenne et boréale.
 
+Espèces indicatrices : [[Sedum album]], [[Sedum acre]], [[Poa bulbosa]].
 
 Ordres :
 - [[Alysso alyssoidis-Sedetalia albi]] Moravec 1967

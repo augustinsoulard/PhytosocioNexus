@@ -27,6 +27,7 @@ Associations :
 - [[Buxo sempervirentis-Juniperetum phoeniceae]] Rivas Martínez 1969 ; 
 - [[Buxo sempervirentis-Quercetum cocciferae]] Choisnet 2019 nom. inval. ; 
 - [[Cisto albidi-Genistetum scorpii]] B. Foucault 2018 ; 
+- [[Groupement à Buxus sempervirens et Ephedra major]] Noble et Baret, 2019 ;
 - [[Jasmino fruticantis-Phillyreetum angustifoliae]] Tallon in V. Noble et Baret 2019 nom. ined. (1) ; 
 - [[Junipero phoeniceae-Ficetum caricae]] B. Foucault et Julve 1994 ; 
 - [[Pino salzmanii-Juniperetum phoeniceae]] Quézel et Barbero 1988 ; 

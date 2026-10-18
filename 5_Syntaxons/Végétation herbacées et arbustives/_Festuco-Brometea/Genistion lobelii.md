@@ -9,8 +9,9 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation herbacée vivace structurée par des chaméphytes épineux, mésoxérophile à xérophile, des substrats rocheux calcaires exposés aux vents (rebords de corniches, crêtes ventées, lapiaz), des reliefs de la Méditerranée nord-occidentale. 
+**Description** : Végétation herbacée vivace structurée par des chaméphytes épineux, mésoxérophile à xérophile, des substrats rocheux calcaires exposés aux vents (rebords de corniches, crêtes ventées, lapiaz), des reliefs de la Méditerranée nord-occidentale. 
 
 Espèces indicatrices : [[Brassica repanda subsp. saxatilis]], [[Genista lobelii]], [[Sempervivum calcareum]], [[Seseli galloprovinciale]].
 

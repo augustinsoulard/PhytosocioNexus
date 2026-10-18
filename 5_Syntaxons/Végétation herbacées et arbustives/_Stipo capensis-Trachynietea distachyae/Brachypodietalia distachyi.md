@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation des sols et lithosols calcaires méditerranéo-atlantique
+**Description** : Végétation annuelle xérophile des substrats superficiels oligotrophes, neutres à basiques, et des lithosols sur roche calcaire, de la Méditerranée occidentale.
 
-**Espèces caractéristiques** : [[Arenaria controversa]], [[Bombycilaena erecta]], [[Cerastium pumilum]]
+**Espèces caractéristiques** : [[Arenaria controversa]], [[Bombycilaena erecta]], [[Cerastium pumilum]],  [[Bupleurum baldense]], [[Clypeola jonthlaspi]], [[Erophila verna]], [[Hornungia petraea]].
 
 ZH : non spécifié
 

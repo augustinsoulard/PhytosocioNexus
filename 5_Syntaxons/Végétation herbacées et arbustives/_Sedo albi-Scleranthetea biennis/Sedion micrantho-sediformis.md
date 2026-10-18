@@ -9,8 +9,9 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés calcicoles de la région méditerranéenne
+**Description** : Végétation herbacée vivace pionnière, xérophile, calcicole, des sols squelettiques des dalles rocheuses plus ou moins horizontales de la Méditerranée nord-occidentale.
 
 **Espèces caractéristiques** : [[Sedum album subsp. micranthum]], [[Sedum sediforme]], [[Sedum ochroleucum]]
 

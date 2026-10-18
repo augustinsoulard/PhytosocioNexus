@@ -10,9 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses xéro-thermophiles des sols pierreux et pentus
+Syn :  Cymbopogono-Brachypodietalia ramosi Horvatić 1958
 
-**Espèces caractéristiques** : [[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Stipellula parviflora]], [[Piptatherum caerulescens]], [[Brachypodium retusum]]
+**Description** : Végétation herbacée vivace thermophile, xérophile, des substrats basiques, sur sols pierreux et pentus de la Méditerranée.
+
+**Espèces caractéristiques** : [[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Stipellula parviflora]], [[Piptatherum caerulescens]], [[Brachypodium retusum]], [[Iris lutescens]], [[Ruta angustifolia]].
 
 Alliances :
 - [[Hyparrhenion sinaico-hirtae]] B. Foucault et V. Noble 2023

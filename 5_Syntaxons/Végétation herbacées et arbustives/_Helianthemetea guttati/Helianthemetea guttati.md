@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation annuelle des pelouses : Végétation des sables et lithosols acides (souvent en mélange avec les Sedo albi-Scleranthetalia biennis)
+**Description** : Végétation annuelle, xérophile et thermophile, des substrats superficiels acides, oligotrophes, de la Méditerranée et de l'Europe tempérée subméditerranéenne.  Sur sables et lithosols acides (souvent en mélange avec les [[Sedo albi-Scleranthetalia biennis]])
 
 **Espèces caractéristiques** : [[Draba verna]], [[Arabidopsis thaliana]], [[Cerastium glomeratum]], [[Cerastium semidecandrum]], [[Trifolium dubium]], [[Trifolium striatum]], [[Veronica arvensis]]
 

@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés du Midi sur sables xériques
+**Description** : Végétation annuelle pionnière, xérophile et thermophile, d'expression vernale, des substrats superficiels acides, oligotrophes, des étages thermo- à mésoméditerranéen de la Méditerranée.
 
-**Espèces caractéristiques** : [[Tuberaria guttata]], [[Plantago bellardii]]
+**Espèces caractéristiques** : [[Tuberaria guttata]], [[Plantago bellardii]], [[Aira cupaniana]], [[Linaria pelisseriana]], [[Linum trigynum]], [[Plantago bellardii]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.81]]

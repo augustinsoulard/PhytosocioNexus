@@ -20,3 +20,6 @@ ZH : (à préciser)
 Sous-alliances :
 - [[Antherico ramosi-Geranienion sanguinei]] J.-M. Royer 2016
 - [[Trifolio medii-Geranienion sanguinei]] Gils et Gilissen 1976
+
+Associations :
+- [[Groupement à Anthericum liliago et Geranium sanguineum]] Noble et Baret, 2019

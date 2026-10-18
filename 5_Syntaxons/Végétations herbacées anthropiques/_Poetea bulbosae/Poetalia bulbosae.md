@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Unique ordre pour la classe.
+
 Alliances :
 - [[Poo bulbosae-Astragalion sesamei]] Rivas Goday et Ladero 1970
 - [[Trifolio subterranei-Periballion minutae]] Rivas Goday 1964
