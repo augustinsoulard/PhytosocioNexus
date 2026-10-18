@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Pelouses amphibies
+**Description** : Végétation annuelle amphibie glycophile, d'expression estivo-automnale, des bas niveaux topographiques temporairement inondés sur substrats mésotrophes à légèrement eutrophes de l'Europe atlantique et méditerranéenne.
 
-**Espèces caractéristiques** : [[Damasonium alisma]], [[Ranunculus lateriflorus]]
+**Espèces caractéristiques** : [[Damasonium alisma]], [[Damasonium polyspermum]], [[Ranunculus lateriflorus]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.42]]

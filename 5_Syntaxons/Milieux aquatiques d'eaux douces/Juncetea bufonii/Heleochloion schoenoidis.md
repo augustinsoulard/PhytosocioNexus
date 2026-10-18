@@ -9,9 +9,10 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 
-**Description** : Pelouses amphibies
+**Description** : Végétation annuelle amphibie, d'expression estivo-automnale, des bas niveaux topographiques temporairement inondés sur substrats minéralisés, voire oligohalins, en Europe méridionale et Afrique du Nord.
 
 **Espèces caractéristiques** : Crypsis div. sp (exemple : [[Sporobolus schoenoides]]), [[Cyperus michelianus]], [[Lindernia palustris]]
 

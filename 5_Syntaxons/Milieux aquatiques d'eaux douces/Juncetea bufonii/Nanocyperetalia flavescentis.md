@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses thérophytiques amphibies
+**Description** : Végétation annuelle mésohygrophile à hygrophile, d'expression tardivernale à tardi-estivale, de niveau topographique moyen, sur substrats oligotrophes à mésotrophes, temporairement inondés, de l'Europe tempérée et méditerranéenne.
 
 **Espèces caractéristiques** : [[Juncus capitatus]], [[Radiola linoides]], [[Isolepis setacea]], [[Montia fontana]]
 

@@ -9,18 +9,19 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 
-**Description** : Pelouses thérophytiques amphibies
+**Description** : Végétation annuelle amphibie, d'expression estivo-automnale, des bas niveaux topographiques temporairement inondés sur substrats mésotrophes à légèrement eutrophes de l'Europe tempérée et méditerranéenne.
 
-**Espèces caractéristiques** : [[Lythrum tribracteatum]], [[Potentilla supina]], [[Limosella aquatica]]
+**Espèces caractéristiques** : [[Lythrum tribracteatum]], [[Potentilla supina]], [[Limosella aquatica]], [[Schoenoplectus supinus]].
 
 **Espèces de l'ancien Lythrion tribracteati** : [[Lythrum tribracteatum]], [[Lythrum junceum]], [[Damasonium alisma]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.421]]
 	- CB : [[22.341]]
-	- HIC EUR : [[3130-4]] - [[3170 mares temporaires]]
+	- HIC EUR : [[3130-4]] - [[3170]] mares temporaires
 
 ZH : oui
 
