@@ -14,7 +14,7 @@ Syn. : Ass. à Holoschoenus et Cirsium monspessulanum Braun-Blanq. 1931, Molinia
 
 **Description :** Végétation prairiale haute, dense, de superficie très variable, souvent en bande linéaire, parfois ponctuelle, dominée par Scirpoides holoschoenus subsp. holoschoenus, Molinia caerulea et Cirsium monspessulanum.
 
-Espèces indicatrices : [[Cirsium monspessulanum]], [[Scirpoides holoschoenus subsp. holoschoenus]], [[Molinia caerulea]] (cf. subsp. arundinacea), [[Senecio doria]], [[Juncus subnodulosus]], [[Lotus maritimus. On notera l'absence ou la rareté des espèces des Filipendulo ulmariae - Convolvuletea sepium et la présence régulière de Schoenus nigricans et Brachypodium phoenicoides]].
+Espèces indicatrices : [[Cirsium monspessulanum]], [[Scirpoides holoschoenus subsp. holoschoenus]], [[Molinia caerulea]] (cf. subsp. arundinacea), [[Senecio doria]], [[Juncus subnodulosus]], [[Lotus maritimus]]. On notera l'absence ou la rareté des espèces des Filipendulo ulmariae-Convolvuletea sepium et la présence régulière de Schoenus nigricans et Brachypodium phoenicoides.
 
 Écologie : Végétation mésohygrophile, basiphile, liée à la proximité de l'eau et d'une nappe phréatique peu profonde : autour de sources, en contexte alluvial ou dans des dépressions ou fossés, etc. Étage mésoméditerranéen.
 

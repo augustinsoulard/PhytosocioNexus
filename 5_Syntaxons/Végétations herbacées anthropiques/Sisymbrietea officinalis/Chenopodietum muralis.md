@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation annuelle assez dense, d'expression estivo-automnale, d'une teinte verte assez sombre, largement dominée par les Chenopodiaceae mais à la physionomie très variable selon les saisons et les années. Une variante des substrats perturbés en situation littorale peut être distinguée (atriplicetosum tataricae Braun-Blanq. in Braun-Blanq. et al. 1952) montrant Atriplex tatarica dominant, associé à quelques espèces halotolérantes.
 
-Espèces indicatrices : [[Chenopodium murale]], [[Ch. album subsp. album]], [[Ch. album subsp. opulifolium]], [[Sonchus oleraceus]].
+Espèces indicatrices : [[Chenopodium murale]], [[Chenopodium album subsp. album]], [[Chenopodium album subsp. opulifolium]], [[Sonchus oleraceus]].
 
 Écologie : Végétation thermophile pionnière, très nitrophile des terrains perturbés eutrophes, légèrement humides (décombres, zones de reposoirs des troupeaux, dépôts divers, etc.). Étage mésoméditerranéen.
 
