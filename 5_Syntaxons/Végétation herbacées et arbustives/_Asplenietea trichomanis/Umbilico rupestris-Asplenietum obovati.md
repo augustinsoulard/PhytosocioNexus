@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Asplenio billotii-Umbilicion rupestris]]"
+syntaxon_superieur: "[[Phagnalo saxatilis-Cheilanthion maderensis]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-10-17

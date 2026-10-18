@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Petasition officinalis]]"
+syntaxon_superieur: "[[Convolvulion sepium]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-10-17
