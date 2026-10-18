@@ -12,7 +12,7 @@ sources:
 ---
 Végétation herbacée vivace, prairiale, hygrophile, des sols paratourbeux à tourbeux de l'Europe tempérée. 
 
-Espèces indicatrices : [[Carex tomentosa]], [[Gentiana pneumonanthe]], [[Juncus conglomeratus]], [[Molinia caerulea]] (incl.  subsp. arundinacea), [[Ophioglossum vulgatum,]] [[Sanguisorba officinalis]], [[Succisa pratensis]].
+Espèces indicatrices : [[Carex tomentosa]], [[Gentiana pneumonanthe]], [[Juncus conglomeratus]], [[Molinia caerulea]] (incl.  subsp. arundinacea), [[Ophioglossum vulgatum]], [[Sanguisorba officinalis]], [[Succisa pratensis]].
 
 Alliances :
 - [[Molinion caeruleae]] W. Koch 1926

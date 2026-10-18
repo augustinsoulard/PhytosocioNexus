@@ -2292,7 +2292,7 @@ sources:
 ---
 **Description :** Végétation arbustive ou arborescente, xérophile à mésoxérophile, dominée par des espèces sempervirentes ou marcescentes, de la Méditerranée et de l'Europe thermo-tempérée.
 
-Espèces indicatrices : [[Arbutus unedo]], [[Asparagus acutifolius]], [[Laurus nobilis]], [[Lonicera implexa]], [[Phillyrea angustifolia]], [[Ph. latifolia]], [[Pinus halepensis]], [[Pinus pinea]], [[Rubia peregrina]], [[Smilax aspera]].
+Espèces indicatrices : [[Arbutus unedo]], [[Asparagus acutifolius]], [[Laurus nobilis]], [[Lonicera implexa]], [[Phillyrea angustifolia]], [[Phillyrea latifolia]], [[Pinus halepensis]], [[Pinus pinea]], [[Rubia peregrina]], [[Smilax aspera]].
 
 ```
 
@@ -3316,7 +3316,7 @@ sources:
 ---
 **Description :** Végétation annuelle nitrophile, rudérale, d'expression estivo-automnale, des sols perturbés eutrophes, de la Méditerranée.
 
-Espèces indicatrices : [[Atriplex rosea]], [[Atriplex tatarica]], [[Chenopodium album subsp. opulifolium]], [[Ch. ambrosioides]], [[Heliotropium europaeum]], [[Mercurialis annua]], [[Xanthium spinosum]].
+Espèces indicatrices : [[Atriplex rosea]], [[Atriplex tatarica]], [[Chenopodium album subsp. opulifolium]], [[Chenopodium ambrosioides]], [[Heliotropium europaeum]], [[Mercurialis annua]], [[Xanthium spinosum]].
 
 ```
 
