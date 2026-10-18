@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés calcicoles thermo- à mésoméditerranéennes
+**Description** : Végétation herbacée vivace, chasmophytique, thermo- à mésoméditerranéenne, des fissures et de la surface des parois rocheuses calcaires bien exposées de la Méditerranée occidentale.
 
 ZH : non spécifié
 

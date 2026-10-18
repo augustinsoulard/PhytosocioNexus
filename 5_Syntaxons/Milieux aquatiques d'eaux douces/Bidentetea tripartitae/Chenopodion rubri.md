@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation pionnière annuelle des bordures à niveau variable
+**Description** : Végétation annuelle pionnière des sols limoneux, sableux ou graveleux, riches en nutriments, s'exondant l'été, du lit des cours d'eau de l'Europe tempérée
 
-**Espèces caractéristiques** : [[Amaranthus blitum subsp. emarginatus]], [[Echinochloa crus-galli]], [[Corrigiola litoralis]]
+**Espèces caractéristiques** : [[Amaranthus blitum subsp. emarginatus]], [[Echinochloa crus-galli]], [[Corrigiola litoralis]], [[Dysphania botrys]], [[Oxybasis rubra]], [[Xanthium orientale subsp. italicum]], [[Cuscuta campestris]], [[Chenopodium album]] s.l.
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.52]] - [[C3.53]]

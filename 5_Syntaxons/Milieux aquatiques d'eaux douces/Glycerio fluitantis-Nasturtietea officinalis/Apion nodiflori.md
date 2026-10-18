@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation vivace basse d'hélophytes (milieux aquatiques peu profonds)
+**Description** : Végétation herbacée vivace amphibie, des berges des rivières d'eau froide courante, peu profonde, mésotrophes à eutrophes, de l'Europe tempérée et de la Méditerranée.
 
 **Espèces caractéristiques** : [[Helosciadium nodiflorum]], [[Nasturtium officinale]], [[Berula erecta]]
 

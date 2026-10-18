@@ -9,9 +9,10 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 
-**Description** : Végétation épilithique à terricole des parois et dalles ombragées
+**Description** : Végétation herbacée vivace chasmophytique, épiphyte ou des parois rocheuses recouvertes d'une fine pellicule de substrat (végétation chomophytique), riche en bryophytes et fougères, se développant en conditions ombragées dans les fissures ou sur les rochers de l'Europe tempérée, de la Macaronésie et de la Méditerranée.
 
 **Espèces caractéristiques** : [[Anomodon viticulosus]] (Bryophyte)
 

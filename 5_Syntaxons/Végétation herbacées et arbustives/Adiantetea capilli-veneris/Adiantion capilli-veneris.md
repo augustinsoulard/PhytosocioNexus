@@ -8,7 +8,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Suintements ombragés sur calcaire
+**Description** : Végétation herbacée vivace chasmophytique, thermophile, calcicole, des fissures des parois rocheuses, des murs d'origine anthropique ou des dépôts de tufs (suintements humides), dominée par [[Adiantum capillus-veneris]] et riche en bryophytes, de la Méditerranée, de la Macaronésie et du Moyen-Orient.
 
 **Espèces caractéristiques** : [[Samolus valerandi]], [[Eucladium verticillatum]] (Bryophyte)
 
@@ -29,3 +29,4 @@ Associations :
 - [[Pinguiculo grandiflorae-Adiantetum capilli-veneris]] B. Foucault 2019 ; 
 - [[Samolo valerandi-Adiantetum capilli-veneris]] Julve ex B. Foucault 2015
 
+A creuser (13) : Une communauté associant Crithmum maritimum (Crithmo maritimi - Adiantetum capilli-veneris Géhu, Biondi & Géhu-Franck ex B. Foucault 2015) pourrait exister dans le département au niveau des falaises maritimes du cap Canaille, des Calanques ou de la Nerthe.

@@ -22,5 +22,6 @@ sources:
 ZH : non
 
 ![[496 - Pinion mugo.jpg]]
-Associations :
-- [[Rhododendro ferruginei-Pinetum prostratae]] Zöttl 1951
+
+Sous-alliances :
+- [[Pinenion mugo]] Theurillat in Theurillat et al. 1995

@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation pionnière annuelle des bordures à niveau variable
+**Description** : Végétation annuelle pionnière des sols vaseux, s'exondant l'été, des fossés ou de la bordure des mares et des étangs eutrophes de l'Europe tempérée.
 
-**Espèces caractéristiques** : [[Bidens tripartita]], [[Bidens cernua]], [[Bidens frondosa]], [[Persicaria lapathifolia]], [[Ranunculus sceleratus]]
+**Espèces caractéristiques** : [[Bidens tripartita]], [[Bidens cernua]], [[Bidens frondosa]], [[Persicaria lapathifolia]], [[Ranunculus sceleratus]], Persicaria spp.
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.52]] - [[C3.53]]
@@ -29,6 +29,7 @@ Associations :
 - [[Bidenti tripartitae-Polygonetum hydropiperis]] (Miljan 1933) W. Lohmeyer ex Tüxen 1979 ; 
 - [[Bidenti tripartitae-Ranunculetum scelerati]] Miljan ex Tüxen 1979 ; 
 - [[Bidenti tripartitae-Rumicetum maritimi]] Miljan ex Tüxen 1979 ; 
+- [[Groupement à Bidens tripartita et Persicaria mitis]] Noble et Baret 2019 ;
 - [[Leersio oryzoidis-Bidentetum tripartitae]] E. Poli et J. Tüxen ex Zaliberova et al. 2000 ; 
 - [[Polygonetum hydropiperis]] H. Passarge 1965 ; 
 - [[Polygonetum minori-hydropiperis]] G. Philippi 1984 ; 

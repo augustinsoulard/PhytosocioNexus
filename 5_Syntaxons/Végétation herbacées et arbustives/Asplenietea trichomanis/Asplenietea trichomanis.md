@@ -9,8 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Végétation non nitrophile des parois et des murs
+**Description** : Végétation herbacée vivace, chasmophytique, non nitrophile, des fissures, des corniches et de la surface des parois rocheuses ou des murs d'Europe, de la Méditerranée, du Moyen-Orient, des archipels arctiques et du Groenland.
+
+Espèces indicatrices : [[Asplenium trichomanes]], [[Asplenium ceterach]], [[Asplenium ruta-muraria]], [[Asplenium fontanum]], [[Arabis collina subsp. collina]], [[Melica minuta var. minuta]], [[Sedum dasyphyllum]], [[Campanula rotundifolia subsp. macrorhiza]].
 
 ZH : non spécifié
 

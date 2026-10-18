@@ -16,6 +16,10 @@ ZH : non spécifié
 
 ![[097 - Potentillion caulescentis.jpg]]
 
+**Description :** Végétation chasmophytique des fissures et de la surface des parois rocheuses calcaires des étages montagnard à alpin des Alpes et des Carpates.
+
+Espèces indicatrices : [[Globularia repens]], [[Hieracium liotardii]], [[Hieracium humile]], [[Phyteuma charmelii]], [[Daphne alpina]], [[Sesleria caerulea]] (très fréquente).
+
 Sous-Alliances :
 - [[Kernero saxatilis-Potentillenion caulescentis]] Theurillat in Theurillat et al. 1995
 - [[Potentillenion caulescentis]] Theurillat in Theurillat et al. 1995

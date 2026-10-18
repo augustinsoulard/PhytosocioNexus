@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés calcicoles thermo- à mésoméditerranéennes
+**Description** : Végétation herbacée vivace, chasmophytique, thermo- à mésoméditerranéenne, des fissures des parois rocheuses calcaires de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Asplenium petrarchae]], [[Phagnalon sordidum]]
+**Espèces caractéristiques** : [[Asplenium petrarchae]], [[Chiliadenus glutinosus]], [[Pagnalon sordidum]], [[Allosorus acrosticus]], [[Melica amethystina]], [[Parietaria lusitanica]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[H3.211]] - [[H3.25]]

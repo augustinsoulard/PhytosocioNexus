@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation nitrophile des murs
+**Description** : Végétation vivace nitrophile, thermophile, d'affinité ouest- et centre-méditerranéenne.
 
-**Espèces caractéristiques** : [[Centranthus ruber]], [[Parietaria judaica]], [[Hyoscyamus albus]], [[Chaenorrhinum origanifolium]]
+**Espèces caractéristiques** : [[Centranthus ruber]], [[Parietaria judaica]], [[Hyoscyamus albus]], [[Chaenorrhinum origanifolium]], [[Sonchus tenerrimus]], [[Capparis spinosa]], [[Asplenium ceterach]], [[Asplenium sagittatum]], [[Antirrhinum majus subsp. majus]], [[Sedum dasyphyllum]], [[Hyoseris radiata]], [[Reichardia picroides]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[J1.31]]

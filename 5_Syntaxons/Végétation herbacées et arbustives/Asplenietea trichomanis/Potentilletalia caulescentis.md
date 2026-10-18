@@ -9,12 +9,13 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés calcicoles
+**Description** : Végétation herbacée vivace chasmophytique des fissures et de la surface des parois rocheuses calcaires ensoleillées des montagnes d'Europe.
 
 **Espèces caractéristiques** : [[Pontetilla caulescens var. petiolulata]], [[Potentilla caulescens]], [[Asplenium trichomanes]]
 
-**Espèces compagnes** :[[ Adiantum capillus-veneris]], [[Parietaria judaica]], [[Aster bellidiastrum]], [[Sedum fragans]], [[Hedera helix]]
+**Espèces compagnes** :[[ Adiantum capillus-veneris]], [[Parietaria judaica]], [[Aster bellidiastrum]], [[Sedum fragans]], [[Hedera helix]], [[Silene saxifraga]], [[Chaenorrhinum origanifolium]], [[Saxifraga lantoscana]], [[Hieracium amplexicaule]], [[Galium pusillum]].
 
 ZH : non spécifié
 
