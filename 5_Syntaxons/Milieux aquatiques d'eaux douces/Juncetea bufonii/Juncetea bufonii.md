@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétations pionnières : Pelouses thérophytiques amphibies
+**Description** : Végétation herbacée pionnière riche en annuelles éphémères, hygrophile à mésohygrophile, des substrats oligotrophes à mésotrophes temporairement inondés ou humides, s'exondant une grande partie de l'année en Eurasie et en Méditerranée.
 
-**Espèces caractéristiques** : [[Juncus bufonius]], [[Juncus tenageia]], [[Lythrum hyssopifolia]], [[Lythrum portula]]
+**Espèces caractéristiques** : [[Juncus bufonius]], [[Juncus pygmaeus]], [[Juncus tenageia]], [[Lythrum hyssopifolia]], [[Lythrum portula]],  [[Lythrum thymifolia]], [[Ranunculus sardous]].
 
 - **Correspondances typologiques** :
 	- Voir les ordres ci-dessous

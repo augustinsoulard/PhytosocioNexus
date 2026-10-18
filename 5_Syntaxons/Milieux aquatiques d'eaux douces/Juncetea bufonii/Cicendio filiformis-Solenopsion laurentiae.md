@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses centre-méditerranéennes
+**Description** : Végétation annuelle mésohygrophile, d'expression tardivernale, des substrats fins oligomésotrophes, acides à neutres, temporairement inondés, de la Méditerranée.
 
-**Espèces caractéristiques** : [[Cicendia filiformis]], [[Isolepis cernua]], [[Silene laeta]], [[Bellis annua]]
+**Espèces caractéristiques** :  [[Solenopsis laurentia]], [[Cicendia filiformis]], [[Isolepis cernua]], [[Silene laeta]], [[Bellis annua]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.4218]]
