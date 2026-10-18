@@ -1934,7 +1934,7 @@ sources:
 ---
 **Description :** Végétation vivace, sous-arbustive à arbustive, xérophile, héliophile, acidiphile, des substrats siliceux et ultramafiques de la Méditerranée.
 
-Espèces indicatrices : [[Calluna vulgaris]], [[Cistus albidus]], [[Cistus monspeliensis]], [[Cistus salviifolius]], [[Cytinus hypocistis]], [[Cytinus ruber]], E. scoparia, [[Lavandula stoechas]].
+Espèces indicatrices : [[Calluna vulgaris]], [[Cistus albidus]], [[Cistus monspeliensis]], [[Cistus salviifolius]], [[Cytinus hypocistis]], [[Cytinus ruber]], [[Erica scoparia]], [[Lavandula stoechas]].
 
 ```
 

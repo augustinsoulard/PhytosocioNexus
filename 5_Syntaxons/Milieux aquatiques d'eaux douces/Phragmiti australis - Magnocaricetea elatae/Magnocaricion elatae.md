@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation vivace haute de Poaceae et Cyperaceae (Cariçaies)
+**Description** : Végétation herbacée vivace, hygrophile, dominée par de grands Carex (magnocariçaie), des marais sur substrats organogènes mésotrophes à dystrophes, souvent tourbeux, longuement inondés, de l'Europe tempérée.
 
-**Espèces caractéristiques** : [[Carex elata]], [[Carex rostrata]], [[Carex acuta]], [[Thysselinum palustre]], [[Poa palustris]], [[Hippuris vulgaris]]
+**Espèces caractéristiques** : [[Carex elata]], [[Carex rostrata]], [[Carex acuta]], [[Galium elongatum]], [[Thysselinum palustre]], [[Poa palustris]], [[Hippuris vulgaris]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[B1.85]] (Dunes) - [[D5.24]] (Cladium mariscus dominant) - [[D5.3]] (Juncus effusus dominant) - [[D4.11]] (Tourbeux et alcalin) - [[D5.21]] (Autres)

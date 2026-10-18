@@ -10,6 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Actuellement seul ordre de la classe pour l'Europe.
+
+Espèces indicatrices : [[Cymbalaria muralis]], [[Centranthus ruber subsp. ruber]], [[Erysimum cheiri]], [[Asplenium ceterach]], [[Matthiola incana]].
+
 Alliances :
 - [[Asplenio billotii-Cymbalarion muralis]] B. Foucault 2014
 - [[Cymbalario muralis-Asplenion rutae-murariae]] Segal 1969

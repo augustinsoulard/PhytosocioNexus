@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description** : Végétation annuelle pionnière, hygrophile, plus ou moins nitrophile, d'expression estivo-automnale, des milieux continentaux humides, naturels, s'exondant l'été, de l'Europe et de la Méditerranée.
+
 Alliances :
 - [[Bidention tripartitae]] Nordhagen ex Klika et Hadač 1944
 - [[Chenopodion rubri]] (Tüxen ex E. Poli et J. Tüxen 1960) K. Kopecký 1969

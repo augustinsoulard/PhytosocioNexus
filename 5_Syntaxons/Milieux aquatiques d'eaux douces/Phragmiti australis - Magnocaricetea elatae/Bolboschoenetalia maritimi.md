@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés subhalophiles
+**Description** : Végétation herbacée vivace hygrophile, subhalophile, dominée par de grandes Cyperaceae, des substrats longuement inondés d'eau saumâtre de l'Europe tempérée et méditerranéenne.
 
-**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Schoenoplectus litoralis]], [[Tripolium pannonicum]]
+**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Bolboschoenus planiculmis]], [[Schoenoplectus litoralis]], [[Tripolium pannonicum]]
 
 ZH : oui
 

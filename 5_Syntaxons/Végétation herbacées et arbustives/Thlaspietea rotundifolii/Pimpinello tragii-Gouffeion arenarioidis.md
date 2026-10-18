@@ -9,6 +9,7 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Végétation herbacée vivace des éboulis calcaires de l'Europe méditerranéenne nord-occidentale (sud de la France et Catalogne). 
 

@@ -10,14 +10,14 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation vivace haute d'hélophytes (roselières, cariçaies)
+**Description** : Végétation herbacée vivace dominée par de grands hélophytes (roselières et cariçaies), hygrophile, des substrats longuement inondés d'eau douce ou saumâtre (nappe d'eau à faible variation de niveau) de l'Eurasie.
 
-**Espèces caractéristiques** : Typha spp. ([[Typha angustifolia]], [[Typha latifolia]]), [[Thelypteris palustris]]  [[Equisetum palustris]], [[Equisetum fluviatile]], [[Glyceria maxima]], [[Cladium mariscus]]
+**Espèces caractéristiques** : Typha spp. ([[Typha angustifolia]], [[Typha latifolia]], [[Typha minima]]), [[Thelypteris palustris]]  [[Equisetum palustris]], [[Equisetum fluviatile]], [[Glyceria maxima]], [[Cladium mariscus]], [[Schoenoplectus lacustris]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.21]] - [[C3.22]] - [[C3.23]] - [[C3.251]] - [[B1.85]] (Milieux dunaires)
 	- CB : [[53.11]] - [[53.12]] - [[53.13]] - [[53.15]] - [[16.35]] (Milieux dunaires)
-	- HIC EUR : [[NC]] - [[2190-5]] (Milieux dunaires)
+	- HIC EUR : NC - [[2190-5]] (Milieux dunaires)
 
 ZH : oui
 

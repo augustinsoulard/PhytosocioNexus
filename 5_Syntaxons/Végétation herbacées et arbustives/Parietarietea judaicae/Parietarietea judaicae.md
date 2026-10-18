@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation nitrophile des murs
+**Description** : Végétation herbacée vivace, chasmophytique, nitrophile, thermophile, des murs et parois rocheuses perturbés de l'Europe atlantique à subcontinentale, de la Méditerranée et du Moyen-Orient.
 
-**Espèces caractéristiques** : [[Erysimum cheiri]], [[Pseudofumaria alba]]
+**Espèces caractéristiques** : [[Erysimum cheiri]], [[Pseudofumaria alba]], [[Parietaria judaica]].
 
 ZH : non spécifié
 

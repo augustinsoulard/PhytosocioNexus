@@ -9,11 +9,12 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 
-**Description** : Végétation vivace haute de Poaceae et Cyperaceae
+**Description** : Végétation herbacée vivace dominée par des hélophytes (Poaceae et Cyperaceae), hygrophile, des substrats mésotrophes à eutrophes, parfois tourbeux, des bords d'étangs, lacs, rivières et marais d'eau douce ou saumâtre, de l'Eurasie.
 
-**Espèces caractéristiques** : [[Phragmites australis]], [[Phalaris arundinacea]], Typha div. sp. ([[Typha angustifolia]], [[Typha latifolia]]), [[Cladium mariscus]], [[Sparganium erectum]], [[Butomus umbellatus]], [[Acorus calamus]], [[Equisetum fluviatile]], [[Ranunculus lingua]], [[Rorippa amphibia]], [[Sium latifolium]]
+**Espèces caractéristiques** : [[Phragmites australis]], [[Phalaris arundinacea]], Typha div. sp. ([[Typha angustifolia]], [[Typha latifolia]]), [[Bolboschoenus maritimus]] gpe, [[Cladium mariscus]], [[Sparganium erectum]], [[Butomus umbellatus]], [[Acorus calamus]], [[Equisetum fluviatile]], [[Ranunculus lingua]], [[Rorippa amphibia]], [[Sium latifolium]]
 
 ZH : oui
 

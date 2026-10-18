@@ -18,4 +18,4 @@ Espèces indicatrices : [[Hyoscyamus albus]], [[Sonchus tenerrimus]], [[Parietar
 
 Chorologie BdR (13) : Observée sur l'île du château d'If, certainement présente ailleurs dans l'archipel du Frioul et sur la corniche marseillaise.
 
-La présence de Matthiola incana pourrait conduire à reconnaître le Parietario judaicae - Matthioletum incanae Vigo & Terradas 1969. En l'absence d'un nombre suffisant de relevés, tant dans les Bouches-du-Rhône que dans la région de description de cette association (Catalogne), nous préférons rester prudents.
+Note (13) : La présence de Matthiola incana pourrait conduire à reconnaître le Parietario judaicae - Matthioletum incanae Vigo & Terradas 1969. En l'absence d'un nombre suffisant de relevés, tant dans les Bouches-du-Rhône que dans la région de description de cette association (Catalogne), nous préférons rester prudents.

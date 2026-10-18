@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Végétation vivace haute d'hélophytes
+**Description** : Végétation herbacée vivace dominée par de grandes espèces graminoïdes, hygrophile, des substrats minéraux méso- à eutrophes, souvent vaseux, régulièrement et longuement inondés d'eau douce, de l'Eurasie.
 
-**Espèces caractéristiques** (Phalaridion arundinaceae non retenu ici): [[Iris pseudacorus]], [[Rorippa amphibia]], [[Poa palustris]], [[Mentha longifolia]], [[Lycopus europaeus]]
+**Espèces caractéristiques** (Phalaridion arundinaceae non retenu ici): [[Iris pseudacorus]], [[Rorippa amphibia]], [[Poa palustris]], [[Mentha longifolia]], [[Lycopus europaeus]], [[Bolboschoenus glaucus]], [[Phragmites australis]], [[Thelypteris palustris]].
 
 ZH : oui
 

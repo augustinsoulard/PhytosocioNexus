@@ -20,7 +20,7 @@ sources:
 	- HIC EUR : NC
 
 ZH : non
-
+![[461 - Sorbo torminalis-Quercenion petraea.jpg]]
 Associations :
 - [[Betulo verrucosae-Quercetum pyrenaicae]] Braun-Blanquet 1967 ; 
 - [[Peucedano gallici-Quercetum roboris]] (P. Allorge et Gaume 1931) Braun-Blanquet 1967

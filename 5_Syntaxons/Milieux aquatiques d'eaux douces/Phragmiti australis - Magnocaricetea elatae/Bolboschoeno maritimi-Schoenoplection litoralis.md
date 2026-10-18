@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés méditerranéennes
+**Description** : Végétation herbacée vivace, hygrophile, subhalophile, dominée par de grandes espèces de Cyperaceae, des substrats longuement inondés d'eau saumâtre du littoral méditerranéen de l'Europe.
 
-**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Schoenoplectus litoralis]]
+**Espèces caractéristiques** : [[Bolboschoenus maritimus]], [[Schoenoplectus litoralis]], [[Schoenoplectus pungens]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.21]] - [[C3.27]]

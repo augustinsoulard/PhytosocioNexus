@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Pelouses amphibies (et gazons des pannes dunaires)
+**Description** : Végétation annuelle hygrophile des substrats argileux à sablonneux humides, brièvement inondés (pannes dunaires), de l'Europe tempérée et méditerranéenne.
 
-**Espèces caractéristiques** : [[Centaurium pulchellum]], [[Blackstonia imperfoliata]], [[Samolus valerandi]]
+**Espèces caractéristiques** : [[Centaurium pulchellum]], [[Blackstonia imperfoliata]], [[Samolus valerandi]], [[Blackstonia perfoliata subsp. perfoliata]], [[Blackstonia acuminata]], [[Centaurium tenuiflorum subsp. acutiflorum]], [[Polygala exilis]], [[Linum catharticum]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[C3.4218]] - [[C3.512]] - [[C3.513]] - [[B1.82]] (gazons des pannes dunaires)
