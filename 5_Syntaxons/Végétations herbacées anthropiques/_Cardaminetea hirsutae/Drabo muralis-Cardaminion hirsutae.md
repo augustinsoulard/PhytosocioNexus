@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Ourlets thermo- à nord-atlantiques, non littoraux
+**Description** : Végétation annuelle pionnière, d'expression vernale, thermophile, hémisciaphile, mésophile, nitrophile, formant des ourlets éphémères en Europe tempérée subatlantique et subméditerranéenne, en situation azonale en Méditerranée.
 
-**Espèces caractéristiques** : [[Valerianella carinata]], [[Sedum cepaea]], [[Draba muralis]], [[Geranium lucidum]], [[Microthlaspi perfoliatum]]
+**Espèces caractéristiques** : [[Valerianella carinata]], [[Sedum cepaea]], [[Draba muralis]], [[Geranium lucidum]], [[Microthlaspi perfoliatum]], [[Calepina irregularis]], [[Veronica hederifolia]], [[Lamium purpureum]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E5.12]] - [[E5.13]]

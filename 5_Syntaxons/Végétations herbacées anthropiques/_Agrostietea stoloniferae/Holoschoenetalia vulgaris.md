@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Prairies hygrophiles méditerranéennes
+**Description** : Végétation herbacée vivace prairiale, thermophile, mésohygrophile à hygrophile, fauchée ou pâturée, des sols profonds, temporairement inondés l'hiver, restant humides en été, de la Méditerranée.
 
-**Espèces caractéristiques** : [[Scirpoides holoschoenus]], [[Cynodon dactylon]], [[Dittrichia viscosa]]
+**Espèces caractéristiques** : [[Scirpoides holoschoenus]], [[Cynodon dactylon]], [[Dittrichia viscosa]], [[Cichorium pumilum]], [[Lotus glaber]]
 
 ZH : oui
 

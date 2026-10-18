@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Prairies soumises à de courtes inondations
+**Description** : Végétation herbacée vivace prairiale, hygrophile, fauchée ou pâturée, des substrats mésotrophes à eutrophes soumis à de brèves périodes d'inondation de l'Europe tempérée et méditerranéenne.
 
 **Espèces caractéristiques** : [[Juncus effusus]], [[Lotus pedunculatus]], [[Trifolium dubium]], [[Bellis perennis]]
 

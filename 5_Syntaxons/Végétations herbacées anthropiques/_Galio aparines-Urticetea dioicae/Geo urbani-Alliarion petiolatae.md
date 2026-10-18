@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés +/- hygroclines, nitrophiles et sciaphiles
+**Description** : Végétation herbacée d'espèces vivaces à courte durée de vie, riche en théophytes, thermophile, sciaphile, des substrats profonds riches en nutriments de l'Europe tempérée et méditerranéenne.
 
-**Espèces caractéristiques** : [[Torilis japonica]], [[Chaerophyllum temulum]], [[Sison amomum]], [[Mycelis muralis]], [[Geranium lucidum]]
+**Espèces caractéristiques** : [[Torilis japonica]], [[Chaerophyllum temulum]], [[Sison amomum]], [[Mycelis muralis]], [[Geranium lucidum]], [[Geum urbanum]], [[Viola odorata]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E5.43]]

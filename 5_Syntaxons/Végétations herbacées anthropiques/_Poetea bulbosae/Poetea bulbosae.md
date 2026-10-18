@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation herbacée vivace rase, riche en thérophytes, régulièrement pâturée, des substrats mésotrophes à eutrophes de la Méditerranée.
 
-Espèces indicatrices : [[Poa bulbosa]], [[Trifolium subterraneum]], [[Trifolium glomeratum]], [[Trifolium tomentosum]], [[Trifolium nigrescens]], [[T. scabrum subsp. scabrum]], [[Carex divisa]], [[Bellis annua]], [[Plantago coronopus subsp. coronopus]].
+Espèces indicatrices : [[Poa bulbosa]], [[Trifolium subterraneum]], [[Trifolium glomeratum]], [[Trifolium tomentosum]], [[Trifolium nigrescens]], [[Trifolium scabrum subsp. scabrum 1]], [[Carex divisa]], [[Bellis annua]], [[Plantago coronopus subsp. coronopus]].
 
 Ordres :
 - [[Poetalia bulbosae]] Rivas Goday et Rivas Martínez in Rivas Goday et Ladero 1970

@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Végétation arbustive thermophile des sols riches en nutriments sous climat tempéré à hiver doux de l'Europe atlantique, subméditerranéenne et de la Macaronésie. 
+**Description :**  Végétation arbustive thermophile des sols riches en nutriments sous climat tempéré à hiver doux de l'Europe atlantique, subméditerranéenne et de la Macaronésie. 
 
 Espèces indicatrices : [[Rubus ulmifolius]], [[Dioscorea communis]], [[Rubia peregrina]], [[Lonicera periclymenum]]
 

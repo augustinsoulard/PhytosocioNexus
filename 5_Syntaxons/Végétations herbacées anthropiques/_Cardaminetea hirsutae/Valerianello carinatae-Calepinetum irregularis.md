@@ -20,4 +20,4 @@ Espèces indicatrices : [[Anisantha sterilis]], [[Calepina irregularis]], [[Hord
 
 Chorologie BdR (13) : Vallée de l'Arc.
 
-Cette association décrite des Deux-Sèvres sous climat atlantique semble avoir une vaste aire de répartition en Europe thermo- à mésotempérée. Carni et al. (2003) la reconnaissent par exemple dans les Balkans, en Macédoine, avec une composition floristique très proche de celle de la communauté des Bouches-du-Rhône. Valerianello carinatae - Calepinetum irregularis ; Aix-en-Provence © J. Baret
+Cette association décrite des Deux-Sèvres sous climat atlantique semble avoir une vaste aire de répartition en Europe thermo- à mésotempérée. Carni et al. (2003) la reconnaissent par exemple dans les Balkans, en Macédoine, avec une composition floristique très proche de celle de la communauté des Bouches-du-Rhône.

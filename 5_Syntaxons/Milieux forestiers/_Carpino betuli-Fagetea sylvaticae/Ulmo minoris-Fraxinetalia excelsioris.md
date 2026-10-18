@@ -9,8 +9,9 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Forêts sur sols engorgés
+**Description** : Végétation arborescente des plaines inondables sur sols alluviaux riches de l'Europe tempérée et boréale.
 
 **Espèces caractéristiques** : [[Quercus robur]], [[Carpinus betulus]], [[Acer campestre]], [[Viburnum opulus]], [[Deschampsia cespitosa]], [[Poa trivialis]], [[Ficaria verna]], [[Loncomelos pyrenaicum]], [[Potentilla sterilis]], [[Eurhynchium striatum]], [[Plagiomnium undulatum]]
 

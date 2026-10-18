@@ -20,4 +20,4 @@ Espèces indicatrices : [[Plantago albicans]], [[Convolvulus lineatus]] (rare).
 
 Chorologie BdR (13) : Contrefort occidental du plateau d'Arbois entre Vitrolles, Velaux et Ventabren ; autrefois développé mais aujourd'hui fragmentaire dans la plaine de l'Arc au nord de Berre-l'Étang.
 
-Végétation peu caractérisée, méconnue et peut-être aujourd'hui trop dégradée pour être rattachée à une association existante. Teucrio pseudochamaepityos - Brachypodietum retusi ; Marseille © M. Pires Asphodeletum ayardii ; Saint-Martin-de-Crau © B. Huynh-Tan Pelouse à Stipa offneri ; Sénas © B. Huynh-Tan
+Végétation peu caractérisée, méconnue et peut-être aujourd'hui trop dégradée pour être rattachée à une association existante.

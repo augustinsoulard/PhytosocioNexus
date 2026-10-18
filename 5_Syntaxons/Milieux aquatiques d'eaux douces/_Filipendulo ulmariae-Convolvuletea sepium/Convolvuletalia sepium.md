@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétations luxuriantes de hautes herbes non graminoïdes
+**Description** : Végétation herbacée vivace hygrophile, nitrophile, des substrats alluvionnaires régulièrement inondés par des eaux eutrophes, de l'Europe tempérée et de la Méditerranée.
 
 **Espèces caractéristiques** : [[Convolvulus sepium]], [[Solanum dulcamara]], [[Rubus caesius]], [[Galium aparine]], [[Cirsium arvense]]
 

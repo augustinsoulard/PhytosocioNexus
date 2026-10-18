@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Végétation herbacée vivace basse, mésohygrophile, souvent pâturée, des substrats marneux ou argileux régulièrement inondés l’hiver et s’asséchant une grande partie de l’année, de la Méditerranée nord-occidentale. 
+**Description** : Végétation herbacée vivace basse, mésohygrophile, souvent pâturée, des substrats marneux ou argileux régulièrement inondés l’hiver et s’asséchant une grande partie de l’année, de la Méditerranée nord-occidentale. 
 
 Espèces indicatrices : [[Achillea ageratum]], [[Centaurea jacea subsp. timbalii]], [[Deschampsia media]], [[Hypericum tomentosum]], [[Prunella hyssopifolia]].
 

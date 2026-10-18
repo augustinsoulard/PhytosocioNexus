@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Boisements de l'Europe tempérée
 
-**Espèces caractéristiques** : [[Alnus incana]], [[Prunus padus]], [[Viburnum opulus]], [[Ribes rubrum]], [[Equisetum hyemale]], [[Deschampsia cespitosa]], [[Schedonorus giganteus]], [[Filipendula ulmaria]], ...
+**Espèces caractéristiques** : [[Alnus incana]], [[Prunus padus]], [[Viburnum opulus]], [[Ribes rubrum]], [[Equisetum hyemale]], [[Deschampsia cespitosa]], [[Schedonorus giganteus]], [[Filipendula ulmaria]]
 
 Alliances :
 - [[Alnion incanae]] Pawłowski in Pawłowski et al. 1928

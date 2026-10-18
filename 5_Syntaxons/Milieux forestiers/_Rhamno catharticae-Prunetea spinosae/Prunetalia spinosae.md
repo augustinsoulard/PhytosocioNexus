@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Fourrés européens, acidiclinophiles à surtout calcicoles, parfois de recolonisation pastorale
+**Description** : Végétation arbustive (fourré), mésotrophile, des substrats neutres à basiques des étages planitaire à montagnard de l'Europe tempérée et subméditerranéenne parfois de recolonisation pastorale.
 
-**Espèces caractéristiques** : [[Viburnum lantana]], [[Berberis vulgaris]], [[Ribes alpinum]], [[Lonicera xylosteum]], [[Hippocrepis emerus]], [[Prunus mahaleb]], [[Rhamnus alpina]], [[Rhamnus cathartica]], [[Rhamnus saxatilis]], [[Colutea arborescens]], [[Cornus mas]], Rosa kl. rubiginosa ([[Rosa rubiginosa]]), Rosa kl. ferruginea ([[Rosa ferruginea]]), [[Juniperus communis]], [[Sorbus aria]], [[Fraxinus excelsior]], [[Fraxinus angustifolia]], [[Acer pseudoplatanus]], [[Populus tremula]], [[Ulmus minor]], [[Pinus sylvestris]], [[Robinia pseudoacacia]], [[Sambucus nigra]], [[Geranium robertianum]], [[Urtica dioica]], [[Galium aparine]], [[Geum urbanum]], [[Alliaria petiolata]]
+**Espèces caractéristiques** : [[Viburnum lantana]], [[Berberis vulgaris]], [[Ribes alpinum]], [[Lonicera xylosteum]], [[Hippocrepis emerus]], [[Prunus mahaleb]], [[Rhamnus alpina]], [[Rhamnus cathartica]], [[Rhamnus saxatilis]], [[Colutea arborescens]], [[Cornus mas]], Rosa kl. rubiginosa ([[Rosa rubiginosa]]), Rosa kl. ferruginea ([[Rosa ferruginea]]), [[Juniperus communis]], [[Sorbus aria]], [[Fraxinus excelsior]], [[Fraxinus angustifolia]], [[Acer pseudoplatanus]], [[Populus tremula]], [[Ulmus minor]], [[Pinus sylvestris]], [[Robinia pseudoacacia]], [[Sambucus nigra]], [[Geranium robertianum]], [[Urtica dioica]], [[Galium aparine]], [[Geum urbanum]], [[Alliaria petiolata]], [[Hippocrepis emerus]], [[Juniperus communis subsp. communis]], [[Lonicera xylosteum]], [[Ribes alpinum]], [[Rosa micrantha]]
 
 
 Alliances :

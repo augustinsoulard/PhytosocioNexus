@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Végétation herbacée vivace, d'expression vernale, riche en géophytes, thermophile, mésophile, nitrophile, des substrats profonds, ombragés et humides l'hiver, de la Méditerranée occidentale.
+
+Espèces indicatrices : [[Allium triquetrum]], [[Allium neapolitanum]], [[Acanthus mollis]], [[Smyrnium olusatrum]].
+
+
 ![[281 - Allion triquetri.jpg]]
 Associations :
 - [[Acantho mollis-Smyrnietum olusatri]] Brullo et Marcenò 1985 ; 

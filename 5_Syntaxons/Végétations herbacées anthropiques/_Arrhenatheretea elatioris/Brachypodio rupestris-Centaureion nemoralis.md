@@ -11,7 +11,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 
-**Description** : Prairies thermo-atlantiques à supraméditerranéennes
+**Description** : Végétation herbacée vivace prairiale, mésophile, fauchée, de l'Europe thermo-atlantique et de la Méditerranée.
 
 **Espèces caractéristiques** : [[Gaudinia fragilis]], [[Linum usitatissimum subsp. angustifolium]], [[Crepis vesicaria subsp. taraxacifolia]]
 

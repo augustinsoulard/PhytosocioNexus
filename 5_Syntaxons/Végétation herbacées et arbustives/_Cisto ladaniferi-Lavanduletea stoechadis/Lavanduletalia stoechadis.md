@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation acidiphile à chaméphytes du maquis supraméditerranéen
+**Description** : Végétation vivace, sous-arbustive à arbustive (maquis), héliophile, xérophile, acidiphile, des substrats siliceux et ultramafiques de la Méditerranée occidentale. Plutôt supraméditerrannéen.
 
 **Espèces caractéristiques** : [[Lavandula stoechas]], [[Cistus salviifolius]], [[Cytinus hypocistis]], [[Cistus umbellatus]]
 

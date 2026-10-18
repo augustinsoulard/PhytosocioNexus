@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Fourrés arbustifs héliophiles
 
-**Espèces caractéristiques** : [[Pistacia lentiscus]], [[Pistacia terebinthus]], [[Rhamnus alaternus]], [[Myrtus communis]], [[Phillyrea latifolia]], [[Juniperus oxycedrus]], [[Olea europaea]], [[Quercus coccifera]], [[Rhus coriaria]], [[Smilax aspera]], [[Daphne gnidium]]
+**Espèces caractéristiques** : [[Pistacia lentiscus]], [[Pistacia terebinthus]], [[Rhamnus alaternus]], [[Myrtus communis]], [[Phillyrea latifolia]], [[Juniperus oxycedrus]], [[Olea europaea]], [[Quercus coccifera]], [[Rhus coriaria]], [[Smilax aspera]], [[Daphne gnidium]], [[Euphorbia characis subsp. characias]], [[Jasminum fruticans]], [[Daphne gnidium]], [[Clematis flammula]], [[Rhamnus alaternus]], [[Osyris alba]], [[Bupleurum fruticosum]].
 
 
 **Espèces caractéristiques des fourrés acidiphiles** : [[Erica arborea]], [[Erica scoparia]], [[Arbutus unedo]], [[Cistus monspeliensis]], [[Cistus populifolius]]

@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation arbustive des berges et des lits de cours d'eau temporaires
+**Description** : Végétation arbustive, parfois arborescente, des berges et du lit des cours d'eau temporaires plus ou moins oligohalophiles des étages inférieurs de la Méditerranée et de Macaronésie, faiblement caractérisée dans le département des Bouches-du-Rhône par[[ Tamarix gallica]]. [[Tamarix africana]], [[Nerium oleander]] ou encore [[Vitex agnus-castus]] sont ici absents.
 
 ZH : oui
 

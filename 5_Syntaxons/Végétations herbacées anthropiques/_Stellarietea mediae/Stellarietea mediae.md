@@ -9,8 +9,9 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation annuelle, nitrophile, commensale des cultures annuelles ou sarclées des régions tempérées de l'Eurasie. En régression partout en France.
+**Description :** Végétation annuelle, nitrophile, commensale des cultures annuelles ou sarclées des régions tempérées de l'Eurasie. En régression partout en France.
 
 Espèces indicatrices : [[Adonis annua]], [[Adonis flammea]], [[Anchusa italica]], [[Bifora radians]], [[Bifora testiculata]], [[Buglossoides arvensis subsp. arvensis]], [[Bupleurum rotundifolium]], [[Camelina microcarpa subsp. sylvestris]], [[Caucalis platycarpos]], [[Centaurea benedicta]], [[Ceratocephala falcata]], [[Cyanus segetum]], [[Delphinium consolida]], [[Delphinium orientale]], [[Gagea villosa]], [[Galium tricornutum]], [[Legousia hybrida]], [[Neslia paniculata subsp. thracica]], [[Papaver rhoeas]], [[Papaver argemone]], [[Papaver dubium]], [[Papaver hybridum]], [[Ranunculus arvensis]], [[Vaccaria hispanica]], [[Vicia pannonica var. purpurascens]], [[Alopecurus myosuroides]], [[Fallopia convolvulus]], Valerianella div. sp., [[Stellaria media]].
 

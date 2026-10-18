@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation herbacée rase très diversifiée, riche en petites espèces annuelles de la famille des Fabaceae autour de quelques espèces vivaces résistantes au pâturage (Poa bulbosa, Carex divisa, Cynodon dactylon).
 
-Espèces indicatrices : [[Trifolium tomentosum]], [[T. scabrum subsp. scabrum]], [[T. campestre]], [[T. lappaceum]], [[T. suffocatum]], [[Poa bulbosa]], [[Carex divisa]], [[Cynodon dactylon]].
+Espèces indicatrices : [[Trifolium tomentosum]], [[Trifolium scabrum subsp. scabrum 1]], [[T. campestre]], [[T. lappaceum]], [[T. suffocatum]], [[Poa bulbosa]], [[Carex divisa]], [[Cynodon dactylon]].
 
 Écologie : Végétation pionnière mésoxérophile des petites buttes sableuses ou sablo-limoneuses issues d'anciennes dunes fluviatiles aplanies (montilles), pâturées extensivement par des taureaux. Étage mésoméditerranéen.
 

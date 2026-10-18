@@ -9,8 +9,9 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation annuelle, commensale des cultures de céréales sur sols basiques en Europe. 
+**Description :** Végétation annuelle, commensale des cultures de céréales sur sols basiques en Europe. 
 
 Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium pubescens]], [[Neslia paniculata]], [[Galium tricornutum]], [[Vaccaria hispanica]], [[Nigella arvensis]], [[Bunium bulbocastanum]], [[Caucalis platycarpos]], [[Scandix pecten-veneris]], [[Kickxia spuria]], [[Kickxia elatine]]
 

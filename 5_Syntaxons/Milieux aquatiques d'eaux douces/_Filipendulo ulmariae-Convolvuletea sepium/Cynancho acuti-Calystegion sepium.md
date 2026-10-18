@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés méditerranéennes
+**Description** : Végétation herbacée vivace hygrophile, nitrophile, des substrats alluvionnaires régulièrement inondés par des eaux eutrophes, de la Méditerranée occidentale.
 
-**Espèces caractéristiques** : [[Cynanchum acutum]], [[Symphyotrichum squamatum]], [[Arundo donax]]
+**Espèces caractéristiques** : [[Cynanchum acutum]], [[Symphyotrichum squamatum]], [[Arundo donax]], [[Mentha aquatica]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E5.411]]

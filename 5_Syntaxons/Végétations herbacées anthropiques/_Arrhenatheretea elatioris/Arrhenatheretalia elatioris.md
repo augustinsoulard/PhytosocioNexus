@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Prairies essentiellement fauchées
+**Description** : Végétation herbacée vivace prairiale, principalement fauchée, des basses et moyennes altitudes de l'Europe tempérée et subboréale.
 
-**Espèces caractéristiques** : [[Arrhenatherum elatius]], [[Bromus hordeaceus]], [[Dactylis glomerata]]
+**Espèces caractéristiques** : [[Arrhenatherum elatius]], [[Bromus hordeaceus]], [[Dactylis glomerata]], [[Arrhenatherum elatius subsp. elatius]], [[Trisetum flavescens subsp. flavescens]], [[Rhinanthus minor]], [[Tragopogon pratensis subsp. orientalis]]
 
 ZH : non spécifié
 

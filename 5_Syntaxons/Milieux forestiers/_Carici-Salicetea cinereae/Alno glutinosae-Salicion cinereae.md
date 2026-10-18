@@ -9,7 +9,13 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
+**Description :** Végétation arbustive hygrophile de bas niveau topographique, des substrats eutrophes de la bordure des eaux calmes à faiblement mobiles de l'Europe occidentale.
+
+Espèces indicatrices : [[Salix atrocinerea]], [[Salix cinerea]].
+
+
 ![[143 - Alno glutinosae-Salicion cinereae.jpg]]
 Associations :
  - [[Alno glutinosae-Salicetum cinereae]] H. Passarge 1956 ; 

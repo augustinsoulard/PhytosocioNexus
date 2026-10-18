@@ -14,7 +14,7 @@ Syn. : ass. à Helianthemum hirtum et Onobrychis caput-galli Braun-Blanq. 1924 ;
 
 **Description :** Végétation annuelle rase, d'extension souvent réduite, d'expression vernale, marquée par la présence de nombreux thérophytes associés à des bryophytes et en particulier à Didymodon acutus (= Barbula gracilis).
 
-Espèces indicatrices : [[Onobrychis caput-galli]], [[Astragalus sesameus]], [[Hedysarum spinosissimum]], [[Helianthemum salicifolium]], [[Hippocrepis ciliata]], [[Trifolium scabrum subsp. scabrum]].
+Espèces indicatrices : [[Onobrychis caput-galli]], [[Astragalus sesameus]], [[Hedysarum spinosissimum]], [[Helianthemum salicifolium]], [[Hippocrepis ciliata]], [[PhytosocioNexus/3_Flore/Autres-non classees/Trifolium scabrum subsp. scabrum]].
 
 Écologie : Végétation pionnière xérophile des sols superficiels très perméables (terre fine caillouteuse ou sablonneuse) recouvrant un substrat rocheux très perméable créant localement des conditions d'extrême aridité en été. Étage mésoméditerranéen.
 

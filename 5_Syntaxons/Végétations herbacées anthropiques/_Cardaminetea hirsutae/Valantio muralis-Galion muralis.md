@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Ourlets centre-méditerranéens
+**Description** : Végétation annuelle pionnière, d'expression vernale, thermophile, hémisciaphile, mésoxérophile, subnitrophile, des substrats superficiels de la Méditerranée centrale et nord-occidentale.
 
-**Espèces caractéristiques** : [[Valantia muralis]], [[Campanula erinus]], [[Galium murale]], [[Galium spurium]], [[Valerianella eriocarpa]], [[Sedum stellatum]], [[Sherardia arvensis]], [[Fumaria capreolata]]
+**Espèces caractéristiques** : [[Valantia muralis]], [[Campanula erinus]], [[Galium murale]], [[Galium spurium]], [[Valerianella eriocarpa]], [[Sedum stellatum]], [[Sherardia arvensis]], [[Fumaria capreolata]], [[Arabis verna]], [[Campanula erinus]], [[Parietaria lusitanica]], [[Valantia muralis]], [[Cynosurus effusus]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.6]] - [[E5.12]] - [[E5.13]]

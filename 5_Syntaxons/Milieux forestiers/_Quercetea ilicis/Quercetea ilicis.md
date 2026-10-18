@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Forêts sempervirentes : Végétation arborée ou arbustive, surtout méditerranéenne
+**Description** : Végétation arbustive ou arborescente, xérophile à mésoxérophile, dominée par des espèces sempervirentes ou marcescentes, de la Méditerranée et de l'Europe thermo-tempérée.
 
-**Espèces caractéristiques** : Non spécifié dans cet extrait
+**Espèces caractéristiques** : [[Arbutus unedo]], [[Asparagus acutifolius]], [[Laurus nobilis]], [[Lonicera implexa]], [[Phillyrea angustifolia]], [[Phillyrea latifolia]], [[Pinus halepensis]], [[Pinus pinea]], [[Rubia peregrina]], [[Smilax aspera]].
 
 Ordres :
 - [[Pinetalia halepensis]] Biondi et al. in Biondi et al. 2014

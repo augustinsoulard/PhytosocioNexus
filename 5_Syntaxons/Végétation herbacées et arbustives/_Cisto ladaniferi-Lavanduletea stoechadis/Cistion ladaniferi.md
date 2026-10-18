@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétations du pourtour méditerranéen (du Roussillon aux Alpes-Maritimes)
+**Description** : Végétation vivace, sous-arbustive à arbustive, xérophile, héliophile, acidiphile des substrats siliceux et ultramafiques des étages thermo- à mésoméditerranéen de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Cistus ladanifer]], [[Cistus albidus]], [[Cistus crispus]], [[Calicotome spinosa]], [[Erica scoparia]], [[Lavandula stoechas]]
+**Espèces caractéristiques** : [[Cistus ladanifer]], [[Cistus albidus]], [[Cistus crispus]], [[Calicotome spinosa]], [[Erica scoparia]], [[Lavandula stoechas]], [[Carex oedipostyla]] 
 
 - **Correspondances typologiques** :
 	- EUNIS : [[F5.334]]

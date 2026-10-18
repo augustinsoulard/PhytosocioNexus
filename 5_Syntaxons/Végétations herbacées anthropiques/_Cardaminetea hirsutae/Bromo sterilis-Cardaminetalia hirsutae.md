@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Ourlets mésothermophiles nord- et subatlantiques
+**Description** : Végétation annuelle pionnière, d'expression vernale, thermophile, hémisciaphile, mésophile, nitrophile, formant des ourlets éphémères en Europe tempérée atlantique et subméditerranéenne, en situation azonale en Méditerranée.
 
-**Espèces caractéristiques** : [[Anisantha sterilis]], [[Valerianella locusta]], [[Cerastium glomeratum]], [[Myosotis arvensis]], [[Geranium robertianum]]
+**Espèces caractéristiques** : [[Anisantha sterilis]], [[Valerianella locusta]], [[Cerastium glomeratum]], [[Myosotis arvensis]], [[Geranium robertianum]], [[Anthriscus cerefolium]]
 
 ZH : non spécifié
 

@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Mégaphorbiaies méditerranéennes
+**Description** : Végétation herbacée vivace (mégaphorbiaie), mésophile à hygrophile, des substrats mésotrophes à eutrophes de la Méditerranée.
 
-**Espèces caractéristiques** : [[Lotus rectus]], [[Cirsium creticum]], [[Scirpoides holoschoenus]]
+**Espèces caractéristiques** : [[Lotus rectus]], [[Cirsium creticum]], [[Scirpoides holoschoenus]], [[Cirsium monspessulanum]], [[Euphorbia hirsuta]], [[Scirpoides holoschoenus subsp. holoschoenus]], [[Senecio doria]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E3.11]]

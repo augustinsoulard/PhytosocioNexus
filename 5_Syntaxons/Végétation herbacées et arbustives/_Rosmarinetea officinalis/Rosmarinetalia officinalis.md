@@ -11,7 +11,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation vivace, sous-arbustive à arbustive, xérophile, calcicole, des sols immatures ou érodés aux étages thermo à supraméditerranéen de la Méditerranée occidentale. 
+**Description** : Végétation vivace, sous-arbustive à arbustive, xérophile, calcicole, des sols immatures ou érodés aux étages thermo à supraméditerranéen de la Méditerranée occidentale. 
 
 Espèces indicatrices : [[Coronilla minima subsp. lotoides]], [[Lotus dorycnium]], [[Fumana ericifolia]], [[Helianthemum hirtum]], [[Helianthemum violaceum]], [[Lavandula latifolia]], [[Linum campanulatum]], [[Lithodora fruticosa]], [[Staehelina dubia]].
 

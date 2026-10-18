@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés du littoral méditerranéen (dunes et certaines côtes abruptes)
+**Description** : Végétation arbustive à arborescente, dominée par des genévriers, des substrats sableux dunaires du littoral de la Méditerranée occidentale.
 
 **Espèces caractéristiques** : [[Juniperus phoenicea subsp. turbinata]], [[Juniperus oxycedrus subsp. macrocarpa]], [[Asparagus acutifolius]]
 

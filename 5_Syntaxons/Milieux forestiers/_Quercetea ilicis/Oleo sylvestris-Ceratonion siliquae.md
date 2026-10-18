@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Végétation arbustive à arborescente, dominée par des espèces sclérophylles, des étages thermo- et mésoméditerranéen inférieur de la Méditerranée nord-occidentale.
+
+Espèces indicatrices : [[Olea europaea var. sylvestris]], [[Euphorbia dendroides]], [[Chamaerops humilis]] (naturalisé), [[Cytisus spinosus]], [[Myrtus communis]] (localement), [[Juniperus phoenicea subsp. turbinata]] (arbustif).
+
+
 ![[432 - Oleo sylvestris-Ceratonion siliquae.jpg]]
 
 Associations :

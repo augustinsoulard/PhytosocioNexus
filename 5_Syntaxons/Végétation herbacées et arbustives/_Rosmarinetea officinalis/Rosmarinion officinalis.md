@@ -11,7 +11,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation vivace, sous-arbustive à arbustive, xérophile, calcicole, des sols immatures ou érodés aux étages thermo- à supraméditerranéen de la Méditerranée nord-occidentale. 
+**Description** : Végétation vivace, sous-arbustive à arbustive, xérophile, calcicole, des sols immatures ou érodés aux étages thermo- à supraméditerranéen de la Méditerranée nord-occidentale. 
 
 Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [[Convolvulus lanuginosus]], [[Coronilla juncea]], [[Erica multiflora]], [[Fumana laevipes]], [[Globularia alypum]], [[Helianthemum marifolium]], [[Helianthemum syriacum]], [[Malva subovata]], [[Ulex parviflorus]], [[Viola arborescens]], [[Rosmarinus officinalis]], [[Lithodora fruticosa]], [[Fumana thymifolia]], [[Helichrysum stoechas]], [[Lotus dorycnium]]
 

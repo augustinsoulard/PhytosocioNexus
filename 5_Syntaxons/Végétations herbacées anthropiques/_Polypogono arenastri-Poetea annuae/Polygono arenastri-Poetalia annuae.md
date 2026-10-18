@@ -9,8 +9,9 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Répartition à optimum eurosibérien
+**Description** : Végétation annuelle vernale rase, subnitrophile, des terrains fortement piétinés de l'Europe tempérée.
 
 **Espèces caractéristiques** : [[Lepidium squamatum]], [[Lepidium ruderale]], [[Matricaria discoidea]]
 

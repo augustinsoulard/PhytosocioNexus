@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Prairies méditerranéennes hygrophiles sur substrat à niveau phréatique élevé toute l'année
+**Description** :Végétation herbacée vivace prairiale, mésohygrophile à hydrophile, des sols mésotrophes à eutrophes riches en bases, avec une nappe phréatique toujours près de la surface, de la Méditerranée.
 
-**Espèces caractéristiques** : [[Carex punctata]], [[Juncus anceps]], [[Juncus subnodulosus]], [[Samolus valerandi]], [[Sonchus maritimus]], [[Schoenus nigricans]], [[Molinia caerulea]], [[Epipactis palustris]], [[Lysimachia tenella]], [[Hydrocotyle vulgaris]]
+**Espèces caractéristiques** : [[Carex punctata]], [[Juncus anceps]], [[Juncus subnodulosus]], [[Samolus valerandi]], [[Sonchus maritimus]], [[Schoenus nigricans]], [[Molinia caerulea]], [[Epipactis palustris]], [[Lysimachia tenella]], [[Hydrocotyle vulgaris]], [[Dactylorhiza occitanica]], [[Schoenus nigricans]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E3.11]]

@@ -10,6 +10,12 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Végétation herbacée vivace haute et exhubérante, dominée par des espèces monocarpiques, rudérale, thermophile, des substrats humides profonds du bord des eaux eutrophes, en Europe tempérée et méditerranéenne.
+
+Espèces indicatrices : [[Conium maculatum]], [[Sambucus ebulus]], [[Rumex cristatus]], [[Ballota nigra subsp. foetida]].
+
+
+
 ![[276 - Balloto-Conion maculati.jpg]]
 Associations :
 - [[Artemisio annuae-Conietum maculati]] J. Pino 2000 ; 

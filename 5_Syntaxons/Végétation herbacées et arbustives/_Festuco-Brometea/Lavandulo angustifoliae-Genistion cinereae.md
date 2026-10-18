@@ -13,7 +13,7 @@ sources:
 ---
 **Description** : Végétation herbacée vivace, mésoxérophile, des substrats calcaro-marneux des étages supraméditerranéen et montagnard des Alpes sud-occidentales.
 
-**Espèces caractéristiques** : [[Genista cinerea]], [[Astragalus hypoglottis]], [[Leucanthemum pallens]], [[Lilium pomponium]], [[Artemisia alba]], [[Centaurea paniculata subsp. leucophaea]], [[Lavandula angustifolia subsp. angustifolia]].
+**Espèces caractéristiques** : [[Genista cinerea]], [[Astragalus hypoglottis]], [[Leucanthemum pallens]], [[Lilium pomponium]], [[Artemisia alba]], [[Centaurea paniculata subsp. leucophaea]], [[Lavandula angustifolia subsp. angustifolia]],  [[Achillea tomentosa]], [[Achillea odorata]], [[Astragalus incanus]], [[Festuca cinerea]], [[Stipa atlantica]].
 
 
 - **Correspondances typologiques** :

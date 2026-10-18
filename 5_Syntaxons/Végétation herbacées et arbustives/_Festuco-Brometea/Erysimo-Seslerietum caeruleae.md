@@ -22,4 +22,4 @@ Chorologie BdR (13) : Ubacs des principaux reliefs de l'est du département : Ca
 
 Précision dynamique : Végétation relativement stable mais pouvant évoluer vers une végétation arbustive de l'Amelanchiero ovalis - Buxion sempervirentis (Rhamno catharticae - Prunetea spinosae).
 
-Dans le département, cette association n'est en réalité bien constituée que sur l'ubac de la Sainte-Victoire et montre ailleurs des cortèges pauvres tendant vers une communauté basale à Sesleria caerulea pour les reliefs les plus proches du littoral. Crête ventée du Genisto lobelii - Potentilletum velutinae ; mont Olympe, Trets © V. Noble Pente herbeuse de l'Erysima – Seslerietum caeruleae ; Auriol © M. Pires
+Dans le département, cette association n'est en réalité bien constituée que sur l'ubac de la Sainte-Victoire et montre ailleurs des cortèges pauvres tendant vers une communauté basale à Sesleria caerulea pour les reliefs les plus proches du littoral. 

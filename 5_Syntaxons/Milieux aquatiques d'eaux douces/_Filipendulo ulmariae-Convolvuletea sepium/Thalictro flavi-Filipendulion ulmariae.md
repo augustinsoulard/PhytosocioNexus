@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Mégaphorbiaies planitiaires à montagnardes
+**Description** : Végétation herbacée vivace exubérante (mégaphorbiaie), mésohygrophile, des substrats neutres à basiques saturés d'eau une grande partie de l'année, des plaines de l'Europe tempérée et méditerranéenne.
 
-**Espèces caractéristiques** : [[Thalictrum flavum]], [[Epilobium hirsutum]], [[Cirsium oleraceum]], [[Euphorbia villosa]], [[Valeriana officinalis subsp. repens]], [[Aconitum lusitanicum]], [[Eupatorium cannabinum]], [[Althaea officinalis]]
+**Espèces caractéristiques** : [[Thalictrum flavum]], [[Epilobium hirsutum]], [[Cirsium oleraceum]], [[Euphorbia villosa]], [[Valeriana officinalis subsp. repens]], [[Aconitum lusitanicum]], [[Eupatorium cannabinum]], [[Althaea officinalis]], [[Euphorbia palustris]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E5.411]] - [[E5.412]] - [[E5.421]]

@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Végétation herbacée vivace, riche en géophytes, nitrophile, sciaphile, mésophile, thermophile, des substrats riches en nutriments de l'Europe méditerranéenne et subméditerranéenne.
+
+**Espèces indicatrices** : [[Arum italicum]] (dominant), [[Parietaria judaica]].
+
+
 ![[278 - Parietario judaicae-Arion italici.jpg]]
 Associations :
 - [[Parietario judaicae-Aretum italici]] Biondi et al. in Biondi et al. 2014

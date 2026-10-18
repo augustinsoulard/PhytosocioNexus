@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation herbacée vivace rase, au recouvrement moyen, dominée par des espèces vivaces résistantes ou favorisées par le pâturage ovin (Poa bulbosa, Trifolium subterraneum, ...) entre lesquelles se développe un cortège de thérophytes conséquent.
 
-Espèces indicatrices : [[Poa bulbosa]], [[Trifolium subterraneum]], [[Trifolium suffocatum]], [[T. scabrum subsp. scabrum]], [[Salvia verbenaca subsp. clandestina]], [[Camphorosma monspeliaca]].
+Espèces indicatrices : [[Poa bulbosa]], [[Trifolium subterraneum]], [[Trifolium suffocatum]], [[Trifolium scabrum subsp. scabrum 1]], [[Salvia verbenaca subsp. clandestina]], [[Camphorosma monspeliaca]].
 
 Écologie : Végétation xérophile des zones temporairement pâturées par les ovins (ceinture externe autour des bergeries ou des puits, en limite du coussou, autres lieux de stationnements temporaires du bétail, le long des chemins et des drailles) sur un substrat argileux décalcifié (sol rouge), enrichi par les déjections (mésotrophe). Étage mésoméditerranéen.
 

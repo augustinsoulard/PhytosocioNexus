@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Prairies longuement inondables riches en Poaceae panicoïdes eurytropicales naturalisées
+**Description** : Végétation herbacée pionnière, dominée par des graminées à phénologie tardi-estivale, des sols limoneux riches en nutriments, longuement inondés, exondés mais restant humides en période estivale, des berges des cours d'eau de la Méditerranée
 
 **Espèces caractéristiques** : [[Paspalum distichum]], [[Paspalum dilatatum]], [[Paspalum vaginatum]], [[Panicum repens]], [[Polypogon viridis]]
 

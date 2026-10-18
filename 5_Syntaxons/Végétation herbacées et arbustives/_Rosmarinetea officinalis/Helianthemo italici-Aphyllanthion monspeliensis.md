@@ -12,7 +12,7 @@ sources:
   - Foucault, Bruno de. 2020. Sur la synsystématique des Rosmarinetea officinalis ouest-méditerranéens.
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation vivace herbacée à sous-arbustive, riche en chaméphytes, mésoxérophile, calcicole, sur substrats marneux ou calcaro-marneux, des étages mésoméditerranéen à supraméditerranéen de la Méditerranée nordoccidentale. 
+**Description** : Végétation vivace herbacée à sous-arbustive, riche en chaméphytes, mésoxérophile, calcicole, sur substrats marneux ou calcaro-marneux, des étages mésoméditerranéen à supraméditerranéen de la Méditerranée nordoccidentale. 
 
 Espèces indicatrices : [[Aphyllanthes monspeliensis]], [[Argyrolobium zanonii]], [[Asperula cynanchica]], [[Astragalus monspessulanus subsp. monspessulanus]], [[Brachypodium phoenicoides]], [[Bromopsis erecta subsp. erecta]], [[Bothriochloa ischaemum]], [[Carex humilis]], [[Catananche caerulea]], [[Coronilla minima subsp. minima]], [[Euphorbia nicaeensis]], [[Fumana thymifolia]], [[Genista hispanica]], [[Genista hispanica subsp. hispanica]], [[Genista provincialis]], [[Helictochloa pratensis subsp. iberica]], [[Helianthemum italicum]], [[Helianthemum oelandicum]], [[Lavandula angustifolia subsp. pyrenaica]], [[Linum narbonense]], [[Linum suffruticosum]], [[Linum viscosum]], [[Lotus corniculatus subsp. delortii]], [[Onobrychis supina]], [[Pilosella officinarum]], [[Potentilla verna]], [[Prunella hyssopifolia]], [[Prunella laciniata]], [[Rosmarinus officinalis]], [[Satureja montana subsp. montana]], [[Stipa atlantica]], [[Stipa offneri]], [[Teucrium chamaedrys]], [[Teucrium polium subsp. polium]], [[Thymelaea ruizii]]
 

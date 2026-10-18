@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches vernales, méditerranéennes-atlantiques, subnitrophiles
+**Description** : Végétation annuelle vernale, subnitrophile, plutôt xérophile, thermophile, des sols secs peu épais de la Méditerranée et de l'Europe thermo-atlantique.
 
-**Espèces caractéristiques** : [[Anisantha rubens]], [[Anisantha diandra]], [[Anisantha rigida]], [[Anisantha madritensis]], [[Erucastrum incanum]], [[Echium plantagineum]], [[Crepis foetida]]
+**Espèces caractéristiques** : [[Anisantha rubens]], [[Anisantha diandra]], [[Anisantha rigida]], [[Anisantha madritensis]], [[Erucastrum incanum]], [[Echium plantagineum]], [[Crepis foetida]],  [[Avena barbata]], [[Brachypodium hybridum]], [[Capsella bursa-pastoris subsp. rubella]], [[Crepis foetida subsp. rhoedifolia]], [[Erodium malacoides]], [[Erodium moschatum]], [[Hedypnois rhagadioloides]], [[Hordeum murinum]], [[Lolium rigidum subsp. rigidum]], [[Plantago lagopus]], [[Stipella capensis]].
 
 ZH : non spécifié
 

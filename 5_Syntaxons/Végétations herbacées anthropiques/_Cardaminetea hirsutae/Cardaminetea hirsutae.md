@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation thérophytique vernale, nitrophile, hémisciaphile
+**Description** : Végétation annuelle pionnière d'expression vernale, hémisciaphile, mésophile à mésoxérophile, nitrophile, thermophile, formant des ourlets internes ou externes éphémères en Méditerranée, Macaronésie et Europe tempérée atlantique et subméditerranéenne.
 
-**Espèces caractéristiques** : [[Cardamine hirsuta]], [[Arabidopsis thaliana]], [[Erophila verna]], [[Geranium molle]], [[Geranium rotundifolium]], [[Geranium lucidum]], [[Geranium purpureum]], [[Anthriscus caucalis]], [[Stellaria neglecta]]
+**Espèces caractéristiques** : [[Cardamine hirsuta]], [[Arabidopsis thaliana]], [[Erophila verna]], [[Geranium molle]], [[Geranium rotundifolium]], [[Geranium lucidum]], [[Geranium purpureum]], [[Anthriscus caucalis]], [[Stellaria neglecta]], [[Anthriscus caucalis]], [[Cardamine hirsuta]], [[Fumaria capreolata]], [[Rhagadiolus edulis]], [[Veronica arvensis]], [[Veronica cymbalaris]], [[Veronica hederifolia]], [[Myosotis ramosissima subsp. ramosissima]], [[Draba verna]], [[Draba muralis]], [[Euphorbia peplus var. peplus]].
 
 ZH : non spécifié
 

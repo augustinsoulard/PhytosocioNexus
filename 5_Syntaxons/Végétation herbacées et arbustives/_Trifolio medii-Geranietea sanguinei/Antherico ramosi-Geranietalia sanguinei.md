@@ -4,15 +4,16 @@ tags:
 syntaxon_superieur: "[[Trifolio medii-Geranietea sanguinei]]"
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-10-18
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Ourlets xérophiles
+**Description** : Végétation herbacée vivace, héliophile et xérophile, dominée par de hautes herbes constituant les ourlets et pelouses préforestières des substrats pauvres en nutriments en Europe.
 
-**Espèces caractéristiques** : [[Geranium sanguineum]], [[Primula veris subsp. columnae]], [[Rubia peregrina]], [[Campanula rapunculoides]], [[Filipendula vulgaris]], [[Peucedanum officinale]], [[Rosa spinosissima]]
+**Espèces caractéristiques** : [[Geranium sanguineum]], [[Primula veris subsp. columnae]], [[Rubia peregrina]], [[Campanula rapunculoides]], [[Filipendula vulgaris]], [[Peucedanum officinale]], [[Rosa spinosissima]], [[Geranium sanguineum]], [[Hypochaeris maculata]], [[Knautia collina]], [[Lathyrus latifolius]], [[Polygonatum odoratum]], [[Primula veris var. columnae]], [[Thalictrum minus subsp. saxatile]], [[Vincetoxicum hirundinaria]], [[Viola jordanii]], [[Veronica orsiniana]].
 
 Alliances :
 - [[Galio veri-Geranion sanguinei]] Géhu et Géhu-Franck 1983 nom. mut. propos. Dengler et Boch 2008
