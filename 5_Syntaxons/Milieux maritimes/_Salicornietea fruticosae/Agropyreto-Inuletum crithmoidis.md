@@ -1,7 +1,7 @@
 ---
 tags:
-  - sous-association
-syntaxon_superieur: "[[Salicornietum fruticosae]]"
+  - association
+syntaxon_superieur: "[[Salicornion fruticosae]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-10-19

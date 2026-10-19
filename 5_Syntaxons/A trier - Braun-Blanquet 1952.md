@@ -644,6 +644,18 @@ Le Populetum albae incarne la forêt riveraine méditerranéenne, le seul groupe
 
 **Classe CatVeg :** INTROUVABLE
 
+### Sous-associations de 1952 (rattachement association mère à arbitrer)
+
+Le document de 1952 décrit ces syntaxons comme des sous-associations (mention « sous-ass. » dans leur synonyme). Des fiches associations distinctes ont été créées, rattachées à leur alliance d'origine de 1952. Le rattachement éventuel à l'association mère (syntaxon_inferieur / syntaxon_superieur) est à arbitrer manuellement :
+
+| Fiche | Alliance 1952 (syntaxon_superieur actuel) | Association mère putative |
+|---|---|---|
+| [[Kernerto-Arenarietum hispidae]] | [[Potentillion caulescentis]] | [[Potentilleto-Saxifragetum cebennensis]] |
+| [[Urticeto-Sambucetum ebuli]] | [[Chenopodion muralis]] | [[Silybo-Urticetum]] |
+| [[Agropyreto-Inuletum crithmoidis]] | [[Salicornion fruticosae]] | [[Salicornietum fruticosae]] |
+| [[Holoschoenetum romani]] | [[Plantaginion crassifoliae]] | [[Schoeneto-Plantaginetum crassifoliae]] |
+| [[Corynephorbetum catalaunicum]] | [[Helianthemion guttati]] | [[Helianthemetum guttati]] |
+
 ---
 
 ## Partie 2 — Espèces indicatrices d'alliance/ordre/classe extraites des fiches associations

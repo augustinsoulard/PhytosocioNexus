@@ -1,7 +1,7 @@
 ---
 tags:
-  - sous-association
-syntaxon_superieur: "[[Potentilleto-Saxifragetum cebennensis]]"
+  - association
+syntaxon_superieur: "[[Potentillion caulescentis]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-10-19
