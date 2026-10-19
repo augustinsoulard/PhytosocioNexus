@@ -13,4 +13,6 @@ sources:
 
 Syn. : Ass. à Scleranthus annuus Br.-Bl. 1915 ; Ass. à Scleranthus annuus et Rumex acetosella Liou Tchen-Ngo 1929 ; Ass. à Scleranthus annuus et Spergula arvensis Br.-Bl. 1931
 
+Espèces indicatrices : [[Scleranthus annuus]] (IV), [[Rumex acetosella]] (II), [[Spergula arvensis]] (I).
+
 Écologie : moissons sur sols siliceux.
