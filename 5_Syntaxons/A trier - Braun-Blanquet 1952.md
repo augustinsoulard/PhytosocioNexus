@@ -10,9 +10,38 @@ sources:
 
 # À trier — Braun-Blanquet 1952 (situations complexes et syntaxons supérieurs)
 
-Issu de [[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]. Contient : (1) les associations dont le syntaxon supérieur n'a pas de classe d'accueil dans la structure actuelle (conflits) ; (2) les espèces indicatrices d'alliance/ordre/classe extraites des fiches associations ; (3) les syntaxons supérieurs avec leurs écologies et indicatrices ; (4) les espèces à correspondance TAXREFv18 non résolue (statuts R/P).
+Issu de [[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]. Contient : (1) les associations en conflit — syntaxon supérieur sans classe d'accueil — et les fiches préexistantes du dépôt pour lesquelles les informations de 1952 sont à arbitrer ; (2) les espèces indicatrices d'alliance/ordre/classe extraites des fiches associations ; (3) les syntaxons supérieurs (classes, ordres, alliances) avec écologie et indicatrices ; (4) les espèces à correspondance TAXREFv18 non résolue (statuts R/P).
 
-## Partie 1 — Associations en conflit (syntaxon supérieur sans classe d'accueil)
+## Partie 1 — Associations en conflit et fiches préexistantes à arbitrer
+
+### Armerietum ruscinonensis — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** rochers calcaires siluriens battus par les vagues ; dans la zone des embruns, jusqu'à 40 m au-dessus du niveau de la mer, les fentes des rochers sont occupées par un petit nombre d'espèces supportant bien les embruns. Avec l'éloignement de la mer, les halophiles disparaissent ; [[Thymelaea hirsuta]] y prend la place du [[Thymelaea tartonraira]] de Provence, sans être caractéristique du groupement.
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Armeria ruscinonensis]]
+- [[Limonium tremolsii]] (Statice tremolsii)
+
+### Crucianelletum maritimae — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** dunes consolidées, mais non définitivement fixées, et replats et petites dépressions entre et en arrière des dunes. Le sable calcaire, moins perméable que celui de l'Ammophiletum, contient un peu d'humus dans la couche supérieure. Les arbrisseaux nains dominent et forment un tapis assez dense de 30–40 cm de haut. Un mètre carré contient en moyenne une centaine de plantules appartenant exclusivement aux espèces de l'association.
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Crucianella maritima]] (V¹)
+- [[Teucrium polium]] var. maritimum (V²)
+- [[Helichrysum stoechas]] var. maritimum (V³)
+- [[Artemisia campestris]] var. glutinosa (V)
+- [[Pancratium maritimum]] (V)
+- [[Scabiosa atropurpurea|Scabiosa maritima]] var. typica (IV)
+- [[Catapodium hemipoa|Scleropoa hemipoa]] (III)
+- [[Ononis ramosissima]] (III)
+- [[Scrophularia canina]] ssp. humifusa
 
 ### Bunio-Galietum tricornis
 
@@ -39,9 +68,9 @@ Issu de [[Braun-Blanquet - 1952 - Les groupements végétaux de la France médit
 - [[Rapistrum rugosum subsp. orientale|Rapistrum linnaeanum]] (I⁻)
 - [[Turgenia latifolia|Caucalis latifolia]] (I⁻)
 - [[Bifora radians]] (I⁻)
-- [[Crupina crupinastrum]] (I⁻).
+- [[Crupina crupinastrum]] (I⁻)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Androsaco-Iberidetum pinnatae
 
@@ -61,9 +90,9 @@ Issu de [[Braun-Blanquet - 1952 - Les groupements végétaux de la France médit
 - [[Androsace maxima]] (III⁺)
 - [[Camelina microcarpa]] (II⁺)
 - [[Holosteum umbellatum]] (I⁺)
-- [[Turgenia latifolia]] (I⁺).
+- [[Turgenia latifolia]] (I⁺)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Polycnemo-Linarietum
 
@@ -83,13 +112,30 @@ Issu de [[Braun-Blanquet - 1952 - Les groupements végétaux de la France médit
 - [[Polycnemum arvense]] (IV⁺)
 - [[Galium parisiense|Galium anglicum]] (III⁺)
 - [[Dittrichia graveolens|Inula graveolens]] (I⁺)
-- [[Kickxia elatine|Linaria elatine]] (I⁺).
+- [[Kickxia elatine|Linaria elatine]] (I⁺)
 
-**Espèces indicatrices de rang supérieur (astérisque dans l'original) :**
+**Espèces indicatrices de rang supérieur (astérisque) :**
 
 - *[[Stachys annua]] (II⁺)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
+
+### Ranunculetum baudotii — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** fossés et cuvettes d'eau très peu salée (relevé type à Saint-Nazaire, fossé de 60 cm, recouvrement 100 %).
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Ranunculus trichophyllus]]
+- [[Ranunculus baudotii]]
+- [[Zannichellia pedunculata]]
+- [[Callitriche]] sp
+- avec [[Chara canescens|Chara crinita]]
+- [[Bolboschoenus maritimus|Scirpus maritimus]]
+- [[Phragmites australis]]
+- [[Alisma lanceolatum]]
 
 ### Cicendietum filiformis
 
@@ -101,7 +147,43 @@ Arènes signale en Provence cristalline une forme méditerranéenne du Cicendiet
 
 **Écologie :** sol sableux pauvre en calcaire, temporairement inondé.
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
+
+### Cyperetum flavescentis — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** sols spongieux à vase noirâtre renfermant des matériaux organiques en décomposition.
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Cyperus flavescens]] (V¹)
+- [[Cyperus fuscus]] (IV²)
+- [[Carex pseudocyperus|Carex cyperus]] (I) *(Carex elata ? — OCR « Carex Elderi »)*
+
+### Cardaminetum latifoliae — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** dans les terrains siliceux, forme une mégaphorbiaie parfois haute de 40–50 cm, en bordure des sources fraîches et abondantes à courant rapide. Meilleur développement à l'étage subalpin, en dehors de la Région méditerranéenne proprement dite.
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Cardamine raphanifolia|Cardamine latifolia]] (5.4)
+
+### Scirpetum maritimi — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** colonise les vases fines au bord des étangs et des fleuves de la région côtière. Faiblement halophile, supporte un dessèchement temporaire.
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Bolboschoenus maritimus|Scirpus maritimus]] (V¹/V²)
+- [[Schoenoplectus litoralis|Scirpus littoralis]] (II¹/IV²)
+- [[Schoenoplectus pungens|Scirpus pungens]] (V²)
+- [[Typha angustifolia]] ssp. australis (IV²)
+- [[Typha laxmannii|Typha laxmanni]] (II²)
 
 ### Helosciadietum
 
@@ -115,9 +197,21 @@ Arènes signale en Provence cristalline une forme méditerranéenne du Cicendiet
 
 - [[Helosciadium nodiflorum]] (III²)
 - [[Callitriche obtusangula]] (III²)
-- [[Ranunculus ophioglossifolius]] (I).
+- [[Ranunculus ophioglossifolius]] (I)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
+
+### Caricetum elatae — fiche préexistante (à arbitrer)
+
+Fiche déjà présente dans le dépôt avant ce travail (source CatVeg ou autre). Informations issues de 1952 à arbitrer :
+
+**Écologie :** les touffes denses de [[Carex elata]] atteignent 30–40 cm de diamètre, formant des « touradons » séparés par des cuvettes généralement remplies d'eau ; celle-ci peut se retirer complètement en été, mais le sol reste fortement humide. Le vide entre les touradons se comble peu à peu de débris végétaux et de dépôts calcaires ; le sol s'exhausse, l'immersion hivernale prolongée nécessaire à [[Carex elata]] n'est plus assurée et l'association est remplacée par une association des Molinio-Holoschoenetalia.
+
+**Espèces indicatrices de l'association (1952) :**
+
+- [[Stachys palustris]] (IV¹)
+- [[Scutellaria galericulata]] (I²)
+- [[Jacobaea paludosa|Senecio paludosus]] (I³) *(caractéristiques de l'association médio-européenne)*
 
 ### Gaudinieto-Arrhenatheretum
 
@@ -164,9 +258,9 @@ Arènes signale en Provence cristalline une forme méditerranéenne du Cicendiet
 - [[Bromus hordeaceus]] (IV)
 - [[Taraxacum officinale]] (IV)
 - [[Agrostis capillaris]] (I)
-- [[Knautia arvensis]] (I).
+- [[Knautia arvensis]] (I)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Rosmarineto-Lithospermetum
 
@@ -178,7 +272,7 @@ Arènes signale en Provence cristalline une forme méditerranéenne du Cicendiet
 
 C'est la brousse du Rosmarineto-Lithospermetum qui, sur le calcaire marneux, remplace généralement les groupements du [[Quercion ilicis]] après leur destruction. Elle envahit des surfaces étendues de la Provence aux Corbières et s'élève de la plaine à 300–440 m, exceptionnellement à 600 m en Provence, procurant un maigre pâture aux nombreux troupeaux de brebis. Les facteurs microclimatiques et édaphiques conditionnent de nombreuses sous-associations et variantes. Espèces différentielles principales (Tableau III, valeurs de recouvrement) : [[Staehelina dubia]], [[Linum campanulatum]], [[Helianthemum canum]], [[Helianthemum hirtum]], [[Thymelaea sanamunda]], [[Fumana thymifolia]], [[Lithospermum fruticosum]], [[Helianthemum italicum]], [[Avena bromoides]], [[Euphrasia lutea]], [[Pinus halepensis]], [[Smilax aspera]], [[Rubia peregrina]], [[Schoenus nigricans]], [[Chrysopogon gryllus]], [[Bromus erectus]], [[Thymus serpyllum]] ssp. angustifolius, [[Trinia glauca]], [[Inula viscosa]], [[Pinus nigra|Pinus Clusiana]] ssp. salzmannii, [[Globularia alypum]], [[Helichrysum stoechas]] var. dolomiticum, [[Helianthemum pilosum]], [[Dorycnium suffruticosum]], [[Bupleurum rigidum]], [[Santolina chamaecyparissus]], [[Thesium divaricatum]], [[Sideritis hirsuta]], [[Helianthemum marifolium]], [[Coronilla minima]] ssp. australis, [[Stipa juncea]], [[Coronilla juncea]], [[Juniperus phoenicea]].
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Convolvuletum lanuginosi
 
@@ -215,13 +309,13 @@ C'est la brousse du Rosmarineto-Lithospermetum qui, sur le calcaire marneux, rem
 
 - [[Asperula cynanchica]] (2)
 - [[Coronilla minima]] (1)
-- [[Linum narbonense]] (3).
+- [[Linum narbonense]] (3)
 
-**Espèces indicatrices de rang supérieur (astérisque dans l'original) :**
+**Espèces indicatrices de rang supérieur (astérisque) :**
 
 - [[Convolvulus lanuginosus]] (3)*
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Helianthemeto-Ericetum multiflorae
 
@@ -260,16 +354,16 @@ C'est la brousse du Rosmarineto-Lithospermetum qui, sur le calcaire marneux, rem
 
 - [[Koeleria vallesiana]] (II)
 - [[Seseli montanum]] (I)
-- [[Helianthemum apenninum]] (II).
+- [[Helianthemum apenninum]] (II)
 
-**Espèces indicatrices de rang supérieur (astérisque dans l'original) :**
+**Espèces indicatrices de rang supérieur (astérisque) :**
 
 - [[Erica multiflora]] (III¹)*
 - [[Hyparrhenia hirta|Andropogon hirtus]] ssp. pubescens (II¹)*
 - [[Piptatherum coerulescens|Piptatherum coerulescens]] (II¹)*
 - [[Coronilla minima]] ssp. australis (II¹)*
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Hedysareto-Astragaletum narbonensis
 
@@ -306,13 +400,13 @@ C'est la brousse du Rosmarineto-Lithospermetum qui, sur le calcaire marneux, rem
 
 **Espèces indicatrices de la classe :**
 
-- [[Helianthemum apenninum]] (I¹).
+- [[Helianthemum apenninum]] (I¹)
 
-**Espèces indicatrices de rang supérieur (astérisque dans l'original) :**
+**Espèces indicatrices de rang supérieur (astérisque) :**
 
 - [[Coronilla minima]] ssp. australis (IV¹)*
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Onobrychideto-Hedysaretum humilis
 
@@ -325,9 +419,9 @@ C'est la brousse du Rosmarineto-Lithospermetum qui, sur le calcaire marneux, rem
 **Espèces indicatrices de l'association :**
 
 - [[Hedysarum humile]] (1.2/3.3)
-- [[Onobrychis saxatilis]] (2.2/2.2) — groupement caractérisé par l'abondance des Légumineuses.
+- [[Onobrychis saxatilis]] (2.2/2.2) — groupement caractérisé par l'abondance des Légumineuses
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Quercetum galloprovinciale
 
@@ -339,7 +433,7 @@ Malgré sa vaste répartition, le Quercetum galloprovinciale est un des groupeme
 
 **Écologie :** le Quercetum galloprovinciale constitue l'association climax de la plaine languedocienne, de la Provence et du Roussillon ; c'est le terme final de l'évolution naturelle, partout où elle n'est pas entravée. Avant les grands défrichements, la chênaie d'Yeuse a dû couvrir d'énormes surfaces, en dehors des terrains salés et des sols où la nappe phréatique est trop élevée (marais, bords des rivières). Doté d'une force de régénération extraordinaire, [[Quercus ilex]] supporte mieux que tout autre arbre les coupes répétées à révolution de 15 à 20 ans et repousse de souche après chaque coupe. Le cortège floristique, très homogène, ne varie que dans d'étroites limites ; l'ensemble spécifique normal (~30 espèces) est réalisé en général sur 100 m². La végétation se répartit en quatre strates principales : arborescente ([[Quercus ilex]], rarement [[Acer monspessulanum]]) ; arbustive supérieure ([[Phillyrea media]], [[Arbutus unedo]], [[Viburnum tinus]], [[Rhamnus alaternus]], [[Pistacia lentiscus]], [[Clematis flammula]]) ; arbustive inférieure ([[Ruscus aculeatus]]) ; herbacée ([[Hedera helix]], [[Carex distachya]], Orchidées, Mousses). La forêt comprend plusieurs microclimats très spéciaux : évaporation, déficit de saturation, température et luminosité décroissent de la strate supérieure à la strate muscinale ; l'humidité de l'air et la concentration en gaz carbonique augmentent.
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Groupement mixte du Quercetum galloprovinciale et du Querceto-Buxetum
 
@@ -365,7 +459,7 @@ Les forêts mixtes à [[Quercus ilex]] et [[Quercus pubescens]] sur sol calcaire
 
 **Écologie :** bois de Hêtres disséminés dans le domaine du Chêne pubescent, sur la lisière méridionale des Causses de Campestre et du Larzac ; exposés au Nord et à l'Est et parfois traités en taillis, ils se sont maintenus dans des localités éloignées des villages entre 600 et 800 m environ ; à l'ombre de la gorge de la Vis, ils descendent jusqu'à 500 m environ. Sur calcaire compact, le sol peu profond, carbonaté, est souvent pierreux ou même rocheux. Profil de la forêt de Salbouz : rendzine bien évoluée à 3 horizons distincts — Ao, 4–5 cm de litière de feuilles de Hêtre ; A0, 2–3 cm d'humus coprogène bien décomposé ; A1, 3,5 cm de terre fine grumeleuse noirâtre, sans squelette, avec de nombreuses racines fines et une bonne activité biologique ; A2, 30 cm de terre grumeleuse, un peu plus compacte, brun très foncé, avec quelques pierres calcaires isolées ; C, roche calcaire. Le pH passe de 6,7 en surface à 8,6 à la base du profil. Dans la strate arbustive (2–3 m), [[Buxus sempervirens]] prend généralement la première place. Au point de vue forestier, ces bois sont de qualité très médiocre : les arbres, décimés par la coupe et souvent ventés, sont exploités comme bois de chauffage.
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Fageto-Scilletum
 
@@ -377,7 +471,7 @@ La récente carte (1/200 000) de la végétation des Pyrénées orientales par H
 
 **Écologie :** forêts de Hêtres (et Sapin) des étages montagnard et subalpin humides des Pyrénées orientales ; sol bien drainé, microclimat à humidité de l'air élevée.
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Saponarieto-Salicetum purpureae
 
@@ -389,7 +483,7 @@ La récente carte (1/200 000) de la végétation des Pyrénées orientales par H
 
 Cette saulaie arbustive forme la première bande de végétation ligneuse le long des rivières non endiguées et à régime torrentiel, où elle s'établit sur les sables et les graviers meubles et humides. L'extension de ces peuplements, parfois denses, est limitée par le lit souvent inondé du cours d'eau. L'association devient plus ou moins fragmentaire dès qu'on s'approche de la plaine. Assez répandue dans le Midi, elle réapparaît aussi le long des fleuves dans la partie septentrionale de la péninsule ibérique.
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Alneto-Fraxinetum oxycarpae
 
@@ -462,9 +556,9 @@ Cette saulaie arbustive forme la première bande de végétation ligneuse le lon
 - [[Lysimachia vulgaris]] (III)
 - [[Prunella vulgaris]] (III)
 - [[Lycopus europaeus]] (III
-- très peu).
+- très peu)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Alnetum catalaunicum
 
@@ -534,9 +628,9 @@ Cette saulaie arbustive forme la première bande de végétation ligneuse le lon
 - tg. O. [[Ziziphora acinos|Satureia silvatica]] (I
 - OCR)
 - tg. O. [[Lamium galeobdolon]] (I)
-- tg. O. [[Phyteuma spicatum]] (I).
+- tg. O. [[Phyteuma spicatum]] (I)
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ### Populetum albae
 
@@ -548,93 +642,93 @@ Le Populetum albae incarne la forêt riveraine méditerranéenne, le seul groupe
 
 **Écologie :** forêt riveraine de la plaine méditerranéenne, sur sols alluvionnaires profonds et frais, à niveau phréatique élevé et horizon de gley caractéristique ; sol périodiquement inondé.
 
-**Classe CatVeg :** INTROUVABLE — à trier manuellement
+**Classe CatVeg :** INTROUVABLE
 
 ---
 
 ## Partie 2 — Espèces indicatrices d'alliance/ordre/classe extraites des fiches associations
 
-Ces espèces figuraient dans les listes « Espèces indicatrices » des associations (après les mentions « alliance : », « ordre : », « classe : », ou marquées d'un astérisque) : elles sont propres aux syntaxons supérieurs et n'ont pas été reportées dans les fiches associations.
+Espèces listées après les mentions « alliance : », « ordre : », « classe : » ou marquées d'un astérisque dans les listes d'espèces indicatrices des associations : elles caractérisent les syntaxons supérieurs et ne sont pas reportées dans les fiches associations.
 
-**Potentilleto-Saxifragetum cebennensis** — espèces indicatrices de rang supérieur (astérisque) :
+**Potentilleto-Saxifragetum cebennensis** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Kernera saxatilis|Kernera auriculata]] (V⁻)
 - *[[Chaenorhinum origanifolium|Linaria origanifolia]] (II⁻)
 - *[[Athamanta cretensis|Athamantha cretensis]] (I⁻)
-- *[[Laserpitium siler]] (I⁻).
+- *[[Laserpitium siler]] (I⁻)
 
-**Kernerto-Arenarietum hispidae** — espèces indicatrices de rang supérieur (astérisque) :
+**Kernerto-Arenarietum hispidae** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Chaenorhinum origanifolium|Linaria origanifolia]] (IV⁺)
 - *[[Kernera saxatilis|Kernera auriculata]] (V⁺)
 - *[[Erinus alpinus]] (III⁺)
 
-**Sileno-Asplenietum fontani** — espèces indicatrices de rang supérieur (astérisque) :
+**Sileno-Asplenietum fontani** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Asplenium fontanum]] (V¹)
 - *[[Globularia repens|Globularia nana]] (IV¹)
 - *[[Saxifraga callosa|Saxifraga lingulata]] (II⁺)
 
-**Linarieto-Galietum pusilli** — espèces indicatrices de rang supérieur (astérisque) :
+**Linarieto-Galietum pusilli** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Chaenorhinum origanifolium|Linaria origanifolia]] (V⁻)
 
-**Saxifragetum lingulatae** — espèces indicatrices de rang supérieur (astérisque) :
+**Saxifragetum lingulatae** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Saxifraga callosa|Saxifraga lingulata]] (V¹)
-- *[[Kernera saxatilis|Kernera auriculata]] (I⁻).
+- *[[Kernera saxatilis|Kernera auriculata]] (I⁻)
 
-**Potentilletum saxifragae** — espèces indicatrices de rang supérieur (astérisque) :
+**Potentilletum saxifragae** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Euphorbia spinosa]] (IV⁺/V⁺)
 - *[[Thymelaea dioica]] (V⁻)
 - *[[Jacobaea maritima|Senecio cineraria]] (III⁻)
 
-**Phagnaleto-Asplenietum glandulosi** — espèces indicatrices de rang supérieur (astérisque) :
+**Phagnaleto-Asplenietum glandulosi** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Asplenium petrarchae|Asplenium glandulosum]] (IVᵉ/Vᵉ)
 - *[[Phagnalon sordidum]] (Vᵉ/IVᵉ)
 - *[[Parietaria lusitanica]] (I¹)
 
-**Diantheto-Lavateretum maritimae** — espèces indicatrices de rang supérieur (astérisque) :
+**Diantheto-Lavateretum maritimae** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Hormathophylla spinosa|Alyssum spinosum]] (V⁺)
 - *[[Erodium foetidum|Erodium petraeum]] (III⁺)
 - *[[Phagnalon sordidum]] (IV⁺)
-- *[[Parietaria lusitanica]].
+- *[[Parietaria lusitanica]]
 
-**Asarinetum rupestre** — espèces indicatrices de rang supérieur (astérisque) :
+**Asarinetum rupestre** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Asplenium obovatum subsp. billotii|Asplenium lanceolatum]] (III¹)
 - *[[Asarina procumbens|Antirrhinum asarina]] (III¹)
 
-**Centranthetum lecoqii** — espèces indicatrices de rang supérieur (astérisque) :
+**Centranthetum lecoqii** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Iberis intermedia]] ssp. lecoqii (II)
 - *[[Scrophularia canina]] (I)
 
-**Agropyretum mediterraneum** — espèces indicatrices de rang supérieur (astérisque) :
+**Agropyretum mediterraneum** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Matthiola sinuata]] (IV⁻)
 - *[[Diplotaxis muralis|Diplotaxis maritima (muralis)]] (III¹)
 
-**Polycnemo-Linarietum** — espèces indicatrices de rang supérieur (astérisque) :
+**Polycnemo-Linarietum** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Stachys annua]] (II⁺)
 
-**Onopordetum acanthii** — espèces indicatrices de rang supérieur (astérisque) :
+**Onopordetum acanthii** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Marrubium vulgare]] (III²)
 
-**Preslietum cervinae** — espèces indicatrices de rang supérieur (astérisque) :
+**Preslietum cervinae** — indicatrices de rang supérieur (astérisque) :
 
 - *[[Drepanocladus aduncus|Drepanocladus kneiffii]] (III)
 
-**Montietum** — espèces indicatrices de rang supérieur (astérisque) :
+**Montietum** — indicatrices de rang supérieur (astérisque) :
 
 - *(caractéristiques territoriales)* [[Chrysosplenium oppositifolium]] (3)
 
-**Holoschoenetum romani** — espèces indicatrices d'alliance :
+**Holoschoenetum romani** — indicatrices d'alliance :
 
 - [[Linum maritimum]] (IV¹)
 - [[Blackstonia imperfoliata]] (II¹)
@@ -644,7 +738,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - ²)
 - tg. [[Lotus jordanii|Dorycnium gracile]] (III¹)
 
-**Holoschoenetum romani** — espèces indicatrices d'ordre :
+**Holoschoenetum romani** — indicatrices d'ordre :
 
 - [[Juncus maritimus]] (III¹
 - ⁴)
@@ -654,16 +748,16 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Anacamptis palustris]] (I¹)
 - [[Lotus maritimus|Tetragonolobus siliquosus]] var. maritimus (I¹)
 
-**Holoschoenetum romani** — espèces indicatrices de classe :
+**Holoschoenetum romani** — indicatrices de classe :
 
 - tg. [[Artemisia caerulescens subsp. gallica|Artemisia gallica]] (II¹)
 - tg. [[Limbarda crithmoides|Inula crithmoides]] (II¹)
 - tg. [[Parapholis filiformis|Lepturus filiformis]] (I¹)
 - tg. [[Sagina maritima]] (I¹)
 - tg. [[Hornungia procumbens]] (I¹)
-- tg. [[Limonium virgatum]] (I¹).
+- tg. [[Limonium virgatum]] (I¹)
 
-**Holoschoenetum romani** — espèces indicatrices de rang supérieur (astérisque) :
+**Holoschoenetum romani** — indicatrices de rang supérieur (astérisque) :
 
 - [[Juncus acutus]] (V¹)*
 - [[Scirpoides holoschoenus|Holoschoenus vulgaris]] ssp. romanus (V¹)*
@@ -671,7 +765,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Juncus anceps]] (III¹)*
 - [[Asparagus maritimus|Asparagus scaber]] (I¹)*
 
-**Agropyreto-Trifolietum maritimi** — espèces indicatrices d'ordre :
+**Agropyreto-Trifolietum maritimi** — indicatrices d'ordre :
 
 - [[Elytrigia acuta|Elymus acutus]] (IV²)
 - [[Alopecurus bulbosus]] (III)
@@ -685,7 +779,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Ranunculus sardous]] (I)
 - tg. [[Lotus corniculatus subsp. preslii|Lotus decumbens]] (I²)
 
-**Agropyreto-Trifolietum maritimi** — espèces indicatrices de classe :
+**Agropyreto-Trifolietum maritimi** — indicatrices de classe :
 
 - [[Limonium vulgare]] (IV²)
 - [[Hordeum marinum]] (II)
@@ -698,9 +792,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Salicornia fruticosa]] (I²)
 - tg. [[Sagina maritima]] (I²)
 - tg. [[Artemisia caerulescens subsp. gallica|Artemisia gallica]] (I²)
-- tg. [[Limbarda crithmoides|Inula crithmoides]] (I²).
+- tg. [[Limbarda crithmoides|Inula crithmoides]] (I²)
 
-**Gaudinieto-Arrhenatheretum** — espèces indicatrices de classe :
+**Gaudinieto-Arrhenatheretum** — indicatrices de classe :
 
 - [[Trifolium pratense]] (V)
 - [[Dactylis glomerata]] (V)
@@ -717,9 +811,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Bromus hordeaceus]] (IV)
 - [[Taraxacum officinale]] (IV)
 - [[Agrostis capillaris]] (I)
-- [[Knautia arvensis]] (I).
+- [[Knautia arvensis]] (I)
 
-**Junceto-Galietum** — espèces indicatrices d'alliance :
+**Junceto-Galietum** — indicatrices d'alliance :
 
 - [[Oenanthe lachenalii]] (V¹)
 - [[Carex panicea]] (II)
@@ -732,25 +826,29 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Succisa pratensis]] (I)
 - tg. [[Cirsium monspessulanum]] (I)
 
-**Junceto-Galietum** — espèces indicatrices d'ordre :
+**Junceto-Galietum** — indicatrices d'ordre :
 
 - [[Potentilla reptans]] (V¹)
 - [[Agrostis stolonifera|Agrostis maritima]] (IV¹)
 - [[Leontodon saxatilis subsp. saxatilis|Thrincia hirta]] (IV¹)
 - [[Oenanthe pimpinelloides]] (I²)
 
-**Junceto-Galietum** — espèces indicatrices de classe :
+**Junceto-Galietum** — indicatrices de classe :
 
-- [[Juncus articulatus]] (I). Espèces faiblement halophiles : [[Juncus anceps]] (IV¹)
+- [[Juncus articulatus]] (I)
+
+**Junceto-Galietum** — indicatrices faiblement halophiles :
+
+- [[Juncus anceps]] (IV¹)
 - [[Sonchus maritimus]] (IV¹)
 - [[Lotus corniculatus subsp. preslii|Lotus decumbens]] (IV)
 - [[Juncus maritimus]] (II)
 - [[Alopecurus bulbosus]] (II)
 - [[Linum maritimum]] (II)
 - [[Carex divisa]] (I)
-- [[Scorzonera parviflora]] (I).
+- [[Scorzonera parviflora]] (I)
 
-**Holoschoenetum** — espèces indicatrices d'alliance :
+**Holoschoenetum** — indicatrices d'alliance :
 
 - [[Pulicaria dysenterica]] var. microcephala (IV)
 - [[Prunella vulgaris]] var. (II)
@@ -768,7 +866,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Genista tinctoria]] var. (I)
 - tg. [[Silaum silaus]] (I)
 
-**Holoschoenetum** — espèces indicatrices d'ordre :
+**Holoschoenetum** — indicatrices d'ordre :
 
 - [[Potentilla reptans]] (V³)
 - [[Agrostis stolonifera|Agrostis maritima]] (III)
@@ -778,19 +876,18 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Lotus tenuis]] (I)
 - tg. [[Cichorium pumilum]] (I)
 
-**Holoschoenetum** — espèces indicatrices de classe :
+**Holoschoenetum** — indicatrices de classe :
 
 - [[Juncus inflexus]] ssp. longicornis (III)
-- [[Juncus articulatus]] (I).
 
-**Dorycnio-Holoschoenetum** — espèces indicatrices d'alliance :
+**Dorycnio-Holoschoenetum** — indicatrices d'alliance :
 
 - [[Molinia caerulea]] (V³)
 - [[Oenanthe lachenalii]] (III)
 - tg. [[Scirpoides holoschoenus|Holoschoenus vulgaris]] (IV)
 - tg. [[Serratula tinctoria]] (I)
 
-**Dorycnio-Holoschoenetum** — espèces indicatrices d'ordre :
+**Dorycnio-Holoschoenetum** — indicatrices d'ordre :
 
 - [[Agrostis stolonifera|Agrostis maritima]] (IV)
 - [[Dittrichia viscosa|Inula viscosa]] (III)
@@ -807,17 +904,17 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Centaurium pulchellum]] (I)
 - tg. [[Jasonia tuberosa|Inula tuberosa]] (I)
 
-**Dorycnio-Holoschoenetum** — espèces indicatrices de classe :
+**Dorycnio-Holoschoenetum** — indicatrices de classe :
 
 - [[Juncus articulatus]] (II)
-- [[Juncus inflexus]] ssp. longicornis (I).
+- [[Juncus inflexus]] ssp. longicornis (I)
 
-**Dorycnio-Holoschoenetum** — espèces indicatrices de rang supérieur (astérisque) :
+**Dorycnio-Holoschoenetum** — indicatrices de rang supérieur (astérisque) :
 
 - [[Lotus jordanii|Dorycnium gracile]] (III)*
 - [[Lysimachia tenella|Anagallis tenella]] (I)*
 
-**Molinietum mediterraneum** — espèces indicatrices d'alliance :
+**Molinietum mediterraneum** — indicatrices d'alliance :
 
 - [[Molinia caerulea]] (V)
 - [[Carex panicea]] (IV/V)
@@ -830,14 +927,13 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Cirsium monspessulanum]] (III/II)
 - tg. [[Lotus rectus|Bonjeania recta]] (II/II)
 
-**Molinietum mediterraneum** — espèces indicatrices d'ordre :
+**Molinietum mediterraneum** — indicatrices d'ordre :
 
 - [[Agrostis stolonifera|Agrostis maritima]] (III/I)
 - [[Potentilla reptans]] (V)
 - tg. [[Juncus striatus]] (III)
-- tg. [[Centaurium pulchellum]] (I).
 
-**Gentianeto-Mariscetum** — espèces indicatrices d'alliance :
+**Gentianeto-Mariscetum** — indicatrices d'alliance :
 
 - [[Eupatorium cannabinum]] (V)
 - [[Molinia caerulea]] (IV)
@@ -849,15 +945,15 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Sanguisorba officinalis]] (IV)*
 - tg. [[Potentilla erecta]] (III)*
 - tg. [[Lotus rectus|Bonjeania recta]] (III)*
-- tg. [[Genista tinctoria]] var. (I)*.
+- tg. [[Genista tinctoria]] var. (I)*
 
-**Gentianeto-Mariscetum** — espèces indicatrices de rang supérieur (astérisque) :
+**Gentianeto-Mariscetum** — indicatrices de rang supérieur (astérisque) :
 
 - [[Lysimachia tenella|Anagallis tenella]] (III)*
 - [[Pedicularis palustris]] (I)*
 - [[Symphyotrichum novi-belgii|Aster novi-belgii]] (I)*
 
-**Agrostideto-Ageretum** — espèces indicatrices d'alliance :
+**Agrostideto-Ageretum** — indicatrices d'alliance :
 
 - [[Trifolium lappaceum]] (IV)
 - [[Lotus tenuis]] (IV)
@@ -866,7 +962,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Prunella hyssopifolia]] (IV)
 - tg. [[Centaurea jacea]] ssp. Timbali (I)
 
-**Agrostideto-Ageretum** — espèces indicatrices d'ordre :
+**Agrostideto-Ageretum** — indicatrices d'ordre :
 
 - [[Agrostis stolonifera|Agrostis maritima]] (V)
 - [[Leontodon saxatilis subsp. saxatilis|Thrincia hirta]] (III)
@@ -875,33 +971,33 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Asteriscus aquaticus]] (I)
 - tg. [[Gladiolus illyricus]] (I)
 
-**Agrostideto-Ageretum** — espèces indicatrices de classe :
+**Agrostideto-Ageretum** — indicatrices de classe :
 
-- [[Juncus inflexus]] ssp. longicornis (II).
+- [[Juncus inflexus]] ssp. longicornis (II)
 
-**Junceto-Trifolietum** — espèces indicatrices d'alliance :
+**Junceto-Trifolietum** — indicatrices d'alliance :
 
 - [[Lotus tenuis]] (II)
 - [[Centaurium pulchellum]] (I)
 - [[Trifolium lappaceum]] (II)
 - tg. [[Cichorium pumilum]] (II)
 
-**Junceto-Trifolietum** — espèces indicatrices d'ordre :
+**Junceto-Trifolietum** — indicatrices d'ordre :
 
 - tg. [[Scirpoides holoschoenus|Holoschoenus vulgaris]] (II)
 - tg. [[Pulicaria dysenterica]] var. microcephala (I)
 
-**Junceto-Trifolietum** — espèces indicatrices de classe :
+**Junceto-Trifolietum** — indicatrices de classe :
 
 - [[Juncus articulatus]] (III)
 
-**Deschampsietum mediae** — espèces indicatrices d'alliance :
+**Deschampsietum mediae** — indicatrices d'alliance :
 
 - [[Lotus tenuis]] (IV/III/IV)
 - [[Centaurium pulchellum]] (II/III/III)
 - [[Trifolium lappaceum]] (III/I/–)
 
-**Deschampsietum mediae** — espèces indicatrices d'ordre :
+**Deschampsietum mediae** — indicatrices d'ordre :
 
 - [[Agrostis stolonifera|Agrostis maritima]] (V/IV/II)
 - [[Dittrichia viscosa|Inula viscosa]] (I/I/–)
@@ -914,15 +1010,15 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Lotus maritimus|Tetragonolobus siliquosus]] var. genuinus (–/–/I)
 - tg. [[Danthonia decumbens|Sieglingia decumbens]] (I/–/–)
 
-**Deschampsietum mediae** — espèces indicatrices de classe :
+**Deschampsietum mediae** — indicatrices de classe :
 
 - [[Juncus articulatus]] (I/I/I). Compagnes : [[Carex flacca|Carex glauca]] ssp. cuspidata (V/V/V)
 - [[Festuca ovina]] ssp. duriuscula (III/V/III)
 - [[Leontodon Villarsii]] (III/V/III)
 - [[Brachypodium phoenicoides]] (IV/III/II)
-- [[Koeleria vallesiana]] (I/II/III).
+- [[Koeleria vallesiana]] (I/II/III)
 
-**Brachypodietum phoenicoidis** — espèces indicatrices d'alliance :
+**Brachypodietum phoenicoidis** — indicatrices d'alliance :
 
 - [[Brachypodium phoenicoides]] (V/V/V)
 - [[Scabiosa atropurpurea|Scabiosa maritima]] (V/V/V)
@@ -943,9 +1039,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Diplotaxis viminea]] (I)
 - [[Erodium acaule|Erodium romanum]] (I)
 - tg. [[Carthamus lanatus|Rhagadiolus stellatus]] (II)
-- tg. [[Onopordum illyricum]] (I).
+- tg. [[Onopordum illyricum]] (I)
 
-**Onopordetum illyrici** — espèces indicatrices d'alliance :
+**Onopordetum illyrici** — indicatrices d'alliance :
 
 - [[Galactites tomentosus|Galactites tomentosa]] (IV)
 - [[Salvia verbenaca]] (IV)
@@ -960,7 +1056,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Brachypodium phoenicoides]] (II)
 - tg. [[Pallenis spinosa]] (II)
 
-**Onopordetum illyrici** — espèces indicatrices d'ordre :
+**Onopordetum illyrici** — indicatrices d'ordre :
 
 - [[Medicago minima]] var. longiseta (V)
 - [[Sideritis romana]] (V)
@@ -969,9 +1065,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Arenaria serpyllifolia]] ssp. leptoclados (III)
 - [[Petrorhagia prolifera|Tunica prolifera]] (III)
 - [[Reichardia picroides]] (III)
-- [[Anisantha rubens|Bromus rubens]] (II).
+- [[Anisantha rubens|Bromus rubens]] (II)
 
-**Brachypodietum ramosi** — espèces indicatrices d'alliance :
+**Brachypodietum ramosi** — indicatrices d'alliance :
 
 - [[Valantia muralis|Vaillantia muralis]] (IV/–)
 - [[Brachypodium distachyon]] (IV/V)
@@ -1007,7 +1103,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Campanula erinus]] (II/–)
 - [[Filago pygmaea|Evax pygmaea]] (II/–)
 
-**Brachypodietum ramosi** — espèces indicatrices d'ordre :
+**Brachypodietum ramosi** — indicatrices d'ordre :
 
 - [[Medicago minima]] var. longiseta (V/V)
 - [[Cerastium pumilum]] (V/V)
@@ -1028,9 +1124,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Xeranthemum inapertum]] (I/I)
 - [[Bituminaria bituminosa|Psoralea bituminosa]] (I/I)
 - [[Allium sphaerocephalon|Allium sphaerocephalum]] (II/–)
-- [[Sedum album]] ssp. micranthum (I/–).
+- [[Sedum album]] ssp. micranthum (I/–)
 
-**Asphodeletum fistulosi** — espèces indicatrices d'alliance :
+**Asphodeletum fistulosi** — indicatrices d'alliance :
 
 - [[Euphorbia exigua]] (V)
 - [[Biscutella laevigata]] ssp. mediterranea (III)
@@ -1053,16 +1149,16 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Bombycilaena erecta|Micropus erectus]] (I)
 - [[Centaurea paniculata]] (I)
 
-**Asphodeletum fistulosi** — espèces indicatrices d'ordre :
+**Asphodeletum fistulosi** — indicatrices d'ordre :
 
 - [[Stipa capillata]] (V)
 - [[Reichardia picroides]] (V)
 - [[Catapodium rigidum|Scleropoa rigida]] (III)
 - [[Medicago minima]] var. longiseta (III)
 - [[Carlina corymbosa]] (IV)
-- [[Linum strictum]] (II).
+- [[Linum strictum]] (II)
 
-**Onobrychideto-Barbuletum** — espèces indicatrices d'alliance :
+**Onobrychideto-Barbuletum** — indicatrices d'alliance :
 
 - [[Trifolium scabrum]] (V)
 - [[Saxifraga tridactylites]] (V)
@@ -1088,7 +1184,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Bombycilaena erecta|Micropus erectus]] (II)
 - [[Centaurea melitensis]] (II)
 
-**Onobrychideto-Barbuletum** — espèces indicatrices d'ordre :
+**Onobrychideto-Barbuletum** — indicatrices d'ordre :
 
 - [[Petrorhagia prolifera|Tunica prolifera]] (V)
 - [[Arenaria serpyllifolia]] ssp. leptoclados (V)
@@ -1101,15 +1197,15 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Silene nocturna]] (IV)
 - [[Medicago minima]] var. longiseta (IV)
 - [[Reichardia picroides]] (IV)
-- tg. [[Scabiosa atropurpurea|Scabiosa maritima]] (III).
+- tg. [[Scabiosa atropurpurea|Scabiosa maritima]] (III)
 
-**Onobrychideto-Barbuletum** — espèces indicatrices de rang supérieur (astérisque) :
+**Onobrychideto-Barbuletum** — indicatrices de rang supérieur (astérisque) :
 
 - [[Parentucellia latifolia]] (IV)*
 - IV)*
 - [[Squamarina lentigera|Placodium lentigerum]] (III)*
 
-**Staticetum echioidis** — espèces indicatrices d'alliance :
+**Staticetum echioidis** — indicatrices d'alliance :
 
 - [[Medicago monspeliaca|Trigonella monspeliaca]] (II)
 - [[Sonchus bulbosus|Crepis bulbosa]] (II)
@@ -1124,21 +1220,20 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Saxifraga tridactylites]] (I)
 - [[Brachypodium distachyon]] (I)
 
-**Staticetum echioidis** — espèces indicatrices d'ordre :
+**Staticetum echioidis** — indicatrices d'ordre :
 
 - [[Linum strictum]] (III)
 - [[Hedypnois rhagadioloides|Hedypnois cretica]] (III)
 - [[Catapodium rigidum|Scleropoa rigida]] (II)
 - [[Cerastium pumilum]] (II)
 - [[Allium sphaerocephalon|Allium sphaerocephalum]] (I)
-- tg. [[Scabiosa atropurpurea|Scabiosa maritima]] (III)
-- tg. [[Camphorosma monspeliaca]] (II).
+- tg. [[Camphorosma monspeliaca]] (II)
 
-**Staticetum echioidis** — espèces indicatrices de rang supérieur (astérisque) :
+**Staticetum echioidis** — indicatrices de rang supérieur (astérisque) :
 
 - [[Filago pygmaea|Evax pygmaea]] (III)*
 
-**Cariceto-Crepidetum suffrenianae** — espèces indicatrices d'alliance :
+**Cariceto-Crepidetum suffrenianae** — indicatrices d'alliance :
 
 - [[Saxifraga tridactylites]] (IV)
 - [[Bupleurum baldense|Bupleurum opacum]] (IV)
@@ -1157,21 +1252,20 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Crupina vulgaris]] (I)
 - tg. [[Centranthus calcitrapae|Centranthus calcitrapa]] (I)
 
-**Cariceto-Crepidetum suffrenianae** — espèces indicatrices d'ordre :
+**Cariceto-Crepidetum suffrenianae** — indicatrices d'ordre :
 
 - [[Anthyllis vulneraria]] ssp. hispida (III)
 - [[Petrorhagia prolifera|Tunica prolifera]] (II)
-- [[Linum strictum]] (II)
 - [[Filago germanica]] (II)
-- tg. [[Echinops ritro]] (II).
+- tg. [[Echinops ritro]] (II)
 
-**Cariceto-Crepidetum suffrenianae** — espèces indicatrices de rang supérieur (astérisque) :
+**Cariceto-Crepidetum suffrenianae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Parentucellia latifolia]] (II)*
 - [[Phleum arenarium]] (I)*
 - [[Silene conica]] (I)*
 
-**Sedeto-Arabidetum vernae** — espèces indicatrices d'alliance :
+**Sedeto-Arabidetum vernae** — indicatrices d'alliance :
 
 - [[Saxifraga tridactylites]] (III/IV)
 - [[Hornungia petraea]] (II/V)
@@ -1195,7 +1289,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Didymodon acutus|Barbula gracilis]] (I/–)
 - tg. [[Narcissus dubius]] (I/–)
 
-**Sedeto-Arabidetum vernae** — espèces indicatrices d'ordre :
+**Sedeto-Arabidetum vernae** — indicatrices d'ordre :
 
 - [[Sedum album]] ssp. micranthum (V/–)
 - [[Catapodium rigidum|Scleropoa rigida]] (IV/IV)
@@ -1210,9 +1304,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Clypeola jonthlaspi|Clypeola gracilis]] (II/–)
 - tg. [[Nigella damascena]] (I/–)
 - tg. [[Petrosedum ochroleucum|Sedum anopetalum (Hylotelephium)]] (IV/–)
-- tg. [[Chaenorhinum rubrifolium|Linaria rubrifolia]] (II/–).
+- tg. [[Chaenorhinum rubrifolium|Linaria rubrifolia]] (II/–)
 
-**Convolvuleto-Ononidetum pubescentis** — espèces indicatrices d'alliance :
+**Convolvuleto-Ononidetum pubescentis** — indicatrices d'alliance :
 
 - [[Hippocrepis ciliata]] (V)
 - [[Astragalus stella]] (III)
@@ -1223,7 +1317,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Onobrychis caput-galli]] (II)
 - tg. [[Astragalus sesameus]] (I)
 
-**Convolvuleto-Ononidetum pubescentis** — espèces indicatrices d'ordre :
+**Convolvuleto-Ononidetum pubescentis** — indicatrices d'ordre :
 
 - [[Catapodium rigidum|Scleropoa rigida]] (V)
 - [[Anisantha rubens|Bromus rubens]] (III)
@@ -1234,9 +1328,9 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Euphorbia serrata]] (IV)
 - tg. [[Helianthemum violaceum|Helianthemum pilosum]] (III)
 - tg. [[Tragopogon porrifolius|Tragopogon australis]] (II)
-- tg. [[Galactites tomentosus|Galactites tomentosa]] (II).
+- tg. [[Galactites tomentosus|Galactites tomentosa]] (II)
 
-**Phleo-Sedetum anopetalae** — espèces indicatrices d'alliance :
+**Phleo-Sedetum anopetalae** — indicatrices d'alliance :
 
 - [[Petrosedum ochroleucum|Hylotelephium anopetalum]] (V/V)
 - [[Helianthemum violaceum|Helianthemum pilosum]] (I/I)
@@ -1244,7 +1338,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Arenaria aggregata]] ssp. capitata (I/I)
 - tg. [[Armeria girardii|Armeria juncea]] (I/I)
 
-**Phleo-Sedetum anopetalae** — espèces indicatrices d'ordre :
+**Phleo-Sedetum anopetalae** — indicatrices d'ordre :
 
 - [[Medicago minima]] (V/IV)
 - [[Sedum album]] ssp. micranthum (III/IV)
@@ -1257,16 +1351,16 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Chondrilla juncea]] (I/IV)
 - tg. [[Carex liparocarpos|Carex nitida]] (II/II)
 - tg. [[Centaurea aspera]] (II/II)
-- et de nombreuses transgressives des unités supérieures.
+- et de nombreuses transgressives des unités supérieures
 
-**Phleo-Sedetum anopetalae** — espèces indicatrices de rang supérieur (astérisque) :
+**Phleo-Sedetum anopetalae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Corynephorus canescens]] (V/V)*
 - [[Phleum arenarium]] (V/V)*
 - [[Senecio gallicus]] (I/IV)*
 - [[Crepis suffreniana]] (I/II)*
 
-**Armerietum junceae** — espèces indicatrices d'alliance :
+**Armerietum junceae** — indicatrices d'alliance :
 
 - [[Petrosedum ochroleucum|Hylotelephium anopetalum]] (V)
 - [[Helianthemum violaceum|Helianthemum pilosum]] (V)
@@ -1276,7 +1370,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Alyssum serpyllifolium]] (I)
 - tg. [[Chaenorhinum rubrifolium|Linaria rubrifolia]] (I)
 
-**Armerietum junceae** — espèces indicatrices d'ordre :
+**Armerietum junceae** — indicatrices d'ordre :
 
 - [[Anthyllis vulneraria]] ssp. hispida (IV)
 - [[Allium sphaerocephalon|Allium sphaerocephalum]] (III)
@@ -1287,20 +1381,19 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Hornungia petraea]] (IV)
 - tg. [[Carex liparocarpos|Carex nitida]] (III)
 - tg. [[Didymodon acutus|Barbula gracilis]] (II)
-- tg. [[Cerastium semidecandrum|Cerastium balearicum]] (II).
 
-**Armerietum junceae** — espèces indicatrices de rang supérieur (astérisque) :
+**Armerietum junceae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Arenaria aggregata]] ssp. capitata (V)*
 
-**Genistetum lobelii** — espèces indicatrices d'alliance :
+**Genistetum lobelii** — indicatrices d'alliance :
 
 - [[Teucrium aureum]] (V)
 - [[Klasea nudicaulis|Serratula nudicaulis]] (IV)
 - [[Valeriana tuberosa]] (IV)
 - [[Bupleurum ranunculoides]] ssp. telonense (II)
 
-**Genistetum lobelii** — espèces indicatrices d'ordre :
+**Genistetum lobelii** — indicatrices d'ordre :
 
 - [[Anthyllis montana]] (IV)
 - [[Lavandula angustifolia|Lavandula vera]] (IV)
@@ -1312,7 +1405,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Erysimum australe]] f. squarrosum (III)
 - tg. [[Leucanthemum graminifolium|Chrysanthemum graminifolium]] (I)
 
-**Genistetum lobelii** — espèces indicatrices de classe :
+**Genistetum lobelii** — indicatrices de classe :
 
 - [[Koeleria vallesiana]] (V)
 - [[Carex humilis]] (V)
@@ -1320,19 +1413,19 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Trinia glauca]] (II)
 - [[Teucrium montanum]] (II)
 - [[Helianthemum apenninum]] (III)
-- [[Coronilla minima]] (2).
+- [[Coronilla minima]] (2)
 
-**Genistetum lobelii** — espèces indicatrices de rang supérieur (astérisque) :
+**Genistetum lobelii** — indicatrices de rang supérieur (astérisque) :
 
 - [[Jurinea humilis]] (I)*
 
-**Genistetum villarsii** — espèces indicatrices d'alliance :
+**Genistetum villarsii** — indicatrices d'alliance :
 
 - [[Teucrium aureum]] (3)
 - [[Valeriana tuberosa]] (1)
 - [[Klasea nudicaulis|Serratula nudicaulis]] (1)
 
-**Genistetum villarsii** — espèces indicatrices d'ordre :
+**Genistetum villarsii** — indicatrices d'ordre :
 
 - [[Anthyllis montana]] (3)
 - [[Iberis saxatilis]] (3)
@@ -1342,38 +1435,38 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Leucanthemum graminifolium|Chrysanthemum graminifolium]] (3)
 - tg. [[Euphorbia duvalii]] (1)
 
-**Genistetum villarsii** — espèces indicatrices de classe :
+**Genistetum villarsii** — indicatrices de classe :
 
 - [[Helianthemum oelandicum var. canescens|Helianthemum canum]] (3)
 - [[Helianthemum apenninum]] (1)
 - [[Seseli montanum]] (2)
 - [[Koeleria vallesiana]] (1)
 - [[Coronilla minima]] (1)
-- tg. [[Thymus serpyllum]] ssp. angustifolius (3).
+- tg. [[Thymus serpyllum]] ssp. angustifolius (3)
 
-**Genistetum villarsii** — espèces indicatrices de rang supérieur (astérisque) :
+**Genistetum villarsii** — indicatrices de rang supérieur (astérisque) :
 
 - [[Genista pulchella|Genista villarsii]] (2)*
 - [[Bupleurum ranunculoides]] ssp. telonense (3)*
 
-**Fritillarietum pyrenaicae** — espèces indicatrices d'alliance :
+**Fritillarietum pyrenaicae** — indicatrices d'alliance :
 
 - [[Valeriana tuberosa]] (3)
 - [[Teucrium aureum]] (2)
 
-**Fritillarietum pyrenaicae** — espèces indicatrices d'ordre :
+**Fritillarietum pyrenaicae** — indicatrices d'ordre :
 
 - [[Ranunculus gramineus]] (2)
 - [[Narcissus assoanus|Narcissus juncifolius]] (2)
 
-**Fritillarietum pyrenaicae** — espèces indicatrices de classe :
+**Fritillarietum pyrenaicae** — indicatrices de classe :
 
 - [[Koeleria vallesiana]] (2)
 - [[Helianthemum oelandicum var. canescens|Helianthemum canum]] (1)
 - tg. [[Lavandula latifolia]] (2)
-- tg. [[Potentilla hirta]] (1).
+- tg. [[Potentilla hirta]] (1)
 
-**Stipeto-Ononidetum** — espèces indicatrices d'alliance :
+**Stipeto-Ononidetum** — indicatrices d'alliance :
 
 - [[Leucanthemum graminifolium|Chrysanthemum graminifolium]] (III)
 - [[Ononis striata]] (II)
@@ -1385,14 +1478,14 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Aster alpinus]] ssp. cebennensis (II)
 - tg. [[Phyteuma orbiculare]] ssp. tenerum (I)
 
-**Stipeto-Ononidetum** — espèces indicatrices d'ordre :
+**Stipeto-Ononidetum** — indicatrices d'ordre :
 
 - [[Inula montana]] (V)
 - [[Leontodon crispus]] (III)
 - [[Anthyllis montana]] (II)
 - [[Crepis albida]] (II)
 
-**Stipeto-Ononidetum** — espèces indicatrices de classe :
+**Stipeto-Ononidetum** — indicatrices de classe :
 
 - [[Coronilla minima]] (V)
 - [[Helianthemum apenninum]] (IV)
@@ -1404,15 +1497,15 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Seseli montanum]] (II)
 - [[Asperula cynanchica]] (I)
 - tg. [[Potentilla verna]] var. australis (V)
-- tg. [[Thymus serpyllum]] ssp. angustifolius (V).
+- tg. [[Thymus serpyllum]] ssp. angustifolius (V)
 
-**Stipeto-Ononidetum** — espèces indicatrices de rang supérieur (astérisque) :
+**Stipeto-Ononidetum** — indicatrices de rang supérieur (astérisque) :
 
 - [[Stipa pennata]] ssp. mediterranea (V)*
 - [[Euphorbia seguieriana]] var. dolomitica (IV)*
 - [[Ranunculus gramineus]] (III)*
 
-**Astereto-Anthyllidetum** — espèces indicatrices d'alliance :
+**Astereto-Anthyllidetum** — indicatrices d'alliance :
 
 - [[Leucanthemum graminifolium|Chrysanthemum graminifolium]] (V/III)
 - [[Ononis striata]] (II/IV)
@@ -1421,7 +1514,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Stipa pennata]] ssp. mediterranea (V/IV)
 - tg. [[Pulsatilla rubra|Anemone rubra]] (I/I)
 
-**Astereto-Anthyllidetum** — espèces indicatrices d'ordre :
+**Astereto-Anthyllidetum** — indicatrices d'ordre :
 
 - [[Anthyllis montana]] (IV/V)
 - [[Inula montana]] (IV/IV)
@@ -1434,7 +1527,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Teucrium aureum]] (II)
 - tg. [[Valeriana tuberosa]] (I)
 
-**Astereto-Anthyllidetum** — espèces indicatrices de classe :
+**Astereto-Anthyllidetum** — indicatrices de classe :
 
 - [[Carex humilis]] (V/V)
 - [[Koeleria vallesiana]] (III/V)
@@ -1448,39 +1541,39 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Globularia bisnagarica|Globularia willkommii]] (I/II)
 - [[Knautia arvensis]] ssp. collina (I/II)
 - [[Ononis pusilla]] (I/I)
-- [[Seseli montanum]] (II/I).
+- [[Seseli montanum]] (II/I)
 
-**Astereto-Anthyllidetum** — espèces indicatrices de rang supérieur (astérisque) :
+**Astereto-Anthyllidetum** — indicatrices de rang supérieur (astérisque) :
 
 - [[Jurinea humilis]] (II/II)*
 
-**Seslerieto-Gentianetum corbariensis** — espèces indicatrices d'alliance :
+**Seslerieto-Gentianetum corbariensis** — indicatrices d'alliance :
 
 - [[Sesleria caerulea|Sesleria caerulea]] ssp. elegantissima (2)
 - [[Leucanthemum graminifolium|Chrysanthemum graminifolium]] (2)
 - [[Ononis striata]] (1)
 
-**Seslerieto-Gentianetum corbariensis** — espèces indicatrices d'ordre :
+**Seslerieto-Gentianetum corbariensis** — indicatrices d'ordre :
 
 - [[Anthyllis montana]] (2)
 - [[Iberis saxatilis]] (1)
 - [[Crepis albida]] (1)
 - tg. [[Teucrium aureum]] (1)
 
-**Seslerieto-Gentianetum corbariensis** — espèces indicatrices de classe :
+**Seslerieto-Gentianetum corbariensis** — indicatrices de classe :
 
 - [[Carex humilis]] (2)
 - [[Helianthemum oelandicum var. canescens|Helianthemum canum]] (2)
 - tg. [[Potentilla verna]] var. australis (1)
-- tg. [[Linum appressum|Linum salsoloides]] var. australis (1).
+- tg. [[Linum appressum|Linum salsoloides]] var. australis (1)
 
-**Erysimo-Seslerietum coeruleae** — espèces indicatrices d'alliance :
+**Erysimo-Seslerietum coeruleae** — indicatrices d'alliance :
 
 - [[Sesleria caerulea|Sesleria caerulea]] ssp. elegantissima (V)
 - [[Plantago argentea]] (V)
 - [[Leucanthemum graminifolium|Chrysanthemum graminifolium]] (I)
 
-**Erysimo-Seslerietum coeruleae** — espèces indicatrices d'ordre :
+**Erysimo-Seslerietum coeruleae** — indicatrices d'ordre :
 
 - [[Lavandula angustifolia|Lavandula vera]] (V)
 - [[Crepis albida]] (V)
@@ -1489,7 +1582,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Iberis saxatilis]] ssp. recurvifolia (IV)
 - tg. [[Bupleurum ranunculoides]] ssp. telonense (II)
 
-**Erysimo-Seslerietum coeruleae** — espèces indicatrices de classe :
+**Erysimo-Seslerietum coeruleae** — indicatrices de classe :
 
 - [[Knautia arvensis]] ssp. collina (III)
 - [[Trinia glauca]] (III)
@@ -1498,25 +1591,24 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Aphyllanthes monspeliensis]] (III)
 - tg. [[Linum appressum|Linum salsoloides]] (IV)
 - tg. [[Thymus serpyllum]] ssp. angustifolius (II)
-- tg. [[Fumana ericoides]] (I).
+- tg. [[Fumana ericoides]] (I)
 
-**Genistetum delphinensis** — espèces indicatrices d'alliance :
+**Genistetum delphinensis** — indicatrices d'alliance :
 
 - [[Ononis striata]] (2)
 - [[Linum leonii|Linum anglicum]] (2)
 - [[Plantago argentea]] (1)
 
-**Genistetum delphinensis** — espèces indicatrices d'ordre :
+**Genistetum delphinensis** — indicatrices d'ordre :
 
 - [[Lavandula angustifolia|Lavandula vera]] (2)
 - [[Inula montana]] (1)
 - tg. [[Teucrium aureum]] (2)
 
-**Genistetum delphinensis** — espèces indicatrices de classe :
+**Genistetum delphinensis** — indicatrices de classe :
 
 - [[Thesium humifusum subsp. divaricatum|Thesium divaricatum]] (2)
 - [[Helianthemum apenninum]] (2)
-- [[Coronilla minima]] (2)
 - [[Trinia glauca]] (2)
 - [[Fumana procumbens|Fumana vulgaris]] (2)
 - [[Asperula cynanchica]] (2)
@@ -1526,14 +1618,14 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Aphyllanthes monspeliensis]] (1)
 - tg. [[Potentilla verna]] var. australis (2)
 - tg. [[Astragalus monspessulanus]] (1)
-- tg. [[Linum campanulatum]] (1).
+- tg. [[Linum campanulatum]] (1)
 
-**Genistetum delphinensis** — espèces indicatrices de rang supérieur (astérisque) :
+**Genistetum delphinensis** — indicatrices de rang supérieur (astérisque) :
 
 - [[Arenaria aggregata]] (2)*
 - [[Genista delphinensis]] ssp. capitata (2)*
 
-**Aphyllantheto-Leontodetum villarsii** — espèces indicatrices d'alliance :
+**Aphyllantheto-Leontodetum villarsii** — indicatrices d'alliance :
 
 - [[Aphyllanthes monspeliensis]] (V/V/V)
 - [[Potentilla verna]] var. australis (IV/IV/II)
@@ -1546,7 +1638,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Cirsium acaulon|Cirsium acaule]] var. flavispinum (II/I/–)
 - [[Linum tenuifolium]] (–/V/–)
 
-**Aphyllantheto-Leontodetum villarsii** — espèces indicatrices d'ordre :
+**Aphyllantheto-Leontodetum villarsii** — indicatrices d'ordre :
 
 - [[Euphorbia nicaeensis]] (V/III/V)
 - [[Lavandula latifolia]] (IV/IV/V)
@@ -1566,7 +1658,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Thymelaea sanamunda]] (I/–/–)
 - tg. [[Pinus halepensis]] ((x)/I/(x))
 
-**Aphyllantheto-Leontodetum villarsii** — espèces indicatrices de classe :
+**Aphyllantheto-Leontodetum villarsii** — indicatrices de classe :
 
 - [[Carex humilis]] (V/IV/V)
 - [[Koeleria vallesiana]] (V/V/IV)
@@ -1581,13 +1673,13 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Helianthemum apenninum]] (I/I/I)
 - [[Ononis pusilla]] (I/I/–)
 - [[Teucrium montanum]] (I/–/I)
-- [[Linum narbonense]] (I/–/–).
+- [[Linum narbonense]] (I/–/–)
 
-**Aphyllantheto-Leontodetum villarsii** — espèces indicatrices de rang supérieur (astérisque) :
+**Aphyllantheto-Leontodetum villarsii** — indicatrices de rang supérieur (astérisque) :
 
 - [[Stipa pennata]] ssp. mediterranea (II/–/II)*
 
-**Onobrychidetum supinae** — espèces indicatrices d'alliance :
+**Onobrychidetum supinae** — indicatrices d'alliance :
 
 - [[Aphyllanthes monspeliensis]] (IV¹)
 - [[Potentilla verna]] var. australis (V¹)
@@ -1605,7 +1697,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Astragalus incanus]] (I)
 - tg. [[Carlina acanthifolia]] (I)
 
-**Onobrychidetum supinae** — espèces indicatrices d'ordre :
+**Onobrychidetum supinae** — indicatrices d'ordre :
 
 - [[Lavandula latifolia]] (V¹)
 - [[Leontodon hirtus|Leontodon villarsii]] (III)
@@ -1614,7 +1706,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Fumana ericoides]] (III)
 - [[Rhaponticum coniferum|Centaurea conifera]] (II)
 
-**Onobrychidetum supinae** — espèces indicatrices de classe :
+**Onobrychidetum supinae** — indicatrices de classe :
 
 - [[Fumana procumbens|Fumana vulgaris]] (III)
 - [[Asperula cynanchica]] (II)
@@ -1627,13 +1719,13 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Ononis pusilla]] (I)
 - [[Linum narbonense]] (I)
 - [[Knautia arvensis]] ssp. collina (I)
-- [[Globularia bisnagarica|Globularia willkommii]] (II).
+- [[Globularia bisnagarica|Globularia willkommii]] (II)
 
-**Onobrychidetum supinae** — espèces indicatrices de rang supérieur (astérisque) :
+**Onobrychidetum supinae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Onobrychis supina]] (IV)*
 
-**Lavanduleto-Astragaletum** — espèces indicatrices d'alliance :
+**Lavanduleto-Astragaletum** — indicatrices d'alliance :
 
 - [[Aphyllanthes monspeliensis]] (V¹)
 - [[Potentilla verna]] var. australis (II)
@@ -1642,7 +1734,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Astragalus monspessulanus]] (II)
 - tg. [[Sideritis fruticulosa|Sideritis scordioides]] (I)
 
-**Lavanduleto-Astragaletum** — espèces indicatrices d'ordre :
+**Lavanduleto-Astragaletum** — indicatrices d'ordre :
 
 - [[Helianthemum oelandicum var. italicum|Helianthemum italicum]] (V)
 - [[Fumana ericoides]] (II)
@@ -1654,15 +1746,15 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Fumana thymifolia]] ssp. laevis (II)
 - tg. [[Salvia rosmarinus|Rosmarinus officinalis]] (I)
 
-**Lavanduleto-Astragaletum** — espèces indicatrices de classe :
+**Lavanduleto-Astragaletum** — indicatrices de classe :
 
 - [[Koeleria vallesiana]] (III)
 - tg. [[Lavandula angustifolia|Lavandula vera]] (V)
 - tg. [[Stipa pennata]] ssp. mediterranea (I)
 - tg. [[Crepis albida]] (I)
-- tg. [[Narcissus assoanus|Narcissus juncifolius]] (I).
+- tg. [[Narcissus assoanus|Narcissus juncifolius]] (I)
 
-**Lavanduleto-Astragaletum** — espèces indicatrices de rang supérieur (astérisque) :
+**Lavanduleto-Astragaletum** — indicatrices de rang supérieur (astérisque) :
 
 - [[Potentilla hirta]] (IV)*
 - [[Satureja montana]] (IV)*
@@ -1670,7 +1762,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Leucanthemum pallens|Cota pallens]] (II)*
 - [[Carlina acanthifolia]] (I)*
 
-**Convolvuletum lanuginosi** — espèces indicatrices d'alliance :
+**Convolvuletum lanuginosi** — indicatrices d'alliance :
 
 - [[Staehelina dubia]] (3)
 - [[Salvia rosmarinus|Rosmarinus officinalis]] (2)
@@ -1679,7 +1771,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Pinus halepensis]] (1)
 - tg. [[Fumana thymifolia]] ssp. laevis (1)
 
-**Convolvuletum lanuginosi** — espèces indicatrices d'ordre :
+**Convolvuletum lanuginosi** — indicatrices d'ordre :
 
 - [[Fumana ericoides]] (3)
 - [[Lavandula latifolia]] (4)
@@ -1687,15 +1779,15 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Rhaponticum coniferum|Centaurea conifera]] (3)
 - [[Helictochloa bromoides|Avena bromoides]] (2)
 
-**Convolvuletum lanuginosi** — espèces indicatrices de classe :
+**Convolvuletum lanuginosi** — indicatrices de classe :
 
-- [[Linum narbonense]] (3).
+- [[Linum narbonense]] (3)
 
-**Convolvuletum lanuginosi** — espèces indicatrices de rang supérieur (astérisque) :
+**Convolvuletum lanuginosi** — indicatrices de rang supérieur (astérisque) :
 
 - [[Convolvulus lanuginosus]] (3)*
 
-**Helianthemeto-Ericetum multiflorae** — espèces indicatrices d'alliance :
+**Helianthemeto-Ericetum multiflorae** — indicatrices d'alliance :
 
 - [[Pinus halepensis]] (V¹)
 - [[Stipa juncea]] (V¹)
@@ -1704,7 +1796,7 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Coris monspeliensis]] (III¹)
 - [[Staehelina dubia]] (I¹)
 
-**Helianthemeto-Ericetum multiflorae** — espèces indicatrices d'ordre :
+**Helianthemeto-Ericetum multiflorae** — indicatrices d'ordre :
 
 - [[Fumana ericoides]] (V¹)
 - [[Helictochloa bromoides|Avena bromoides]] (III¹)
@@ -1712,19 +1804,19 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - [[Rhaponticum coniferum|Centaurea conifera]] (I¹)
 - tg. [[Aphyllanthes monspeliensis]] (III¹)
 
-**Helianthemeto-Ericetum multiflorae** — espèces indicatrices de classe :
+**Helianthemeto-Ericetum multiflorae** — indicatrices de classe :
 
 - [[Seseli montanum]] (I)
-- [[Helianthemum apenninum]] (II).
+- [[Helianthemum apenninum]] (II)
 
-**Helianthemeto-Ericetum multiflorae** — espèces indicatrices de rang supérieur (astérisque) :
+**Helianthemeto-Ericetum multiflorae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Erica multiflora]] (III¹)*
 - [[Hyparrhenia hirta|Andropogon hirtus]] ssp. pubescens (II¹)*
 - [[Piptatherum coerulescens|Piptatherum coerulescens]] (II¹)*
 - [[Coronilla minima]] ssp. australis (II¹)*
 
-**Hedysareto-Astragaletum narbonensis** — espèces indicatrices d'alliance :
+**Hedysareto-Astragaletum narbonensis** — indicatrices d'alliance :
 
 - [[Staehelina dubia]] (IV¹)
 - [[Pinus halepensis]] (III¹)
@@ -1734,37 +1826,37 @@ Ces espèces figuraient dans les listes « Espèces indicatrices » des associat
 - tg. [[Lithodora fruticosa|Lithospermum fruticosum]] (I¹)
 - tg. [[Sideritis fruticulosa|Sideritis scordioides]] (I¹)
 
-**Hedysareto-Astragaletum narbonensis** — espèces indicatrices d'ordre :
+**Hedysareto-Astragaletum narbonensis** — indicatrices d'ordre :
 
 - [[Fumana ericoides]] (IV¹)
 - tg. [[Astragalus monspessulanus]] (III¹)
 - tg. [[Aphyllanthes monspeliensis]] (I¹)
 
-**Hedysareto-Astragaletum narbonensis** — espèces indicatrices de classe :
+**Hedysareto-Astragaletum narbonensis** — indicatrices de classe :
 
-- [[Helianthemum apenninum]] (I¹).
+- [[Helianthemum apenninum]] (I¹)
 
-**Hedysareto-Astragaletum narbonensis** — espèces indicatrices de rang supérieur (astérisque) :
+**Hedysareto-Astragaletum narbonensis** — indicatrices de rang supérieur (astérisque) :
 
 - [[Coronilla minima]] ssp. australis (IV¹)*
 
-**Avenetum amethystinae** — espèces indicatrices de rang supérieur (astérisque) :
+**Avenetum amethystinae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Odontites luteus|Euphrasia lutea]] (I)*
 
-**Cisto-Ericetum cinereae** — espèces indicatrices de rang supérieur (astérisque) :
+**Cisto-Ericetum cinereae** — indicatrices de rang supérieur (astérisque) :
 
 - [[Erica cinerea]] (V)*
 - [[Cytisus spinosus|Calycotome spinosa]] (IV)*
 
-**Adenocarpo-Ericetum arboreae** — espèces indicatrices d'alliance :
+**Adenocarpo-Ericetum arboreae** — indicatrices d'alliance :
 
 - [[Pteridium aquilinum]] (V)
 - [[Agrostis stolonifera|Agrostis alba]] (IV)
 - [[Petrosedum rupestre|Sedum rupestre]] (IV)
-- [[Lotus angustissimus|Lotus angustifolius]] (1).
+- [[Lotus angustissimus|Lotus angustifolius]] (1)
 
-**Tillaeetum** — espèces indicatrices de rang supérieur (astérisque) :
+**Tillaeetum** — indicatrices de rang supérieur (astérisque) :
 
 - Placodium fulgens (V¹)*
 
@@ -1783,7 +1875,7 @@ Sous-alliance localisée sur les rochers calcaires gris, compacts, saccharoïdes
 - [[Hypericum coris]]
 - [[Micromeria marginata|Satureja piperella]]
 - [[Lobularia maritima subsp. maritima|Alyssum halimifolium]]
-- [[Asperula hexaphylla]].
+- [[Asperula hexaphylla]]
 
 **Associations :**
 
@@ -1813,7 +1905,7 @@ Ordre répandu dans la partie chaude de la Région méditerranéenne française,
 
 - [[Hormathophylla spinosa|Alyssum spinosum]]
 - [[Teucrium flavum]]
-- [[Mercurialis annua]] ssp. huetii.
+- [[Mercurialis annua]] ssp. huetii
 
 ---
 
@@ -1827,7 +1919,7 @@ Répandue dans la partie basse de la Région méditerranéenne, où elle remplac
 
 - [[Phagnalon sordidum]]
 - [[Asplenium petrarchae|Asplenium glandulosum]]
-- [[Melica amethystina|Melica bauhini]].
+- [[Melica amethystina|Melica bauhini]]
 
 **Associations :**
 
@@ -1849,7 +1941,7 @@ Les groupements de cet ordre habitent les fentes des rochers siliceux pauvres en
 
 - [[Asplenium septentrionale]]
 - [[Sedum hirsutum]]
-- [[Hylotelephium maximum|Sedum maximum]].
+- [[Hylotelephium maximum|Sedum maximum]]
 
 ---
 
@@ -1872,7 +1964,7 @@ Alliance surtout alpine et pyrénéenne des rochers siliceux. Les groupements s'
 **Espèces indicatrices :**
 
 - [[Centaurea pectinata]] ssp. expectinata
-- [[Sempervivum tectorum]] ssp. arvernense.
+- [[Sempervivum tectorum]] ssp. arvernense
 
 **Associations :**
 
@@ -1922,7 +2014,7 @@ L'ordre comprend deux alliances, l'une atlantique (le Crithmion maritimae Pavill
 **Espèces indicatrices :**
 
 - [[Pallenis maritima|Asteriscus maritimus]]
-- [[Crithmum maritimum]].
+- [[Crithmum maritimum]]
 
 ---
 
@@ -1939,7 +2031,7 @@ Les associations se succèdent en bandes parallèles sur le littoral calcaire, d
 - [[Euphorbia pithyusa]]
 - [[Silene sedoides]]
 - [[Sonchus asper subsp. glaucescens|Sonchus glaucescens]]
-- [[Euphorbia armandiana]].
+- [[Euphorbia armandiana]]
 
 **Associations :**
 
@@ -1966,7 +2058,7 @@ Les associations des Thlaspeetea croissent dans les terrains d'apport et les pie
 
 Deux ordres dans la région
 - comprenant les groupements localisés sur les sols à éléments généralement grossiers
-- peu stables : l'ordre des éboulis calcaires (Thlaspeetalia) et l'ordre des grèves ripicoles (Myricarietalia).
+- peu stables : l'ordre des éboulis calcaires (Thlaspeetalia) et l'ordre des grèves ripicoles (Myricarietalia)
 
 ---
 
@@ -2000,7 +2092,7 @@ Alliance subméditerranéenne, faiblement caractérisée, qui garnit les ébouli
 
 - [[Linaria supina]]
 - [[Pimpinella tragium]]
-- [[Laserpitium gallicum]].
+- [[Laserpitium gallicum]]
 
 **Associations :**
 
@@ -2022,7 +2114,7 @@ Les fleuves méditerranéens offrent trois types de grèves : limoneuses, sablon
 
 L'ordre comprend dans le midi de la France l'alliance du [[Glaucion flavi]] et
 - dans l'Europe moyenne
-- celle de l'Epilobion fleischeri G. Br.-Bl. 1931.
+- celle de l'Epilobion fleischeri G. Br.-Bl. 1931
 
 ---
 
@@ -2046,7 +2138,7 @@ Occupe les alluvions caillouteuses des rivières cévenoles entre 100 et 400 m e
 
 - [[Eryngium maritimum]]
 - [[Convolvulus soldanella]]
-- [[Salsola kali]].
+- [[Salsola kali]]
 
 ---
 
@@ -2062,7 +2154,7 @@ Occupe les alluvions caillouteuses des rivières cévenoles entre 100 et 400 m e
 - [[Matthiola sinuata]]
 - [[Bromus villosus]] ssp. ambiguus
 - [[Pseudorlaya pumila|Orlaya maritima]]
-- [[Diplotaxis muralis|Diplotaxis maritima (muralis)]].
+- [[Diplotaxis muralis|Diplotaxis maritima (muralis)]]
 
 ---
 
@@ -2078,7 +2170,7 @@ Végétation caractéristique des lidos méditerranéens. Les trois associations
 - [[Malcolmia littorea]]
 - [[Rostraria pubescens|Koeleria villosa]]
 - [[Cakile maritima]] ssp. littoralis
-- [[Hypochaeris radicata]] var. solina.
+- [[Hypochaeris radicata]] var. solina
 
 **Associations :**
 
@@ -2124,7 +2216,7 @@ Groupements représentés par les champs de céréales et de lin avec leur cort�
 - [[Valerianella coronata|Valerianella pumila]]
 - [[Conringia orientalis]]
 - [[Myagrum perfoliatum]]
-- [[Anthemis cotula]].
+- [[Anthemis cotula]]
 
 **Associations :**
 
@@ -2169,7 +2261,7 @@ La classe comprend la plupart des groupements de cultures sarclées, ainsi que l
 - [[Euphorbia helioscopia]]
 - [[Veronica polita]]
 - [[Datura stramonium]]
-- [[Lepidium draba]].
+- [[Lepidium draba]]
 
 ---
 
@@ -2199,7 +2291,7 @@ La classe comprend la plupart des groupements de cultures sarclées, ainsi que l
 - [[Lamium purpureum]]
 - [[Setaria pumila|Setaria glauca]]
 - [[Diplotaxis muralis]]
-- [[Lepidium campestre]].
+- [[Lepidium campestre]]
 
 ---
 
@@ -2214,7 +2306,7 @@ Les associations du Diplotaxidion montrent une très nette périodicité. Dans l
 - [[Solanum villosum|Solanum alatum]]
 - [[Amaranthus albus]]
 - [[Heliotropium europaeum]]
-- [[Amaranthus hybridus|Amaranthus chlorostachys]].
+- [[Amaranthus hybridus|Amaranthus chlorostachys]]
 
 **Associations :**
 
@@ -2237,7 +2329,7 @@ Groupements nitrophiles localisés aux alentours immédiats des habitations et d
 - [[Urtica pilulifera]]
 - [[Solanum lycopersicum]]
 - [[Dysphania multifida|Chenopodium multifidum]]
-- [[Dysphania ambrosioides|Chenopodium ambrosioides]].
+- [[Dysphania ambrosioides|Chenopodium ambrosioides]]
 
 **Associations :**
 
@@ -2259,7 +2351,7 @@ Groupements nitrophiles localisés aux alentours immédiats des habitations et d
 - [[Carduus pycnocephalus]]
 - [[Spergularia rubra]]
 - [[Poa infirma]] (Poa exilis)
-- [[Crepis nicaeensis]].
+- [[Crepis nicaeensis]]
 
 **Associations :**
 
@@ -2300,7 +2392,7 @@ Le limon, très riche en matières azotées, déposé au bord des fleuves médit
 - [[Polypogon viridis|Agrostis semiverticillata]]
 - [[Paspalum distichum]]
 - [[Paspalum dilatatum]]
-- [[Fimbristylis dichotoma]].
+- [[Fimbristylis dichotoma]]
 
 ---
 
@@ -2317,7 +2409,7 @@ Alliance liée au limon gras et humide des grands cours d'eau de la plaine médi
 - d'écologie méditerranéenne
 - se rattache
 - dans la Région méditerranéenne où l'ordre centro-européen correspondant manque
-- comme caractéristique au Paspalo-Agrostidion)*.
+- comme caractéristique au Paspalo-Agrostidion)*
 
 **Associations :**
 
@@ -2354,7 +2446,7 @@ Ordre surtout médio-européen, réunissant les groupements mésophiles colonisa
 - [[Persicaria maculosa|Polygonum persicaria]]
 - [[Persicaria lapathifolia|Polygonum lapathifolium]]
 - [[Echinochloa crus-galli]]
-- [[Persicaria hydropiper|Polygonum hydropiper]].
+- [[Persicaria hydropiper|Polygonum hydropiper]]
 
 **Associations :**
 
@@ -2408,7 +2500,7 @@ Associations d'héliophytes enracinées ou non, flottantes dans les eaux salées
 Deux ordres à distinguer : a) [[Potametalia]]
 - dans les eaux douces
 - b) [[Zosteretalia]]
-- dans les eaux salées et saumâtres.
+- dans les eaux salées et saumâtres
 
 ---
 
@@ -2439,7 +2531,7 @@ Vit dans les bassins d'eau douce et les rivières à courant lent. Plusieurs ass
 - [[Potamogeton lucens]]
 - [[Potamogeton pusillus]]
 - [[Zannichellia palustris]]
-- [[Spirodela polyrhiza|Lemna polyrrhiza]].
+- [[Spirodela polyrhiza|Lemna polyrrhiza]]
 
 **Associations :**
 
@@ -2525,7 +2617,7 @@ Alliance surtout médio-européenne, rare et très mal représentée dans la Ré
 - [[Lythrum portula|Peplis portula]]
 - [[Lysimachia minima|Centunculus minimus]] *(en Europe moyenne
 - dans le Midi
-- Juncus compressus se comporte plutôt comme caractéristique du Juncetum triflori)*.
+- Juncus compressus se comporte plutôt comme caractéristique du Juncetum triflori)*
 
 **Associations :**
 
@@ -2549,7 +2641,7 @@ Constitué par des associations gazonnantes éphémères, dépassant rarement 4 
 - [[Polygonum aviculare]] ssp. litorale
 - [[Polygonum romanum]]
 - [[Riccia michelii]]
-- [[Riccia beyrichiana|Riccia lescuriana]].
+- [[Riccia beyrichiana|Riccia lescuriana]]
 
 **Associations :**
 
@@ -2638,7 +2730,7 @@ La classe des Phragmitetea (roselières) occupe dans la Région méditerranéenn
 - [[Veronica beccabunga]]
 - [[Myosotis laxa subsp. cespitosa|Myosotis caespitosa]]
 - [[Scrophularia auriculata]]
-- [[Rorippa amphibia]].
+- [[Rorippa amphibia]]
 
 **Associations :**
 
@@ -2662,7 +2754,7 @@ La classe des Phragmitetea (roselières) occupe dans la Région méditerranéenn
 - [[Hydrocotyle vulgaris]]
 - [[Carex distans]] (OCR « nemorosa »)
 - [[Teucrium scordium subsp. scordioides|Teucrium scordoides]]
-- [[Gratiola officinalis]].
+- [[Gratiola officinalis]]
 
 **Associations :**
 
@@ -2684,7 +2776,7 @@ La classe des Phragmitetea (roselières) occupe dans la Région méditerranéenn
 - [[Polypogon maritimus]]
 - [[Salicornia europaea]] (S. herbacea s. l.)
 - [[Hordeum marinum|Hordeum maritimum]]
-- [[Spergularia media|Spergularia marginata]].
+- [[Spergularia media|Spergularia marginata]]
 
 ---
 
@@ -2696,7 +2788,7 @@ La classe des Phragmitetea (roselières) occupe dans la Région méditerranéenn
 
 - [[Halimione portulacoides|Atriplex portulacoides]] (Obione portulacoides)
 - [[Parapholis filiformis|Lepturus filiformis]]
-- [[Sagina maritima]].
+- [[Sagina maritima]]
 
 ---
 
@@ -2708,7 +2800,7 @@ La classe des Phragmitetea (roselières) occupe dans la Région méditerranéenn
 
 - [[Atriplex prostrata|Atriplex hastata]] var. triangulare
 - [[Salicornia europaea]] ssp. emerici
-- [[Oxybasis chenopodioides|Chenopodium crassifolium]] (OCR).
+- [[Oxybasis chenopodioides|Chenopodium crassifolium]] (OCR)
 
 **Associations :**
 
@@ -2728,7 +2820,7 @@ La classe des Phragmitetea (roselières) occupe dans la Région méditerranéenn
 - [[Puccinellia convoluta]]
 - [[Juncus subulatus]]
 - plus les algues [[Coleofasciculus chthonoplastes|Microcoleus chthonoplastes]]
-- [[Lyngbya aestuarii]].
+- [[Lyngbya aestuarii]]
 
 **Associations :**
 
@@ -2749,7 +2841,7 @@ Groupements cantonnés sur de petites élévations de terrain complètement dess
 - [[Plantago coronopus]] f. minor
 - [[Puccinellia convoluta]] var. tenuifolia
 - [[Parapholis incurva|Lepturus incurvatus]]
-- [[Limonium confusum]] (Statice confusa).
+- [[Limonium confusum]] (Statice confusa)
 
 **Associations :**
 
@@ -2774,7 +2866,7 @@ Entrent dans cet ordre tous les groupements formant les « prés salés ». Cons
 - [[Ranunculus sardous]]
 - [[Carex extensa]]
 - [[Elytrigia acuta|Elymus acutus]] (Agropyrum acutum)
-- [[Beta vulgaris subsp. maritima|Beta maritima]].
+- [[Beta vulgaris subsp. maritima|Beta maritima]]
 
 ---
 
@@ -2785,7 +2877,7 @@ Entrent dans cet ordre tous les groupements formant les « prés salés ». Cons
 **Espèces indicatrices :**
 
 - [[Scorzonera parviflora]]
-- [[Plantago cornuti]].
+- [[Plantago cornuti]]
 
 **Associations :**
 
@@ -2805,7 +2897,7 @@ Pelouses assez denses sur sol sablonneux et friable, en arrière des dunes litto
 - [[Linum maritimum]]
 - [[Blackstonia imperfoliata]] (Chlora imperfoliata)
 - [[Centaurium tenuiflorum]]
-- [[Anacamptis coriophora]] var. fragrans (Orchis fragrans).
+- [[Anacamptis coriophora]] var. fragrans (Orchis fragrans)
 
 **Associations :**
 
@@ -2855,7 +2947,7 @@ Dans la Région méditerranéenne française, les prairies de l'Arrhenatherion s
 **Espèces indicatrices :**
 
 - [[Juncus articulatus]]
-- [[Juncus inflexus]] ssp. longicornis — auxquelles se joignent les caractéristiques de l'ordre des [[Holoschoenetalia]] et du [[Molinio-Holoschoenion]].
+- [[Juncus inflexus]] ssp. longicornis — auxquelles se joignent les caractéristiques de l'ordre des [[Holoschoenetalia]] et du [[Molinio-Holoschoenion]]
 
 ---
 
@@ -2877,7 +2969,7 @@ Prairies à végétation assez dense et élevée qui, dans la succession privatr
 
 *Note :* les Holoschoenetalia recueillent toute une série d'espèces de l'ordre médio-européen des Molinietalia
 - qu'ils remplacent dans la Région méditerranéenne occidentale. Horvatic (1934) décrit sous le nom d'ass. à Peucedanum (OCR) et Molinia littoralis un groupement prairial de l'île de Pag (Dalmatie)
-- qui se rattache probablement aux Holoschoenetalia.
+- qui se rattache probablement aux Holoschoenetalia
 
 ---
 
@@ -2892,11 +2984,11 @@ Prairies à Graminées ou Joncacées élevées sur sol humide, riche en carbonat
 - [[Molinia caerulea]]
 - [[Pulicaria dysenterica]] var. microcephala
 - [[Lotus maritimus|Tetragonolobus siliquosus]] var. genuinus
-- [[Prunella vulgaris]] var.
+- [[Prunella vulgaris]] var
 - [[Oenanthe lachenalii]]
 - [[Carex panicea]]
 - [[Eupatorium cannabinum]]
-- [[Hypericum tetrapterum|Hypericum acutum]].
+- [[Hypericum tetrapterum|Hypericum acutum]]
 
 **Associations :**
 
@@ -2918,7 +3010,7 @@ Alliance méditerranéenne formant des pelouses rases sur sol marneux ou tassé,
 
 - [[Trifolium lappaceum]]
 - [[Lotus tenuis]]
-- [[Centaurium pulchellum]].
+- [[Centaurium pulchellum]]
 
 **Associations :**
 
@@ -2966,7 +3058,7 @@ Sur sol calcaire meuble et profond, en particulier dans les cultures abandonnée
 - [[Seseli tortuosum]]
 - [[Salvia verbenaca subsp. clandestina|Salvia clandestina]]
 - [[Diplotaxis viminea]]
-- [[Erodium acaule|Erodium romanum]].
+- [[Erodium acaule|Erodium romanum]]
 
 **Associations :**
 
@@ -3023,7 +3115,7 @@ Les groupements de cette alliance sont caractérisés par une xérophilie très 
 - [[Hippocrepis multisiliquosa]]
 - [[Viola kitaibeliana|Viola kitabeliana]]
 - [[Valerianella eriocarpa]]
-- [[Melilotus sulcatus]].
+- [[Melilotus sulcatus]]
 
 **Associations :**
 
@@ -3047,7 +3139,7 @@ Les calcaires dolomitiques des Causses, appartenant surtout au Bathonien, produi
 
 - [[Petrosedum ochroleucum|Hylotelephium anopetalum]]
 - [[Seseli galloprovinciale|Seseli glaucum]]
-- [[Helianthemum violaceum|Helianthemum pilosum]].
+- [[Helianthemum violaceum|Helianthemum pilosum]]
 
 **Associations :**
 
@@ -3074,7 +3166,7 @@ Les calcaires dolomitiques des Causses, appartenant surtout au Bathonien, produi
 - [[Seseli montanum]]
 - [[Knautia arvensis]] ssp. collina
 - [[Linum narbonense]]
-- [[Ononis pusilla]].
+- [[Ononis pusilla]]
 
 ---
 
@@ -3094,7 +3186,7 @@ Les groupements de cet ordre sont confinés à l'étage montagnard des montagnes
 - [[Euphorbia seguieriana]] var. dolomitica
 - [[Ranunculus gramineus]]
 - [[Narcissus assoanus|Narcissus juncifolius]]
-- [[Iberis saxatilis]].
+- [[Iberis saxatilis]]
 
 ---
 
@@ -3111,7 +3203,7 @@ Se rencontre sur les crêtes exposées, rocheuses, des basses montagnes calcaire
 - [[Klasea nudicaulis|Serratula nudicaulis]]
 - [[Bupleurum ranunculoides]] ssp. telonense. [[Teucrium aureum]] et [[Valeriana tuberosa]] se rencontrent aussi
 - mais moins fréquemment
-- dans l'[[Ononidion striatae]].
+- dans l'[[Ononidion striatae]]
 
 **Associations :**
 
@@ -3135,7 +3227,7 @@ Alliance méditerranéo-montagnarde répandue sur le pourtour méditerranéen de
 - [[Sesleria caerulea|Sesleria caerulea]] ssp. elegantissima
 - [[Plantago argentea]]
 - [[Euphorbia duvalii]]
-- [[Linum leonii|Linum anglicum]].
+- [[Linum leonii|Linum anglicum]]
 
 **Associations :**
 
@@ -3161,7 +3253,7 @@ Garrigues méditerranéennes arbustives et herbacées sur sol calcaréo-marneux 
 - [[Rhaponticum coniferum|Centaurea conifera]]
 - [[Euphorbia nicaeensis]]
 - [[Leontodon hirtus|Leontodon villarsii]]
-- [[Helianthemum oelandicum var. italicum|Helianthemum italicum]].
+- [[Helianthemum oelandicum var. italicum|Helianthemum italicum]]
 
 ---
 
@@ -3182,7 +3274,7 @@ L'Aphyllanthion forme des pelouses parfois denses, riches en Chaméphytes, sur s
 - [[Lotus corniculatus]] var. villosus
 - [[Campanula glomerata]] ssp. monspeliensis
 - [[Cirsium acaulon|Cirsium acaule]] var. flavispinum
-- [[Linum tenuifolium]].
+- [[Linum tenuifolium]]
 
 **Associations :**
 
@@ -3206,7 +3298,7 @@ Les garrigues du Midi méditerranéen doivent leur caractère particulier soit �
 - [[Genista pilosa]] ssp. jordani
 - [[Coris monspeliensis]]
 - [[Stipa juncea]]
-- [[Staehelina dubia]].
+- [[Staehelina dubia]]
 
 **Associations :**
 
@@ -3264,7 +3356,7 @@ Vers la limite septentrionale de la Région méditerranéenne, le Xerobromion ap
 - [[Polytrichum juniperinum]]
 - [[Cynosurus echinatus]]
 - [[Senecio lividus]]
-- [[Lathyrus sphaericus]].
+- [[Lathyrus sphaericus]]
 
 ---
 
@@ -3317,7 +3409,7 @@ Cette alliance est essentiellement silicicole. Elle réunit des associations de 
 - [[Trifolium cherleri]]
 - [[Trifolium subterraneum]]
 - [[Rumex bucephalophorus]]
-- [[Gongylanthus ericetorum]].
+- [[Gongylanthus ericetorum]]
 
 **Associations :**
 
@@ -3352,7 +3444,7 @@ Les landes de l'Ulicion, répandues dans l'Ouest de la France, s'avancent à tra
 - [[Erica cinerea]]
 - [[Ulex europaeus]]
 - [[Genista pilosa]] var. microphylla
-- [[Viola canina]] ssp.
+- [[Viola canina]] ssp
 
 **Associations :**
 
@@ -3370,7 +3462,7 @@ Les landes de l'Ulicion, répandues dans l'Ouest de la France, s'avancent à tra
 - [[Carex pilulifera]]
 - [[Betula pendula|Betula verrucosa]]
 - [[Veronica officinalis]]
-- [[Betonica officinalis|Stachys officinalis]] ssp.
+- [[Betonica officinalis|Stachys officinalis]] ssp
 
 ---
 
@@ -3428,7 +3520,7 @@ En Europe, l'aire du Quercion ilicis s'étend de la péninsule ibérique jusqu'e
 - [[Rhamnus saxatilis subsp. saxatilis|Rhamnus infectoria]]
 - [[Lathyrus latifolius var. ensifolius|Lathyrus ensifolius]] (L. membranaceus)
 - [[Bupleurum fruticosum]]
-- [[Piptatherum paradoxum|Oryzopsis paradoxa]].
+- [[Piptatherum paradoxum|Oryzopsis paradoxa]]
 
 **Associations :**
 
@@ -3458,7 +3550,7 @@ L'équivalent du Quercion ilicis dans les contrées chaudes de la Région médit
 - [[Cornus sanguinea]]
 - [[Viola reichenbachiana|Viola silvestris]]
 - [[Campanula trachelium|Campanula tracheliana]]
-- [[Geum urbanum]] s. l.
+- [[Geum urbanum]] s. l
 - [[Lonicera xylosteum]]
 - [[Mercurialis perennis]]
 - [[Ligustrum vulgare]]
@@ -3482,7 +3574,7 @@ L'équivalent du Quercion ilicis dans les contrées chaudes de la Région médit
 - [[Malus sylvestris|Pirus malus]]
 - [[Salix caprea]]
 - [[Prunus avium]]
-- [[Lamium maculatum]].
+- [[Lamium maculatum]]
 
 ---
 
@@ -3525,7 +3617,7 @@ Groupements forestiers arborescents ou arbustifs sur sol basique ou neutre. Ces 
 - [[Veronica teucrium]]
 - [[Fallopia dumetorum|Polygonum dumetorum]]
 - [[Dictamnus albus]]
-- [[Torilis japonica|Torilis anthriscus]].
+- [[Torilis japonica|Torilis anthriscus]]
 
 ---
 
@@ -3554,7 +3646,7 @@ Dans la Région méditerranéenne française, les chênaies à [[Quercus pubesce
 - [[Rhamnus alpina]]
 - [[Cotinus coggygria|Rhus cotinus]]
 - [[Melampyrum cristatum]]
-- [[Quercus pubescens]] × [[Quercus petraea|Q. sessiliflora]].
+- [[Quercus pubescens]] × [[Quercus petraea|Q. sessiliflora]]
 
 ---
 
@@ -3623,7 +3715,7 @@ L'Alneto-Ulmion est remplacé vers le Sud par le Populion albae, végétation ar
 
 ## Partie 4 — Espèces à correspondance TAXREFv18 non résolue (statuts R et P)
 
-Fiches espèces créées : `3_Flore/Autres-non classees/` (plantes) et `3_Flore/Autres groupes/` (lichens, mousses, algues). Dans les fiches associations, ces espèces restent sous le nom de 1952 (cible du lien inchangée) jusqu'à validation.
+Fiches espèces créées : `3_Flore/Autres-non classees/` (plantes) et `3_Flore/Autres groupes/` (lichens, mousses, algues). Dans les fiches associations, ces espèces restent sous le nom de 1952 jusqu'à validation.
 
 | Nom 1952 | Nom proposé | Statut | Note |
 |---|---|---|---|

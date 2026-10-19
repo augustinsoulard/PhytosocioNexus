@@ -3,53 +3,16 @@ tags:
   - association
 syntaxon_superieur: "[[Cistion ladaniferi]]"
 syntaxon_inferieur: 
-especes_indicatrices:
-  - "[[Erica scoparia]] (V)"
-  - "[[Carex oedipostyla]] (IV)"
-  - "[[Anacamptis morio subsp. picta|Orchis picta]] (III)"
-  - "alliance (Cistion ladaniferi) et ordre (Lavanduletalia stoechidis) : [[Cistus salviifolius|Cistus salvifolius]] (V)"
-  - "[[Calluna vulgaris]] (V)"
-  - "[[Lavandula stoechas]] (V)"
-  - "[[Cytinus hypocistis]] (I)"
-  - "[[Cetraria aculeata|Cornicularia aculeata]] (I)"
-  - "[[Cladonia mediterranea]] (I)"
-  - "[[Cladonia verticillata]] (I)"
-  - "[[Erica arborea]] (I)"
-  - "tg. As. [[Cistus crispus]] (I)"
-  - "tg. As. [[Cytisus spinosus|Calycotome spinosa]] (I)"
-  - "classe (Cisto-Lavanduletea) : [[Agrostis castellana]] (III)"
-  - "[[Briza maxima]] (III)"
-  - "[[Aira caryophyllea]] (III)"
-  - "[[Polytrichum piliferum]] (I)"
-  - "[[Polytrichum juniperinum]] (I)"
-  - "[[Cynosurus echinatus]] (I)"
-  - "[[Linum trigynum|Linum gallicum]] (I)"
-  - "[[Jasione montana]] (I)"
-  - "[[Andryala integrifolia]] var. sinuata (I)"
-  - "tg. Al. [[Vulpia bromoides|Vulpia dertonensis]] (II)"
-  - "tg. O. [[Aira cupaniana]] (II)"
-  - "tg. As. [[Tuberaria guttata|Helianthemum guttatum]] (II)"
-  - "tg. O. [[Silene gallica]] var. quinquevulnera (I)"
-  - "tg. As. [[Diatelia tuberaria|Helianthemum tuberaria]] (I)"
-  - "tg. As. [[Galium divaricatum]] (I)"
-  - "tg. O. [[Logfia gallica|Filago gallica]] (I)"
-  - "tg. As. [[Aira multiculmis|Aira multicuspis]] (I)"
-  - "tg. As. [[Corynephorus articulatus]] (I)"
-  - "différentielles par rapport au Cisto-Ericetum cinereae : Stereodon cupressiforme (L.) Brid. (III"
-  - "OCR)"
-  - "[[Betonica officinalis|Stachys officinalis]] (III)"
-  - "[[Genista pilosa]] (III)"
-  - "[[Bupleurum rigidum]] (III)"
-  - "[[Galatella sedifolia|Aster acris]] (III)"
-  - "[[Chrysopogon gryllus|Andropogon gryllus]] (II)"
-  - "[[Aphyllanthes monspeliensis]] (II)"
-  - "Ranunculus flabellatus (II"
-  - "OCR)"
-  - "[[Polygala vulgaris]] (II)"
-  - "[[Hypochaeris radicata|Hypochoeris radicata]] (II)"
+especes_indicatrices: 
 date_maj: 2026-10-19
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
+
+Syn. : Ass. à Erica scoparia et Lavandula stoechas Br.-Bl. 1931
+
+Espèces indicatrices : [[Erica scoparia]] (V), [[Carex oedipostyla]] (IV), [[Anacamptis morio subsp. picta|Orchis picta]] (III), alliance (Cistion ladaniferi) et ordre (Lavanduletalia stoechidis) : [[Cistus salviifolius|Cistus salvifolius]] (V), [[Calluna vulgaris]] (V), [[Lavandula stoechas]] (V), [[Cytinus hypocistis]] (I), [[Cetraria aculeata|Cornicularia aculeata]] (I), [[Cladonia mediterranea]] (I), [[Cladonia verticillata]] (I), [[Erica arborea]] (I), tg. As. [[Cistus crispus]] (I), tg. As. [[Cytisus spinosus|Calycotome spinosa]] (I), classe (Cisto-Lavanduletea) : [[Agrostis castellana]] (III), [[Briza maxima]] (III), [[Aira caryophyllea]] (III), [[Polytrichum piliferum]] (I), [[Polytrichum juniperinum]] (I), [[Cynosurus echinatus]] (I), [[Linum trigynum|Linum gallicum]] (I), [[Jasione montana]] (I), [[Andryala integrifolia]] var. sinuata (I), tg. Al. [[Vulpia bromoides|Vulpia dertonensis]] (II), tg. O. [[Aira cupaniana]] (II), tg. As. [[Tuberaria guttata|Helianthemum guttatum]] (II), tg. O. [[Silene gallica]] var. quinquevulnera (I), tg. As. [[Diatelia tuberaria|Helianthemum tuberaria]] (I), tg. As. [[Galium divaricatum]] (I), tg. O. [[Logfia gallica|Filago gallica]] (I), tg. As. [[Aira multiculmis|Aira multicuspis]] (I), tg. As. [[Corynephorus articulatus]] (I), différentielles par rapport au Cisto-Ericetum cinereae : Stereodon cupressiforme (L.) Brid. (III, OCR), [[Betonica officinalis|Stachys officinalis]] (III), [[Genista pilosa]] (III), [[Bupleurum rigidum]] (III), [[Galatella sedifolia|Aster acris]] (III), [[Chrysopogon gryllus|Andropogon gryllus]] (II), [[Aphyllanthes monspeliensis]] (II), Ranunculus flabellatus (II, OCR), [[Polygala vulgaris]] (II), [[Hypochaeris radicata|Hypochoeris radicata]] (II).
+
+Écologie : l'association bien développée est localisée sur les terrasses pliocènes et quaternaires décalcifiées, riches en cailloux quartzitiques, de la plaine languedocienne. C'est un stade avancé de dégradation du Quercetum ilicis, en landes plus ou moins continues, riches en Lichens fruticuleux. Après l'incendie, souvent pratiqué, le tapis lichénique détruit se régénère très lentement. Le sol est une terre brune très caillouteuse, faiblement acide, à quatre horizons : Ao, litière de feuilles mortes de Cistes et d'Éricacées (pH 5) ; A, terre brun-gris foncé, plus ou moins sablonneuse (pH 5,5–6) ; A2, horizon gris-jaunâtre (pH 5,1–6,5 (6,8)) ; B, rougeâtre ou rouge brique (pH 5–5,9). On peut distinguer plusieurs variantes et faciès qui, en partie, correspondent à différentes étapes de l'évolution. Restes du Quercion ilicis : [[Phillyrea angustifolia]] (V), [[Quercus coccifera]] (V), [[Quercus ilex]] (V), [[Daphne gnidium]] (IV), [[Rubia peregrina]] (III), [[Pistacia lentiscus]] (II), [[Teucrium chamaedrys]] ssp. pinnatifidum (II), [[Lonicera implexa]] (II), [[Arbutus unedo]] (I). Compagnes : [[Cistus monspeliensis]] (V), [[Dorycnium suffruticosum]] (IV), [[Brachypodium ramosum]] (III), [[Anthoxanthum odoratum]] (III), [[Avena bromoides]] (III), [[Carex halleriana]] (III), [[Hieracium pilosella]] (III). Cryptogames : [[Cladonia rangiformis]] (V), [[Cladonia endiviaefolia]] (V), [[Cladonia pyxidata]] (V), [[Pleurochaete squarrosa]] (IV).

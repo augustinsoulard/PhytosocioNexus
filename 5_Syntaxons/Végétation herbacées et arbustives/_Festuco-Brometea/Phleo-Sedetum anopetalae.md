@@ -3,17 +3,16 @@ tags:
   - association
 syntaxon_superieur: "[[Armerion junceae]]"
 syntaxon_inferieur: 
-especes_indicatrices:
-  - "[[Silene otites]] var. calcicola (IV/IV)"
-  - "[[Vulpia membranacea|Vulpia longiseta]] (III/IV)"
-  - "sous-ass. a : [[Alkanna matthioli|Alkanna tinctoria]] (IV)"
-  - "[[Chaenorhinum rubrifolium|Linaria rubrifolia]] (II)"
-  - "[[Loeflingia hispanica]] (I)"
-  - "[[Clypeola jonthlaspi|Clypeola gracilis]] (I)"
-  - "sous-ass. b : [[Alyssum serpyllifolium]] (V)"
+especes_indicatrices: 
 date_maj: 2026-10-19
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
+
+Syn. : Ass. à Phleum arenarium et Plantago arenaria Br.-Bl. 1931
+
+Espèces indicatrices : [[Silene otites]] var. calcicola (IV/IV), [[Vulpia membranacea|Vulpia longiseta]] (III/IV), sous-ass. a : [[Alkanna matthioli|Alkanna tinctoria]] (IV), [[Chaenorhinum rubrifolium|Linaria rubrifolia]] (II), [[Loeflingia hispanica]] (I), [[Clypeola jonthlaspi|Clypeola gracilis]] (I), sous-ass. b : [[Alyssum serpyllifolium]] (V).
+
+Écologie : pelouses ouvertes à [[Corynephorus canescens]] sur sables dolomitiques, peu pierreux et secs, du Bajocien-Bathonien cévenol ; ces amas de sable sont parfois très profonds (1,50 m). Par la texture du sable, elles se rapprochent des arènes siliceuses, ce qui semble expliquer l'abondance du Corynephorus. Offre de nombreux traits communs avec le [[Cariceto-Crepidetum suffrenianae]] de Provence. Compagnes : [[Helichrysum stoechas]] var. dolomiticum (V/V), [[Helianthemum hirtum]] (IV/IV), [[Silene conica]] (IV/IV), [[Artemisia campestris]] (II/V), [[Thymus vulgaris]] (IV/II), [[Plantago indica]] (II/IV), [[Festuca ovina]] ssp. duriuscula (III/III), [[Poa bulbosa]] (III/II), [[Minuartia tenuifolia]] var. laxa (III/II), [[Jasione montana]] (III/II), [[Tortella inclinata]] (II/II, mousse).

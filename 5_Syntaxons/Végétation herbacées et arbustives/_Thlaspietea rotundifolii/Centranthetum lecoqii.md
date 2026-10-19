@@ -1,9 +1,16 @@
-Physionomie : Végétation herbacée vivace, clairsemée et peu couvrante, rarement bien exprimée, marquée par la présence de touffes diffuses de Centranthus lecoqii. 
+---
+tags:
+  - association
+syntaxon_superieur: "[[Pimpinelleto-Gouffeion]]"
+syntaxon_inferieur: 
+especes_indicatrices: 
+date_maj: 2026-10-19
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+---
 
-Espèces indicatrices : [[Centranthus lecoqii]], [[Laserpitium gallicum]], [[Linaria supina]], [[Cephalaria leucantha]]. 
+Espèces indicatrices : [[Centranthus angustifolius]] (V), [[Iberis intermedia]] ssp. maialis (I).
 
-Écologie : Végétation héliophile, xérophile et thermophile colonisant des éboulis calcaires à éléments fins peu mobiles des altitudes basses, à diverses expositions. Étage mésoméditerranéen. 
-
-Chorologie : massif des Alpilles.
-
-#association 
+Écologie : pentes chaudes à éboulis calcaires ; faible degré de recouvrement dû surtout à la nature du substratum (fragments de calcaire compact de 5–20 cm de diamètre) contenant peu de terre fine. Souvent représentée par fragments, l'association est rapidement envahie par les arbustes.

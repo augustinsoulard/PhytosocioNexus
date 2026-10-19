@@ -3,16 +3,14 @@ tags:
   - association
 syntaxon_superieur: "[[Aphyllanthion]]"
 syntaxon_inferieur: 
-especes_indicatrices:
-  - "[[Thymus serpyllum]] ssp. angustifolius (V/IV/IV)"
-  - "[[Linum appressum|Linum salsoloides]] (V/II/II)"
-  - "[[Carthamus carduncellus|Carduncellus monspeliensium]] (II/I/I)"
-  - "[[Hedysarum humile]] (–/I/I)"
-  - "[[Astragalus incanus]] (–/II/–)"
-  - "[[Brassica repanda subsp. saxatilis|Diplotaxis saxatilis]] ssp. humilis (I/–/–)"
+especes_indicatrices: 
 date_maj: 2026-10-19
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
+
+Espèces indicatrices : [[Thymus serpyllum]] ssp. angustifolius (V/IV/IV), [[Linum appressum|Linum salsoloides]] (V/II/II), [[Carthamus carduncellus|Carduncellus monspeliensium]] (II/I/I), [[Hedysarum humile]] (–/I/I), [[Astragalus incanus]] (–/II/–), [[Brassica repanda subsp. saxatilis|Diplotaxis saxatilis]] ssp. humilis (I/–/–).
+
+Écologie : pelouses pâturées à Graminées et Chaméphytes sous-frutescents ([[Lavandula latifolia]], [[Dorycnium suffruticosum]], [[Fumana]]), parsemées de quelques buissons de [[Genista scorpius]] et [[Juniperus oxycedrus]]. S' établit sur des sols faiblement aérés, gorgés d'eau après les pluies, appartenant à la série des « Terres jaunes méditerranéennes » : malgré la disparition des horizons primitifs supérieurs, le profil peut atteindre 1 m de profondeur (Ao mince avec coprolithes ; Ar de 25 à 30 cm, faiblement humifère, toujours calcaire ; Az de même épaisseur, avec souvent des efflorescences de carbonate) ; tous les horizons sont basiques. Le microclimat de la station est caractérisé par des températures moyennes inférieures de dix degrés à celles enregistrées à la même époque dans la pelouse à [[Brachypodium ramosum]], par une plus faible évaporation et un ensoleillement moindre. Compagnes de haute présence : [[Festuca ovina]] ssp. duriuscula (V/V/V), [[Genista scorpius]] (V/V/V), [[Thymus vulgaris]] (III/V/III), [[Bromus erectus]] (III/IV/IV), [[Eryngium campestre]] (IV/IV/III), [[Brachypodium phoenicoides]] (III/III/IV), [[Bupleurum rigidum]] (III/III/III), [[Dorycnium suffruticosum]] (III/III/III), [[Teucrium polium]] (V/V/I), [[Hieracium pilosella]] (III/III/I), [[Schoenus nigricans]] (–/–/IV).
