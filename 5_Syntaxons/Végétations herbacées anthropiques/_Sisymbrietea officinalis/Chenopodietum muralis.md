@@ -4,13 +4,16 @@ tags:
 syntaxon_superieur: "[[Chenopodion muralis]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
-date_maj: 2026-10-19
+date_maj: 2026-10-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
+**Description :** Végétation annuelle assez dense, d'expression estivo-automnale, d'une teinte verte assez sombre, largement dominée par les Chenopodiaceae mais à la physionomie très variable selon les saisons et les années. Une variante des substrats perturbés en situation littorale peut être distinguée (atriplicetosum tataricae Braun-Blanq. in Braun-Blanq. et al. 1952) montrant Atriplex tatarica dominant, associé à quelques espèces halotolérantes.
 
-Espèces indicatrices : [[Chenopodiastrum murale|Chenopodium murale]] (V/III), [[Chenopodium album subsp. opulifolium|Chenopodium opulifolium]] (V/III), [[Amaranthus deflexus]] (II/IV), [[Chenopodium vulvaria]] (IV/II), [[Sisymbrium irio]] (IV/I), [[Hyoscyamus albus]] (II), [[Sisymbrium runcinatum]] (I).
+Espèces indicatrices : [[Chenopodium murale]], [[Chenopodium album subsp. album]], [[Chenopodium album subsp. opulifolium]], [[Sonchus oleraceus]].
 
-Écologie : alentours immédiats des habitations, décombres, dépôts d'ordures riches en nitrates.
+Écologie : Végétation thermophile pionnière, très nitrophile des terrains perturbés eutrophes, légèrement humides (décombres, zones de reposoirs des troupeaux, dépôts divers, etc.). Étage mésoméditerranéen.
+
+Chorologie BdR (13) : Calanques ; potentielle dans tout le département.

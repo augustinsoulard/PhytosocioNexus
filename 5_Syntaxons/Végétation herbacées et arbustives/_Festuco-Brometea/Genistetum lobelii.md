@@ -1,18 +1,7 @@
 ---
-tags:
-  - association
+tags: - association
 syntaxon_superieur: "[[Genistion lobelii]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Syn. : Ass. à Genista Lobelii et Potentilla cinerea Mol. 1934
-
-Espèces indicatrices : [[Genista lobelii]] (V/I), [[Scorzonera austriaca]] (IV/I), [[Brassica repanda subsp. saxatilis|Diplotaxis saxatilis]] ssp. gerardi (II/I), [[Sempervivum tectorum]] var. calcareum (I), [[Iberis saxatilis]] var. recurvifolia (IV), [[Potentilla cinerea]] f. velutina (III), [[Ephedra major subsp. major|Ephedra villarsii]] (I), [[Jurinea humilis]] (I), [[Genista pulchella|Genista villarsii]] (–/3, sous-ass. b).
-
-Écologie : décrite des basses montagnes provençales. Les replats très caillouteux des crêtes, et plus rarement les hautes pentes exposées au Nord, sont envahis par les touffes compactes et épineuses du [[Genista lobelii]] qui prédomine ; il est remplacé dans la Haute-Provence par [[Genista villarsii]]. Association cantonnée sur les crêtes élevées exposées au vent, où elle reçoit des précipitations atmosphériques abondantes et supporte de fortes variations de températures ; le vent emporte souvent le sol et les plantes déracinées flottent, maintenues par de grosses racines solidement ancrées dans les fissures du rocher. Compagnes de haute présence : [[Cerastium arvense]] ssp. laricifolium (V), [[Festuca ovina]] ssp. duriuscula (V), [[Thymus vulgaris]] (V), [[Galium mollugo]] ssp. corrudifolium (III), [[Sesleria coerulea|Sesleria caerulea]] (IV), [[Carex halleriana]] (IV), [[Santolina chamaecyparissus]] var. villosissima (IV), [[Juniperus phoenicea]] (III), [[Sedum anopetalum|Hylotelephium anopetalum]] (III), [[Anthyllis vulneraria]] (III), [[Teucrium chamaedrys]] (III).
+syntaxon_inferieur: especes_indicatrices: date_maj: 2026-10-19
+auteurs: - Augustin Soulard
+sources: - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+--- Syn. : Ass. à Genista Lobelii et Potentilla cinerea Mol. 1934 Espèces indicatrices : [[Genista lobelii]] (V/I), [[Scorzonera austriaca]] (IV/I), [[Brassica repanda subsp. saxatilis|Diplotaxis saxatilis]] ssp. gerardi (II/I), [[Sempervivum tectorum]] var. calcareum (I), [[Iberis saxatilis]] var. recurvifolia (IV), [[Potentilla cinerea]] f. velutina (III), [[Ephedra major subsp. major|Ephedra villarsii]] (I), [[Jurinea humilis]] (I), [[Genista pulchella|Genista villarsii]] (–/3, sous-ass. b). Écologie : décrite des basses montagnes provençales. Les replats très caillouteux des crêtes, et plus rarement les hautes pentes exposées au Nord, sont envahis par les touffes compactes et épineuses du [[Genista lobelii]] qui prédomine ; il est remplacé dans la Haute-Provence par [[Genista villarsii]]. Association cantonnée sur les crêtes élevées exposées au vent, où elle reçoit des précipitations atmosphériques abondantes et supporte de fortes variations de températures ; le vent emporte souvent le sol et les plantes déracinées flottent, maintenues par de grosses racines solidement ancrées dans les fissures du rocher. Compagnes de haute présence : [[Cerastium arvense]] ssp. laricifolium (V), [[Festuca ovina]] ssp. duriuscula (V), [[Thymus vulgaris]] (V), [[Galium mollugo]] ssp. corrudifolium (III), [[Sesleria coerulea|Sesleria caerulea]] (IV), [[Carex halleriana]] (IV), [[Santolina chamaecyparissus]] var. villosissima (IV), [[Juniperus phoenicea]] (III), [[Sedum anopetalum|Hylotelephium anopetalum]] (III), [[Anthyllis vulneraria]] (III), [[Teucrium chamaedrys]] (III).
