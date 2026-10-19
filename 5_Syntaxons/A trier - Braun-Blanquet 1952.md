@@ -423,15 +423,15 @@ Espèces indicatrices : association : [[Acer negundo]] (III/III), [[Iris foetidi
 
 ### 1b. Fiches préexistantes (infos 1952 à arbitrer)
 
-#### Armerietum ruscinonensis
+Les associations ci-dessous ont une fiche existante dans le dépôt (source CatVeg/Noble ou fiche remplie par ailleurs). Les informations de 1952 sont à arbitrer : si la fiche existante convient, merger le contenu ci-dessous dedans ; sinon déplacer la fiche.
 
-*Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Armerietum ruscinonensis.md`
+#### Onopordetum illyrici — fiche existante par ailleurs, contenu 1952 à arbitrer
 
 ```markdown
 ---
 tags:
   - association
-syntaxon_superieur: "[[Crithmo-Staticion]]"
+syntaxon_superieur: "[[Brachypodion phoenicoidis]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-10-19
@@ -441,21 +441,20 @@ sources:
   - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
 
-Espèces indicatrices : [[Armeria ruscinonensis]], [[Limonium tremolsii]] (Statice tremolsii).
+Syn. : Ass. à Poa bulbosa et Onopordon illyricum Br.-Bl. 1931
 
-Écologie : rochers calcaires siluriens battus par les vagues ; dans la zone des embruns, jusqu'à 40 m au-dessus du niveau de la mer, les fentes des rochers sont occupées par un petit nombre d'espèces supportant bien les embruns. Avec l'éloignement de la mer, les halophiles disparaissent ; [[Thymelaea hirsuta]] y prend la place du [[Thymelaea tartonraira]] de Provence, sans être caractéristique du groupement.
+Espèces indicatrices : [[Carthamus lanatus|Rhagadiolus stellatus]] (V), [[Onopordum illyricum]] (V), [[Camphorosma monspeliaca]] (IV), [[Cynoglossum cheirifolium]] (IV), [[Tyrimnus leucographus]] (III), [[Mantisalca salmantica|Centaurea salmantica]] (III), [[Verbascum pulverulentum]] (II), [[Scolymus maculatus]] (I), [[Carlina lanata]] (I).
 
+Écologie : groupement nitrophile, dominé par des Composées épineuses non broutées et par [[Poa bulbosa]]. S'installe dans le domaine du [[Brachypodietum ramosi]], sur la terra rossa, mais uniquement là où les ovins séjournent fréquemment : le piétinement et l'enrichissement par les moutons provoquent la transformation du Brachypodietum ramosi en Onopordetum (évolution suivie pas à pas depuis une trentaine d'années) ; les groupements intermédiaires, peu évolués ou mixtes (Brachypodietum-Onopordetum), ne sont point rares.
 ```
 
-#### Crucianelletum maritimae
-
-*Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Ammophiletea/Crucianelletum maritimae.md`
+#### Suaedetum fruticosae — fiche existante par ailleurs, contenu 1952 à arbitrer
 
 ```markdown
 ---
 tags:
   - association
-syntaxon_superieur: "[[Ammophilion]]"
+syntaxon_superieur: "[[Hordeion]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
 date_maj: 2026-10-19
@@ -465,136 +464,23 @@ sources:
   - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
 
-Espèces indicatrices : [[Crucianella maritima]] (V), [[Teucrium polium]] var. maritimum (V), [[Helichrysum stoechas]] var. maritimum (V), [[Artemisia campestris]] var. glutinosa (V), [[Pancratium maritimum]] (V), [[Scabiosa atropurpurea|Scabiosa maritima]] var. typica (IV), [[Catapodium hemipoa|Scleropoa hemipoa]] (III), [[Ononis ramosissima]] (III), [[Scrophularia canina]] ssp. humifusa.
+Syn. : Ass. à Suaeda fruticosa et Lepturus incurvatus
 
-Écologie : dunes consolidées, mais non définitivement fixées, et replats et petites dépressions entre et en arrière des dunes. Le sable calcaire, moins perméable que celui de l'Ammophiletum, contient un peu d'humus dans la couche supérieure. Les arbrisseaux nains dominent et forment un tapis assez dense de 30–40 cm de haut. Un mètre carré contient en moyenne une centaine de plantules appartenant exclusivement aux espèces de l'association.
+Espèces indicatrices : [[Suaeda vera|Suaeda fruticosa]] (V), différentielles halophiles par rapport aux autres associations du Hordeion : [[Parapholis incurva|Lepturus incurvatus]] (III), [[Halimione portulacoides|Atriplex portulacoides]] (III), [[Elytrigia acuta|Agropyron acutum]] (II), [[Polypogon maritimus]] (II), [[Sagina maritima]] (I).
 
+Écologie : association de physionomie très particulière, caractérisée par la dominance du Suaeda, mais peu individualisée au point de vue floristique. [[Suaeda fruticosa]] forme des buissons touffus de plus d'un mètre de haut, parmi lesquels s'installent des thérophytes qui disparaissent tôt dans l'année et quelques chaméphytes halophiles. Sol sec, riche en carbonate de calcium, friable, parfois un peu sablonneux. Groupement faiblement halophile et nitrophile.
 ```
 
-#### Ranunculetum baudotii
+#### Polycnemo arvensis-Linarietum spuriae — fiche existante, contenu 1952 fusionné par l'auteur (voir `5_Syntaxons/Végétations herbacées anthropiques/_Stellarietea mediae/Polycnemo arvensis-Linarietum spuriae.md`)
 
-*Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Potametea/Ranunculetum baudotii.md`
+#### Androsaco maximae-Iberidetum pinnatae — fiche existante, contenu 1952 fusionné par l'auteur (voir `5_Syntaxons/Végétations herbacées anthropiques/_Stellarietea mediae/Androsaco maximae-Iberidetum pinnatae.md`)
 
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Ruppion maritimi]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Ranunculus trichophyllus]], [[Ranunculus baudotii]], [[Zannichellia pedunculata]], [[Callitriche]] sp, avec [[Chara canescens|Chara crinita]], [[Bolboschoenus maritimus|Scirpus maritimus]], [[Phragmites australis]], [[Alisma lanceolatum]].
-
-Écologie : fossés et cuvettes d'eau très peu salée (relevé type à Saint-Nazaire, fossé de 60 cm, recouvrement 100 %).
-
-```
-
-#### Cyperetum flavescentis
-
-*Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Juncetea bufonii/Cyperetum flavescentis.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Nanocyperion flavescentis]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Cyperus flavescens]] (V), [[Cyperus fuscus]] (IV), [[Carex pseudocyperus|Carex cyperus]] (I) *(Carex elata ? — OCR « Carex Elderi »)*.
-
-Écologie : sols spongieux à vase noirâtre renfermant des matériaux organiques en décomposition.
-
-```
-
-#### Cardaminetum latifoliae
-
-*Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Montio fontanae-Cardaminetea amarae/Cardaminetum latifoliae.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Cardamineto-Montion]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Cardamine raphanifolia|Cardamine latifolia]] (5.4).
-
-Écologie : dans les terrains siliceux, forme une mégaphorbiaie parfois haute de 40–50 cm, en bordure des sources fraîches et abondantes à courant rapide. Meilleur développement à l'étage subalpin, en dehors de la Région méditerranéenne proprement dite.
-
-```
-
-#### Scirpetum maritimi
-
-*Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Phragmiti australis-Magnocaricetea elatae/Scirpetum maritimi.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Phragmition]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Bolboschoenus maritimus|Scirpus maritimus]] (V/V), [[Schoenoplectus litoralis|Scirpus littoralis]] (II/IV), [[Schoenoplectus pungens|Scirpus pungens]] (V), [[Typha angustifolia]] ssp. australis (IV), [[Typha laxmannii|Typha laxmanni]] (II).
-
-Écologie : colonise les vases fines au bord des étangs et des fleuves de la région côtière. Faiblement halophile, supporte un dessèchement temporaire.
-
-```
-
-#### Caricetum elatae
-
-*Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Phragmiti australis-Magnocaricetea elatae/Caricetum elatae.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Magnocaricion elatae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Stachys palustris]] (IV), [[Scutellaria galericulata]] (I), [[Jacobaea paludosa|Senecio paludosus]] (I) *(caractéristiques de l'association médio-européenne)*.
-
-Écologie : les touffes denses de [[Carex elata]] atteignent 30–40 cm de diamètre, formant des « touradons » séparés par des cuvettes généralement remplies d'eau ; celle-ci peut se retirer complètement en été, mais le sol reste fortement humide. Le vide entre les touradons se comble peu à peu de débris végétaux et de dépôts calcaires ; le sol s'exhausse, l'immersion hivernale prolongée nécessaire à [[Carex elata]] n'est plus assurée et l'association est remplacée par une association des Molinio-Holoschoenetalia.
-
-```
 
 ### 1c. Non mentionnées dans une fiche alliance/sous-alliance existante (critère strict)
 
 #### Potentilleto-Saxifragetum cebennensis
 
+*Alliance CatVeg proposée :* [[Trifolio montani-Arrhenatherenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Potentilleto-Saxifragetum cebennensis.md`
 
 ```markdown
@@ -629,6 +515,7 @@ Espèces indicatrices : [[Potentilla caulescens]] var. cebennensis (V⁺), [[Ker
 
 #### Sileno-Asplenietum fontani
 
+*Alliance CatVeg proposée :* [[Asplenion]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Sileno-Asplenietum fontani.md`
 
 ```markdown
@@ -655,6 +542,7 @@ Espèces indicatrices : [[Asplenium fontanum]] (V), [[Globularia repens|Globular
 
 #### Linarieto-Galietum pusilli
 
+*Alliance CatVeg proposée :* [[Rumici thyrsiflori-Arrhenatherenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Linarieto-Galietum pusilli.md`
 
 ```markdown
@@ -679,56 +567,9 @@ Espèces indicatrices : [[Galium pusillum]] (V), [[Chaenorhinum origanifolium|Li
 
 ```
 
-#### Saxifragetum lingulatae
-
-*Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Saxifragetum lingulatae.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Saxifragion lingulatae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Saxifraga callosa|Saxifraga lingulata]] (V), [[Potentilla caulescens]] var. petiolulosa (IV), [[Moehringia lebrunii|Moehringia papulosa]] (II⁻), [[Kernera saxatilis|Kernera auriculata]] (I⁻).
-
-Écologie : pentes de 60–110 % d'inclinaison, à toute exposition, entre 820–1 400 m. Optimum sur les rochers calcaires de Viévola, au-dessus de Tende (1 100 m).
-
-```
-
-#### Potentilletum saxifragae
-
-*Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Potentilletum saxifragae.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Saxifragion lingulatae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Potentilla saxifraga]] (V⁺/IV⁺), [[Saxifraga cochlearis]] (V⁻/IV⁻), [[Euphorbia spinosa]] (IV⁺/V⁺), [[Thymelaea dioica]] (V⁻), [[Jacobaea maritima|Senecio cineraria]] (III⁻), [[Acanthoprasium frutescens|Ballota frutescens]] (II⁻), [[Saxifraga lantoscana]] (I⁻).
-
-Écologie : pentes de 80–100 % d'inclinaison, surtout aux expositions Nord et Ouest, entre 400–950 m. Optimum au-dessus de Fontan (600 m) ; limite inférieure imprécise.
-
-```
-
 #### Primuletum allioni
 
+*Alliance CatVeg proposée :* [[Androsacion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Primuletum allioni.md`
 
 ```markdown
@@ -753,6 +594,7 @@ Espèces indicatrices : [[Moehringia dasyphylla]] (V⁺), [[Primula allionii|Pri
 
 #### Polypodietum serrati
 
+*Alliance CatVeg proposée :* [[Polypodion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Anogrammo leptophyllae-Polypodietea cambrici/Polypodietum serrati.md`
 
 ```markdown
@@ -779,6 +621,7 @@ Espèces indicatrices : [[Polypodium cambricum subsp. cambricum|Polypodium serra
 
 #### Phagnaleto-Asplenietum glandulosi
 
+*Alliance CatVeg proposée :* [[Armerio maritimae-Asplenienion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Phagnaleto-Asplenietum glandulosi.md`
 
 ```markdown
@@ -805,6 +648,7 @@ Espèces indicatrices : [[Asplenium petrarchae|Asplenium glandulosum]] (IVᵉ/V�
 
 #### Diantheto-Lavateretum maritimae
 
+*Alliance CatVeg proposée :* [[Beto maritimae-Malvion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Diantheto-Lavateretum maritimae.md`
 
 ```markdown
@@ -831,6 +675,7 @@ Espèces indicatrices : [[Hormathophylla spinosa|Alyssum spinosum]] (V⁺), [[Di
 
 #### Hieracietum stelligeri
 
+*Alliance CatVeg proposée :* [[Saxifragion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Hieracietum stelligeri.md`
 
 ```markdown
@@ -857,6 +702,7 @@ Espèces indicatrices : [[Hieracium stelligerum]] (IV), [[Ephedra major subsp. m
 
 #### Asplenieto-Campanuletum macrorrhizae
 
+*Alliance CatVeg proposée :* [[Asplenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Asplenieto-Campanuletum macrorrhizae.md`
 
 ```markdown
@@ -881,6 +727,7 @@ Espèces indicatrices : [[Piptatherum coerulescens|Oryzopsis coerulescens]] (3+)
 
 #### Parietarietum murale
 
+*Alliance CatVeg proposée :* [[Valantio muralis-Galion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Parietarietum murale.md`
 
 ```markdown
@@ -907,6 +754,7 @@ Espèces indicatrices : [[Parietaria judaica]] (V), [[Cymbalaria muralis|Linaria
 
 #### Antirrhineto-Sedetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Antirrhineto-Sedetum.md`
 
 ```markdown
@@ -933,6 +781,7 @@ Espèces indicatrices : [[Asarina procumbens|Antirrhinum asarina]] (IV), [[Asple
 
 #### Asarinetum rupestre
 
+*Alliance CatVeg proposée :* [[Antirrhinion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Asplenietea trichomanis/Asarinetum rupestre.md`
 
 ```markdown
@@ -957,6 +806,7 @@ Espèces indicatrices : [[Asplenium obovatum subsp. billotii|Asplenium lanceolat
 
 #### Eucladieto-Adiantetum
 
+*Alliance CatVeg proposée :* [[Adiantion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Adiantetea capilli-veneris/Eucladieto-Adiantetum.md`
 
 ```markdown
@@ -983,6 +833,7 @@ Espèces indicatrices : [[Adiantum capillus-veneris]] (V).
 
 #### Cariceto-Pinguiculetum longifoliae
 
+*Alliance CatVeg proposée :* [[Pinguiculion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Adiantetea capilli-veneris/Cariceto-Pinguiculetum longifoliae.md`
 
 ```markdown
@@ -1007,6 +858,7 @@ Espèces indicatrices : [[Carex brachystachys|Carex tenuis]], [[Eucladium vertic
 
 #### Crithmo-Staticetum
 
+*Alliance CatVeg proposée :* [[Adiantion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Crithmo-Staticetum.md`
 
 ```markdown
@@ -1031,6 +883,7 @@ Espèces indicatrices : [[Lotus cytisoides]] f. drepanocarpus (II), [[Senecio le
 
 #### Astragaletum-Plantaginetum subulatae
 
+*Alliance CatVeg proposée :* [[Crithmo maritimi-Limonienion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Astragaletum-Plantaginetum subulatae.md`
 
 ```markdown
@@ -1057,6 +910,7 @@ Espèces indicatrices : [[Astragalus tragacantha|Astragalus massiliensis]] (V), 
 
 #### Crithmo-Lotetum allionii
 
+*Alliance CatVeg proposée :* [[Adiantion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Crithmo-Lotetum allionii.md`
 
 ```markdown
@@ -1083,6 +937,7 @@ Espèces indicatrices : [[Lotus cytisoides|Lotus allionii]] (V), [[Anthyllis bar
 
 #### Calamagrostideto-Centranthetum angustifolii
 
+*Alliance CatVeg proposée :* [[Asplenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Thlaspietea rotundifolii/Calamagrostideto-Centranthetum angustifolii.md`
 
 ```markdown
@@ -1107,6 +962,7 @@ Espèces indicatrices : [[Achnatherum calamagrostis|Stipa calamagrostis]] (2.3),
 
 #### Gouffeetum arenarioidis
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Thlaspietea rotundifolii/Gouffeetum arenarioidis.md`
 
 ```markdown
@@ -1133,6 +989,7 @@ Espèces indicatrices : [[Arenaria provincialis|Gouffea arenarioides]] (IV), [[C
 
 #### Centranthetum lecoqii
 
+*Alliance CatVeg proposée :* [[Asplenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Thlaspietea rotundifolii/Centranthetum lecoqii.md`
 
 ```markdown
@@ -1157,6 +1014,7 @@ Espèces indicatrices : [[Centranthus angustifolius]] (V), [[Iberis intermedia]]
 
 #### Glaucieto-Scrophularietum caninae
 
+*Alliance CatVeg proposée :* [[Crucianellion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Thlaspietea rotundifolii/Glaucieto-Scrophularietum caninae.md`
 
 ```markdown
@@ -1181,6 +1039,7 @@ Espèces indicatrices : [[Glaucium flavum]] (V), [[Erucastrum nasturtiifolium]] 
 
 #### Agropyretum mediterraneum
 
+*Alliance CatVeg proposée :* [[Artemisio-Agropyrion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Ammophiletea/Agropyretum mediterraneum.md`
 
 ```markdown
@@ -1207,6 +1066,7 @@ Espèces indicatrices : [[Elytrigia juncea]] ssp. mediterranea (V), [[Sporobolus
 
 #### Ammophiletum arundinaceae
 
+*Alliance CatVeg proposée :* [[Ammophilenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Ammophiletea/Ammophiletum arundinaceae.md`
 
 ```markdown
@@ -1231,34 +1091,9 @@ Espèces indicatrices : [[Ammophila arenaria]] ssp. arundinacea (V), [[Medicago 
 
 ```
 
-#### Scleranthetum annui
-
-*Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Stellarietea mediae/Scleranthetum annui.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Scleranthion annui]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Syn. : Ass. à Scleranthus annuus Br.-Bl. 1915 ; Ass. à Scleranthus annuus et Rumex acetosella Liou Tchen-Ngo 1929 ; Ass. à Scleranthus annuus et Spergula arvensis Br.-Bl. 1931
-
-Espèces indicatrices : [[Scleranthus annuus]] (IV), [[Rumex acetosella]] (II), [[Spergula arvensis]] (I).
-
-Écologie : moissons sur sols siliceux.
-
-```
-
 #### Diplotaxidetum erucoidis
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Stellarietea mediae/Diplotaxidetum erucoidis.md`
 
 ```markdown
@@ -1285,6 +1120,7 @@ Espèces indicatrices : [[Setaria verticillata]] (IV), [[Diplotaxis erucoides]] 
 
 #### Eragrostido-Chenopodietum
 
+*Alliance CatVeg proposée :* [[Chenopodion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Stellarietea mediae/Eragrostido-Chenopodietum.md`
 
 ```markdown
@@ -1311,6 +1147,7 @@ Espèces indicatrices : [[Dysphania botrys|Chenopodium botrys]] (3-2), [[Eragros
 
 #### Chenopodietum muralis
 
+*Alliance CatVeg proposée :* [[Chenopodion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Sisymbrietea officinalis/Chenopodietum muralis.md`
 
 ```markdown
@@ -1335,6 +1172,7 @@ Espèces indicatrices : [[Chenopodiastrum murale|Chenopodium murale]] (V/III), [
 
 #### Lavateretum ruderale
 
+*Alliance CatVeg proposée :* [[Beto maritimae-Malvion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Sisymbrietea officinalis/Lavateretum ruderale.md`
 
 ```markdown
@@ -1361,6 +1199,7 @@ Espèces indicatrices : [[Malva arborea|Lavatera arborea]] (V), [[Malva multiflo
 
 #### Silybo-Urticetum
 
+*Alliance CatVeg proposée :* [[Silybo mariani-Urticion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Sisymbrietea officinalis/Silybo-Urticetum.md`
 
 ```markdown
@@ -1397,6 +1236,7 @@ Espèces indicatrices : [[Ballota nigra|Ballota foetida]] (V/V), [[Arctium minus
 
 #### Hordeetum leporini
 
+*Alliance CatVeg proposée :* [[Junco gerardi-Bromion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Sisymbrietea officinalis/Hordeetum leporini.md`
 
 ```markdown
@@ -1423,6 +1263,7 @@ Espèces indicatrices : [[Hordeum murinum]] ssp. leporinum (V), [[Anacyclus clav
 
 #### Sclerochloetum durai
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Sisymbrietea officinalis/Sclerochloetum durai.md`
 
 ```markdown
@@ -1447,34 +1288,9 @@ Espèces indicatrices : [[Sclerochloa dura]] (V), [[Lolium perenne]] (V), [[Lepi
 
 ```
 
-#### Onopordetum acanthii
-
-*Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Artemisietea vulgaris/Onopordetum acanthii.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Onopordion acanthii]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Syn. : Ass. à Onopordon et Marrubium Br.-Bl. 1923
-
-Espèces indicatrices : [[Anisantha tectorum|Bromus tectorum]] (V), [[Malva neglecta|Malva rotundifolia]] (V), [[Descurainia sophia|Sisymbrium sophia]] (IV), [[Onopordum acanthium]] (IV), [[Artemisia absinthium]] (III), [[Marrubium vulgare]] (III), [[Geranium pusillum]] (II), [[Bromus squarrosus]] (I).
-
-Écologie : dépôts d'ordures et de matières azotées dans les villages, reposoirs de troupeaux. L'association forme parfois des fourrés denses et épineux.
-
-```
-
 #### Paspaleto-Agrostidetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Paspaleto-Agrostidetum.md`
 
 ```markdown
@@ -1501,6 +1317,7 @@ Espèces indicatrices : [[Paspalum distichum]] (V), [[Xanthium strumarium|Xanthi
 
 #### Heleochloetum schoenoides
 
+*Alliance CatVeg proposée :* [[Heleochloion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Juncetea bufonii/Heleochloetum schoenoides.md`
 
 ```markdown
@@ -1525,6 +1342,7 @@ Espèces indicatrices : [[Sporobolus schoenoides|Heleochloa schoenoides]] (3.2),
 
 #### Bidentetum tripartiti
 
+*Alliance CatVeg proposée :* [[Bidention]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Bidentetea tripartitae/Bidentetum tripartiti.md`
 
 ```markdown
@@ -1549,6 +1367,7 @@ Espèces indicatrices : [[Bidens tripartita|Bidens tripartitus]] (V), [[Persicar
 
 #### Atropetum belladonnae
 
+*Alliance CatVeg proposée :* [[Atropion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Epilobietea angustifolii/Atropetum belladonnae.md`
 
 ```markdown
@@ -1571,6 +1390,7 @@ Espèces indicatrices : [[Atropa bella-donna|Atropa belladonna]], avec des peupl
 
 #### Myriophylleto-Nupharetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Potametea/Myriophylleto-Nupharetum.md`
 
 ```markdown
@@ -1597,6 +1417,7 @@ Espèces indicatrices : [[Myriophyllum verticillatum]] (IV), [[Potamogeton lucen
 
 #### Potameto-Vallisnerietum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Potametea/Potameto-Vallisnerietum.md`
 
 ```markdown
@@ -1623,6 +1444,7 @@ Espèces indicatrices : [[Myriophyllum spicatum]] (V), [[Potamogeton nodosus|Pot
 
 #### Potameto-Utricularietum
 
+*Alliance CatVeg proposée :* [[Scorpidio scorpidioidis-Utricularion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Potametea/Potameto-Utricularietum.md`
 
 ```markdown
@@ -1647,6 +1469,7 @@ Espèces indicatrices : [[Utricularia vulgaris]] (IV), [[Ranunculus trichophyllu
 
 #### Lemneto-Azolletum
 
+*Alliance CatVeg proposée :* [[Lemnion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Potametea/Lemneto-Azolletum.md`
 
 ```markdown
@@ -1671,6 +1494,7 @@ Espèces indicatrices : [[Ludwigia grandiflora]] (Jussieua grandiflora) (2), [[L
 
 #### Chaetomorpho-Ruppietum
 
+*Alliance CatVeg proposée :* [[Ruppion]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Potametea/Chaetomorpho-Ruppietum.md`
 
 ```markdown
@@ -1695,6 +1519,7 @@ Espèces indicatrices : [[Ruppia maritima]] (5.5), [[Chaetomorpha linum]] (3.4),
 
 #### Preslietum cervinae
 
+*Alliance CatVeg proposée :* [[Preslion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Preslietum cervinae.md`
 
 ```markdown
@@ -1721,6 +1546,7 @@ Espèces indicatrices : [[Mentha pulegium]] (V), [[Veronica anagalloides]] (IV),
 
 #### Laurentioto-Anthoceretum dichotomi
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Isoetetea velatae/Laurentioto-Anthoceretum dichotomi.md`
 
 ```markdown
@@ -1745,6 +1571,7 @@ Espèces indicatrices : [[Solenopsis laurentia|Laurentia michelii]] (4.2), [[Phy
 
 #### Myosuro-Bulliardetum vaillantii
 
+*Alliance CatVeg proposée :* [[(Poirion]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Isoetetea velatae/Myosuro-Bulliardetum vaillantii.md`
 
 ```markdown
@@ -1769,6 +1596,7 @@ Espèces indicatrices : [[Myosurus heldreichii]] (4.2), [[Crassula vaillantii|Bu
 
 #### Isoetetum setacei
 
+*Alliance CatVeg proposée :* [[Antinorio agrostideae-Isoetion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Isoetetea velatae/Isoetetum setacei.md`
 
 ```markdown
@@ -1795,6 +1623,7 @@ Espèces indicatrices : [[Isoetes delilei|Isoetes setacea]] (V), [[Lythrum borys
 
 #### Isoetetum duriaei
 
+*Alliance CatVeg proposée :* [[Antinorio agrostideae-Isoetion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Isoetetea velatae/Isoetetum duriaei.md`
 
 ```markdown
@@ -1821,6 +1650,7 @@ Espèces indicatrices : [[Juncus capitatus]] (V), [[Isoetes durieui|Isoetes duri
 
 #### Selaginelletto-Grammitetum leptophyllae
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Isoetetea velatae/Selaginelletto-Grammitetum leptophyllae.md`
 
 ```markdown
@@ -1847,6 +1677,7 @@ Espèces indicatrices : [[Selaginella denticulata]] (3.3), [[Anogramma leptophyl
 
 #### Montietum
 
+*Alliance CatVeg proposée :* [[Cardamino amarae-Montion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Montio fontanae-Cardaminetea amarae/Montietum.md`
 
 ```markdown
@@ -1871,6 +1702,7 @@ Espèces indicatrices : (caractéristiques territoriales)* [[Chrysosplenium oppo
 
 #### Scirpeto-Phragmitetum mediterraneum
 
+*Alliance CatVeg proposée :* [[Convolvulion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Phragmiti australis-Magnocaricetea elatae/Scirpeto-Phragmitetum mediterraneum.md`
 
 ```markdown
@@ -1897,6 +1729,7 @@ Espèces indicatrices : [[Schoenoplectus lacustris]] (IV/IV), [[Typha latifolia]
 
 #### Leucoio-Caricetum
 
+*Alliance CatVeg proposée :* [[Mentho arvensis-Eleocharition]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux aquatiques d'eaux douces/_Phragmiti australis-Magnocaricetea elatae/Leucoio-Caricetum.md`
 
 ```markdown
@@ -1923,6 +1756,7 @@ Espèces indicatrices : [[Carex riparia]] (V/IV), [[Leucojum aestivum]] (III/V),
 
 #### Suaedo-Kochietum hirsutae
 
+*Alliance CatVeg proposée :* [[Salicornion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Thero-Suaedetea splendentis/Suaedo-Kochietum hirsutae.md`
 
 ```markdown
@@ -1949,6 +1783,7 @@ Espèces indicatrices : [[Spirobassia hirsuta|Bassia hirsuta]] (Kochia hirsuta) 
 
 #### Suaedo-Salsoletum sodae
 
+*Alliance CatVeg proposée :* [[Thero-Suaedion]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Thero-Suaedetea splendentis/Suaedo-Salsoletum sodae.md`
 
 ```markdown
@@ -1975,6 +1810,7 @@ Espèces indicatrices : [[Soda inermis|Salsola soda]] (IV), [[Suaeda splendens]]
 
 #### Salicornietum radicantis
 
+*Alliance CatVeg proposée :* [[Halimionion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Salicornietea fruticosae/Salicornietum radicantis.md`
 
 ```markdown
@@ -2001,6 +1837,7 @@ Espèces indicatrices : [[Salicornia perennis|Salicornia radicans]] (V).
 
 #### Salicornietum fruticosae
 
+*Alliance CatVeg proposée :* [[Halimionion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Salicornietea fruticosae/Salicornietum fruticosae.md`
 
 ```markdown
@@ -2035,6 +1872,7 @@ Espèces indicatrices : [[Puccinellia festuciformis]] (III/II), [[Limonium belli
 
 #### Artemisieto-Staticetum virgatae
 
+*Alliance CatVeg proposée :* [[Limonion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Artemisieto-Staticetum virgatae.md`
 
 ```markdown
@@ -2061,6 +1899,7 @@ Espèces indicatrices : [[Artemisia caerulescens subsp. gallica|Artemisia gallic
 
 #### Arthrocnemetum
 
+*Alliance CatVeg proposée :* [[Sporobolenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Arthrocnemetum.md`
 
 ```markdown
@@ -2087,6 +1926,7 @@ Espèces indicatrices : [[Arthrocaulon macrostachyum|Arthrocnemum glaucum]] (V),
 
 #### Limoniatro-Staticetum lychnidifoliae
 
+*Alliance CatVeg proposée :* [[Limonion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Crithmo maritimi-Staticetea/Limoniatro-Staticetum lychnidifoliae.md`
 
 ```markdown
@@ -2113,6 +1953,7 @@ Espèces indicatrices : [[Limoniastrum monopetalum]] (V), [[Limonium virgatum]] 
 
 #### Juncto-Triglochinetum maritimi
 
+*Alliance CatVeg proposée :* [[Loto tenuis-Trifolion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Juncetea maritimi/Juncto-Triglochinetum maritimi.md`
 
 ```markdown
@@ -2139,6 +1980,7 @@ Espèces indicatrices : [[Juncus gerardi|Juncus gerardii]] (V), [[Triglochin mar
 
 #### Caricetum divisae
 
+*Alliance CatVeg proposée :* [[Mentho arvensis-Eleocharition]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Juncetea maritimi/Caricetum divisae.md`
 
 ```markdown
@@ -2165,6 +2007,7 @@ Espèces indicatrices : [[Carex divisa]] (V), [[Lotus corniculatus subsp. presli
 
 #### Schoeneto-Plantaginetum crassifoliae
 
+*Alliance CatVeg proposée :* [[Crithmo maritimi-Limonienion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux maritimes/_Juncetea maritimi/Schoeneto-Plantaginetum crassifoliae.md`
 
 ```markdown
@@ -2199,6 +2042,7 @@ Espèces indicatrices : [[Lotus jordanii|Dorycnium gracile]] (V), [[Plantago cra
 
 #### Agropyreto-Trifolietum maritimi
 
+*Alliance CatVeg proposée :* [[Trifolio fragiferi-Cynodontion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Agropyreto-Trifolietum maritimi.md`
 
 ```markdown
@@ -2225,6 +2069,7 @@ Espèces indicatrices : [[Trifolium squamosum|Trifolium maritimum]] (V), [[Bromu
 
 #### Junceto-Galietum
 
+*Alliance CatVeg proposée :* [[Rumici thyrsiflori-Arrhenatherenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Junceto-Galietum.md`
 
 ```markdown
@@ -2249,6 +2094,7 @@ Espèces indicatrices : [[Juncus subnodulosus]] (V), [[Galium debile|Galium cons
 
 #### Holoschoenetum
 
+*Alliance CatVeg proposée :* [[Molinio arundinaceae-Holoschoenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Holoschoenetum.md`
 
 ```markdown
@@ -2275,6 +2121,7 @@ Espèces indicatrices : [[Scirpoides holoschoenus|Holoschoenus vulgaris]] (V), [
 
 #### Dorycnio-Holoschoenetum
 
+*Alliance CatVeg proposée :* [[Molinio arundinaceae-Holoschoenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Dorycnio-Holoschoenetum.md`
 
 ```markdown
@@ -2301,6 +2148,7 @@ Espèces indicatrices : [[Lotus jordanii|Dorycnium gracile]] (III), [[Danthonia 
 
 #### Molinietum mediterraneum
 
+*Alliance CatVeg proposée :* [[Tetragonolobo maritimi-Bromenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Molinietum mediterraneum.md`
 
 ```markdown
@@ -2325,6 +2173,7 @@ Espèces indicatrices : [[Succisa pratensis]] (V/V), [[Silaum silaus]] (V/V), [[
 
 #### Gentianeto-Mariscetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Gentianeto-Mariscetum.md`
 
 ```markdown
@@ -2351,6 +2200,7 @@ Espèces indicatrices : [[Thalictrum flavum]] (V), [[Lathyrus palustris]] (V), [
 
 #### Agrostideto-Ageretum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Agrostideto-Ageretum.md`
 
 ```markdown
@@ -2375,6 +2225,7 @@ Espèces indicatrices : [[Cichorium pumilum]] (V), [[Achillea ageratum]] (IV), [
 
 #### Junceto-Trifolietum
 
+*Alliance CatVeg proposée :* [[Trifolio fragiferi-Cynodontion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Junceto-Trifolietum.md`
 
 ```markdown
@@ -2401,6 +2252,7 @@ Espèces indicatrices : [[Trifolium fragiferum]] (IV), [[Juncus compressus]] (IV
 
 #### Deschampsietum mediae
 
+*Alliance CatVeg proposée :* [[Deschampsion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agrostietea stoloniferae/Deschampsietum mediae.md`
 
 ```markdown
@@ -2427,6 +2279,7 @@ Espèces indicatrices : [[Deschampsia media]] (V/V/V), [[Prunella hyssopifolia]]
 
 #### Brachypodietum phoenicoidis
 
+*Alliance CatVeg proposée :* [[Convolvulo arvensis-Agropyrion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétations herbacées anthropiques/_Agropyretea intermedio-repentis/Brachypodietum phoenicoidis.md`
 
 ```markdown
@@ -2451,6 +2304,7 @@ Espèces indicatrices : [[Centaurea aspera]] (IV/IV/IV), [[Picris hieracioides]]
 
 #### Brachypodietum ramosi
 
+*Alliance CatVeg proposée :* [[Convolvulo arvensis-Agropyrion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Lygeo sparti-Stipetea tenacissimae/Brachypodietum ramosi.md`
 
 ```markdown
@@ -2477,32 +2331,9 @@ Espèces indicatrices : [[Phlomis lychnitis]] (V/IV), [[Iris lutescens|Iris cham
 
 ```
 
-#### Asphodeletum fistulosi
-
-*Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Lygeo sparti-Stipetea tenacissimae/Asphodeletum fistulosi.md`
-
-```markdown
----
-tags:
-  - association
-syntaxon_superieur: "[[Thero-Brachypodion]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
-auteurs:
-  - Augustin Soulard
-sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
----
-
-Espèces indicatrices : [[Asphodelus fistulosus]] (V), [[Euphorbia seguieriana]] (IV), [[Salvia verbenaca subsp. clandestina|Salvia multifida]] (IV), [[Bufonia macrocarpa|Buffonia macrocarpa]] (II), [[Koeleria cristata]] (III), [[Plantago subulata var. capitellata|Plantago carinata]] (II), [[Taeniatherum caput-medusae|Elymus crinitus]] (I), [[Hyssopus officinalis|Hyssopus cinerascens]] (I).
-
-Écologie : association spéciale aux « coussous » de la Crau quaternaire ; rappelle les steppes sud-tunisiennes et couvre d'immenses étendues. Sol uniformément constitué par le poudingue de Crau, recouvert de quartzites duranciens ; couverture végétale entre 40 et 80 %. Nombreux faciès déterminés par l'abondance des espèces épineuses ou non broutées par les moutons, telles qu'[[Euphorbia seguieriana]] et [[Euphorbia cyparissias]]. L'apparition de quelques espèces silicicoles appartenant à l'[[Helianthemion guttati]] ([[Linum gallicum]], [[Andryala integrifolia]], [[Aira cupaniana]]) s'explique par la présence des quartzites et la décalcification partielle du sol, et aide à différencier nettement l'association des autres associations des Thero-Brachypodietea. Compagnes de haute présence : [[Brachypodium ramosum]] (V), [[Thymus vulgaris]] (V), [[Linum gallicum]] (V), [[Dactylis glomerata]] (V), [[Poa bulbosa]] (V), [[Euphorbia cyparissias]] (V), [[Eryngium campestre]] (V), [[Lagoseris sancta]] (V), [[Aegilops ovata]] (IV), [[Alyssum maritimum]] (IV), [[Sanguisorba minor]] ssp. Magnolii (IV), [[Asperula cynanchica]] (IV), [[Scabiosa columbaria]] (IV), [[Filago spatulata]] (IV), [[Bellis sylvestris]] (IV), [[Bothriochloa ischaemum|Andropogon ischaemum]] (III), [[Aira cupaniana]] (III), [[Scilla autumnalis]] (III), [[Alyssum calycinum]] (III), [[Erodium cicutarium]] (III), [[Teucrium polium]] (III), [[Plantago lagopus]] (III), [[Hypochoeris radicata]] (III), [[Andryala integrifolia]] var. sinuata (III).
-
-```
-
 #### Onobrychideto-Barbuletum
 
+*Alliance CatVeg proposée :* [[Ononido rotundifoliae-Pinenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Lygeo sparti-Stipetea tenacissimae/Onobrychideto-Barbuletum.md`
 
 ```markdown
@@ -2529,6 +2360,7 @@ Espèces indicatrices : [[Didymodon acutus|Barbula gracilis]] (mousse, V), [[Hel
 
 #### Cariceto-Crepidetum suffrenianae
 
+*Alliance CatVeg proposée :* [[Campanulo rhomboidalis-Trisetenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Lygeo sparti-Stipetea tenacissimae/Cariceto-Crepidetum suffrenianae.md`
 
 ```markdown
@@ -2555,6 +2387,7 @@ Espèces indicatrices : [[Carex liparocarpos|Carex halleriana? Carex nitida]] (V
 
 #### Sedeto-Arabidetum vernae
 
+*Alliance CatVeg proposée :* [[Valantio muralis-Galion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Lygeo sparti-Stipetea tenacissimae/Sedeto-Arabidetum vernae.md`
 
 ```markdown
@@ -2581,6 +2414,7 @@ Espèces indicatrices : [[Centranthus calcitrapae|Centranthus calcitrapa]] (IV/V
 
 #### Convolvuleto-Ononidetum pubescentis
 
+*Alliance CatVeg proposée :* [[Sileno maritimae-Festucenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Lygeo sparti-Stipetea tenacissimae/Convolvuleto-Ononidetum pubescentis.md`
 
 ```markdown
@@ -2605,6 +2439,7 @@ Espèces indicatrices : [[Plantago albicans]] (V), [[Ononis pubescens]] (V), [[C
 
 #### Phleo-Sedetum anopetalae
 
+*Alliance CatVeg proposée :* [[Poo angustifoliae-Arrhenatherenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Phleo-Sedetum anopetalae.md`
 
 ```markdown
@@ -2631,6 +2466,7 @@ Espèces indicatrices : [[Corynephorus canescens]] (V/V), [[Phleum arenarium]] (
 
 #### Armerietum junceae
 
+*Alliance CatVeg proposée :* [[Crucianellion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Armerietum junceae.md`
 
 ```markdown
@@ -2657,6 +2493,7 @@ Espèces indicatrices : [[Armeria girardii|Armeria juncea]] (V), [[Arenaria aggr
 
 #### Genistetum lobelii
 
+*Alliance CatVeg proposée :* [[Crucianellion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Genistetum lobelii.md`
 
 ```markdown
@@ -2683,6 +2520,7 @@ Espèces indicatrices : [[Genista lobelii]] (V/I), [[Scorzonera austriaca]] (IV/
 
 #### Genistetum villarsii
 
+*Alliance CatVeg proposée :* [[Crucianellion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Genistetum villarsii.md`
 
 ```markdown
@@ -2709,6 +2547,7 @@ Espèces indicatrices : [[Genista pulchella|Genista villarsii]] (2), [[Bupleurum
 
 #### Fritillarietum pyrenaicae
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Fritillarietum pyrenaicae.md`
 
 ```markdown
@@ -2735,6 +2574,7 @@ Espèces indicatrices : [[Fritillaria pyrenaica]] (3), [[Iris lutescens|Iris olb
 
 #### Allietum moly
 
+*Alliance CatVeg proposée :* [[Gageo pratensis-Allion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Allietum moly.md`
 
 ```markdown
@@ -2761,6 +2601,7 @@ Espèces indicatrices : [[Allium moly]] (3.2), [[Iris lutescens|Iris olbiensis]]
 
 #### Stipeto-Ononidetum
 
+*Alliance CatVeg proposée :* [[Sileno maritimae-Festucenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Stipeto-Ononidetum.md`
 
 ```markdown
@@ -2785,6 +2626,7 @@ Espèces indicatrices : [[Stipa pennata]] ssp. mediterranea (V), [[Euphorbia seg
 
 #### Astereto-Anthyllidetum
 
+*Alliance CatVeg proposée :* [[Sileno maritimae-Festucenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Astereto-Anthyllidetum.md`
 
 ```markdown
@@ -2811,6 +2653,7 @@ Espèces indicatrices : [[Aster alpinus]] ssp. cebennensis (V/IV), [[Thymus dolo
 
 #### Seslerieto-Gentianetum corbariensis
 
+*Alliance CatVeg proposée :* [[Drabo aizoidis-Seslerion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Seslerieto-Gentianetum corbariensis.md`
 
 ```markdown
@@ -2837,6 +2680,7 @@ Espèces indicatrices : [[Gentiana clusii]] ssp. corbariensis (2), [[Sideritis h
 
 #### Erysimo-Seslerietum coeruleae
 
+*Alliance CatVeg proposée :* [[Ononidion]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Erysimo-Seslerietum coeruleae.md`
 
 ```markdown
@@ -2863,6 +2707,7 @@ Espèces indicatrices : [[Rosa spinosissima]] (IV), [[Senecio gerardi|Senecio pr
 
 #### Genistetum delphinensis
 
+*Alliance CatVeg proposée :* [[Crucianellion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Genistetum delphinensis.md`
 
 ```markdown
@@ -2887,6 +2732,7 @@ Espèces indicatrices : [[Arenaria aggregata]] (2), [[Genista delphinensis]] ssp
 
 #### Aphyllantheto-Leontodetum villarsii
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Rosmarinetea officinalis/Aphyllantheto-Leontodetum villarsii.md`
 
 ```markdown
@@ -2911,6 +2757,7 @@ Espèces indicatrices : [[Thymus serpyllum]] ssp. angustifolius (V/IV/IV), [[Lin
 
 #### Onobrychidetum supinae
 
+*Alliance CatVeg proposée :* [[Mesobromenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Rosmarinetea officinalis/Onobrychidetum supinae.md`
 
 ```markdown
@@ -2935,6 +2782,7 @@ Espèces indicatrices : [[Astragalus monspessulanus]] (V), [[Onobrychis supina]]
 
 #### Lavanduleto-Astragaletum
 
+*Alliance CatVeg proposée :* [[Ononidenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Rosmarinetea officinalis/Lavanduleto-Astragaletum.md`
 
 ```markdown
@@ -2961,6 +2809,7 @@ Espèces indicatrices : [[Potentilla hirta]] (IV), [[Satureja montana]] (IV), [[
 
 #### Orchideto-Brometum
 
+*Alliance CatVeg proposée :* [[Bromion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Orchideto-Brometum.md`
 
 ```markdown
@@ -2985,6 +2834,7 @@ Espèces indicatrices : [[Ophrys scolopax]] (3), [[Orchis purpurea]] (3), [[Anac
 
 #### Avenetum amethystinae
 
+*Alliance CatVeg proposée :* [[Potentillenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Avenetum amethystinae.md`
 
 ```markdown
@@ -3011,6 +2861,7 @@ Espèces indicatrices : [[Phleum phleoides]] (V), [[Dianthus carthusianorum]] va
 
 #### Koelerieto-Globularietum willkommii
 
+*Alliance CatVeg proposée :* [[Drabo aizoidis-Seslerion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Festuco-Brometea/Koelerieto-Globularietum willkommii.md`
 
 ```markdown
@@ -3037,6 +2888,7 @@ Espèces indicatrices : [[Koeleria vallesiana]] (V), [[Globularia bisnagarica|Gl
 
 #### Ericeto-Lavanduletum stoechidis
 
+*Alliance CatVeg proposée :* [[Cistion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Cisto ladaniferi-Lavanduletea stoechadis/Ericeto-Lavanduletum stoechidis.md`
 
 ```markdown
@@ -3063,6 +2915,7 @@ Espèces indicatrices : [[Erica scoparia]] (V), [[Carex oedipostyla]] (IV), [[An
 
 #### Cisto-Ericetum cinereae
 
+*Alliance CatVeg proposée :* [[Cisto salviifolii-Ericion]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Cisto ladaniferi-Lavanduletea stoechadis/Cisto-Ericetum cinereae.md`
 
 ```markdown
@@ -3089,6 +2942,7 @@ Espèces indicatrices : [[Cistus crispus]] (V), [[Erica cinerea]] (V), [[Cytisus
 
 #### Adenocarpo-Ericetum arboreae
 
+*Alliance CatVeg proposée :* [[Ulici europaei-Cytision]] (confiance : stems-2/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Cisto ladaniferi-Lavanduletea stoechadis/Adenocarpo-Ericetum arboreae.md`
 
 ```markdown
@@ -3115,6 +2969,7 @@ Espèces indicatrices : [[Erica arborea]] (V), [[Erica cinerea]] (V), [[Anarrhin
 
 #### Cisteto-Euphorbietum dendroidis
 
+*Alliance CatVeg proposée :* [[Convolvulo arvensis-Agropyrion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Cisto ladaniferi-Lavanduletea stoechadis/Cisteto-Euphorbietum dendroidis.md`
 
 ```markdown
@@ -3141,6 +2996,7 @@ Espèces indicatrices : [[Myrtus communis]] (3.3), [[Euphorbia characias]] (3.3)
 
 #### Helianthemetum guttati
 
+*Alliance CatVeg proposée :* [[Ulicenion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Helianthemetea guttati/Helianthemetum guttati.md`
 
 ```markdown
@@ -3175,6 +3031,7 @@ Espèces indicatrices : [[Tuberaria guttata|Helianthemum guttatum]] (V/V), [[Cor
 
 #### Ornithopodieto-Helianthemetum tuberariae
 
+*Alliance CatVeg proposée :* [[Ulicenion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Helianthemetea guttati/Ornithopodieto-Helianthemetum tuberariae.md`
 
 ```markdown
@@ -3201,6 +3058,7 @@ Espèces indicatrices : [[Aira tenorei]] (V), [[Plantago bellardii]] var. longea
 
 #### Tillaeetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Helianthemetea guttati/Tillaeetum.md`
 
 ```markdown
@@ -3225,6 +3083,7 @@ Espèces indicatrices : [[Crassula tillaea|Tillaea muscosa]] (V), [[Toniniopsis 
 
 #### Pterideto-Sarothamnetum
 
+*Alliance CatVeg proposée :* [[Dactylido oceanicae-Ulicion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Calluno vulgaris-Ulicetea minoris/Pterideto-Sarothamnetum.md`
 
 ```markdown
@@ -3251,6 +3110,7 @@ Espèces indicatrices : [[Cytisus scoparius|Sarothamnus scoparius]] (V), [[Pteri
 
 #### Ericeto-Genistetum microphyllae
 
+*Alliance CatVeg proposée :* [[Crucianellion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Végétation herbacées et arbustives/_Calluno vulgaris-Ulicetea minoris/Ericeto-Genistetum microphyllae.md`
 
 ```markdown
@@ -3275,6 +3135,7 @@ Espèces indicatrices : [[Erica cinerea]] (V), [[Genista pilosa]] var. microphyl
 
 #### Quercetum mediterraneo-montanum
 
+*Alliance CatVeg proposée :* [[Carpino betuli-Fagion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea ilicis/Quercetum mediterraneo-montanum.md`
 
 ```markdown
@@ -3299,6 +3160,7 @@ Espèces indicatrices : [[Rubia peregrina]] (V), [[Carex distachya]] (IV), [[Rus
 
 #### Calycotomo-Myrtetum
 
+*Alliance CatVeg proposée :* [[Oleo sylvestris-Ceratonion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea ilicis/Calycotomo-Myrtetum.md`
 
 ```markdown
@@ -3325,6 +3187,7 @@ Espèces indicatrices : [[Myrtus communis]] (V), [[Phillyrea angustifolia]] (V),
 
 #### Cocciferetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea ilicis/Cocciferetum.md`
 
 ```markdown
@@ -3351,6 +3214,7 @@ Espèces indicatrices : [[Quercus coccifera]] (V/V), [[Teucrium chamaedrys]] ssp
 
 #### Oleo-Lentiscetum
 
+*Alliance CatVeg proposée :* [[Oleo sylvestris-Ceratonion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea ilicis/Oleo-Lentiscetum.md`
 
 ```markdown
@@ -3377,6 +3241,7 @@ Espèces indicatrices : strate arbustive (3–4 m, recouvrant 80–90 % du sol) 
 
 #### Euphorbietum dendroidis
 
+*Alliance CatVeg proposée :* [[Convolvulo arvensis-Agropyrion]] (confiance : stems-1/1)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea ilicis/Euphorbietum dendroidis.md`
 
 ```markdown
@@ -3401,6 +3266,7 @@ Espèces indicatrices : [[Euphorbia spinosa]], [[Euphorbia dendroides]], [[Fuman
 
 #### Querceto-Buxetum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea pubescentis/Querceto-Buxetum.md`
 
 ```markdown
@@ -3427,6 +3293,7 @@ Espèces indicatrices : [[Buxus sempervirens]] (V/V/III), [[Cytisophyllum sessil
 
 #### Querceto-Aceretum opali
 
+*Alliance CatVeg proposée :* [[Carpino betuli-Fagion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea pubescentis/Querceto-Aceretum opali.md`
 
 ```markdown
@@ -3451,6 +3318,7 @@ Espèces indicatrices : [[Trifolium rubens]] (IV), [[Lathyrus niger]] (IV), [[Ac
 
 #### Hepatico-Coryletum
 
+*Alliance CatVeg proposée :* [[Carpino betuli-Fagion]] (confiance : stems-1/2)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Quercetea pubescentis/Hepatico-Coryletum.md`
 
 ```markdown
@@ -3475,6 +3343,7 @@ Espèces indicatrices : [[Corylus avellana]] (4), [[Rosa canina]] (4), [[Ribes a
 
 #### Fagetum gallicum
 
+*Alliance CatVeg proposée :* — (aucune correspondance)
 *Emplacement suggéré :* `5_Syntaxons/Milieux forestiers/_Carpino betuli-Fagetea sylvaticae/Fagetum gallicum.md`
 
 ```markdown
