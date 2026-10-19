@@ -13,6 +13,6 @@ sources:
 
 Syn. : Ass. à Preslia cervina et Eleocharis palustris Br.-Bl. 1931
 
-Espèces indicatrices : [[Mentha pulegium]] (V¹), [[Veronica anagalloides]] (IV¹), [[Callitriche truncata]] (I¹) *(Preslia cervina, non vue dans le texte OCR — nom d'après le basionyme)*.
+Espèces indicatrices : [[Mentha pulegium]] (V¹), [[Veronica anagalloides]] (IV¹), [[Drepanocladus aduncus|Drepanocladus kneiffii]] (III), [[Callitriche truncata]] (I¹) *(Preslia cervina, non vue dans le texte OCR — nom d'après le basionyme)*.
 
 Écologie : submergée pendant une grande partie de l'hiver et du printemps, entièrement hors de l'eau en été ; développement optimum fin juin.

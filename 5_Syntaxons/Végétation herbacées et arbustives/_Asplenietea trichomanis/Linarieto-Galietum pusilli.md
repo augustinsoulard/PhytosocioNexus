@@ -13,6 +13,6 @@ sources:
 
 Syn. : Ass. à Galium pusillum et Linaria origanifolia Mol. 1934
 
-Espèces indicatrices : [[Galium pusillum]] (V¹), [[Arenaria modesta]] (III), [[Matthiola fruticulosa|Matthiola tristis]] (III).
+Espèces indicatrices : [[Galium pusillum]] (V¹), [[Chaenorhinum origanifolium|Linaria origanifolia]] (V⁻), [[Arenaria modesta]] (III), [[Matthiola fruticulosa|Matthiola tristis]] (III).
 
 Écologie : fentes et petites excavations des rochers dolomitiques, surtout du Jurassique supérieur, à partir de 600 m, à toute exposition. L'érosion particulièrement rapide de ces roches explique la faible densité de végétation.

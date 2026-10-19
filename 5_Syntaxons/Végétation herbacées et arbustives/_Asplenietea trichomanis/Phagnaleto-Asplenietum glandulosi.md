@@ -13,6 +13,6 @@ sources:
 
 Syn. : Ass. à Phagnalon sordidum et Asplenium glandulosum Br.-Bl. 1931 em. 1951
 
-Espèces indicatrices : [[Malva subovata|Lavatera maritima]] (I¹), [[Melica minuta]] (I¹/V¹), [[Chiliadenus glutinosus|Jasonia glutinosa]] (I¹).
+Espèces indicatrices : [[Asplenium petrarchae|Asplenium glandulosum]] (IVᵉ/Vᵉ), [[Phagnalon sordidum]] (Vᵉ/IVᵉ), [[Parietaria lusitanica]] (I¹), [[Malva subovata|Lavatera maritima]] (I¹), [[Melica minuta]] (I¹/V¹), [[Chiliadenus glutinosus|Jasonia glutinosa]] (I¹).
 
 Écologie : fentes étroites des rochers calcaires compacts, surtout exposés au Sud, dans tout le midi de la France jusqu'à 400 m environ.

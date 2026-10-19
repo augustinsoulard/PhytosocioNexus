@@ -13,6 +13,6 @@ sources:
 
 Syn. : Ass. à Phagnalon sordidum et Asplenium glandulosum, race géographique de la contrée narbonnaise pro parte Br.-Bl. et H. Meier 1934
 
-Espèces indicatrices : [[Dianthus pungens|Dianthus brachyanthus]] (V⁺), [[Malva subovata|Lavatera maritima]] (III⁺), [[Bufonia perennis|Buffonia perennis]] (I⁻).
+Espèces indicatrices : [[Hormathophylla spinosa|Alyssum spinosum]] (V⁺), [[Dianthus pungens|Dianthus brachyanthus]] (V⁺), [[Erodium foetidum|Erodium petraeum]] (III⁺), [[Malva subovata|Lavatera maritima]] (III⁺), [[Phagnalon sordidum]] (IV⁺), [[Bufonia perennis|Buffonia perennis]] (I⁻), [[Parietaria lusitanica]].
 
 Écologie : fentes des falaises chaudes ; diffère sensiblement du Phagnaleto-Asplenietum : [[Asplenium glandulosum]] y manque, tandis que [[Dianthus brachyanthus]], [[Lavatera maritima]], [[Alyssum spinosum]] et [[Erodium petraeum]] abondent — caractère méditerranéo-montagnard plus accusé. Parmi les compagnes, [[Juniperus phoenicea]], [[Stipa juncea]] et [[Rosmarinus officinalis]] aident à caractériser l'association.

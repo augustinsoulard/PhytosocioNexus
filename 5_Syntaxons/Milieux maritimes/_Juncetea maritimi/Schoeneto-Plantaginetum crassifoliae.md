@@ -21,4 +21,6 @@ Espèces indicatrices : [[Lotus jordanii|Dorycnium gracile]] (V), [[Plantago cra
 
 **Syn. :** Ass. à Plantago crassifolia et Schoenus nigricans, sous-ass. à Holoschoenus romanus et Juncus acutus Br.-Bl. 1931
 
+**Espèces indicatrices :** [[Juncus acutus]] (V¹), [[Scirpoides holoschoenus|Holoschoenus vulgaris]] ssp. romanus (V¹), [[Tripidium ravennae|Erianthus ravennae]] (IV¹), [[Juncus anceps]] (III¹), [[Asparagus maritimus|Asparagus scaber]] (I¹).
+
 **Écologie :** dépressions entre les dunes, sur sol sablonneux assez sec, riche en carbonate de calcium (env. 30 %). Prairie assez serrée de hauts joncs (60–80 cm) à tiges dures, non broutées par les animaux. Une variante un peu plus sèche, en ceinture du groupement type, se différencie par [[Imperata cylindrica]] et surtout [[Erianthus ravennae]].

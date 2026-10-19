@@ -13,6 +13,6 @@ sources:
 
 Syn. : Ass. à Onopordon et Marrubium Br.-Bl. 1923
 
-Espèces indicatrices : [[Anisantha tectorum|Bromus tectorum]] (V¹), [[Malva neglecta|Malva rotundifolia]] (V¹), [[Descurainia sophia|Sisymbrium sophia]] (IV²), [[Onopordum acanthium]] (IV²), [[Artemisia absinthium]] (III²), [[Geranium pusillum]] (II), [[Bromus squarrosus]] (I).
+Espèces indicatrices : [[Anisantha tectorum|Bromus tectorum]] (V¹), [[Malva neglecta|Malva rotundifolia]] (V¹), [[Descurainia sophia|Sisymbrium sophia]] (IV²), [[Onopordum acanthium]] (IV²), [[Artemisia absinthium]] (III²), [[Marrubium vulgare]] (III²), [[Geranium pusillum]] (II), [[Bromus squarrosus]] (I).
 
 Écologie : dépôts d'ordures et de matières azotées dans les villages, reposoirs de troupeaux. L'association forme parfois des fourrés denses et épineux.

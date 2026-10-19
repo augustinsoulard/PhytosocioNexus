@@ -11,6 +11,6 @@ sources:
   - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
 
-Espèces indicatrices : [[Dianthus graniticus]] (III), [[Saxifraga hypnoides]] ssp. continentalis (III), [[Micranthes clusii|Saxifraga clusii]] (I¹), [[Oeosporangium pteridioides|Cheilanthes fragrans]] (I), [[Leucanthemum monspeliense|Chrysanthemum monspeliense]] (I).
+Espèces indicatrices : [[Asplenium obovatum subsp. billotii|Asplenium lanceolatum]] (III¹), [[Asarina procumbens|Antirrhinum asarina]] (III¹), [[Dianthus graniticus]] (III), [[Saxifraga hypnoides]] ssp. continentalis (III), [[Micranthes clusii|Saxifraga clusii]] (I¹), [[Oeosporangium pteridioides|Cheilanthes fragrans]] (I), [[Leucanthemum monspeliense|Chrysanthemum monspeliense]] (I).
 
 Écologie : fissures des rochers siliceux, surtout à l'exposition Sud. Bien développé aux étages du Chêne vert et du Chêne pubescent, il comprend une série d'espèces thermophiles, presque exclusivement chaméphytes et hémicryptophytes ; il s'appauvrit à l'étage du Hêtre, au-dessus de 1 000 m.
