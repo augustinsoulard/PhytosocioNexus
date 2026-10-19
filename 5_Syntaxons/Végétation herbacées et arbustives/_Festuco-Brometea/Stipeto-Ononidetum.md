@@ -1,7 +1,16 @@
 ---
-tags: - association
+tags:
+  - association
 syntaxon_superieur: "[[Ononidion striatae]]"
-syntaxon_inferieur: especes_indicatrices: date_maj: 2026-10-19
-auteurs: - Augustin Soulard
-sources: - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
---- Espèces indicatrices : [[Stipa pennata]] ssp. mediterranea (V), [[Euphorbia seguieriana]] var. dolomitica (IV), [[Ranunculus gramineus]] (III), [[Centaurea stoebe|Centaurea maculosa]] (II), [[Pulsatilla rubra|Anemone rubra]] (II), [[Oreoselinum nigrum|Peucedanum oreoselinum]] (I), [[Podospermum purpureum|Scorzonera purpurea]] (I). Écologie : belles prairies d'aspect steppique ondoyant au vent. Le sous-sol calcaréo-dolomitique se désagrège en surface sous l'action de l'érosion pluviale, donnant une terre fine, sablonneuse, plus ou moins riche en carbonates, qui s'accumule dans les creux (« sotchas » en patois). L'exposition au vent et la durée d'enneigement interviennent comme facteurs importants déterminant des variantes. Une variante (peut-être sous-association) à [[Carex humilis]], avec présence de certaines espèces de l'[[Astereto-Anthyllidetum]] et raréfaction des compagnes habituelles (enneigement plus court), forme la transition vers cette association. Compagnes : [[Festuca ovina]] ssp. duriuscula (V), [[Helianthemum canum]] var. dolomiticum (V), [[Anthyllis vulneraria]] (V), [[Galium mollugo]] ssp. corrudifolium (IV), [[Hieracium pilosella]] (IV), [[Bromus erectus]] (III), [[Armeria plantaginea]] (III), [[Scabiosa columbaria]] (III), [[Sanguisorba minor]] ssp. Magnolii (III).
+syntaxon_inferieur: 
+especes_indicatrices: 
+date_maj: 2026-10-19
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+---
+
+Espèces indicatrices : [[Stipa pennata]] ssp. mediterranea (V), [[Euphorbia seguieriana]] var. dolomitica (IV), [[Ranunculus gramineus]] (III), [[Centaurea stoebe|Centaurea maculosa]] (II), [[Pulsatilla rubra|Anemone rubra]] (II), [[Oreoselinum nigrum|Peucedanum oreoselinum]] (I), [[Podospermum purpureum|Scorzonera purpurea]] (I).
+
+Écologie : belles prairies d'aspect steppique ondoyant au vent. Le sous-sol calcaréo-dolomitique se désagrège en surface sous l'action de l'érosion pluviale, donnant une terre fine, sablonneuse, plus ou moins riche en carbonates, qui s'accumule dans les creux (« sotchas » en patois). L'exposition au vent et la durée d'enneigement interviennent comme facteurs importants déterminant des variantes. Une variante (peut-être sous-association) à [[Carex humilis]], avec présence de certaines espèces de l'[[Astereto-Anthyllidetum]] et raréfaction des compagnes habituelles (enneigement plus court), forme la transition vers cette association. Compagnes : [[Festuca ovina]] ssp. duriuscula (V), [[Helianthemum canum]] var. dolomiticum (V), [[Anthyllis vulneraria]] (V), [[Galium mollugo]] ssp. corrudifolium (IV), [[Hieracium pilosella]] (IV), [[Bromus erectus]] (III), [[Armeria plantaginea]] (III), [[Scabiosa columbaria]] (III), [[Sanguisorba minor]] ssp. Magnolii (III).

@@ -1,7 +1,18 @@
 ---
-tags: - association
+tags:
+  - association
 syntaxon_superieur: "[[Staticion galloprovincialis]]"
-syntaxon_inferieur: especes_indicatrices: date_maj: 2026-10-19
-auteurs: - Augustin Soulard
-sources: - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
---- Syn. : Salicornietum macrostachyi Br.-Bl. 1928, Tallon 1933 ; Ass. à Arthrocnemum glaucum et Sphenopus divaricatus Br.-Bl. 1933 Espèces indicatrices : [[Arthrocaulon macrostachyum|Arthrocnemum glaucum]] (V), [[Sphenopus divaricatus]] (V), [[Hornungia procumbens|Hutchinsia procumbens]] (IV), [[Frankenia pulverulenta]] (IV). Écologie : sols limoneux, compacts, peu aérés, humides en hiver et au premier printemps, très secs et se fendant en été (0,5 % sable grossier, 34,5 % sable fin, 65 % limon). Teneur en Cl⁻ de la rhizosphère supérieure (couche 2–4 cm) : 0,9 % au printemps, 16 % en été — la plus forte concentration en chlorures observée en France dans la rhizosphère d'un groupement végétal. L'association progresse ainsi sur les surfaces stériles où la teneur en Cl⁻ atteint et dépasse 20 % en été. Recouvrement 60–90 % ; les plaques de végétation correspondent à une surélévation du sol de 10–15 cm qui met les végétaux à l'abri de la submersion. Le sol est souvent couvert de cyanophycées ([[Microcoleus chthonoplastes]], [[Gloeothece fuscolutea]], [[Calothrix scopulorum]], etc.) formant des croûtes en se desséchant.
+syntaxon_inferieur: 
+especes_indicatrices: 
+date_maj: 2026-10-19
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+---
+
+Syn. : Salicornietum macrostachyi Br.-Bl. 1928, Tallon 1933 ; Ass. à Arthrocnemum glaucum et Sphenopus divaricatus Br.-Bl. 1933
+
+Espèces indicatrices : [[Arthrocaulon macrostachyum|Arthrocnemum glaucum]] (V), [[Sphenopus divaricatus]] (V), [[Hornungia procumbens|Hutchinsia procumbens]] (IV), [[Frankenia pulverulenta]] (IV).
+
+Écologie : sols limoneux, compacts, peu aérés, humides en hiver et au premier printemps, très secs et se fendant en été (0,5 % sable grossier, 34,5 % sable fin, 65 % limon). Teneur en Cl⁻ de la rhizosphère supérieure (couche 2–4 cm) : 0,9 % au printemps, 16 % en été — la plus forte concentration en chlorures observée en France dans la rhizosphère d'un groupement végétal. L'association progresse ainsi sur les surfaces stériles où la teneur en Cl⁻ atteint et dépasse 20 % en été. Recouvrement 60–90 % ; les plaques de végétation correspondent à une surélévation du sol de 10–15 cm qui met les végétaux à l'abri de la submersion. Le sol est souvent couvert de cyanophycées ([[Microcoleus chthonoplastes]], [[Gloeothece fuscolutea]], [[Calothrix scopulorum]], etc.) formant des croûtes en se desséchant.

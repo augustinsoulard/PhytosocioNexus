@@ -1,7 +1,18 @@
 ---
-tags: - association
+tags:
+  - association
 syntaxon_superieur: "[[Helianthemion guttati]]"
-syntaxon_inferieur: especes_indicatrices: date_maj: 2026-10-19
-auteurs: - Augustin Soulard
-sources: - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
---- Syn. : Ass. à Aira uniaristata (Cupaniana) et Plantago Bellardi Mol. 1937 ; Ass. à Ornithopus ebracteatus et Helianthemum tuberaria Br.-Bl. et Mol. 1935 Espèces indicatrices : [[Aira tenorei]] (V), [[Plantago bellardii]] var. longearistata (V), [[Vulpia ligustica]] (V), [[Lotus parviflorus]] (IV), [[Ornithopus pinnatus|Ornithopus ebracteatus]] (III), [[Diatelia tuberaria|Helianthemum tuberaria]] (II), [[Lotus hispidus]] (II), [[Corynephorus divaricatus|Corynephorus fasciculatus]] (I), [[Polypogon subspathaceus|Polypogon subspathaceum]] (I), [[Vulpia bromoides|Vulpia dertonensis]] var. longearistata (I), (x) [[Romulea columnae]], (x) [[Serapias cordigera]], (x) [[Paronychia echinulata|Paronychia echinata]], (x) [[Trifolium ligusticum]], (x) [[Biserrula pelecinus|Biserula pelecinus]]. Écologie : remplace en Provence l'[[Helianthemetum guttati]] et se développe comme lui sur les sols siliceux et argileux des clairières du Cistion ladaniferi, ou sous les bois de Pins pignon. L'humidité relative de la station détermine la présence de nombreuses Mousses et de quelques espèces différentielles par rapport aux groupements précédents. Compagnes : [[Vulpia dertonensis]] (V), [[Bromus mollis|Bromus hordeaceus]] (V), [[Juncus bufonius]] (V), [[Trifolium campestre]] var. thionanthum (V), [[Anagallis arvensis]] ssp. phoenicea (V), [[Koeleria phleoides]] (IV), [[Polycarpon tetraphyllum]] (IV), [[Trifolium arvense]] (IV), [[Myosotis hispida]] (IV), [[Urospermum dalechampii]] (IV), Lugoseris sancta (IV, OCR), [[Gaudinia fragilis]] (III), [[Vulpia ciliata]] (III), [[Vulpia myuros]] (III), [[Scleropoa rigida]] (III), [[Avellinia michelii]] (III), [[Sagina apetala]] (III), [[Silene gallica]] (III), [[Trifolium lappaceum]] (III), [[Medicago minima]] (III), [[Asterolinum stellatum]] (III), [[Anagallis arvensis]] var. coerulea (III), [[Plantago coronopus]] (III), [[Vaillantia muralis]] (III), [[Hedypnois cretica]] (III).
+syntaxon_inferieur: 
+especes_indicatrices: 
+date_maj: 2026-10-19
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+---
+
+Syn. : Ass. à Aira uniaristata (Cupaniana) et Plantago Bellardi Mol. 1937 ; Ass. à Ornithopus ebracteatus et Helianthemum tuberaria Br.-Bl. et Mol. 1935
+
+Espèces indicatrices : [[Aira tenorei]] (V), [[Plantago bellardii]] var. longearistata (V), [[Vulpia ligustica]] (V), [[Lotus parviflorus]] (IV), [[Ornithopus pinnatus|Ornithopus ebracteatus]] (III), [[Diatelia tuberaria|Helianthemum tuberaria]] (II), [[Lotus hispidus]] (II), [[Corynephorus divaricatus|Corynephorus fasciculatus]] (I), [[Polypogon subspathaceus|Polypogon subspathaceum]] (I), [[Vulpia bromoides|Vulpia dertonensis]] var. longearistata (I), (x) [[Romulea columnae]], (x) [[Serapias cordigera]], (x) [[Paronychia echinulata|Paronychia echinata]], (x) [[Trifolium ligusticum]], (x) [[Biserrula pelecinus|Biserula pelecinus]].
+
+Écologie : remplace en Provence l'[[Helianthemetum guttati]] et se développe comme lui sur les sols siliceux et argileux des clairières du Cistion ladaniferi, ou sous les bois de Pins pignon. L'humidité relative de la station détermine la présence de nombreuses Mousses et de quelques espèces différentielles par rapport aux groupements précédents. Compagnes : [[Vulpia dertonensis]] (V), [[Bromus mollis|Bromus hordeaceus]] (V), [[Juncus bufonius]] (V), [[Trifolium campestre]] var. thionanthum (V), [[Anagallis arvensis]] ssp. phoenicea (V), [[Koeleria phleoides]] (IV), [[Polycarpon tetraphyllum]] (IV), [[Trifolium arvense]] (IV), [[Myosotis hispida]] (IV), [[Urospermum dalechampii]] (IV), Lugoseris sancta (IV, OCR), [[Gaudinia fragilis]] (III), [[Vulpia ciliata]] (III), [[Vulpia myuros]] (III), [[Scleropoa rigida]] (III), [[Avellinia michelii]] (III), [[Sagina apetala]] (III), [[Silene gallica]] (III), [[Trifolium lappaceum]] (III), [[Medicago minima]] (III), [[Asterolinum stellatum]] (III), [[Anagallis arvensis]] var. coerulea (III), [[Plantago coronopus]] (III), [[Vaillantia muralis]] (III), [[Hedypnois cretica]] (III).
