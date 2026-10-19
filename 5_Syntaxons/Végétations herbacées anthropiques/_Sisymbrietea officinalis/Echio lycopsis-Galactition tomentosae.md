@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches nord-ouest méditerranéennes (Midi, Corse)
+**Description** : Végétation annuelle vernale, subnitrophile, thermophile, des sols perturbés, des secteurs sublittoraux (hivers doux et précipitations relativement conséquentes) de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Vulpia geniculata]], [[Crepis bursifolia]], [[Galactites tomentosus]]
+**Espèces caractéristiques** : [[Vulpia geniculata]], [[Crepis bursifolia]], [[Galactites tomentosus]], [[Lotus ornithopodioides]], [[Medicago murex subsp. sphaerocarpos]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.6]] - [[E5.12]] - [[E5.13]] - [[I1.52]]

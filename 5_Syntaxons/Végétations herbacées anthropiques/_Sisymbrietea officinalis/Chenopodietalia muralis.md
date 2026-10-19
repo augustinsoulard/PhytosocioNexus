@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches estivales, euryméditerranéennes, très nitrophiles
+**Description** : Végétation annuelle nitrophile, rudérale, des sols perturbés, eutrophes, de la Méditerranée et de la Macaronésie.
 
-**Espèces caractéristiques** : [[Chenopodiastrum murale]], [[Ecballium elaterium]], [[Amaranthus deflexus]]
+**Espèces caractéristiques** : [[Chenopodiastrum murale]], [[Ecballium elaterium]], [[Amaranthus deflexus]], [[Sisymbrium irio]], [[Amaranthus muricatus]]  et les nombreuses espèces des unités inférieures.
 
 ZH : non spécifié
 

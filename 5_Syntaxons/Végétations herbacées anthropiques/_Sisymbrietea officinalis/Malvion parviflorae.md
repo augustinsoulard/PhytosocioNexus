@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches méditerranéennes surtout vernales
+**Description** : Végétation herbacée à dominance d'espèces annuelles ou monocarpiques, thermophile, nitrophile, d'expression vernale, des terrains perturbés eutrophes des étages inférieurs de la Méditerranée.
 
-**Espèces caractéristiques** : [[Malva multiflora]], [[Malva arborea]], [[Malva nicaeensis]], [[Asphodelus fistulosus]], [[Hyoscyamus albus]], [[Centaurea calcitrapa]], [[Sisymbrium irio]], [[Amaranthus viridis]]
+**Espèces caractéristiques** : [[Malva multiflora]], [[Malva arborea]], [[Malva nicaeensis]], [[Asphodelus fistulosus]], [[Hyoscyamus albus]], [[Centaurea calcitrapa]], [[Sisymbrium irio]], [[Amaranthus viridis]],  [[Malva nicaeensis]], [[Malva parviflora]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E5.12]] - [[E5.13]] - [[I1.52]]

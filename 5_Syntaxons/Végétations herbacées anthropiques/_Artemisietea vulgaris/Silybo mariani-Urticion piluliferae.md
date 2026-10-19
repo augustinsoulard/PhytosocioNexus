@@ -11,7 +11,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation herbacée vivace, rudérale, très nitrophile, des sols profonds frais à humides l’hiver, dominée par de grands chardons et en particulier par Silybum marianum, de la Méditerranée centro-occidentale. 
+**Description :** Végétation herbacée vivace, rudérale, très nitrophile, des sols profonds frais à humides l’hiver, dominée par de grands chardons et en particulier par Silybum marianum, de la Méditerranée centro-occidentale. 
 
 Espèces indicatrices : [[Carduus tenuiflorus]], [[Cirsium vulgare subsp. crinitum]], [[Silybum marianum]], [[Urtica pilulifera]].
 

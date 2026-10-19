@@ -11,7 +11,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Végétation herbacée vivace, dominée par de grands chardons à phénologie tardive, rudérale, des substrats perturbés de la Méditerranée et de l'Europe méridionale. 
+**Description :** Végétation herbacée vivace, dominée par de grands chardons à phénologie tardive, rudérale, des substrats perturbés de la Méditerranée et de l'Europe méridionale. 
 
 Espèces indicatrices : [[Carthamus lanatus]], [[Cynoglossum creticum]], [[Onopordum illyricum]], [[Picnomon acarna]],  [[Scolymus hispanicus]], [[Scolymus maculatus]], [[Silybum marianum]]
 
