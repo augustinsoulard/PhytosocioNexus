@@ -1,18 +1,19 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Hordeion]]"
+syntaxon_superieur: "[[Taeniathero capitis-medusae-Aegilopion geniculatae]]"
 syntaxon_inferieur: 
 especes_indicatrices: 
-date_maj: 2026-10-19
+date_maj: 2026-10-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
+**Description :** Végétation herbacée basse, assez homogène, au recouvrement fort, dominée par Hordeum murinum subsp. leporinum.
 
-Syn. : Ass. à Hordeum murinum ssp. leporinum et Carduus tenuiflorus Br.-Bl. 1931 ; Ass. à Hordeum murinum et Onopordum illyricum Horvat 1934
+Espèces indicatrices : [[Hordeum murinum subsp. leporinum]], [[Erodium ciconium]], [[Anisantha madritensis]], [[Malva sylvestris]], [[Anacyclus clavatus]] (rare).
 
-Espèces indicatrices : [[Hordeum murinum]] ssp. leporinum (V), [[Anacyclus clavatus]] (V), [[Malva sylvestris|Malva silvestris]] (V), [[Erodium ciconium]] (V), [[Centaurea calcitrapa]] (IV), [[Crepis bursifolia]] (III), [[Echium plantagineum]] (I).
+Écologie : Végétation herbacée subnitrophile des terrains perturbés, régulièrement fréquentés, sur sols profonds, secs et assez compacts (terrains vagues, bordures de cultures, bordures des chemins). Étage mésoméditerranéen.
 
-Écologie : pelouses continues dans les lieux vagues, bordures des vignes, chemins. Plusieurs faciès selon la dominance de certaines espèces ([[Hordeum leporinum]], [[Anacyclus clavatus]], [[Bromus madritensis]], etc.).
+Chorologie BdR (13) : Potentiellement partout sauf peut-être sur les reliefs du nord-est du département.

@@ -499,7 +499,1026 @@ sources: - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France m�
 - [[Cornus sanguinea]] (I/V)
 - [[Crataegus monogyna]] (II/IV)
 - [[Prunus spinosa]] (II/II)
-- [[Acer campestre]] (II/II) **Classe CatVeg :** INTROUVABLE --- ## Partie 2 — Espèces indicatrices d'alliance/ordre/classe extraites des fiches associations Espèces listées après les mentions « alliance : », « ordre : », « classe : », « alliance (X) : »... ou marquées d'un astérisque dans les listes d'espèces indicatrices : elles caractérisent les syntaxons supérieurs et ne sont pas reportées dans les fiches associations. **Potentilleto-Saxifragetum cebennensis** — indicatrices de rang supérieur (astérisque) : - *[[Kernera saxatilis|Kernera auriculata]] (V⁻)
+- [[Acer campestre]] (II/II) **Classe CatVeg :** INTROUVABLE --- ### Associations non mentionnées dans une fiche alliance ou sous-alliance existante du dépôt (critère strict)
+
+Ces associations de 1952 ne sont wikiliées dans aucune fiche alliance/sous-alliance préexistante du dépôt : les fiches n'ont pas été créées, à trier manuellement (rattacher l'association à une alliance ou créer la fiche alliance manquante).
+
+#### Adenocarpo-Ericetum arboreae
+
+Syn. : Ass. à Erica arborea et Adenocarpus complicatus Br.-Bl. 1915, 1931
+
+Espèces indicatrices : [[Erica arborea]] (V), [[Erica cinerea]] (V), [[Anarrhinum bellidifolium]] (V), [[Adenocarpus complicatus]] ssp. commutatus (IV), [[Cistus laurifolius]] (I) ([[Cistus pouzolzii|Cistus Pouzoizii]], rare), alliance (Cistion ladaniferi) et.
+
+Écologie : recouvre les croupes des basses montagnes schisteuses des Cévennes méridionales, vers la limite de la Région méditerranéenne, entre 250 et 450 m d'altitude (étage bioclimatique humide). Les précipitations abondantes (Le Vigan, 1 534 mm ; Vallerangue, 1 657 mm) activent le lessivage du sol, une terre brune plus ou moins acide, se rapprochant de la terre brune insubrienne de H. Pallmann. Ces landes, parcourues par le bétail, alternent avec des châtaigneraies et des taillis de [[Quercus ilex]]. Restes du Quercion ilicis : [[Quercus ilex]] (V), [[Rubus ulmifolius]] (III), [[Ruscus aculeatus]] (II), [[Clematis flammula]] (I), [[Pistacia terebinthus]] (I), [[Arbutus unedo]] (I), [[Asparagus acutifolius]] (I), [[Phillyrea media]] (I), [[Rubia peregrina]] (I). Compagnes : [[Teucrium scorodonia]] (V), [[Urospermum dalechampii]] (III), [[Bituminaria bituminosa|Psoralea bituminosa]] (III), [[Hypochaeris radicata|Hypochoeris radicata]] (III).
+
+---
+
+#### Agropyreto-Trifolietum maritimi
+
+Syn. : Ass. à Trifolium maritimum et Agropyrum pycnanthum (acutum) Br.-Bl. 1931
+
+Espèces indicatrices : [[Trifolium squamosum|Trifolium maritimum]] (V), [[Bromus hordeaceus]] ssp. molliformis (IV), [[Melilotus indicus]] (IV), [[Podospermum laciniatum|Scorzonera laciniata]] var. integrifolia (IV), [[Vicia lutea]] var. hirta (III), [[Ervum tetraspermum|Vicia tetrasperma]] (III), [[Sonchus asper]] var. pungens (III), [[Hordeum secalinum]] (II), [[Medicago scutellata]] (II), [[Tragopogon porrifolius]] (II), [[Iris reichenbachiana|Iris spuria]] (I), [[Melilotus messanensis]] (I).
+
+Écologie : belle association à végétation printanière exubérante sur sol limoneux, lessivé par les pluies mais retenant suffisamment de chlorures pour permettre l'existence de quelques halophytes. Teneur en eau du sol très élevée au premier printemps (30 %), 17,5 % au début de mai, 4,5 % en été, tandis que la teneur en Cl augmente sensiblement : le sol se fissure et les semi-halophytes ainsi que les annuelles disparaissent — en été, l'association est méconnaissable. Groupement peu stable, soumis au dessalement. Variantes initiales à [[Hordeum marinum]], plus rarement à [[Bellis annua]] ; nombreux faciès de dominance locale ([[Hordeum secalinum]], [[Trifolium maritimum]], [[Melilotus indicus]], [[Medicago arabica|Medicago maculata]], [[Bromus hordeaceus|Bromus molliformis]]) ; mélanges possibles avec l'[[Artemisieto-Staticetum virgatae]] et l'[[Holoschoenetum romani]]. Aux Salins de Frontignan, la zonation va du [[Salicornietum fruticosae]] (avec faciès à Statice) au [[Caricetum divisae]], puis au Trifolietum maritimi.
+
+---
+
+#### Agropyretum mediterraneum
+
+Syn. : Agropyretum Kühnh. 1921 ; Sporoboletum Arènes 1929 pro parte ; Ass. à Agropyrum junceum et Cyperus capitatus Br.-Bl. 1931
+
+Espèces indicatrices : [[Elytrigia juncea]] ssp. mediterranea (V), [[Sporobolus pungens|Sporobolus arenarius]] (IV), [[Matthiola sinuata]] (IV⁻), [[Cyperus capitatus]] (III), [[Diplotaxis muralis|Diplotaxis maritima (muralis)]] (III), [[Polygonum maritimum]] (III), [[Euphorbia peplis]] (II⁻), [[Stachys maritima|Stachys maritimus]] (I⁻).
+
+Écologie : premier groupement pionnier, souvent discontinu, occupant les plages basses à proximité de la mer et atteintes par les vagues de la houle. Support calcaire ou sableux tassé, avec amas de galets, coquilles, débris d'algues et de Posidonie rejetés par la mer pendant les tempêtes ; sable basique et riche en carbonates. De petites dunes embryonnaires formées par [[Elytrigia juncea]] permettent l'installation de quelques espèces de l'association suivante. Les espèces qui s'avancent le plus près du rivage sont [[Sporobolus arenarius]], [[Elytrigia juncea]] et [[Cakile maritima]].
+
+---
+
+#### Agrostideto-Ageretum
+
+Espèces indicatrices : [[Cichorium pumilum]] (V), [[Achillea ageratum]] (IV), [[Blackstonia acuminata|Chlora serotina]] (III), [[Juncus striatus]] (II), [[Schenkia spicata|Centaurium spicatum]] (III).
+
+Écologie : pelouses peu denses peuplant les dépressions et bas-fonds plats, submergés lors des pluies ou avec suintement d'eau superficiel, mais se desséchant tôt. Sol compact, marneux, imperméable, à aération insuffisante.
+
+---
+
+#### Allietum moly
+
+Syn. : Ass. à Allium moly Br.-Bl. et Moss. 1937
+
+Espèces indicatrices : [[Allium moly]] (3.2), [[Iris lutescens|Iris olbiensis]] (1.2), s'y joignent [[Teucrium aureum]] (+.2), [[Salvia rosmarinus|Rosmarinus officinalis]] (+.2), [[Helianthemum apenninum]] (+), [[Ranunculus gramineus]], [[Valeriana tuberosa]], [[Fritillaria pyrenaica]] (r).
+
+Écologie : groupement proche de la précédente, riche en Géophytes, occupant les pentes raides, pierreuses, xériques de la montagne d'Alaric, vers 500 m d'altitude, où l'eau s'écoule rapidement. Compagnes : [[Brachypodium ramosum]] (3.3), [[Thymus vulgaris]] (2.2), [[Sedum sediforme]] (1.2), [[Tulipa sylvestris|Tulipa Celsiana]] (1.1), [[Carex halleriana]], [[Asphodelus cerasifer|Asphodelus ramosus]], [[Aceras anthropophora|Orchis anthropophora]], [[Euphorbia serrata]], [[Teucrium chamaedrys]].
+
+---
+
+#### Ammophiletum arundinaceae
+
+Syn. : Ass. à Ammophila arundinacea et Medicago marina (Br.-Bl. 1921) 1933
+
+Espèces indicatrices : [[Ammophila arenaria]] ssp. arundinacea (V), [[Medicago marina]] (V), [[Echinophora spinosa]] (V), [[Cutandia maritima]] (V), [[Ontonites candollei]] (I).
+
+Écologie : association des dunes récentes, mobiles, exposées au vent, mais en dehors des incursions de la mer. Sable fin, très perméable, sans humus, riche en carbonate de calcium, sans chlorure de sodium.
+
+---
+
+#### Antirrhineto-Sedetum
+
+Syn. : Ass. à Sedum brevifolium et Antirrhinum asarina Br.-Bl. 1934 em
+
+Espèces indicatrices : [[Asarina procumbens|Antirrhinum asarina]] (IV), [[Asplenium obovatum subsp. billotii|Asplenium lanceolatum]] (II), [[Sedum hirsutum]] (IV), [[Thymelaea dioica]] (II), [[Dianthus subacaulis]] (I), [[Hieracium schmidtii]] (I).
+
+Écologie : fentes des rochers siliceux compacts, verticaux, à toute exposition, remplies d'une terre fine noirâtre non carbonatée, à réaction faiblement acide.
+
+---
+
+#### Aphyllantheto-Leontodetum villarsii
+
+Espèces indicatrices : [[Thymus serpyllum]] ssp. angustifolius (V/IV/IV), [[Linum appressum|Linum salsoloides]] (V/II/II), [[Carthamus carduncellus|Carduncellus monspeliensium]] (II/I/I), [[Stipa pennata]] ssp. mediterranea (II/–/II), [[Hedysarum humile]] (–/I/I), [[Astragalus incanus]] (–/II/–), [[Brassica repanda subsp. saxatilis|Diplotaxis saxatilis]] ssp. humilis (I/–/–).
+
+Écologie : pelouses pâturées à Graminées et Chaméphytes sous-frutescents ([[Lavandula latifolia]], [[Dorycnium suffruticosum]], [[Fumana]]), parsemées de quelques buissons de [[Genista scorpius]] et [[Juniperus oxycedrus]]. S' établit sur des sols faiblement aérés, gorgés d'eau après les pluies, appartenant à la série des « Terres jaunes méditerranéennes » : malgré la disparition des horizons primitifs supérieurs, le profil peut atteindre 1 m de profondeur (Ao mince avec coprolithes ; Ar de 25 à 30 cm, faiblement humifère, toujours calcaire ; Az de même épaisseur, avec souvent des efflorescences de carbonate) ; tous les horizons sont basiques. Le microclimat de la station est caractérisé par des températures moyennes inférieures de dix degrés à celles enregistrées à la même époque dans la pelouse à [[Brachypodium ramosum]], par une plus faible évaporation et un ensoleillement moindre. Compagnes de haute présence : [[Festuca ovina]] ssp. duriuscula (V/V/V), [[Genista scorpius]] (V/V/V), [[Thymus vulgaris]] (III/V/III), [[Bromus erectus]] (III/IV/IV), [[Eryngium campestre]] (IV/IV/III), [[Brachypodium phoenicoides]] (III/III/IV), [[Bupleurum rigidum]] (III/III/III), [[Dorycnium suffruticosum]] (III/III/III), [[Teucrium polium]] (V/V/I), [[Hieracium pilosella]] (III/III/I), [[Schoenus nigricans]] (–/–/IV).
+
+---
+
+#### Armerietum junceae
+
+Syn. : Ass. à Armeria juncea Br.-Bl. 1928 ; Ass. à Arenaria aggregata et Armeria juncea Liou Tchen-Ngo 1929
+
+Espèces indicatrices : [[Armeria girardii|Armeria juncea]] (V), [[Arenaria aggregata]] ssp. capitata (V), [[Alyssum montanum]] ssp. psammeum (I), [[Sabulina tenuifolia|Minuartia hybrida]] (I).
+
+Écologie : association nettement circonscrite, toujours peu étendue, strictement localisée sur le sable fin résultant de la désagrégation des rochers dolomitiques. Lorsque les rochers ruiniformes sont usés, l'arène dolomitique ne s'accumule plus sur place : des Mousses et des Lichens peuvent s'installer, cédant peu à peu le terrain aux groupements de l'[[Ononidion striatae]]. [[Arenaria aggregata]] ssp. capitata, présente aussi dans d'autres associations (p. ex. [[Genistetum lobelii]]), semble trouver ici son meilleur développement et ne manque jamais. Compagnes : [[Festuca ovina]] ssp. duriuscula (V), [[Helianthemum canum|Helianthemum nummularium ssp. canum]] var. dolomiticum (V), [[Helichrysum stoechas]] (V), [[Phleum arenarium]] (III), [[Silene conica]] (III), [[Erophila verna]] (III), [[Fumana procumbens]] (III), [[Potentilla verna|Potentilla cinerea? P. verna]] ssp. australis (III), [[Thymus serpyllum]] ssp. angustifolius (III), [[Galium mollugo]] ssp. corrudifolium (III), [[Asperula cynanchica]] (III).
+
+---
+
+#### Artemisieto-Staticetum virgatae
+
+Syn. : Ass. à Statice virgata et Artemisia gallica Br.-Bl. 1931 ; Artemisietum gallicae Kühnh. 1923 pro parte
+
+Espèces indicatrices : [[Artemisia caerulescens subsp. gallica|Artemisia gallica]] (V), [[Limonium virgatum]] (Statice virgata) (V), [[Limonium girardianum]] (IV/I⁻), [[Frankenia laevis]] (I/I⁻).
+
+Écologie : association des sols secs, durs, souvent pierreux, contenant des amas de coquilles brisées, parfois même rocheux, plus rarement sablonneux, riches en CO₃Ca, moins riches en NaCl que ceux de l'Arthrocnemetum.
+
+---
+
+#### Arthrocnemetum
+
+Syn. : Salicornietum macrostachyi Br.-Bl. 1928, Tallon 1933 ; Ass. à Arthrocnemum glaucum et Sphenopus divaricatus Br.-Bl. 1933
+
+Espèces indicatrices : [[Arthrocaulon macrostachyum|Arthrocnemum glaucum]] (V), [[Sphenopus divaricatus]] (V), [[Hornungia procumbens|Hutchinsia procumbens]] (IV), [[Frankenia pulverulenta]] (IV).
+
+Écologie : sols limoneux, compacts, peu aérés, humides en hiver et au premier printemps, très secs et se fendant en été (0,5 % sable grossier, 34,5 % sable fin, 65 % limon). Teneur en Cl⁻ de la rhizosphère supérieure (couche 2–4 cm) : 0,9 % au printemps, 16 % en été — la plus forte concentration en chlorures observée en France dans la rhizosphère d'un groupement végétal. L'association progresse ainsi sur les surfaces stériles où la teneur en Cl⁻ atteint et dépasse 20 % en été. Recouvrement 60–90 % ; les plaques de végétation correspondent à une surélévation du sol de 10–15 cm qui met les végétaux à l'abri de la submersion. Le sol est souvent couvert de cyanophycées ([[Microcoleus chthonoplastes]], [[Gloeothece fuscolutea]], [[Calothrix scopulorum]], etc.) formant des croûtes en se desséchant.
+
+---
+
+#### Asarinetum rupestre
+
+Espèces indicatrices : [[Asplenium obovatum subsp. billotii|Asplenium lanceolatum]] (III), [[Asarina procumbens|Antirrhinum asarina]] (III), [[Dianthus graniticus]] (III), [[Saxifraga hypnoides]] ssp. continentalis (III), [[Micranthes clusii|Saxifraga clusii]] (I), [[Oeosporangium pteridioides|Cheilanthes fragrans]] (I), [[Leucanthemum monspeliense|Chrysanthemum monspeliense]] (I).
+
+Écologie : fissures des rochers siliceux, surtout à l'exposition Sud. Bien développé aux étages du Chêne vert et du Chêne pubescent, il comprend une série d'espèces thermophiles, presque exclusivement chaméphytes et hémicryptophytes ; il s'appauvrit à l'étage du Hêtre, au-dessus de 1 000 m.
+
+---
+
+#### Asplenieto-Campanuletum macrorrhizae
+
+Espèces indicatrices : [[Piptatherum coerulescens|Oryzopsis coerulescens]] (3+), [[Antirrhinum latifolium]] (2+).
+
+Écologie : groupement thermophile des fentes des rochers calcaires compacts peu éloignés de la mer, dans la partie la plus chaude du littoral méditerranéen, à toute exposition. [[Senecio cineraria]], dont l'optimum est dans l'alliance du Crithmo-Staticion, pénètre ici dans une association de l'Asplenion glandulosi.
+
+---
+
+#### Astereto-Anthyllidetum
+
+Syn. : Festucetum duriusculae caussecense Liou Tchen-Ngo 1929 pro parte
+
+Espèces indicatrices : [[Aster alpinus]] ssp. cebennensis (V/IV), [[Thymus dolomiticus]] (II/IV), [[Teucrium aureum]] ssp. rouyanum (II/IV), [[Jurinea humilis]] (II/II), [[Carthamus mitissimus|Carduncellus mitissimus]] (II/III).
+
+Écologie : pacages maigres sur sol dolomitique très perméable, pierreux, fissuré, contenant peu de terre fine sablonneuse. Très broutés par les brebis, ils forment un gazon généralement peu dense, souvent écorché, dont l'aspect est déterminé par l'abondance des espèces respectées par les ovins ou très fortement enracinées. Compagnes : [[Helianthemum canum]] var. dolomiticum (V/V), [[Festuca ovina]] ssp. duriuscula (V/V), [[Arenaria aggregata]] ssp. capitata (III/IV), [[Bromus erectus]] (II/IV), [[Anthyllis vulneraria]] (II/IV), [[Galium mollugo]] ssp. corrudifolium (II/IV), [[Euphorbia cyparissias]] (II/IV), [[Hieracium pilosella]] (II/IV). Compagnes différentielles des sous-associations : [[Sesleria coerulea|Sesleria caerulea]], [[Trichostomum crispulum]] (mousse), [[Armeria juncea]], [[Armeria plantaginea]], [[Scabiosa columbaria]], [[Carex halleriana]], [[Thymus vulgaris]], [[Cladonia endiviaefolia]].
+
+---
+
+#### Astragaletum-Plantaginetum subulatae
+
+Syn. : Ass. à Plantago subulata et Astragalus tragacantha Mol. 1934
+
+Espèces indicatrices : [[Astragalus tragacantha|Astragalus massiliensis]] (V), [[Plantago subulata]] (V), [[Thymelaea tartonraira]] (IV).
+
+Écologie : succède au [[Crithmo-Staticetum]] vers l'intérieur du rivage ; mêmes facteurs déterminants, mais les taux de sel dans le sable diminuent sensiblement. Le vent joue encore un rôle primordial en interdisant le développement d'espèces arbustives ou arborescentes.
+
+---
+
+#### Atropetum belladonnae
+
+Espèces indicatrices : [[Atropa bella-donna|Atropa belladonna]], avec des peuplements de [[Fragaria vesca]] et [[Cirsium lanceolatum]], l'accompagnent de nombreuses espèces rudérales : [[Fallopia convolvulus|Polygonum convolvulus]], [[Dipsacus fullonum|Dipsacus sylvestris]], [[Viola arvensis]], [[Cirsium arvense]], [[Senecio vulgaris]], [[Papaver rhoeas]], [[Lactuca serriola]], [[Sonchus asper]], [[Urtica dioica]], [[Arctium minus]], [[Sisymbrium officinale]], [[Valerianella locusta|Valerianella olitoria]].
+
+---
+
+#### Avenetum amethystinae
+
+Syn. : Ass. à Avena amethystina et Koeleria gracilis Br.-Bl. 1938
+
+Espèces indicatrices : [[Phleum phleoides]] (V), [[Dianthus carthusianorum]] var. Poncetii (V, OCR), [[Avenula pubescens|Avena pubescens]] ssp. amethystina (IV), [[Carlina acanthifolia subsp. cynara|Carlina cynara]] (III), [[Trifolium striatum]] (III), [[Achillea odorata]] (I), [[Dianthus pyrenaicus|Dianthus attenuatus]] ssp. amethystina (II), [[Odontites luteus|Euphrasia lutea]] (I), [[Hyssopus officinalis]] (I).
+
+Écologie : pelouses maigres, chaudes, de la vallée supérieure de la Têt (Pyrénées orientales), entre 1 000 et 1 400 m, sur sous-sol calcaire primaire ; précipitations annuelles de la contrée : 600–800 mm. Compagnes : [[Festuca ovina]] ssp. duriuscula (V), [[Thymus serpyllum]] (IV), [[Agrostis alba]] (IV), [[Hieracium pilosella]] (IV), Achillea salifolium (IV, OCR), [[Lotus corniculatus]] (IV), Arenaria plantagiana (III, OCR), [[Helianthemum nummularium]] ssp. (III, OCR), [[Dactylis glomerata]] (III), [[Medicago suffruticosa]] (III).
+
+---
+
+#### Bidentetum tripartiti
+
+Espèces indicatrices : [[Bidens tripartita|Bidens tripartitus]] (V), [[Persicaria dubia|Polygonum mite]] (IV).
+
+Écologie : lieux humides et vaseux, bordant les eaux tranquilles.
+
+---
+
+#### Brachypodietum phoenicoidis
+
+Espèces indicatrices : [[Centaurea aspera]] (IV/IV/IV), [[Picris hieracioides]] ssp. umbellata (IV/V/III), [[Phleum pratense]] ssp. nodosum (III/IV/IV), [[Euphorbia serrata]] (II/IV/IV), [[Hypericum perforatum]] (III/III/IV), [[Vicia hybrida]] (III/V/I), [[Trifolium angustifolium]] (III/IV/I), [[Pallenis spinosa]] (III/II/III), [[Elytrigia intermedia|Agropyrum glaucum]] (III/III/III), [[Carex muricata]] (I/I/I), [[Nigella damascena]] (x), [[Medicago sativa subsp. falcata|Medicago falcata]] (III/III/–), [[Althaea cannabina]] (II/III/–), [[Phlomis herba-venti]] (III/II/–), [[Lathyrus annuus]] (II/II/–), [[Phalaris coerulescens]] (II/I/–), [[Vicia peregrina]] (I/II/–), [[Chondrilla juncea]] (–/–/II), [[Melica ciliata]] ssp. Magnolii (I), [[Allium paniculatum]] (I), [[Centaurea pullata]] (I).
+
+Écologie : pelouses permanentes des terrains incultes de la plaine méditerranéenne, en bordure des champs, sur le flanc des collines, dans le fond des ravins où la terre fine s'accumule, entraînée par le ruissellement. Optimum sur les sols anciennement travaillés, bien aérés, pas trop secs (contenu en eau de 13 à 26 % d'octobre à avril, 5 à 10 % durant le reste de l'année) et basiques. Groupement formant un pacage riche en espèces qui couvre le sol presque entièrement.
+
+---
+
+#### Brachypodietum ramosi
+
+Syn. : Ass. à Brachypodium ramosum et Phlomis lychnitis Br.-Bl. 1924
+
+Association la plus riche en espèces du midi français, se présentant sous forme de deux races géographiques (sous-associations), l'une provençale, l'autre languedocienne, qui diffèrent surtout par des caractères quantitatifs ; cependant [[Achillea tomentosa]], [[Evax pygmaea]] et quelques autres espèces manquent ou sont très rares en Languedoc
+
+Espèces indicatrices : [[Phlomis lychnitis]] (V/IV), [[Iris lutescens|Iris chamaeiris]] (IV/II), [[Trigonella gladiata]] (IV/II), [[Ruta angustifolia]] (IV/II), [[Malva setigera|Althaea hirsuta]] (III/II), [[Vicia amphicarpa]] (III/II), [[Echinaria capitata]] (III/I), [[Asphodelus cerasiferus|Asphodelus ramosus]] (II/I), [[Medicago disciformis]] (I/II), [[Medicago coronata]] (I/I), [[Narcissus dubius]] (I/I), [[Crupina vulgaris]] (III/–), [[Allium polyanthum|Allium multiflorum]] (I/–), [[Teucrium pseudochamaepitys]] (I/I), espèces observées hors relevés : [[Medicago secundiflora]], [[Sternbergia colchiciflora]].
+
+Écologie : recouvre de sa toison clairsemée des surfaces étendues dans les garrigues jurassiques et crétacées jusqu'à env. 600 m d'altitude. S'accommode d'un sol très dégradé, sec, de couleur rouge-brique, riche en oxyde de fer, souvent plus ou moins décalcifié mais non désalcalinisé. Constitue un des termes finaux de la dégradation du [[Quercetum galloprovinciale]] après la disparition du Chêne kermès — état de dégradation avancée qui auréole surtout les centres habités. Compagnes de haute présence : [[Brachypodium ramosum]] (V/V), [[Thymus vulgaris]] (V/V), [[Sedum sediforme]] (V/IV), [[Poa bulbosa]] (IV/V), [[Dactylis glomerata]] ssp. hispanica (V/IV), [[Eryngium campestre]] (V/IV), [[Lagoseris sancta]] (III/V), [[Avena bromoides]] (IV/IV), [[Sanguisorba minor]] ssp. Magnolii (IV/IV), [[Erodium cicutarium]] (IV/IV), [[Asterolinum stellatum]] (III/V), [[Ononis minutissima]] (IV/III), [[Sherardia arvensis]] (IV/III), [[Festuca ovina]] ssp. duriuscula (III/III), [[Muscari neglectum]] (III/III), [[Crepis taraxacifolia]] (III/II). Nombreux faciès et variantes : faciès à [[Thymus vulgaris]] et [[Brachypodium distachyon]] (cultures abandonnées au milieu des garrigues), à [[Asphodelus cerasifer|Asphodelus ramosus]], [[Cistus albidus]] et [[Cistus monspeliensis]] (terres souvent incendiées), à [[Euphorbia characias]] (lieux piétinés par les ovins, surpâturés), à [[Iris chamaeiris]] (sols caillouteux très secs, quelques centimètres de terre rouge-brique) ; faciès à [[Stipa juncea]], très rare (Bharucha, 1932) ; au Nord de la Provence occidentale, faciès très pauvre en espèces à [[Euphorbia spinosa]].
+
+---
+
+#### Calamagrostideto-Centranthetum angustifolii
+
+Espèces indicatrices : [[Achnatherum calamagrostis|Stipa calamagrostis]] (2.3), [[Centranthus angustifolius]] (2.2), [[Laserpitium gallicum]] (1.2), [[Ptychotis saxifraga|Ptychotis heterophylla]] (1.1), [[Scrophularia canina subsp. hoppei|Scrophularia hoppei]] (+) *(caractéristiques territoriales)*.
+
+Écologie : éboulis calcaires et calcaréo-marneux des basses vallées ; groupement stabilisateur de premier ordre. Dans les vallées élevées ou plus septentrionales, les caractéristiques recherchent les stations ensoleillées, alors qu'en avançant vers le Sud elles tendent à occuper les pierriers exposés au Nord.
+
+---
+
+#### Calycotomo-Myrtetum
+
+Syn. : Ass. à Myrtus communis et Calycotome spinosa Guinochet 1944
+
+Espèces indicatrices : [[Myrtus communis]] (V), [[Phillyrea angustifolia]] (V), [[Cytisus spinosus|Calycotome spinosa]] (V), [[Pistacia lentiscus]] (V), [[Daphne gnidium]] (III), [[Chamaerops humilis|Chamaerops]] (I), [[Jasminum fruticans]] (I).
+
+Écologie : maquis dense succédant à la dégradation des forêts de Chênes verts dans les Alpes-Maritimes. Les espèces caractéristiques citées par Guinochet n'ont qu'une valeur tout à fait locale. Les espèces sciaphiles du Quercetum galloprovinciale sont en régression ; les espèces héliophiles et thermophiles et certains arbustes des garrigues prennent de l'extension. Ce groupement n'est probablement qu'une forme de dégradation du [[Quercetum galloprovinciale]] des parties chaudes de la Côte d'Azur.
+
+---
+
+#### Cariceto-Crepidetum suffrenianae
+
+Syn. : Ass. à Carex nitida et Crepis Suffreniana Mol. 1934
+
+Espèces indicatrices : [[Carex liparocarpos|Carex halleriana? Carex nitida]] (V), [[Crepis suffreniana]] (V), [[Achillea tomentosa]] (III), [[Parentucellia latifolia]] (II), [[Phleum arenarium]] (I), [[Silene conica]] (I), [[Armeria arenaria subsp. bupleuroides|Armeria bupleuroides]] (II).
+
+Écologie : caractérise les petites dépressions sableuses situées le long des hautes crêtes provençales. Le sable provient surtout de la dégradation sur place des dolomies du Jurassique supérieur et des fines particules solides emportées par le vent, accumulées sur quelques centimètres d'épaisseur seulement. Renferme plusieurs espèces rares en Provence. Compagnes : [[Poa bulbosa]] (V), [[Festuca ovina]] ssp. duriuscula (V), [[Helianthemum canum|Helianthemum nummularium ssp. canum]] (V), [[Sedum anopetalum|Hylotelephium anopetalum]] (V), [[Galium mollugo]] ssp. corrudifolium (V), [[Sedum album]] (IV), [[Minuartia tenuifolia]] var. laxa (IV), [[Thymus vulgaris]] (IV), [[Vulpia ciliata]] (III), [[Erophila verna]] (III), [[Stipa pennata]] ssp. mediterranea (III), [[Alyssum campestre]] (III).
+
+---
+
+#### Cariceto-Pinguiculetum longifoliae
+
+Espèces indicatrices : [[Carex brachystachys|Carex tenuis]], [[Eucladium verticillatum]], [[Pinguicula longifolia]], [[Agrostis stolonifera|Agrostis alba]], [[Aquilegia hirsutissima|Aquilegia kitaibelii]], [[Potentilla caulescens]], [[Adiantum capillus-veneris]], [[Carex flacca|Carex glauca]], [[Buxus sempervirens]].
+
+Écologie : flancs des rochers calcaires à suintements tufeux.
+
+---
+
+#### Caricetum divisae
+
+Syn. : Ass. à Carex divisa et Lotus decumbens Br.-Bl. 1931
+
+Espèces indicatrices : [[Carex divisa]] (V), [[Lotus corniculatus subsp. preslii|Lotus decumbens]] (V).
+
+Écologie : sur les rebords des étangs saumâtres, forme des pelouses hautes de 30–40 cm, souvent étendues et denses (recouvrement 100 %). Occupe des stations semblables à la précédente, mais un peu moins humides et moins longtemps inondées. Contenu du sol en chlorures faible : de 0,01 % au printemps à 0,70 % dans la deuxième moitié d'août.
+
+---
+
+#### Chaetomorpho-Ruppietum
+
+Espèces indicatrices : [[Ruppia maritima]] (5.5), [[Chaetomorpha linum]] (3.4), [[Ulva lactuca]] (2.3), [[Ulva intestinalis|Enteromorpha intestinalis]] (1.2), [[Ulva compressa|Enteromorpha compressa]], [[Nanozostera noltei|Zostera nana]], [[Chara canescens|Chara crinita]], [[Chara aspera]], caractéristiques rares : [[Althenia filiformis]], [[Althenia filiformis subsp. filiformis|Althenia barrandoni]], [[Ruppia maritima|Ruppia rostellata]].
+
+Écologie : remplit les étangs saumâtres de faible profondeur du littoral languedocien (profondeur moyenne 10–30 cm ; 11–18 °C en mars, 25 °C en juin ; couverture 90 %). À gros de l'été, l'association est à sec ; au printemps, bordée par un groupement sapropélique de bactéries sulfurées (vase noire nauséabonde). Teneur en Cl⁻ de l'eau variable de 1 à plus de 5 ‰ en mai.
+
+---
+
+#### Cisteto-Euphorbietum dendroidis
+
+Syn. : Ass. à Cistus salvifolius et Euphorbia dendroides Mol. 1937 prov
+
+Espèces indicatrices : [[Myrtus communis]] (3.3), [[Euphorbia characias]] (3.3), [[Euphorbia dendroides]] (2.3), [[Cytinus hypocistis]] (2.3), [[Cistus salviifolius|Cistus salvifolius]] (2.3), [[Cistus monspeliensis]] (2.3), [[Narcissus tazetta]] var. patulus (1.2), [[Pistacia lentiscus]] (1.2), [[Teucrium marum]] (1.2), [[Arbutus unedo]] (1.2), [[Salvia rosmarinus|Rosmarinus officinalis]] (1.2), [[Phillyrea angustifolia]] (1.2), [[Melica minuta|Melica major]] (+), [[Gladiolus segetum]] (+), [[Jacobaea maritima|Senecio cineraria]] (+), [[Juniperus phoenicea]], [[Helichrysum stoechas]], [[Crepis leontodontoides]], en plus, à Port-Cros : [[Asphodelus ramosus|Asphodelus chamberieri]] (OCR) et [[Asphodelus microcarpus]].
+
+Écologie : groupement répandu aux îles d'Hyères, décrit par Molinier. Ce groupement n'a pas d'affinités avec l'Euphorbietum dendroidis de Guinochet (v. Guinochet et Drouineau, 1944).
+
+---
+
+#### Cisto-Ericetum cinereae
+
+Syn. : Ass. à Cistus crispus et Calycotome spinosa Br.-Bl. 1940
+
+Espèces indicatrices : [[Cistus crispus]] (V), [[Erica cinerea]] (V), [[Cytisus spinosus|Calycotome spinosa]] (IV), alliance (Cistion ladaniferi) et.
+
+Écologie : association plus méridionale que la précédente, répandue sur les alluvions anciennes siliceuses riches en quartzites de la contrée de Béziers. Souvent incendiée, elle constitue la dernière étape de dégradation des bois de Chêne pubescent avant la stérilisation complète du sol. Le sol caillouteux contient toujours de nombreux petits grains de quartz roulés ; il est fortement acide et le profil, souvent décapité et érodé, comprend : Ao, presque inexistant ; A1, 1–2 cm de terre fine sablonneuse gris-foncé, peu acide, pauvre en humus, à faible activité biologique ; A2, 10–30 cm de terre poudreuse-sableuse gris-jaunâtre clair, très acide (pH 4,5), très pauvre en humus, à activité biologique très faible, avec de nombreuses racines d'arbustes ; B, environ 50 cm de terre compacte, argileuse (pH 5–5,5), sans humus, de couleur brique intense ; C, argile et cailloutis pliocènes. Restes du Quercion ilicis : [[Quercus coccifera]] (IV), [[Phillyrea angustifolia]] (IV), [[Daphne gnidium]] (III), [[Asparagus acutifolius]] (II), [[Quercus ilex]] (II), [[Pistacia lentiscus]] (II). Compagnes : [[Brachypodium ramosum]] (V), [[Cistus monspeliensis]] (V), [[Dorycnium suffruticosum]] (IV), [[Thymus vulgaris]] (IV), [[Ulex parviflorus]] (IV), [[Avena bromoides]] (III), [[Carex halleriana]] (III), [[Juniperus oxycedrus]] (III), [[Crucianella angustifolia]] (III). Cryptogames : [[Cladonia rangiformis]] (V), [[Cladonia endiviaefolia]] (V), [[Cladonia pyxidata]] (V), [[Cladonia furcata]] var. palamasa (III).
+
+---
+
+#### Cocciferetum
+
+Syn. : Quercetum cocciferae
+
+Espèces indicatrices : [[Quercus coccifera]] (V/V), [[Teucrium chamaedrys]] ssp. pinnatifidum (V/V), [[Rumex intermedius]] (IV/II), [[Vincetoxicum nigrum]] (I/I).
+
+Écologie : la garrigue à Chêne kermès, buissonnante de 80 à 150 cm, constitue une étape de dégradation de la forêt climax du [[Quercetum galloprovinciale]]. Elle occupe d'immenses surfaces abandonnées aux brebis depuis de longs siècles ; de temps en temps, pour régénérer son pacage, le berger incendie la garrigue, mais [[Quercus coccifera]], doué d'une force de régénération exceptionnelle, repousse toujours et se maintient presque indéfiniment. Le profil du sol de la Cocciferaie est souvent décapité, le sous-sol rocheux-pierreux apparaît en surface. Bien plus exigeant par rapport à la température que le Chêne vert, [[Quercus coccifera]] reste partout en deçà de la limite du Quercetum galloprovinciale. On peut distinguer de nombreux faciès dus surtout aux influences anthropo-zoogènes : les faciès à [[Cistus albidus]] et à [[Cistus monspeliensis]], résultat d'incendies répétés, prennent par places une grande extension ; une fois la Cocciferaie définitivement détruite, les Cistaies prennent souvent sa place.
+
+---
+
+#### Convolvuleto-Ononidetum pubescentis
+
+Espèces indicatrices : [[Plantago albicans]] (V), [[Ononis pubescens]] (V), [[Convolvulus lineatus]] (V), [[Hedysarum spinosissimum]] (III), [[Ononis breviflora]] (I).
+
+Écologie : pelouses assez denses (recouvrement 80–90 %) des coteaux miocènes marneux, chauds, au S.-O. du département de l'Hérault (environs de Montady, Lespignan, Béziers). Sol riche en carbonates, sec, peu perméable, gardant longtemps l'humidité après les pluies. Compagnes : [[Brachypodium ramosum]] (V), [[Dactylis glomerata]] (IV), [[Sedum sediforme]] (IV), [[Dorycnium suffruticosum]] (IV), [[Sonchus tenerrimus]] (IV), [[Koeleria phleoides]] (IV), [[Eryngium campestre]] (III), [[Avena bromoides]] (III), [[Fumana glutinosa]] (III), [[Genista scorpius]] (III), [[Astragalus monspessulanus]] (III), [[Scorpiurus subvillosus]] (III), [[Urospermum dalechampii]] (III), [[Thymus vulgaris]] (III), [[Atractylis humilis]] (III).
+
+---
+
+#### Crithmo-Lotetum allionii
+
+Syn. : Ass. à Crithmum maritimum et Lotus allionii Mol. 1937
+
+Espèces indicatrices : [[Lotus cytisoides|Lotus allionii]] (V), [[Anthyllis barba-jovis]] (I).
+
+Écologie : se distingue des trois associations précédentes de l'alliance notamment par la disparition des espèces calcicoles telles que [[Silene sedoides]] et par la nature siliceuse du substratum.
+
+---
+
+#### Crithmo-Staticetum
+
+Espèces indicatrices : [[Lotus cytisoides]] f. drepanocarpus (II), [[Senecio leucanthemifolius|Senecio crassifolius]] (II).
+
+Écologie : première frange végétale qui s'établit sur les rochers toujours exposés aux embruns ; ceux-ci déposent une grande quantité de sel qui interdit toute prospérité aux espèces non halophiles et détermine la largeur de la bande occupée. La quantité de sable (ne couvrant le sol qu'à 20–30 %) règle la répartition des espèces, [[Crithmum maritimum]] y étant surtout lié, contrairement aux Statice qui se cantonnent dans les fissures des rochers.
+
+---
+
+#### Deschampsietum mediae
+
+Syn. : Ass. à Deschampsia media et Prunella hyssopifolia Br.-Bl. 1931
+
+Espèces indicatrices : [[Deschampsia media]] (V/V/V), [[Prunella hyssopifolia]] (V/V/V), [[Plantago maritima subsp. serpentina|Plantago serpentina]] (IV/IV/V), [[Centaurea jacea]] ssp. Timbali (IV/V/II), [[Thymelaea passerina]] (I/I/I), [[Seseli longifolium|Seseli elatum]] (II/V/–), [[Jasonia tuberosa|Inula tuberosa]] (I/V/–).
+
+Écologie : pelouses discontinues s'installant dans les fonds de vallons où l'eau séjourne, au débouché des creux d'érosion et dans les dépressions des pentes à faible inclinaison, le plus souvent parmi les groupements du [[Rosmarino-Ericion]] et de l'Aphyllanthion. Liée aux sols limoneux imperméables, très riches en carbonate de calcium, nettement alcalins. Une capacité en air très faible de juin à novembre (excès d'eau dû à l'imperméabilité ; contenu en air de 4,5 à 9,8 %) exclut les concurrents plus exigeants ; pendant la sécheresse estivale, le contenu en air monte jusqu'à 38 %, le sol se dessèche à peu près complètement et se fendille.
+
+---
+
+#### Diantheto-Lavateretum maritimae
+
+Syn. : Ass. à Phagnalon sordidum et Asplenium glandulosum, race géographique de la contrée narbonnaise pro parte Br.-Bl. et H. Meier 1934
+
+Espèces indicatrices : [[Hormathophylla spinosa|Alyssum spinosum]] (V⁺), [[Dianthus pungens|Dianthus brachyanthus]] (V⁺), [[Erodium foetidum|Erodium petraeum]] (III⁺), [[Malva subovata|Lavatera maritima]] (III⁺), [[Phagnalon sordidum]] (IV⁺), [[Bufonia perennis|Buffonia perennis]] (I⁻), [[Parietaria lusitanica]].
+
+Écologie : fentes des falaises chaudes ; diffère sensiblement du Phagnaleto-Asplenietum : [[Asplenium glandulosum]] y manque, tandis que [[Dianthus brachyanthus]], [[Lavatera maritima]], [[Alyssum spinosum]] et [[Erodium petraeum]] abondent — caractère méditerranéo-montagnard plus accusé. Parmi les compagnes, [[Juniperus phoenicea]], [[Stipa juncea]] et [[Rosmarinus officinalis]] aident à caractériser l'association.
+
+---
+
+#### Diplotaxidetum erucoidis
+
+Syn. : Ass. à Diplotaxis erucoides et Amaranthus delilei Br.-Bl. 1931
+
+Espèces indicatrices : [[Setaria verticillata]] (IV), [[Diplotaxis erucoides]] (IV), [[Aristolochia clematitis]] (III), [[Amaranthus graecizans subsp. silvestris|Amaranthus silvestris]] (III), [[Solanum nigrum]] (III), [[Veronica persica|Veronica tournefortii]] (II), [[Sorghum halepense]] (I), [[Eragrostis barrelieri]] (I), [[Xanthium orientale]] (I).
+
+Écologie : cultures sarclées (vignobles notamment), sols travaillés plusieurs fois par an et abondamment fumés. Premier optimum de développement en septembre–octobre, après les vendanges, et deuxième optimum en février–mars, après la germination hivernale des annuelles. Nombreux faciès et variantes, correspondant soit au mode de culture ou de fumure, soit à des conditions édaphiques particulières.
+
+---
+
+#### Dorycnio-Holoschoenetum
+
+Syn. : Ass. à Schoenus nigricans et Inula viscosa Br.-Bl. 1924 ; Ass. à Schoenus nigricans et Holoschoenus Br.-Bl. 1931 nomen nudum
+
+Espèces indicatrices : [[Lotus jordanii|Dorycnium gracile]] (III), [[Danthonia decumbens|Sieglingia decumbens]] (II), [[Lysimachia tenella|Anagallis tenella]] (I), [[Gladiolus illyricus]] (I).
+
+Écologie : groupement des terrains marneux, souvent à l'état fragmentaire autour des points d'eau et des suintements qui se dessèchent au fort de l'été. Sol basique, compact, argileux, à grain fin, riche en carbonates, plus foncé sous les touffes serrées de [[Schoenus nigricans]]. L'association alterne souvent avec le [[Deschampsietum mediae]] et le pénètre parfois, formant alors un groupement mixte.
+
+---
+
+#### Eragrostido-Chenopodietum
+
+Syn. : Ass. à Chenopodium botrys et Eragrostis major Br.-Bl. 1936
+
+Espèces indicatrices : [[Dysphania botrys|Chenopodium botrys]] (3-2), [[Eragrostis pilosa]] (3), [[Eragrostis cilianensis|Eragrostis major]] (2), [[Chrysanthemum segetum]] (1).
+
+Écologie : vignes sur sol léger siliceux, ou Burdigalien sablonneux.
+
+---
+
+#### Ericeto-Genistetum microphyllae
+
+Espèces indicatrices : [[Erica cinerea]] (V), [[Genista pilosa]] var. microphylla (V), [[Potentilla heptaphylla]] (IV), [[Petrosedum forsterianum|Sedum forsterianum]] (II).
+
+Écologie : aux limites de la Région méditerranéenne, dans les Cévennes méridionales et les contrées voisines, l'association forme des landes denses, hautes de 24–40 cm, fortement pacagées. Au cœur de l'été, ces landes frappent par l'abondance de fleurs roses. Dans les Causses (par exemple près de Saint-Maurice, 580 m), elles se détachent nettement sur le fond desséché des pelouses calcaires, indiquant de loin la nappe d'alluvions pliocènes constituée en bonne partie par des galets de quartz blanc. La plupart des relevés proviennent de la région de Sauclières, entre 700 et 900 m ; le sol, d'origine granitique, est une terre brune à horizons nets, très riche en humus dans la partie supérieure et très acide. Compagnes : [[Festuca rubra]] (V), [[Genista anglica]] (IV), [[Sieglingia decumbens]] (IV), [[Hieracium pilosella]] (IV), [[Carlina vulgaris]] (IV), [[Juniperus communis]] (III), [[Agrostis alba]] (III), [[Hypochaeris radicata|Hypochoeris radicata]] (III).
+
+---
+
+#### Ericeto-Lavanduletum stoechidis
+
+Syn. : Ass. à Erica scoparia et Lavandula stoechas Br.-Bl. 1931
+
+Espèces indicatrices : [[Erica scoparia]] (V), [[Carex oedipostyla]] (IV), [[Anacamptis morio subsp. picta|Orchis picta]] (III), alliance (Cistion ladaniferi) et.
+
+Écologie : l'association bien développée est localisée sur les terrasses pliocènes et quaternaires décalcifiées, riches en cailloux quartzitiques, de la plaine languedocienne. C'est un stade avancé de dégradation du Quercetum ilicis, en landes plus ou moins continues, riches en Lichens fruticuleux. Après l'incendie, souvent pratiqué, le tapis lichénique détruit se régénère très lentement. Le sol est une terre brune très caillouteuse, faiblement acide, à quatre horizons : Ao, litière de feuilles mortes de Cistes et d'Éricacées (pH 5) ; A, terre brun-gris foncé, plus ou moins sablonneuse (pH 5,5–6) ; A2, horizon gris-jaunâtre (pH 5,1–6,5 (6,8)) ; B, rougeâtre ou rouge brique (pH 5–5,9). On peut distinguer plusieurs variantes et faciès qui, en partie, correspondent à différentes étapes de l'évolution. Restes du Quercion ilicis : [[Phillyrea angustifolia]] (V), [[Quercus coccifera]] (V), [[Quercus ilex]] (V), [[Daphne gnidium]] (IV), [[Rubia peregrina]] (III), [[Pistacia lentiscus]] (II), [[Teucrium chamaedrys]] ssp. pinnatifidum (II), [[Lonicera implexa]] (II), [[Arbutus unedo]] (I). Compagnes : [[Cistus monspeliensis]] (V), [[Dorycnium suffruticosum]] (IV), [[Brachypodium ramosum]] (III), [[Anthoxanthum odoratum]] (III), [[Avena bromoides]] (III), [[Carex halleriana]] (III), [[Hieracium pilosella]] (III). Cryptogames : [[Cladonia rangiformis]] (V), [[Cladonia endiviaefolia]] (V), [[Cladonia pyxidata]] (V), [[Pleurochaete squarrosa]] (IV).
+
+---
+
+#### Erysimo-Seslerietum coeruleae
+
+Syn. : Ass. à Sesleria coerulea et Erysimum australe f. squarrosum Mol. 1934
+
+Espèces indicatrices : [[Rosa spinosissima]] (IV), [[Senecio gerardi|Senecio provincialis]] (III), [[Fritillaria involucrata]] (III), [[Erysimum australe]] f. squarrosum (II).
+
+Écologie : pelouses denses recouvrant, à l'exposition Nord, les vires rocheuses et la base des falaises. Sur le substratum rocheux compact s'accumule une terre fine de désagrégation et d'apport éolien ; le sol très foncé, parfois de 20 cm d'épaisseur, reste toujours frais ; l'érosion et le ruissellement y sont généralement faibles ; en hiver la neige demeure beaucoup plus longtemps sur ces vires qu'ailleurs. [[Peucedanum cervaria]], [[Fritillaria involucrata]] et peut-être aussi [[Crocus versicolor]] y trouvent leur optimum. Compagnes : [[Brachypodium pinnatum]] (V), [[Cerastium arvense]] var. laricifolium (III), [[Dianthus virgineus]] (IV), [[Saxifraga hypnoides]] (III), [[Genista pilosa]] (IV), [[Anthyllis vulneraria]] (III), [[Teucrium chamaedrys]] (III), [[Amelanchier ovalis]] (IV), [[Thymus vulgaris]] (IV), [[Crocus versicolor]] (III).
+
+---
+
+#### Eucladieto-Adiantetum
+
+Syn. : Ass. à Adiantum capillus-veneris et Eucladium Br.-Bl. 1931
+
+Espèces indicatrices : [[Adiantum capillus-veneris]] (V).
+
+Écologie : rochers calcaires où l'eau chargée de bicarbonate précipite au contact des végétaux, formant des dépôts tufeux. Ces tufs très inclinés, parfois surplombants, sont généralement exposés au Nord ou à l'Est.
+
+---
+
+#### Euphorbietum dendroidis
+
+Espèces indicatrices : [[Euphorbia spinosa]], [[Euphorbia dendroides]], [[Fumana laevipes]], s'y joignent quelques espèces caractéristiques des unités supérieures des Quercetalia ilicis : [[Pistacia lentiscus]], [[Rhamnus alaternus]], [[Olea europaea]] var. oleaster, [[Ceratonia siliqua]], [[Clematis flammula]], [[Cytisus spinosus|Calycotome spinosa]], [[Smilax aspera]], et quelques espèces des Thero-Brachypodietalia.
+
+Écologie : stade de dégradation suivant la brousse à Ceratonia : groupement à strate arbustive plus ouverte et à strate herbacée plus riche, bien plus fréquent aujourd'hui que la brousse primitive. Il est difficile de se rendre compte de la position exacte de ce groupement, qui provient probablement par dégradation de l'association précédente.
+
+---
+
+#### Fagetum gallicum
+
+Syn. : incl. Hêtraie Br.-Bl. 1915 et Ass. à Fagus silvatica et Calamintha grandiflora De Bannes-Puygiron 1933
+
+Le Fagetum gallicum du midi de la France se présente dans les différentes parties du territoire sous forme de plusieurs sous-associations, qui croissent indifféremment sur un substratum siliceux ou calcaire, pourvu que le sol soit bien drainé. Le microclimat est caractérisé surtout par une humidité de l'air élevée et des précipitations abondantes. Dans le périmètre forestier appartenant à l'État, on rencontre encore de belles futaies situées au-dessus de 1 000 m ; les forêts particulières, par contre, sont très souvent dans un état lamentable, et leur cortège appauvri ne permet pas toujours de les classer avec certitude dans l'une ou l'autre des sous-associations distinguées
+
+Espèces indicatrices : [[Galium odoratum|Asperula odorata]] (V/V), [[Epilobium montanum]] (IV/V), [[Clinopodium grandiflorum|Satureja grandiflora]] (III/V), [[Lamium galeobdolon]] (V/III), [[Phyteuma spicatum]] (III/V), [[Anemone nemorosa]] (V/II), [[Paris quadrifolia]] (IV/II), [[Milium effusum]] (III/II), [[Cardamine pentaphyllos|Dentaria digitata]] (II/II), [[Luzula sylvatica]] ssp. maxima (I/III), [[Allium ursinum]] (II/II), [[Drymochloa sylvatica|Festuca silvatica]] (I/II), [[Scilla bifolia]] (II/(x)), [[Gagea lutea]] (I), [[Corydalis cava]] (I), [[Corydalis intermedia]] (I), [[Veronica montana]] (I), [[Doronicum pardalianches]] (I), [[Hordelymus europaeus|Elymus europaeus]] (II), [[Arum maculatum]] (I), alliance (Fagion) et.
+
+Écologie : voir les sous-associations. Les hêtraies méditerranéennes sont généralement situées sur des pentes assez raides : le sol est rapidement entraîné par l'érosion après la coupe ; le traitement le plus prudent semble être le taillis sous futaie, les coupes à blanc étant à bannir.
+
+---
+
+#### Fritillarietum pyrenaicae
+
+Syn. : Ass. à Fritillaria pyrenaica et Valeriana tuberosa Br.-Bl. et Moss. 1937
+
+Espèces indicatrices : [[Fritillaria pyrenaica]] (3), [[Iris lutescens|Iris olbiensis]] (2).
+
+Écologie : groupement observé dans le domaine du [[Genistetum villarsii]], à la montagne d'Alaric à l'Est de Carcassonne, entre 450–540 m. Forme des pelouses écorchées dans les clairières du Querceto-Buxetum, sur sol humique carbonaté, très pierreux (rendzine initiale) ; c'est un pâturage maigre. Compagnes : [[Bromus erectus]] (3), [[Asphodelus cerasifer|Asphodelus ramosus]] (3), [[Muscari neglectum]] (3), [[Festuca ovina]] ssp. duriuscula (3), [[Orchis mascula]] (3), [[Sedum sediforme]] (3), [[Lagoseris sancta]] (3), [[Brachypodium ramosum]] (2), [[Carex halleriana]] (2), [[Buxus sempervirens]] (2), [[Hornungia petraea]] (2), [[Thymus vulgaris]] (2), [[Teucrium chamaedrys]] (2), [[Galium mollugo]] ssp. corrudifolium (2).
+
+---
+
+#### Genistetum delphinensis
+
+Espèces indicatrices : [[Arenaria aggregata]] (2), [[Genista delphinensis]] ssp. capitata (2).
+
+Écologie : gazon écorché sur sol pierreux, sec et maigre. Compagnes : [[Festuca ovina]] ssp. duriuscula, [[Thymus vulgaris]], [[Avena pratensis]], [[Bromus erectus]], [[Genista scorpius]], [[Teucrium chamaedrys]], [[Vincetoxicum officinale]], [[Plantago cynops]], [[Hieracium pilosella]], [[Aster alpinus]].
+
+---
+
+#### Genistetum lobelii
+
+Syn. : Ass. à Genista Lobelii et Potentilla cinerea Mol. 1934
+
+Espèces indicatrices : [[Genista lobelii]] (V/I), [[Scorzonera austriaca]] (IV/I), [[Brassica repanda subsp. saxatilis|Diplotaxis saxatilis]] ssp. gerardi (II/I), [[Sempervivum tectorum]] var. calcareum (I), [[Iberis saxatilis]] var. recurvifolia (IV), [[Potentilla cinerea]] f. velutina (III), [[Ephedra major subsp. major|Ephedra villarsii]] (I), [[Jurinea humilis]] (I), [[Genista pulchella|Genista villarsii]] (–/3, sous-ass. b).
+
+Écologie : décrite des basses montagnes provençales. Les replats très caillouteux des crêtes, et plus rarement les hautes pentes exposées au Nord, sont envahis par les touffes compactes et épineuses du [[Genista lobelii]] qui prédomine ; il est remplacé dans la Haute-Provence par [[Genista villarsii]]. Association cantonnée sur les crêtes élevées exposées au vent, où elle reçoit des précipitations atmosphériques abondantes et supporte de fortes variations de températures ; le vent emporte souvent le sol et les plantes déracinées flottent, maintenues par de grosses racines solidement ancrées dans les fissures du rocher. Compagnes de haute présence : [[Cerastium arvense]] ssp. laricifolium (V), [[Festuca ovina]] ssp. duriuscula (V), [[Thymus vulgaris]] (V), [[Galium mollugo]] ssp. corrudifolium (III), [[Sesleria coerulea|Sesleria caerulea]] (IV), [[Carex halleriana]] (IV), [[Santolina chamaecyparissus]] var. villosissima (IV), [[Juniperus phoenicea]] (III), [[Sedum anopetalum|Hylotelephium anopetalum]] (III), [[Anthyllis vulneraria]] (III), [[Teucrium chamaedrys]] (III).
+
+---
+
+#### Genistetum villarsii
+
+Syn. : Ass. à Genista Villarsii et Bupleurum telonense Br.-Bl. et Moss. 1937
+
+Espèces indicatrices : [[Genista pulchella|Genista villarsii]] (2), [[Bupleurum ranunculoides]] ssp. telonense (3), [[Ononis striata]] (1), [[Arenaria aggregata]] (1).
+
+Écologie : association proche du [[Genistetum lobelii]] qu'elle remplace, mais beaucoup moins riche en espèces ; la plupart des caractéristiques du Genistetum lobelii manquent, et elle possède par contre [[Ononis striata]], [[Helianthemum canum]], [[Narcissus juncifolius]], [[Euphorbia duvalii]]. Recouvre le sol calcaire très caillouteux et à peu près privé de terre fine, d'où le manque presque total des Thérophytes ; le vent détermine la forme en coussinets des Chaméphytes. Compagnes : [[Festuca ovina]] ssp. duriuscula (3), [[Anthyllis vulneraria]] (3), [[Galium mollugo]] ssp. corrudifolium (3), [[Muscari neglectum]] (2), [[Buxus sempervirens]] (2), [[Thymus vulgaris]] (2).
+
+---
+
+#### Gentianeto-Mariscetum
+
+Syn. : Ass. à Cladium mariscus et Gentiana pneumonanthe Mol. et Tallon 1950
+
+Espèces indicatrices : [[Thalictrum flavum]] (V), [[Lathyrus palustris]] (V), [[Gentiana pneumonanthe]] (III), [[Lysimachia tenella|Anagallis tenella]] (III), [[Thelypteris palustris|Dryopteris thelypteris]] (III), [[Pedicularis palustris]] (I), [[Symphyotrichum novi-belgii|Aster novi-belgii]] (I).
+
+Écologie : groupement peu homogène, un des témoins les plus intéressants de la contrée. Héberge plusieurs espèces très rares, considérées dans la plaine méditerranéenne comme des survivants glaciaires ([[Gentiana pneumonanthe]], [[Pedicularis palustris]], [[Potentilla erecta]], [[Thelypteris palustris|Polystichum thelypteris]], [[Thalictrum flavum]]), appartenant à l'ordre des Molinietalia de l'Europe moyenne ; à placer dans les [[Holoschoenetalia]], qui remplacent les Molinietalia dans la Région méditerranéenne. Au point de vue évolutif, forme la transition entre les [[Phragmitetalia]] et les Holoschoenetalia. Compagnes de haute présence : [[Cladium mariscus|Mariscus serratus]] (V), [[Phragmites australis|Phragmites communis]] (V), [[Hydrocotyle vulgaris]] (V), [[Schoenus nigricans]] (IV), [[Lysimachia vulgaris]] (IV), [[Mentha aquatica]] (IV), [[Galium elongatum]] (IV), [[Salix atrocinerea]] (III), [[Lythrum salicaria]] (III), [[Carex elata]] (III).
+
+---
+
+#### Glaucieto-Scrophularietum caninae
+
+Espèces indicatrices : [[Glaucium flavum]] (V), [[Erucastrum nasturtiifolium]] (I), [[Plantago arenaria|Plantago indica]] (II), [[Oenothera biennis]] (I).
+
+Écologie : association pionnière. Le sol des alluvions est carbonaté, meuble et très perméable : sables grossiers et graviers dominant, très peu de limon — d'où le dessèchement de la surface en été ; pour atteindre l'eau, les espèces développent un puissant système radicalaire. [[Glaucium flavum]], parfois en immense quantité, se rencontre aussi, quoique rarement, dans les graviers littoraux.
+
+---
+
+#### Gouffeetum arenarioidis
+
+Syn. : Ass. à Gouffea arenarioides et Linaria supina Mol. 1934
+
+Espèces indicatrices : [[Arenaria provincialis|Gouffea arenarioides]] (IV), [[Crucianella latifolia]] (IV), [[Centranthus ruber]] (II).
+
+Écologie : recouvre très faiblement la surface des éboulis. Constituée en grande majorité de thérophytes, elle exige pour son développement une chaleur et une insolation très fortes provoquant une intense évaporation, d'où son aspect sub-désertique en été.
+
+---
+
+#### Heleochloetum schoenoides
+
+Espèces indicatrices : [[Sporobolus schoenoides|Heleochloa schoenoides]] (3.2), [[Veronica anagalloides]] (3.2), [[Schenkia spicata|Centaurium spicatum]] (3.1), avec notamment [[Juncus bufonius]], [[Polygonum aviculare]], [[Bolboschoenus maritimus|Scirpus maritimus]], [[Lythrum hyssopifolia]], [[Plantago major]], [[Agrostis stolonifera|Agrostis maritima]], [[Atriplex prostrata|Atriplex hastata]], [[Ranunculus sardous]], [[Leontodon saxatilis subsp. saxatilis|Thrincia hirta]], [[Mentha pulegium]].
+
+Écologie : terrains temporairement inondés, peu salés ; un relevé près du château Soriech (Pérols) s'installait dans une culture abandonnée depuis très longtemps.
+
+---
+
+#### Helianthemetum guttati
+
+Syn. : Ass. à Corynephorus articulatus et Helianthemum guttatum Br.-Bl. 1931
+
+Espèces indicatrices : [[Tuberaria guttata|Helianthemum guttatum]] (V/V), [[Corynephorus articulatus]] (V/V), [[Galium divaricatum]] (V/IV), [[Tolpis barbata]] (IV/IV), [[Aira multiculmis|Aira multicuspis]] (II/II), [[Teesdalia coronopifolia|Teesdalia lepidium]] (I/II), [[Trifolium bocconei]] (II/I), [[Lathyrus angulatus]] (II/I), [[Lathyrus inconspicuus]] (II/I), [[Lupinus angustifolius]] (I), [[Scleranthus annuus]] ssp. polycarpus (I).
+
+Écologie : pelouses rases silicicoles ; espèces compagnes différentielles : [[Sagina apetala]] (III/V), [[Avellinia michelii]] (I/III), [[Trifolium suffocatum]] (I/III), [[Cerastium pumilum]] (IV), [[Fumana thymifolia]] ssp. glutinosa (III), [[Poa infirma]] (II), [[Juncus bufonius]] (II), [[Juncus capitatus]] (II). Compagnes : [[Trifolium arvense]] (V/V), [[Trifolium campestre]] var. thionanthum (IV/V), [[Asterolinum stellatum]] (V/IV), [[Cistus monspeliensis]] (V/IV), Pellurus aristatus (IV, OCR), [[Poa bulbosa]] (II/IV), [[Hypericum perforatum]] (II/IV), [[Cerastium glomeratum]] (II/III), [[Polycarpon tetraphyllum]] (III/II), [[Erophila verna]] (II/III), [[Cladonia endiviaefolia]] (III/IV), [[Pleurochaete squarrosa]] (III/III), [[Cladonia rangiformis]] (III/III).
+
+### Sous-association : Corynephorbetum catalaunicum
+
+**Syn. :** Ass. à Corynephorus articulatus et Helianthemum guttatum Br.-Bl. 1931, sous-ass. à Dianthus attenuatus Br.-Bl. 1940
+
+**Espèces indicatrices :** alliance (Helianthemion guttati) et.
+
+**Écologie :** les sables maritimes du littoral catalan portent un groupement spécial dans lequel [[Corynephorus canescens]] prend la première place.
+
+---
+
+#### Hepatico-Coryletum
+
+Espèces indicatrices : [[Corylus avellana]] (4), [[Rosa canina]] (4), [[Ribes alpinum]] (3), [[Populus tremula]] (2), [[Prunus padus]] (1), [[Pulmonaria affinis]] (1), différentielles par rapport au Querceto-Aceretum opali : [[Fragaria vesca]] (5), [[Astrantia major]] (3), [[Rubus idaeus]] (2), [[Rosa pendulina]] (2), [[Geranium sylvaticum]] (2), [[Conopodium pyrenaeum|Conopodium mutabile]] (2), [[Oxalis acetosella]] (2), [[Vaccinium myrtillus]] (2), [[Chaerophyllum hirsutum]] (2), [[Galeopsis tetrahit]] (2), [[Centaurea nigra]] (2), [[Betonica officinalis|Stachys officinalis]] (2), [[Poa chaixii]] (2), [[Lonicera nigra]] (2), [[Hypericum tetrapterum|Hypericum quadrangulum]] (2), [[Hieracium murorum]] (2).
+
+Écologie : dans la haute Cerdagne et le Capcir, [[Quercus petraea|Quercus sessiliflora]], [[Ulmus]], [[Acer opalus]] et [[Acer platanoides]], sensibles aux basses températures, et avec eux la plupart des caractéristiques du Querceto-Aceretum opali ont disparu : les taillis subsistants sont formés par le Coudrier devenu omnipotent, accompagné de [[Betula pendula]], [[Fraxinus excelsior]], [[Populus tremula]] et d'arbustes résistants au froid ([[Lonicera xylosteum]], [[Crataegus monogyna]], [[Prunus spinosa]], [[Prunus padus]]) ; la strate herbacée appauvrie comprend un certain nombre d'espèces très répandues dans les groupements des Fagetalia, adaptées au climat rigoureux du Capcir et des environs de Mont-Louis. L'Hepatico-Coryletum comprend peu de caractéristiques, et elles n'ont qu'une valeur territoriale ; il est par contre très riche en espèces différentielles par rapport au Querceto-Aceretum opali qu'il remplace ; dans le cadre restreint du Capcir et de la haute Cerdagne, il est parfaitement caractérisé et mérite d'être distingué comme association. Dans cette contrée dépourvue de forêts à feuilles caduques, les buissons étendus de l'Hepatico-Coryletum les remplacent au moins partiellement ; les arbustes, hauts de 3–5 m, sont broutés par le bétail. Le sol, souvent pierreux-rocailleux, est une terre limoneuse humifère, riche en nitrates, à activité biologique très intense dans ses couches supérieures. Ce groupement a de fortes analogies avec le Coryleto-Populetum des vallées centrales des Alpes, qui se substitue également vers le haut aux forêts de Chênes.
+
+---
+
+#### Hieracietum stelligeri
+
+Syn. : Ass. à Hieracium stelligerum et Alyssum spinosum (Br.-Bl.) H. Meier 1934 ; Ass. à Alyssum spinosum et Erodium petraeum Br.-Bl. 1931
+
+Espèces indicatrices : [[Hieracium stelligerum]] (IV), [[Ephedra major subsp. major|Ephedra nebrodensis]] (I).
+
+Écologie : fentes des rochers calcaires de la bordure cévenole, surtout exposés au Nord : cette exposition lui évite la forte sécheresse estivale et la place en quelque sorte intermédiaire entre les alliances du [[Potentillion caulescentis]] et de l'[[Asplenion glandulosi]]. [[Hieracium stelligerum]] et ses formes hybrides sont des caractéristiques absolues ; cette espèce est un paléo-endémique tertiaire.
+
+---
+
+#### Holoschoenetum
+
+Syn. : Ass. à Holoschoenus et Cirsium monspessulanum Br.-Bl. 1931 ; Molinio-Holoschoenetum Mol. et Nègre 1947
+
+Espèces indicatrices : [[Scirpoides holoschoenus|Holoschoenus vulgaris]] (V), [[Cirsium monspessulanum]] (V), [[Lotus rectus|Bonjeania recta]] (III), [[Mentha suaveolens|Mentha rotundifolia]] (III).
+
+Écologie : bandes plus ou moins étroites, parfois immergées pendant les grandes crues, sur les berges des cours d'eau ; entoure les sources, remplit les cuvettes et les fossés. Exige des sols carbonatés, perméables, à niveau de la nappe phréatique assez élevé. Dans la succession, l'Holoschoenetum suit le [[Molinietum mediterraneum]], puis est envahi, lorsque l'homme n'intervient pas, par les arbustes et arbres du [[Populetum albae]], groupement forestier permanent.
+
+---
+
+#### Isoetetum duriaei
+
+Syn. : Ass. à Isoetes duriaei et Juncus capitatus Br.-Bl. 1931
+
+Espèces indicatrices : [[Juncus capitatus]] (V), [[Isoetes durieui|Isoetes duriaei]] (IV), [[Aira elegantissima|Aira capillaris]] (IV), [[Airopsis tenella|Airopsis globosa]] (II), [[Trifolium filiforme]] (II), [[Lotus conimbricensis]] (I).
+
+Écologie : sol gris foncé plus ou moins argileux, sans calcaire, à réaction neutre ou faiblement alcaline, dans les petites dépressions au milieu des cistes. La période de végétation débute avec les premières pluies d'automne et se termine avec les premières chaleurs printanières. Nombreuses variantes et faciès : faciès à [[Lotus conimbricensis]] (le plus pauvre, sur pistes humides), faciès à [[Lythrum thymifolia]] (plus riche), faciès à Isoetes (optimum dans les parties très humides).
+
+---
+
+#### Isoetetum setacei
+
+Syn. : Ass. à Isoetes setaceum et Peplis hispidula Br.-Bl. 1931
+
+Espèces indicatrices : [[Isoetes delilei|Isoetes setacea]] (V), [[Lythrum borysthenicum|Peplis hispidula]] (V), [[Myosotis sicula]] (V), [[Marsilea strigosa|Marsilea pubescens]] (II), [[Exaculum pusillum|Cicendia pusilla]] (II), [[Ranunculus lateriflorus]] (I), [[Pilularia minuta]] (I), [[Cardamine parviflora]].
+
+Écologie : fond des cuvettes d'eau peu profondes. Le sol sablo-graveleux, très foncé (pH 5,2–6,5), est noyé pendant tout l'hiver ; en été, il est à sec et s'échauffe beaucoup. L'abondance exceptionnelle de l'Isoetes, formant une pelouse dense, détermine l'aspect de l'association.
+
+---
+
+#### Junceto-Galietum
+
+Espèces indicatrices : [[Juncus subnodulosus]] (V), [[Galium debile|Galium constrictum]] (V).
+
+Écologie : prairies marécageuses, surtout littorales, étendues et denses, sur sol riche en carbonates et à concentration élevée des solutions aqueuses — d'où la présence de plusieurs espèces faiblement halophiles des [[Juncetalia maritimi]]. Ces prairies, inondées lors des grandes pluies, sont fauchées, plus rarement pâturées ; il serait facile d'en améliorer le rendement. Dans la série évolutive, elles suivent soit le [[Magnocaricion elatae]], soit le [[Juncion maritimi]].
+
+---
+
+#### Junceto-Trifolietum
+
+Syn. : Ass. à Juncus compressus et Trifolium fragiferum Br.-Bl. 1931
+
+Espèces indicatrices : [[Trifolium fragiferum]] (IV), [[Juncus compressus]] (IV), [[Ranunculus muricatus]] (II), [[Trifolium dubium]] (I).
+
+Écologie : association peu caractérisée, occupant une place restreinte au bord des rigoles temporaires et dans les dépressions du terrain inondées lors des pluies. Sol peu perméable, marneux, souvent imbibé d'eau ; la concentration très élevée des solutions du sol permet l'existence d'espèces plus ou moins halophiles telles que [[Trifolium resupinatum]], [[Carex divisa]] et [[Bupleurum tenuissimum]].
+
+---
+
+#### Juncto-Triglochinetum maritimi
+
+Syn. : Ass. à Juncus gerardii et Triglochin maritimum Br.-Bl. 1931
+
+Espèces indicatrices : [[Juncus gerardi|Juncus gerardii]] (V), [[Triglochin maritima|Triglochin maritimum]] (V/II).
+
+Écologie : pelouses en arrière des étangs et dans les dépressions d'eau saumâtre. Sol riche en carbonates, contenant toujours des chlorures (de 0,5 % au printemps à 3–4 % au gros de l'été) ; nappe phréatique élevée pendant tout l'été. En hiver, l'association est recouverte de quelques centimètres d'eau. Végétation dense (90–100 %), généralement pâturée par les moutons ; au printemps [[Juncus gerardii]] domine, en automne [[Juncus maritimus]] donne le ton.
+
+---
+
+#### Koelerieto-Globularietum willkommii
+
+Syn. : Ass. à Koeleria vallesiana et Globularia Willkommii Susplugas 1942
+
+Espèces indicatrices : [[Koeleria vallesiana]] (V), [[Globularia bisnagarica|Globularia willkommii]] (V), [[Teucrium aureum]] (III), [[Fumana procumbens|Fumana vulgaris]] (III), [[Ononis natrix]] (III), [[Linum tenuifolium]] (III), [[Coronilla minima]] (I), [[Bombycilaena erecta|Micropus erectus]] (I), [[Minuartia mucronata|Minuartia fastigiata]] (I), [[Ononis pusilla]] (I).
+
+Écologie : pelouses sèches sur calcaire dénudé, succédant dans les Pyrénées orientales à la destruction du Querceto-Buxetum. Le sol, un profil de rendzine, est nettement basique (pH 7,9 dans l'A1, 8,4 dans l'A3). Souvent envahies par le Buis, ces pelouses offrent de bonnes possibilités pour le reboisement et le retour à la forêt initiale. Compagnes : [[Helianthemum scopolii]] (V), [[Lotus corniculatus]] (IV), [[Festuca ovina]] (III), [[Hieracium pilosella]] (III), [[Carex verna]] (III), [[Linum catharticum]] (III), [[Thymus serpyllum]] (III), Prunella hastaefolia Brot. (OCR) (III), [[Plantago lanceolata]] (III), [[Vincetoxicum officinale]] (III).
+
+---
+
+#### Laurentioto-Anthoceretum dichotomi
+
+Espèces indicatrices : [[Solenopsis laurentia|Laurentia michelii]] (4.2), [[Phymatoceros bulbiculosus|Anthoceros dichotomus]] (1.1).
+
+Écologie : fond des dépressions où l'eau des pluies circule plus ou moins. Sol siliceux faiblement basique, argilo-sableux. Association riche en cryptogames.
+
+---
+
+#### Lavanduleto-Astragaletum
+
+Syn. : Ass. à Lavandula spica et Astragalus purpureus Mol. 1935 ; Ass. à Onobrychis supina et Lavandula vera Mol. 1935
+
+Espèces indicatrices : [[Potentilla hirta]] (IV), [[Satureja montana]] (IV), [[Astragalus hypoglottis|Astragalus purpureus]] (III), [[Leucanthemum pallens|Cota pallens]] (II), [[Carlina acanthifolia]] (I), [[Carduus litigiosus]] (x).
+
+Écologie : les Lavandaies à [[Lavandula vera]] doivent leur physionomie particulière à l'abondance de la Lavande. Elles dérivent généralement par dégradation du Querceto-Buxetum et sont établies sur un sous-sol calcaire ou marno-calcaire ; le degré de recouvrement, très variable, oscille entre 25 et 100 %. On peut y distinguer plusieurs variantes ou faciès : à Aphyllanthes, à Lavandula vera, à Linum salsoloides, etc. (R. Nègre). Compagnes : [[Genista hispanica]] (V), [[Festuca ovina]] ssp. duriuscula (III), [[Thymus vulgaris]] (V), [[Teucrium polium]] (III), [[Carex halleriana]] (IV), [[Santolina chamaecyparissus]] var. villosissima (III), [[Galium mollugo]] ssp. corrudifolium (IV), [[Hieracium pilosella]] (III).
+
+---
+
+#### Lavateretum ruderale
+
+Syn. : Ass. à Lavatera arborea et L. cretica Br.-Bl. et Mol. 1935
+
+Espèces indicatrices : [[Malva arborea|Lavatera arborea]] (V), [[Malva multiflora|Lavatera cretica]] (V), [[Lavatera alba]] (IV).
+
+Écologie : s'installe partout autour des habitations, dans les lieux riches en nitrates, sur la côte chaude et humide de la Riviera française.
+
+---
+
+#### Lemneto-Azolletum
+
+Espèces indicatrices : [[Ludwigia grandiflora]] (Jussieua grandiflora) (2), [[Lemna gibba]] (2), [[Azolla filiculoides]] (1).
+
+Écologie : cuvettes d'eau stagnante peu profonde (60–80 cm), s'échauffant beaucoup, riches en matières minérales et azotées. Se rapproche du Wolffieto-Lemnetum gibbae décrit de Hollande.
+
+---
+
+#### Leucoio-Caricetum
+
+Syn. : Ass. à Carex elata et Leucoium aestivum Br.-Bl. 1931 ; Ass. à Carex riparia et Leucoium aestivum Br.-Bl. 1936
+
+Dans le midi de la France, le Caricetum elatae médio-européen est généralement remplacé, dans des stations analogues mais moins fraîches, par le Leucoio-Caricetum, qui forme une bande de végétation plus ou moins étroite et discontinue le long des fossés et autour des étangs d'eau douce. Il succède souvent au Scirpeto-Phragmitetum et exige un sol riche en calcaire, limoneux, gorgé d'eau
+
+Espèces indicatrices : [[Carex riparia]] (V/IV), [[Leucojum aestivum]] (III/V), [[Lysimachia nummularia]] (II), [[Inula britannica]] (I), [[Carex acutiformis]] (I), [[Carex hispida]] (I).
+
+---
+
+#### Limoniatro-Staticetum lychnidifoliae
+
+Syn. : Ass. à Limoniastrum et Statice lychnidifolia Br.-Bl. 1931
+
+Espèces indicatrices : [[Limoniastrum monopetalum]] (V), [[Limonium virgatum]] (V), [[Limonium dodartii]] (IV), [[Myriolimon ferulaceum|Limonium ferulaceum]] (III), [[Myriolimon diffusum|Limonium diffusum]] (I), [[Limonium psilocladum]] (I), [[Limonium raddianum]] (I).
+
+Écologie : plages un peu élevées à sol sec, limoneux ou pierreux, très riche en carbonates, contenant des débris de coquillages ; concentration en NaCl moins élevée que dans l'Arthrocnemetum.
+
+---
+
+#### Linarieto-Galietum pusilli
+
+Syn. : Ass. à Galium pusillum et Linaria origanifolia Mol. 1934
+
+Espèces indicatrices : [[Galium pusillum]] (V), [[Chaenorhinum origanifolium|Linaria origanifolia]] (V⁻), [[Arenaria modesta]] (III), [[Matthiola fruticulosa|Matthiola tristis]] (III).
+
+Écologie : fentes et petites excavations des rochers dolomitiques, surtout du Jurassique supérieur, à partir de 600 m, à toute exposition. L'érosion particulièrement rapide de ces roches explique la faible densité de végétation.
+
+---
+
+#### Molinietum mediterraneum
+
+Espèces indicatrices : [[Succisa pratensis]] (V/V), [[Silaum silaus]] (V/V), [[Genista tinctoria]] var. (IV/V), [[Sanguisorba officinalis]] (IV/V), [[Ophioglossum vulgatum]] (III/I), [[Dactylorhiza praetermissa|Orchis praetermissa]] (III/II), [[Carex tomentosa]] (II/II), [[Serratula tinctoria]] (IV/–), [[Euphorbia palustris]] (I/–), [[Epipactis palustris]] (I/–), [[Potentilla erecta]] (–/V).
+
+Écologie : prairies de hautes herbes sur sols humides carbonatés ; compagnes de haute présence : [[Carex flacca|Carex glauca]] ssp. cuspidata (V/V), [[Carex distans]] (V/V), [[Ranunculus acris]] ssp. Steveni (V/IV), [[Lythrum salicaria]] var. tomentosum (V/IV), [[Mentha aquatica]] (V/III), [[Convolvulus sepium]] (V/IV), [[Galium verum]] (V/IV), [[Festuca rubra]] (IV/III), [[Lotus corniculatus]] (IV/III), [[Orchis laxiflora]] (III/IV), [[Ononis repens]] (IV/II), [[Trifolium pratense]] (IV/II), [[Juncus maritimus]] (III/II).
+
+---
+
+#### Montietum
+
+Espèces indicatrices : (caractéristiques territoriales)* [[Chrysosplenium oppositifolium]] (3), [[Saxifraga rotundifolia]] (2), [[Montia fontana|Montia rivularis]] (1), [[Stellaria alsine|Stellaria uliginosa]] (1).
+
+Écologie : sources fraîches à débit peu abondant et à courant relativement peu rapide ; souvent, la source disparaît entièrement sous le couvert des végétaux.
+
+---
+
+#### Myosuro-Bulliardetum vaillantii
+
+Espèces indicatrices : [[Myosurus heldreichii]] (4.2), [[Crassula vaillantii|Bulliardia vaillantii]] (4.1), [[Veronica acinifolia]] (3).
+
+Écologie : écologie semblable à celle de l'Elatineturn macropodae, mais exige une période de submersion plus courte ; dès le mois d'avril, il est déjà à sec.
+
+---
+
+#### Myriophylleto-Nupharetum
+
+Syn. : Myriophylletum verticillati-Nupharetum W. Koch ; Ass. à Myriophyllum verticillatum et Nuphar Br.-Bl. 1931
+
+Espèces indicatrices : [[Myriophyllum verticillatum]] (IV), [[Potamogeton lucens]] (I), [[Ceratophyllum demersum]] (I), [[Najas minor]], [[Najas marina]], [[Nymphoides peltata]].
+
+Écologie : remplit les anses calmes du cours inférieur des rivières méditerranéennes et certains bassins d'eau douce des marais de la Crau et du Bas-Rhône. Ces eaux, de 1 à 2,5 m de profondeur, sont riches en matières nutritives. La plupart des espèces peuvent former des faciès.
+
+---
+
+#### Oleo-Lentiscetum
+
+Syn. : brousse à Ceratonia siliqua et Olea europaea
+
+Espèces indicatrices : strate arbustive (3–4 m, recouvrant 80–90 % du sol) : [[Rhamnus alaternus]] (3.2), [[Ceratonia siliqua]] (2.2), [[Pistacia lentiscus]] (2.2), [[Olea europaea]] var. oleaster (2.2), [[Quercus ilex]] (2.2), [[Phillyrea angustifolia]] (2.2), [[Smilax aspera]], [[Laurus nobilis]], [[Cneorum tricoccon|Cneorum tricoccum]], strate herbacée et muscinale peu développée : [[Arisarum vulgare]] (2.1), [[Geranium purpureum]] (2.1), [[Bellis sylvestris|Bellis silvestris]] (2.1), [[Carex halleriana]] (1.2), [[Rubia peregrina]] (1.1), [[Leontodon tuberosus|Thrincia tuberosa]] (1.1), [[Hyacinthoides italica|Scilla cf. italica]], [[Asparagus acutifolius]], [[Orchis provincialis]], [[Anemone hortensis subsp. hortensis|Anemone stellata]] (OCR), [[Teucrium chamaedrys]] ssp. pinnatifidum, [[Rhynchostegium megapolitanum]] (1.2), second relevé : [[Clematis flammula]] ssp. flammula, [[Lonicera implexa]], [[Euphorbia characias]], [[Ruscus aculeatus]], [[Juniperus oxycedrus]], [[Fraxinus ornus]].
+
+Écologie : les restes de la forêt climax se régénèrent ici (exposition Sud-Ouest, inclinaison 10°) sous la voûte d'une forêt gardée de [[Pinus halepensis]] et de quelques Eucalyptus ; le degré de recouvrement de ces arbres mal venus et en partie mourants est d'environ 75 %. [[Ceratonia siliqua]] et [[Olea europaea]] var. oleaster sont à considérer comme caractéristiques ; pour discerner les caractéristiques de la strate herbacée, d'autres relevés seront nécessaires.
+
+---
+
+#### Onobrychideto-Barbuletum
+
+Syn. : Ass. à Helianthemum hirtum et Onobrychis caput-galli Br.-Bl. 1924, 1925 ; Ass. à Barbula gracilis et Onobrychis caput-galli Br.-Bl. 1931 ; Ass. à Onobrychis caput-galli et Astragalus sesameus Mol. 1934
+
+Espèces indicatrices : [[Didymodon acutus|Barbula gracilis]] (mousse, V), [[Helianthemum salicifolium|Helianthemum intermedium]] (V), [[Parentucellia latifolia]] (IV), [[Cerastium semidecandrum|Cerastium balearicum]] (IV), [[Onobrychis caput-galli]] (IV), [[Astragalus sesameus]] (IV), [[Gyalolechia fulgens|Placodium fulgens]] (lichen, IV), [[Dianthus nudiflorus|Velezia rigida]] (III), [[Squamarina lentigera|Placodium lentigerum]] (III), [[Paronychia capitata|Paronychia nivea]] (II), [[Medicago truncatula|Medicago tribuloides]] (II), [[Euphorbia sulcata]] (I).
+
+Écologie : lié à un sol très sec, profond de quelques centimètres seulement, basique (pH 7,2–8,0), constitué d'une terre fine plus ou moins sablonneuse recouvrant un sous-sol rocheux, pierreux, très perméable. Compagnes de haute présence : [[Poa bulbosa]] (V), [[Sedum sediforme]] (V), [[Erodium cicutarium]] (V), [[Asterolinum stellatum]] (V), [[Erophila verna]] (V), [[Helianthemum hirtum]] (V), [[Thymus vulgaris]] (V), [[Lagoseris sancta]] (V), [[Fumana glutinosa]] (IV), [[Vulpia ciliata]] (IV), [[Minuartia tenuifolia]] (IV), [[Fumana ericoides]] (IV), [[Sanguisorba minor]] ssp. Magnolii (IV), plus cryptogames : [[Collema tenax|Collema]] (V), [[Pleurochaete squarrosa]] (IV), [[Toninia cerasi-nigricans|Toninia]] (III), [[Psora decipiens]] (III).
+
+---
+
+#### Orchideto-Brometum
+
+Espèces indicatrices : [[Ophrys scolopax]] (3), [[Orchis purpurea]] (3), [[Anacamptis pyramidalis]] (3), [[Himantoglossum hircinum|Loroglossum hircinum]] (3), [[Orchis anthropophora|Aceras anthropophora]] (2), [[Serapias lingua]] (2), [[Orchis militaris]] (1), [[Gentiana cruciata]] (1), [[Scabiosa columbaria]] (2), [[Prunella laciniata]] (1), [[Anacamptis morio|Orchis morio]] (1), [[Hippocrepis comosa]] (1), tg. As. [[Koeleria vallesiana]] (1), différentielles par rapport au Xerobrometum de l'Europe moyenne : [[Cirsium tuberosum]] (2), [[Blackstonia perfoliata|Chlora perfoliata]] (2), [[Rhinanthus minor|Rhinanthus crista-galli]] (2).
+
+Écologie : belles pelouses richement fleuries, fauchées ou faiblement pâturées, sur sol profond, carbonaté. La présence des espèces différentielles mésohygrophiles témoigne d'une certaine humidité du sol. Compagnes : [[Festuca ovina]] (4), [[Medicago lupulina]] (4), [[Plantago lanceolata]] (4), [[Lotus corniculatus]] (4), [[Carex flacca]] (3), [[Briza media]] (3), [[Trifolium pratense]] (3), [[Hieracium pilosella]] (3), [[Dactylis glomerata]] (3), [[Linum catharticum]] (3).
+
+---
+
+#### Ornithopodieto-Helianthemetum tuberariae
+
+Syn. : Ass. à Aira uniaristata (Cupaniana) et Plantago Bellardi Mol. 1937 ; Ass. à Ornithopus ebracteatus et Helianthemum tuberaria Br.-Bl. et Mol. 1935
+
+Espèces indicatrices : [[Aira tenorei]] (V), [[Plantago bellardii]] var. longearistata (V), [[Vulpia ligustica]] (V), [[Lotus parviflorus]] (IV), [[Ornithopus pinnatus|Ornithopus ebracteatus]] (III), [[Diatelia tuberaria|Helianthemum tuberaria]] (II), [[Lotus hispidus]] (II), [[Corynephorus divaricatus|Corynephorus fasciculatus]] (I), [[Polypogon subspathaceus|Polypogon subspathaceum]] (I), [[Vulpia bromoides|Vulpia dertonensis]] var. longearistata (I), (x) [[Romulea columnae]], (x) [[Serapias cordigera]], (x) [[Paronychia echinulata|Paronychia echinata]], (x) [[Trifolium ligusticum]], (x) [[Biserrula pelecinus|Biserula pelecinus]].
+
+Écologie : remplace en Provence l'[[Helianthemetum guttati]] et se développe comme lui sur les sols siliceux et argileux des clairières du Cistion ladaniferi, ou sous les bois de Pins pignon. L'humidité relative de la station détermine la présence de nombreuses Mousses et de quelques espèces différentielles par rapport aux groupements précédents. Compagnes : [[Vulpia dertonensis]] (V), [[Bromus mollis|Bromus hordeaceus]] (V), [[Juncus bufonius]] (V), [[Trifolium campestre]] var. thionanthum (V), [[Anagallis arvensis]] ssp. phoenicea (V), [[Koeleria phleoides]] (IV), [[Polycarpon tetraphyllum]] (IV), [[Trifolium arvense]] (IV), [[Myosotis hispida]] (IV), [[Urospermum dalechampii]] (IV), Lugoseris sancta (IV, OCR), [[Gaudinia fragilis]] (III), [[Vulpia ciliata]] (III), [[Vulpia myuros]] (III), [[Scleropoa rigida]] (III), [[Avellinia michelii]] (III), [[Sagina apetala]] (III), [[Silene gallica]] (III), [[Trifolium lappaceum]] (III), [[Medicago minima]] (III), [[Asterolinum stellatum]] (III), [[Anagallis arvensis]] var. coerulea (III), [[Plantago coronopus]] (III), [[Vaillantia muralis]] (III), [[Hedypnois cretica]] (III).
+
+---
+
+#### Parietarietum murale
+
+Syn. : Ass. à Parietaria ramiflora subsp. judaica et Oxalis corniculata Br.-Bl. 1931 ; Parietarietum murale Arènes 1929 pro parte
+
+Espèces indicatrices : [[Parietaria judaica]] (V), [[Cymbalaria muralis|Linaria cymbalaria]] (II), [[Centranthus ruber]] (I), [[Erigeron karvinskianus|Erigeron karwinskyanum]] (I).
+
+Écologie : murs bâtis en pierres sèches, calcaires ou non ; surtout bien développée sur les murs de soutènement et dans les contrées recevant d'abondantes précipitations. Plus les murs sont délaissés, plus la terre fine s'y accumule et plus le nombre de compagnes augmente. Une variante à [[Phagnalon sordidum]] se rencontre parfois sur les murs secs exposés au Sud. [[Parietaria judaica]] trouve son optimum ici, mais fréquentant aussi les lieux rudéraux, elle est considérée comme compagne dans les autres associations des Asplenietea.
+
+---
+
+#### Paspaleto-Agrostidetum
+
+Syn. : Ass. à Paspalum distichum et Agrostis verticillata Br.-Bl. 1936
+
+Espèces indicatrices : [[Paspalum distichum]] (V), [[Xanthium strumarium|Xanthium brasilicum]] (V), [[Persicaria maculosa|Polygonum persicaria]] × [[Polygonum hydropiper]] (II), [[Cyperus eragrostis|Cyperus vegetus]] (II⁺), [[Eleusine indica]].
+
+Écologie : groupement temporaire au bord des rivières, soumis aux crues, caractérisé surtout par des thérophytes et quelques géophytes à rhizome ; il joue le rôle de pionnier pour la saulaie. Sol peu profond (5–10 cm), basique (pH 7,3–7,6), formé principalement de limons gluants.
+
+---
+
+#### Phagnaleto-Asplenietum glandulosi
+
+Syn. : Ass. à Phagnalon sordidum et Asplenium glandulosum Br.-Bl. 1931 em. 1951
+
+Espèces indicatrices : [[Asplenium petrarchae|Asplenium glandulosum]] (IVᵉ/Vᵉ), [[Phagnalon sordidum]] (Vᵉ/IVᵉ), [[Parietaria lusitanica]] (I), [[Malva subovata|Lavatera maritima]] (I), [[Melica minuta]] (I/V), [[Chiliadenus glutinosus|Jasonia glutinosa]] (I).
+
+Écologie : fentes étroites des rochers calcaires compacts, surtout exposés au Sud, dans tout le midi de la France jusqu'à 400 m environ.
+
+---
+
+#### Phleo-Sedetum anopetalae
+
+Syn. : Ass. à Phleum arenarium et Plantago arenaria Br.-Bl. 1931
+
+Espèces indicatrices : [[Corynephorus canescens]] (V/V), [[Phleum arenarium]] (V/V), [[Silene otites]] var. calcicola (IV/IV), [[Vulpia membranacea|Vulpia longiseta]] (III/IV), [[Senecio gallicus]] (I/IV), [[Crepis suffreniana]] (I/II), sous-ass. a : [[Alkanna matthioli|Alkanna tinctoria]] (IV), [[Chaenorhinum rubrifolium|Linaria rubrifolia]] (II), [[Loeflingia hispanica]] (I), [[Clypeola jonthlaspi|Clypeola gracilis]] (I), sous-ass. b : [[Alyssum serpyllifolium]] (V).
+
+Écologie : pelouses ouvertes à [[Corynephorus canescens]] sur sables dolomitiques, peu pierreux et secs, du Bajocien-Bathonien cévenol ; ces amas de sable sont parfois très profonds (1,50 m). Par la texture du sable, elles se rapprochent des arènes siliceuses, ce qui semble expliquer l'abondance du Corynephorus. Offre de nombreux traits communs avec le [[Cariceto-Crepidetum suffrenianae]] de Provence. Compagnes : [[Helichrysum stoechas]] var. dolomiticum (V/V), [[Helianthemum hirtum]] (IV/IV), [[Silene conica]] (IV/IV), [[Artemisia campestris]] (II/V), [[Thymus vulgaris]] (IV/II), [[Plantago indica]] (II/IV), [[Festuca ovina]] ssp. duriuscula (III/III), [[Poa bulbosa]] (III/II), [[Minuartia tenuifolia]] var. laxa (III/II), [[Jasione montana]] (III/II), [[Tortella inclinata]] (II/II, mousse).
+
+---
+
+#### Potameto-Utricularietum
+
+Espèces indicatrices : [[Utricularia vulgaris]] (IV), [[Ranunculus trichophyllus]] (III), [[Potamogeton coloratus|Potamogeton subflavus]] (II).
+
+Écologie : flaques d'eau peu profondes (30–60 cm), tranquilles, qui s'échauffent beaucoup en été ; surtout dans des fossés et mares à eau riche en CaCO₃ des marais littoraux.
+
+---
+
+#### Potameto-Vallisnerietum
+
+Syn. : Ass. à Potamogeton fluitans et Vallisneria spiralis Br.-Bl. 1931
+
+Espèces indicatrices : [[Myriophyllum spicatum]] (V), [[Potamogeton nodosus|Potamogeton fluitans]] (IV), [[Vallisneria spiralis]] (II), [[Potamogeton pusillus|Potamogeton panormitanus]] (II) *(caractéristiques territoriales)*.
+
+Écologie : bien développée lorsque la profondeur de l'eau atteint 1,50 à 3 m. Supporte un courant faible ; demande une eau riche en matières nutritives ; très sensible aux variations de la teneur en matières minérales.
+
+---
+
+#### Potentilleto-Saxifragetum cebennensis
+
+Syn. : Ass. à Potentilla caulescens et Saxifraga cebennensis Br.-Bl. 1915
+
+Espèces indicatrices : [[Potentilla caulescens]] var. cebennensis (V⁺), [[Kernera saxatilis|Kernera auriculata]] (V⁻), [[Saxifraga cebennensis]] (II⁺), [[Chaenorhinum origanifolium|Linaria origanifolia]] (II⁻), [[Athamanta cretensis|Athamantha cretensis]] (I⁻), [[Laserpitium siler]] (I⁻).
+
+Écologie : fissures des falaises du Jurassique compact, saccharoïde, surtout à l'exposition Nord, entre 400 et 1 200 m d'altitude.
+
+### Sous-association : Kernerto-Arenarietum hispidae
+
+**Syn. :** Ass. à Potentilla caulescens et Saxifraga cebennensis sous-ass. à Arenaria hispida H. Meier et Br.-Bl. 1934
+
+**Espèces indicatrices :** [[Arenaria hispida]] (V⁺), [[Chaenorhinum origanifolium|Linaria origanifolia]] (IV⁺), [[Kernera saxatilis|Kernera auriculata]] (V⁺), [[Erinus alpinus]] (III⁺), [[Draba aizoides]] ssp. saxigena (II⁺).
+
+**Écologie :** fréquente à toute exposition dans les rocailles dolomitiques friables du Larzac et du Causse Noir entre 600–800 m, où elle occupe généralement de petites surfaces. Meilleur développement à l'ombre ; s'installe même dans les fissures des roches surplombantes. Taux de CO₃Ca de la terre fine toujours très élevé (≈ 50 %).
+
+---
+
+#### Preslietum cervinae
+
+Syn. : Ass. à Preslia cervina et Eleocharis palustris Br.-Bl. 1931
+
+Espèces indicatrices : [[Mentha pulegium]] (V), [[Veronica anagalloides]] (IV), [[Drepanocladus aduncus|Drepanocladus kneiffii]] (III), [[Callitriche truncata]] (I) *(Preslia cervina, non vue dans le texte OCR — nom d'après le basionyme)*.
+
+Écologie : submergée pendant une grande partie de l'hiver et du printemps, entièrement hors de l'eau en été ; développement optimum fin juin.
+
+---
+
+#### Primuletum allioni
+
+Espèces indicatrices : [[Moehringia dasyphylla]] (V⁺), [[Primula allionii|Primula allioni]] (V⁺).
+
+Écologie : microassociation sciaphile des rochers surplombants, dans les excavations qui sapent la base des escarpements calcaires. Microclimat de grottes bien différent de celui de la falaise sus-jacente : lumière très diffuse, écarts de température très faibles, humidité constante entretenue par la masse de roches sus-jacente, permettant le développement d'espèces hygrophiles comme [[Adiantum capillus-veneris]].
+
+---
+
+#### Pterideto-Sarothamnetum
+
+Syn. : Ass. à Sarothamnus scoparius et Pteridium aquilinum Suspl. 1942
+
+Espèces indicatrices : [[Cytisus scoparius|Sarothamnus scoparius]] (V), [[Pteridium aquilinum]] (IV), [[Cruciata laevipes|Galium cruciata]] (II), [[Geranium columbinum]] (III), [[Conopodium majus]] (III).
+
+Écologie : l'association est répandue à l'étage du Chêne blanc, entre 900 et 1 300 m. Elle est consécutive à la destruction des forêts acidophiles de [[Quercus petraea|Quercus sessiliflora]] sur les pentes inclinées. Le profil du sol, édifié sur roche mère granitique, appartient à la pédosérie des sols bruns : assez bien stratifié, nettement acide (pH de l'horizon A2 : 4,7–5,3), sans horizon B d'accumulation. Compagnes : [[Festuca ovina]] (V), Satureja sylvatica (V, OCR), [[Galium pumilum]] (V), [[Ranunculus bulbosus]] (V), Prunella hastaefolia (IV, OCR), [[Anthoxanthum odoratum]] (IV), [[Teucrium scorodonia]] (IV), [[Thymus serpyllum]] (IV), [[Plantago lanceolata]] (IV), [[Achillea millefolium]] (IV), [[Rumex acetosella]] (III), [[Veronica officinalis]] (II).
+
+---
+
+#### Querceto-Aceretum opali
+
+Espèces indicatrices : [[Trifolium rubens]] (IV), [[Lathyrus niger]] (IV), [[Acer opalus]] (IV), [[Acer platanoides]] (III), [[Campanula persicifolia]] (II), Hieracium neccerinthe (I, OCR).
+
+Écologie : dans les Cévennes méridionales et les Pyrénées orientales se rencontrent parfois, à la limite supérieure du Querceto-Buxetum entre 1 000 et 1 450 m, des bois de [[Quercus petraea|Quercus sessiliflora]] qui comprennent [[Acer opalus]], [[Acer platanoides]], [[Fraxinus excelsior]], [[Tilia platyphyllos]] à côté de plusieurs espèces montagnardes. Ce groupement, aux affinités médio-européennes, croît sur des pentes abondamment arrosées et jouit de conditions thermiques plus favorables que la hêtraie ; le substratum siliceux, parfois granitique, porte une terre brune humifère et peu profonde. Aujourd'hui ces bois sont généralement réduits à l'état de taillis de 15–30 ans et de 6–8 m de haut ; après le déboisement, [[Corylus avellana]] s'étend et forme une strate moyenne dense (recouvrement 90–100 %) ; la strate herbacée est bien développée et riche en espèces.
+
+---
+
+#### Querceto-Buxetum
+
+Syn. : Ass. à Quercus pubescens et Buxus sempervirens Br.-Bl. 1931
+
+Espèces indicatrices : [[Buxus sempervirens]] (V/V/III), [[Cytisophyllum sessilifolium|Cytisus sessilifolius]] (V/IV/IV), [[Lonicera etrusca]] (III/III/V), [[Cormus domestica|Sorbus domestica]] (I/IV/III), [[Lathyrus latifolius]] (II/III/III), [[Cornus mas]] (II/II/IV), [[Rhamnus saxatilis]] (IV/I/II), [[Fourraea alpina|Arabis pauciflora]] (II/III/I), [[Acer monspessulanum]] (III/I/II), [[Inula spiraeifolia]] (I/II/III), [[Hypericum hyssopifolium]] (I/I/II), [[Colutea arborescens]] (I/I/I), [[Rubus aetnicus|Rubus tomentosus]] (I/–/II), [[Asparagus tenuifolius|Asparagus tormifolius]] (II/I/–, OCR), [[Verbascum chaixii]] (I/I/–), [[Cyanus triumfetti|Centaurea axillaris]] (I/I/–), [[Muscari botryoides]] (II/–/–), [[Cotoneaster intermedius|Cotoneaster intermedia]] (I/–/–), [[Lathyrus pannonicus|Lathyrus albus]] (I/–/–), [[Laserpitium nestleri]] (I/–/–), [[Leucanthemum subglaucum]] (I/–/–), [[Katapsuxis silaifolia|Cnidium silaifolium]] (–/II/–), [[Cytisus decumbens]] (–/I/–), [[Cytisus hirsutus|Cytisus capitatus]] (–/I/–), [[Laburnum anagyroides]] (–/I/–), [[Euonymus latifolius]] (–/–/II).
+
+Écologie : avant l'arrivée de l'homme, la forêt de Chêne pubescent et Buis devait border vers le Nord les forêts de Chêne vert. Il est rare de rencontrer aujourd'hui des forêts de Chênes à Buis en bon état : elles sont généralement traitées en taillis de 15–40 ans, qui renferment parfois quelques vieux survivants dans des lieux peu accessibles ; dans une bonne terre profonde, [[Quercus pubescens]] peut atteindre des dimensions gigantesques.
+
+---
+
+#### Quercetum mediterraneo-montanum
+
+Espèces indicatrices : [[Rubia peregrina]] (V), [[Carex distachya]] (IV), [[Ruscus aculeatus]] (III), [[Phillyrea media]] (III), [[Viburnum tinus]] (I), [[Clematis flammula]] ssp. flammula (III), [[Arbutus unedo]] (II), [[Lonicera etrusca]] (II).
+
+Écologie : le socle des Cévennes méridionales siliceuses et des Pyrénées orientales, au-dessus de 300 m, porte des bois de Chêne vert de caractère montagnard qui diffèrent essentiellement du Quercetum galloprovinciale de la plaine : les arbustes sclérophylles eu-méditerranéens ([[Pistacia lentiscus]], [[Phillyrea angustifolia]], [[Quercus coccifera]], [[Lonicera implexa]], [[Rhamnus alaternus]]) ont cédé la place à des espèces médio-européennes ou montagnardes ([[Sorbus aria]], [[Fagus sylvatica]], [[Corylus avellana]], [[Taxus baccata]]). Le sol est une terre brune foncée, riche en matières organiques ; la litière atteint facilement 10–15 cm d'épaisseur ; les horizons A1 et A2, brun-jaunâtres, argilo-sablonneux, sont assez meubles et l'activité biologique très prononcée ; le pH de l'horizon A1 varie entre 5,4 (à 3 cm) et 6,5 (à 30 cm), l'acidité augmentant avec la profondeur ; il n'existe pas d'horizon d'accumulation. Au point de vue climatique, le Quercetum mediterraneo-montanum est caractérisé par des pluies abondantes (plus de 1 400 mm par an), des hivers peu rigoureux et une température annuelle moyenne d'environ 10° : c'est le climat méditerranéen-humide au sens d'Emberger.
+
+---
+
+#### Salicornietum fruticosae
+
+Syn. : Ass. à Salicornia fruticosa et Statice bellidifolia Br.-Bl. 1933
+
+Les sansouires à [[Salicornia fruticosa]] dominent au bord des étangs saumâtres, sur de très grandes étendues inondées pendant la période des pluies. Sol : gley carbonaté, limoneux, très compact (2,5 % sable grossier, 26 % sable fin, 71,5 % limon) ; au printemps, couche noirâtre sulfurée de 1–5 cm immédiatement sous la surface, puis horizon à gley peu marqué. Teneur en Cl⁻ de la rhizosphère supérieure : de 1,5 % en période pluvieuse à environ 10 % vers la fin de l'été. [[Salicornia fruticosa]], arbuste de 40–60 cm à racines très superficielles, forme des touffes arrondies contiguës ; la couverture presque entière du sol protège de l'érosion éolienne et le niveau du sol s'élève assez vite
+
+Espèces indicatrices : [[Puccinellia festuciformis]] (III/II), [[Limonium bellidifolium]] (Statice bellidifolia) (V).
+
+### Sous-association : Agropyreto-Inuletum crithmoidis
+
+**Syn. :** Salicornietum fruticosae sous-ass. inuletosum Br.-Bl. 1951
+
+**Espèces indicatrices :** [[Limbarda crithmoides|Inula crithmoides]] (V), [[Elytrigia elongata|Elymus elongatus]] (Agropyrum elongatum) (IV).
+
+**Écologie :** occupe une position périphérique, légèrement élevée par rapport au Salicornietum fruticosae, indiquant un niveau d'eau un peu plus bas et une concentration en Cl⁻ plus faible.
+
+---
+
+#### Salicornietum radicantis
+
+Syn. : Ass. à Salicornia radicans Br.-Bl. 1928 [n. n.] 1933
+
+Espèces indicatrices : [[Salicornia perennis|Salicornia radicans]] (V).
+
+Écologie : forme la ceinture externe de la végétation pérennante qui entoure les étangs et les dépressions remplies d'eau saumâtre et de débris d'algues ; supporte mieux que le Salicornietum fruticosae une submersion prolongée.
+
+---
+
+#### Schoeneto-Plantaginetum crassifoliae
+
+Syn. : Ass. à Plantago crassifolia et Schoenus nigricans Br.-Bl. 1931
+
+Espèces indicatrices : [[Lotus jordanii|Dorycnium gracile]] (V), [[Plantago crassifolia]] (V), [[Iris xiphium]] (I), [[Isolepis cernua|Scirpus savii]] (I).
+
+Écologie : pelouses sur sol sablonneux, en arrière des dunes littorales ; [[Schoenus nigricans]] est compagne de haute présence (V).
+
+### Sous-association : Holoschoenetum romani
+
+**Syn. :** Ass. à Plantago crassifolia et Schoenus nigricans, sous-ass. à Holoschoenus romanus et Juncus acutus Br.-Bl. 1931
+
+**Espèces indicatrices :** [[Juncus acutus]] (V), [[Scirpoides holoschoenus|Holoschoenus vulgaris]] ssp. romanus (V), [[Tripidium ravennae|Erianthus ravennae]] (IV), [[Juncus anceps]] (III), [[Asparagus maritimus|Asparagus scaber]] (I).
+
+**Écologie :** dépressions entre les dunes, sur sol sablonneux assez sec, riche en carbonate de calcium (env. 30 %). Prairie assez serrée de hauts joncs (60–80 cm) à tiges dures, non broutées par les animaux. Une variante un peu plus sèche, en ceinture du groupement type, se différencie par [[Imperata cylindrica]] et surtout [[Erianthus ravennae]].
+
+---
+
+#### Scirpeto-Phragmitetum mediterraneum
+
+Syn. : Scirpeto-Phragmitetum W. Koch 1926 pro parte
+
+Espèces indicatrices : [[Schoenoplectus lacustris]] (IV/IV), [[Typha latifolia]] (III), [[Typha angustifolia]] (III/II), [[Butomus umbellatus]] (II/II), [[Rumex hydrophilum]] (III/I), [[Glyceria maxima]] (II), [[Sium latifolium]] (I), [[Oenanthe aquatica]] (I⁻).
+
+Écologie : association hélophyte prospérant au bord des bassins et lacs aux eaux claires, le long des cours d'eau à courant faible, sur fonds vaseux inondés toute l'année.
+
+---
+
+#### Sclerochloetum durai
+
+Syn. : Polygonetum avicularis Gams 1927 pro parte ; Ass. à Sclerochloa dura et Coronopus procumbens Br.-Bl. 1931
+
+Espèces indicatrices : [[Sclerochloa dura]] (V), [[Lolium perenne]] (V), [[Lepidium coronopus|Coronopus procumbens]] (III).
+
+Écologie : chemins peu fréquentés, parfois inondés, de la plaine littorale ; supporte bien le piétinement et l'inondation temporaire. L'aspect varie beaucoup au cours du développement annuel ; en été, on la distingue très difficilement de l'Hordeetum. Se rapproche par certains caractères du Lolieto-Plantaginetum de l'Europe moyenne et occidentale, qui apparaît aux limites nord de la Région méditerranéenne (Sancyres — OCR — 700 m).
+
+---
+
+#### Sedeto-Arabidetum vernae
+
+Syn. : Ass. à Sedum et Arabis verna Br.-Bl. 1931 em
+
+Espèces indicatrices : [[Centranthus calcitrapae|Centranthus calcitrapa]] (IV/V), [[Arabis verna]] (III/V), [[Draba muralis]] (II/II), [[Teucrium botrys]] (III/I), [[Geranium lucidum]] (I/–).
+
+Écologie : colonise les replats rocheux (les vires) des basses montagnes calcaires du pourtour méditerranéen, à l'ombre, pourvu qu'il s'y soit accumulé suffisamment de terre fine ; ce sol peu abondant suffit au développement des Nano-Thérophytes. Compagnes de haute présence : [[Festuca ovina]] ssp. duriuscula (II/V), [[Sedum sediforme]] (II/IV), [[Veronica arvensis]] (III/III), [[Myosotis hispida]] (I/IV), [[Thymus vulgaris]] (II/III), [[Asterolinum stellatum]] (II/I), [[Lagoseris sancta]] (II/I), [[Erophila verna]] (II), [[Poa bulbosa]] (II).
+
+---
+
+#### Selaginelletto-Grammitetum leptophyllae
+
+Syn. : Ass. à Selaginella denticulata et Grammitis leptophylla Mol. 1937
+
+Espèces indicatrices : [[Selaginella denticulata]] (3.3), [[Anogramma leptophylla|Grammitis leptophylla]] (1.1), [[Asplenium obovatum subsp. billotii|Asplenium lanceolatum]] ssp. obovatum (1.2).
+
+Écologie : association surtout cryptogamique, occupant les pentes des petits talus séparant l'association à Laurentia des associations arbustives. Le sol, plus ou moins pierreux et profond, est toujours humide, sans que l'eau y soit stagnante.
+
+---
+
+#### Seslerieto-Gentianetum corbariensis
+
+Syn. : Ass. à Sesleria coerulea et Gentiana corbariensis Br.-Bl. et Suspl. 1937
+
+Espèces indicatrices : [[Gentiana clusii]] ssp. corbariensis (2), [[Sideritis hyssopifolia]] ssp. corbariensis (1), [[Phyteuma orbiculare]] ssp. tenerum (2), [[Dethawia splendens|Dethawia tenuifolia]] (1), [[Erysimum ochroleucum]] ssp. pyrenaicum (1), [[Globularia nudicaulis]] (1).
+
+Écologie : petites pelouses rocheuses suspendues, pâturées par les brebis. Compagnes : [[Festuca ovina]] ssp. duriuscula (2), [[Anthyllis vulneraria]] (2), [[Laserpitium siler]] (2), [[Alchemilla hoppeana]] (1), [[Hippocrepis comosa]] (1), [[Polygala calcarea]] (1).
+
+---
+
+#### Sileno-Asplenietum fontani
+
+Syn. : Ass. à Asplenium fontanum et Silene saxifraga Mol. 1934
+
+Espèces indicatrices : [[Asplenium fontanum]] (V), [[Globularia repens|Globularia nana]] (IV), [[Saxifraga callosa|Saxifraga lingulata]] (II⁺), [[Arenaria grandiflora]] ssp. (I⁺).
+
+Écologie : fentes des rochers calcaires (surtout Jurassique supérieur et Urgonien). La plupart des caractéristiques fuient la lumière trop vive et recherchent l'exposition Nord, mais l'association ne se développe pas sur les rochers trop ombragés. Elle s'établit dans les fentes renfermant assez de terre fine et disparaît lorsque l'érosion les a suffisamment élargies, laissant place à des associations arbustives.
+
+---
+
+#### Silybo-Urticetum
+
+Syn. : Silybetum mariani Br.-Bl. 1931
+
+Dans les stations où s'accumulent les débris végétaux, dans les lieux rudéraux, sur les décombres, autour des fermes languedociennes, des habitations et des murs provençaux s'installe un groupement voisin des deux précédents, mais un peu moins nitrophile et surtout moins visité par l'homme
+
+Espèces indicatrices : [[Ballota nigra|Ballota foetida]] (V/V), [[Arctium minus]] (IV/V), [[Silybum marianum]] (IV/III), [[Hyoscyamus niger]] (III/a), [[Onopordum tauricum]] (I), [[Artemisia verlotiorum|Artemisia verlotorum]] (I).
+
+Écologie : stations où s'accumulent les débris végétaux, lieux rudéraux, décombres, autour des fermes languedociennes, des habitations et des murs provençaux ; groupement un peu moins nitrophile et moins fréquenté que les précédents. Périodicité marquée, avec trois aspects annuels : printanier ([[Bromus sterilis]], [[Carduus tenuiflorus]]), estival ([[Silybum marianum]], [[Ballota foetida]] et les autres caractéristiques), automnal ([[Ecballium elaterium]], [[Xanthium spinosum]] et quelques chénopodiacées qui disparaissent l'hiver venu).
+
+### Sous-association : Urticeto-Sambucetum ebuli
+
+**Syn. :** Silybo-Urticetum Br.-Bl. sous-ass. à Urtica dioica Br.-Bl. 1936
+
+**Espèces indicatrices :** [[Urtica dioica]] (V), [[Sambucus ebulus]] (V), [[Galium aparine]] (V), [[Anisantha sterilis|Bromus sterilis]] (IV), [[Conium maculatum]] (II).
+
+**Écologie :** dans la plaine littorale du Languedoc, la nappe phréatique élevée favorise l'installation d'une végétation nitrophile plus septentrionale, où dominent les espèces médio-européennes et ubiquistes, les co-méditerranéennes étant rares ou absentes. Au bord des chemins et des haies, le sol profond, riche en carbonates et nitrates, abondamment pourvu d'eau toute l'année, montre une activité biologique très accusée. L'association est surtout caractérisée par [[Sambucus ebulus]], [[Urtica dioica]] et [[Conium maculatum]], qui atteignent 1,50–2 m et plus de hauteur ; [[Arctium minus]] et [[Galium aparine]] y ont leur optimum.
+
+---
+
+#### Stipeto-Ononidetum
+
+Espèces indicatrices : [[Stipa pennata]] ssp. mediterranea (V), [[Euphorbia seguieriana]] var. dolomitica (IV), [[Ranunculus gramineus]] (III), [[Centaurea stoebe|Centaurea maculosa]] (II), [[Pulsatilla rubra|Anemone rubra]] (II), [[Oreoselinum nigrum|Peucedanum oreoselinum]] (I), [[Podospermum purpureum|Scorzonera purpurea]] (I).
+
+Écologie : belles prairies d'aspect steppique ondoyant au vent. Le sous-sol calcaréo-dolomitique se désagrège en surface sous l'action de l'érosion pluviale, donnant une terre fine, sablonneuse, plus ou moins riche en carbonates, qui s'accumule dans les creux (« sotchas » en patois). L'exposition au vent et la durée d'enneigement interviennent comme facteurs importants déterminant des variantes. Une variante (peut-être sous-association) à [[Carex humilis]], avec présence de certaines espèces de l'[[Astereto-Anthyllidetum]] et raréfaction des compagnes habituelles (enneigement plus court), forme la transition vers cette association. Compagnes : [[Festuca ovina]] ssp. duriuscula (V), [[Helianthemum canum]] var. dolomiticum (V), [[Anthyllis vulneraria]] (V), [[Galium mollugo]] ssp. corrudifolium (IV), [[Hieracium pilosella]] (IV), [[Bromus erectus]] (III), [[Armeria plantaginea]] (III), [[Scabiosa columbaria]] (III), [[Sanguisorba minor]] ssp. Magnolii (III).
+
+---
+
+#### Suaedo-Kochietum hirsutae
+
+Syn. : Ass. à Suaeda maritima et Kochia hirsuta Br.-Bl. 1928
+
+Espèces indicatrices : [[Spirobassia hirsuta|Bassia hirsuta]] (Kochia hirsuta) (V), [[Cressa cretica]] (I).
+
+Écologie : association souvent discontinue (recouvrement moyen 60–80 %), recherchant des sols à teneur en sel élevée, formés de débris de coquillages et d'algues rejetés par les vagues sur le pourtour des étangs et lacs salés. Composée presque exclusivement d'annuelles. Le faciès le plus répandu est celui à [[Suaeda maritima]] et [[Salicornia europaea]] ssp. emerici, sans Kochia ; en automne, il se distingue de loin à sa couleur rougeâtre.
+
+---
+
+#### Suaedo-Salsoletum sodae
+
+Syn. : Ass. à Salsola soda et Suaeda splendens Br.-Bl. 1931
+
+Espèces indicatrices : [[Soda inermis|Salsola soda]] (IV), [[Suaeda splendens]] (III), [[Heliotropium curassavicum]] (I), [[Atriplex laciniata|Atriplex tornabenei]] (I).
+
+Écologie : groupements à thérophytes halophiles sur sol humide limoneux et sur débris organiques (amas d'algues), riche en matières azotées ; forme souvent une première ceinture de végétation supérieure au bord des étangs salés. Sol de la rhizosphère (4–8 cm) humide tout l'été, teneur en chlorures d'environ 2 % au printemps et 7 % en été ; faciès à Salicornia : 4,5 % sable grossier, 25 % sable fin, 70,5 % limon. Horizon noir luisant de sulfure de fer souvent observable près de la surface.
+
+---
+
+#### Tillaeetum
+
+Espèces indicatrices : [[Crassula tillaea|Tillaea muscosa]] (V), [[Toniniopsis aromatica|Toninia aromatica]] (V), [[Squamarina cartilaginea|Lecanora crassa]] (V), Placodium fulgens (V), [[Linaria arvensis]] (IV), [[Herniaria cinerea]] (III), [[Xanthoparmelia conspersa|Parmelia conspersa]] (III), [[Spergula pentandra]] (II), [[Diploschistes scruposus]] (V), [[Acarospora schleicheri]] (II), [[Aphanes australis|Alchemilla microcarpa]] (I), [[Psora decipiens]] (I), [[Romjularia lurida|Psora lurida]] (I).
+
+Écologie : petites clairières à terre fine, rougeâtre, décalcifiée, accumulée entre les galets de quartzites, sur un sous-sol exclusivement quaternaire siliceux. La présence de nombreux Lichens est due à la grande teneur en eau pendant la période humide. Le pH très variable (5–7,0) indique des conditions stationnelles peu homogènes : l'évaporation de l'eau, rapide en été, accumule à la surface du sol une légère pellicule calcaire (pH des couches supérieures ~7,8), les couches profondes restant acides. Ceci explique le mélange curieux de Lichens réputés basiphiles et de quelques espèces des Thero-Brachypodietea à côté d'espèces acidophiles des Cisto-Lavanduletea. Compagnes : [[Riccia nigrella]] (V), [[Barbula gracilis]] (V), [[Poa bulbosa]] (V), [[Trifolium suffocatum]] (V), [[Sagina apetala]] (V), [[Cerastium semidecandrum]] (V), [[Lobularia maritima|Alyssum maritimum]] (V), [[Erophila verna]] (V), [[Erodium cicutarium]] (V), [[Pleurochaete squarrosa]] (IV), [[Euphorbia falcata]] var. rubra (IV), [[Galium murale]] (IV), [[Filago spathulata]] (IV), [[Nardurus unilateralis]] (III), Pallurus nardoides (III, OCR), [[Brachypodium ramosum]] (III), [[Euphorbia exigua]] (III), Polycarpon alsinifolium (III, OCR), [[Arenaria serpyllifolia]] ssp. leptoclados (III), [[Asterolinum stellatum]] (III), [[Sherardia arvensis]] (III), [[Evax pygmaea]] (III), [[Cerastium pumilum]] (III), [[Thymus vulgaris]] (II).
+
+---
+
+
+---
+
+## Partie 2 — Espèces indicatrices d'alliance/ordre/classe extraites des fiches associations Espèces listées après les mentions « alliance : », « ordre : », « classe : », « alliance (X) : »... ou marquées d'un astérisque dans les listes d'espèces indicatrices : elles caractérisent les syntaxons supérieurs et ne sont pas reportées dans les fiches associations. **Potentilleto-Saxifragetum cebennensis** — indicatrices de rang supérieur (astérisque) : - *[[Kernera saxatilis|Kernera auriculata]] (V⁻)
 - *[[Chaenorhinum origanifolium|Linaria origanifolia]] (II⁻)
 - *[[Athamanta cretensis|Athamantha cretensis]] (I⁻)
 - *[[Laserpitium siler]] (I⁻) **Kernerto-Arenarietum hispidae** — indicatrices de rang supérieur (astérisque) : - *[[Chaenorhinum origanifolium|Linaria origanifolia]] (IV⁺)

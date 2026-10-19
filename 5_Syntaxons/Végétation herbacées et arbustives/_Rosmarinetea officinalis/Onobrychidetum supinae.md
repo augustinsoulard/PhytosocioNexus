@@ -1,16 +1,15 @@
 ---
 tags:
-  - association
-syntaxon_superieur: "[[Aphyllanthion]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
-date_maj: 2026-10-19
+syntaxon_superieur: "[[Helianthemo italici-Aphyllanthion monspeliensis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-09-20
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+Syntaxon non mentionné en France.
 
-Espèces indicatrices : [[Astragalus monspessulanus]] (V), [[Onobrychis supina]] (IV), [[Astragalus hypoglottis|Astragalus purpureus]] (I).
-
-Écologie : la pelouse à [[Onobrychis supina]] présente un aspect bien différent de l'[[Aphyllantheto-Leontodetum villarsii]] : Graminées et Hémicryptophytes prédominent, les espèces du Rosmarino-Ericion manquent. C'est au mois de mai, lors de la floraison des Légumineuses, que l'association déploie toute sa splendeur : au rose tendre de l'[[Astragalus monspessulanus]] et de l'Onobrychis dominants se mêlent l'or de la [[Potentilla verna]], le bleu foncé de l'Aphyllanthes, plus rarement le pourpre de l'Hedysarum. Cette belle association praticole se développe le mieux dans les terrains marneux liasiques, très riches en carbonates ; elle indique un sol fertile, particulièrement favorable à la culture de la luzerne. Compagnes : [[Festuca ovina]] ssp. duriuscula (V), [[Eryngium campestre]] (IV), [[Thymus vulgaris]] (V), [[Carex flacca|Carex glauca]] (III), [[Dorycnium suffruticosum]] (V), [[Prunella hyssopifolia]] (III), [[Hieracium pilosella]] (V), [[Juniperus oxycedrus]] (III), [[Bromus erectus]] (IV), [[Brachypodium ramosum]] (III), [[Genista scorpius]] (IV), [[Sanguisorba minor]] ssp. Magnolii (III), [[Brachypodium phoenicoides]] (IV), [[Ononis minutissima]] (III), [[Teucrium polium]] (IV), [[Helichrysum stoechas]] (III), [[Carex halleriana]] (IV), [[Carlina corymbosa]] (III).
+Espèces indicatrices : [[Poterium verrucosum]], [[Leucanthemum graminifolium]]
+[[Linum campanulatum]]
