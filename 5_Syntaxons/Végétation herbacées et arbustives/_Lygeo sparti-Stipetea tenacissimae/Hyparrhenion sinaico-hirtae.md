@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Steppes ouest méditerranéennes
+**Description** : Végétation herbacée vivace thermophile, xérophile, des sols filtrants ou rocailleux des étages thermo- et mésoméditerranéen inférieur de la Méditerranée occidentale et centrale. Steppes ouest méditerranéennes
 
-**Espèces caractéristiques** : Les mêmes que celles de l'ordre ([[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Stipellula parviflora]], [[Piptatherum caerulescens]], [[Brachypodium retusum]])
+**Espèces caractéristiques** : [[Convolvulus althaeoides]], [[Hyoseris radiata]], [[Hyparrhenia sinaica]], [[Piptatherum caerulescens]], [[Phagnalon saxatile]], [[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Stipellula parviflora]], [[Piptatherum caerulescens]], [[Brachypodium retusum]]. 
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.434]]

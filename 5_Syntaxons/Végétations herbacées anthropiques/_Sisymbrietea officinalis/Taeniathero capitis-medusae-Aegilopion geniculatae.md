@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches ibéro-méditerranéennes (Languedoc-Roussillon)
+**Description** : Végétation annuelle pionnière, subnitrophile, xérophile, des sols superficiels abandonnés (parfois pâturés) des terres intérieures de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Taeniatherum caput-medusae]], [[Aegilops geniculata]], [[Aegilops triuncialis]]
+**Espèces caractéristiques** : [[Taeniatherum caput-medusae]], [[Aegilops geniculata]], [[Aegilops triuncialis]], [[Aegilops neglecta]],  [[Helianthemum ledifolium]], [[Trifolium cherleri]], [[Trisetum paniceum]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.6]] - [[E5.12]] - [[E5.13]] - [[I1.52]]

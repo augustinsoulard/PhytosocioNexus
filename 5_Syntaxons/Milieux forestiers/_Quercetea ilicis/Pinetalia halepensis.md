@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pinèdes méditerranéennes
+**Description** :Végétation arborescente xérophile, thermophile, dominée par Pinus halepensis des substrats rocheux sous bioclimat méditerranéen.
 
 **Espèces caractéristiques** : [[Pinus halepensis]], [[Pinus pinea]]
 

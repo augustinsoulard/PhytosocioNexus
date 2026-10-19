@@ -10,9 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches mésotrophes
+**Description** : Végétation herbacée vivace, mésoxérophile, calcicole, structurée par des hémicryptophytes, des substrats argileux profonds, anciennement remaniés, des étages méso- et supraméditerranéen du nord de la Méditerranée centrale et occidentale.
 
-**Espèces caractéristiques** : [[Bituminaria bituminosa]], [[Dianthus balbisii]], [[Dittrichia viscosa]], [[Helichrysum italicum]]
+**Espèces caractéristiques** : [[Bituminaria bituminosa]], [[Dianthus balbisii]], [[Dittrichia viscosa]], [[Helichrysum italicum]], [[Brachypodium phoenicoides]], [[Euphorbia serrata]], [[Foeniculum vulgare subsp. vulgare]], [[Salvia verbenaca]], [[Verbascum sinuatum]].
+
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.2A]]

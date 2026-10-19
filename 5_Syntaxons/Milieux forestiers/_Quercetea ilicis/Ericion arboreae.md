@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Fourrés +/- méditerranéens peu diversifiés
+**Description** : Végétation arbustive à arborescente, composée d'espèces sclérophylles, des substrats neutres à acides sous bioclimat méditerranéen.
 
-**Espèces caractéristiques** : [[Erica arborea]], [[Cistus laurifolius]], [[Cytisus scoparius]], [[Cytisus spinosus]], [[Calicotome spinosa]], [[Euphorbia characias]]
+**Espèces caractéristiques** : [[Erica arborea]], [[Cistus laurifolius]], [[Cytisus scoparius]], [[Cytisus spinosus]], [[Calicotome spinosa]], [[Euphorbia characias]], [[Arbutus unedo]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[F5.211]]

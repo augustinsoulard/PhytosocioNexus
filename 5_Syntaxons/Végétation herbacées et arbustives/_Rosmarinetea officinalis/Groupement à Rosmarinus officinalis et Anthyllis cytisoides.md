@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-Physionomie : Végétation sous-arbustive haute de 1-1.5 m, assez lâche, dominée par [[Anthyllis cytisoides]] et [[Rosmarinus officinalis]] entre lesquels s’insèrent de grands chaméphytes ([[Coronilla juncea]], [[Cheirolophus intybaceus]]). La strate herbacée est peu développée. 
+**Description** : Végétation sous-arbustive haute de 1-1.5 m, assez lâche, dominée par [[Anthyllis cytisoides]] et [[Rosmarinus officinalis]] entre lesquels s’insèrent de grands chaméphytes ([[Coronilla juncea]], [[Cheirolophus intybaceus]]). La strate herbacée est peu développée. 
 
 Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [[Coronilla juncea]], [[Rosmarinus officinalis]], [[Fumana laevipes]], [[Malva subovata]]. 
 

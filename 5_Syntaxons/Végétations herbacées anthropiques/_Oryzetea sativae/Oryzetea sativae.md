@@ -10,6 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Végétation annuelle commensale des cultures de riz d'Eurasie.
+
 Ordres :
 - [[Cypero difformis-Echinochloetalia oryzoidis]] O. Bolòs et Masclans 1955
 

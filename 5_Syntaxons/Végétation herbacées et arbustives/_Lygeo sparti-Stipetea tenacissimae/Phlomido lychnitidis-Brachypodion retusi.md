@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses xérophiles et mésothermes des sols superficiels oligotrophes (Note : il est proposé de rattacher cette alliance à la classe des Rosmarinetea, p. 50)
+**Description** : Pelouses xérophiles et mésothermes des sols superficiels oligotrophes
 
-**Espèces caractéristiques** : [[Brachypodium retusum]], [[Ruta angustifolia]], [[Iris lutescens]], [[Phlomis lychnitis]], [[Asphodelus fistulosus]], [[Euphorbia spinosa]], [[Thymus vulgaris]]
+**Espèces caractéristiques** : [[Brachypodium retusum]], [[Ruta angustifolia]], [[Iris lutescens]], [[Phlomis lychnitis]], [[Asphodelus fistulosus]], [[Euphorbia spinosa]], [[Thymus vulgaris]], [[Narcissus dubius]], [[Asphodelus ayardii]], [[Paronychia capitata]], [[Poterium verrucosum]], [[Teucrium pseudochamaepitys]], [[Dipcadi serotinum]], [[Ophrys aranifera subsp. massiliensis]], [[Stipa offneri]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.311]]
@@ -26,6 +26,7 @@ Associations :
 - [[Asphodeletum fistulosi]] Molinier et Tallon 1949 ; 
 - [[Brachypodio retusi-Stipetum ibericae]] sensu R.J. Loisel 1976 nom. inval. ; 
 - [[Fumano ericifoliae-Brachypodietum retusi]] Choisnet 2019 nom. ined. (1) ; 
+- [[Groupement à Plantago albicans]] Noble et Baret, 2019 ;
 - [[Hedysaro spinosissimi-Phagnaletum rupestris]] Zevaco 1967 ; 
 - [[Loto cytisoidis-Dactyletum hispanicae]] Biondi et al. 2001 ; 
 - [[Melico ciliatae-Brachypodietum retusi]] Bacchetta et al. 2005 ; 

@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation des sols et lithosols calcaires thermo- à méso-méditerranéenne
+**Description** : Végétation annuelle xérophile, des substrats argileux, généralement basiques à neutres, parfois légèrement salés, de la Méditerranée.
 
-**Espèces caractéristiques** : [[Stipellula capensis]], [[Hypochaeris achyrophorus]]
+**Espèces caractéristiques** : [[Stipellula capensis]], [[Hypochaeris achyrophorus]], [[Atractylis cancellata]], [[Hedysarum spinosissimum]],  [[Sideritis romana]], [[Trigonella sulcata]], [[Tripodion tetraphyllum]].
 
 ZH : non spécifié
 

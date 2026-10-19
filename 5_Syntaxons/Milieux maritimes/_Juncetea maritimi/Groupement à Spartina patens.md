@@ -12,7 +12,7 @@ sources:
 ---
 Syn. : [[Schoeno nigricantis-Plantaginetum crassifoliae]] Braun-Blanq. ex Braun-Blanq. et al. 1952 spartinetosum Molin. & Tallon 1970 p.p. 
 
-Physionomie : Végétation herbacée dense, largement dominée par [[Spartina patens]] qui forme des colonies visiblement stériles peu diversifiées. 
+**Description** : Végétation herbacée dense, largement dominée par [[Spartina patens]] qui forme des colonies visiblement stériles peu diversifiées. 
 
 Espèces indicatrices : [[Spartina patens]], [[Juncus maritimus]]. 
 

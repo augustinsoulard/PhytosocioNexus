@@ -16,6 +16,11 @@ sources:
 
 ZH : (à préciser)
 
+![[Carte_Quercion pubescenti-petraeae.png]]
+
 Sous-alliances :
 - [[Buxo sempervirentis-Quercenion pubescentis]] (Zólyomi et Jakucs in Jakucs 1960) Rivas Martínez 1972
 - [[Sorbo ariae-Quercenion pubescentis]] Rameau in J.-M. Royer et al. 2006
+
+Associations :
+- [[Groupement à Quercus pubescens et Erica scoparia]] Noblet et Baret, 2019

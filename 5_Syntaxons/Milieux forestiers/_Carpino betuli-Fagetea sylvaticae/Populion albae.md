@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Basses et moyennes terrasses des lits inondables des cours d'eau méditerranéens
+**Description** :Végétation arborescente mésohygrophile, riveraine des cours d'eau, sur basses à moyennes terrasses avec sols alluvionnaires riches en éléments minéraux, à nappe phréatique élevée, de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Fraxinus angustifolia]], [[Populus alba]], [[Alnus glutinosa]], [[Solanum dulcamara]], [[Bryonia dioica]], [[Equisetum ramosissimum]], [[Silene baccifera]], [[Aristolochia clematitis]], [[Pastinaca sativa]], [[Saponaria officinalis]], [[Arum italicum]]
+**Espèces caractéristiques** : [[Fraxinus angustifolia]], [[Populus alba]], [[Alnus glutinosa]], [[Solanum dulcamara]], [[Bryonia dioica]], [[Equisetum ramosissimum]], [[Silene baccifera]], [[Aristolochia clematitis]], [[Pastinaca sativa]], [[Saponaria officinalis]], [[Arum italicum]], [[Rubus caesius]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[G1.31]]

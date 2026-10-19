@@ -9,9 +9,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Ourlets thermophiles eu- à subméditerranéens
+**Description** : Végétation annuelle pionnière, d'expression vernale, thermophile, hémisciaphile, mésoxérophile, (sub)nitrophile, formant des ourlets éphémères sur des substrats superficiels de la Méditerranée, de la Macaronésie et du littoral atlantique de l'Europe sud-occidentale.
 
-**Espèces caractéristiques** : [[Mercurialis annua]], [[Urtica urens]], [[Torilis nodosa]], [[Centranthus calcitrapa]], [[Capsella rubella]]
+**Espèces caractéristiques** : [[Mercurialis annua]], [[Urtica urens]], [[Torilis nodosa]], [[Capsella rubella]], [[Geranium purpureum]], [[Centranthus calcitrapae]], [[Torilis nodosa subsp. nodosa]].
 
 ZH : non spécifié
 

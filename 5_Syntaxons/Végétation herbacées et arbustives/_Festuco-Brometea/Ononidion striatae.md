@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés herbacées mésoxérophiles, surtout des pentes rocheuses des ubacs
+**Description** : Végétation herbacée vivace, mésoxérophile, des substrats calcaires rocailleux en situation de forte pente, souvent exposés au nord, des reliefs de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Centaurea pectinata]], [[Linum campanulatum]], [[Euphorbia duvalii]]
+**Espèces caractéristiques** : [[Centaurea pectinata]], [[Linum campanulatum]], [[Euphorbia duvalii]], [[Euphrasia salisburgensis]], [[Laserpitium siler]], [[Sesleria caerulea]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.51]]

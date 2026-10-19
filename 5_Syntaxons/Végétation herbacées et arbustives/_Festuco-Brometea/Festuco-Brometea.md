@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses calcaires planitiaires à montagnardes
+**Description** : Végétation herbacée vivace, mésophile à xérophile, des étages planitaires à montagnard de l'Europe à la Sibérie occidentale.
 
-**Espèces caractéristiques** : [[Festuca ovina subsp. guestphalica]], [[Koeleria macrantha]], [[Phleum phleoides]], [[Helictochloa pratensis]], [[Anthyllis vulneraria]], [[Ononis spinosa]], [[Eryngium campestre]], [[Poterium sanguisorba]], [[Lactuca perennis]], [[Euphorbia cyparissias]], [[Euphorbia seguieriana]], [[Helianthemum nummularium]], [[Salvia pratensis]], [[Stachys recta]]
+**Espèces caractéristiques** : [[Festuca ovina subsp. guestphalica]], [[Koeleria macrantha]], [[Phleum phleoides]], [[Helictochloa pratensis]], [[Anthyllis vulneraria]], [[Ononis spinosa]], [[Eryngium campestre]], [[Poterium sanguisorba]], [[Lactuca perennis]], [[Euphorbia cyparissias]], [[Euphorbia seguieriana]], [[Helianthemum nummularium]], [[Salvia pratensis]], [[Stachys recta]], [[Arabis hirsuta]], [[Koeleria vallesiana subsp. vallesiana]], [[Bromopsis erecta]], [[Helianthemum nummularium]], [[Eryngium campestre]], [[Himantoglossum hircinum]], [[Potentilla verna]], [[Stipa eriocaulis]].
 
 ZH : non spécifié
 

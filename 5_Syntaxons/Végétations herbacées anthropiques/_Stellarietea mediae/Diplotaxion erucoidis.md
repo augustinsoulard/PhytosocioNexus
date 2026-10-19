@@ -10,6 +10,11 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description :** Végétation annuelle des sols sarclés, neutres à basiques, des étages thermo- à mésoméditerranéen de la Méditerranée centrale et occidentale.
+
+Espèces indicatrices : [[Diplotaxis erucoides]].
+
+
 ![[561 - Diplotaxion erucoidis.jpg]]
 Associations :
 - [[Amarantho delilei-Diplotaxietum erucoidis]] Braun-Blanquet in Braun-Blanquet et al. 1936

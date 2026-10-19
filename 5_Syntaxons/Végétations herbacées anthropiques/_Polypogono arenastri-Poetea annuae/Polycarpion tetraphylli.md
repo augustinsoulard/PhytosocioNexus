@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation méditerranéenne occidentale à irradiation thermoatlantique
+**Description** : Végétation annuelle vernale, subnitrophile, xérophile et thermophile des sols piétinés aux étages thermo- à mésoméditerranéen de la Méditerranée.
 
-**Espèces caractéristiques** : [[Polycarpon tetraphyllum]]
+**Espèces caractéristiques** : [[Polycarpon tetraphyllum]], [[Crassula tillaea]], [[Filago pygmaea]], [[Herniaria cinerea]], [[Trifolium suffocatum]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E2.8]]

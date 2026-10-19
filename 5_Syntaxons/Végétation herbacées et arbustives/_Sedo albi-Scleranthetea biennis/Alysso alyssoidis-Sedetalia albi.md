@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés calcicoles des dalles rocheuses
+**Description** : Végétation herbacée vivace pionnière, xérophile, thermophile, calcicole, des sols squelettiques sur dalles rocheuses plus ou moins horizontales de l'Europe.
 
-**Espèces caractéristiques** : [[Alyssum alyssoides]], [[Saxifraga tridactylites]], [[Sedum album]], [[Sedum ochroleucum]]
+**Espèces caractéristiques** : [[Alyssum alyssoides]], [[Saxifraga tridactylites]], [[Sedum album]], [[Sedum ochroleucum]], [[Minuartia rostrata]]
 
 ZH : non spécifié
 

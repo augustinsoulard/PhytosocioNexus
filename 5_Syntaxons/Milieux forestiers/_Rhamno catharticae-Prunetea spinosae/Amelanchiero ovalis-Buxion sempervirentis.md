@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Fourrés xérophiles des corniches rocheuses +/- calcaires
+**Description** : Végétation arbustive xérophile des corniches rocheuses et autres affleurements rocheux plutôt calcaires, sur sols superficiels, des reliefs de l'Europe sud-occidentale.
 
-**Espèces caractéristiques** : [[Amelanchier ovalis]], [[Buxus sempervirens]], [[Cytisophyllum sessilifolium]]
+**Espèces caractéristiques** : [[Amelanchier ovalis]], [[Buxus sempervirens]], [[Cytisophyllum sessilifolium]], [[Cotoneaster integerrimus]], [[Cotoneaster delphinensis]], [[Cotoneaster nebrodensis]], [[Cotoneaster tomentosus]], [[Rosa montana]]
 
 ZH : (à préciser)
 

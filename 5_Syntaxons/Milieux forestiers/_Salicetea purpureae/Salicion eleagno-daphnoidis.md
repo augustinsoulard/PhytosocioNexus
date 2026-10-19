@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés montagnardes et subalpines du Jura, des Alpes, des Pyrénées et des Cévennes
+**Description** : Végétation arbustive, dominée par des espèces du genre Salix, des berges graveleuses des cours d'eau des étages supraméditerranéen, montagnard et subalpin des montagnes de l'Europe.
 
-**Espèces caractéristiques** : [[Salix eleagnos]], [[Salix daphnoides]], [[Myricaria germanica]]
+**Espèces caractéristiques** : [[Salix eleagnos]], [[Salix daphnoides]], [[Myricaria germanica]], [[Hippophae rhamnoides subsp. fluviatilis]], [[Myricaria germanica]], [[Alnus incana]] 
 
 - **Correspondances typologiques** :
 	- EUNIS : [[F9.14]]

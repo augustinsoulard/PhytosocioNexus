@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Friches +/- eutrophes
+**Description** : Végétation herbacée vivace nitrophile, mésoxérophile, dominée par des hémicryptophytes d'expression tardi-estivale, des sols profonds perturbés, des étages thermo- et mésoméditerranéen inférieur de la Méditerranée.
 
-**Espèces caractéristiques** : [[Oloptum miliaceum]], [[Hyparrhenia sinaica]], [[Hyparrhenia hirta]]
+**Espèces caractéristiques** : [[Oloptum miliaceum]], [[Hyparrhenia sinaica]], [[Hyparrhenia hirta]], [[Lobularia maritima]], [[Sonchus tenerrimus]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.2A]]

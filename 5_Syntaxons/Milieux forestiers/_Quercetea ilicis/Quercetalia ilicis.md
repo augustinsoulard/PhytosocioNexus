@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Végétation forestière : Chênaies sempervirentes méditerranéennes avec irradiation thermo-atlantique
+**Description** : Végétation arborescente forestière fermée, mésoxérophile, dominée par des chênes sclérophylles ou marcescents, de la Méditerranée centrale et occidentale et de l'Europe atlantique thermo-tempérée.
 
-**Espèces caractéristiques** : [[Quercus ilex]], [[Quercus suber]]
+**Espèces caractéristiques** : [[Quercus ilex]], [[Quercus suber]], [[Rosa sempervirens]]
 
 Alliances :
 - [[Fraxino orni-Quercion ilicis]] Biondi et al. 2003

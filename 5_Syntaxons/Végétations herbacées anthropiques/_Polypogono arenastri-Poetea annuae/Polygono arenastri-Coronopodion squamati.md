@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Végétation eurosibérienne estivale
+**Description** : Végétation annuelle vernale, des sols piétinés argileux du nord de la Méditerranée et de l'Europe sud-occidentale.
 
-**Espèces caractéristiques** : [[Polygonum aviculare subsp. depressum]], [[Lepidium squamatum]]
+**Espèces caractéristiques** : [[Polygonum aviculare subsp. depressum]], [[Lepidium squamatum]], [[Sclerochloa dura]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.E]]

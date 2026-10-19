@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés des milieux saumâtres méditerranéo-atlantiques dominés par les Tamaris
+**Description** : Végétation arbustive à arborescente, hygrophile et subhalophile à dominance de Tamarix, des berges des cours d'eau douce ou saumâtre des étages inférieurs de la Méditerranée occidentale et des secteurs thermo-atlantiques.
 
 **Espèces caractéristiques** : Tamarix div. sp. (ex [[Tamarix africana]], [[Tamarix gallica]]), [[Solanum dulcamara]]
 

@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Végétation annuelle, commensale des cultures annuelles des étages méso- et supraméditerranéen de la Méditerranée. 
+**Description :** Végétation annuelle, commensale des cultures annuelles des étages méso- et supraméditerranéen de la Méditerranée. 
 
 Espèces indicatrices : [[Hypecoum pendulum]], [[Roemeria hybrida]], [[Legousia pentagonia]].
 

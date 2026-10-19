@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Pelouses subméditerranéennes et supraméditerranéennes
+**Description** : Végétation herbacée vivace, mésoxérophile à xérophile, des substrats basiques des reliefs de l'Europe subméditerranéenne et de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Anemone rubra]], [[Anthyllis montana]], [[Echinops ritro]], [[Crepis albida]], [[Jurinea humilis]], [[Klasea nudicaulis]], [[Teucrium aureum]], [[Tulipa sylvestris subsp. australis]], [[Narcissus assoanus]]
+**Espèces caractéristiques** : [[Anemone rubra]], [[Anthyllis montana]], [[Echinops ritro]], [[Crepis albida]], [[Jurinea humilis]], [[Klasea nudicaulis]], [[Teucrium aureum]], [[Tulipa sylvestris subsp. australis]], [[Narcissus assoanus]], [[Arenaria aggregata]], [[Bupleurum ranunculoides subsp. telonense]], [[Genista pulchella]], [[Iberis saxatilis]], [[Leucanthemum burnatii]], [[Minuartia capillacea]], [[Plantago argentea]], [[Potentilla velutina]], [[Scorzonera austriaca subsp. bupleurifolia]], [[Senecio gerardi]], [[Thymus longicaulis]], [[Valeriana tuberosa]].
 
 ZH : non spécifié
 

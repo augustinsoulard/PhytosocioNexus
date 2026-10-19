@@ -11,9 +11,9 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 
-**Description** : Végétation des sols engorgés à inondables
+**Description** : Végétation herbacée vivace prairiale des sols mésotrophes à eutrophes soumis à des périodes d'inondation plus ou moins longues (ou engorgés), de l'Europe tempérée et de la Méditerranée.
 
-**Espèces caractéristiques** : [[Agrostis stolonifera]], [[Juncus articulatus]], [[Ranunculus repens]], [[Potentilla reptans]], [[Trifolium fragiferum]], [[Lotus glaber]], [[Lychnis flos-cuculi]], [[Mentha pulegium]]
+**Espèces caractéristiques** : [[Agrostis stolonifera]], [[Juncus articulatus]], [[Ranunculus repens]], [[Potentilla reptans]], [[Trifolium fragiferum]], [[Lotus glaber]], [[Lychnis flos-cuculi]], [[Mentha pulegium]], [[Anacamptis laxiflora]], [[Baldellia ranunculoides]], [[Carex distans]], [[Equisetum palustre]], [[Inula britannica]], [[Potentilla reptans]].
 
 ZH : oui
 

@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Manteaux des chênaies vertes méditerranéennes
+**Description** : Végétation arbustive xérophile, dominée par des espèces sclérophylles, sur substrats basiques, des étages méso- à supraméditerranéen de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Quercus coccifera]], [[Phillyrea angustifolia]], [[Juniperus phoenicea]], [[Genista scorpius]], [[Paliurus spina-christi]], [[Jasminum fruticans]]
+**Espèces caractéristiques** : [[Quercus coccifera]], [[Phillyrea angustifolia]], [[Juniperus phoenicea]], [[Genista scorpius]], [[Paliurus spina-christi]], [[Jasminum fruticans]], [[Cistus albidus]], [[Ephedra major]], [[Juniperus phoenicea subsp. phoenicea]], [[Juniperus oxycedrus subsp. oxycedrus]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[F5.1311]] - [[F5.1321]] - [[F6.15]] (si junipéraie) / [[F6.1]] (autre)
@@ -27,6 +27,7 @@ Associations :
 - [[Buxo sempervirentis-Juniperetum phoeniceae]] Rivas Martínez 1969 ; 
 - [[Buxo sempervirentis-Quercetum cocciferae]] Choisnet 2019 nom. inval. ; 
 - [[Cisto albidi-Genistetum scorpii]] B. Foucault 2018 ; 
+- [[Groupement à Buxus sempervirens et Ephedra major]] Noble et Baret, 2019 ;
 - [[Jasmino fruticantis-Phillyreetum angustifoliae]] Tallon in V. Noble et Baret 2019 nom. ined. (1) ; 
 - [[Junipero phoeniceae-Ficetum caricae]] B. Foucault et Julve 1994 ; 
 - [[Pino salzmanii-Juniperetum phoeniceae]] Quézel et Barbero 1988 ; 

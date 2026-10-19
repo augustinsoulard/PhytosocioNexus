@@ -9,10 +9,12 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés riches en chaméphytes mésoxérophiles oro- et supra-méditerranéennes
+**Description** : Végétation herbacée vivace, mésoxérophile, des substrats calcaro-marneux des étages supraméditerranéen et montagnard des Alpes sud-occidentales.
 
-**Espèces caractéristiques** : [[Genista cinerea]], [[Astragalus hypoglottis]], [[Leucanthemum pallens]], [[Lilium pomponium]]
+**Espèces caractéristiques** : [[Genista cinerea]], [[Astragalus hypoglottis]], [[Leucanthemum pallens]], [[Lilium pomponium]], [[Artemisia alba]], [[Centaurea paniculata subsp. leucophaea]], [[Lavandula angustifolia subsp. angustifolia]],  [[Achillea tomentosa]], [[Achillea odorata]], [[Astragalus incanus]], [[Festuca cinerea]], [[Stipa atlantica]].
+
 
 - **Correspondances typologiques** :
 	- EUNIS : [[F6.63]]

@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Végétation arbustive thermophile pionnière des sols profonds et légèrement humides de l'Europe thermoatlantique et méditerranéenne. 
+**Description :** Végétation arbustive thermophile pionnière des sols profonds et légèrement humides de l'Europe thermoatlantique et méditerranéenne. 
 
 Espèces indicatrices : [[Spartium junceum]], [[Pyrus spinosa]], [[Rubus ulmifolius]], [[Smilax aspera]], [[Rosa sempervirens]], [[Clematis flammula]], [[Osyris alba]], [[Lonicera etrusca]], [[Coriaria myrtifolia]]
 

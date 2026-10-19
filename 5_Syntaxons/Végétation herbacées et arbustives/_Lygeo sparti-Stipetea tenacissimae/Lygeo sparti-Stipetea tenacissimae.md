@@ -10,9 +10,10 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses steppiques méditerranéennes à hautes Poaceae vivaces
+**Description** : Végétation herbacée vivace thermophile, xérophile, riche en graminées, des substrats basiques de la Méditerranée.
 
-**Espèces caractéristiques** : [[Macrochloa tenacissima]], [[Lygeum spartum]], [[Hyparrhenia hirta]]
+**Espèces caractéristiques** : [[Macrochloa tenacissima]], [[Lygeum spartum]], [[Hyparrhenia hirta]], [[Carlina hispanica]], [[Centaurea melitensis]], [[Convolvulus cantabrica]], [[Convolvulus lineatus]], [[Sonchus bulbosus]], [[Ophrys lutea]], [[Ophrys bombyliflora]], [[Plantago albicans]], [[Allium moschatum]], [[Reichardia picroides]], [[Dactylis glomerata subsp. hispanica]].
+
 
 Ordres :
 - [[Hyparrhenio hirtae-Brachypodietalia retusi]] Horvatić 1957 ex 1962

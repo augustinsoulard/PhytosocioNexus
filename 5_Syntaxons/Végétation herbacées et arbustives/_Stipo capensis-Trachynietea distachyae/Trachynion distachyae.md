@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation des sols et lithosols calcaires méditerranéo-atlantique (inclut notamment l'association Lino leonii-Arenarietum controversae)
+**Description** : Végétation annuelle xérophile éphémère des substrats oligotrophes superficiels basiques sur roche calcaire de la Méditerranée occidentale.
 
-**Espèces caractéristiques** : [[Brachypodium distachyon]], [[Bupleurum baldense]], [[Linum leonii]]
+**Espèces caractéristiques** : [[Brachypodium distachyon]], [[Bupleurum baldense]], [[Linum leonii]], [[Arenaria modesta]], [[Crepis suffreniana]], [[Echinaria capitata]], [[Galium setaceum]], [[Galium verticillatum]], [[Lens lamottei]], [[Myosotis pusilla]], [[Narduroides salzmannii]], [[Scandix australis subsp. australis]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.3131]]

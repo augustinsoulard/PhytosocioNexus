@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation thermophile d'optimum méditerranéen
+**Description** : Végétation annuelle vernale, subnitrophile, thermophile, des terrains fortement piétinés de la Méditerranée.
 
-**Espèces caractéristiques** : [[Polycarpon tetraphyllum]], [[Sagina apetala]], [[Portulaca oleracea]]
+**Espèces caractéristiques** : [[Polycarpon tetraphyllum]],  [[Polycarpon tetraphyllum subsp. tetraphyllum]], [[Sagina apetala]], [[Portulaca oleracea]]
 
 ZH : non spécifié
 

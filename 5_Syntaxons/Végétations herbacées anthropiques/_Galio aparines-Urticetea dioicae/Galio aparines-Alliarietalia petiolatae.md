@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés des sols secs à frais
+**Description** : Végétation herbacée d'espèces vivaces à courte durée de vie, riche en théophytes, sciaphile, nitrophile, mésophile à mésohygrophile des substrats profonds riches en nutriments de l'Europe tempérée.
 
-**Espèces caractéristiques** : [[Alliaria petiolata]], [[Glechoma hederacea]], [[Chelidonium majus]]
+**Espèces caractéristiques** : [[Alliaria petiolata]], [[Glechoma hederacea]], [[Chelidonium majus]],  [[Arum italicum]], [[Arctium minus]], [[Anthriscus sylvestris subsp. sylvestris]], [[Melissa officinalis subsp. officinalis]], [[Lunaria annua]], [[Symphytum tuberosum]], [[Urtica dioica subsp. dioica]].
 
 ZH : non spécifié
 

@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Communautés continentales
+**Description** : Végétation herbacée vivace pionnière, dominée par des hémicryptophytes, des sols perturbés de l'Europe tempérée.
 
-**Espèces caractéristiques** : [[Elytrigia campestris]], [[Elytrigia campestris x repens]], [[Elytrigia campestris x intermedia]], [[Carex praecox]], [[Bromus inermis]], [[Saponaria officinalis]]
+**Espèces caractéristiques** : [[Elytrigia campestris]], [[Elytrigia campestris x repens]], [[Elytrigia campestris x intermedia]], [[Carex praecox]], [[Bromus inermis]], [[Saponaria officinalis]],  [[Cirsium arvense]], [[Convolvulus arvensis]], [[Diplotaxis tenuifolia]], [[Falcaria vulgaris]], [[Lepidium draba]], [[Sonchus arvensis subsp. arvensis]]
 
 ZH : non spécifié
 
@@ -23,6 +24,3 @@ Alliances :
 - [[Falcario vulgaris-Poion angustifoliae]] H. Passarge 1989
 - [[ Gageo pratensis-Allion schoenoprasi]] H. Passarge 1964
 - [[Muscario racemosi-Allion vinealis]] H. Passarge 1978
-
-
-#ordre

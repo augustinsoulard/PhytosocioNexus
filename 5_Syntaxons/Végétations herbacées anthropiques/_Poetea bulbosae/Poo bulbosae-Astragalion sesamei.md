@@ -10,6 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+**Description** : Végétation herbacée vivace rase, riche en thérophytes, régulièrement pâturée, des substrats calcaires mésotrophes à eutrophes de la Méditerranée nord-occidentale. 
+
+Espèces indicatrices : [[Astragalus sesameus]], [[Astragalus stella]], [[Trigonella gladiata]].
 ![[410 - Poo bulbosae-Astragalion sesamei.jpg]]
 Associations :
 - [[Camphorosmo monspeliacae-Trifolietum subterranei]] Molinier et Tallon 1950 ; 

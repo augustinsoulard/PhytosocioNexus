@@ -13,7 +13,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Végétation mésophile à mésohygrophile
+**Description** : Végétation herbacée vivace prairiale, plus rarement de pelouses, mésohygrophile à mésophile des sols profonds, mésotrophes à eutrophes, de l'Europe.
+
+**Espèces indicatrices** : [[Dactylis glomerata subsp. glomerata]], [[Achillea millefolium]], [[Leucanthemum vulgare]].
 
 ZH : non spécifié
 

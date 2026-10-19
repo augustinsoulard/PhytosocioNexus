@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description** : Forêts riveraines hygrophiles
+**Description** : Végétation arborescente mésohygrophile, riveraine des cours d'eau, sur terrasses avec sols alluvionnaires riches en éléments minéraux, à nappe phréatique élevée, de la Méditerranée.
 
-**Espèces caractéristiques** : [[Populus nigra]], [[Alnus glutinosa]], [[Humulus lupulus]], [[Convolvulus sepium]], [[Rubus caesius]], [[Phalaris arundinacea]], [[Elymus caninus]]
+**Espèces caractéristiques** : [[Populus alba]], [[Populus nigra]], [[Alnus glutinosa]], [[Humulus lupulus]], [[Convolvulus sepium]], [[Rubus caesius]], [[Phalaris arundinacea]], [[Elymus caninus]]
 
 Sous-ordres :
 - [[Alno glutinosae-Ulmenalia minoris]] Rameau ex Renaux et al. 2019

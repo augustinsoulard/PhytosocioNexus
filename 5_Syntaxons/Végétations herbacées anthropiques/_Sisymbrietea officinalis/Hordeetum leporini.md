@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
-**Description :** Végétation herbacée basse, assez homogène, au recouvrement fort, dominée par Hordeum murinum subsp. leporinum. Echio Trifolio cherleri - Taeniatheretum capitis-medusae ; Fos-sur-Mer © H. Michaud Medicagini rigidulae - Aegilopetum geniculatae ; Martigues © M. Pires
+**Description :** Végétation herbacée basse, assez homogène, au recouvrement fort, dominée par Hordeum murinum subsp. leporinum.
 
 Espèces indicatrices : [[Hordeum murinum subsp. leporinum]], [[Erodium ciconium]], [[Anisantha madritensis]], [[Malva sylvestris]], [[Anacyclus clavatus]] (rare).
 

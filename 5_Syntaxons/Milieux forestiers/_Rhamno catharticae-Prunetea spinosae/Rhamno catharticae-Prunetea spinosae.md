@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-Végétation arbustive, mésotrophile à eutrophile, mésohygrophile à xérophile des étages planitaire à montagnard de l'Europe tempérée et subméditerranéenne. 
+**Description :** Végétation arbustive, mésotrophile à eutrophile, mésohygrophile à xérophile des étages planitaire à montagnard de l'Europe tempérée et subméditerranéenne. 
 
 Espèces indicatrices : [[Clematis vitalba]], [[Cornus sanguinea]], [[Corylus avellana]], [[Crataegus monogyna]], [[Euonymus europaeus]], [[Ligustrum vulgare]], [[Malus sylvestris]], [[Prunus spinosa]], [[Rosa canina]], [[Rosa agrestis]],  [[Clematis vitalba]], Rosa canina aggr. ([[Rosa canina]]).
 

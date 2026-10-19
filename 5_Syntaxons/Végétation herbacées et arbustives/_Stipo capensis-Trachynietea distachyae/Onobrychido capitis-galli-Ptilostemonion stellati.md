@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Décrit de Calabre, mais présent aussi en France
+**Description** : Végétation annuelle xérophile des substrats argileux basiques de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : Ptilostemon spp.
+**Espèces caractéristiques** : [[Astragalus echinatus]], [[Astragalus sesameus]], [[Hippocrepis biflora]], [[Onobrychis caput-galli]], [[Ononis pubescens]], Ptilostemon spp.
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.5131]]

@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Prairies euryméditerranéennes sur sols compactés
+**Description** : Végétation herbacée vivace rase, souvent pâturée, associant de nombreuses espèces annuelles, des sols compactés à forts contrastes hydriques, mésotrophes à eutrophes, parfois oligohalins, de l'Europe atlantique et méditerranéenne.
 
-**Espèces caractéristiques** : [[Trifolium resupinatum]], [[Plantago coronopus]]
+**Espèces caractéristiques** : [[Trifolium resupinatum]], [[Plantago coronopus]], [[Plantago coronopus subsp. coronopus]], [[Trifolium fragiferum]], [[Leontodon saxatilis]], [[Trifolium tomentosum]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E3.11]]

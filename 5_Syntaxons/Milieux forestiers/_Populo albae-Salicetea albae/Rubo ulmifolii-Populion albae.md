@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Communautés plutôt ouest-méditerranéennes
+**Description** : Végétation arborescente forestière, hygrophile, pionnière, structurée par des espèces à bois tendre, du genre Salix en particulier, des berges des cours d'eau permanents de la Méditerranée nord-occidentale.
 
 **Espèces caractéristiques** : [[Populus nigra subsp. neapolitana]], [[Rubus ulmifolius]], [[Rosa sempervirens]], [[Vitis vinifera subsp. sylvestris]]
 

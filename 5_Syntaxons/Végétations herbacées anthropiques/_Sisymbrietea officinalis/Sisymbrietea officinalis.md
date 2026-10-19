@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches hautes : Friches à annuelles et bisannuelles, +/- nitrophiles
+**Description** : Végétation herbacée à dominance d'espèces annuelles ou bisannuelles, zoo-anthropogène et plus ou moins nitrophile, des terres rudéralisées et irrégulièrement perturbées de l'Eurasie tempérée et de la Méditerranée.
 
 **Espèces caractéristiques** : [[Sisymbrium officinale]], [[Anisantha tectorum]], [[Anisantha sterilis]]
 
