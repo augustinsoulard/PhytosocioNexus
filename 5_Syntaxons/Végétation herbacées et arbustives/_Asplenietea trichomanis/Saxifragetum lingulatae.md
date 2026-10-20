@@ -12,7 +12,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 
-Espèces indicatrices : [[Saxifraga callosa|Saxifraga lingulata]] (V), [[Potentilla caulescens]] var. petiolulosa (IV), [[Moehringia lebrunii|Moehringia papulosa]] (II⁻), [[Kernera saxatilis|Kernera auriculata]] (I⁻).
+Espèces indicatrices : [[Saxifraga callosa]] (V), [[Potentilla caulescens]] var. petiolulosa (IV), [[Moehringia lebrunii]] (II⁻), [[Kernera saxatilis]] (I⁻).
 
 Écologie : pentes de 60–110 % d'inclinaison, à toute exposition, entre 820–1 400 m. Optimum sur les rochers calcaires de Viévola, au-dessus de Tende (1 100 m).
 

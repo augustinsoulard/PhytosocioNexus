@@ -13,7 +13,7 @@ sources:
 ---
 Physionomie : Végétation basse, peu dense, dominée par des espèces annuelles d'expression estivoautomnale ([[Polygonum]] spp., [[Kickxia]] spp.) se développant après la moisson des céréales ou durant la première année de jachère de la parcelle. 
 
-Espèces indicatrices : [[Polycnemum majus]], [[Kickxia spuria]], [[Kickxia elatine]], [[Euphorbia falcata]], [[Glaucium corniculatum]], [[Papaver rhoeas]]. D'après Braun-Blanquet : [[Euphorbia falcata]] (V⁺), [[Kickxia spuria|Linaria spuria]] (V⁺), [[Polygonum bellardii]] (IV⁺), [[Polycnemum arvense]] (IV⁺), [[Galium parisiense|Galium anglicum]] (III⁺), [[Stachys annua]] (II⁺), [[Dittrichia graveolens|Inula graveolens]] (I⁺), [[Kickxia elatine|Linaria elatine]] (I⁺).
+Espèces indicatrices : [[Polycnemum majus]], [[Kickxia spuria]], [[Kickxia elatine]], [[Euphorbia falcata]], [[Glaucium corniculatum]], [[Papaver rhoeas]]. D'après Braun-Blanquet : [[Euphorbia falcata]] (V⁺), [[Kickxia spuria]] (V⁺), [[Polygonum bellardii]] (IV⁺), [[Polycnemum arvense]] (IV⁺), [[Galium parisiense]] (III⁺), [[Stachys annua]] (II⁺), [[Dittrichia graveolens]] (I⁺), [[Kickxia elatine]] (I⁺).
 
 Écologie : Végétation pionnière colonisant les terres annuellement cultivées sur des sols basiques, marneux ou argileux, compacts et peu perméables. Étage mésoméditerranéen. 
 
