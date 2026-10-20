@@ -14,7 +14,7 @@ Syn. : ass. à Arrhenatherum et Narcissus poeticus Braun-Blanq. 1931 ; Arrhenath
 
 **Description :** Végétation herbacée vivace haute, assez diversifiée et remarquablement pauvre en thérophytes, formant une prairie dominée par les graminées vivaces et en particulier par Arrhenatherum elatius ou Bromopsis erecta. Narcissus poeticus peut éventuellement marquer par sa floraison le groupement au début du printemps.
 
-Espèces indicatrices : [[Arrhenatherum elatius subsp. elatius]], [[Bromopsis erecta]], [[Dactylis glomerata subsp. glomerata]], [[Holcus lanatus]], [[Gaudina fragilis]] (rare), [[Tragopogon pratensis subsp. orientalis]].
+**Espèces indicatrices** : [[Arrhenatherum elatius subsp. elatius]], [[Bromopsis erecta]], [[Dactylis glomerata subsp. glomerata]], [[Holcus lanatus]], [[Gaudina fragilis]] (rare), [[Tragopogon pratensis subsp. orientalis]]. D'après Braun-Blanquet : Espèces indicatrices : [[Arrhenatherum elatius]] (V), [[Ranunculus acris]] ssp. Steveni (V), [[Tragopogon pratensis subsp. orientalis|Tragopogon orientalis]] (V), [[Schedonorus pratensis|Festuca pratensis]] (V/IV), [[Lathyrus pratensis]] (V/IV), [[Gaudinia fragilis]] (III/V), [[Rumex acetosa]] (III/V), [[Lychnis flos-cuculi]] (III/IV), [[Linum usitatissimum subsp. angustifolium|Linum angustifolium]] (III/III), [[Centaurea jacea]] ssp. (OCR « enjacea ») (III/III), [[Avenula pubescens]] (II/III), [[Leontodon hispidus]] var. (II/III), [[Narcissus poeticus]] (II, sub-ass. a)
 
 Écologie : Végétation mésophile à mésohygrophile régulièrement fauchée, parfois irriguée artificiellement, des sols profonds alluvionnaires, neutres à basiques, mésotrophes. Étage mésoméditerranéen.
 

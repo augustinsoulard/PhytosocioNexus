@@ -14,7 +14,7 @@ Syn. : Helosciadietum nodiflori Braun-Blanq. 1931
 
 **Description :** Végétation herbacée vivace basse, au recouvrement généralement fort, dominée par [[Helosciadium nodiflorum]], [[Berula erecta]] accompagnés de [[Nasturtium officinale]].
 
-Espèces indicatrices : [[Helosciadium nodiflorum]], [[Nasturtium officinale]], [[Veronica anagallis-aquatica]], [[Berula erecta]], [[Mentha aquatica]].
+Espèces indicatrices : [[Helosciadium nodiflorum]], [[Nasturtium officinale]], [[Veronica anagallis-aquatica]], [[Berula erecta]], [[Mentha aquatica]],  [[Callitriche obtusangula]], [[Ranunculus ophioglossifolius]]
 
 Écologie : Végétation hygrophile amphibie des substrats vaseux des ruisselets issus des sources ou des canaux peu profonds parcourus par des eaux claires et fraîches mésotrophes.
 

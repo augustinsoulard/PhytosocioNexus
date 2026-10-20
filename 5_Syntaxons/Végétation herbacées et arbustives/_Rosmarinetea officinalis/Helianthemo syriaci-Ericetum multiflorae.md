@@ -17,7 +17,7 @@ Physionomie : Végétation sous-arbustive, haute de 1-1.5 m, d’aspect homogèn
 
 Divers nanophanérophytes transgressifs des [[Pistacio lentisci-Rhamnetalia alaterni ]]ou des [[Cisto ladaniferi-Lavanduletea stoechadis]] accompagnent les espèces dominantes.  
 
-Espèces indicatrices : [[Erica multiflora]], [[Fumana laevipes]], [[Helianthemum marifolium]], [[Helianthemum syriacum]], [[Fumana viridis]], [[Globularia alypum]], [[Rosmarinus officinalis]], [[Staehelina dubia]].  Une variante à Helianthemum marifolium peut être individualisée. 
+Espèces indicatrices : [[Erica multiflora]], [[Fumana laevipes]], [[Helianthemum marifolium]], [[Helianthemum syriacum]], [[Fumana viridis]], [[Globularia alypum]], [[Rosmarinus officinalis]], [[Staehelina dubia]].  Une variante à Helianthemum marifolium peut être individualisée. D'après Braun-Blanquet : [[Helianthemum racemosum]] (V), [[Fumana laevipes|Fumana laevipes]] (IV), [[Erica multiflora]] (III), [[Hyparrhenia hirta]] (II), [[Piptatherum coerulescens]] (II), [[Coronilla minima]] ssp. australis (II), [[Helianthemum marifolium]] (I).
 
 Écologie : Végétation xérophile et thermophile des pentes bien exposées et proches du littoral, sur substrats calcaires généralement décalcifiés (argiles, dolomies, marnes, grès) riches en éléments grossiers et de texture sableuse donc plutôt perméables sous un climat local à tendance aride. Étage mésoméditerranéen inférieur. 
 

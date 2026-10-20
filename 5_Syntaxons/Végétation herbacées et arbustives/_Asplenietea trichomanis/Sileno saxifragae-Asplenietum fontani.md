@@ -12,7 +12,7 @@ sources:
 ---
 **Description :** Végétation herbacée vivace, au recouvrement faible, des fentes étroites des parois rocheuses, à la physionomie marquée par les touffes de Silene saxifraga et par la présence, dans les plus étroites fissures, de diverses fougères et surtout d'Asplenium fontanum.
 
-Espèces indicatrices : [[Asplenium fontanum]], [[Saxifraga fragosoi]], [[Silene saxifraga]], [[Saxifraga lantoscana]], [[Globularia repens]], [[Hieracium humile]], [[Phyteuma charmelii]] (rare), [[Campanula rotundifolia subsp. macrorhiza]].
+Espèces indicatrices : [[Asplenium fontanum]], [[Saxifraga fragosoi]], [[Silene saxifraga]], [[Saxifraga lantoscana]], [[Globularia repens]], [[Hieracium humile]], [[Phyteuma charmelii]] (rare), [[Campanula rotundifolia subsp. macrorhiza]], [[Saxifraga callosa|Saxifraga lingulata]] (II⁺), [[Arenaria grandiflora]]
 
 Écologie : Végétation calcicole des parois rocheuses verticales fraîches (exposition nord) se développant sur des calcaires compacts et secs. Étage mésoméditerranéen et limite du supraméditerranéen dans les Bouches-du-Rhône (atteint le montagnard dans le Var voisin), généralement au-dessus de 600 m d'altitude, d'expression optimale au-delà de 800 m.
 

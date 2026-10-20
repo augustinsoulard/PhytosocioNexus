@@ -26,6 +26,7 @@ ZH : non
 ![[493 - Rosmarinion officinalis.jpg]]
 Associations :
 - [[Coronillo junceae-Malvetum subovatae]] V. Noble et Baret 2019 nom. ined. (1) ; 
+- [[Convolvuletum lanuginosi]] Braun-Blanq. _ex_ O. Bolòs 1967
 - [[Fumano thymifoliae-Rosmarinetum officinalis]] Lapraz 1973 ;
 - [[Helianthemo syriaci-Ericetum multiflorae]] Molinier 1934 ; 
 - [[Helichryso stoechadis-Dorycnietum pentaphyllae]] E. Henry 2019 ;
