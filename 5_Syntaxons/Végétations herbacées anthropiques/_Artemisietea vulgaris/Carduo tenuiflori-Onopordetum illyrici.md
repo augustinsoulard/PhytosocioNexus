@@ -14,7 +14,7 @@ Syn. : Onopordetum illyrici sensu Molin. & Tallon 1950 ; Hordeo leporini - Onopo
 
 **Description :** Végétation herbacée haute et dense, dominée par des espèces bisannuelles épineuses associées à une strate inférieure d'espèces annuelles.
 
-Espèces indicatrices : [[Carduus tenuiflorus]], [[Onopordum illyricum]], [[Malva sylvestris]], [[Chenopodium vulvaria]], [[Bromus rubens]], [[Hordeum murinum subsp. leporinum]].
+Espèces indicatrices : [[Carduus tenuiflorus]], [[Onopordum illyricum]], [[Malva sylvestris]], [[Chenopodium vulvaria]], [[Anisantha rubens]], [[Hordeum murinum subsp. leporinum]].
 
 Écologie : Végétation subnitrophile des terrains régulièrement perturbés par le bétail en périphérie externe des reposoirs et des bergeries. Étage mésoméditerranéen.
 
