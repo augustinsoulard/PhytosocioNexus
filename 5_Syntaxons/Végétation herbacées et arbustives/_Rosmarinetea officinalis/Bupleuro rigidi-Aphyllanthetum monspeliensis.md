@@ -21,13 +21,13 @@ Pelouse suffrutescente marno-calcaricole du mésoméditerranéen inférieur du L
 Le Bupleuro rigidi-Aphyllanthetum monspeliensis constitue une association thermophile des sols médians (1020 cm) marno-calcaires, de l’étage mésoméditeranéen inférieur. Les sols sont limono-argileux carbonatés et généralement pierreux.
 
 **Composition floristique** :
-Différenciée négativement par l’absence des taxons marnicoles ([[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Carex flacca]], Galium timeroyi, [[Linum campanulatum]]…) et positivement par la présence de taxons thermophiles et en particulier ceux liés aux sols peu épais ( [[Brachypodium retusum]], [[Helichrysum stoechas]], [[Narcissus assoanus]]).
+Différenciée négativement par l’absence des taxons marnicoles ([[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Carex flacca]], [[Galium timeroyi]], [[Linum campanulatum]]…) et positivement par la présence de taxons thermophiles et en particulier ceux liés aux sols peu épais ( [[Brachypodium retusum]], [[Helichrysum stoechas]], [[Narcissus assoanus]]).
 
 **Combinaison différentielle** :
-[[Brachypodium retusum]], [[Bupleurum rigidum]], [[Cistus albidus]], [[Coris monspeliensis]], [[Festuca burgundiana]], [[Fumana thymifolia]], [[Globularia vulgaris]], [[Helianthemum apenninum]], [[Helichrysum stoechas]], Leontodon hirtus, [[Lithodora fruticosa]], [[Narcissus assoanus]], Odontites luteus, [[Phlomis lychnitis]], [[Quercus coccifera]].
+[[Brachypodium retusum]], [[Bupleurum rigidum]], [[Cistus albidus]], [[Coris monspeliensis]], [[Festuca burgundiana]], [[Fumana thymifolia]], [[Globularia vulgaris]], [[Helianthemum apenninum]], [[Helichrysum stoechas]], [[Leontodon hirtus]], [[Lithodora fruticosa]], [[Narcissus assoanus]], [[Odontites luteus]], [[Phlomis lychnitis]], [[Quercus coccifera]].
 
 **Espèces constantes** :
-[[Aphyllanthes monspeliensis]], [[Argyrolobium zanonii]], [[Carex humilis]], [[Euphorbia nicaeensis]], [[Fumana ericifolia]], [[Helictochloa bromoides]], [[Inula montana]], [[Koeleria vallesiana]], [[Lavandula latifolia]], [[Lotus dorycnium]], [[Ononis minutissima]], Rhaponticum coniferum, [[Staehelina dubia]], [[Teucrium polium]], [[Thymus vulgaris]].
+[[Aphyllanthes monspeliensis]], [[Argyrolobium zanonii]], [[Carex humilis]], [[Euphorbia nicaeensis]], [[Fumana ericifolia]], [[Helictochloa bromoides]], [[Inula montana]], [[Koeleria vallesiana]], [[Lavandula latifolia]], [[Lotus dorycnium]], [[Ononis minutissima]], [[Rhaponticum coniferum]], [[Staehelina dubia]], [[Teucrium polium]], [[Thymus vulgaris]].
 
 **Variations** :
 -

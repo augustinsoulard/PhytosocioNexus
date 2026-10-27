@@ -37,10 +37,10 @@ Le groupement se développe sur dalles rocheuses calcaires généralement horizo
 [[Geranium purpureum]], [[Lactuca perennis]], [[Melica ciliata]], [[Sedum acre]], [[Sedum album]], [[Sedum ochroleucum]], [[Sedum sediforme]].
 
 **Espèces constantes** :
-Arenaria gr. serpyllifolia, [[Catapodium rigidum]], Orlaya grandiflora, [[Saxifraga tridactylites]], [[Thymus vulgaris]].
+Arenaria gr. serpyllifolia, [[Catapodium rigidum]], [[Orlaya grandiflora]], [[Saxifraga tridactylites]], [[Thymus vulgaris]].
 
 **Variations** :
-Les variations mises en évidence sont liées à la nature plus ou moins friable des substrats et à la maturité des communautés. Subass. type Var. à Helianthemum apenninum (pp3a) des calcaires marneux ; Var. type (pp3b) sur calcaires durs ; Var. à Biscutella gr. lima (pp3c) avec Dactylis glomerata subsp. hispanica, Euphorbia characias, Helictochloa bromoides ; sur calcaires durs et sols plus évolués. Subass. nov. linarietosum supinae avec Centranthus calcitrapae, des lapiés des calcaires urgoniens et ruiniformes.
+Les variations mises en évidence sont liées à la nature plus ou moins friable des substrats et à la maturité des communautés. Subass. type Var. à [[Helianthemum apenninum]] (pp3a) des calcaires marneux ; Var. type (pp3b) sur calcaires durs ; Var. à Biscutella gr. lima (pp3c) avec Dactylis glomerata subsp. hispanica, [[Euphorbia characias]], [[Helictochloa bromoides]] ; sur calcaires durs et sols plus évolués. Subass. linarietosum supinae avec [[Centranthus calcitrapae]], des lapiés des calcaires urgoniens et ruiniformes.
 
 **Syntaxonomie et synsystématique** :
 Cette association supraméditerranéenne à collinéenne décrite du Languedoc est connue dans l’Aude et en Provence. Les deux relevés princeps (ROYER & FERREZ 2018) cadrent bien avec les relevés ardéchois.

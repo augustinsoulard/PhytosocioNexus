@@ -17,6 +17,4 @@ sources:
 
 Ordres :
 - [[Helichrysetalia italici]] Biondi et Géhu in Géhu et Biondi 1994
-- [[Groupement à Lavandula angustifolia et Thymus vulgaris]]
-- [[Groupement à Teucrium flavum et Thymus vulgaris]]
 - [[Rosmarinetalia officinalis]] Braun-Blanquet ex Molinier 1934

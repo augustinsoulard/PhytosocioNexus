@@ -18,6 +18,5 @@ sources:
 Ordres :
 - [[Hyparrhenio hirtae-Brachypodietalia retusi]] Horvatić 1957 ex 1962
 - [[Lygeo sparti-Stipetalia tenacissimae]] Braun-Blanquet et O. Bolòs 1958
-- [[Groupement à Lavandula angustifolia et Brachypodium retusum]]
 
 Note CatVeg : nous plaçons l'ordre des Brachypodietalia phoenicoidis, inclus dans la présente classe par Bardat et al. (2004), au sein des Agropyretea intermedio-repentis (voir la note correspondante).

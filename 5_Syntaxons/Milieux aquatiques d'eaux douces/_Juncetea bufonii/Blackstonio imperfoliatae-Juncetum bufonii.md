@@ -24,10 +24,10 @@ Cette pelouse se développe sur alluvions silico-calcaires accumulées au niveau
 [[Anisantha madritensis]], [[Blackstonia imperfoliata]], [[Crepis sancta]], [[Polypogon maritimus]], [[Vulpia myuros]].
 
 **Espèces constantes** :
-[[Blackstonia perfoliata]], [[Catapodium rigidum]], [[Juncus bufonius]], Lysimachia arvensis, [[Poa bulbosa]], [[Sedum album]].
+[[Blackstonia perfoliata]], [[Catapodium rigidum]], [[Juncus bufonius]], [[Lysimachia arvensis]], [[Poa bulbosa]], [[Sedum album]].
 
 **Variations** :
 -
 
 **Syntaxonomie et synsystématique** :
-Avec Anisantha madritensis, Blackstonia imperfoliata, Polypogon maritimus, Lysimachia arvensis subsp. arvensis, ce groupement présente une combinaison originale. Il peut s’intégrer dans le groupe d’associations à Blackstonia imperforata mis en évidence par DE FOUCAULT (2013a) au sein du Centaurio pulchelli-Blackstonion perfoliatae.
+Avec [[Anisantha madritensis]], [[Blackstonia imperfoliata]], [[Polypogon maritimus]], Lysimachia arvensis subsp. arvensis, ce groupement présente une combinaison originale. Il peut s’intégrer dans le groupe d’associations à Blackstonia imperforata mis en évidence par DE FOUCAULT (2013a) au sein du Centaurio pulchelli-Blackstonion perfoliatae.

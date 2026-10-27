@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Choisnet - 2019 - Approche phytosociologique et symphytosociologique des végétations et des paysages du Bas-Vivarais.pdf]]"
 ---
+
 ## D'après Choisnet (2019)
 
 **Diagnose** :
@@ -25,7 +26,7 @@ Le Corno sanguineae-Genistetum scorpii est inféodé à des sols épais limoneux
 [[Brachypodium phoenicoides]], [[Bromopsis erecta]], [[Buxus sempervirens]], [[Lotus dorycnium]], [[Rubia peregrina]]
 
 **Variations** :
-Les variations mises en évidence sont liées au bioclimat. Subass. nov. viburnetosum tini ( pm5a) avec Clematis flammula, Pistacia terebinthus, Rhamnus alaternus, Viburnum tinus ; sous-association mésoméditerranéenne. Subass. type (pm5b) avec Prunus spinosa, Buxus sempervirens ; du supraméditerranéen inférieur. Var. à Sorbus aria (pm5c) ; du supraméditerranéen supérieur.
+Les variations mises en évidence sont liées au bioclimat. Subass. viburnetosum tini Choisnet, 2019 ( pm5a) avec [[Clematis flammula]], [[Pistacia terebinthus]], [[Rhamnus alaternus]], [[Viburnum tinus]] ; sous-association mésoméditerranéenne. Subass. type (pm5b) avec [[Prunus spinosa]], [[Buxus sempervirens]] ; du supraméditerranéen inférieur. Var. à [[Sorbus aria]] (pm5c) ; du supraméditerranéen supérieur.
 
 **Syntaxonomie et synsystématique** :
 Pas de comparaisons possibles avec des syntaxons équivalents.

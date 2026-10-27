@@ -23,7 +23,7 @@ Les relevés, situés entre 250 et 400 m d’altitude, proviennent de communaut�
 [[Draba verna]], [[Geranium purpureum]], [[Hornungia petraea]], [[Saxifraga tridactylites]].
 
 **Espèces constantes** :
-Arenaria gr. serpyllifolia, [[Catapodium rigidum]], [[Cerastium pumilum]], [[Crepis sancta]], [[Euphorbia exigua]], Geranium columbinum, Lysimachia linum-stellatum, Medicago minima, Minuartia hybrida, [[Scandix pecten-veneris]], [[Sedum album]], Teucrium botrys.
+Arenaria gr. serpyllifolia, [[Catapodium rigidum]], [[Cerastium pumilum]], [[Crepis sancta]], [[Euphorbia exigua]], [[Geranium columbinum]], Lysimachia linum-stellatum, [[Medicago minima]], [[Minuartia hybrida]], [[Scandix pecten-veneris]], [[Sedum album]], [[Teucrium botrys]].
 
 **Variations** :
 -

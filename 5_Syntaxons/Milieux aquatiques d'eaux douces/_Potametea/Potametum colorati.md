@@ -21,10 +21,10 @@ Herbier aquatique enraciné flottant, des eaux stagnantes mésotrophes basiques,
 Ce groupement rare dans le Bas-Vivarais a été observé dans des retenues d’eau moyennement profondes (0,5 à 1 m), au niveau de ruisseaux temporaires. Il colonise des substrats basiques limonoargileux. Les quelques communautés observées sont vraisemblablement fragmentaires, monospécifiques ou paucispécifiques et apparaissent en contact avec le Charetum vulgaris .
 
 **Combinaison différentielle** :
-Potamogeton coloratus.
+[[Potamogeton coloratus]].
 
 **Variations** :
 -
 
 **Syntaxonomie et synsystématique** :
-De par la dominance de Potamogeton coloratus, les communautés ont été rapprochées du Potametum colorati, même si celles-ci peuvent apparaître fragmentaires.
+De par la dominance de [[Potamogeton coloratus]], les communautés ont été rapprochées du Potametum colorati, même si celles-ci peuvent apparaître fragmentaires.

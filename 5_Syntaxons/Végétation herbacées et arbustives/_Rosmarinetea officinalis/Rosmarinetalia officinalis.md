@@ -18,5 +18,7 @@ Espèces indicatrices : [[Coronilla minima subsp. lotoides]], [[Lotus dorycnium]
 Alliances :
 - [[Helianthemo italici-Aphyllanthion monspeliensis]] Díez Garretas et al. 1998
 - [[Rosmarinion officinalis]] Braun-Blanquet ex Molinier 1934
-- [[Groupement à Helictochloa bromoides et Festuca marginata]]
 - [[Sedo sediformis-Thymion vulgaris]] Choisnet 2019 nom. ined. (1)
+
+Associations :
+- [[Groupement à Helictochloa bromoides et Festuca marginata]]

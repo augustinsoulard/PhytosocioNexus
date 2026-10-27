@@ -16,4 +16,4 @@ sources:
 Plusieurs communautés fragmentaires ont été observées au niveau de surplombs de falaises et de balmes calcaires dans les gorges de l’Ardèche. Ce groupement paucispécifique apparaît en lien avec les ourlets thérophytiques vernaux des balmes.
 
 **Composition floristique** :
-[[Anisantha madritensis]], [[Geranium purpureum]], Pseudoturritis turrita, [[Saxifraga tridactylites]], [[Umbilicus rupestris]].
+[[Anisantha madritensis]], [[Geranium purpureum]], [[Pseudoturritis turrita]], [[Saxifraga tridactylites]], [[Umbilicus rupestris]].

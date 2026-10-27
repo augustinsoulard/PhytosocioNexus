@@ -20,7 +20,7 @@ Végétation des travertins, des stations à forte hygrométrie, des étages mé
 Ce groupement lié aux travertins se développe à la faveur de tuffs fontinaux ou de cascades (seuils de cours d’eau et ruisseaux) aux étages supraméditerrranéens et mésoméditerranéens.
 
 **Combinaison différentielle** :
-[[Adiantum capillus-veneris]], [[Eupatorium cannabinum]], [[Hedera helix]]. [[Eucladium verticillatum]], Pellia endiviifolia, Southbya tophacea, Timmiella anomala, Gymnostomum calcareum
+[[Adiantum capillus-veneris]], [[Eupatorium cannabinum]], [[Hedera helix]]. [[Eucladium verticillatum]], [[Pellia endiviifolia]], [[Southbya tophacea]], [[Timmiella anomala]], [[Gymnostomum calcareum]]
 
 **Variations** :
 -

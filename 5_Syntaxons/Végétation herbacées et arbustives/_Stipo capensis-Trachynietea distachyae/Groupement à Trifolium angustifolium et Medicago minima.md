@@ -16,4 +16,4 @@ sources:
 Cette pelouse annuelle mésotrophile est liée à des parcelles anciennement cultivées aux sols limono-argileux relativement profonds (15-20 cm).
 
 **Composition floristique** :
-Geranium columbinum, Medicago minima, [[Myosotis ramosissima]], [[Poa bulbosa]], [[Sherardia arvensis]], Trifolium angustifolium, [[Trifolium campestre]], [[Veronica arvensis]], Vicia gr. sativa, Vulpia ciliata.
+[[Geranium columbinum]], [[Medicago minima]], [[Myosotis ramosissima]], [[Poa bulbosa]], [[Sherardia arvensis]], [[Trifolium angustifolium]], [[Trifolium campestre]], [[Veronica arvensis]], Vicia gr. sativa, [[Vulpia ciliata]].

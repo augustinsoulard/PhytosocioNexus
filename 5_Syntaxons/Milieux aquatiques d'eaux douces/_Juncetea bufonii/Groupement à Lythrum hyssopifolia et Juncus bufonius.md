@@ -26,10 +26,10 @@ Groupement assez pauvre, surtout différencié négativement (du groupement pré
 [[Isolepis setacea]], [[Juncus articulatus]], [[Veronica anagalloides]].
 
 **Espèces constantes** :
-[[Juncus bufonius]], Juncus ranarius, [[Lythrum hyssopifolia]].
+[[Juncus bufonius]], [[Juncus ranarius]], [[Lythrum hyssopifolia]].
 
 **Variations** :
 -
 
 **Syntaxonomie et synsystématique** :
-Les communautés réunies présentent une certaine pauvreté floristique et un caractère souvent fragmentaire : de nombreuses stations sont perturbées par les vermillis des sangliers. Il est donc difficile de statuer sur le statut phytosociologique de ce groupement qui pourrait être interprété comme une variante topographique et dégradée du Trifolio lappacei-Juncetum bufonii ass. nov.
+Les communautés réunies présentent une certaine pauvreté floristique et un caractère souvent fragmentaire : de nombreuses stations sont perturbées par les vermillis des sangliers. Il est donc difficile de statuer sur le statut phytosociologique de ce groupement qui pourrait être interprété comme une variante topographique et dégradée du Trifolio lappacei-Juncetum bufonii Choisnet, 2019

@@ -14,16 +14,16 @@ sources:
 ## D'après Choisnet (2019)
 
 **Diagnose** :
-Pelouses suffrutescentes à Bromopsis erecta et Festuca marginata, mésoméditerranéennes, développées sur argiles de décarbonatation issues de calcaires durs.
+Pelouses suffrutescentes à Bromopsis erecta et [[Festuca marginata]], mésoméditerranéennes, développées sur argiles de décarbonatation issues de calcaires durs.
 
 **Synécologie** :
 Ce groupement à caractère mésoméditerranéen atténué (250 à 380 m d’altitude) est lié aux caclaires durs développant des sols argileux décarbonatés très pierreux. Déterminé par le pâturage, il est lié aux plateaux de la zone d’étude où il se présente souvent sous forme de communautés fragmentaires. Il peut résulter aussi de remise en pâturage.
 
 **Composition floristique** :
-Groupement différencié par la présence des espèces des Sedo-Scleranthetea, l’absence ou la rareté des taxons liés aux aphyllanthaies ( [[Catananche caerulea]], [[Lotus dorycnium]], Rhaponticum coniferum, [[Staehelina dubia]], [[Lavandula latifolia]], [[Euphorbia nicaeensis]]).
+Groupement différencié par la présence des espèces des Sedo-Scleranthetea, l’absence ou la rareté des taxons liés aux aphyllanthaies ( [[Catananche caerulea]], [[Lotus dorycnium]], [[Rhaponticum coniferum]], [[Staehelina dubia]], [[Lavandula latifolia]], [[Euphorbia nicaeensis]]).
 
 **Combinaison différentielle** :
-Anthyllis vulneraria subsp. rubriflora, [[Carex halleriana]], Centaurea paniculata, [[Festuca burgundiana]], [[Festuca marginata]], [[Galium corrudifolium]], [[Lactuca perennis]], [[Sedum ochroleucum]], [[Sedum sediforme]], [[Silene italica]], [[Stachys recta]].
+Anthyllis vulneraria subsp. rubriflora, [[Carex halleriana]], [[Centaurea paniculata]], [[Festuca burgundiana]], [[Festuca marginata]], [[Galium corrudifolium]], [[Lactuca perennis]], [[Sedum ochroleucum]], [[Sedum sediforme]], [[Silene italica]], [[Stachys recta]].
 
 **Espèces constantes** :
 [[Aphyllanthes monspeliensis]], [[Argyrolobium zanonii]], [[Bromopsis erecta]], [[Eryngium campestre]], [[Fumana ericifolia]], [[Helictochloa bromoides]], [[Hippocrepis comosa]], [[Ononis minutissima]], [[Potentilla verna]], Poterium sanguisorba subsp. balearica, [[Teucrium chamaedrys]], [[Thymus vulgaris]].

@@ -10,6 +10,7 @@ auteurs:
 sources:
   - "[[Choisnet - 2019 - Approche phytosociologique et symphytosociologique des végétations et des paysages du Bas-Vivarais.pdf]]"
 ---
+
 ## D'après Choisnet (2019)
 
 **Diagnose** :
@@ -28,7 +29,7 @@ Groupement différencié.
 [[Bromopsis erecta]], [[Buxus sempervirens]], [[Quercus ilex]], [[Rosa micrantha]], [[Rubia peregrina]].
 
 **Variations** :
-Les variations mises en évidence sont liées au bioclimat. Subass. nov. loniceretosum implexae (pm4a) avec Lonicera implexa, Phillyrea gr. media, Rhamnus alaternus ; sous-association mésoméditerranéenne des sols décarbonatés. Subass. type (pm4b) avec Lonicera etrusca, Pyrus spinosa ; du supraméditerranéen inférieur. Subass. nov. sorbetosum ariae ( pm4c) avec Sorbus aria, Acer monspessulanum ; du supraméditerranéen.
+Les variations mises en évidence sont liées au bioclimat. Subass. loniceretosum implexae Choisnet, 2019 (pm4a) avec [[Lonicera implexa]], Phillyrea gr. media, [[Rhamnus alaternus]] ; sous-association mésoméditerranéenne des sols décarbonatés. Subass. type (pm4b) avec [[Lonicera etrusca]], [[Pyrus spinosa]] ; du supraméditerranéen inférieur. Subass. sorbetosum ariae Choisnet, 2019 ( pm4c) avec [[Sorbus aria]], [[Acer monspessulanum]] ; du supraméditerranéen.
 
 **Syntaxonomie et synsystématique** :
 Pas de comparaisons possibles avec des syntaxons équivalents.

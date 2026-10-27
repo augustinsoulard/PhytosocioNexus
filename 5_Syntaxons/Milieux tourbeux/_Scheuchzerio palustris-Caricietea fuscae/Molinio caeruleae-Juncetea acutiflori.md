@@ -13,4 +13,3 @@ sources:
 **Description** : Prairies hygrophiles à mésohygrophiles, sur sol oligotrophe à mésotrophe.
 
 Associations :
-- [[Groupement à Serratula tinctoria et Molinia arundinacea]]

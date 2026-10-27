@@ -35,4 +35,6 @@ Associations :
 - [[Teucrio pseudochamaepityos-Brachypodietum ramosi]] O. Bolòs 1957 ; 
 - [[Phlomido lychnitidis-Brachypodietum retusi]] Braun-Blanq. 1925
 - [[Groupement à Cistus albidus et Brachypodium retusum]]
+- [[Groupement à Artemisia alba et Bromopsis erecta]]
+- [[Groupement à Lavandula angustifolia et Brachypodium retusum]]
 - [[Thymo vulgaris-Euphorbietum spinosae]] Guinochet 1975

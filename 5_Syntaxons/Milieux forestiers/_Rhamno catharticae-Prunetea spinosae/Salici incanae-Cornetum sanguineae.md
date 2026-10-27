@@ -30,7 +30,7 @@ Groupement différencié négativement par rapport au Rhamno alaterni-Salicetum 
 [[Cornus sanguinea]], [[Buxus sempervirens]], [[Crataegus monogyna]], [[Hippocrepis emerus]], [[Prunus mahaleb]], [[Quercus pubescens]].
 
 **Variations** :
-Var. à Viburnum lantana (fu12a) dont le déterminisme doit être précisé ;
+Var. à [[Viburnum lantana]] (fu12a) dont le déterminisme doit être précisé ;
 
 **Syntaxonomie et synsystématique** :
 Les communautés ardéchoises s’intègrent pleinement dans cette association décrite de l’Hérault (FOUCAULT 1991) et rapprochée de l’Hippophaion fluviatilis Rübel ex B.Foucault & J.-M.Royer 2016.

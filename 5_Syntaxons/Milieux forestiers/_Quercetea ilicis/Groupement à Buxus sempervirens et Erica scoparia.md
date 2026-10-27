@@ -26,7 +26,7 @@ Ce fourré, en lien avec l’Asplenio onopteridis-Quercetum ilicis cornetosum sa
 [[Calluna vulgaris]], [[Cistus salviifolius]], [[Quercus pubescens]].
 
 **Variations** :
-Les variations mises en évidence sont liées au bioclimat. Var. à Arbutus unedo (fu9a) thermophile ; Var. type (fu9b).
+Les variations mises en évidence sont liées au bioclimat. Var. à [[Arbutus unedo]] (fu9a) thermophile ; Var. type (fu9b).
 
 **Syntaxonomie et synsystématique** :
-Le matériel réuni est trop hétérogène et pas suffisamment fournis pour asseoir une caractérisation de ce groupement. La présence des taxons liés aux sols acides ( Erica arborea, E. scoparia, Cistus salviifolius…) permet de rapprocher ce groupement de l’Ericion arboreae.
+Le matériel réuni est trop hétérogène et pas suffisamment fournis pour asseoir une caractérisation de ce groupement. La présence des taxons liés aux sols acides ( [[Erica arborea]], E. scoparia, [[Cistus salviifolius]]…) permet de rapprocher ce groupement de l’Ericion arboreae.

@@ -31,4 +31,5 @@ Associations :
 - [[Orchido laxiflorae-Juncetum effusi]] Gamisans et al. 1998 ; 
 - [[Platanthero algeriensis-Juncetum effusi]] Gamisans et al. 1998 ; 
 - [[Groupement à Cirsium tuberosum et Festuca trichophylla]]
+- [[Groupement à Serratula tinctoria et Molinia arundinacea]]
 - [[Schoeno nigricantis-Scirpoidetum holoschoeni]] Choisnet in Le Hénaff et al. 2021

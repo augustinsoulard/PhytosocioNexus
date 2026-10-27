@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Lygeo sparti-Stipetea tenacissimae]]"
+syntaxon_superieur: "[[Phlomido lychnitidis-Brachypodion retusi]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

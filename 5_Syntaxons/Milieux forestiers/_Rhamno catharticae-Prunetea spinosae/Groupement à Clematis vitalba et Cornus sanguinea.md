@@ -13,4 +13,4 @@ sources:
 
 ## D'après Choisnet (2019)
 
-Il constitue un groupement eutrophisé à Bryonia cretica subsp. dioica, Fraxinus excelsior, Vitis vinifera subsp. vinifera, qui se reconnaît au niveau des haies bordant les vignes, sur marnes et alluvions xériques. Il semble pouvoir être intégré au Rubo ulmifolii-Viburnion lantanae.
+Il constitue un groupement eutrophisé à Bryonia cretica subsp. dioica, [[Fraxinus excelsior]], Vitis vinifera subsp. vinifera, qui se reconnaît au niveau des haies bordant les vignes, sur marnes et alluvions xériques. Il semble pouvoir être intégré au Rubo ulmifolii-Viburnion lantanae.

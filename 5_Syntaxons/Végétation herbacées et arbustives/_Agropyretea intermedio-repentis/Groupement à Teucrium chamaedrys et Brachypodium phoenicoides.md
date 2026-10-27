@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Brachypodietalia phoenicoidis]]"
+syntaxon_superieur: "[[Brachypodion phoenicoidis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27
@@ -13,4 +13,4 @@ sources:
 
 ## D'après Choisnet (2019)
 
-Groupement lié à des sols moyennement épais marno-calcaires, dérivant du Diantho godronianiAphyllanthetum monspeliensis. Il est marqué par l’absence des éléments liés aux sols profonds (Carex flacca, Ranunculus bulbosus, Lotus hirsutus…).
+Groupement lié à des sols moyennement épais marno-calcaires, dérivant du Diantho godronianiAphyllanthetum monspeliensis. Il est marqué par l’absence des éléments liés aux sols profonds ([[Carex flacca]], [[Ranunculus bulbosus]], [[Lotus hirsutus]]…).

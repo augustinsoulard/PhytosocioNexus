@@ -16,4 +16,4 @@ sources:
 Ce groupement, ordinairement à caractère rudéral, s’observe en contexte primaire, sur les surplombs ombragés des falaises des gorges de l’Ardèche.
 
 **Composition floristique** :
-[[Parietaria judaica]], [[Asplenium trichomanes]], Lapsana communis, [[Sedum dasyphyllum]].
+[[Parietaria judaica]], [[Asplenium trichomanes]], [[Lapsana communis]], [[Sedum dasyphyllum]].

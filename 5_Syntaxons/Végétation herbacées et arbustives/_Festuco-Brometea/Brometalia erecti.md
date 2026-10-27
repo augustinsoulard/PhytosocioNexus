@@ -23,3 +23,6 @@ Sous-ordres :
 
 Associations :
 - [[Groupement à Lotus corniculatus subsp. delortii et Bromopsis erecta]]
+- [[Groupement à Agrostis castellana et Bromopsis erecta]]
+- [[Groupement à Cervaria rivini et Bromopsis erecta]]
+- [[Filipendula vulgaris-Teucrium chamaedrys]]

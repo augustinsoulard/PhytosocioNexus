@@ -24,10 +24,10 @@ Lié à des sols hydromorphes épais, argileux à limoneux, ce groupement hygrop
 [[Carex panicea]], [[Carex tomentosa]], [[Dactylorhiza occitanica]], [[Gaudinia fragilis]], [[Genista tinctoria]], Linum usitatissimum subsp. angustifolium, [[Succisa pratensis]]
 
 **Espèces constantes** :
-[[Anacamptis laxiflora]], [[Bromus racemosus]], [[Carex hirta]], Centaurea jacea, [[Holcus lanatus]], Ranunculus acris, [[Schedonorus arundinaceus]], [[Silaum silaus]], Trifolium pratense.
+[[Anacamptis laxiflora]], [[Bromus racemosus]], [[Carex hirta]], [[Centaurea jacea]], [[Holcus lanatus]], [[Ranunculus acris]], [[Schedonorus arundinaceus]], [[Silaum silaus]], [[Trifolium pratense]].
 
 **Variations** :
-Les variations mises en évidence s’inscrivent dans le gradient topographique. Var. à Carex flacca (ph2a) avec Carex distans, des niveaux topographiques plus élevés, transition avec le Festuco trichophyllae-Gaudinietum fragilis ; Var. type (ph2b) avec Equisetum palustre et Bromus racemosus.
+Les variations mises en évidence s’inscrivent dans le gradient topographique. Var. à [[Carex flacca]] (ph2a) avec [[Carex distans]], des niveaux topographiques plus élevés, transition avec le Festuco trichophyllae-Gaudinietum fragilis ; Var. type (ph2b) avec Equisetum palustre et [[Bromus racemosus]].
 
 **Syntaxonomie et synsystématique** :
-Avec la présence de Bromus gr. racemosus, Silaum silaus, Anacamptis laxiflora, ce groupement peut être rapproché du Bromion racemosi. À cause de la mauvaise représentation des éléments des Potentillo-Polygonetalia avicularis, il apparaît en marge de l’alliance tout comme le Trifolio patentisBrometum racemosi B.Foucault 2008, décrit dans le sud-ouest de la France. Située dans un autre contexte bioclimatique, cette dernière association, héberge des éléments atlantiques absents des communautés ardéchoises.
+Avec la présence de Bromus gr. racemosus, [[Silaum silaus]], [[Anacamptis laxiflora]], ce groupement peut être rapproché du Bromion racemosi. À cause de la mauvaise représentation des éléments des Potentillo-Polygonetalia avicularis, il apparaît en marge de l’alliance tout comme le Trifolio patentisBrometum racemosi B.Foucault 2008, décrit dans le sud-ouest de la France. Située dans un autre contexte bioclimatique, cette dernière association, héberge des éléments atlantiques absents des communautés ardéchoises.

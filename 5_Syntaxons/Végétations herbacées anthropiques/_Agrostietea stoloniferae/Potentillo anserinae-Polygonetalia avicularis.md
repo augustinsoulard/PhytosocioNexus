@@ -20,3 +20,7 @@ ZH : oui
 - [[Loto pedunculati-Cardaminenalia pratensis]] Julve ex B. Foucault et al. in B. Foucault et Catteau 2012
 - [[Loto tenuis-Festucenalia arundinaceae]] Julve ex B. Foucault et al. in B. Foucault et Catteau 2012  Ju
 
+
+Associations :
+- [[Groupement à Ranunculus repens et Agrostis stolonifera]]
+- [[Groupement à Teucrium scordium et Mentha aquatica]]

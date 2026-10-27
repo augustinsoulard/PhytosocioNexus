@@ -24,7 +24,7 @@ Cette garrigue se développe sur les sommets et rebords de falaise en avant-post
 Les éléments pelousaires sont sporadiques et présentent toujours des dominances faibles.
 
 **Combinaison différentielle** :
-Anthyllis vulneraria subsp. rubriflora, Genista pulchella subsp. villarsiana, [[Iberis saxatilis]], Seseli longifolium, [[Thymus vulgaris]].
+Anthyllis vulneraria subsp. rubriflora, Genista pulchella subsp. villarsiana, [[Iberis saxatilis]], [[Seseli longifolium]], [[Thymus vulgaris]].
 
 **Espèces constantes** :
 [[Carex humilis]], [[Helianthemum italicum]], [[Koeleria vallesiana]], [[Stipa gallica]].
@@ -33,4 +33,4 @@ Anthyllis vulneraria subsp. rubriflora, Genista pulchella subsp. villarsiana, [[
 -
 
 **Syntaxonomie et synsystématique** :
-Par rapport aux autres associations décrites à Genista pulchella subsp. villarsiana (tab. 25), le Seseli longifolii-Genistetum pulchellae est différencié par : - l’absence de taxons méridionaux et méditarréno-montagnards ( Bupleurum ranunculoides subsp. telonense, Arenaria modesta, Sempervivum calcareum, Globularia repens…) ; - la présence de Seseli longifolium.
+Par rapport aux autres associations décrites à Genista pulchella subsp. villarsiana (tab. 25), le Seseli longifolii-Genistetum pulchellae est différencié par : - l’absence de taxons méridionaux et méditarréno-montagnards ( Bupleurum ranunculoides subsp. telonense, [[Arenaria modesta]], [[Sempervivum calcareum]], [[Globularia repens]]…) ; - la présence de [[Seseli longifolium]].

@@ -24,13 +24,13 @@ Ces prairies de fauche se développent sur des sols hygroclines mésotrophes à 
 Association différenciée par la présence d’espèces liées aux sols acides et de taxons des Agrostietea stioloniferae ( [[Carex hirta]], [[Potentilla reptans]], [[Schedonorus arundinaceus]], [[Ajuga reptans]]…).
 
 **Combinaison différentielle** :
-[[Hypochaeris radicata]], [[Luzula campestris]], [[Potentilla reptans]], Rumex acetosa.
+[[Hypochaeris radicata]], [[Luzula campestris]], [[Potentilla reptans]], [[Rumex acetosa]].
 
 **Espèces constantes** :
-[[Ajuga reptans]], Anthoxanthum odoratum, [[Arrhenatherum elatius]], Bromus erectus, Centaurea jacea, Dactylis glomerata subsp. glomerata, [[Galium album]], [[Holcus lanatus]], [[Lathyrus pratensis]], [[Plantago lanceolata]], Ranunculus acris, [[Ranunculus bulbosus]], [[Schedonorus arundinaceus]], Trifolium pratense.
+[[Ajuga reptans]], [[Anthoxanthum odoratum]], [[Arrhenatherum elatius]], [[Bromus erectus]], [[Centaurea jacea]], Dactylis glomerata subsp. glomerata, [[Galium album]], [[Holcus lanatus]], [[Lathyrus pratensis]], [[Plantago lanceolata]], [[Ranunculus acris]], [[Ranunculus bulbosus]], [[Schedonorus arundinaceus]], [[Trifolium pratense]].
 
 **Variations** :
-Var. type à Potentilla reptans (pr3a) ; Var. appauvrie (pr3b).
+Var. type à [[Potentilla reptans]] (pr3a) ; Var. appauvrie (pr3b).
 
 **Syntaxonomie et synsystématique** :
 Cf. § 3.5.4.ii

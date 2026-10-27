@@ -27,7 +27,7 @@ Le Molinio arundinaceae-Pulicarietum dysentericae est un groupement hygrophile e
 [[Agrostis stolonifera]], [[Schedonorus arundinaceus]], [[Carex flacca]].
 
 **Variations** :
-Les variations mises en évidence sont liées à la nature des sols. Var. à Festuca trichophylla (ph1a) liée aux sols drainants ; Var. type (ph1b).
+Les variations mises en évidence sont liées à la nature des sols. Var. à [[Festuca trichophylla]] (ph1a) liée aux sols drainants ; Var. type (ph1b).
 
 **Syntaxonomie et synsystématique** :
-Le groupement présente des affinités avec le Cirsio monspessulani-Menthetum longifoliae O.Bolos & Vives in O.Bolos 1956, association de Catalogne, dans laquelle manquent : Molinia arundinacea, Lotus glaber, Lotus maritimus, Carex distans, Epipactis palustris.
+Le groupement présente des affinités avec le Cirsio monspessulani-Menthetum longifoliae O.Bolos & Vives in O.Bolos 1956, association de Catalogne, dans laquelle manquent : [[Molinia arundinacea]], [[Lotus glaber]], [[Lotus maritimus]], [[Carex distans]], [[Epipactis palustris]].

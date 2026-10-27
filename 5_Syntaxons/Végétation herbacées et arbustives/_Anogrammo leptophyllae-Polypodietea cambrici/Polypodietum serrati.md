@@ -39,4 +39,4 @@ L’association se développe en contexte sciaphile dans des stations à hygrom�
 Les relevés réunis sur roches volcaniques (rel. D3 et D4, tab. 32) ne s’individualisent pas nettement par rapport aux autres communautés. Ils pourraient néanmoins représenter une variation particulière de l’association, à étudier.
 
 **Syntaxonomie et synsystématique** :
-Avec Asplenium ceterach , A. ruta-muraria , A. trichomanes (subsp. pachyrachis), Geranium purpureum, Sedum dasyphyllum , Teucrium flavum , Umbilicus rupestris , Polypodium cambricum, les communautés ardéchoises s’intègrent parfaitement dans le Polypodietum serrati Braun-Blanq. 1931, association décrite de la plaine du Languedoc (BRAUN-BLANQUET et al. 1952).
+Avec [[Asplenium ceterach]] , A. ruta-muraria , A. trichomanes (subsp. pachyrachis), [[Geranium purpureum]], [[Sedum dasyphyllum]] , [[Teucrium flavum]] , [[Umbilicus rupestris]] , [[Polypodium cambricum]], les communautés ardéchoises s’intègrent parfaitement dans le Polypodietum serrati Braun-Blanq. 1931, association décrite de la plaine du Languedoc (BRAUN-BLANQUET et al. 1952).

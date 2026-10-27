@@ -17,10 +17,10 @@ sources:
 Herbier aquatique des eaux courantes eutrophes de la vallée de l’Ardèche.
 
 **Synécologie** :
-Cet herbier en extension dans la vallée de l’Ardèche (eutrophisation) est présent dans les anses et les méandres calmes. Dominé par Ranunculus penicillatus, il se maintient sur substrats graveleux et limoneux siliceux.
+Cet herbier en extension dans la vallée de l’Ardèche (eutrophisation) est présent dans les anses et les méandres calmes. Dominé par [[Ranunculus penicillatus]], il se maintient sur substrats graveleux et limoneux siliceux.
 
 **Combinaison différentielle** :
-Ranunculus penicillatus, [[Myriophyllum spicatum]].
+[[Ranunculus penicillatus]], [[Myriophyllum spicatum]].
 
 **Variations** :
 -

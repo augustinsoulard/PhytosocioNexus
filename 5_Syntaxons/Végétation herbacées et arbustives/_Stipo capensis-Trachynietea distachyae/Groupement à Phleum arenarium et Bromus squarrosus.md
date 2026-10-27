@@ -16,4 +16,4 @@ sources:
 Seulement un relevé de ce groupement a été recueilli. Il s’observe néanmoins régulièrement sur les très hautes levées sableuses des gorges de l’Ardèche.
 
 **Composition floristique** :
-[[Alyssum alyssoides]], Arenaria gr. serpyllifolia, Bromus squarrosus, [[Catapodium rigidum]], [[Cerastium semidecandrum]], Lysimachia linum-stellatum, Medicago minima, [[Medicago monspeliaca]], Minuartia hybrida, [[Phleum arenarium]], Trigonella wojciechowskii.
+[[Alyssum alyssoides]], Arenaria gr. serpyllifolia, [[Bromus squarrosus]], [[Catapodium rigidum]], [[Cerastium semidecandrum]], Lysimachia linum-stellatum, [[Medicago minima]], [[Medicago monspeliaca]], [[Minuartia hybrida]], [[Phleum arenarium]], [[Trigonella wojciechowskii]].

@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Agrostietea stoloniferae]]"
+syntaxon_superieur: "[[Potentillo anserinae-Polygonetalia avicularis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

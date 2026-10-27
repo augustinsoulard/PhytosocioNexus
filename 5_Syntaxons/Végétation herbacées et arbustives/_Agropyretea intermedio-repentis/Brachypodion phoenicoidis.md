@@ -37,4 +37,5 @@ Associations :
 - [[Groupement à Geranium columbinum et Bromopsis erecta]]
 - [[Groupement à Aristolochia clematitis et Elytrigia campestris]]
 - [[Agrimonia eupatoriae-Brachypodietum phoenicoidis]]
+- [[Groupement à Teucrium chamaedrys et Brachypodium phoenicoides]]
 - [[Trisetario-Brachypodietum phoenicoidis]] (A. Bolòs et O. Bolòs 1950) O. Bolòs 1956

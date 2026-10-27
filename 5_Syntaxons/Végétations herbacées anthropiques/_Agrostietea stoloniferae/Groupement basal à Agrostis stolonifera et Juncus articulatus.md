@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Agrostietea stoloniferae]]"
+syntaxon_superieur: "[[Mentho pulegii-Eleocharitenalia palustris]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27
@@ -13,7 +13,7 @@ sources:
 
 ## D'après Choisnet (2019)
 
-Prairie basale développée dans les anfractuosités et les vasques des lits rocheux des rivières et des ruisseaux, soumises aux crues. La dynamique riveraine maintient des communautés paucispécifiques dominées par Juncus articulatus.
+Prairie basale développée dans les anfractuosités et les vasques des lits rocheux des rivières et des ruisseaux, soumises aux crues. La dynamique riveraine maintient des communautés paucispécifiques dominées par [[Juncus articulatus]].
 
 **Composition floristique** :
-[[Agrostis stolonifera]], Blysmus compressus, [[Carex viridula]], [[Juncus articulatus]] , [[Mentha aquatica]], Molinia caerulea subsp. arundinacea.
+[[Agrostis stolonifera]], [[Blysmus compressus]], [[Carex viridula]], [[Juncus articulatus]] , [[Mentha aquatica]], Molinia caerulea subsp. arundinacea.

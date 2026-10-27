@@ -30,7 +30,7 @@ Chênaies pubescentes et châtaigneraies à strate arbustive marquée par le Bui
 [[Brachypodium rupestre]], [[Buxus sempervirens]], [[Corylus avellana]], [[Crataegus monogyna]], [[Hedera helix]], [[Helleborus foetidus]], [[Melica uniflora]], [[Quercus pubescens]], [[Sorbus aria]], [[Vicia sepium]].
 
 **Variations** :
-Les variations mises en évidence sont liées à la nature des substrats. Var. à Campanula persicifolia et Polypodium gr. vulgare (fm18a) des sols pierreux. Var. à Lathyrus niger (fm18b) des versants des Coirons sur diatomites.
+Les variations mises en évidence sont liées à la nature des substrats. Var. à Campanula persicifolia et Polypodium gr. vulgare (fm18a) des sols pierreux. Var. à [[Lathyrus niger]] (fm18b) des versants des Coirons sur diatomites.
 
 **Syntaxonomie et synsystématique** :
-Les relevés princeps de cette association proviennent des Boutières et des Cévennes ardéchoises (RENAUX et al. 2015). Une partie des relevés rapprochée de « l’Association à Quercus pubescens et Buxus sempervirens » de BANNES-PUYGIRON (1933) semble correspondre à cette association (tab. 7, col. 46), comme en témoigne la présence dans ces relevés des taxons liés aux sols acides.
+Les relevés princeps de cette association proviennent des Boutières et des Cévennes ardéchoises (RENAUX et al. 2015). Une partie des relevés rapprochée de « l’Association à Quercus pubescens et [[Buxus sempervirens]] » de BANNES-PUYGIRON (1933) semble correspondre à cette association (tab. 7, col. 46), comme en témoigne la présence dans ces relevés des taxons liés aux sols acides.

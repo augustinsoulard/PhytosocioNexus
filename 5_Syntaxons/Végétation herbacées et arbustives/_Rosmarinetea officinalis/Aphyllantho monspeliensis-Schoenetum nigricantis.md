@@ -24,13 +24,13 @@ L’association est liée à des systèmes érosifs temporohygrophiles sur marne
 Association définie par les cortèges des marnicoles, des hygrophiles et des taxons temporo-hygrophiles en lien avec les pelouses du Deschampsion mediae.
 
 **Combinaison différentielle** :
-Briza media, [[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Carex flacca]], [[Cervaria rivini]], Chrysopogon gryllus, [[Coris monspeliensis]], Galium timeroyi, [[Globularia vulgaris]], Jasonia tuberosa, [[Linum campanulatum]], [[Lotus hirsutus]], Plantago maritima subsp. serpentina, [[Prunella hyssopifolia]], [[Schoenus nigricans]], [[Serapias vomeracea]].
+[[Briza media]], [[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Carex flacca]], [[Cervaria rivini]], [[Chrysopogon gryllus]], [[Coris monspeliensis]], [[Galium timeroyi]], [[Globularia vulgaris]], [[Jasonia tuberosa]], [[Linum campanulatum]], [[Lotus hirsutus]], Plantago maritima subsp. serpentina, [[Prunella hyssopifolia]], [[Schoenus nigricans]], [[Serapias vomeracea]].
 
 **Espèces constantes** :
 [[Aphyllanthes monspeliensis]], [[Bothriochloa ischaemum]], [[Bromopsis erecta]], [[Coronilla minima]], [[Fumana ericifolia]], [[Globularia bisnagarica]], [[Koeleria vallesiana]], [[Lotus dorycnium]].
 
 **Variations** :
-Les variations mises en évidence sont liées à la réserve en eau des sols. Var. à Molinia arundinacea (pg31a) avec Succisa pratensis, Var. type (pg31b). Le groupement apparaît en lien dynamique avec les communautés du Deschampsion mediae, avec lesquelles elles partagent quelques taxons.
+Les variations mises en évidence sont liées à la réserve en eau des sols. Var. à [[Molinia arundinacea]] (pg31a) avec [[Succisa pratensis]], Var. type (pg31b). Le groupement apparaît en lien dynamique avec les communautés du Deschampsion mediae, avec lesquelles elles partagent quelques taxons.
 
 **Syntaxonomie et synsystématique** :
 Les communautés relevées entrent sans ambiguité dans cette association décrite dans la zone d’étude par VANDEN BERGHEN en 1972.

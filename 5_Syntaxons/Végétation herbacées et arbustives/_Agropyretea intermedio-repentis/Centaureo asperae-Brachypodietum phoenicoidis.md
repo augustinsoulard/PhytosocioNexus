@@ -21,13 +21,13 @@ Brachypodiaie oligo-mésotrophile des hautes terrasses alluviales calcaires de l
 Cet ourlet alluvial mésoméditerranéen xérophile, oligotrophile à mésotrophile, est lié aux hautes terrasses inondables d’alluvions calcaires. Il se maintient sur sols limono-sableux (non siliceux) très carbonatés et pierreux.
 
 **Combinaison différentielle** :
-Satureja montana, [[Achnatherum calamagrostis]], [[Centaurea aspera]], [[Ligustrum vulgare]].
+[[Satureja montana]], [[Achnatherum calamagrostis]], [[Centaurea aspera]], [[Ligustrum vulgare]].
 
 **Espèces constantes** :
 [[Brachypodium phoenicoides]], [[Bromopsis erecta]], [[Carex flacca]], [[Euphorbia nicaeensis]], [[Aphyllanthes monspeliensis]].
 
 **Variations** :
-Var. type (or3a), Var. à Bothriochloa ischaemum (or3b) des substrats plus secs, les communautés sont enrichies en chaméphytes mésoméditerranéens de l’Helianthemo-Aphyllanthion.
+Var. type (or3a), Var. à [[Bothriochloa ischaemum]] (or3b) des substrats plus secs, les communautés sont enrichies en chaméphytes mésoméditerranéens de l’Helianthemo-Aphyllanthion.
 
 **Syntaxonomie et synsystématique** :
 Même si peu de relevés ont été réunis, la constance de ce groupement dans les systèmes liés aux alluvions calcaires, incite à proposer une nouvelle association.

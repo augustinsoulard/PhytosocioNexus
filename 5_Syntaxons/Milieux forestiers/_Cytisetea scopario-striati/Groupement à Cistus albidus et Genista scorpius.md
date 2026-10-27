@@ -13,7 +13,7 @@ sources:
 
 ## D'après Choisnet (2019)
 
-Prémanteau ou garrigue haute lié aux substrats argileux décarbonatés issus de calcaires durs urgoniens. Les communautés réunies ici, toutes dominées par Cistus albidus , sont hétérogènes et fragmentaires.
+Prémanteau ou garrigue haute lié aux substrats argileux décarbonatés issus de calcaires durs urgoniens. Les communautés réunies ici, toutes dominées par [[Cistus albidus]] , sont hétérogènes et fragmentaires.
 
 **Composition floristique** :
 [[Cistus albidus]], [[Genista scorpius]], [[Juniperus oxycedrus]], [[Lonicera implexa]], Phillyrea gr. media,[[Thymus vulgaris]].

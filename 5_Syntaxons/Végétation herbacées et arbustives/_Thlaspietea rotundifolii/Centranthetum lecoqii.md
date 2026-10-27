@@ -37,7 +37,7 @@ Végétation des dalles concassées des lapiés et des éboulis actifs à gros b
 [[Euphorbia characias]], [[Rubia peregrina]], [[Sedum album]], S. sediforme.
 
 **Variations** :
-Var. type (sx8a) avec Linaria supina, Geranium purpureum, Melica ciliata, Satureja montana ; des dalles concassées des lapiés ; Var. à Scrophularia canina (sx8b) des éboulis actifs.
+Var. type (sx8a) avec [[Linaria supina]], [[Geranium purpureum]], [[Melica ciliata]], [[Satureja montana]] ; des dalles concassées des lapiés ; Var. à [[Scrophularia canina]] (sx8b) des éboulis actifs.
 
 **Syntaxonomie et synsystématique** :
-Avec Geranium purpureum et Linaria supina , le Centranthetum lecoqii Braun-Blanq. 1931, association décrite des éboulis calcaires du « pourtour des Cévennes méridionales » (BRAUNBLANQUET et al. 1952), correspond probablement à la var. type proposée ici : par rapport aux communautés princeps, Iberis intermedia subsp. violletii et Laserpitium gallicum manquent dans les relevés ardéchois.
+Avec Geranium purpureum et [[Linaria supina]] , le Centranthetum lecoqii Braun-Blanq. 1931, association décrite des éboulis calcaires du « pourtour des Cévennes méridionales » (BRAUNBLANQUET et al. 1952), correspond probablement à la var. type proposée ici : par rapport aux communautés princeps, Iberis intermedia subsp. violletii et Laserpitium gallicum manquent dans les relevés ardéchois.

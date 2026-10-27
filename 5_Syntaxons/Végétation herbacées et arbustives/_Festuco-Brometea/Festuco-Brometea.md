@@ -22,10 +22,3 @@ Ordres :
 - [[Ononidetalia striatae]] Braun-Blanquet et al. ex Braun-Blanquet 1950
 
 Associations :
-- [[Groupement à Agrostis castellana et Bromopsis erecta]]
-- [[Groupement à Cervaria rivini et Bromopsis erecta]]
-- [[Groupement à Artemisia alba et Bromopsis erecta]]
-- [[Filipendula vulgaris-Teucrium chamaedrys]]
-- [[Groupement à Genista tinctoria et Bromopsis erecta]]
-- [[Groupement à Peucedanum officinale et Bromopsis erecta]]
-- [[Groupement à Lotus maritimus et Catananche caerulea]]

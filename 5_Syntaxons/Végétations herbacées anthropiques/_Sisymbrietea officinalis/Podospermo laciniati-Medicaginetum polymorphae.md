@@ -21,7 +21,7 @@ Thérophytaie nitrophile des sols tassés limono-argileux des étages méditerra
 Ce groupement s’observe sur marnes, calcaires marneux et plus rarement sur alluvions. Il colonise les marges et les entre-rangs des vignes ainsi que les bords de chemins, en contexte héliophile, au sein des plaines agricoles. Les sols sont limono-argileux très carbonatés à pierrosité faible, généralement tassés par piétinement et surtout par le passage d’engins agricoles.
 
 **Combinaison différentielle** :
-Capsella bursa-pastoris subsp. bursa-pastoris, [[Crepis sancta]], [[Erodium cicutarium]], [[Malva sylvestris]], [[Medicago arabica]], Medicago polymorpha, Podospermum laciniatum, [[Veronica persica]].
+Capsella bursa-pastoris subsp. bursa-pastoris, [[Crepis sancta]], [[Erodium cicutarium]], [[Malva sylvestris]], [[Medicago arabica]], [[Medicago polymorpha]], [[Podospermum laciniatum]], [[Veronica persica]].
 
 **Espèces constantes** :
 [[Avena barbata]], Bromus gr. hordeaceus, [[Dactylis glomerata]], [[Plantago lanceolata]], [[Sonchus asper]], [[Vulpia myuros]].
@@ -30,4 +30,4 @@ Capsella bursa-pastoris subsp. bursa-pastoris, [[Crepis sancta]], [[Erodium cicu
 -
 
 **Syntaxonomie et synsystématique** :
-Avec Medicago polymorpha, Anisantha diandra, Avena barbata , Lolium rigidum (rare), le groupement peut s’intégrer dans les Brometalia rubenti-tectorum, ordre au sein duquel il ne semble pas avoir d’équivalent connu. Le rattachement à une alliance connue est encore ici problématique.
+Avec [[Medicago polymorpha]], [[Anisantha diandra]], [[Avena barbata]] , [[Lolium rigidum]] (rare), le groupement peut s’intégrer dans les Brometalia rubenti-tectorum, ordre au sein duquel il ne semble pas avoir d’équivalent connu. Le rattachement à une alliance connue est encore ici problématique.

@@ -21,8 +21,8 @@ Alliances :
 - [[Hordeion leporini]] Braun-Blanquet ex Braun-Blanquet et al. 1947
 - [[Laguro ovati-Bromion rigidi]] Géhu et Géhu-Franck 1985
 - [[Taeniathero capitis-medusae-Aegilopion geniculatae]] Rivas Martínez et Izco 1977
-- [[Groupement à Erodium malacoides et Sisymbrium irio]]
-- [[Groupement à Alkanna matthioli et Anisantha tectorum]]
 
 Associations :
+- [[Groupement à Erodium malacoides et Sisymbrium irio]]
+- [[Groupement à Alkanna matthioli et Anisantha tectorum]]
 - [[Urospermo picroidis-Brachypodietum stacei]] Choisnet 2019 nom. ined. (1)

@@ -16,4 +16,4 @@ sources:
 Un unique relevé a été réalisé de cette communauté contactée sur alluvions silico-calcaires de l’étage mésoméditerranéen.
 
 **Composition floristique** :
-Biscutella gr. lima, Centaurea paniculata, [[Chondrilla juncea]], [[Festuca arvernensis]], Satureja montana, [[Sedum acre]], S. album, S. ochroleucum, S. sediforme, [[Thymus vulgaris]], Trigonella wojciechowskii.
+Biscutella gr. lima, [[Centaurea paniculata]], [[Chondrilla juncea]], [[Festuca arvernensis]], [[Satureja montana]], [[Sedum acre]], S. album, S. ochroleucum, S. sediforme, [[Thymus vulgaris]], [[Trigonella wojciechowskii]].

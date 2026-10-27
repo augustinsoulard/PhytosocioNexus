@@ -24,7 +24,7 @@ Représentatives des collines baignées dans un contexte méditerranéen marqué
 L’association est marquée par le cortège des Artemisio albaeBromenalia erecti , par les éléments des Ononidetalia striatae (dont la présence caractérise le goupement) et ceux des Rosmarinetalia.
 
 **Combinaison différentielle** :
-[[Anthyllis montana]], Anthyllis vulneraria subsp. rubriflora, [[Centaurea pectinata]], [[Crepis albida]], Galium timeroyi, [[Helictochloa bromoides]], [[Iberis saxatilis]], [[Knautia collina]], [[Lavandula angustifolia]], [[Leontodon crispus]], Linum suffruticosum subsp. appressum, [[Ononis striata]], [[Potentilla velutina]], Remarque : le Potentilla velutina est représenté dans le Bas-Vivarais par un microtaxon endémique, P. vivariensis Jordan.
+[[Anthyllis montana]], Anthyllis vulneraria subsp. rubriflora, [[Centaurea pectinata]], [[Crepis albida]], [[Galium timeroyi]], [[Helictochloa bromoides]], [[Iberis saxatilis]], [[Knautia collina]], [[Lavandula angustifolia]], [[Leontodon crispus]], Linum suffruticosum subsp. appressum, [[Ononis striata]], [[Potentilla velutina]], Remarque : le Potentilla velutina est représenté dans le Bas-Vivarais par un microtaxon endémique, P. vivariensis Jordan.
 
 **Espèces constantes** :
 [[Aphyllanthes monspeliensis]], [[Bromopsis erecta]], [[Carex humilis]], [[Coronilla minima]], [[Echinops ritro]], [[Festuca marginata]], [[Fumana procumbens]], [[Galium corrudifolium]], [[Helianthemum apenninum]], [[Helianthemum italicum]], [[Koeleria vallesiana]], [[Potentilla verna]], [[Teucrium chamaedrys]], [[Teucrium montanum]], [[Teucrium polium]], [[Thymus vulgaris]].

@@ -23,7 +23,7 @@ Ces communautés occupent les mêmes compartiments écologiques que celles du gr
 Groupement, à caractère xérophile et acidiclinophile, caractérisé par les taxons des Festuco valesiacae-Brometea erecti, du Koelerio macranthae-Phleion phleoidis Korneck 1974, des Sedo albiScleranthetea biennis.
 
 **Combinaison différentielle** :
-Andryala integrifolia, [[Armeria arenaria]], [[Artemisia campestris]], [[Bothriochloa ischaemum]], [[Centaurea pectinata]], [[Chondrilla juncea]], [[Eryngium campestre]], [[Euphorbia cyparissias]], [[Festuca arvernensis]], Galium lucidum, [[Hippocrepis comosa]], [[Oreoselinum nigrum]], Poterium sanguisorba subsp. balearica, Scabiosa columbaria, [[Sedum rupestre]].
+[[Andryala integrifolia]], [[Armeria arenaria]], [[Artemisia campestris]], [[Bothriochloa ischaemum]], [[Centaurea pectinata]], [[Chondrilla juncea]], [[Eryngium campestre]], [[Euphorbia cyparissias]], [[Festuca arvernensis]], [[Galium lucidum]], [[Hippocrepis comosa]], [[Oreoselinum nigrum]], Poterium sanguisorba subsp. balearica, [[Scabiosa columbaria]], [[Sedum rupestre]].
 
 **Espèces constantes** :
 [[Echium vulgare]].
@@ -32,4 +32,4 @@ Andryala integrifolia, [[Armeria arenaria]], [[Artemisia campestris]], [[Bothrio
 -
 
 **Syntaxonomie et synsystématique** :
-Le groupement, bien que présentant des affinités avec le Festuco arvernensis-Artemisietum campestris Loiseau & Felzines 2010, en diffère par la présence des taxons thermophiles et méridionaux, avec, pour les plus fréquents, Centaurea pectinata , Bothriochloa ischaemum , Stachys recta, Galium lucidum, et pour les sporadiques, Centaurea paniculata, Silene italica, Sedum sediforme, Helichrysum stoechas , Reichardia picroides . Ce groupement s’inscrit dans l’alliance du Koelerio macranthae-Phleion phleoidis Korneck 1974 et prend place au sein du Festucenion longifolio-lemanii Loiseau & Felzines 2010, sous-alliance regroupant les associations atlantiques et subatlantiques des roches siliceuses acides (LOISEAU & FELZINES 2010).
+Le groupement, bien que présentant des affinités avec le Festuco arvernensis-Artemisietum campestris Loiseau & Felzines 2010, en diffère par la présence des taxons thermophiles et méridionaux, avec, pour les plus fréquents, [[Centaurea pectinata]] , [[Bothriochloa ischaemum]] , [[Stachys recta]], [[Galium lucidum]], et pour les sporadiques, [[Centaurea paniculata]], [[Silene italica]], [[Sedum sediforme]], [[Helichrysum stoechas]] , [[Reichardia picroides]] . Ce groupement s’inscrit dans l’alliance du Koelerio macranthae-Phleion phleoidis Korneck 1974 et prend place au sein du Festucenion longifolio-lemanii Loiseau & Felzines 2010, sous-alliance regroupant les associations atlantiques et subatlantiques des roches siliceuses acides (LOISEAU & FELZINES 2010).

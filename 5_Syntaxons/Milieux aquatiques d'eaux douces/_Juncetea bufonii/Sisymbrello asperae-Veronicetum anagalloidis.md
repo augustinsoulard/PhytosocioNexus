@@ -24,7 +24,7 @@ Le Sisymbrello asperae-Veronicetum anagalloidis se cantonne aux marges des cours
 [[Lythrum hyssopifolia]], Poa gr. infirma, [[Ranunculus sardous]], Sisymbrella aspera, [[Veronica anagalloides]].
 
 **Espèces constantes** :
-[[Agrostis stolonifera]], Ambrosia artemisiifolia, [[Barbarea vulgaris]], [[Convolvulus arvensis]], [[Erigeron annuus]], [[Plantago lanceolata]], [[Poa trivialis]], Polygonum hydropiper, Rumex crispus.
+[[Agrostis stolonifera]], [[Ambrosia artemisiifolia]], [[Barbarea vulgaris]], [[Convolvulus arvensis]], [[Erigeron annuus]], [[Plantago lanceolata]], [[Poa trivialis]], [[Polygonum hydropiper]], [[Rumex crispus]].
 
 **Variations** :
 -

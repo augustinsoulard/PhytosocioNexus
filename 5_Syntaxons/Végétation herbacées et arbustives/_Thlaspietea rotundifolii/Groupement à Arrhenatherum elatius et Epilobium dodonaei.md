@@ -23,7 +23,7 @@ Cette végétation des éboulis actifs mésoméditerranéen, se développe sur d
 [[Arrhenatherum elatius]], Epilobium dodonaei subsp. dodonaei, [[Galeopsis angustifolia]], [[Linaria supina]], [[Rumex scutatus]] (une localité).
 
 **Espèces constantes** :
-[[Melica ciliata]], Satureja montana, [[Sedum sediforme]].
+[[Melica ciliata]], [[Satureja montana]], [[Sedum sediforme]].
 
 **Variations** :
 -

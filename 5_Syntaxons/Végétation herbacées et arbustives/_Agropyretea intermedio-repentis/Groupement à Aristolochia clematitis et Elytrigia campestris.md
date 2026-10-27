@@ -17,13 +17,13 @@ sources:
 Agropyraie mésotrophile des hautes terrasses alluviales silico-calcaires de l’Ardèche de l’étage mésoméditerranéen.
 
 **Synécologie** :
-Pelouse-ourlet xérophile liées aux hautes levées alluvionnaires (4-8 m / eau) riches en nutriments. Les sols sont épais limono-sableux à effervescence très forte. Elle apparaît souvent en lien avec un ourlet annuel vernal rapproché de l’ Orlaya grandifloraAnisantha sterilis-G.
+Pelouse-ourlet xérophile liées aux hautes levées alluvionnaires (4-8 m / eau) riches en nutriments. Les sols sont épais limono-sableux à effervescence très forte. Elle apparaît souvent en lien avec un ourlet annuel vernal rapproché de l’ [[Orlaya grandiflora]]Anisantha sterilis-G.
 
 **Combinaison différentielle** :
 [[Anisantha sterilis]], [[Aristolochia clematitis]], Elytrigia gr. campestris, [[Geranium rotundifolium]], [[Campanula patula]], [[Galium aparine]].
 
 **Espèces constantes** :
-Vicia segetalis, [[Clinopodium nepeta]], [[Arrhenatherum elatius]], Orlaya grandiflora
+[[Vicia segetalis]], [[Clinopodium nepeta]], [[Arrhenatherum elatius]], [[Orlaya grandiflora]]
 
 **Variations** :
 -
