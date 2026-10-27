@@ -9,10 +9,11 @@ auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Braun-Blanquet - 1952 - Les groupements végétaux de la France méditerranéenne.pdf]]"
 ---
 **Description** : Végétation herbacée vivace, mésoxérophile, calcicole, structurée par des hémicryptophytes, des substrats argileux profonds, anciennement remaniés, des étages méso- et supraméditerranéen du nord de la Méditerranée centrale et occidentale.
 
-**Espèces caractéristiques** : [[Bituminaria bituminosa]], [[Dianthus balbisii]], [[Dittrichia viscosa]], [[Helichrysum italicum]], [[Brachypodium phoenicoides]], [[Euphorbia serrata]], [[Foeniculum vulgare subsp. vulgare]], [[Salvia verbenaca]], [[Verbascum sinuatum]].
+**Espèces caractéristiques** : [[Bituminaria bituminosa]], [[Dianthus balbisii]], [[Dittrichia viscosa]], [[Helichrysum italicum]], [[Brachypodium phoenicoides]], [[Euphorbia serrata]], [[Foeniculum vulgare subsp. vulgare]], [[Salvia verbenaca]], [[Verbascum sinuatum]]. D'après Bran-Blanquet (1952) : [[Brachypodium phoenicoides]] (V), [[Scabiosa atropurpurea]] (V), [[Foeniculum vulgare subsp. piperitum]] (IV), [[Verbascum sinuatum]] (IV), [[Clinopodium nepeta]] (IV), [[Echium vulgare var. pustulatum]] (III), [[Salvia verbenaca subsp. verbenaca]] (III), [[Salvia verbenaca]] (II), [[Tragopogon porrifolius]] (II), [[Galactites tomentosus]] (II), [[Seseli tortuosum]] (I), [[Echinops ritro]] (II), [[Medicago orbicularis]] (III), [[Carex divisa]] (II), [[Lepidium graminifolium]] (III), [[Salvia verbenaca subsp. clandestina]] (I), [[Diplotaxis viminea]] (I), [[Erodium acaule]] (I), tg. [[Carthamus lanatus]] (II), tg. [[Onopordum illyricum]] (I)
 
 
 - **Correspondances typologiques** :

@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Végétation annuelle xérophile des substrats argileux basiques de la Méditerranée nord-occidentale.
 
-**Espèces caractéristiques** : [[Astragalus echinatus]], [[Astragalus sesameus]], [[Hippocrepis biflora]], [[Onobrychis caput-galli]], [[Ononis pubescens]], Ptilostemon spp.
+**Espèces caractéristiques** : [[Astragalus echinatus]], [[Astragalus sesameus]], [[Hippocrepis biflora]], [[Onobrychis caput-galli]], [[Ononis pubescens]], Ptilostemon spp. D'après Braunt-Blanquet (1952) : [[Trifolium scabrum]] (V), [[Saxifraga tridactylites]] (V), [[Sagina apetala]] (V), [[Medicago monspeliaca]] (V), [[Sabulina mediterranea]] (IV), [[Brachypodium distachyon]] (IV), [[Plantago afra]] (IV), [[Vulpia unilateralis]] (IV), [[Trifolium stellatum]] (IV), [[Valantia muralis]] (IV), [[Galium parisiense]] (IV), [[Centaurea paniculata]] (IV), [[Hornungia petraea]] (III), [[Hippocrepis ciliata]] (III), [[Neatostema apulum]] (III), [[Ophrys lutea]] (II), [[Sedum cespitosum]] (II), [[Ononis reclinata]] (II), [[Astragalus stella]] (II), [[Galium murale]] (II), [[Campanula erinus]] (II), [[Bombycilaena erecta]] (II), [[Centaurea melitensis]] (II)
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E1.5131]]

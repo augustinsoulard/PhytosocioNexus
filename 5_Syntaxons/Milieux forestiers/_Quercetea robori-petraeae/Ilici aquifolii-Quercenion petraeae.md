@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Forêts nord- à subatlantiques (Bretagne, Normandie, Bassin parisien, Massif central)
 
-**Espèces caractéristiques** : [[Quercus petraea]], [[Crataegus germanica]], [[Castanea sativa]], [[Taxus baccata]], [[Pyrus communis]], [[Ulex europaeus]], [[Sorbus torminalis]] (nord-ouest), [[Sorbus aria]] (Massif central), [[Vaccinium myrtillus]], [[Blechnum spicant]], [[Ruscus aculeatus]], [[Hyacinthoides non-scripta]], [[Erythronium dens-canis]], [[Ceratocapnos claviculata]], [[Hieracium virgultorum]]
+**Espèces caractéristiques** : [[Quercus petraea]], [[Crataegus germanica]], [[Castanea sativa]], [[Taxus baccata]], [[Pyrus communis]], [[Ulex europaeus]], [[PhytosocioNexus/3_Flore/Autres-non classees/Torminalis glaberrima]] (nord-ouest), [[Sorbus aria]] (Massif central), [[Vaccinium myrtillus]], [[Blechnum spicant]], [[Ruscus aculeatus]], [[Hyacinthoides non-scripta]], [[Erythronium dens-canis]], [[Ceratocapnos claviculata]], [[Hieracium virgultorum]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[G1.622]] - [[G1.624]] (hêtraies) / [[G1.821]] - [[G1.822]] - [[G1.871]] (chênaies)

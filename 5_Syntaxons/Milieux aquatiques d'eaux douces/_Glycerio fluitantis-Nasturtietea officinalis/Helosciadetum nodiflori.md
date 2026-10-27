@@ -16,7 +16,7 @@ Syn. : Helosciadietum nodiflori Braun-Blanq. 1931
 
 Espèces indicatrices : [[Helosciadium nodiflorum]], [[Nasturtium officinale]], [[Veronica anagallis-aquatica]], [[Berula erecta]], [[Mentha aquatica]],  [[Callitriche obtusangula]], [[Ranunculus ophioglossifolius]]
 
-Écologie : Végétation hygrophile amphibie des substrats vaseux des ruisselets issus des sources ou des canaux peu profonds parcourus par des eaux claires et fraîches mésotrophes.
+Écologie : Végétation hygrophile amphibie des substrats vaseux des ruisselets issus des sources ou des canaux peu profonds parcourus par des eaux claires et fraîches mésotrophes. Irradiation septentrionale dans le Midi français ; Sol vaseux, végétation dense (80–100 % de recouvrement). Plusieurs variantes ou faciès (à [[Helosciadium nodiflorum]], [[Berula erecta]], [[Sparganium neglectum]], [[Nasturtium officinale]], [[Ranunculus ophioglossifolius]]).
 
 Chorologie BdR (13) : Crau humide.
 

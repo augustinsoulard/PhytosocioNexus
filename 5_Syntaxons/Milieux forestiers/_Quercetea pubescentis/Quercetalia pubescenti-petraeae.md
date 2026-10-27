@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Chênaies pubescentes, sessiliflores et mixtes, calcaricoles à acidiphiles, supraméditerranéennes avec irradiations septentrionales
 
-**Espèces caractéristiques** : [[Amelanchier ovalis]], [[Sorbus latifolia]], [[Sorbus torminalis]], [[Colutea arborescens]], [[Rosa spinosissima]], [[Rubus canescens]], [[Anthericum liliago]], [[Trifolium medium]], [[Trifolium rubens]], [[Cervaria rivini]], [[Stachys recta]], [[Lathyrus niger]], [[Dictamnus albus]], [[Primula veris]], [[Silene nutans]]
+**Espèces caractéristiques** : [[Amelanchier ovalis]], [[Sorbus latifolia]], [[PhytosocioNexus/3_Flore/Autres-non classees/Torminalis glaberrima]], [[Colutea arborescens]], [[Rosa spinosissima]], [[Rubus canescens]], [[Anthericum liliago]], [[Trifolium medium]], [[Trifolium rubens]], [[Cervaria rivini]], [[Stachys recta]], [[Lathyrus niger]], [[Dictamnus albus]], [[Primula veris]], [[Silene nutans]]
 
 ZH : (à préciser)
 

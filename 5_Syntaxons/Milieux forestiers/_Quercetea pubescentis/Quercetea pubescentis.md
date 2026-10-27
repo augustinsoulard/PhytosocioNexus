@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Végétation arborescente, généralement dominée par des espèces caducifoliées, xérocline à xérophile, plutôt thermophile, des régions chaudes de l'Europe tempérée et méditerranéenne, de l'Asie Mineur et du Moyen-Orient.
 
-**Espèces caractéristiques** : [[Quercus pubescens]], [[Quercus petraea]], [[Acer campestre]], [[Sorbus domestica]], [[Sorbus aria]], [[Ligustrum vulgare]], [[Viburnum lantana]], [[Cornus mas]], [[Prunus mahaleb]], [[Rhamnus cathartica]], [[Juniperus communis]], [[Brachypodium pinnatum]], [[Brachypodium rupestre]], [[Sesleria caerulea]], [[Festuca ovina subsp. ovina]], [[Carex montana]], [[Helleborus foetidus]], [[Buglossoides purpureocaerulea]], [[Melittis melissophyllum]], [[Viola hirta]], [[Acer opalus subsp. opalus]], [[Cotinus coggygria]], [[Cytisophyllum sessilifolium]], [[Hippocrepis emerus]], [[Quercus pubescens]], [[Ligustrum vulgare]], [[Viburnum lantana]], [[Viola alba]], [[Pinus sylvestris]].
+**Espèces caractéristiques** : [[Quercus pubescens]], [[Quercus petraea]], [[Acer campestre]], [[Sorbus domestica]], [[Sorbus aria]], [[Ligustrum vulgare]], [[Viburnum lantana]], [[Cornus mas]], [[Prunus mahaleb]], [[Rhamnus cathartica]], [[Juniperus communis]], [[Brachypodium pinnatum]], [[Brachypodium rupestre]], [[Sesleria caerulea]], [[Festuca ovina subsp. ovina]], [[Carex montana]], [[Helleborus foetidus]], [[Buglossoides purpureocaerulea]], [[Melittis melissophyllum]], [[Viola hirta]], [[Acer opalus subsp. opalus]], [[Cotinus coggygria]], [[Cytisophyllum sessilifolium]], [[Hippocrepis emerus]] , [[Viburnum lantana]], [[Viola alba]], [[Pinus sylvestris]].
 
 Ordres :
 - [[Cotino coggygriae-Fraxinetalia orni]] Jakucs 1960 nom. invers. propos. Renaux et al. 2019

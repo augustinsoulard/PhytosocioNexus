@@ -22,4 +22,4 @@ Chorologie BdR (13) : Massif de la Nerthe, basses collines entre Marseille et Ai
 
 Précision dynamique : Localement stable du fait des conditions édaphiques mais également issu de la dégradation des pelouses du Phlomido lychnitidis - Brachypodietum ramosi (Lygeo sparti - Stipetea tenacissimae).
 
-Dans le département, cette association, occupant une niche relativement similaire, relaie le Sedetum ochroleuco-sediformis (classe des Sedo albi - Scleranthetea biennis) aux altitudes les plus basses montrant de trop faibles précipitations pour permettre le développement d'une réelle communauté vivace diversifiée. Sur les reliefs de l'est du département la transition entre les deux associations est graduelle.
+Dans les Bouches-du-Rhône, cette association, occupant une niche relativement similaire, relaie le Sedetum ochroleuco-sediformis (classe des Sedo albi - Scleranthetea biennis) aux altitudes les plus basses montrant de trop faibles précipitations pour permettre le développement d'une réelle communauté vivace diversifiée. Sur les reliefs de l'est du département la transition entre les deux associations est graduelle.

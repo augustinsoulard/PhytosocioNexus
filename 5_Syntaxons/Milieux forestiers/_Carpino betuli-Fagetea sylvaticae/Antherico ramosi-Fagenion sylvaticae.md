@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Hêtraies-Chênaies-Charmaies collinéennes
 
-**Espèces caractéristiques** : [[Fagus sylvatica]], [[Sorbus torminalis]], [[Acer monspessulanum]], [[Cornus mas]], [[Prunus mahaleb]], [[Rubus canescens]], [[Rubus montanus]], [[Rubus rhombicus]], [[Lonicera caprifolium]], [[Rubia peregrina]], [[Bromopsis ramosa]], [[Anthericum ramosum]]
+**Espèces caractéristiques** : [[Fagus sylvatica]], [[Torminalis glaberrima]], [[Acer monspessulanum]], [[Cornus mas]], [[Prunus mahaleb]], [[Rubus canescens]], [[Rubus montanus]], [[Rubus rhombicus]], [[Lonicera caprifolium]], [[Rubia peregrina]], [[Bromopsis ramosa]], [[Anthericum ramosum]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[G1.66]]

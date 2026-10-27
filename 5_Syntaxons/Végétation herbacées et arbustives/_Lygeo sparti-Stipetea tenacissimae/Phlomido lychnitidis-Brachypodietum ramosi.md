@@ -12,7 +12,7 @@ sources:
 ---
 Syn. : Brachypodietum ramosi Braun-Blanq. 1924 ; ass. à Brachypodium ramosum et Phlomis lychnitis Braun-Blanq. 1924.
 
-**Description :** Végétation herbacée vivace dominée par des hémicryptophytes ou de petits chaméphytes avec omniprésence de Brachypodium retusum. Le recouvrement des espèces vivaces est variable mais laisse généralement s'exprimer une importante communauté d'espèces annuelles méditerranéennes, en particulier de la classe des Stipa capensis - Trachynietea distachyae.
+**Description :** Végétation herbacée vivace dominée par des hémicryptophytes ou de petits chaméphytes avec omniprésence de Brachypodium retusum. Le recouvrement des espèces vivaces est variable mais laisse généralement s'exprimer une importante communauté d'espèces annuelles méditerranéennes, en particulier de la classe des [[Stipo capensis-Trachynietea distachyae]].
 
 Espèces indicatrices : [[Brachypodium retusum]], [[Phlomis lychnitis]], [[Koeleria vallesiana subsp. vallesiana]], [[Thymus vulgaris]], [[Iris lutescens]], [[Ruta angustifolia]], [[Reichardia picroides]], [[Poterium verrucosum]].
 
