@@ -31,4 +31,6 @@ Associations :
 - [[Phillyreo latifoliae-Quercetum ilicis]] Lahondère 1987 ; 
 - [[Piptathero paradoxi-Quercetum ilicis]] Quézel et Barbero 1986 ; 
 - [[Taxo-Quercetum ilicis]] Barbero et Quézel 1994 ; 
+- [[Groupement à Geranium purpureum et Quercus ilex]]
+- [[Groupement à Bupleurum rigidum et Quercus pubescens]]
 - [[Viburno tini-Quercetum ilicis]] (Braun-Blanquet 1936) Rivas Martínez 1974

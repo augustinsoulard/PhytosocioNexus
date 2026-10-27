@@ -44,4 +44,5 @@ Associations :
 - [[Resedo luteae-Rumicetum scutati]] D.P. Petit 1985 nom. inval. (3o, 5) ; 
 - [[Saponario officinalis-Artemisietum verlotiorum]] M. Baldoni et Biondi 1993 ; 
 - [[Saponario officinalis-Artemisietum vulgaris]] Felzines et al. 2002 ; 
+- [[Groupement à Artemisia verlotiorum]]
 - [[Scrophulario caninae-Melilotetum albi]] Loiseau et Braque 1972

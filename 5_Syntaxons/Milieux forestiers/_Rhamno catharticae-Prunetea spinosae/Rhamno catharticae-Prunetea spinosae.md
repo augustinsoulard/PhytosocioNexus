@@ -19,4 +19,5 @@ Ordres :
 - [[Prunetalia spinosae]] Tüxen 1952
 - [[Pyro spinosae-Rubetalia ulmifolii]] Biondi et al. in Biondi et al. 2014
 - [[Sambucetalia racemosae]] Oberdorfer ex H. Passarge in Scamoni 1963
+- [[Groupement à Clematis vitalba et Cornus sanguinea]]
 

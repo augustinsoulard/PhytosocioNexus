@@ -26,4 +26,5 @@ Associations :
 - [[Bromo tectorum-Stipetum capensis]] Rivas Martínez et Izco 1977 ; 
 - [[Medicagini rigidulae-Aegilopetum geniculatae]] Rivas Martínez et Izco 1977 ; 
 - [[Podospermo laciniati-Medicaginetum polymorphae]] Choisnet 2019 nom. ined. (1) ; 
+- [[Groupement à Orlaya grandiflora et Anisantha sterilis]]
 - [[Trifolio cherleri-Taeniatheretum capitis-medusae]] Rivas Martínez et Izco 1977

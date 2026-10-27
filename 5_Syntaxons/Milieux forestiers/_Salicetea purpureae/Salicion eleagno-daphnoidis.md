@@ -32,4 +32,5 @@ Associations :
 - [[Salicetum myrsinifolio-purpureae]] B. Foucault in B. Foucault et T. Cornier 2020 ; 
 - [[Salici incanae-Hippophaetum fluviatilis]] Braun-Blanquet in O.H. Volk 1940 ; 
 - [[Salici purpureae-Myricarietum germanicae]] Moor 1958 ; 
+- [[Groupement à Corylus avellana et Salix purpurea]]
 - [[Saponario officinalis-Salicetum purpurae]] Tchou (1947) 1948

@@ -41,4 +41,5 @@ Associations :
 - [[Onobrychidetum supinae]] G. Braun-Blanq. 1936 (Braun-Blanquet et al., 1952 : 189)
 - [[Salvio pratensis-Festucetum burgundianae]] Choisnet 2019 nom. ined. (1) ; 
 - [[Staehelino dubiae-Dorycnietum suffruticosi]] Tomaselli 1949 ; Stipetum junceae Liou 1929
+- [[Groupement à Lotus dorycnium et Deschampsia media]]
 

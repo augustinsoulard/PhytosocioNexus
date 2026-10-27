@@ -40,4 +40,5 @@ Associations :
 - [[Sparganio emersi-Ranunculetum fluitantis]] (W. Koch 1926) Oberdorfer 1957 ; 
 - [[Sparganio simplicis-Ranunculetum fluitantis]] Jouanne 1927 ; 
 - [[Veronico beccabungae-Callitrichetum platycarpae Mériaux 1978]] ; 
+- [[Groupement à Ranunculus penicillatus]]
 - [[Veronico beccabungae-Callitrichetum stagnalis]] Oberdorfer ex T. Müller 1962

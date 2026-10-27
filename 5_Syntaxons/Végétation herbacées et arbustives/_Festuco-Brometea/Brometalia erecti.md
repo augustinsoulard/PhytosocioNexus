@@ -20,3 +20,6 @@ Sous-ordres :
 - [[Artemisio albae-Bromenalia erecti]] Biondi et al. 1995
 - [[Bromenalia erecti]] Terzi et al. 2016
 - [[Koelerio macranthae-Phleenalia phleoidis]] Korneck ex J.-M. Royer 1991
+
+Associations :
+- [[Groupement à Lotus corniculatus subsp. delortii et Bromopsis erecta]]

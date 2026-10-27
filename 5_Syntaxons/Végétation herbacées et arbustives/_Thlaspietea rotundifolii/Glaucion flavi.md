@@ -19,3 +19,4 @@ Associations :
 - [[Glaucio flavi-Scrophularietum caninae]] (Braun-Blanquet 1936) Tchou 1946 ; 
 - [[Heliantho tuberosiSaponarietum officinalis]] Choisnet 2019 nom. ined. (1) ; 
 - [[Ptychotido saxifragae-Glaucietum flavi]] Choisnet 2019 nom. ined. (1)
+- [[Heliantho tuberosi-Saponarietum officinalis]]

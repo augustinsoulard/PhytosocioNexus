@@ -45,6 +45,7 @@ Associations :
 - [[Persicario lapathifoliae-Echinochloetum cruris-galli]] Felzines et Loiseau 2006 ; 
 - [[Persicario mitis-Xanthietum italici]] Choisnet 2019 nom. ined. (1) ; 
 - [[Polygono brittingeri-Chenopodietum rubri]] W. Lohmeyer 1950
+- [[Groupement à Equisetum arvense et Persicaria hydropiper]]
 
 
 Note CatVeg : nous ne retenons pas les sous-alliances proposées par Felzines et Loiseau (2006), dont les définitions écologiques et chorologiques ne nous semblent pas évidentes. Il conviendra d'étudier leur déterminisme à une plus large échelle.

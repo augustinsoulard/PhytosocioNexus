@@ -33,4 +33,6 @@ Associations :
 - [[Phlomido lychnitidis-Brachypodietum ramosi]] Braun-Blanquet 1925 ; 
 - [[Rumici intermedii-Brachypodietum retusi]] Choisnet 2019 nom. ined. (1) ; 
 - [[Teucrio pseudochamaepityos-Brachypodietum ramosi]] O. Bolòs 1957 ; 
+- [[Phlomido lychnitidis-Brachypodietum retusi]] Braun-Blanq. 1925
+- [[Groupement à Cistus albidus et Brachypodium retusum]]
 - [[Thymo vulgaris-Euphorbietum spinosae]] Guinochet 1975
