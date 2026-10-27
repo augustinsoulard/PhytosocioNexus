@@ -4,12 +4,13 @@ tags:
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-10-27
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
+  - "[[Choisnet - 2019 - Approche phytosociologique et symphytosociologique des végétations et des paysages du Bas-Vivarais.pdf]]"
 ---
 
 **Description** : Végétation herbacée vivace dominée par des hélophytes (Poaceae et Cyperaceae), hygrophile, des substrats mésotrophes à eutrophes, parfois tourbeux, des bords d'étangs, lacs, rivières et marais d'eau douce ou saumâtre, de l'Eurasie.
@@ -24,3 +25,8 @@ Ordres :
 - [[Phragmitetalia australis]] W. Koch 1926
 
 Note CatVeg : les associations de cette classe ont, pour beaucoup d'entre elles, été définies sur la dominance d'un taxon qui se retrouve dans leur dénomination. Ce phénomène est accentué par des relevés phytosociologiques souvent de faibles surfaces. De fait, les relevés sont incomplets et les seules espèces constantes dans les tableaux sont les espèces dominantes. Cela a produit de nombreuses interprétations erronées, basées sur l'unique dominance d'un taxon, sans prise en compte du reste de son cortège et donc de son écologie ou de sa chorologie. En conséquence, la répartition géographique des différentes alliances souffre probablement d'incohérences dues à des erreurs d’interprétation.
+
+Associations :
+- [[Groupement à Alisma lanceolatum et Eleocharis palustris]]
+- [[Groupement à Rorippa sylvestris et Eleocharis palustris]]
+- [[Groupement à Epilobium hirsutum et Scirpoides holoschoenus]]

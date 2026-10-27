@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Pimpinello tragium-Gouffeion arenarioidis]]"
+syntaxon_superieur: "[[Pimpinello tragii-Gouffeion arenarioidis]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

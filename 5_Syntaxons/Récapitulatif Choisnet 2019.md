@@ -20,7 +20,7 @@ Fiches créées ou mises à jour d'après **Choisnet (2019)**, *Approche phytoso
 - [[Groupement à Cotinus coggygria et Fagus sylvatica]] — créée
 - [[Groupement à Galium aparine et Quercus pubescens]] — créée
 - [[Groupement à Polystichum setiferum et Acer monspessulanum]] — créée
-- [[Carici pendulae-Fraxinetum angustifolia]] — créée
+- [[Carici pendulae-Fraxinetum angustifoliae]] — créée
 - [[Aristolochio clematitis-Fraxinetum angustifoliae]] — créée
 - [[Groupement à Phalaris arundinacea et Alnus glutinosa]] — créée
 - [[Groupement à Buxus sempervirens et Erica scoparia]] — créée

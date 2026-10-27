@@ -28,6 +28,6 @@ Associations :
 - [[Daphno laureolae-Fraxinetum excelsioris]] Vanden Berghen ex Renaux et al. 2015 ; 
 - [[Melico uniflorae-Ostryetum carpinifoliae]] Lapraz 1984 ; 
 - [[Symphyto tuberosi-Fraxinetum excelsioris]] Choisnet et Le Hénaff ex Renaux et al. 2019
-- [[Carici pendulae-Fraxinetum angustifolia]]
+- [[Carici pendulae-Fraxinetum angustifoliae]]
 
 
