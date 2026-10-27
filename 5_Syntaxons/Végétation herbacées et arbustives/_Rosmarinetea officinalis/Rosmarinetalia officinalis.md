@@ -21,4 +21,4 @@ Alliances :
 - [[Sedo sediformis-Thymion vulgaris]] Choisnet 2019 nom. ined. (1)
 
 Associations :
-- [[Groupement à Helictochloa bromoides et Festuca marginata]]
+- [[Groupement à Helictochloa bromoides et Festuca marginata]] Choisnet, 2019 ;

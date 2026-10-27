@@ -47,5 +47,5 @@ Associations :
 - [[Scrophulario caninae-Artemisietum campestris]] Billy ex J.-M. Royer et al. 2006 ; 
 - [[Sedo micranthi-Echietum vulgaris]] Loiseau et Felzines 2010 ; 
 - [[Sedo rupestris-Festucetum longifoliae]] Loiseau et Felzines 2010 ; 
-- [[Groupement à Bothriochloa ischaemum et Artemisia campestris]]
+- [[Groupement à Bothriochloa ischaemum et Artemisia campestris]] Choisnet, 2019 ;
 - [[Sedo sexangularis-Thymetum pulegioidis]] Billy ex Loiseau et Felzines 2010

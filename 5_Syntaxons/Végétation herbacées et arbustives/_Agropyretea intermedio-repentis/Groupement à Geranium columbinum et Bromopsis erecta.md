@@ -23,7 +23,7 @@ Ce groupement xérophile et mésotrophile des sols argileux décarbonatés est l
 [[Geranium columbinum]], [[Campanula rapunculus]], [[Lathyrus aphaca]], [[Trisetum flavescens]], [[Orlaya grandiflora]], [[Malva setigera]], [[Petrorhagia prolifera]], [[Trifolium campestre]].
 
 **Espèces constantes** :
-[[Bromopsis erecta]], [[Thymus vulgaris]], Dactylis glomerata subsp. hispanica, [[Bituminaria bituminosa]], [[Medicago minima]]. C5 C4 C3 C2 C1 0,0444303 0,1444303 0,2444303 0,3444303 0,4444303 0,5444303 0,6444303 0,7444303 0,8444303 0,9444303 Similarité C1 : groupements oligo-mésotrophiles à Brachypodium retusum ou B. phoenicoides C2 : groupements mésotrophiles post-culturaux ou alluviaux dominés par Brachypodium phoenicoides ou Bromopsis erecta avec [[Agrimonia eupatoriae]]Brachypodietum phoenicoidis, Centaureo asperae-Brachypodietum phoenicoidis et un ensemble de relevés fragmentaires C3 : Geranium columbinum-Bromopsis erecta-G, groupement post-cultural (4 rel.) C4 : Aristolochia clematitis-Elytrigia campestris-G groupement alluvial (4 rel.) C5 : 1 rel. isolé fragmentaire
+[[Bromopsis erecta]], [[Thymus vulgaris]], [[Dactylis glomerata subsp. hispanica]], [[Bituminaria bituminosa]], [[Medicago minima]]. 
 
 **Variations** :
 Le peu de matériel réuni n’a pas permis de mettre en évidence les variations de ce groupement.

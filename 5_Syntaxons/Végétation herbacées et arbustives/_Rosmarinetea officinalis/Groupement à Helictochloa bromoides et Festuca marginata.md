@@ -30,6 +30,6 @@ Anthyllis vulneraria subsp. rubriflora, [[Carex halleriana]], [[Centaurea panicu
 
 **Variations** :
 -
-
+ccc
 **Syntaxonomie et synsystématique** :
 Le profil sociologique de ce groupement le rapproche des garrigues à Thym commun de par la présence des taxons saxicoles et l’absence des éléments liés aux aphyllanthaies. Cette pelouse dérive par pâturage des ces garrigues. Au sein des Rosmarinetalia dans lesquels elle s’intègre bien, il est dificile de proposer en l’état des connaissances un rapprochement au niveau alliance : manque une unité regroupant les pelouses xérophiles.

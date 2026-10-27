@@ -13,4 +13,4 @@ sources:
 
 ## D'après Choisnet (2019)
 
-Peu de matériel réuni car ce groupement concerne les marges triassiques la zone d’étude. En lien avec une Aphyllanthaie (337372, 337374, 337375) et une Chênaie verte (338130, 338136) qui doivent être étudiées.
+Peu de matériel réuni car ce groupement concerne les marges triassiques la zone d’étude. En lien avec une Aphyllanthaie et une Chênaie verte qui doivent être étudiées.

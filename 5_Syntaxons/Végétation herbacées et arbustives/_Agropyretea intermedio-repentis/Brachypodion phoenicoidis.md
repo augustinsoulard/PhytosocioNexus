@@ -34,8 +34,8 @@ Associations :
 - [[Diantho balbisii-Brachypodietum rupestris]] R.J. Loisel ex B. Foucault 2019 ; 
 - [[Helichryso italici-Dittrichietum viscosae]] Di Pietro et al. ex B. Foucault et Jasprica 2019 ; 
 - [[Loto hirsuti-Brachypodietum phoenicoidis ]]Choisnet 2019 nom. ined. (1) ; 
-- [[Groupement à Geranium columbinum et Bromopsis erecta]]
-- [[Groupement à Aristolochia clematitis et Elytrigia campestris]]
-- [[Agrimonia eupatoriae-Brachypodietum phoenicoidis]]
-- [[Groupement à Teucrium chamaedrys et Brachypodium phoenicoides]]
+- [[Groupement à Geranium columbinum et Bromopsis erecta]] Choisnet, 2019 ;
+- [[Groupement à Aristolochia clematitis et Elytrigia campestris]]  Choisnet, 2019 ;
+- [[Agrimonia eupatoriae-Brachypodietum phoenicoidis]]  Choisnet, 2019 ;
+- [[Groupement à Teucrium chamaedrys et Brachypodium phoenicoides]]  Choisnet, 2019 ;
 - [[Trisetario-Brachypodietum phoenicoidis]] (A. Bolòs et O. Bolòs 1950) O. Bolòs 1956

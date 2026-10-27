@@ -30,11 +30,11 @@ Associations :
 - [[Hedysaro spinosissimi-Phagnaletum rupestris]] Zevaco 1967 ; 
 - [[Loto cytisoidis-Dactyletum hispanicae]] Biondi et al. 2001 ; 
 - [[Melico ciliatae-Brachypodietum retusi]] Bacchetta et al. 2005 ; 
-- [[Phlomido lychnitidis-Brachypodietum ramosi]] Braun-Blanquet 1925 ; 
+- [[Phlomido lychnitidis-Brachypodietum retusi]] Braun-Blanquet 1925 ; 
 - [[Rumici intermedii-Brachypodietum retusi]] Choisnet 2019 nom. ined. (1) ; 
 - [[Teucrio pseudochamaepityos-Brachypodietum ramosi]] O. Bolòs 1957 ; 
 - [[Phlomido lychnitidis-Brachypodietum retusi]] Braun-Blanq. 1925
-- [[Groupement à Cistus albidus et Brachypodium retusum]]
-- [[Groupement à Artemisia alba et Bromopsis erecta]]
-- [[Groupement à Lavandula angustifolia et Brachypodium retusum]]
+- [[Groupement à Cistus albidus et Brachypodium retusum]] Choisnet 2019 ;
+- [[Groupement à Artemisia alba et Bromopsis erecta]] Choisnet 2019 ;
+- [[Groupement à Lavandula angustifolia et Brachypodium retusum]] Choisnet 2019 ;
 - [[Thymo vulgaris-Euphorbietum spinosae]] Guinochet 1975
