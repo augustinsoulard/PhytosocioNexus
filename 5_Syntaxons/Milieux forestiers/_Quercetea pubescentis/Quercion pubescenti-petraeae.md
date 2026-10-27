@@ -24,3 +24,6 @@ Sous-alliances :
 
 Associations :
 - [[Groupement à Quercus pubescens et Erica scoparia]] Noblet et Baret, 2019
+- [[Groupement à Cotinus coggygria et Fagus sylvatica]] Choisnet 2019 ;
+- [[Groupement à Galium aparine et Quercus pubescens]] Choisnet 2019 ;
+- [[Groupement à Polystichum setiferum et Acer monspessulanum]] Choisnet 2019 ;

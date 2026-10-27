@@ -15,7 +15,7 @@ sources:
 ## D'après Choisnet (2019)
 
 **Diagnose** :
-Prairie méditerranéenne hygrophile des calcaires du BasVivarais, liée aux systèmes rivulaires.
+Prairie méditerranéenne hygrophile des calcaires du Bas-Vivarais, liée aux systèmes rivulaires.
 
 **Synécologie** :
 Le Molinio arundinaceae-Pulicarietum dysentericae est un groupement hygrophile et mésotrophile des ruisseaux temporaires, se situant le plus souvent entre 10 cm et 50 cm de hauteur par rapport au lit mineur. Il colonise des sols profonds hydromorphes (traces d’oxydation entre 0 et 15 cm) limonoargileux à argilo-sableux carbonatés, issus d’alluvions calcaires, à l’étage mésoméditerranéen.

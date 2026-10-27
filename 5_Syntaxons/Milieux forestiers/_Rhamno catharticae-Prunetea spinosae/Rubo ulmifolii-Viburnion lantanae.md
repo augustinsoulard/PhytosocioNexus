@@ -26,6 +26,7 @@ Associations :
 - [[Aceri monspessulani-Euonymetum europaei]] Botineau et al. 1998 ; 
 - [[Coluteo arborescentis-Loniceretum etruscae]] Billy ex B. Foucault et J.-M. Royer 2016 ; 
 - [[Erico scopariae-Spiraeetum obovatae]] Botineau et Ghestem 1994 ; 
+- [[Groupement à Clematis vitalba et Cornus sanguinea]] Choisnet, 2019 ;
 - [[Hippocrepido emeri-Coriarietum myrtifoliae]] B. Foucault 2018 ; 
 - [[Rhamno infectoriae-Ericetum scopariae]] Botineau et Ghestem 1994 ; 
 - [[Roso micranthae-Prunetum spinosae]] B. Foucault 1989 ; 

@@ -1,9 +1,9 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Polypodion serrati]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_superieur: "[[Asplenion glandulosi]]"
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-10-17
 auteurs:
   - Augustin Soulard

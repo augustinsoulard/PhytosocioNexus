@@ -29,6 +29,6 @@ Associations :
 - [[Pterido aquilini-Quercetum pubescentis]] (Susplugas 1942) O. Bolòs 1983 ; 
 - [[Querco pubescentis-Aceretum opali ]]Braun-Blanquet 1952 ; 
 - [[Rhamno alaterni-Quercetum pubescentis]] Lapraz 1962 ; 
-- [[Clematido flammulae-Quercetum pubescentis]]
-- [[Teucrio chamaedrys-Quercetum pubescentis]]
+- [[Clematido flammulae-Quercetum pubescentis]] Choisnet 2019 ;
+- [[Teucrio chamaedrys-Quercetum pubescentis]] Choisnet 2019 ;
 - [[Salvio glutinosae-Quercetum pubescentis]] Choisnet in Renaux et al. 2015

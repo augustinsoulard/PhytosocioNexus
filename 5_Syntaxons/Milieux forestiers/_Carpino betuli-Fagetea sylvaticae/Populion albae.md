@@ -23,8 +23,6 @@ ZH : oui
 
 ![[174 - Populion albae.jpg]]
 Associations :
+- [[Aristolochio clematitis-Fraxinetum angustifoliae]] Choisnet, 2019 ;
 - [[Fraxino angustifoliae-Alnetum glutinosae]] Tchou 1949 nom. invers. Renaux et al. 2019 ; 
 - [[Populetum albae]] Braun-Blanquet ex Tchou 1949
-
-Sous-alliances :
-- [[Populenion albae]] (Braun-Blanq. 1931) Rivas Mart. 1975

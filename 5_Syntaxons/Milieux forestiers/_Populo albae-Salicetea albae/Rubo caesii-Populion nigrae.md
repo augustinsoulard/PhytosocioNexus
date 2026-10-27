@@ -23,6 +23,7 @@ ZH : oui
 
 ![[418 - Rubo caesii-Populion nigrae.jpg]]
 Associations :
+- [[Groupement à Phalaris arundinacea et Alnus glutinosa]]  Choisnet, 2019 ;
 - [[Phalarido arundinaceae-Populetum nigrae]] Varèse 1993 ; 
 - [[Salicetum fragili-albae]] Tüxen ex H. Passarge 1956 ; 
 - [[Salicetum fragilis]] H. Passarge 1957 ; 

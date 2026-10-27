@@ -14,7 +14,7 @@ sources:
 ## D'après Choisnet (2019)
 
 **Diagnose** :
-[[Pelouses à]] Deschampsia media temporo-hygrophile des substrats argileux de l’étage mésoméditerranéen.
+Pelouses à Deschampsia media temporo-hygrophile des substrats argileux de l’étage mésoméditerranéen.
 
 **Synécologie** :
 Le groupement se développe souvent en linéaire au niveau de petit talweg temporairement inondés par les eaux de ruisselement. Il est principalement lié aux substrats marneux argileux très carbonatés et présente en surface des traces d’oxydation racinaires.

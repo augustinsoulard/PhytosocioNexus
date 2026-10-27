@@ -21,5 +21,3 @@ Ordres :
 - [[Sambucetalia racemosae]] Oberdorfer ex H. Passarge in Scamoni 1963
 
 
-Associations :
-- [[Groupement à Clematis vitalba et Cornus sanguinea]]

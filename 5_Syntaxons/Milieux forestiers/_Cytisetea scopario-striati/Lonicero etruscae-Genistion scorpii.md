@@ -1,7 +1,7 @@
 ---
 tags:
   - alliance
-syntaxon_superieur: "[[Cytisetea scopario-striati]]"
+syntaxon_superieur: "[[Cytisetalia scopario-striati]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27
@@ -13,7 +13,7 @@ sources:
 **Description** : Prémanteaux méditerranéens des sols calcaires à Genista scorpius.
 
 Associations :
-- [[Groupement à Phillyrea angustifolia et Genista scorpius]]
-- [[Rhamno saxatilis-Genistetum scorpii]]
-- [[Corno sanguineae-Genistetum scorpii]]
-- [[Groupement à Cistus albidus et Genista scorpius]]
+- [[Groupement à Phillyrea angustifolia et Genista scorpius]] Choisnet, 2019 ;
+- [[Rhamno saxatilis-Genistetum scorpii]] Choisnet, 2019 ;
+- [[Corno sanguineae-Genistetum scorpii]] Choisnet, 2019 ;
+- [[Groupement à Cistus albidus et Genista scorpius]] Choisnet, 2019 ;

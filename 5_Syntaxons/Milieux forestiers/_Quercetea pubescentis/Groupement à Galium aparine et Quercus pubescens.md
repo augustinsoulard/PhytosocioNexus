@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Quercion pubescenti-sessiliflorae]]"
+syntaxon_superieur: "[[Quercion pubescenti-petraeae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

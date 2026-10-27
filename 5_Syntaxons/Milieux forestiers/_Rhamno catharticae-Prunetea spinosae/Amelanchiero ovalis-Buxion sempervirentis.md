@@ -22,4 +22,4 @@ Sous-alliances :
 - [[Cotoneastro integerrimi-Amelanchierenion ovalis]] B. Foucault et Julve ex B. Foucault et J.-M. Royer 2016
 
 Associations :
-- [[Junipero oxycedri-Amelanchieretum ovalis]]
+- [[Junipero oxycedri-Amelanchieretum ovalis]] Choisnet, 2019 ;

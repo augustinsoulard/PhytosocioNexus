@@ -14,7 +14,7 @@ sources:
 ## D'après Choisnet (2019)
 
 **Diagnose** :
-Préforêts mésoméditerranéennes des sols peu épais marno-calcaricoles et calcaricoles du BasVivarais.
+Préforêts mésoméditerranéennes des sols peu épais marno-calcaricoles et calcaricoles du Bas-Vivarais.
 
 **Synécologie** :
 Ces chênaies vertes, mixtes et pubescentes se développent sur les calcaires marneux et les calcaires durs du Crétacé et du Jurassique. Elles se maintiennent sur des pierreux peu épais liés à des versants pentus convexes.
@@ -32,4 +32,4 @@ Groupement différencié des préforêts précédentes par la présence de : [[E
 Les variations mises en évidence sont liées à la maturité des communautés et à la nature des sols. Var. à [[Aphyllanthes monspeliensis]] (fm17a), communautés enrichies en éléments pelousaires. Var. à [[Arbutus unedo]] (fm17a1) sur sols argileux décarbonatés. Var. type (fm17b). Le groupement peut être mis en lien dynamique avec Viburno tini-Quercetum ilicis et le Clematido flammulae-Quercetum pubescentis Choisnet, 2019
 
 **Syntaxonomie et synsystématique** :
-On peut reconnaître la présence de ces chênaies juvéniles dans les relevés du Viburno tiniQuercetum ilicis (BRAUN-BLANQUET 1936, BRAUN-BLANQUET et al. 1952), où les espèces héliophiles [[Bupleurum rigidum]], [[Brachypodium retusum]], [[Teucrium chamaedrys]] (…) sont présentes avec souvent des fortes fréquences (IV). On pourrait sans doute rapprocher le Bupleurum rigidum-Quercus pubescens-G du Viburno tini-Quercetum ilicis. Mais son individualité floristique mise en évidence par les analyses statistiques incite à individualiser une unité particulière (voir § 3.1.3). Les associations apparentées au Quercion pubescenti-sessiliflorae
+On peut reconnaître la présence de ces chênaies juvéniles dans les relevés du [[Viburno tini-Quercetum ilicis]] (BRAUN-BLANQUET 1936, BRAUN-BLANQUET et al. 1952), où les espèces héliophiles [[Bupleurum rigidum]], [[Brachypodium retusum]], [[Teucrium chamaedrys]] (…) sont présentes avec souvent des fortes fréquences (IV). On pourrait sans doute rapprocher le Bupleurum rigidum-Quercus pubescens-G du Viburno tini-Quercetum ilicis. Mais son individualité floristique mise en évidence par les analyses statistiques incite à individualiser une unité particulière. Les associations apparentées au Quercion pubescenti-sessiliflorae

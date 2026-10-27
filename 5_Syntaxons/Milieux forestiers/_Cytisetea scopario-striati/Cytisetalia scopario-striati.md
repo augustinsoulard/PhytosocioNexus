@@ -15,7 +15,8 @@ sources:
 **Espèces caractéristiques** : [[Cytisus scoparius]], [[Cytisus oromediterraneus]], [[Ulex europaeus]]
 
 Alliances :
-- [[Cytision oromediterranei]] Tüxen in Tüxen et Oberdorfer 1958
-- [[Sarothamnion scoparii]] Tüxen ex Oberdorfer 1957
-- [[Ulici europaei-Cytision striati]] Rivas Martínez et al. 1991
-- [[Frangulo alni-Pyrion cordatae]] M. Herrera et al. 1991
+- [[Cytision oromediterranei]] Tüxen in Tüxen et Oberdorfer 1958 ;
+- [[Sarothamnion scoparii]] Tüxen ex Oberdorfer 1957 ;
+- [[Ulici europaei-Cytision striati]] Rivas Martínez et al. 1991 ;
+- [[Frangulo alni-Pyrion cordatae]] M. Herrera et al. 1991 ;
+- [[Lonicero etruscae-Genistion scorpii]] Choisnet, 2019 ;

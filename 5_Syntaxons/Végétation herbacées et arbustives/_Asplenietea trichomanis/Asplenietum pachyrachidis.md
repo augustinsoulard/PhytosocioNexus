@@ -18,7 +18,7 @@ sources:
 Végétation des parois calcaires semi-héliophiles ou des murets des étages méditerranéens.
 
 **Synécologie** :
-Ce groupement est lié aux anfractuosités des parois calcaires en contexte semi-héliophile. [[On l]]’observe en haut des failles au sein des lapiés, dans des surplombs de falaise ; également observé plus rarement au niveau de murets de pierres sèches.
+Ce groupement est lié aux anfractuosités des parois calcaires en contexte semi-héliophile. On l’observe en haut des failles au sein des lapiés, dans des surplombs de falaise ; également observé plus rarement au niveau de murets de pierres sèches.
 
 **Combinaison différentielle** :
 [[Asplenium ruta-muraria]].

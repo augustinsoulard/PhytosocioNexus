@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Salicion albae]]"
+syntaxon_superieur: "[[Rubo caesii-Populion nigrae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

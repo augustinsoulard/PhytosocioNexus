@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Rhamno catharticae-Prunetea spinosae]]"
+syntaxon_superieur: "[[Rubo ulmifolii-Viburnion lantanae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

@@ -21,7 +21,7 @@ Aulnaies-Frênaies à Fraxinus angustifolia méditerranéennes rivulaires, des b
 Les communautés se développent en étroit liseré le long des cours d’eau au niveau des plus basses banquettes alluviales (hauteur sur l’eau = 0,2 à 0,5 m). Elles caractérisent des alluvions calcaires carbonatées siliceuses (subass. type) ou basaltiques (equisetetosum telmateiae).
 
 **Combinaison différentielle** :
-[[Alnus glutinosa]], [[Carex pendula]], [[Equisetum arvense]], [[Eupatorium cannabinum]], Populus gr. alba, [[Populus nigra]].
+[[Alnus glutinosa]], [[Carex pendula]], [[Equisetum arvense]], [[Eupatorium cannabinum]], [[Populus alba]] gr, [[Populus nigra]].
 
 **Espèces constantes** :
 [[Fraxinus angustifolia]], [[Hedera helix]].
