@@ -20,3 +20,7 @@ ZH : non spécifié
 Sous-alliances :
 - [[Chamaespartio sagittalis-Agrostienion tenuis]] Vigo ex J.-M. Royer et Ferrez 2020
 - [[Mesobromenion erecti]] Braun-Blanquet et Moor 1938
+
+Associations :
+- [[Groupement à Genista tinctoria et Bromopsis erecta]]
+- [[Groupement à Peucedanum officinale et Bromopsis erecta]]

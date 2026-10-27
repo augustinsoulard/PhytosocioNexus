@@ -26,5 +26,8 @@ ZH : non
 Associations :
 - [[Sedetum micrantho-sediformis]] O. Bolòs et Masalles in O. Bolòs 1981 ; 
 - [[Sedetum ochroleuco-sediformis]] B. Foucault ex B. Foucault et al. in J.-M. Royer et Ferrez 2018
+- [[Groupement à Euphorbia flavicoma et Sedum album]]
+- [[Groupement à Muscari neglectum et Sedum album]]
+- [[Groupement à Festuca arvernensis et Sedum sediforme]]
 
 Note CatVeg : cette alliance constitue la limite écologique de la classe vers le domaine méditerranéen où elle est progressivement remplacée par les Stipo capensis-Trachynietea distachyae. L’alliance est ainsi principalement différenciée par un appauvrissement floristique en espèces des Sedo-Scleranthetea. Une intégration dans l'Alysso alyssoidis-Sedion albi reste à étudier.

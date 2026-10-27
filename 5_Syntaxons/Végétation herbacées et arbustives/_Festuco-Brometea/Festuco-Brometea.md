@@ -20,3 +20,5 @@ Ordres :
 - [[Brometalia erecti]] W. Koch 1926
 - [[Festucetalia valesiacae]] Braun-Blanquet et Tüxen ex Braun-Blanquet 1950
 - [[Ononidetalia striatae]] Braun-Blanquet et al. ex Braun-Blanquet 1950
+
+Associations :

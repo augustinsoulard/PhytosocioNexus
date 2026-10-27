@@ -23,3 +23,8 @@ Ordre :
 - [[Cheilanthetalia maranto-maderensis]] Sáenz de Rivas et Rivas Martínez 1979
 - [[Violo biflorae-Cystopteridetalia alpinae]] Fernández Casas 1970
 - [[Potentilletalia caulescentis]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926
+
+Associations :
+- [[Groupement à Parietaria judaica]]
+- [[Groupement à Parietaria judaica et Asplenium scolopendrium]]
+- [[Groupement à Umbilicus rupestris et Geranium purpureum]]

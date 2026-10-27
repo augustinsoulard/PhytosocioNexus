@@ -21,3 +21,7 @@ Ordres :
 - [[Stipo capensis-Bupleuretalia semicompositi]] Brullo ex Brullo et al. 2001
 
 Note CatVeg : l'étude de l'intégration de l'ensemble des pelouses basiphiles à annuelles d'Europe dans une même grande classe, et notamment des associations les plus septentrionales, comme le propose de Foucault (1999), reste à entreprendre.
+
+Associations :
+- [[Groupement à Trifolium angustifolium et Medicago minima]]
+- [[Groupement à Phleum arenarium et Bromus squarrosus]]

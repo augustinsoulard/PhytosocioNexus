@@ -20,3 +20,6 @@ Ordres :
 - [[Pyro spinosae-Rubetalia ulmifolii]] Biondi et al. in Biondi et al. 2014
 - [[Sambucetalia racemosae]] Oberdorfer ex H. Passarge in Scamoni 1963
 
+
+Associations :
+- [[Groupement à Clematis vitalba et Cornus sanguinea]]

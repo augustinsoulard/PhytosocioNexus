@@ -33,4 +33,5 @@ Associations :
 - [[Staticetum echioidis]] Tallon ex Braun-Blanquet et al. 1952 ; 
 - [[Trifolietum leucantho-stellati]] Laigneau et Corriol 2019 ; 
 - [[Trifolio nigrescentis-Helianthemetum salicifolii]] Laigneau et Corriol 2019 ; 
+- [[Groupement à Geranium purpureum et Hornungia petraea]]
 - [[Vulpio ciliatae-Crepidetum foetidae]] Vernier 1979

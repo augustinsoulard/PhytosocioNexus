@@ -36,6 +36,7 @@ Associations :
 - [[Ranunculo ophioglossifolii-Caricetum cuprinae]] Corriol et al. 2009 ; 
 - [[Ranunculo ophioglossifolii-Oenanthetum fistulosae]] B. Foucault 2008 ; 
 - [[Baldellio ranunculoidisOenanthetum fistulosae]] G. Mercadal et al. ex G. Mercadal et al. in G. Mercadal 2018
+- [[Groupement à Galium debile et Ranunculus repens]]
 
 
 

@@ -43,4 +43,5 @@ Associations :
 - [[Platanthero bifoliae-Molinietum arundinaceae]] E. Henry 2019 ; 
 - [[Senecioni erucifolii-Blackstonietum perfoliatae]] Braque ex J.-M. Royer et Ferrez 2020 ; 
 - [[Serapiado vomeraceae-Danthonietum decumbentis]] F. Blanchard et T. Lamothe 2005 ; 
+- [[Groupement à Lotus maritimus et Catananche caerulea]]
 - [[Succiso pratensis-Brachypodietum pinnati]] (Géhu 1959) Géhu et al. 1984

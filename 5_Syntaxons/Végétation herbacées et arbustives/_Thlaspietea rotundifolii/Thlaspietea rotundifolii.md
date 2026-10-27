@@ -28,3 +28,6 @@ Ordres :
 
 
 Note CatVeg : cette classe complexe n'a pas fait l'objet de synthèse nationale ou européenne récente. Nous nous appuyons donc sur la structure imparfaite de Bardat et al. (2004). Le Pimpinello tragii-Gouffeion arenarioidis, initialement inclus dans les Andryaletalia ragusinae Rivas Goday in Rivas Goday et Esteve 1972 mais dépourvu des espèces caractéristiques de cet ordre, a été déplacé dans les Stipetalia calamagrostis. Ce choix a été également pris par Mucina et al. (2016) et Rivas Goday & Esteve (1972). L'ordre des Andryaletalia ragusinae devient par conséquent orphelin et est abandonné en France.
+
+Associations :
+- [[Groupement à Arrhenatherum elatius et Epilobium dodonaei]]
