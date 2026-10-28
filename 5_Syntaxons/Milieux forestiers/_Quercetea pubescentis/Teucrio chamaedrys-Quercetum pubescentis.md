@@ -20,7 +20,7 @@ Préforêts supraméditerranéennes et mésoméditerranéennes marno-calcaricole
 Ces préforêts supraméditerranéennes et mésoméditerranéennes sont liées aux calcaires marneux et aux marnes du Crétacé et du Jurassique. Elles constituent le groupement le plus répandu sur les calcaires à miches de l’Hautérivien entre 150 et 470 m d’altitude. Les communautés sont liées à des sols moyennement épais (20 cm) à pierrosité moyenne, argileux à argilo-limoneux le plus souvent carbonatés.
 
 **Composition floristique** :
-Ces groupements se distinguent par la forte représentation des taxons héliophiles des pelousesourlets et des garrigues.
+Ces groupements se distinguent par la forte représentation des taxons héliophiles des pelouses-ourlets et des garrigues.
 
 **Combinaison différentielle** :
 [[Aphyllanthes monspeliensis]], [[Bituminaria bituminosa]], [[Brachypodium rupestre]], [[Bromopsis erecta]], [[Carex humilis]], Dactylis glomerata subsp. hispanica, [[Festuca marginata]], [[Lotus dorycnium]], [[Ranunculus bulbosus]], [[Silene nutans]], [[Teucrium chamaedrys]].
