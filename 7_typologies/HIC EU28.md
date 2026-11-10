@@ -4,6 +4,10 @@ Fiches extraites des Cahiers d'habitats (Bensettiti et al. - 2004 - Habitats roc
 Une fiche par habitat : générique (ex. [[8110]]) et élémentaires (ex. [[8110-1]]).
 Données source (trace) : `HIC_EU28_fiches.csv`, `HIC_EU28_sections.csv`, `HIC_EU28_images.csv` dans ce dossier ; images dans `4_Photos\img_hic/`.
 
+****
+> [!attention]
+> **IL Y A ENCORE BEAUCOUP DE TRAVAIL DANS CETTE SECTION. LES INFORMATIONS SONT A PRENDRE AVEC PRUDENCE NOTAMMENT POUR LES ATTRIBUTIONS PHYTOSOCOLOGIQUES QUE L'OCR A MAL RETRANSCRIT.**
+
 #### Éboulis rocheux (81xx)
 
 - [[8110]] Éboulis siliceux de l’étage montagnard à nival
