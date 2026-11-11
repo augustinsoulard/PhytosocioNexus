@@ -1,0 +1,1 @@
+Sous-espèce : [[Elytrigia repens subsp. repens]]

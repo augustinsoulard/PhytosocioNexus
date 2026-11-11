@@ -1,7 +1,7 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Populenion albae]]"
+syntaxon_superieur: "[[Populion albae]]"
 syntaxon_inferieur:
 especes_indicatrices:
 date_maj: 2026-10-27

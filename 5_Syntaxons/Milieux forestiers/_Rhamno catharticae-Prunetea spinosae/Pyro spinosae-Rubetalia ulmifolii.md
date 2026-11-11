@@ -4,17 +4,19 @@ tags:
 syntaxon_superieur: "[[Rhamno catharticae-Prunetea spinosae]]"
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-11-11
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Offerhaus et al. - 2026 - Notes connaissances végétations de la France méditerranéenne.pdf]]"
 ---
 **Description :**  Végétation arbustive thermophile des sols riches en nutriments sous climat tempéré à hiver doux de l'Europe atlantique, subméditerranéenne et de la Macaronésie. 
 
 Espèces indicatrices : [[Rubus ulmifolius]], [[Dioscorea communis]], [[Rubia peregrina]], [[Lonicera periclymenum]]
 
 Alliances :
+- [[Arundo plinii-Rubion ulmifolii]] Biondi, Blasi, Casavecchia et Gasparri in Biondi et al. 2014
 - [[Cytision sessilifolii]] Biondi in Biondi et al. 1988
 - [[Dioscoreo communis-Salicion atrocinereae]] B. Foucault et Julve ex B. Foucault et J.-M. Royer 2016
 - [[Lonicerion periclymeni]] Géhu et al. ex B. Foucault et J.-M. Royer 2016

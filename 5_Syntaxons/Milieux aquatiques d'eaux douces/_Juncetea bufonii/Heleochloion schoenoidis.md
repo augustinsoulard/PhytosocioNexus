@@ -4,11 +4,12 @@ tags:
 syntaxon_superieur: "[[Elatino triandrae-Cyperetalia fusci]]"
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-11-11
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Offerhaus et al. - 2026 - Notes connaissances végétations de la France méditerranéenne.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 
@@ -28,7 +29,8 @@ Associations :
 - [[Crypsio schoenoidis-Cyperetum micheliani]] Martínez Parras et al. 1988 ; 
 - [[Cypero fusci-Crypsidetum alopecuroidis]] F. Prud'homme et al. in Corriol et al. 2022 ; 
 - [[Echinochloo cruris-galli-Crypsietum schoenoidis]] Paradis et C. Lorenzoni 1994 ; 
-- [[Gnaphalio uliginosi-Crypsietum schoenoidis]] Guitton et Terrisse 2015 ; 
+- [[Gnaphalio uliginosi-Crypsietum schoenoidis]] Guitton et Terrisse 2015 ;
+- [[Gnaphalio luteoalbi-Verbenetum supinae]] Rivas Goday 1970 nom. invers. (Offerhaus et al. 2026) ; 
 - [[Heleochloo schoenoidis-Fimbristylidetum bisumbellatae]] Braun-Blanquet ex Braun-Blanquet et Rivas Goday in Rivas Goday 1955 corr. Brullo et Minissale 1998 ; 
 - [[Heliotropio supini-Heleochloetum schoenoidis ]]Rivas Goday 1956
 

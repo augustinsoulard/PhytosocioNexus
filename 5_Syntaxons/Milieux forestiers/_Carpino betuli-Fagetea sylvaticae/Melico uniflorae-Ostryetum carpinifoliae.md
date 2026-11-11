@@ -2,14 +2,14 @@
 tags:
   - association
 syntaxon_superieur: "[[Buxo sempervirentis-Fraxinion angustifoliae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-11-10
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
-  - "[[Offerhaus - 2026 - Contribution à l’étude phytosociologique des forêts à Carpinus ostrya, Fraxinus ornus et Quercus ilex à l’étage mésoméditerranéen des Alpes-Maritimes.pdf]]"
+  - "[[Offerhaus - 2026 - Contribution étude phytosociologique étage mésoméditerranéen des Alpes-Maritimes.pdf]]"
 ---
 Syn. : Melico uniflorae-Ostryetum Lapraz 1979 nom. inval. (art. 5) pro parte ; nom muté : Melico uniflorae-Carpinetum ostryae Lapraz nom. mut. nov. et ass. nov. hoc loco (Offerhaus 2026).
 

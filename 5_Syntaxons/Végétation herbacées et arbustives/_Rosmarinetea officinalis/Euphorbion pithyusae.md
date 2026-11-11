@@ -4,11 +4,12 @@ tags:
 syntaxon_superieur:
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-11-11
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Offerhaus et al. - 2026 - Notes connaissances végétations de la France méditerranéenne.pdf]]"
 ---
 **Description** : Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur substrats rocheux du littoral tyrrhénien de la Méditerranée nord-occidentale. Falaises des Alpes-maritimes et de Corse
 
@@ -33,7 +34,8 @@ Associations :
 - [[Helichryso italici-Thymeleaetum tartonrairae]] Bioret et al. 2017 ; 
 - [[Helichryso microphylli-Artemisietum densiflorae]] Biondi 1992 ; 
 - [[Helichryso microphylli-Asteriscetum maritimi]] (Gamisans 1990) Géhu et Biondi 1994 ; 
-- [[Helichryso microphylli-Astragaletum terraccianoi]] Géhu et al. 1987 ; 
+- [[Helichryso microphylli-Astragaletum terraccianoi]] Géhu et al. 1987 ;
+- [[Loto hirsuti-Euphorbietum spinosae]] V. Noble, Offerhaus & Frachon 2026 ass. nov. ; 
 - [[Matthiolo incanae-Anthyllidetum cytisoides]] V. Noble et Baret 2019 nom. ined. (1) ; 
 - [[Plantagini subulatae-Dianthetum catalaunici ]]Géhu et al. 1988 ; 
 - [[Senecioni cinerariae-Helichrysetum microphylli]] Gamisans et Paradis 1992 ; 

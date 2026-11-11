@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches mésoxérophiles méditerranéo-atlantiques (Alliance située provisoirement par CatVeg dans les Galio-Urticetea, mais pour des raisons à la fois physionomiques, floristiques et écologiques, elle semble mieux située ici - [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine]])
+**Description** : Friches mésoxérophiles méditerranéo-atlantiques
 
 **Espèces caractéristiques** : [[Smyrnium olusatrum]], [[Galium aparine]]
 

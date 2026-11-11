@@ -1,9 +1,9 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Phalaridion arundinaceae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_superieur: "[[Convolvulion sepium]]"
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-10-17
 auteurs:
   - Augustin Soulard

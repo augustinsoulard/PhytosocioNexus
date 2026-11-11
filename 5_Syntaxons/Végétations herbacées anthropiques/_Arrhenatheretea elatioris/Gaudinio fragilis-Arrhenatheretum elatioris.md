@@ -1,9 +1,9 @@
 ---
 tags:
   - association
-syntaxon_superieur: "[[Brachypodio rupestris-Centaureion nemoralis]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_superieur: "[[Lino angustifolii-Oenanthenion pimpinelloidis]]"
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-10-17
 auteurs:
   - Augustin Soulard
