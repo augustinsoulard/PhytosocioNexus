@@ -13,8 +13,7 @@ sources:
 
 ## D'après Choisnet (2019)
 
-**Diagnose** :
-Thérophytaie mésotrophile alluviale mésoxérophile des ruisseaux temporaires mésoméditerranéens.
+**Diagnose** : Thérophytaie mésotrophile alluviale mésoxérophile des ruisseaux temporaires mésoméditerranéens.
 
 **Synécologie** :
 Le groupement s’observe sur les dépôts alluviaux piégés dans les anfractuosités des lits rocheux des ruisseaux, sur sols argileux ou sablo-limoneux, décarbonatés (60-120 m d’altitude). Soumis aux crues annuelles, il se maintient entre 0,5 et 1,5 m de hauteur du lit du cours d’eau. Un relevé (C11) provient des hautes terrasses (hauteur/eau 6-8 m) rocheuses silico-calcaires du cours de l’Ardèche.

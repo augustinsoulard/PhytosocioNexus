@@ -13,4 +13,4 @@ sources:
 **Description** : Communautés alluviales, souvent liées à la dynamique fluviale.
 
 Associations :
-- [[Groupement à Oreoselinum nigrum et Corynephorus canescens]]
+- [[Groupement à Oreoselinum nigrum et Corynephorus canescens]] Choisnet, 2019

@@ -24,7 +24,7 @@ Elle se développe sur les terrasses alluviales les plus hautes (hauteur sur l�
 Le groupement est différencié par la coexistence des éléments des Quercetea ilicis, des Quercetea pubescentis, des Populetalia albae ainsi que des taxons "fluviaux".
 
 **Combinaison différentielle** :
-[[Acer monspessulanum]], [[Anthriscus sylvestris]], [[Arbutus unedo]], [[Aristolochia clematitis]], [[Asparagus acutifolius]], [[Brachypodium sylvaticum]], [[Buxus sempervirens]], Celtis australis, [[Clematis flammula]], [[Clematis vitalba]], [[Euonymus europaeus]], [[Ligustrum vulgare]], [[Melica uniflora]], [[Orobanche hederae]], [[Phillyrea latifolia]], [[Pteridium aquilinum]], [[Sedum cepaea]], [[Smilax aspera]], [[Sorbus torminalis]], [[Ulmus minor]], [[Viburnum tinus]], ,
+[[Acer monspessulanum]], [[Anthriscus sylvestris]], [[Arbutus unedo]], [[Aristolochia clematitis]], [[Asparagus acutifolius]], [[Brachypodium sylvaticum]], [[Buxus sempervirens]], Celtis australis, [[Clematis flammula]], [[Clematis vitalba]], [[Euonymus europaeus]], [[Ligustrum vulgare]], [[Melica uniflora]], [[Orobanche hederae]], [[Phillyrea latifolia]], [[Pteridium aquilinum]], [[Sedum cepaea]], [[Smilax aspera]], [[Torminalis glaberrima]], [[Ulmus minor]], [[Viburnum tinus]], ,
 
 **Espèces constantes** :
 [[Fraxinus angustifolia]], [[Hedera helix]], [[Quercus ilex]], [[Quercus pubescens]], [[Rubia peregrina]], Rubus ser. Discolores, [[Ruscus aculeatus]], [[Symphytum tuberosum]], [[Viola alba]].

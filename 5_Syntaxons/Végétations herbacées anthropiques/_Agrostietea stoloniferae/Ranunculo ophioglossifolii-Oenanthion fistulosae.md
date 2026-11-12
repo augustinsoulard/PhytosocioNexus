@@ -1,6 +1,6 @@
 ---
 tags:
-  - association
+  - alliance
 syntaxon_superieur: "[[Mentho pulegii-Eleocharitenalia palustris]]"
 syntaxon_inferieur:
 especes_indicatrices:
@@ -36,8 +36,4 @@ Associations :
 - [[Ranunculo ophioglossifolii-Caricetum cuprinae]] Corriol et al. 2009 ; 
 - [[Ranunculo ophioglossifolii-Oenanthetum fistulosae]] B. Foucault 2008 ; 
 - [[Baldellio ranunculoidisOenanthetum fistulosae]] G. Mercadal et al. ex G. Mercadal et al. in G. Mercadal 2018
-- [[Groupement à Galium debile et Ranunculus repens]]
-
-
-
-#alliance 
+- [[Groupement à Galium debile et Ranunculus repens]] Choisnet, 2019 ;
