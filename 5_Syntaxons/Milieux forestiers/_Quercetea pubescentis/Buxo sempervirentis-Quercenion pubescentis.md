@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Chênaies pubescentes ne dépassant pas les Cévennes, le sud du Massif central, les Causses du Quercy, et remontant dans le centre-ouest (en évitant le sud-ouest aquitain)
 
-**Espèces caractéristiques** : [[Quercus pubescens]], [[Acer monspessulanum]], [[Acer opalus]], [[Buxus sempervirens]], [[Sorbus domestica]], [[Rhamnus alaternus]], [[Lonicera etrusca]], [[Genista hispanica]], [[Cotinus coggygria]], [[Asphodelus ramosus]], [[Euphorbia duvalii]], [[Salvia glutinosa]], [[Saponaria ocymoides]]
+**Espèces caractéristiques** : [[Quercus pubescens]], [[Acer monspessulanum]], [[Acer opalus]], [[Buxus sempervirens]], [[Cormus domestica]], [[Rhamnus alaternus]], [[Lonicera etrusca]], [[Genista hispanica]], [[Cotinus coggygria]], [[Asphodelus ramosus]], [[Euphorbia duvalii]], [[Salvia glutinosa]], [[Saponaria ocymoides]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[G1.7111]]

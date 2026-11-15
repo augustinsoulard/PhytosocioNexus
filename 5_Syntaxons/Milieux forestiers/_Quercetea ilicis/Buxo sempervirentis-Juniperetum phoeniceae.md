@@ -18,11 +18,11 @@ Syn. : Rosmarino - Lithospermetum subass. à Juniperus phoenicea et Stipa juncea
 
 Espèces indicatrices : [[Juniperus phoenicea subsp. phoenicea]], [[Amelanchier ovalis]], [[Pistacia terebinthus]], [[Phillyrea latifolia]], [[Rosmarinus officinalis]].
 
-Écologie : Végétation xérophile des substrats rocailleux superficiels (lapiaz en particulier) en situation de pente, de crête, parfois sur replats ou au bénéfice de larges fissures dans les parois rocheuses. Étages méso- et supraméditerranéen.
+**Écologie** : Végétation xérophile des substrats rocailleux superficiels (lapiaz en particulier) en situation de pente, de crête, parfois sur replats ou au bénéfice de larges fissures dans les parois rocheuses. Étages méso- et supraméditerranéen.
 
-Chorologie BdR (13) : massifs de l'est du département et Alpilles.
+**Chorologie BdR (13)** : massifs de l'est du département et Alpilles.
 
-Précision dynamique : Cette végétation est globalement stable.
+**Précision dynamique** : Cette végétation est globalement stable.
 
 La nomenclature est particulièrement confuse autour de cette association. Nous typifions ici le Juniperetum oxycedro - phoeniceae Molin. 1958 par le rel. 11 du tableau IV in Molinier 1958 (Le massif de la Sainte-Baume. Considération d'ensemble d'après la nouvelle carte de 1/20.000eme. Bull. Mus. Hist. Nat. Marseille 18 : 45-104).
 

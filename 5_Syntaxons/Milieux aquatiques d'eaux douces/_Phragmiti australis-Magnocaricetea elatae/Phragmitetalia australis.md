@@ -25,4 +25,4 @@ Alliances :
 Note CatVeg : nous ne retenons pas le Phalaridion arundinaceae, sans réelle définition floristique et écologique (Landucci et al. 2022). Son type (Rorippo sylvestris-Phalaridetum arundinaceae) s'intègre bien dans le Convolvulion sepium, ce qui fait du Phalaridion arundinaceae un synonyme de cette alliance.
 
 Associations :
-- [[Groupement à Rorippa sylvestris et Leersia oryzoides]]
+- [[Groupement à Rorippa sylvestris et Leersia oryzoides]] Choisnet 2019

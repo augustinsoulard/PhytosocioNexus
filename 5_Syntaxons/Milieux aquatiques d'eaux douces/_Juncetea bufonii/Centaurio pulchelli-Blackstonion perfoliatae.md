@@ -37,6 +37,6 @@ Associations :
 - [[Lino cathartici-Blackstonietum perfoliatae]] B. Foucault et Julve 2002 nom. inval. (2b, 7) ; 
 - [[Lino stricti-Blackstonietum perfoliatae]] Julve et O. Marchal in Julve 2001 nom. ined. (1) ; 
 - [[Samolo valerandi-Cyperetum fusci]] Müller-Stoll et W. Pietsch ex W. Pietsch 1973 ; 
-- [[Sisymbrello asperae-Veronicetum anagalloidis]] Choisnet 2019 nom. ined. (1) ; 
-- [[Groupement à Lythrum hyssopifolia et Juncus bufonius]]
-- [[Trifolio lappacei-Juncetum bufonii]] Choisnet 2019 nom. ined. (1)
+- [[Sisymbrello asperae-Veronicetum anagalloidis]] Choisnet 2019 ; 
+- [[Groupement à Lythrum hyssopifolia et Juncus bufonius]] Choisnet 2019 ;
+- [[Trifolio lappacei-Juncetum bufonii]] Choisnet 2019

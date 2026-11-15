@@ -20,7 +20,7 @@ Pelouse amphibie thérophytique des lits rocheux longuement inondés des cours d
 Ce groupement mésoméditerranéen (60 à 180 m d’altitude) est lié aux bas-niveaux topographiques subissant des inondations temporaires longues. Il est inféodé à des plaquages d’alluvions calcaires des lits rocheux des cours d’eau temporaires ou au niveau de dépressions inondables (vasques), sur sols peu épais (2 à 10 cm de profondeur) limoneux et très carbonatés.
 
 **Composition floristique** :
-Groupement assez pauvre, surtout différencié négativement (du groupement précédent) par l’absence des taxons des pelouses annuelles.
+Groupement assez pauvre, surtout différencié négativement par l’absence des taxons des pelouses annuelles.
 
 **Combinaison différentielle** :
 [[Isolepis setacea]], [[Juncus articulatus]], [[Veronica anagalloides]].

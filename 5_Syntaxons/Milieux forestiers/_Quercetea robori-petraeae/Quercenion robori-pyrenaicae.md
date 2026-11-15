@@ -12,7 +12,7 @@ sources:
 ---
 **Description** : Chênaies sud et ouest atlantiques
 
-**Espèces caractéristiques** : [[Quercus pyrenaica]], [[Pinus pinaster]], [[Sorbus domestica]], [[Euonymus europaeus]], [[Ulex europaeus]], [[Dioscorea communis]], [[Rubia peregrina]], [[Lonicera periclymenum]], [[Erica vagans]], [[Daboecia cantabrica]], [[Hypericum androsaemum]], [[Pseudarrhenatherum longifolium]], [[Blechnum spicant]], [[Potentilla montana]], [[Peucedanum gallicum]], [[Pulmonaria longifolia]], [[Asphodelus albus]], [[Ranunculus serpens]]
+**Espèces caractéristiques** : [[Quercus pyrenaica]], [[Pinus pinaster]], [[Cormus domestica]], [[Euonymus europaeus]], [[Ulex europaeus]], [[Dioscorea communis]], [[Rubia peregrina]], [[Lonicera periclymenum]], [[Erica vagans]], [[Daboecia cantabrica]], [[Hypericum androsaemum]], [[Pseudarrhenatherum longifolium]], [[Blechnum spicant]], [[Potentilla montana]], [[Peucedanum gallicum]], [[Pulmonaria longifolia]], [[Asphodelus albus]], [[Ranunculus serpens]]
 
 - **Correspondances typologiques** :
 	- EUNIS : [[G1.84]] - [[G1.85]] (si Quercus pyrenaica dominant : [[G1.7B5]])

@@ -2,7 +2,7 @@
 8110;generique;8110;Éboulis siliceux de l’étage montagnard à nival;Androsacetalia alpinae et Galeopsietalia ladani;61.1;non;47;5;1;HIC_EU28/8110.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8110-1;elementaire;8110;Éboulis siliceux alpins à nivaux à éléments moyens et gros des Alpes;;61.11;non;50;21;1;HIC_EU28/8110-1.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8110-2;elementaire;8110;Éboulis siliceux subalpins à alpins à éléments fins des Alpes;;61.112;non;53;20;1;HIC_EU28/8110-2.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
-8110-3;elementaire;8110;Éboulis siliceux alpins à nivaux à éléments fins des Alpes;;61.112;non;55;21;1;HIC_EU28/8110-3.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
+8110-3;elementaire;8110;Éboulis siliceux alpins à nivaux à éléments fins des Alpes;;61.112 et 61.113;non;55;21;1;HIC_EU28/8110-3.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8110-4;elementaire;8110;Éboulis siliceux alpins d’ubacs, de Corse;;61.11;non;57;21;1;HIC_EU28/8110-4.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8110-5;elementaire;8110;Éboulis siliceux montagnards à subalpins frais, des Alpes, du Massif central et des Vosges;;61.114;non;59;19;1;HIC_EU28/8110-5.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8110-6;elementaire;8110;Éboulis siliceux montagnards à subalpins frais des Pyrénées;;61.114;non;61;21;1;HIC_EU28/8110-6.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
@@ -44,7 +44,8 @@
 8160-1;elementaire;8160;Éboulis crayeux de la vallée de la Seine et de la Champagne;;61.313;oui;155;25;1;HIC_EU28/8160-1.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8160-2;elementaire;8160;Éboulis calcaires collinéens, du nord-est de la France;;61.313;oui;159;21;2;HIC_EU28/8160-2.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8160-3;elementaire;8160;Éboulis calcaires collinéens à montagnards ombragés, de la moitié est de la France;;61.313;oui;162;19;1;HIC_EU28/8160-3.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
-8210;generique;8210;Pentes rocheuses calcaires avec végétation chasmophytique;;62.1;non;167;8;1;HIC_EU28/8210.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
+8210;generique;8210;Pentes rocheuses calcaires avec végétation chasmophytique;;62.1;non;167;0;0;HIC_EU28/8210.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
+8210-27;elementaire;8210;Pentes rocheuses calcaires avec végétation chasmophytique;;62.1;non;;7;1;HIC_EU28/8210-27.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8210-1;elementaire;8210;Falaises calcaires méditerranéennes thermophiles;;62.1;non;172;20;1;HIC_EU28/8210-1.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8210-2;elementaire;8210;Falaises calcaires du Narbonais, du Roussillon et des Corbières;;62.152;non;174;20;1;HIC_EU28/8210-2.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf
 8210-3;elementaire;8210;Falaises de la bordure méridionale des Cévennes;;62.1111;non;176;24;1;HIC_EU28/8210-3.md;Bensettiti et al. - 2004 - Habitats rocheux.pdf

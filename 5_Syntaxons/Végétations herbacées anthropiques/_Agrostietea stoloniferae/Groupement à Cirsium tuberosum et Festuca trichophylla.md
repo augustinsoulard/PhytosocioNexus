@@ -23,7 +23,7 @@ Le groupement est lié aux substrats du Paléogène du Sillon d’Alès où il s
 [[Agrimonia eupatoria]], [[Aristolochia rotunda]], [[Centaurium erythraea]], [[Cirsium tuberosum]], [[Cynodon dactylon]], [[Cynosurus cristatus]], [[Filipendula vulgaris]], [[Peucedanum officinale]], [[Serapias vomeracea]], [[Stachys officinalis]].
 
 **Espèces constantes** :
-[[Briza media]], [[Bromus erectus]], [[Carex flacca]], Dactylis glomerata subsp. glomerata, [[Festuca trichophylla]], [[Galium verum]] , [[Lotus glaber]], [[Potentilla reptans]], [[Ranunculus bulbosus]], [[Schedonorus arundinaceus]], [[Trifolium pratense]].
+[[Briza media]], [[Bromopsis erecta]], [[Carex flacca]], Dactylis glomerata subsp. glomerata, [[Festuca trichophylla]], [[Galium verum]] , [[Lotus glaber]], [[Potentilla reptans]], [[Ranunculus bulbosus]], [[Schedonorus arundinaceus]], [[Trifolium pratense]].
 
 **Variations** : -
 

@@ -10,7 +10,7 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Pelouses-friches méso-xérophiles des sols profonds mésotrophes (Note : ordre/alliance situé(e) dans les Agropyretea intermedio-repentis [p. 41] par CatVeg ; nous choisissons de le/la conserver au sein des végétations strictement méditerranéennes)
+**Description** : Pelouses-friches méso-xérophiles des sols profonds mésotrophes
 
 **Espèces caractéristiques** : [[Brachypodium phoenicoides]], [[Dittrichia viscosa]]
 
