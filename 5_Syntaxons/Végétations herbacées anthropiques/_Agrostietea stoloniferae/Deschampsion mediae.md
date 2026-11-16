@@ -29,5 +29,3 @@ Associations :
 - [[Hyperico tomentosi-Deschampsietum mediae]] (Molinier et Tallon 1950) R.J. Loisel et al. 1990
 - [[Hieracio pilosellae-Deschampsietum mediae]] R.J. Loisel et al. 1990
 - [[Prunello hyssopifoliae-Deschampsietum mediae]] Braun-Blanquet 1924
-
-#alliance 
