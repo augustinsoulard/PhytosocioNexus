@@ -1,0 +1,95 @@
+﻿code_hic;type;code_generique;titre;syntaxons;code_corine;habitat_prioritaire;page_pdf;nb_sections;nb_images;fichier_md;source
+3110;generique;3110;Eaux oligotrophes très peu minéralisées des plaines sablonneuses;Littorelletalia uniflorae;22.11;non;59;5;1;HIC_EU28/3110.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3110-1;elementaire;3110;Eaux stagnantes à végétation vivace oligotrophique planitaire à collinéenne des régions atlantiques, des Littorelletea uniflorae;;22.11;non;61;24;1;HIC_EU28/3110-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3120;generique;3120;Eaux oligotrophes très peu minéralisées sur sols généralement sableux de l'ouest méditerranéen à Isoetes spp;;22.11;non;65;5;1;HIC_EU28/3120.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3120-1;elementaire;3120;Pelouses mésophiles à Sérapias de la Provence cristalline ( Serapion );;22.11;non;67;25;1;HIC_EU28/3120-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3120-2;elementaire;3120;Pelouses mésohygrophiles oligotrophiques thermo-atlantiques à Isoète épineux et Ophioglosses;;22.3411;non;70;25;1;HIC_EU28/3120-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130;generique;3130;Eaux stagnantes, oligotrophes à mésotrophes avec végétation des Littorelletea uniflorae et/ou des Isoeto-Nanojuncetea;;22.11;non;75;7;1;HIC_EU28/3130.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130-1;elementaire;3130;Eaux stagnantes à végétation vivace oligotrophique à mésotrophique montagnarde à subalpine des régions alpines, des Littorelletea uniflorae;;22.11;non;79;24;1;HIC_EU28/3130-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130-2;elementaire;3130;Eaux stagnantes à végétation vivace oligotrophique à mésotrophique planitaire des régions continentales, des Littorelletea uniflorae;;22.11;non;82;24;1;HIC_EU28/3130-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130-3;elementaire;3130;Communautés annuelles mésotrophiques à eutrophiques, de bas-niveau topographique, planitaires, d'affinités continentales, des Isoeto-Juncetea;;;non;85;24;1;HIC_EU28/3130-3.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130-4;elementaire;3130;Communautés annuelles oligotrophiques à mésotrophiques, de bas-niveau topographique, planitaires, d'affinités atlantiques, des Isoeto-Juncetea;;;non;88;24;1;HIC_EU28/3130-4.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130-5;elementaire;3130;Communautés annuelles oligotrophiques à mésotrophiques, acidiphiles, de niveau topographique moyen, planitaires à montagnardes, des Isoeto-Juncetea;;;non;91;24;1;HIC_EU28/3130-5.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3130-6;elementaire;3130;Communautés annuelles oligotrophiques à mésotrophiques, neutrophiles à basophiles, de niveau topographique moyen, planitaires, des Isoeto-Juncetea;;;non;94;23;1;HIC_EU28/3130-6.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3140;generique;3140;Eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp.;;22.12;non;97;5;1;HIC_EU28/3140.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3140-1;elementaire;3140;Communautés à characées des eaux oligo-mésotrophes basiques;;;non;101;25;1;HIC_EU28/3140-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3140-2;elementaire;3140;Communautés à characées des eaux oligo-mésotrophes faiblement acides à faiblement alcalines;;;non;107;25;1;HIC_EU28/3140-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3150;generique;3150;Lacs eutrophes naturels avec végétation du Magnopotamion ou de l' Hydrocharition;;22.13;non;113;5;1;HIC_EU28/3150.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3150-1;elementaire;3150;Plans d'eau eutrophes avec végétation enracinée avec ou sans feuilles flottantes;;22.13;non;117;40;1;HIC_EU28/3150-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3150-2;elementaire;3150;Plans d'eau eutrophes avec dominance de macrophytes libres submergés;;;non;122;32;1;HIC_EU28/3150-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3150-3;elementaire;3150;Plans d'eau eutrophes avec dominance de macrophytes libres flottant à la surface de l'eau;;;non;126;31;1;HIC_EU28/3150-3.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3150-4;elementaire;3150;Rivières, canaux et fossés eutrophes des marais naturels;;22.13;non;129;36;1;HIC_EU28/3150-4.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3160;generique;3160;Lacs et mares dystrophes naturels;;22.14;non;133;5;1;HIC_EU28/3160.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3160-1;elementaire;3160;Mares dystrophes naturelles;;22.14;non;135;23;1;HIC_EU28/3160-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3170;generique;3170;Mares temporaires méditerranéennes;;22.34;oui;139;5;1;HIC_EU28/3170.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3170-1;elementaire;3170;Mares temporaires méditerranéennes à Isoètes ( Isoetion );;22.341;oui;142;29;1;HIC_EU28/3170-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3170-2;elementaire;3170;Gazons méditerranéens amphibies longuement inondés ( Preslion );;22.342;oui;146;25;1;HIC_EU28/3170-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3170-3;elementaire;3170;Gazons méditerranéens amphibies halonitrophiles ( Heleochloion );;22.343;oui;149;23;1;HIC_EU28/3170-3.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3170-4;elementaire;3170;Gazons amphibies annuels méditerranéens ( Nanocyperetalia );;22.32;oui;152;25;1;HIC_EU28/3170-4.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3220;generique;3220;Rivières alpines avec végétation ripicole herbacée;;24.221;non;157;7;1;HIC_EU28/3220.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3220-1;elementaire;3220;Végétations ripicoles herbacées des étages subalpin et montagnard des Alpes;;24.221;non;160;22;1;HIC_EU28/3220-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3220-2;elementaire;3220;Végétations ripicoles herbacées de la base de l'étage montagnard et de l'étage collinéen des Alpes et des Causses;;;non;163;21;1;HIC_EU28/3220-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3220-3;elementaire;3220;Végétations ripicoles herbacées des cours d'eau pyrénéens;;24.22;non;165;25;1;HIC_EU28/3220-3.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3230;generique;3230;Rivières alpines avec végétation ripicole ligneuse à Myricaria germanica;;24.223;non;169;5;2;HIC_EU28/3230.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3230-1;elementaire;3230;Saulaies pionnières à Myricaire d'Allemagne des torrents alpins;;;non;171;22;2;HIC_EU28/3230-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3230-2;elementaire;3230;Saulaies pionnières à Myricaire d'Allemagne des torrents pyrénéens;;24.223;non;174;22;1;HIC_EU28/3230-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3240;generique;3240;Rivières alpines avec végétation ripicole ligneuse à Salix elaeagnos;;24.224;non;177;5;2;HIC_EU28/3240.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3240-1;elementaire;3240;Saulaies riveraines à Saule drapé des cours d'eau des Alpes et du Jura;;24.224;non;179;23;2;HIC_EU28/3240-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3240-2;elementaire;3240;Saulaies riveraines des cours d'eau des Pyrénées et des Cévennes;;24.224;non;182;22;1;HIC_EU28/3240-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3250;generique;3250;Rivières permanentes méditerranéennes à Glaucium flavum;;24.225;non;185;5;1;HIC_EU28/3250.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3250-1;elementaire;3250;Végétation pionnière des rivières méditerranéennes à Glaucière jaune et Scrophulaire des chiens;;24.225;non;187;20;2;HIC_EU28/3250-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260;generique;3260;Rivières des étages planitaire à montagnard avec végétation du Ranunculion fluitantis et du Callitricho-Batrachion;;24.4;non;191;5;1;HIC_EU28/3260.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260-1;elementaire;3260;Rivières (à Renoncules) oligotrophes acides;;24.41;non;196;34;1;HIC_EU28/3260-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260-2;elementaire;3260;Rivières oligotrophes basiques;;24.42;non;200;40;1;HIC_EU28/3260-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260-3;elementaire;3260;Rivières à Renoncules oligo-mésotrophes à méso-eutrophes, acides à neutres;;24.43;non;204;43;1;HIC_EU28/3260-3.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260-4;elementaire;3260;Rivières à Renoncules oligo-mésotrophes à méso-eutrophes, neutres à basiques;;24.43;non;209;37;1;HIC_EU28/3260-4.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260-5;elementaire;3260;Rivières eutrophes (d'aval), neutres à basiques, dominées par des Renoncules et des Potamots;;24.44;non;215;43;1;HIC_EU28/3260-5.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3260-6;elementaire;3260;Ruisseaux et petites rivières eutrophes neutres à basiques;;24.44;non;219;36;1;HIC_EU28/3260-6.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3270;generique;3270;Rivières avec berges vaseuses avec végétation du Chenopodion rubri p.p. et du Bidention p.p;;24.52;non;223;5;1;HIC_EU28/3270.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3270-1;elementaire;3270;Bidention des rivières et Chenopodion rubri (hors Loire);;;oui;225;20;1;HIC_EU28/3270-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3270-2;elementaire;3270;Chenopodion rubri du lit de la Loire;;;oui;228;43;1;HIC_EU28/3270-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3280;generique;3280;Rivières permanentes méditerranéennes du Paspalo-Agrostidion avec rideaux boisés riverains à Salix et Populus alba;;24.53;non;233;5;2;HIC_EU28/3280.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3280-1;elementaire;3280;Communautés méditerranéennes d'annuelles nitrophiles à Paspalum faux-paspalum;;24.53;non;235;22;2;HIC_EU28/3280-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3280-2;elementaire;3280;Saulaie méditerranéenne à Saule pourpre et Saponaire officinale;;44.122;non;238;21;2;HIC_EU28/3280-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3290;generique;3290;Rivières intermittentes méditerranéennes du Paspalo-Agrostidion;;24.16;non;241;5;1;HIC_EU28/3290.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3290-1;elementaire;3290;Têtes de rivières et ruisseaux méditerranéens s'asséchant régulièrement ou cours médian en substrat géologique perméable;;24.16;non;244;38;1;HIC_EU28/3290-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+3290-2;elementaire;3290;Aval des rivières tempérées intermittentes;;24.16;non;248;37;1;HIC_EU28/3290-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+4010;generique;4010;Landes humides atlantiques septentrionales à Erica tetralix;;31.11;non;257;0;0;HIC_EU28/4010.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+4010-1;elementaire;4010;Landes humides atlantiques septentrionales à Bruyère à quatre angles;;31.11;non;259;5;1;HIC_EU28/4010-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+4010-2;elementaire;4010;Landes humides atlantiques septentrionales à Bruyère à quatre angles;;31.11;non;;29;1;HIC_EU28/4010-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+4020;generique;4020;Landes humides atlantiques tempérées à Erica ciliaris et Erica tetralix;;31.12;oui;263;5;1;HIC_EU28/4020.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+4020-1;elementaire;4020;Landes humides atlantiques tempérées à Bruyère ciliée et Bruyère à quatre angles;;31.12;oui;265;32;1;HIC_EU28/4020-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430;generique;6430;Mégaphorbiaies hydrophiles d'ourlets planitaires et des étages montagnard à alpin;;37.7;non;273;5;1;HIC_EU28/6430.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-13;elementaire;6430;A. Mégaphorbiaies riveraines;;37.7;non;;7;1;HIC_EU28/6430-13.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-1;elementaire;6430;Mégaphorbiaies mésotrophes collinéennes;;37.1;non;282;25;2;HIC_EU28/6430-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-2;elementaire;6430;Mégaphorbiaies mésotrophes montagnardes;;37;non;285;24;2;HIC_EU28/6430-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-3;elementaire;6430;Mégaphorbiaies à Pétasite hybride;;37.714;non;288;21;3;HIC_EU28/6430-3.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-4;elementaire;6430;Mégaphorbiaies eutrophes des eaux douces;;37.71;non;291;21;2;HIC_EU28/6430-4.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-5;elementaire;6430;Mégaphorbiaies oligohalines;;37.71;non;294;27;1;HIC_EU28/6430-5.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-14;elementaire;6430;B. Lisières forestières plus ou moins nitrophiles et hygroclines;;37.7;non;;5;1;HIC_EU28/6430-14.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-6;elementaire;6430;Végétations des lisières forestières nitrophiles, hygroclines, héliophiles à semi-héliophiles;;37.72;non;301;20;2;HIC_EU28/6430-6.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-7;elementaire;6430;Végétations des lisières forestières nitrophiles, hygroclines, semi-sciaphiles à sciaphiles;;37.72;non;304;20;2;HIC_EU28/6430-7.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-15;elementaire;6430;C. Mégaphorbiaies montagnardes à alpines;;37.8;non;;7;1;HIC_EU28/6430-15.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-8;elementaire;6430;Mégaphorbiaies montagnardes et subalpines des Alpes, du Jura, des Vosges et du Massif central;;37.81;non;310;25;1;HIC_EU28/6430-8.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-9;elementaire;6430;Végétation vivace herbacée haute hygrophile des étages montagnard à alpin des Mulgedio-Aconitetea des Pyrénées;;;non;313;25;1;HIC_EU28/6430-9.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-10;elementaire;6430;Mégaphorbiaies montagnardes et subalpines à Calamagrostide roseau des Vosges et du Massif central;;37.82;non;316;25;1;HIC_EU28/6430-10.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-11;elementaire;6430;Communautés des couloirs rocheux ou herbeux de Corse du Cymbalarion hepaticifoliae;;;non;319;24;1;HIC_EU28/6430-11.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+6430-12;elementaire;6430;Communautés ripicoles des torrents de Corse du Doronicion corsici;;37.86;non;322;29;1;HIC_EU28/6430-12.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7110;generique;7110;Tourbières hautes actives;;51.1;oui;329;5;1;HIC_EU28/7110.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7110-1;elementaire;7110;Végétation des tourbières hautes actives;;51.1;oui;332;33;1;HIC_EU28/7110-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7120;generique;7120;Tourbières hautes dégradées encore susceptibles de régénération naturelle;;51.2;non;341;5;1;HIC_EU28/7120.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7120-1;elementaire;7120;Végétation dégradée des tourbières hautes actives, susceptible de restauration;;51.2;non;344;25;1;HIC_EU28/7120-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7130;generique;7130;Tourbières de couverture ( pour les tourbières actives);;52.1;non;353;11;1;HIC_EU28/7130.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7140;generique;7140;Tourbières de transition et tremblantes;;54.5;non;357;6;1;HIC_EU28/7140.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7140-1;elementaire;7140;Tourbières de transition et tremblants;;;non;360;33;1;HIC_EU28/7140-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7150;generique;7150;Dépressions sur substrats tourbeux du Rhynchosporion;;54.6;non;367;5;1;HIC_EU28/7150.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7150-1;elementaire;7150;Dépressions sur substrats tourbeux du Rhynchosporion;;;non;369;22;1;HIC_EU28/7150-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7210;generique;7210;Marais calcaires à Cladium mariscus et espèces du Caricion davallianae;;53.3;oui;375;5;1;HIC_EU28/7210.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7210-1;elementaire;7210;Végétations à Marisque;;53.3;oui;377;22;1;HIC_EU28/7210-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7220;generique;7220;Sources pétrifiantes avec formation de travertins;Cratoneurion;54.12;oui;383;5;1;HIC_EU28/7220.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7220-1;elementaire;7220;Communautés des sources et suintements carbonatés;;54.12;oui;385;23;1;HIC_EU28/7220-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7230;generique;7230;Tourbières basses alcalines;;54.2;non;389;5;1;HIC_EU28/7230.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7230-1;elementaire;7230;Végétation des bas-marais neutro-alcalins;;54.2;non;392;30;1;HIC_EU28/7230-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7240;generique;7240;Formations pionnières alpines du Caricion bicoloris-atrofuscae;;54.3;oui;399;5;1;HIC_EU28/7240.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7240-1;elementaire;7240;Groupement pionniers des bords de torrents alpins;;54.3;oui;401;25;1;HIC_EU28/7240-1.md;Gaudillat et al. - 2002 - Habitats humides.pdf
+7240-2;elementaire;7240;Formations riveraines à Petite massette de l'étage collinéen des régions alpienne et périalpienne et d'Alsace;;;oui;406;18;1;HIC_EU28/7240-2.md;Gaudillat et al. - 2002 - Habitats humides.pdf
