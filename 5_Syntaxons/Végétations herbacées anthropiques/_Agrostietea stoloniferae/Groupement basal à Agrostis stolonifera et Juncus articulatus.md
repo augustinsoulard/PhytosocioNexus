@@ -16,4 +16,4 @@ sources:
 Prairie basale développée dans les anfractuosités et les vasques des lits rocheux des rivières et des ruisseaux, soumises aux crues. La dynamique riveraine maintient des communautés paucispécifiques dominées par [[Juncus articulatus]].
 
 **Composition floristique** :
-[[Agrostis stolonifera]], [[Blysmus compressus]], [[Carex viridula]], [[Juncus articulatus]] , [[Mentha aquatica]], Molinia caerulea subsp. arundinacea.
+[[Agrostis stolonifera]], [[Blysmus compressus]], [[Carex viridula]], [[Juncus articulatus]] , [[Mentha aquatica]], [[Molinia arundinacea]].

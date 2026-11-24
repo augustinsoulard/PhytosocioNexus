@@ -21,3 +21,11 @@ Syn. : Bidentetum tripartiti sensu Molinier 1950, 1981.
 Chorologie BdR (13) : Crau humide.
 
 Note (13) : il manque des relevés récents pour confirmer le groupement identifié par Molinier et Tallon (1950) et proposer un rattachement à une association.
+
+## D'après Braun-Blanquet (1952)
+
+**Espèces indicatrices** : [[Bidens tripartita]] (V), [[Persicaria mitis]] (IV).
+
+**Écologie** : lieux humides et vaseux, bordant les eaux tranquilles.
+
+**Chorologie** : assez fragmentaire en Languedoc (Vistre), Camargue et Crau. Bien mieux représentée en Europe moyenne et en Italie septentrionale, aux confins de la Région méditerranéenne.

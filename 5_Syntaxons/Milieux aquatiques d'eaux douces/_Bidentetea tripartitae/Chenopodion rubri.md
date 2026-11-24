@@ -43,9 +43,9 @@ Associations :
 - [[Eragrostio felzinesii-Corrigioletum litoralis]] Felzines et Loiseau 2006 ; 
 - [[Eragrostio pectinacei-Chenopodietum botryos]] (Felzines et Loiseau 2006) Felzines 2012 ; 
 - [[Persicario lapathifoliae-Echinochloetum cruris-galli]] Felzines et Loiseau 2006 ; 
-- [[Persicario mitis-Xanthietum italici]] Choisnet 2019 nom. ined. (1) ; 
-- [[Polygono brittingeri-Chenopodietum rubri]] W. Lohmeyer 1950
-- [[Groupement à Equisetum arvense et Persicaria hydropiper]]
+- [[Persicario mitis-Xanthietum italici]] Choisnet 2019 ; 
+- [[Polygono brittingeri-Chenopodietum rubri]] W. Lohmeyer 1950 ;
+- [[Groupement à Equisetum arvense et Persicaria hydropiper]] Choisnet 2019
 
 
 Note CatVeg : nous ne retenons pas les sous-alliances proposées par Felzines et Loiseau (2006), dont les définitions écologiques et chorologiques ne nous semblent pas évidentes. Il conviendra d'étudier leur déterminisme à une plus large échelle.

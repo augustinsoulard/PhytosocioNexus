@@ -20,7 +20,7 @@ Fourré sempervirent-caducifolié des sols acidiclines issus de calcaires grése
 Ce fourré, en lien avec l’Asplenio onopteridis-Quercetum ilicis cornetosum sanguinei, se maintient sur sols argilosableux décarbonatés neutroclines à acidiclines, profonds avec un horizon organique d’une dizaine de centimètres d’épaisseur.
 
 **Combinaison différentielle** :
-[[Acer monspessulanum]], [[Buxus sempervirens]], [[Crataegus monogyna]], [[Erica arborea]], E. scoparia, [[Juniperus communis]], [[Ligustrum vulgare]], [[Phillyrea angustifolia]], [[Sorbus domestica]], S. torminalis.
+[[Acer monspessulanum]], [[Buxus sempervirens]], [[Crataegus monogyna]], [[Erica arborea]], E. scoparia, [[Juniperus communis]], [[Ligustrum vulgare]], [[Phillyrea angustifolia]], [[Cormus domestica]], S. torminalis.
 
 **Espèces constantes** :
 [[Calluna vulgaris]], [[Cistus salviifolius]], [[Quercus pubescens]].

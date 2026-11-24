@@ -4,11 +4,12 @@ tags:
 syntaxon_superieur: "[[Impatienti noli-tangere-Stachyetalia sylvaticae]]"
 syntaxon_inferieur:
 especes_indicatrices:
-date_maj: 2026-06-15
+date_maj: 2026-11-11
 auteurs:
   - Augustin Soulard
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+  - "[[Offerhaus et al. - 2026 - Notes connaissances végétations de la France méditerranéenne.pdf]]"
 ---
 **Description** : Communautés des sols engorgés une partie de l'année
 
@@ -31,7 +32,8 @@ Associations :
 - [[Circaeo lutetianae-Arctietum nemorosi]] H. Passarge 1980 ; 
 - [[Circaeo lutetianae-Caricetum remotae]] H. Passarge (1967) 2002 ; 
 - [[Circaeo lutetianae-Stachyetum sylvaticae]] Julve 1997 ; 
-- [[Epilobio montani-Geranietum robertiani]] W. Lohmeyer ex Görs et T. Müller 1969 ; 
+- [[Epilobio montani-Geranietum robertiani]] W. Lohmeyer ex Görs et T. Müller 1969 ;
+- [[Geranio robertiani-Impatientetum balfourii]] Offerhaus & Bravet 2026 ass. nov. ; 
 - [[Galio aparines-Impatientetum noli-tangere]] (H. Passarge 1967) Tüxen in Tüxen et Brun-Hool 1975 ; 
 - [[Hyperico androsaemi-Caricetum pendulae]] Corriol et Catteau 2019 ; 
 - [[Lysimachio nemorum-Caricetum strigosae]] (Jovet 1949) Rameau 1994 ; 

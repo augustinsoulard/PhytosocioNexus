@@ -22,5 +22,5 @@ Sous-alliances :
 - [[Mesobromenion erecti]] Braun-Blanquet et Moor 1938
 
 Associations :
-- [[Groupement à Genista tinctoria et Bromopsis erecta]]
-- [[Groupement à Peucedanum officinale et Bromopsis erecta]]
+- [[Groupement à Genista tinctoria et Bromopsis erecta]] Choisnet, 2019 ;
+- [[Groupement à Peucedanum officinale et Bromopsis erecta]] Choisnet, 2019

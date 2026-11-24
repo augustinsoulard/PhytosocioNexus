@@ -26,7 +26,7 @@ Ce groupement est lié aux balmes des falaises calcaires des gorges de l’Ardè
 [[Euphorbia segetalis]], [[Orlaya grandiflora]], [[Sedum album]].
 
 **Variations** :
-Les rares relevés réunis apparaissent hétérogènes avec deux communautés riches en thérophytes ([[Anisantha sterilis]] , [[Anisantha diandra]] , [[Polypogon maritimus]] , Scandix pecten-veneris subsp. hispanica…) qui caractérisent des pieds de falaises sporadiquement soumis aux crues.
+Les rares relevés réunis apparaissent hétérogènes avec deux communautés riches en thérophytes ([[Anisantha sterilis]] , [[Anisantha diandra]] , [[Polypogon maritimus]] , [[Scandix pecten-veneris subsp. hispanica]]…) qui caractérisent des pieds de falaises sporadiquement soumis aux crues.
 
 **Syntaxonomie et synsystématique** :
 Ce groupement, en raison de son cortège thérophytique, pourrait s’intégrer dans les Brometalia rubenti-tectorum (cf. § 3.6.3). Toutefois, la dominance de Sedum album et la présence de quelques éléments des Sedo-Scleranthetea incite à rattacher cette pelouse crassulescente au Sedion micrantho-sediformis.

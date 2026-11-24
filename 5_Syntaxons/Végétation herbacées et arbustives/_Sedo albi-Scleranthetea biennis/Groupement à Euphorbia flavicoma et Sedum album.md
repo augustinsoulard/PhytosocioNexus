@@ -29,4 +29,4 @@ Cette pelouse oligo-mésotrophile apparaît généralement au-delà de 250 m d'a
 -
 
 **Syntaxonomie et synsystématique** :
-La présence (faibles fréquences et dominances) de [[Sedum sediforme]], S. ochroleucum et Thymus vulgaris incite à rapprocher cette pelouse du Sedion micrantho-sediformis. Ce groupement est mal individualisé par les analyses statistiques, confondu avec les pelouses annuelles. Son étude doit être poursuivie pour statuer sur sa validité.
+La présence (faibles fréquences et dominances) de [[Sedum sediforme]], [[Sedum ochroleucum]] et [[Thymus vulgaris]] incite à rapprocher cette pelouse du Sedion micrantho-sediformis. Ce groupement est mal individualisé par les analyses statistiques, confondu avec les pelouses annuelles. Son étude doit être poursuivie pour statuer sur sa validité.

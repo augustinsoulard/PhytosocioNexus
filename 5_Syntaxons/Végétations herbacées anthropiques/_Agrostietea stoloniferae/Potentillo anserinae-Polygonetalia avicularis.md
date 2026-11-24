@@ -22,5 +22,5 @@ ZH : oui
 
 
 Associations :
-- [[Groupement à Ranunculus repens et Agrostis stolonifera]]
-- [[Groupement à Teucrium scordium et Mentha aquatica]]
+- [[Groupement à Ranunculus repens et Agrostis stolonifera]] Choisnet, 2019 ;
+- [[Groupement à Teucrium scordium et Mentha aquatica]] Choisnet, 2019

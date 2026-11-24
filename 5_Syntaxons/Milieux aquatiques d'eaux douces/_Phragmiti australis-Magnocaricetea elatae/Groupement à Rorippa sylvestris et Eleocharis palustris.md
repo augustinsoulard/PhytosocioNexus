@@ -16,4 +16,4 @@ sources:
 Cette parvoroselière dominée par [[Eleocharis palustris]], est liée aux anses limoneuses organiques du lit de l’Ardèche. Les cinq relevés réunis semblent pouvoir être rapprochés des Phragmiti australisMagnocaricetea elatae.
 
 **Composition floristique** :
-[[Eleocharis palustris]], [[Rorippa sylvestris]], [[Lycopus europaeus]], [[Lythrum salicaria]], [[Lysimachia vulgaris]], [[Phalaris arundinacea]], [[Ambrosia artemisiifolia]], [[Paspalum distichum]], Xanthium orientale subsp. italicum.
+[[Eleocharis palustris]], [[Rorippa sylvestris]], [[Lycopus europaeus]], [[Lythrum salicaria]], [[Lysimachia vulgaris]], [[Phalaris arundinacea]], [[Ambrosia artemisiifolia]], [[Paspalum distichum]], [[Xanthium orientale subsp. italicum]].

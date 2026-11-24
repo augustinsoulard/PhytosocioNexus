@@ -30,6 +30,6 @@ Associations :
 - [[Molinio arundinaceae-Pulicarietum dysentericae]] Choisnet in Le Hénaff et al. 2021 ; 
 - [[Orchido laxiflorae-Juncetum effusi]] Gamisans et al. 1998 ; 
 - [[Platanthero algeriensis-Juncetum effusi]] Gamisans et al. 1998 ; 
-- [[Groupement à Cirsium tuberosum et Festuca trichophylla]]
-- [[Groupement à Serratula tinctoria et Molinia arundinacea]]
+- [[Groupement à Cirsium tuberosum et Festuca trichophylla]] Choisnet, 2019 ;
+- [[Groupement à Serratula tinctoria et Molinia arundinacea]] Choisnet, 2019 ;
 - [[Schoeno nigricantis-Scirpoidetum holoschoeni]] Choisnet in Le Hénaff et al. 2021

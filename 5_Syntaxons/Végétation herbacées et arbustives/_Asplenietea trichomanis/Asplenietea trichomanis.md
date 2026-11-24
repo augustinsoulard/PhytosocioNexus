@@ -25,6 +25,6 @@ Ordre :
 - [[Potentilletalia caulescentis]] Braun-Blanquet in Braun-Blanquet et H. Jenny 1926
 
 Associations :
-- [[Groupement à Parietaria judaica]]
-- [[Groupement à Parietaria judaica et Asplenium scolopendrium]]
-- [[Groupement à Umbilicus rupestris et Geranium purpureum]]
+- [[Groupement à Parietaria judaica]] Choisnet, 2019 ;
+- [[Groupement à Parietaria judaica et Asplenium scolopendrium]] Choisnet, 2019 ;
+- [[Groupement à Umbilicus rupestris et Geranium purpureum]] Choisnet, 2019

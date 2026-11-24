@@ -20,7 +20,7 @@ Végétation glaréicole calcicole des pierriers mésoméditerranéens du Bas-Vi
 Cette végétation des éboulis actifs mésoméditerranéen, se développe sur des amas de calcaires durs et marneux, à blocs de taille majoritairement centimétrique.
 
 **Combinaison différentielle** :
-[[Arrhenatherum elatius]], Epilobium dodonaei subsp. dodonaei, [[Galeopsis angustifolia]], [[Linaria supina]], [[Rumex scutatus]] (une localité).
+[[Arrhenatherum elatius]], [[Epilobium dodonaei subsp. dodonaei]], [[Galeopsis angustifolia]], [[Linaria supina]], [[Rumex scutatus]] (une localité).
 
 **Espèces constantes** :
 [[Melica ciliata]], [[Satureja montana]], [[Sedum sediforme]].

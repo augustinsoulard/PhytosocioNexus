@@ -19,7 +19,7 @@ sources:
 
 **Chorologie BdR (13)** : Ubacs des principaux massifs de la partie orientale du département : forêt de Font Blanche, Sainte-Baume, le Grand Sambuc ; ponctuellement ailleurs.
 
-Précision dynamique : Communauté azonale pionnière dynamiquement stable se situant dans la gamme climatique des formations forestières des Quercetea ilicis et des Quercetea pubescentis.
+**Précision dynamique** : Communauté azonale pionnière dynamiquement stable se situant dans la gamme climatique des formations forestières des Quercetea ilicis et des Quercetea pubescentis.
 
 ## D'après Choisnet (2019)
 

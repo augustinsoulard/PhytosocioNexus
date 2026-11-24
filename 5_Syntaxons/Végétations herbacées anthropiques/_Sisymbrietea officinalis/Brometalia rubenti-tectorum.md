@@ -23,6 +23,6 @@ Alliances :
 - [[Taeniathero capitis-medusae-Aegilopion geniculatae]] Rivas Martínez et Izco 1977
 
 Associations :
-- [[Groupement à Erodium malacoides et Sisymbrium irio]]
-- [[Groupement à Alkanna matthioli et Anisantha tectorum]]
-- [[Urospermo picroidis-Brachypodietum stacei]] Choisnet 2019 nom. ined. (1)
+- [[Groupement à Erodium malacoides et Sisymbrium irio]] Choisnet 2019 ;
+- [[Groupement à Alkanna matthioli et Anisantha tectorum]] Choisnet 2019 ;
+- [[Urospermo picroidis-Brachypodietum stacei]] Choisnet 2019

@@ -20,6 +20,7 @@ Alliances :
 - [[Corynephorion canescentis]] Klika 1931
 - [[Sileno conicae-Cerastion semidecandri]] Korneck 1974
 - [[Sedo-Cerastion arvensis]] G. Sissingh et Tideman 1960
+- [[Sedo micranthi-Corynephorion canescentis]] Choisnet, 2019 ;
 - [[Armerion elongatae]] Pötsch 1962
 - [[Festucion guestfalico-filiformis]] Loiseau et Felzines in J.-M. Royer et al. 2006 nom. inval. (3b)
 - [[Armerion halleri]] Ernst 1965

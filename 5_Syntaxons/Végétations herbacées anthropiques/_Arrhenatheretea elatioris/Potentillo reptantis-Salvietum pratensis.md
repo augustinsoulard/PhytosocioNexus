@@ -27,7 +27,7 @@ Association différenciée par la présence d’espèces liées aux sols acides 
 [[Hypochaeris radicata]], [[Luzula campestris]], [[Potentilla reptans]], [[Rumex acetosa]].
 
 **Espèces constantes** :
-[[Ajuga reptans]], [[Anthoxanthum odoratum]], [[Arrhenatherum elatius]], [[Bromus erectus]], [[Centaurea jacea]], Dactylis glomerata subsp. glomerata, [[Galium album]], [[Holcus lanatus]], [[Lathyrus pratensis]], [[Plantago lanceolata]], [[Ranunculus acris]], [[Ranunculus bulbosus]], [[Schedonorus arundinaceus]], [[Trifolium pratense]].
+[[Ajuga reptans]], [[Anthoxanthum odoratum]], [[Arrhenatherum elatius]], [[Bromopsis erecta]], [[Centaurea jacea]], Dactylis glomerata subsp. glomerata, [[Galium album]], [[Holcus lanatus]], [[Lathyrus pratensis]], [[Plantago lanceolata]], [[Ranunculus acris]], [[Ranunculus bulbosus]], [[Schedonorus arundinaceus]], [[Trifolium pratense]].
 
 **Variations** :
 Var. type à [[Potentilla reptans]] (pr3a) ; Var. appauvrie (pr3b).
