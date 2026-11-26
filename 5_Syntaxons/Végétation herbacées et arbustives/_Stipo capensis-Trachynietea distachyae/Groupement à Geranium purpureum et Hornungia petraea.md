@@ -30,3 +30,7 @@ Les relevés, situés entre 250 et 400 m d’altitude, proviennent de communaut�
 
 **Syntaxonomie et synsystématique** :
 L’étude de ce groupement doit être complétée, en particulier sur le plan synécologique. Il occupe les mêmes complexes écologiques que le Bupleuro baldensis-Bombycilaenetum erectae, bien que semblant présenter un caractère saxicole plus marqué. Plusieurs relevés où Sedum album abonde, pourraient s’intégrer aux Sedo albi-Scleranthetea biennis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Geranium%20purpureum%20et%20Hornungia%20petraea.png)

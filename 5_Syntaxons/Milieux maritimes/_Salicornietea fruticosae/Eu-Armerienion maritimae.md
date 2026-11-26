@@ -20,3 +20,7 @@ sources:
 	- HIC EUR : [[1330-3]] - [[1340-2]]
 
 ZH : oui
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Eu-Armerienion%20maritimae.png)

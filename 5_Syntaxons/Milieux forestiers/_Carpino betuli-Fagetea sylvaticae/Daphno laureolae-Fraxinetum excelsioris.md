@@ -32,3 +32,7 @@ Chorologie : Rivières des Grands Causses (Tarn, Jonte...).
 **Axes à développer** : Association décrite des Causses de Lozère. Présence à valider au niveau des causses plus méridionaux et variabilité floristique à comparer aux frênaies des causses du Quercy et de l'ensemble des systèmes calcaires périphériques du Massif central.
 
 **Bibliographie** : Vanden Berghen, 1963.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Daphno%20laureolae-Fraxinetum%20excelsioris.png)

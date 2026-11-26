@@ -32,3 +32,7 @@ Associations :
 - [[Scorzoneroido pyrenaicae-Festucetum rubrae]] Carbiener ex Collaud et al. 2017 ; 
 - [[Stellario gramineae-Poetum pratensis]] Gallandat et al. 1995 ; 
 - [[Trifolio repentis-Agrostietum vulgaris]] Nègre 1969
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Alchemillo%20xanthochlorae-Cynosurenion%20cristati.png)

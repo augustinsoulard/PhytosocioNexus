@@ -26,3 +26,7 @@ Associations :
 - [[Centaureo nigrae-Vicietum orobi]] Billy ex J.-M. Royer 2016 ; 
 - [[Cirsio erisithalis-Teucrietum scorodoniae]] Billy ex J.-M. Royer 2016 ; 
 - [[Trifolio aurei-Knautietum arvernensis]] Billy ex J.-M. Royer 2016
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Laserpitio%20latifolii-Teucrienion%20scorodoniae.png)

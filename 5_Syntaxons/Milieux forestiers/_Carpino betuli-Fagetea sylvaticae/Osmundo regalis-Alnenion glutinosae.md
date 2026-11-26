@@ -25,3 +25,7 @@ ZH : oui
 Associations :
 - [[Molinio arundinaceae-Alnetum glutinosae]] Choisnet et Renaux ex Renaux et al. 2019 ; 
 - [[Tilio cordatae-Alnetum glutinosae]] R.J. Loisel 1976
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Osmundo%20regalis-Alnenion%20glutinosae.png)

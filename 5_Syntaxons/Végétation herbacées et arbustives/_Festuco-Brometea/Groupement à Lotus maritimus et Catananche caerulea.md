@@ -17,3 +17,7 @@ Sont représentés ici deux relevés relativement distincts mais rapprochés par
 
 **Composition floristique** :
 [[Aphyllanthes monspeliensis]], [[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Bromopsis erecta]], [[Carex flacca]], [[Carex halleriana]], [[Catananche caerulea]], [[Centaurea jacea]], [[Dactylis glomerata subsp. hispanica]], [[Lotus maritimus]], [[Ophrys lutea]], [[Polygala vulgaris]], [[Pilosella officinarum]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Lotus%20maritimus%20et%20Catananche%20caerulea.png)

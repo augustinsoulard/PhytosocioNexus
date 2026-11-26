@@ -27,3 +27,7 @@ Associations :
 - [[Colchico autumnalis-Avenuletum pubescentis]] B. Foucault 2019 ; 
 - [[Heracleo setosi-Arrhenatheretum elatioris]] Corriol 2013 ; 
 - [[Rhinantho pumili-Tragopogonetum dubii]] B. Foucault 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rhinantho%20pumili-Arrhenatherenion%20elatioris.png)

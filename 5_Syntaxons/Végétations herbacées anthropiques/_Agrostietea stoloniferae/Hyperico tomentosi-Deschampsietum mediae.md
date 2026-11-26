@@ -19,3 +19,7 @@ Espèces indicatrices : [[Deschampsia media]], [[Hypericum tomentosum]], [[Trifo
 Écologie : Végétation mésohygrophile, se développant sur des substrats basiques, marneux, sableux ou limoneux, en bordure des zones marécageuses. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Plaine de la Crau.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Hyperico%20tomentosi-Deschampsietum%20mediae.png)

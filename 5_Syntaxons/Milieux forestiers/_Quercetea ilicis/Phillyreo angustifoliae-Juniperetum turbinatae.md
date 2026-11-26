@@ -22,3 +22,7 @@ Espèces indicatrices : [[Juniperus phoenicea subsp. turbinata]], [[Pistacia len
 Chorologie BdR (13) : Camargue sous influence littorale directe : principalement aux bois des Rièges et Petite Camargue.
 
 Précision dynamique : Cette végétation représente le stade final d'évolution de la végétation sur susbtrat sableux littoral.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phillyreo%20angustifoliae-Juniperetum%20turbinatae.png)

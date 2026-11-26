@@ -17,3 +17,7 @@ Espèces indicatrices : [[Cardamine hirsuta]], [[Fumaria capreolata]], [[Galium 
 Écologie : Végétation thermophile, nitrophile, d'expression vernale, bordant les végétations arbustives ou arborescentes, le long de sentiers ou de pistes, en conditions localement fraîches (versant nord, fond de vallon, etc.), sur substrats certainement anciennement bouleversés. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Semble relativement fréquente, au moins dans la moitié orientale du département (Calanques, Nerthe, environs de Marseille et d'Aix-en-Provence).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Fumario%20capreolatae-Torilidetum%20nodosae.png)

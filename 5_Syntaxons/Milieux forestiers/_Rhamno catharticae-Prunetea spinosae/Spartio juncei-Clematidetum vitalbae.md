@@ -22,3 +22,7 @@ Chorologie BdR (13) : Plutôt dans les plaines et vallons de la partie orientale
 
 Précision dynamique : Colonisée par [[Pinus halepensis]], cette végétation évolue ensuite vers la chênaie blanche méditerranéenne ([[Lathyro latifolii-Quercetum pubescentis]]).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Spartio%20juncei-Clematidetum%20vitalbae.png)

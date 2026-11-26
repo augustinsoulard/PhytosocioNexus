@@ -34,3 +34,7 @@ Le groupement se différencie du Buxo sempervirentis-Quercetum pubescentis par l
 **Syntaxonomie et synsystématique** :
 Les 22 relevés réunis doivent être analysés avec prudence, car ils ne concernent en fait que 3 individus d’association et les variations que l’on pourrait mettre en évidence ne sont sans doute le fait que d’une variabilité intra-individuelle. Pour cette raison, il est difficile de proposer une association pour ce groupement original. Le groupement présente des affinités fortes avec le Quercion pubescenti-sessiliflorae ( [[Melittis melissophyllum]], [[Vincetoxicum hirundinaria]], [[Buxus sempervirens]], [[Quercus ilex]], [[Hippocrepis emerus]]… ) et en particulier avec le « Querco-Buxetum fagetosum » relevé par BRAUN-BLANQUET (1970) sur les Causses. Les communautés ardéchoises se distinguent par l’absence d’ [[Anemone hepatica]], [[Rhamnus alpina]], [[Euphorbia duvalii]], [[Asphodelus cerasiferus]], s’inscrivant dans un contexte bioclimatique différent. Autres groupements de statut incertain ou dont l’étude serait à poursuivre
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Cotinus%20coggygria%20et%20Fagus%20sylvatica.png)

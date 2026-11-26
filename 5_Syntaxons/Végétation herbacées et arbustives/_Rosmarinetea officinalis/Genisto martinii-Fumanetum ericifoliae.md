@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées à la nature plus ou moins friable
 
 **Syntaxonomie et synsystématique** :
 Malgré la présence de Genista pulchella et son caractère saxicole, ce groupement paucispécifique ne peut être rapproché du Genistion lobelli du fait de l’absence des espèces des Ononidetalia striatae. Ce sont les espèces des Rosmarinetalia qui structurent le groupement ( [[Aphyllanthes monspeliensis]], [[Fumana ericifolia]], [[Stipa offneri]], [[Helianthemum italicum]], [[Thymus vulgaris]]). Rapproché par les analyses au Ruto angustioliae-Stipetum offneri.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Genisto%20martinii-Fumanetum%20ericifoliae.png)

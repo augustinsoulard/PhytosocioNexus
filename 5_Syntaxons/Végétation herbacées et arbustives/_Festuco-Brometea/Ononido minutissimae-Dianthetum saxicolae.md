@@ -34,3 +34,7 @@ Les variations observées sont liées à la maturité des groupements (phases pi
 
 **Syntaxonomie et synsystématique** :
 Cette association se positionne à l’interface de la classe des Festuco valesiacae-Brometea erecti et de celle des Rosmarinetea, illustrant sa position médiane au sein du gradient presque continu, dans la vallée du Rhône, reliant les pelouses xérophiles subcontinentales aux pelouses méditerranéennes. Avec la présence de taxons de répartition sud-orientale ( [[Carex liparocarpos]], [[Petrorhagia saxifraga]]), il s'agit d'un groupement original vicariant thermophile du Teucrio montani-Fumanetum procumbentis Pabot 1940 (tab. 25 col. 24) et vicariant continental du Staehelino dubiae-Teucrietum chamaedrys J.-M.Royer 1982 (tab. 25 col. 20). Le Teucrio-Fumanetum procumbentis est une association décrite de l'est Lyonnais qui, comme notre groupement, présente un caractère "continental", mais qui en diffère par la plus faible représentation des espèces méditerranéennes. Le Staehelino-Teucrietum chamaedrys, décrit du Périgord, est marqué par l'absence de ces continentales et par un important lot de méditerranéennes. L’association s’intègre dans les Artemisio albae-Bromenalia erecti. Comme pour l’Astragalo monspessulani-Festucetum marginatae, la forte représentation des taxons méridionaux, confère à cette association une position marginale au sein du Xerobromion erecti.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ononido%20minutissimae-Dianthetum%20saxicolae.png)

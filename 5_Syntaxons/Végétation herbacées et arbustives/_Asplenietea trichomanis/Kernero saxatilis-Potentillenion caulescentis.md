@@ -25,3 +25,7 @@ ZH : non
 
 Associations :
 - [[Drabo aizoidis-Daphnetum alpinae]] Chouard ex J.-M. Royer 1973
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Kernero%20saxatilis-Potentillenion%20caulescentis.png)

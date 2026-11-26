@@ -19,3 +19,7 @@ Espèces indicatrices : [[Ammannia coccinea]], [[Cyperus difformis]], [[Echinoch
 Écologie : Végétation thermophile et hygrophile pionnière colonisant les rizières irriguées les moins intensivement exploitées. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Camargue.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Oryzo%20sativae-Echinochloetum%20cruris-galli.png)

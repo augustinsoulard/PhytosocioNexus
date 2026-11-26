@@ -17,3 +17,7 @@ Cette Garrigue co-dominée par Lavandula angustifolia et Thymus vulgaris du supr
 
 **Composition floristique** :
 [[Aphyllanthes monspeliensis]], [[Bromopsis erecta]], [[Coronilla minima]], [[Genista scorpius]], [[Lavandula angustifolia]], [[Teucrium chamaedrys]], [[Teucrium polium]], [[Thymus vulgaris]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Lavandula%20angustifolia%20et%20Thymus%20vulgaris.png)

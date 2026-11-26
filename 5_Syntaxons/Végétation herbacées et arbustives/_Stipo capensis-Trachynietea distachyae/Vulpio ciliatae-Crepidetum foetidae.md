@@ -34,3 +34,7 @@ Le déterminisme des variations mises en évidence doit être précisé. Var. à
 
 **Syntaxonomie et synsystématique** :
 Les communautés princeps du Vulpio ciliatae-Crepidetum foetidae sont localisées sur les Causses du Quercy (VERRIER 1979) et présentent, comme les communautés ardéchoises, un profil sociologique alliant éléments du Trachynion distachyae et taxons mésotrophiles communs aux Sisymbrietea officinalis . Le groupement bas-vivarois apparaît toutefois plus thermophile avec la présence d’[[Orlaya grandiflora]] , [[Crupina vulgaris]] , [[Helianthemum salicifolium]], Sideritis romana qui définissent une race méditerranéenne de cette association.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Vulpio%20ciliatae-Crepidetum%20foetidae.png)

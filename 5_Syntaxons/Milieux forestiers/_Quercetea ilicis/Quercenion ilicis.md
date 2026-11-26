@@ -34,3 +34,7 @@ Associations :
 - [[Groupement à Geranium purpureum et Quercus ilex]] Choisnet 2019 ;
 - [[Groupement à Bupleurum rigidum et Quercus pubescens]] Choisnet 2019 ;
 - [[Viburno tini-Quercetum ilicis]] (Braun-Blanquet 1936) Rivas Martínez 1974
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Quercenion%20ilicis.png)

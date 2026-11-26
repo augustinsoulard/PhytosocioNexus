@@ -26,3 +26,7 @@ Associations :
 - [[Adoxo moschatellinae-Fraxinetum excelsioris]] Bardat ex Renaux et al. 2019 ; 
 - [[Endymio non-scriptae-Carpinetum betuli]] Noirfalise 1968 ; 
 - [[Mercuriali perennis-Quercetum roboris]] Billy ex Thébaud et al. 2014
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Hyacinthoido%20non-scriptae-Quercenion%20roboris.png)

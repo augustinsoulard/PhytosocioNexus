@@ -17,3 +17,7 @@ Ce groupement hygrophile dont l’étude doit être poursuivie est lié aux sols
 
 **Composition floristique** :
 [[Carex demissa]], [[Centaurea pectinata]], [[Lysimachia vulgaris]], [[Molinia arundinacea]], [[Potentilla erecta]], [[Prunella vulgaris]], [[Serratula tinctoria]], [[Succisa pratensis]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Serratula%20tinctoria%20et%20Molinia%20arundinacea.png)

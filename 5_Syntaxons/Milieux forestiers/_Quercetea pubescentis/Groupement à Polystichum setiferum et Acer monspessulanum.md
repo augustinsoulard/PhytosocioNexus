@@ -17,3 +17,7 @@ Forêt de pente sur colluvions actives sableuses. Sables alluviaux remobilisés 
 
 **Composition floristique** :
 [[Acer monspessulanum]] , [[Tilia platyphyllos]] , [[Polystichum setiferum]], [[Asplenium scolopendrium]], [[Sedum cepaea]], [[Arum italicum]], [[Dioscorea communis]], [[Hedera helix]], [[Festuca heterophylla]], [[Lactuca muralis]], [[Pteridium aquilinum]], [[Melittis melissophyllum]], [[Rubia peregrina]], [[Ruscus aculeatus]]. Phillyrea angustifolia-Quercus pubescens-G fm 22 Chênaies pubescentes mésoméditerranéennes liées aux marnes du Sillon d’Alès. Plusieurs listes phytosociologiques de communautés fragmentaires ont été réalisées permettant de dresser une composition floristique approchante de ce que pourrait être la forêt climacique de cette région. [[Buxus sempervirens]], [[Carex flacca]], [[Cornus sanguinea]], [[Hedera helix]], [[Juniperus oxycedrus]], [[Ligustrum vulgare]], [[Phillyrea angustifolia]], [[Quercus pubescens]], [[Quercus coccifera]], [[Rubia peregrina]], [[Viburnum lantana]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Polystichum%20setiferum%20et%20Acer%20monspessulanum.png)

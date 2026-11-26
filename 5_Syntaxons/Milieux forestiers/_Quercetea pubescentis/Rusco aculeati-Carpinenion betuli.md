@@ -30,3 +30,7 @@ Sous-alliances :
 - [[Rusco aculeati-Quercetum petraeae]] (Noirfalise 1968) Rameau 1996 ; 
 - [[Sorbo ariae-Quercetum petraeae]] (Rameau 1974) Renaux et al. 2011 ; 
 - [[Viburno lantanae-Quercetum petraeae]] Lapraz 1963
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rusco%20aculeati-Carpinenion%20betuli.png)

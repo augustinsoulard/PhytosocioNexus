@@ -33,3 +33,7 @@ Associations :
 - [[Spergulo arvensis-Chrysanthemetum segetum]] (Braun-Blanquet et De Leeuw 1936) Tüxen 1937 ; 
 - [[Spergulo arvensis-Echinochloetum cruris-galli]] (Kruseman et Vlieger 1939) Tüxen 1950 ; 
 - [[Spergulo arvensis-Raphanetum raphanistri]] Moutte 1964
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Panico%20cruris-galli-Setarienion%20viridis.png)

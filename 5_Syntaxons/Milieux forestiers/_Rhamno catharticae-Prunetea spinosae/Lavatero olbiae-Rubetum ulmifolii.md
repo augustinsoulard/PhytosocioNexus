@@ -24,3 +24,7 @@ sources:
 **Diagnose** : Lavatero olbiae-Rubetum ulmifolii Farris, Secchi & Filigheddu 2007. Le tableau 10 de l'article réunit 14 relevés réalisés dans le Var (Bormes-les-Mimosas, Hyères, Le Lavandou, Cavalaire-sur-Mer, Le Pradet, La Garde).
 
 **Position synsystématique** : [[Rhamno catharticae-Prunetea spinosae]] / [[Pyro spinosae-Rubetalia ulmifolii]] / [[Arundo plinii-Rubion ulmifolii]], alliance qui relaie, aux étages inférieurs strictement méditerranéens, l'alliance du [[Pruno spinosae-Rubion ulmifolii]] de l'Europe tempérée (CatVeg classe l'association dans le [[Pruno spinosae-Rubion ulmifolii]]).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lavatero%20olbiae-Rubetum%20ulmifolii.png)

@@ -23,3 +23,7 @@ Chorologie BdR (13) : Littoral de la Camargue.
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression (perturbation annuelle) située au contact de la végétation des dunes embryonnaires de l’[[Ammophilion australis]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Salsolo%20kali-Cakiletum%20maritimae.png)

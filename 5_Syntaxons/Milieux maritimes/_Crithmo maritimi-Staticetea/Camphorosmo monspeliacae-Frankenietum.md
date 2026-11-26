@@ -20,3 +20,7 @@ Chorologie BdR (13) : Archipel de Riou et du Frioul, cap Croisette, plus localis
 
 Précision dynamique : Communauté secondaire dérivée, par dégradation, du [[Crithmo maritimi-Limonietum pseudominuti]] mais surtout des garrigues littorales halotolérantes de l’[[Euphorbion pithyusae]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Camphorosmo%20monspeliacae-Frankenietum.png)

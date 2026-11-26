@@ -23,3 +23,7 @@ Chorologie BdR (13) : Ubacs des principaux reliefs de l'est du département : Ca
 Précision dynamique : Végétation relativement stable mais pouvant évoluer vers une végétation arbustive de l'Amelanchiero ovalis - Buxion sempervirentis (Rhamno catharticae - Prunetea spinosae).
 
 Dans le département, cette association n'est en réalité bien constituée que sur l'ubac de la Sainte-Victoire et montre ailleurs des cortèges pauvres tendant vers une communauté basale à Sesleria caerulea pour les reliefs les plus proches du littoral. 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Erysimo-Seslerietum%20caeruleae.png)

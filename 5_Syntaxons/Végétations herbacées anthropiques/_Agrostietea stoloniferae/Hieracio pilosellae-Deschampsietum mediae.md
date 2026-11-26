@@ -17,3 +17,7 @@ Espèces indicatrices : [[Deschampsia media]], [[Achillea odorata]], [[Pilosella
 Écologie : Végétation moins hygrophile que les associations précédentes, basiphile, se développant en tonsure sur des sols marneux, sableux, parfois au sein de l'association précédente sur des niveaux légèrement supérieurs de 15-20 cm. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Plaine de la Crau.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Hieracio%20pilosellae-Deschampsietum%20mediae.png)

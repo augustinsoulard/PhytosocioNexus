@@ -33,3 +33,7 @@ Atriplex patula, [[Cytisus scoparius]], [[Epilobium obscurum]], [[Equisetum arve
 
 **Syntaxonomie et synsystématique** :
 Le statut syntaxonomique et synsystématique de ce groupement du Chenopodion rubri Poli & J.Tüxen ex Kopecký 1969 reste à préciser au regard de l’analyse d’un plus grand nombre de relevés. Le matériel recueilli apparaît de plus relativement hétérogène (relevés trop larges ou communautés fragmentaires).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Equisetum%20arvense%20et%20Persicaria%20hydropiper.png)

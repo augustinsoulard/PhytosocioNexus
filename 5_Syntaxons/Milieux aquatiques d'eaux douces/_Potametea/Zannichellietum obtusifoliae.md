@@ -17,3 +17,7 @@ Espèces indicatrices : [[Zannichellia obtusifolia]].
 Écologie : Végétation pionnière basiphile à oligohalophile des lagunes peu salées, sans lien direct avec la mer, peu profondes, parfois temporairement exondées, sur des substrats sablo-vaseux à vaseux. Étage mésoméditerranéen.
 
 Chorologie BdR : Camargue ; Crau : marais du Vigueirat.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Zannichellietum%20obtusifoliae.png)

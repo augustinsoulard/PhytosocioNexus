@@ -37,3 +37,7 @@ Associations :
 - [[Petroselini austriaci-Trifolietum alpestris]] Gils et Keysers ex J.-M. Royer 2016 ; 
 - [[Trifolio medii-Laserpitietum latifolii]] Gils et Gilissen 1976 ; 
 - [[Trifolio medii-Silaetum silai]] Braque ex J.-M. Royer 2016
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Trifolio%20medii-Geranienion%20sanguinei.png)

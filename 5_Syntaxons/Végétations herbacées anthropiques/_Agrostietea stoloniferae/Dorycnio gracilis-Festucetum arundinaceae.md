@@ -19,3 +19,7 @@ Espèces indicatrices : [[Schedonorus arundinaceus]], [[Dorycnium pentaphyllum s
 Écologie : Végétation semi-artificielle mésohygrophile, parfois très légèrement halophile, fauchée ou pâturée, amendée, parfois irriguée et certainement enrichie par ensemencement. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Camargue et bordures de l'étang de Berre. Les relevés mériteraient d'être actualisés.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Dorycnio%20gracilis-Festucetum%20arundinaceae.png)

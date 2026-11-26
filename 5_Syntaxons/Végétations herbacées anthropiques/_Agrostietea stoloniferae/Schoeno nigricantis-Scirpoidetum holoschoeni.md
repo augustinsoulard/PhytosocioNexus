@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées à la phytodynamique de l’associ
 
 **Syntaxonomie et synsystématique** :
 L’association présente des liens avec le Schoeno nigricantis-Molinietum altissimae Pignatti 1959 (tab. 30, col. 36) association à Juncus maritimus et J. acutus , à laquelle il manque les éléments pelousaires et prairiaux ([[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Briza media]], [[Schedonorus arundinaceus]], [[Lotus glaber]]…).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Schoeno%20nigricantis-Scirpoidetum%20holoschoeni.png)

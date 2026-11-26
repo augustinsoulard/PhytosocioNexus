@@ -27,3 +27,7 @@ Associations :
 - [[Hyperico androsaemi-Quercetum roboris]] Rameau ex Corriol 2012 ; 
 - [[Saxifrago hirsutae-Quercetum roboris]] Corriol 2012 ; 
 - [[Thalictrello thalictroidis-Fraxinetum excelsioris]] Corriol 2012
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Pulmonario%20longifoliae-Quercenion%20roboris.png)

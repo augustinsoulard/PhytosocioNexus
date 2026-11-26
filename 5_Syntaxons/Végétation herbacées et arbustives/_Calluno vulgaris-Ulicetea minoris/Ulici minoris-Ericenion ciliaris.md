@@ -37,3 +37,7 @@ Associations :
 - [[Ulici minoris-Ericetum ciliaris]] (G. Lemée 1937) Le Normand 1966 ; 
 - [[Ulici minoris-Ericetum scopariae]] (Rallet 1935) Géhu 1975 ; 
 - [[Ulici minoris-Ericetum tetralicis]] (P. Allorge 1922) G. Lemée 1937
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ulici%20minoris-Ericenion%20ciliaris.png)

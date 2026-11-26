@@ -19,3 +19,7 @@ sources:
 ***Note** :* dans les vallées chaudes des Pyrénées orientales, une sous-association (ou association particulière ?) s'observe avec en plus [[Aethionema ovalifolium]] et [[Biscutella echinophora]] (Loisel.).
 
 ---
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Achnathero%20calamagrostidis-Centranthetum%20angustifolii.png)

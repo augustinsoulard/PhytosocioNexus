@@ -34,3 +34,7 @@ Les variations mises en évidence sont liées à la nature des substrats. Var. �
 
 **Syntaxonomie et synsystématique** :
 Les relevés princeps de cette association proviennent des Boutières et des Cévennes ardéchoises (RENAUX et al. 2015). Une partie des relevés rapprochée de « l’Association à Quercus pubescens et [[Buxus sempervirens]] » de BANNES-PUYGIRON (1933) semble correspondre à cette association (tab. 7, col. 46), comme en témoigne la présence dans ces relevés des taxons liés aux sols acides.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Salvio%20glutinosae-Quercetum%20pubescentis.png)

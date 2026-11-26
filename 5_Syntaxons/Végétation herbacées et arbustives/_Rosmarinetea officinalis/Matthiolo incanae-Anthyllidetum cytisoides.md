@@ -22,3 +22,7 @@ Chorologie BdR (13) : Falaises Soubeyranes du cap Canaille entre environ 10 et 2
 
 Précision dynamique : Végétation primaire stable située à l’interface des végétations halophiles des [[Crithmo maritimi-Staticetea]] et des végétations arbustives à potentiel évolutif des [[Quercetea ilicis]]. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Matthiolo%20incanae-Anthyllidetum%20cytisoides.png)

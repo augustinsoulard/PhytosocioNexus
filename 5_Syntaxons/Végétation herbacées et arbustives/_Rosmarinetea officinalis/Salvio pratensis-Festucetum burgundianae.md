@@ -34,3 +34,7 @@ Outre sa combinaison différentielle, ce groupement se démarque par rapport aux
 
 **Syntaxonomie et synsystématique** :
 Bien individualisé sur le plan écologique, ce groupement est clairement mis en évidence par les analyses statisitiques. Tout comme le Helictochloa bromoides-Festuca marginata-G, l’abondance des taxons des SedoScleranthetea, alliée à un appauvrissement en éléments des Rosmarinetalia et des Artemisio albaeBromenalia erecti rend difficile le rapprochement à une alliance, de cette association de transition entre Brometalia erecti et [[Rosmarinetalia officinalis]]. La présence d’éléments des Rosmarinetea ordinairement absents des Brometalia ([[Thymus vulgaris]], [[Satureja montana]], [[Aphyllanthes monspeliensis]] ) incite à proposer un rattachement par défaut à l’Helianthemo-Aphyllanthion monspeliensis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Salvio%20pratensis-Festucetum%20burgundianae.png)

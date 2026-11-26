@@ -25,3 +25,7 @@ Espèces indicatrices : [[Limonium bellidifolium]], [[Limonium narbonense]], [[S
 
 Chorologie BdR (13) : Camargue, étang de Berre. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Statico%20bellidifolii-Salicornietum%20fruticosae.png)

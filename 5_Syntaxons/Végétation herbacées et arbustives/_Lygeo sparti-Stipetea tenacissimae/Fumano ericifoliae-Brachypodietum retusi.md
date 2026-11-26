@@ -31,3 +31,7 @@ La variabilité du groupement est liée aux variations de substrats et d’altit
 
 **Syntaxonomie et synsystématique** :
 Par rapport au Phlomido lychnitidis-Brachypodietum retusi Braun-Blanq. 1925, l’association centrale des "pelouses" à Brachypodium retusum françaises, l’absence des éléments mésoméditerranéens méridionaux (tab. 17) incite à proposer une nouvelle association réunissant une partie des communautés nord-méditerranéennes des calcaires friables.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Fumano%20ericifoliae-Brachypodietum%20retusi.png)

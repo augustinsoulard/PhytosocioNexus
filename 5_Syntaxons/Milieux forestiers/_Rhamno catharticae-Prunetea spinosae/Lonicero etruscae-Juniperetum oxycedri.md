@@ -34,3 +34,7 @@ Les variations mises en évidence semblent liées au bioclimat. Var. à [[Junipe
 
 **Syntaxonomie et synsystématique** :
 Malgré la rareté des éléments des Rhamno-Prunetea spinosae s.l. il faut rapprocher cette association de l’ Amelanchiero ovalis-Buxenion sempervirentis ( Amelanchiero ovalis-Buxion sempervirentis Soriano & Sebastiá 1990) dont elle partage de nombreuses espèces, constituant une unité de transition avec les Pistacio-Rhamnetalia alaterni. Les analyses rapprochent le groupement ardéchois au Pruno mahaleb-Cotinetum coggygriae Rivas Mart. & Géhu 1978 genistetosum cinereae Offerhaus & Frachon in B.Foucault & J.-M.Royer 2016, à proximité du Rhamno saxatilis-Buxetum sempervirentis Bannes Puygiron ex Tüxen 1952. Il présente des affinités avec le Rhamno saxatilis-Buxetum sempervirentis Bannes Puygiron ex Tüxen 1952 mais se démarque par une teinte méridionale plus marquée avec [[Juniperus oxycedrus]], [[Quercus ilex]], [[Genista scorpius]], [[Cormus domestica]], taxons qui illustrent son appartenance aux marges du bassin méditerranéen.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lonicero%20etruscae-Juniperetum%20oxycedri.png)

@@ -17,3 +17,7 @@ Espèces indicatrices : [[Atriplex rosea]], [[Atriplex tatarica]], [[Chenopodium
 Écologie : Végétation thermophile, très nitrophile, des terrains enrichis en azote par la présence de bétail, au voisinage des étables. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Observée historiquement autour de Salin de Badon, la présence de cette association doit être aujourd'hui confirmée.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chenopodio%20vulvariae-Atriplicetum%20roseae.png)

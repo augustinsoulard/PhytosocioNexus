@@ -19,3 +19,7 @@ Espèces indicatrices : [[Persicaria lapathifolia]], [[Echinochloa crus-galli]],
 Chorologie BdR (13) : Durance.
 
 Cette association décrite du bassin de la Dordogne et reconnue dans le cours de la Loire diffère localement par la moindre fréquence de [[Persicaria hydropiper]] et de [[Leersia oryzoides]]. Felzines et Loiseau la placent dans une alliance nouvelle (Xanthion italici) ; le traitement de Mucina et al. 2016 l'inclut dans le [[Chenopodion rubri]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Persicario%20lapathifoliae-Echinochloetum%20cruris-galli.png)

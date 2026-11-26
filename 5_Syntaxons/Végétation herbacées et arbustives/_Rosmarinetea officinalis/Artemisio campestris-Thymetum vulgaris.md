@@ -34,3 +34,7 @@ Les variations mises en évidence sont liées à la nature des substrats : Subas
 
 **Syntaxonomie et synsystématique** :
 Les analyses satistiques rapprochent cette association des pelouses à Festuca arvernensis du Koelerio macranthae-Phleion phleoidis (pg6 & pg5). Plusieurs éléments sont effectivement communs à tous ces groupements. Eu égard à sa strucutre chaméphytique, il semblerait incongru d’intégrer l’Artemisio campestris-Thymetum vulgaris à cette alliance. L’absence ou la rareté des éléments de l’ Helianthemo-Aphyllanthion ([[Aphyllanthes monspeliensis]], [[Euphorbia nicaeensis]], [[Lavandula latifolia]], [[Linum campanulatum]], [[Lotus dorycnium]]) et la présence des éléments de Sedo-Scleranthetea incite à rapprocher ce groupement des garrigues saxicoles à [[Thymus vulgaris]]. Les éléments des Rosmarinetea sont toutefois peu abondants mais marquent la physionomie des communautés.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Artemisio%20campestris-Thymetum%20vulgaris.png)

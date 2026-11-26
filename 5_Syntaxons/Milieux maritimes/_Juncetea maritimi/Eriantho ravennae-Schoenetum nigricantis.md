@@ -22,3 +22,7 @@ Chorologie BdR (13) : Camargue.
 
 Note Catalogue BdR (13) : Les communautés subhalophiles dominées par [[Tripidium ravennae]] des dépressions arrière-dunaires s’intègrent bien dans cette alliance bien qu’elles soient souvent regroupées avec les communautés physionomiquement analogues des rives de cours d’eau. Elles s’en distinguent par un cortège des [[Juncetea maritimi]] relativement constant. L’[[Eriantho ravennae-Schoenetum nigricantis]] semble par ailleurs très proche de l’Holoschoenetum romani Braun-Blanq. ex Braun-Blanq. 1951 dont il ne constitue peut-être qu’une variante appauvrie. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Eriantho%20ravennae-Schoenetum%20nigricantis.png)

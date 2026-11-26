@@ -17,3 +17,7 @@ Prairie basale développée dans les anfractuosités et les vasques des lits roc
 
 **Composition floristique** :
 [[Agrostis stolonifera]], [[Blysmus compressus]], [[Carex viridula]], [[Juncus articulatus]] , [[Mentha aquatica]], [[Molinia arundinacea]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20basal%20%C3%A0%20Agrostis%20stolonifera%20et%20Juncus%20articulatus.png)

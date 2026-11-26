@@ -28,3 +28,7 @@ Associations :
 - [[Hordelymo europaei-Fagetum sylvaticae]] Kuhnholtz-Lordat 1937 mut. Willner 2002 ; 
 - [[Mercuriali perennis-Abietetum albae]] (Issler 1926) A. Hubert ex Boeuf 2011 ; 
 - [[Polygonato verticillati-Fagetum sylvaticae]] (Oberdorfer 1957) Carbiener ex Boeuf 2011
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Abietenion%20albae.png)

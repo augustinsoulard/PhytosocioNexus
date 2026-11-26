@@ -10,3 +10,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Espèces indicatrices : [[Festuca marginata]], [[Centaurea paniculata subsp. paniculata]], [[Leontodon crispus]], [[Teucrium montanum]], [[Lavandula angustifolia]], [[Knautia collina]], [[Genista hispanica subsp. hispanica]], [[Galium corrudifolium]]
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Argyrolobio%20zanonii-Aphyllanthetum%20monspeliensis.png)

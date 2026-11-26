@@ -29,3 +29,7 @@ Associations :
 - [[Hyperico pulchri-Quercetum roboris]] Rivas Martínez et al. 1991 ; 
 - [[Lonicero periclymeni-Quercetum petraeae]] Lapraz 1963 corr. Renaux et al. 2019 ; 
 - [[Pino pinastri-Quercetum roboris]] (Timbal 1985) Rameau ex P. Lafon 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Quercenion%20robori-pyrenaicae.png)

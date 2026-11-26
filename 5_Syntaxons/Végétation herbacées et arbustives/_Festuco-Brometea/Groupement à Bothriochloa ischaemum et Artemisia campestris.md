@@ -33,3 +33,7 @@ Groupement, à caractère xérophile et acidiclinophile, caractérisé par les t
 
 **Syntaxonomie et synsystématique** :
 Le groupement, bien que présentant des affinités avec le Festuco arvernensis-Artemisietum campestris Loiseau & Felzines 2010, en diffère par la présence des taxons thermophiles et méridionaux, avec, pour les plus fréquents, [[Centaurea pectinata]] , [[Bothriochloa ischaemum]] , [[Stachys recta]], [[Galium lucidum]], et pour les sporadiques, [[Centaurea paniculata]], [[Silene italica]], [[Sedum sediforme]], [[Helichrysum stoechas]] , [[Reichardia picroides]] . Ce groupement s’inscrit dans l’alliance du Koelerio macranthae-Phleion phleoidis Korneck 1974 et prend place au sein du Festucenion longifolio-lemanii Loiseau & Felzines 2010, sous-alliance regroupant les associations atlantiques et subatlantiques des roches siliceuses acides (LOISEAU & FELZINES 2010).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Bothriochloa%20ischaemum%20et%20Artemisia%20campestris.png)

@@ -40,3 +40,7 @@ Associations :
 - [[Thalictro minoris-Brometum erecti]] Knörzer 1960
 - [[Trifolio molinerii-Brometum erecti]] (Oberdorfer et Ger. Hofmann 1967) J.-M. Royer et Ferrez 2020
 - [[Veronico scheereri-Festucetum laevigatae]] Fernex ex J.-M. Royer et Ferrez in J.-M. Royer et Ferrez 2020
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Mesobromenion%20erecti.png)

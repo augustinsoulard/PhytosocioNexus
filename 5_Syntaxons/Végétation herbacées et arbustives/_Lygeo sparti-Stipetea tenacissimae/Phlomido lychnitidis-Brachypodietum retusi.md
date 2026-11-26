@@ -42,3 +42,7 @@ Le déterminisme des variantes mises en évidence doit être précisé. Var. typ
 
 **Syntaxonomie et synsystématique** :
 Bien que le Phlomido lychnitidis-Brachypodietum retusi Braun-Blanq. 1925 soit une association large incluant plusieurs structures végétales aujourd’hui bien distinguées (cf. § II.3.3.4), la présence en son sein de nombreux éléments propres aux communautés analysées ici, incite à rapprocher ces dernières de ce syntaxon. Le matériel étudié provenant du Bas-Vivarais et du Gard, diffère toutefois des relevés princeps par la présence de [[Bupleurum rigidum]], Lithodora fruticosa et Fumana thymifolia qui définissent sans doute une variante écologique particulière.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phlomido%20lychnitidis-Brachypodietum%20retusi.png)

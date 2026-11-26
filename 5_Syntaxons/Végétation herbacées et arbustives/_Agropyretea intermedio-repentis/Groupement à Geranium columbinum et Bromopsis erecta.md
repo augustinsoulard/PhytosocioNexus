@@ -30,3 +30,7 @@ Le peu de matériel réuni n’a pas permis de mettre en évidence les variation
 
 **Syntaxonomie et synsystématique** :
 Étude à poursuivre par le recueil de matériel (seulement deux relevés représentatifs). Le groupement présente des affinités avec la variante à Jasminum fruticans du Rumici intermedii-Brachypodietum retusi bituminarietosum bituminosae dont il ne pourrait représenter qu’une forme de dégradation.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Geranium%20columbinum%20et%20Bromopsis%20erecta.png)

@@ -17,3 +17,7 @@ sources:
 **Chorologie** : Cévennes, entre 400 et 1 400 m (15 relevés des Cévennes méridionales, Br.-Bl.).
 
 ***Note** :* la liste d'espèces donnée par Arènes (1929) sous le nom de *Notachlaenetum rupestre* correspond à un ensemble d'espèces des Androsacetalia vandellii et Potentilletalia caulescentis, sans coefficients — dénomination sans valeur syntaxonomique.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Asarinetum%20rupestris.png)

@@ -28,3 +28,7 @@ Les variations sont vraisemblablement dépendantes de l’inondabilité : les fo
 
 **Syntaxonomie et synsystématique** :
 Ces herbiers à Groenlandia densa et Ranunculus trichophyllus ont été diversement nommés : Potamo crispi-Ranunculetum trichophylli Imchenetzky 1926 var. à [[Groenlandia densa]], Ranunculo trichophylli-Groenlandietum densae H.Passarge 1994, Groenlandietum densae Segal ex P. Schipper, B. Lanj. & Schaminée in Schaminée, Weeda & V. Westh. 1995 var. à [[Ranunculus trichophyllus]], Parvopotamo-Zannichellietum palustris W.Koch ex Kapp & Sell 1965 groenlandietosum densae (Cirujano, Pascual & Velayos 1986) Felzines 2016 (FELZINES 2016). Au regard du tableau proposé par FELZINES (2016), les communautés ardéchoises ont été rapprochées du Potamo crispi-Ranunculetum trichophylli Imchenetzky 1926, bien que celui-ci précise qu’il faudrait « reprendre l’analyse des gr. Groenlandia densa et Ranunculus trichophyllus subsp. trichophyllus pour préciser leur position synsystématique ».
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potamo%20crispi-Ranunculetum%20trichophylli.png)

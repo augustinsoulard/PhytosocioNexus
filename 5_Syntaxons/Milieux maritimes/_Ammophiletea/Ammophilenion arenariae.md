@@ -28,3 +28,7 @@ Associations :
 - [[Galio arenarii-Ammophiletum arenariae]] Géhu 1968 ; 
 - [[Sileno thorei-Ammophiletum arenariae]] (Géhu 1968) Géhu et al. 1995
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ammophilenion%20arenariae.png)

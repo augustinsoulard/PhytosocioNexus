@@ -45,3 +45,7 @@ Associations :
 - [[Serapiado vomeraceae-Danthonietum decumbentis]] F. Blanchard et T. Lamothe 2005 ; 
 - [[Groupement à Lotus maritimus et Catananche caerulea]] Choisnet, 2019 ;
 - [[Succiso pratensis-Brachypodietum pinnati]] (Géhu 1959) Géhu et al. 1984
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Tetragonolobo%20maritimi-Bromenion%20erecti.png)

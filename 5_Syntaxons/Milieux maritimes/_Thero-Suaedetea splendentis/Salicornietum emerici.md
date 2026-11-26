@@ -23,3 +23,7 @@ Chorologie BdR (13) : Camargue, salins du pourtour de l’étang de Berre.
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression située au contact des végétations des lagunes ([[Ruppietalia maritimae]]) et des sansouires vivaces ([[Salicornietea fruticosae]]).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Salicornietum%20emerici.png)

@@ -33,3 +33,7 @@ Chênaies vertes pauvres en essences parfois accompagnées de Castanea sativa ou
 
 **Syntaxonomie et synsystématique** :
 Il faudrait réunir un matériel plus abondant pour définir le statut phytosociologique de ce groupement dont la combinaison différentielle regroupe en majorité des espèces héliophiles. Mais les sites l’hébergeant sont rarissimes. Son écologie très particulière laisserait toutefois présager un groupement original.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Geranium%20purpureum%20et%20Quercus%20ilex.png)

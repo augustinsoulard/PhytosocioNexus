@@ -17,3 +17,7 @@ Seulement un relevé de ce groupement a été recueilli. Il s’observe néanmoi
 
 **Composition floristique** :
 [[Alyssum alyssoides]], [[Arenaria serpyllifolia]] gr., [[Bromus squarrosus]], [[Catapodium rigidum]], [[Cerastium semidecandrum]], [[Lysimachia linum-stellatum]], [[Medicago minima]], [[Medicago monspeliaca]], [[Minuartia hybrida]], [[Phleum arenarium]], [[Trigonella wojciechowskii]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Phleum%20arenarium%20et%20Bromus%20squarrosus.png)

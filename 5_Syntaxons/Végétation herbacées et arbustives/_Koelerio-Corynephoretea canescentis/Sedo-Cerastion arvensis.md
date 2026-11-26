@@ -29,3 +29,7 @@ Associations :
 - [[Sileno conicae-Koelerietum macranthae]] P. Paul et Y. Richard ex Loiseau et Felzines 2010
 
 Note CatVeg : comme le proposent Lafon & Henry (2022), nous intégrons cette alliance absente des référentiels français (Bardat et al., 2004, Royer et al., 2006, etc.), mais retenue au niveau européen par Mucina et al. (2016), pour regrouper les pelouses sur sables calcaires non littoraux à dominante de vivaces et notamment différenciées par un contingent des Festuco-Brometea.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sedo-Cerastion%20arvensis.png)

@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées à la nature des sols. Var. à [[F
 
 **Syntaxonomie et synsystématique** :
 Le groupement présente des affinités avec le Cirsio monspessulani-Menthetum longifoliae O.Bolos & Vives in O.Bolos 1956, association de Catalogne, dans laquelle manquent : [[Molinia arundinacea]], [[Lotus glaber]], [[Lotus maritimus]], [[Carex distans]], [[Epipactis palustris]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Molinio%20arundinaceae-Pulicarietum%20dysentericae.png)

@@ -22,3 +22,7 @@ Espèces indicatrices : [[Populus alba]], [[Populus nigra subsp. neapolitana]], 
 Chorologie BdR (13) : Durance.
 
 Précision dynamique : Evolution potentielle théorique vers une chênaie-ormaie mais cela reste à étudier.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rubio%20peregrinae-Populetum%20albae.png)

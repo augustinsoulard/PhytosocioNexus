@@ -19,3 +19,7 @@ Espèces indicatrices : [[Carex liparocarpos]], [[Crepis suffreniana]], [[Arenar
 Chorologie BdR (13) : Crêtes des principaux massifs du département : Concors, montagne Sainte-Victoire, mont Olympe et environs, chaîne de l'Étoile, Sainte-Baume, mont Carpiagne.
 
 Précision dynamique : Localement stable sur de toutes petites surfaces mais également en lien dynamique avec les végétations des Ononidetalia striatae (Festuco – Brometea).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Carici%20nitidae-Crepidetum%20suffrenianae.png)

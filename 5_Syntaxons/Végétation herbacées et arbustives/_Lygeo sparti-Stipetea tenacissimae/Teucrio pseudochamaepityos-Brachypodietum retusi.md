@@ -19,3 +19,7 @@ Espèces indicatrices : [[Teucrium pseuchamaepitys]], [[Brachypodium retusum]], 
 Chorologie BdR (13) : Basses collines de la ceinture nord de Marseille.
 
 Précision dynamique : Pelouse issue de la dégradation des garrigues du Rosmarinion officinalis et présente souvent sur de petites surfaces en mosaïque avec cette dernière.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Teucrio%20pseudochamaepityos-Brachypodietum%20retusi.png)

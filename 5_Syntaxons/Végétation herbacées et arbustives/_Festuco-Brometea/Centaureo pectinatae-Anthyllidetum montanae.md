@@ -34,3 +34,7 @@ L’association est marquée par le cortège des Artemisio albaeBromenalia erect
 
 **Syntaxonomie et synsystématique** :
 Les analyses partielles et synthétiques rapprochent dans un même cluster cette association avec les aphyllanthaies et les xérobromaies ardéchoises : l’ensemble de ces communautés a pour point commun un important lot d’espèces des Rosmarinetalia et des Artemisio albae-Bromenalia erecti, mettant en évidence la position charnière des groupements ardéchois. Bien que située dans un autre secteur biogéographique, l’association présente des affinités avec l’Ononido cristatae-Carlinetum acanthifoliae Guin. 1972 genistetosum jordani Gaultier 1989 (syntaxon mis en évidence dans le sud de la Drôme) par la combinaison similaire des principaux taxons structurant et la représentation des différents groupes sociologiques.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Centaureo%20pectinatae-Anthyllidetum%20montanae.png)

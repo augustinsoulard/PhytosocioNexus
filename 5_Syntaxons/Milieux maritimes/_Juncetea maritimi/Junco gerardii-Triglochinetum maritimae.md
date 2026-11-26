@@ -18,3 +18,7 @@ Espèces indicatrices : [[Juncus gerardi]], [[Triglochin maritimum]], [[Scorzone
 
 Chorologie BdR (13) : Camargue. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Junco%20gerardii-Triglochinetum%20maritimae.png)

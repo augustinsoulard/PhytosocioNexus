@@ -17,3 +17,7 @@ Espèces indicatrices : [[Taeniatherum caput-medusae]], [[Trifolium cherleri]], 
 Écologie : Végétation herbacée subnitrophile, acidicline, des substrats perméables remaniés, généralement pâturés (sols perturbés du coussou de Crau). Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Crau sèche.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Trifolio%20cherleri-Taeniatheretum%20capitis-medusae.png)

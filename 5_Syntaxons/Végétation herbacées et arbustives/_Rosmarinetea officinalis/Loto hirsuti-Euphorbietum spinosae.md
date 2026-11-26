@@ -29,3 +29,7 @@ sources:
 Antibes (Alpes-Maritimes), cap Gros, calcaire, alt. 4 m, 09 mai 2022, rec. 80 %, 19 taxons : [[Euphorbia spinosa]] 2, [[Artemisia caerulescens subsp. gallica]] +, [[Helichrysum italicum]] subsp. italicum 3, [[Lotus hirsutus]] 2, [[Jacobaea maritima]] 3, [[Anthyllis barba-jovis]] +, [[Lotus cytisoides]] +, [[Crithmum maritimum]] 1, [[Limonium cordatum]] +, [[Camphorosma monspeliaca]] +, [[Smilax aspera]] 1, [[Arisarum vulgare]] +, Pittosporum tobira +, [[Rubia peregrina]] +, [[Reichardia picroides]] 1, [[Dactylis glomerata subsp. hispanica]] 1, [[Brachypodium phoenicoides]] 1, [[Catapodium marinum]] +, [[Galatella sedifolia]] subsp. sedifolia +.
 
 **Position synsystématique** : [[Rosmarinetea officinalis]] / [[Helichrysetalia italici]] / [[Euphorbion pithyusae]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Loto%20hirsuti-Euphorbietum%20spinosae.png)

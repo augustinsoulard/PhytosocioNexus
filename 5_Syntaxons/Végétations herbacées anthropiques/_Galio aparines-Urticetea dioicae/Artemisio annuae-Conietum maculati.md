@@ -19,3 +19,7 @@ Espèces indicatrices : [[Conium maculatum]], [[Artemisia annua]], [[Rumex crist
 Chorologie BdR (13) : Bordure des cours d'eau du département : principalement le Rhône, l'Arc et la partie inférieure de l'Huveaune. Semble absente de la vallée de la Durance.
 
 Végétation décrite de Catalogne, totalement méconnue dans le département, pour laquelle des relevés complémentaires permettraient de confirmer définitivement sa similarité. Nos relevés, effectués relativement tôt au printemps (mars-avril), ne montrent pas Artemisia annua pourtant bien présente dans les secteurs échantillonnés.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Artemisio%20annuae-Conietum%20maculati.png)

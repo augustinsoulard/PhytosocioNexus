@@ -30,3 +30,7 @@ Les variations mises en évidence sont liées au bioclimat. Subass. viburnetosum
 
 **Syntaxonomie et synsystématique** :
 Pas de comparaisons possibles avec des syntaxons équivalents.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Corno%20sanguineae-Genistetum%20scorpii.png)

@@ -9,3 +9,7 @@ Écologie : Végétation hygrophile des substrats alcalins régulièrement inon
 Chorologie BdR (13) : Crau humide d’après un relevé de Molinier & Tallon 1950 à la Volpelière (Arles). Bibliographie : Molinier & Tallon 1950.
 
 [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Galio%20constricti-Juncetum%20subnodulosi.png)

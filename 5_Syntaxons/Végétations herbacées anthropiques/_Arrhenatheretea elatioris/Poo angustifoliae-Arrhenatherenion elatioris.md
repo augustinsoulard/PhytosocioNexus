@@ -33,3 +33,7 @@ Associations :
 - [[Rumici acetosellae-Arrhenatheretum]] elatioris Boeuf et al. 2007
 
 Note CatVeg : le contenu de cette sous-alliance est hétérogène. Si certaines associations sont bien prairiales (Rumici acetosellae-Arrhenatheretum elatioris), d'autres sont plutôt des associations pelousaires (Phleo serotini-Agrostietum capillaris, Galio veri-Anthoxanthetum odorati). Mais surtout, quatre d’entre elles, dont le type de la sous-alliance (Carici divulsae-Poetum angustifoliae, Carici leersii-Arrhenatheretum elatioris, Poo angustifoliae-Avenuletum pubescentis, Carici ligericae-Festucetum rubrae), ne sont pas du tout dominées par le groupe sociologique des Arrhenatheretea elatioris. Ces associations présentent un cortège très significatif de taxons rhizomateux rudéraux, de sorte que leur intégration dans les Agropyretea intermedio-repentis serait légitime. Cette proposition reste à confirmer sur la base d'une synthèse de la classe des Agropyretea.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Poo%20angustifoliae-Arrhenatherenion%20elatioris.png)

@@ -20,3 +20,7 @@ Espèces indicatrices : [[Phalaris arundinacea]], [[Lycopus europaeus]], [[Lysim
 
 Chorologie BdR (13) : Durance ; à rechercher car méconnue.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lycopodo%20europaei-Phalaridetum%20arundinaceae.png)

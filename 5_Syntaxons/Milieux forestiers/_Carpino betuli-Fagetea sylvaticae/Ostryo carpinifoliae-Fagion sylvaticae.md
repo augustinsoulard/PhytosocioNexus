@@ -23,3 +23,7 @@ ZH : non
 
 Associations :
 - [[Campanulo persicaefoliae-Ostryetum carpinifoliae]] Barbero et Bono 1970
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ostryo%20carpinifoliae-Fagion%20sylvaticae.png)

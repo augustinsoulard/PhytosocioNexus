@@ -27,3 +27,7 @@ Espèces indicatrices : [[Brachypodium phoenicoides]], [[Ononis spinosa]], [[Phl
 **Chorologie :** ne manque nulle part dans les plaines méditerranéennes entre les Préalpes et les Pyrénées ; se présente en Catalogne sous une forme peu différente. Vers le Nord, atteint le Valentinois méridional, où De Bannes-Puygiron (1933) décrit une variante (ou sous-association) plus pauvre en caractéristiques, se rapprochant du [[Xerobromion erecti]], avec [[Tragopogon dubius subsp. major]], [[Echium italicum]], [[Falcaria vulgaris]]. Vers l'Est, s'étend jusqu'à la Provence occidentale, où [[Dianthus virgineus]], [[Trifolium scabrum]], [[Biscutella lima]] et [[Ononis antiquorum]] sont plus fréquents qu'en Languedoc, tandis que [[Phlomis herba-venti]] et [[Nigella damascena]] y sont plus rares.
 
 Chorologie BdR (13) : Tout le département ; la variante à Elytrigia acuta est limitée à la Camargue et à la Crau humide.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Brachypodietum%20phoenicoidis.png)

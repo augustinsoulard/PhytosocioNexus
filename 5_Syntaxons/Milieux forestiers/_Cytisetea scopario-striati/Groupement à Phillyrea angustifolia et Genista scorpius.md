@@ -30,3 +30,7 @@ Le prémanteau à Phyllirea angustifolia se maintient sur les marnes du Paléog�
 
 **Syntaxonomie et synsystématique** :
 Le matériel réuni est trop peu fourni et quelque peu hétérogène, pour pouvoir proposer la description d’une association. Pas de comparaisons possibles avec des syntaxons équivalents.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Phillyrea%20angustifolia%20et%20Genista%20scorpius.png)

@@ -27,3 +27,7 @@ Associations :
 - [[Pino pinastri-Quercetum ilicis]] (Abbayes 1954) Géhu et Géhu-Franck 1984 ; 
 - [[Pino pinastri-Quercetum suberis]] (Géhu 1969) Vanden Berghen 1970 ; 
 - [[Querco ilicis-Rhamnetum alaterni]] Bioret 2008
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Querco%20ilicis-Pinenion%20maritimi.png)

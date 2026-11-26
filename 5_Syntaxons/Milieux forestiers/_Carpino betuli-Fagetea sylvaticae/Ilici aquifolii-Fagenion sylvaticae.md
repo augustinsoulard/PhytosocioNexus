@@ -27,3 +27,7 @@ Associations :
 - [[Ilici aquifolii-Fagetum sylvaticae]] Braun-Blanquet 1967 ; 
 - [[Luzulo niveae-Fagetum sylvaticae]] Susplugas ex Braun-Blanquet 1952 ; 
 - [[Solidagini virgaureae-Fagetum sylvaticae]] (G. Cusset 1964) Renaux et al. 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ilici%20aquifolii-Fagenion%20sylvaticae.png)

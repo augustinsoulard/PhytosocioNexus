@@ -18,3 +18,7 @@ Espèces indicatrices : [[Scleranthus annuus]] (IV), [[Rumex acetosella]] (II), 
 
 Écologie : moissons sur sols siliceux.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Scleranthetum%20annui.png)

@@ -19,3 +19,7 @@ Espèces indicatrices : [[Trifolium tomentosum]], [[Trifolium resupinatum]], [[T
 Écologie : Végétation pionnière mésophile des substrats légèrement perturbés des fonds de vallons, fossés et autres lieux régulièrement inondés.
 
 Chorologie BdR (13) : Répartition à préciser : observée autrefois dans les parties basses du département aux environs de Marseille.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Medicagini%20arabicae-Trifolietum%20tomentosi.png)

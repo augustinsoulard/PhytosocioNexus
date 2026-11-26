@@ -22,3 +22,7 @@ Chorologie BdR (13) : Camargue ; salines de l’étang de Berre.
 
 Note Catalogue BdR (13) : Cette végétation nous semble, comme le montre le tableau de synthèse, très proche de la précédente au niveau de sa composition floristique même si la structure et les espèces dominantes semblent différentes (deux stades d’évolution dynamique ?). Elle ne doit également pas être confondue avec les faciès à [[Juncus subulatus]] des végétations de sansouires relevant des [[Salicornietea fruticosae]]. Elle fait la transition avec les végétations relevant des [[Phragmito australis-Magnocaricetea elatae]]. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Bolboschoeno%20maritimi-Juncetum%20subulati.png)

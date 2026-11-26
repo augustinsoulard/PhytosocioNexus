@@ -47,3 +47,7 @@ Associations :
 - [[Ulici gallii-Ericetum cinereae]] (Vanden Berghen 1958) Gloaguen et Touffet 1975 ; 
 - [[Ulici minoris-Ericetum cinereae]] Delelis et Géhu 1975 ; 
 - [[Ulici minoris-Vaccinietum myrtilli]] Boullet et al. 1995 nom. ined. (1)
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ulicenion%20minoris.png)

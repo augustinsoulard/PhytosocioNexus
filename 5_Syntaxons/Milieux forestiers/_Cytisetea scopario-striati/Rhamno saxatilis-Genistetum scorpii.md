@@ -33,3 +33,7 @@ Les variations mises en évidence sont liées au bioclimat. Subass. loniceretosu
 
 **Syntaxonomie et synsystématique** :
 Pas de comparaisons possibles avec des syntaxons équivalents.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rhamno%20saxatilis-Genistetum%20scorpii.png)

@@ -21,3 +21,7 @@ Chorologie BdR (13) : Camargue ; groupement affine dans la sablière d'Anjarre d
 
 Précision dynamique : Végétation liée à l’altération des systèmes dunaux par le pâturage ou le piétinement peu intensif, s’intégrant en mosaïque au sein des végétations psammophiles vivaces spécifiques des dunes en voie de fixation ([[Crucianelletalia maritimae]]) avec lesquelles elle sont liées dynamiquement dans la série conduisant au bois de genévriers ([[Phillyreo angustifoliae-Juniperetum turbinatae]] ; [[Quercetea ilicis]]).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Catapodium%20hemipoa%20et%20Avellinia%20festucoides.png)

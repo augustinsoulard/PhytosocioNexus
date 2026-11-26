@@ -23,3 +23,7 @@ Chorologie BdR (13) : Pentes rocheuses littorales du Bec de l'Aigle au cap Canai
 Précision dynamique : Pelouses associées (pentes fortes) ou issues de la dégradation (incendies) des pinèdes littorales à Juniperus phoenicea subsp. turbinata (Pistacio lentisci - Pinion halepensis).
 
 Cette association se retrouve jusqu'en Provence cristalline (tableau 21).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Piptathero%20caerulescentis-Brachypodietum%20retusi.png)

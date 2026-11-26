@@ -51,3 +51,7 @@ Associations :
 - [[Sileno zetlandicae-Festucetum pruinosae]] Bioret et Géhu 2008 ; 
 - [[Spergulario rupicolae-Armerietum maritimae]] Géhu 2008 ; 
 - [[Spergulario rupicolae-Silenetum maritimae]] Géhu et Bioret 2000
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sileno%20maritimae-Festucenion%20pruinosae.png)

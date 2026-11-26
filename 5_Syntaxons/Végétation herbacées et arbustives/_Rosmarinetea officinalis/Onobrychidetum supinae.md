@@ -13,3 +13,7 @@ Syntaxon non mentionné en France.
 
 Espèces indicatrices : [[Poterium verrucosum]], [[Leucanthemum graminifolium]]
 [[Linum campanulatum]]
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Onobrychidetum%20supinae.png)

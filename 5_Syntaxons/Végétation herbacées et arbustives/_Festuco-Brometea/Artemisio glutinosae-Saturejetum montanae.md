@@ -29,3 +29,7 @@ La Roque-en-Provence (Alpes-Maritimes), Costa Vaère, alluvions, alt. 289 m, 14 
 **Position synsystématique** : [[Festuco-Brometea]] / [[Ononidetalia striatae]] / [[Lavandulo angustifoliae-Genistion cinereae]] (rattachement incertain, attribué par défaut à cette alliance en raison du poids des espèces des Ononidetalia striatae).
 
 **Affinités :** à rapprocher des groupements alluviaux décrits par Choisnet (2019) en Ardèche (Artemisio campestris-Thymetum vulgaris) et du Teucrio polii-Festucetum cinereae (Royer & Ferrez 2020) des Hautes-Alpes.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Artemisio%20glutinosae-Saturejetum%20montanae.png)

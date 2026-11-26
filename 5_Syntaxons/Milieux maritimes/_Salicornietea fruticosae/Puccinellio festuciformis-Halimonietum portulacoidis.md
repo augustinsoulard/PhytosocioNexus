@@ -19,3 +19,7 @@ Espèces indicatrices : [[Halimione portulacoides]], [[Puccinellia festuciformis
 
 Chorologie BdR (13) : Camargue. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Puccinellio%20festuciformis-Halimonietum%20portulacoidis.png)

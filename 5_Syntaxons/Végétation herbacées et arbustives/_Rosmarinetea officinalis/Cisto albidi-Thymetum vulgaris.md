@@ -34,3 +34,7 @@ Les variations mises en évidence sont liées à la nature plus ou moins friable
 
 **Syntaxonomie et synsystématique** :
 L’association est rapprochée des stipaies marno-calcaricoles (pg16 et 23) par les analyses statistiques. Comme elles, elle partage un lot réduit d’éléments de l’Helianthemo-Aphyllanthion (subass. type notamment) et une pauvreté en taxons pelousaires (faibles dominances, faibles fréquences). Cette association présente un caractère méditerranéen marqué : 40 % des relevés proviennent en effet du gard (environ d’Uzès). LOISEL (1971) décrit de Provence un groupement proche, l’Helichryso stoechadis-Cistetum albidi R.J.Loisel 1971 qui se démarque par son caractère méditerranéen plus marqué.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cisto%20albidi-Thymetum%20vulgaris.png)

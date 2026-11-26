@@ -20,3 +20,7 @@ Espèces indicatrices : [[Quercus ilex]], [[Arisarum vulgare]], [[Ruscus aculeat
 Écologie : Végétation forestière thermophile, mésophile à mésoxérophile, indifférente à la nature du substrat mais qui nécessite des sols évolués. Étage mésoméditerranéen inférieur.
 
 Chorologie BdR (13) : Forêt très marginale dans le département, présente uniquement dans le secteur du Bec de l'Aigle (La Ciotat) où elle est réduite à de très faibles surfaces.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Arisaro%20vulgaris-Quercetum%20ilicis.png)

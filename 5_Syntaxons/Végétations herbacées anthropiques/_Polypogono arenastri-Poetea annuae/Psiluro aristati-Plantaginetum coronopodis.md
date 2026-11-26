@@ -19,3 +19,7 @@ Espèces indicatrices : [[Filago pygmaea]], [[Plantago coronopus subsp. coronopu
 Chorologie BdR (13) : Crau sèche ; végétation affine aux abords de l'étang de Bolmon.
 
 Précision dynamique : Végétation édaphophile, maintenue par la perturbation permanente du piétinement, dérivant par dégradation et eutrophisation de l'Asphodelo ayardii - Brachypodietum retusi (Lygeo sparti - Stipetea tenacissimae).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Psiluro%20aristati-Plantaginetum%20coronopodis.png)

@@ -30,3 +30,7 @@ Pelouse-ourlet xérophile liées aux hautes levées alluvionnaires (4-8 m / eau)
 
 **Syntaxonomie et synsystématique** :
 RIVAS-MARTÍNEZ et al . 2002 proposent sur la base d’un relevé, la définition d’un Elytrigio campestris-Brachypodietum phoenicoidis Rivas Mart. & Izco in Rivas Mart., T.E.Díaz, Fern.Gonz., Izco, Loidi, Lousã & Penas 2002 (tab. 17, col. 2). Ce groupement basophile alluvial supraméditerranéen présente des affinités avec l’ Aristolochia clematitis-Elytrigia campestris-G mais se distingue par les éléments floristiques ibériques absents ici.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Aristolochia%20clematitis%20et%20Elytrigia%20campestris.png)

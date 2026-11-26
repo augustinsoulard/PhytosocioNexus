@@ -21,3 +21,7 @@ Espèces indicatrices : [[Adiantum capillus-veneris]], [[Samolus valerandi]].
 Chorologie BdR (13) : Association peu développée dans le département où elle peut s'observer ponctuellement dans les reliefs (Calanques, Sainte-Baume : tufs du vallon de Saint-Pons à Gémenos en particulier) et sur les fontaines encroûtantes des villes et villages ; à rechercher ailleurs. Adiantum capillus-veneris est fréquent dans les puits de la plaine de la Crau sans pour autant constituer des communautés relevant de cette alliance.
 
 Précision dynamique : Communauté azonale dynamiquement stable se substituant sur des substrats humides aux communautés plus xériques des Asplenietea trichomanis dans la gamme climatique des formations forestières des Quercetea ilicis et des Quercetea pubescentis. Elle peut ainsi participer aux mosaïques de végétation des parois rocheuses.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Samolo%20valerandi-Adiantetum%20capilli-veneris.png)

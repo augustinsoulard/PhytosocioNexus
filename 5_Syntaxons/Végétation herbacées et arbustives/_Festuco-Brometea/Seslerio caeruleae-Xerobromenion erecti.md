@@ -34,3 +34,7 @@ Associations :
 - [[Pulsatillo vulgaris-Seslerietum caeruleae]] Boullet in J.-M. Royer et Ferrez 2020 ; 
 - [[Seslerio caeruleae-Anthyllidetum montanae]] R. Breton 1956 ; 
 - [[Sileno italicae-Helianthemetum cani]] J.-M. Royer et Bidault 1966
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Seslerio%20caeruleae-Xerobromenion%20erecti.png)

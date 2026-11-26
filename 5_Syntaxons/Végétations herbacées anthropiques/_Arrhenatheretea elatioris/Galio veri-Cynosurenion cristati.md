@@ -28,3 +28,7 @@ Associations :
 - [[Eryngio campestris-Lolietum perennis]] Julve 1989 ; 
 - [[Eryngio maritimi-Plantaginetum lanceolatae]] Julve 1989 ; 
 - [[Medicagini lupulinae-Cynosuretum cristati]] H. Passarge 1969
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Galio%20veri-Cynosurenion%20cristati.png)

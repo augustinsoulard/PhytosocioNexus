@@ -31,3 +31,7 @@ Cette pelouse se développe sur alluvions silico-calcaires accumulées au niveau
 
 **Syntaxonomie et synsystématique** :
 Avec [[Anisantha madritensis]], [[Blackstonia imperfoliata]], [[Polypogon maritimus]], Lysimachia arvensis subsp. arvensis, ce groupement présente une combinaison originale. Il peut s’intégrer dans le groupe d’associations à Blackstonia imperforata mis en évidence par DE FOUCAULT (2013a) au sein du Centaurio pulchelli-Blackstonion perfoliatae.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Blackstonio%20imperfoliatae-Juncetum%20bufonii.png)

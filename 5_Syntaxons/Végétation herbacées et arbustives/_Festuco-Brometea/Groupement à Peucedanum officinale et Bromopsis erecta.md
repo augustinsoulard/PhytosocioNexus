@@ -17,3 +17,7 @@ Sous cet intitulé, trois relevés quelque peu hétérogènes sont réunis. Il s
 
 **Composition floristique** :
 [[Aristolochia rotunda]], [[Betonica officinalis]], [[Blackstonia perfoliata]], [[Brachypodium phoenicoides]], [[Centaurium erythraea]], [[Cynodon dactylon]], [[Festuca trichophylla]], [[Filipendula vulgaris]], [[Galium verum]], [[Leucanthemum vulgare]] gr., [[Peucedanum officinale]], [[Plantago media]], [[Polygala vulgaris]], [[Potentilla verna]], [[Prunella hyssopifolia]], [[Prunella laciniata]], [[Ranunculus gramineus]], [[Scabiosa atropurpurea]], [[Trifolium lappaceum]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Peucedanum%20officinale%20et%20Bromopsis%20erecta.png)

@@ -30,3 +30,7 @@ Cette pelouse oligo-mésotrophile apparaît généralement au-delà de 250 m d'a
 
 **Syntaxonomie et synsystématique** :
 La présence (faibles fréquences et dominances) de [[Sedum sediforme]], [[Sedum ochroleucum]] et [[Thymus vulgaris]] incite à rapprocher cette pelouse du Sedion micrantho-sediformis. Ce groupement est mal individualisé par les analyses statistiques, confondu avec les pelouses annuelles. Son étude doit être poursuivie pour statuer sur sa validité.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Euphorbia%20flavicoma%20et%20Sedum%20album.png)

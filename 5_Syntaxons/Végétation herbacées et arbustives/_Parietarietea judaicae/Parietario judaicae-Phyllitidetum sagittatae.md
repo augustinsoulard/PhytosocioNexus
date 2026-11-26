@@ -21,3 +21,7 @@ Espèces indicatrices : [[Asplenium sagittatum]], [[Parietaria judaica]]. La pr�
 Chorologie BdR (13) : Îles de Maire et de Riou, localement sur le continent dans le massif de Marseilleveyre (Calanques).
 
 Malgré des relevés réalisés sur des surfaces certainement trop larges, Knoerr (1960) a bien cerné cette association originale dont le rattachement actuel à la classe des Parietarietea judaicae ne se justifie que par la constance de Parietaria judaica. La description d'une association originale (de Foucault 2016a) ne nous paraît pas pertinente, car basée sur la présence d'espèces compagnes dont la fréquence semble uniquement liée à la méthode de relevé. Asplenium sagittatum s'observe par ailleurs dans quelques puits de Crau où il forme des peuplements monospécifiques.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Parietario%20judaicae-Phyllitidetum%20sagittatae.png)

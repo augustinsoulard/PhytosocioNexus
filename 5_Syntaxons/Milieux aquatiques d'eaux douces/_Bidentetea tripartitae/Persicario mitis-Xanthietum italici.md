@@ -34,3 +34,7 @@ Le déterminisme des variations observées reste à préciser, avec un syntaxon 
 
 **Syntaxonomie et synsystématique** :
 Au regard du Cypero fusci-Persicarietum maculosae décrit ci-après, la synécologie bien distincte (topographique et édaphique) de ce groupement, conditionnant quelques différences floristiques notables (notamment la rareté des taxons hygrophiles), corroborée par les analyses statistiques, incite à proposer une association différente. Le Persicario mitis-Xanthietum italici présente des affinités avec le Myosoto aquaticae-Bidenteum frondosae O.Bolós, J.M.Montserrat & Romo 1988, association décrite d’Espagne dans les Pyrénées catalanes, qui par l’absence de nombreuses espèces ([[Persicaria hydropiper]] , [[Rorippa sylvestris]] , [[Digitaria sanguinalis]], [[Polygonum aviculare]], [[Setaria viridis]]…) apparaît bien distincte (rel. 9, tab. 39).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Persicario%20mitis-Xanthietum%20italici.png)

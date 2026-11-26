@@ -31,3 +31,7 @@ Var. à [[Anisantha madritensis]] (oa2a) avec [[Catapodium rigidum]], [[Hornungi
 
 **Syntaxonomie et synsystématique** :
 Le Parietarietum lusitanicae est décrit de l’Hérault par SUTTER (1973) comme une association provisoire. Entre 80 et 250 m d’altitude, elle y occupe les mêmes types de stations qu’en Ardèche, mais présente une teinte plus thermophile avec la présence de Galium verticillatum et de Thelygonum cynocrambe. Les communautés ardéchoises peuvent être interprétées comme constituant une race septentrionale de l’association, car celles-ci ne possèdent pas d’espèces différentielles spécifiques.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Parietarietum%20lusitanicae.png)

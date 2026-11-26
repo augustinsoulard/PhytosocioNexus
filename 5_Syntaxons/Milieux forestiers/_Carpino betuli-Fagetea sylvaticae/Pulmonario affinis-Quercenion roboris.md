@@ -27,3 +27,7 @@ Associations :
 - [[Pulmonario affinis-Fraxinetum excelsioris]] Billy ex Le Hénaff et Renaux in Renaux et al. 2015 ; 
 - [[Pulmonario affinis-Quercetum roboris]] (M. Gruber 1988) Rameau 1994 ; 
 - [[Rusco aculeati-Quercetum roboris]] (Noirfalise 1968) Rameau ex Renaux et al. 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Pulmonario%20affinis-Quercenion%20roboris.png)

@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées aux gradients hydrique et trophiqu
 
 **Syntaxonomie et synsystématique** :
 Cf. § 3.5.4.ii
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Festuco%20trichophyllae-Gaudinietum%20fragilis.png)

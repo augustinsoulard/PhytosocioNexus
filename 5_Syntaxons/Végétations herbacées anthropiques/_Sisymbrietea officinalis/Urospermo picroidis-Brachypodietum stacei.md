@@ -31,3 +31,7 @@ Le déterminisme des variations observées doit être précisé. Var. à [[Erodi
 
 **Syntaxonomie et synsystématique** :
 Ce groupement dont il ne semble pas exister d’équivalents décrits dans la bibliographie peut s’intégrer dans les Brometalia rubenti-tectorum (présence d’[[Anisantha madritensis]] , [[Urospermum picroides]], [[Clypeola jonthlaspi]] ). Son classement dans une alliance connue est problématique car il n’héberge aucune différentielle des alliances mises en avant dans la synthèse de DE FOUCAULT (2012).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Urospermo%20picroidis-Brachypodietum%20stacei.png)

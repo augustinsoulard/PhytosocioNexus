@@ -33,3 +33,7 @@ Les variations mises en évidence sont liées à la réserve en eau des sols. Va
 
 **Syntaxonomie et synsystématique** :
 Les communautés relevées entrent sans ambiguité dans cette association décrite dans la zone d’étude par VANDEN BERGHEN en 1972.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Aphyllantho%20monspeliensis-Schoenetum%20nigricantis.png)

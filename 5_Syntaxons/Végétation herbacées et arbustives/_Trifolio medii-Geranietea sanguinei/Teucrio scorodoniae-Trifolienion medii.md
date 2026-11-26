@@ -31,3 +31,7 @@ Associations :
 - [[Sileno nutantis-Oreoselinetum nigri]] J.-M. Royer in J.-M. Royer et al. 2006 ; 
 - [[Teucrio scorodoniae-Centaureetum nemoralis]] T. Müller 1962 ; 
 - [[Violo rivinianae-Lathyretum nigri]] A. Schmitt et Rameau ex J.-M. Royer 2016
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Teucrio%20scorodoniae-Trifolienion%20medii.png)

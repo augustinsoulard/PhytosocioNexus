@@ -17,3 +17,7 @@ Bosquets eutrophisés liés aux dépressions marneuses à vocation agricole de l
 
 **Composition floristique** :
 [[Quercus pubescens]], [[Prunus avium]], [[Crataegus monogyna]], [[Ligustrum vulgare]], [[Euonymus europaeus]], [[Sambucus nigra]]. [[Hedera helix]], [[Arum italicum]], [[Geum urbanum]], [[Galium aparine]], [[Clematis vitalba]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Galium%20aparine%20et%20Quercus%20pubescens.png)

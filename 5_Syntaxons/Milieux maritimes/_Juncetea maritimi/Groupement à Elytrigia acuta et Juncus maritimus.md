@@ -24,3 +24,7 @@ Chorologie BdR (13) : Camargue.
 
 Note Catalogue BdR (13) : Végétation à étudier pour éventuellement dégager une ou plusieurs associations.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Elytrigia%20acuta%20et%20Juncus%20maritimus.png)

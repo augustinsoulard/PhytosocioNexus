@@ -20,3 +20,7 @@ Espèces indicatrices : [[Typha latifolia]], [[Alisma plantago-aquatica]].
 
 Chorologie BdR (13) : Vallée de la Durance ; potentiel partout dans les plaines en bordure de plans d'eau ou dans des fossés.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Typhetum%20latifoliae.png)

@@ -31,3 +31,7 @@ Var. à [[Anisantha diandra]] (oa1a) déterminisme à préciser (stations plus �
 
 **Syntaxonomie et synsystématique** :
 Ce groupement présente des liens avec le Valerianello carinatae-Calepinetum irregularis B.Foucault 2008, association basiphile de lisière de manteau thermo-atlantique connue du CentreOuest de la France (Anjou, Deux-Sèvres) (FOUCAULT 1988 & 2009). Cette association se distingue du groupement ardéchois par la présence de [[Valerianella carinata]], [[Valerianella locusta]] [[Sedum cepaea]], [[Draba muralis]], [[Geranium robertianum]], [[Fumaria muralis]] , et par l’absence d’ Orlaya grandiflora et d’[[Alliaria petiolata]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Alliario%20petiolatae-Calepinetum%20irregularis.png)

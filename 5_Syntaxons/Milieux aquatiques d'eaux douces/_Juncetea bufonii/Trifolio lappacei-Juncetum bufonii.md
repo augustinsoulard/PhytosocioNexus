@@ -31,3 +31,7 @@ Les variations mises en évidence dans le tableau doivent être confirmées par 
 
 **Syntaxonomie et synsystématique** :
 Le groupement présente des affinités avec le Blackstonio perfoliatae-Ranunculetum sardoi B.Foucault 2013, association mésohygrophile à Juncus pygmaeus de la Crau (FOUCAULT 2013b), dont il se différencie positivement par la présence de [[Veronica anagalloides]] , [[Trifolium lappaceum]] , [[Linum catharticum]]…
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Trifolio%20lappacei-Juncetum%20bufonii.png)

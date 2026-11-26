@@ -18,3 +18,7 @@ sources:
 **Écologie** : cultures sarclées (vignobles notamment), sols travaillés plusieurs fois par an et abondamment fumés. Premier optimum de développement en septembre–octobre, après les vendanges, et deuxième optimum en février–mars, après la germination hivernale des annuelles. Nombreux faciès et variantes, correspondant soit au mode de culture ou de fumure, soit à des conditions édaphiques particulières.
 
 **Chorologie** : Espagne, plaine languedocienne et Provence occidentale (30 relevés inédits du Languedoc, Br.-Bl.).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Amarantho%20delilei-Diplotaxietum%20erucoidis.png)

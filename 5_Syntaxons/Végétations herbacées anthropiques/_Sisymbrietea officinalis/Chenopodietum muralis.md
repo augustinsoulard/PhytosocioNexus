@@ -32,3 +32,7 @@ Sous-unités :
 - sous-ass. *atriplicetosum* Br.-Bl. sous-ass. nova — faiblement halophile, dans des lieux du littoral riches en sels ammoniacaux ; se différencie principalement par la présence constante et l'abondance d'[[Atriplex tatarica]], très rare dans la sous-ass. *sisymbrietosum* ; [[Hyoscyamus albus]], [[Chenopodium ambrosioides]] et [[Sisymbrium runcinatum]] lui font défaut.
 
 ---
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chenopodietum%20muralis.png)

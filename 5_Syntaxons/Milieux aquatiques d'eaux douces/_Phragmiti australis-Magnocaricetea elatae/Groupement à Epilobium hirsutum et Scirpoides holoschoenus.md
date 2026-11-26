@@ -17,3 +17,7 @@ Seules deux communautés fragmentaires ont été observées au niveau de fossés
 
 **Composition floristique** :
 [[Epilobium hirsutum]], [[Scirpoides holoschoenus]], [[Cirsium arvense]], [[Epilobium tetragonum]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Epilobium%20hirsutum%20et%20Scirpoides%20holoschoenus.png)

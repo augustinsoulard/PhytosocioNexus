@@ -19,3 +19,7 @@ Espèces indicatrices : [[Iris reichenbachiana]], [[Juncus maritimus]], [[Juncus
 Chorologie BdR (13) : Camargue, étang de Berre aux marais du Bouquet.
 
 Molinier & Tallon (1970) rattachaient cette association aux Juncetea maritimi. Seule une partie de leurs relevés s'y intègrent réellement, correspondant à la variante la plus halophile.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Junco%20maritimi-Iridetum%20spuriae.png)

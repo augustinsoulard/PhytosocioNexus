@@ -19,3 +19,7 @@ Espèces indicatrices : [[Amelanchier ovalis]], [[Sorbus aria]], [[Acer monspess
 Chorologie BdR (13) : Ubac de la Sainte-Victoire, montagne des Ubacs, Dents de Roque Forcade, Tour de Cauvin, Sainte-Baume ; peut-être sous une forme appauvrie sur la chaîne de l'Étoile.
 
 Précision dynamique : Végétation stable sur les substrats superficiels des vires rocheuses ou en situation de pentes fortes. Elle peut parfois potentiellement évoluer vers des pinèdes de Pinus sylvestris qui précèdent l'installation d'une chênaie blanche (Quercion pubescenti-petraeae).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cotoneastro%20nebrodensis-Amelanchieretum%20ovalis.png)

@@ -17,3 +17,7 @@ Cette parvoroselière dominée par [[Eleocharis palustris]], est liée aux anses
 
 **Composition floristique** :
 [[Eleocharis palustris]], [[Rorippa sylvestris]], [[Lycopus europaeus]], [[Lythrum salicaria]], [[Lysimachia vulgaris]], [[Phalaris arundinacea]], [[Ambrosia artemisiifolia]], [[Paspalum distichum]], [[Xanthium orientale subsp. italicum]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Rorippa%20sylvestris%20et%20Eleocharis%20palustris.png)

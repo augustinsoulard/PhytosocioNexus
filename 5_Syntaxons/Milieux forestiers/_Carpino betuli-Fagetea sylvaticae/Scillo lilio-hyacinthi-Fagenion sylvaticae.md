@@ -28,3 +28,7 @@ Associations :
 - [[Luzulo sylvaticae-Fagetum sylvaticae]] G. Cusset 1964 ; 
 - [[Lysimachio nemori-Fagetum sylvaticae]] M. Gruber 1978 ; 
 - [[Scillo lilio-hyacinthi-Fagetum sylvaticae]] Braun-Blanquet ex O. Bolòs 1957
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Scillo%20lilio-hyacinthi-Fagenion%20sylvaticae.png)

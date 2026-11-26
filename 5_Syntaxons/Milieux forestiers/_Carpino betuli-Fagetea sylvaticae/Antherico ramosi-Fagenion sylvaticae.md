@@ -29,3 +29,7 @@ Associations :
 - [[Noccaeo montanae-Quercetum petraeae]] J.-M. Royer in J.-M. Royer et al. 2009 ; 
 - [[Rhamno alpini-Fagetum sylvaticae]] O. Ménard et Fédoroff in Renaux et al. 2019 ; 
 - [[Sorbo latifoliae-Fagetum sylvaticae]] Thévenin et J.-M. Royer 2001
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Antherico%20ramosi-Fagenion%20sylvaticae.png)

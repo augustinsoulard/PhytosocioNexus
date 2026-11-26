@@ -28,3 +28,7 @@ Associations :
 - [[Pino uncinatae-Amelanchieretum ovalis]] B. Foucault 1991 ; 
 - [[Pruno brigantinae-Buxetum sempervirentis]] Offerhaus et Frachon in B. Foucault et J.-M. Royer 2016 ; 
 - [[Roso montanae-Rhamnetum alpinae]] Misset 2014
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cotoneastro%20integerrimi-Amelanchierenion%20ovalis.png)

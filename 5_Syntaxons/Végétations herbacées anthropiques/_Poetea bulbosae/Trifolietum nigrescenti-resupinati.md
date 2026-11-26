@@ -17,3 +17,7 @@ Espèces indicatrices : [[Trifolium resupinatum]], [[Trifolium nigrescens]], [[C
 Écologie : Végétation pionnière mésohygrophile, subhalophile, des petites dépressions au sein d'anciennes dunes fluviatiles aplanies (montilles), pâturées. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Camargue.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Trifolietum%20nigrescenti-resupinati.png)

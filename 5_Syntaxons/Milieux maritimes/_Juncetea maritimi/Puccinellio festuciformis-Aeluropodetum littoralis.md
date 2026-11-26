@@ -22,3 +22,7 @@ Chorologie BdR (13) : Camargue.
 
 Précision dynamique : Généralement en contact avec le [[Statico bellidifoliae-Salicornietum fruticosae]] Braun-Blanq. 1933. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Puccinellio%20festuciformis-Aeluropodetum%20littoralis.png)

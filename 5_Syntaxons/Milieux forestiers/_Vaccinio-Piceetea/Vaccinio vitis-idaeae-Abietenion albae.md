@@ -27,3 +27,7 @@ Associations :
 - [[Dryopterido dilatatae-Abietetum albae]] Thébaud et al. 2014 ; 
 - [[Luzulo luzuloidis-Abietetum albae]] Oberdorfer 1957 ; 
 - [[Vaccinio vitis-idaeae-Abietetum albae]] (Reinhold 1944) Oberdorfer 1957
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Vaccinio%20vitis-idaeae-Abietenion%20albae.png)

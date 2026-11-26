@@ -17,3 +17,7 @@ Espèces indicatrices : [[Plantago bellardii]], [[Rumex bucephalophorus subsp. g
 Écologie : Végétation xérophile pionnière des sols acides superficiels, argilo-sablonneux, en clairière des maquis bas et des cistaies.
 
 Chorologie BdR (13) : Secteur du Bec de l'Aigle sur la Ciotat (poudingues gréseux).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Helianthemo%20guttati-Plantaginetum%20bellardii.png)

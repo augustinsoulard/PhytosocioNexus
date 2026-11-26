@@ -17,3 +17,7 @@ Espèces indicatrices : [[Astragalus incanus]], [[Achillea tomentosa]], [[Bothri
 Écologie : Végétation xérophile et thermophile, fortement pâturée, des terrasses alluviales quaternaires aux substrats profonds mais très filtrants (galets et limons). Étage mésoméditerranéen supérieur.
 
 Chorologie BdR (13) : Végétation relictuelle dans la vallée de la Durance certainement façonnée par le pâturage de transhumance, aujourd'hui largement remplacée par les cultures. Elle est très marginale et en limite d'aire dans le département : Saint-Paul-lès-Durance. Molinier (1955) donne un relevé qui peut lui être rattaché à Aix-en-Provence (mas de Bardeline).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Helianthemo%20hirti-Stipetum%20ibericae.png)

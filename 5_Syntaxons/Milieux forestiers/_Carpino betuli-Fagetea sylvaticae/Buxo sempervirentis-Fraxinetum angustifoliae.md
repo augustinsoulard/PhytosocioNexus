@@ -40,3 +40,7 @@ Les nombreuses variations mises en évidence sont liées à la nature des substr
 
 **Syntaxonomie et synsystématique** :
 Eu égard à sa synécologie (petits cours d’eau), l’absence des éléments fluviaux et des différentielles du Fraxino excelsioris-Quercion roboris et la présence d’éléments des Populetalia albae, le Buxo sempervirentis-Fraxinetum angustifoliae s’individualise comme une unité vicariante méridionale des chênaies pédonculées-frênaies des climats tempérés. Il se distingue à ce titre du Daphno laureolae-Fraxinetum excelsioris Vanden Berghen ex Renaux et al. 2015 (Alno glutinosae-Fraxinetum calciense Vanden Berghen 1963 p.p.) décrit de la région des Causses qui est une aulnaie-frênaie à Fraxinus excelsior s’insérant dans le Fraxino-Quercion. Avec [[Quercus pubescens]], Buxus sempervirens et [[Hippocrepis emerus]], cette association marque toutefois la transition avec les groupements méridionaux. Le Symphyto tuberosi-Fraxinetum excelsioris Choisnet in Renaux et al. 2015 est une association géographiquement proche qui constitue son variant écologique sur alluvions siliceuses des Cévennes se différenciant par la présence des espèces des sols acides ( [[Poa nemoralis]], [[Lonicera periclymenum]], [[Holcus mollis]]).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Buxo%20sempervirentis-Fraxinetum%20angustifoliae.png)

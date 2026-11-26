@@ -24,3 +24,7 @@ Chorologie BdR (13) : Sur l’ensemble du littoral rocheux du département depui
 
 Précision dynamique : Communauté pionnière dynamiquement stable et sans potentiel d’évolution. Vers l’intérieur des terres, elle est généralement en contact avec les communautés des garrigues halotolérantes de l’[[Euphorbion pithyusae]] et intègre, selon l’échelle d’observation, les communautés annuelles du [[Sileno sedoidis-Catapodion loliacei]] ([[Saginetea maritimae]]) qui se localisent sur les replats.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Crithmo%20maritimi-Limonietum%20pseudominuti.png)

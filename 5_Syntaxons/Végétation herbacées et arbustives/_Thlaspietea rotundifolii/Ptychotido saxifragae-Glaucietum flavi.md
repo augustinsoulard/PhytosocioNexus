@@ -34,3 +34,7 @@ La variabilité de cette végétation reste à préciser par l’analyse d’un 
 
 **Syntaxonomie et synsystématique** :
 La combinaison floristique originale, bien distincte du Glaucio flavi-Scrophularietum caninae BraunBlanq. ex Tchou 1948 et de l’Heliantho tuberosi-Saponarietum officinalis, de par la présence des taxons calcaricoles méridionaux ([[Ptychotis saxifraga]], Euphorbia segetalis subsp. segetalis, [[Satureja montana]], [[Euphorbia nicaeensis]]), incite à proposer une association particulière du Glaucion flavi Braun-Blanq. ex Tchou 1948.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ptychotido%20saxifragae-Glaucietum%20flavi.png)

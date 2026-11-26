@@ -20,3 +20,7 @@ Espèces indicatrices : [[Cynanchum acutum]], [[Convolvulus sepium]], [[Arundo d
 Écologie : Végétation hygrophile, nitrophile des substrats anthopisés humides, riches en nutriments, en bordure des eaux (bordures de cours d'eau ou de marais).
 
 Chorologie BdR (13) : Marais de l'Audience. Méconnue mais certainement assez répandue (sans Cynanchum acutum) dans les plaines du département.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Arundini%20donacis-Convolvuletum%20sepium.png)

@@ -31,3 +31,7 @@ Subass. clematidetosum vitalbae Choisnet, 2019 (fu1b) sur stations aux sols rich
 
 **Syntaxonomie et synsystématique** :
 La présence des éléments supraméditerranéens ( [[Buxus sempervirens]], [[Acer monspessulanum]], [[Hippocrepis emerus]]…) incite à intégrer cette association dans l’ Amelanchiero-Buxion sempervirentis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Junipero%20oxycedri-Cornetum%20sanguineae.png)

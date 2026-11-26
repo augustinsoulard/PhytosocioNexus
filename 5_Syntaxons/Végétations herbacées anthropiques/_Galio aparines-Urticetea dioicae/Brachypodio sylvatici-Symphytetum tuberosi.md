@@ -17,3 +17,7 @@ Espèces indicatrices : [[Brachypodium sylvaticum]], [[Symphytum tuberosum]], [[
 Écologie : Végétation mésophile, nitrophile, hémisciaphile se développant en lisière des forêts rivulaires sur des sols profonds, riches en matières organiques. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Vallée de l'Arc ; à rechercher ailleurs.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Brachypodio%20sylvatici-Symphytetum%20tuberosi.png)

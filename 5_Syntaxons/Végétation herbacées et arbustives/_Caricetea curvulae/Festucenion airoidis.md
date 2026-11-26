@@ -26,3 +26,7 @@ Associations :
 - [[Arenario grandiflorae-Festucetum yvesii]] Baudière et Serve 1975 nom. inval. (45) ; 
 - [[Hieracio pumili-Festucetum supinae]] Braun-Blanquet 1948 ; 
 - [[Leontodonto pyrenaici-Caricetum curvulae]] Braun-Blanquet 1948 nom. invers. Corriol et Mikolajczak 2017
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Festucenion%20airoidis.png)

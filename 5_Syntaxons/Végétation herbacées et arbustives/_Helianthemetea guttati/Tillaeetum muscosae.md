@@ -20,3 +20,7 @@ Syn. : Crassuletum tillaeae Molin. & Tallon 1950.
 **Écologie** : Végétation pionnière des petites accumulations de terre fine (limons fins rougeâtres) situées entre des galets de quartzite, dans de petites cuvettes humides en hiver mais s'asséchant très rapidement au printemps.
 
 Chorologie BdR (13) : Crau.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Tillaeetum%20muscosae.png)

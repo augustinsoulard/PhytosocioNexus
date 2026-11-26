@@ -17,3 +17,7 @@ Espèces indicatrices : [[Anthericum liliago]], [[Brachypodium rupestre]], [[Ger
 Écologie : Végétation méso-xérophile se développant en lisière des chênaies méditerranéennes de Quercus pubescens sur des substrats marno-calcaires en pente faible, plutôt secs mais en exposition fraîche. Étage mésoméditerranéen supérieur à supraméditerranéen.
 
 Chorologie BdR (13) : Ubac de la Lare, en périphérie du massif de la Sainte-Baume ; fortement potentiel sur les ubacs du mont Olympe, de Saint-Jean du Puy, de la Sainte-Victoire.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Anthericum%20liliago%20et%20Geranium%20sanguineum.png)

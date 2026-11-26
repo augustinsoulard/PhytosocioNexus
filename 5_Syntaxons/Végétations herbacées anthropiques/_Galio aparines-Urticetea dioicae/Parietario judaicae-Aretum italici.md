@@ -27,3 +27,7 @@ Chorologie BdR (13) : Végétation totalement méconnue dans le département, id
 Cette association existe également en France, au moins dans les Bouches-du-Rhône, où un relevé a été réalisé sur le site de la Tour du Valat :
 
 Arles (Bouches-du-Rhône), Tour du Valat, alt. 1 m, 31 mars 2015, rec. H 80 %, 14 taxons. B. Offerhaus, M. Pires, H. Michaud, B. Huynh-Tan (rel. 1133007) : [[Arum italicum]] 3, [[Parietaria judaica]] 2, [[Ballota nigra]] subsp. foetida +, [[Brachypodium sylvaticum]] +, [[Viola odorata]] +, [[Hedera helix]] 2, [[Poa trivialis]] 2, [[Lapsana communis]] subsp. communis +, [[Cardamine hirsuta]] 1, [[Euphorbia peplus]] +, [[Galium aparine]] subsp. aparine 2, [[Geranium rotundifolium]] +, [[Laurus nobilis]] +, [[Stellaria media]] aggr. +.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Parietario%20judaicae-Aretum%20italici.png)

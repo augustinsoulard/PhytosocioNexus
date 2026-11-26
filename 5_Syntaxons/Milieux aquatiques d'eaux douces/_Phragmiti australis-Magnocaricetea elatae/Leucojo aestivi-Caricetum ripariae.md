@@ -36,3 +36,7 @@ sources:
 - sous-ass. *caricetosum elatae* Br.-Bl. sous-ass. nova — puissant atterrisseur des bassins d'eau douce de faible profondeur, caractérisée par la dominance de [[Carex elata]] ; immersion prolongée de l'automne jusqu'en juin. [[Thelypteris palustris]], eurosibérienne très rare dans le Midi, abonde au marais de Raphèle. Une variante à [[Cyperus badius]] indique un assèchement plus avancé.
 
 **Note** : en bordure des étangs littoraux saumâtres, en arrière du Scirpetum maritimi, apparaît parfois une sous-association avec [[Carex hispida]] et quelques espèces faiblement halophiles ([[Juncus maritimus]], [[Agrostis stolonifera subsp. maritima]], [[Sonchus maritimus]]). Une amélioration de la valeur pastorale de ces marais est possible en introduisant [[Phalaris arundinacea]], [[Agrostis stolonifera]], [[Glyceria maxima]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Leucojo%20aestivi-Caricetum%20ripariae.png)

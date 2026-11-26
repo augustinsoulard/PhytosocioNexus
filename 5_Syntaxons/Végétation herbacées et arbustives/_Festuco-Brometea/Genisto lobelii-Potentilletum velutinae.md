@@ -19,3 +19,7 @@ Espèces indicatrices : [[Anthyllis montana]], [[Brassica repanda subsp. saxatil
 Écologie : Végétation héliophile et xérophile se développant sur des replats calcaires rocheux très perméables en exposition plutôt nord et en situation de crêtes très exposées aux vents. Étages mésoméditerranéen à supraméditerranéen.
 
 Chorologie BdR (13) : Crêtes des plus hauts massifs du département (Sainte-Victoire), mont Olympe, chaîne de l'Étoile, Garlaban, Sainte-Baume, monts Carpiagne et Puget dans les Calanques ; sous des formes très appauvries aux plus basses altitudes : le Montounier.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Genisto%20lobelii-Potentilletum%20velutinae.png)

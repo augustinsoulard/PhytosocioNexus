@@ -22,3 +22,7 @@ Chorologie BdR (13) : Camargue.
 
 Note Catalogue BdR (13) : Cette association montre certaines affinités avec la classe des [[Koelerio glaucae-Corynephoretea canescentis]] Klika in Klika & V. Novák 1941 par la présence d’espèces psammophiles vivaces et annuelles non spécialement littorales. Le positionnement adopté ici pourrait être revu dans le cadre d’une synthèse sur cette dernière classe. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Artemisio%20glutinosae-Teucrietum%20maritimi.png)

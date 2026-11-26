@@ -21,3 +21,7 @@ Espèces indicatrices : [[Onobrychis caput-galli]], [[Astragalus sesameus]], [[H
 Chorologie BdR (13) : Nerthe ; autrefois près de Simiane-Collongues
 
 Le groupement des Bouches-du-Rhône se caractérise par la présence d'Hedysarum spinosissimum, parfois d'Helianthemum ledifolium, et pourrait constituer une association distincte comme le proposait Molinier (1934) : à préciser.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Onobrychido%20capitis-galli-Barbuletum%20gracilis.png)

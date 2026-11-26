@@ -23,3 +23,7 @@ ZH : p.p.
 
 Associations :
 - [[Armerio maritimae-Asplenietum marini]] Géhu et Géhu-Franck 1984
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Armerio%20maritimae-Asplenienion%20marini.png)

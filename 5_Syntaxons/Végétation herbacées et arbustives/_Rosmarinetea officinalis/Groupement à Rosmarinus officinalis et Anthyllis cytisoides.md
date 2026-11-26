@@ -18,3 +18,7 @@ Espèces indicatrices : [[Anthyllis cytisoides]], [[Cheirolophus intybaceus]], [
 
 Chorologie BdR (13) : Secteur du cap Canaille au Bec de l’Aigle (St-Frétouse) entre Cassis et La Ciotat surtout dans la partie sud où cette végétation relaie l’[[Helianthemo syriaci-Ericetum multiflorae]]. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Rosmarinus%20officinalis%20et%20Anthyllis%20cytisoides.png)

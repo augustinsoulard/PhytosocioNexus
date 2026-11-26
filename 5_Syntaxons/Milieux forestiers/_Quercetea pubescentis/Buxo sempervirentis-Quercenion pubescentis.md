@@ -32,3 +32,7 @@ Associations :
 - [[Clematido flammulae-Quercetum pubescentis]] Choisnet 2019 ;
 - [[Teucrio chamaedrys-Quercetum pubescentis]] Choisnet 2019 ;
 - [[Salvio glutinosae-Quercetum pubescentis]] Choisnet in Renaux et al. 2015
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Buxo%20sempervirentis-Quercenion%20pubescentis.png)

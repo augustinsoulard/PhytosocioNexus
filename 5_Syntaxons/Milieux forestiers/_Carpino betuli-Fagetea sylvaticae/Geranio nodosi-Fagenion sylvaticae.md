@@ -27,3 +27,7 @@ Associations :
 - [[Phyteumo ovati-Abietetum albae]] (Barbero et Bono 1970) Barbero et Quézel 1975 ; 
 - [[Poo chaixii-Abietetum albae]] Renaux et al. 2015 ; 
 - [[Trochiscantho nodiflori-Abietetum albae]] Braun-Blanquet ex Renaux et al. 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Geranio%20nodosi-Fagenion%20sylvaticae.png)

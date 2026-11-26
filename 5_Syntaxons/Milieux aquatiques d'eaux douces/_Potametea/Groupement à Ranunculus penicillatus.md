@@ -27,3 +27,7 @@ Cet herbier en extension dans la vallée de l’Ardèche (eutrophisation) est pr
 
 **Syntaxonomie et synsystématique** :
 Le peu de matériel réuni ne permet pas de statuer sur le statut phytosociologique de ce groupement.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Ranunculus%20penicillatus.png)

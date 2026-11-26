@@ -33,3 +33,7 @@ Les variations mises en évidence sont liées à la maturité des communautés e
 
 **Syntaxonomie et synsystématique** :
 On peut reconnaître la présence de ces chênaies juvéniles dans les relevés du [[Viburno tini-Quercetum ilicis]] (BRAUN-BLANQUET 1936, BRAUN-BLANQUET et al. 1952), où les espèces héliophiles [[Bupleurum rigidum]], [[Brachypodium retusum]], [[Teucrium chamaedrys]] (…) sont présentes avec souvent des fortes fréquences (IV). On pourrait sans doute rapprocher le Bupleurum rigidum-Quercus pubescens-G du Viburno tini-Quercetum ilicis. Mais son individualité floristique mise en évidence par les analyses statistiques incite à individualiser une unité particulière. Les associations apparentées au Quercion pubescenti-sessiliflorae
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Bupleurum%20rigidum%20et%20Quercus%20pubescens.png)

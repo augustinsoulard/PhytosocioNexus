@@ -34,3 +34,7 @@ Un syntaxon proche, le Centaurea aspera-Aphyllanthes monspeliensis-G ( pg3 tab. 
 
 **Syntaxonomie et synsystématique** :
 Son écologie et sa composition floristique originales arguent pour une nouvelle association. La présence d’[[Aphyllanthes monspeliensis]], [[Euphorbia nicaeensis]], [[Lavandula latifolia]], [[Linum campanulatum]], Lotus dorycnium incite à inclure ce groupement à l’Helianthemo italici-Aphyllanthion monspeliensis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Epilobio%20dodonaei-Saturejetum%20montanae.png)

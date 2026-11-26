@@ -21,3 +21,7 @@ Espèces indicatrices : [[Cistus albidus]], [[Cistus monspeliensis]], [[Cistus s
 Chorologie BdR (13) : La Ciotat : Bec de l'Aigle, île Verte.
 
 Les quelques maquis bas à Cistus spp., Lavandula stoechas, Helichrysum stoechas peuvent se rattacher par défaut à cette association même s'ils sont peu typiques ici et se rapprochent clairement des Rosmarinetea officinalis. Il existe par ailleurs en Crau quelques cistaies peu caractérisées où manque Lavandula stoechas.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Helichryso%20stoechadis-Cistetum%20albidi.png)

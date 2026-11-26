@@ -19,3 +19,7 @@ Espèces indicatrices : [[Astragalus hypoglottis]], [[Lavandula angustifolia]], 
 Écologie : Végétation mésoxérophile, généralement liée à un pâturage plus ou moins intense, se développant sur substrats calcaires ou marno-calcaires, généralement en exposition nord. Étage supraméditerranéen.
 
 Chorologie BdR (13) : Ubacs de la Sainte-Victoire, du mont Olympe et Saint-Jean du Puy, Dents de Roque Forcade ; à rechercher ailleurs en dégradation des chênaies blanches supraméditerranéennes. L'extension de cette association s'est semble-t-il fortement réduite avec la baisse d'intensité du pâturage sur les reliefs du département.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lavandulo%20spicae-Astragaletum%20purpurei.png)

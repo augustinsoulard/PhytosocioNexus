@@ -27,3 +27,7 @@ Associations :
 - [[Chamaemelo nobilis-Trifolietum repentis]] B. Foucault 1995
 
 Note CatVeg : la distinction écologique et floristique avec le Danthonio decumbentis-Cynosurenion cristati n'est pas évidente et mériterait d'être clarifiée.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chamaemelo%20nobilis-Cynosurenion%20cristati.png)

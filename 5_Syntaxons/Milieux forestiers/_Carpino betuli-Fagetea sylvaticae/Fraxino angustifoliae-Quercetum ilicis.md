@@ -34,3 +34,7 @@ Le Ruscus aculeatus-Fraxinus angustifolia -G ( fh3) constitue un syntaxon proche
 
 **Syntaxonomie et synsystématique** :
 De par sa structuration phytosociologique, le Fraxino angustifoliae-Quercetum ilicis présente des liens avec le Melico uniflorae-Ostryetum Lapraz 1984, le Rubio peregrinae-Fraxinetum oxycarpae Pedrotti ex Biondi & Allegreza 2004 et le Carici-Fraxinetum angustifoliae Pedrotti 1970 corr. 1992. Il se distingue de tous ces syntaxons par les fortes fréquences des taxons des Quercetea ilicis ([[Asparagus acutifolius]], [[Clematis flammula]], [[Quercus ilex]], [[Phillyrea latifolia]]) et la présence notable de Celtis australis et de [[Lunaria annua]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Fraxino%20angustifoliae-Quercetum%20ilicis.png)

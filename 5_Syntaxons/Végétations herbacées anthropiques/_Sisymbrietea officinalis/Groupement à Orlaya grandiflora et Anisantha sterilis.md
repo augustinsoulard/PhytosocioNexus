@@ -29,3 +29,7 @@ Le groupement s’observe sur les dépôts alluviaux piégés dans les anfractuo
 
 **Syntaxonomie et synsystématique** :
 Bien qu’il existe une cohérence écologique et floristique entre tous les relevés analysés, le groupement réunit plusieurs syntaxons élémentaires mal caractérisés. Avec [[Aegilops neglecta]], [[Vulpia ciliata]], [[Trifolium campestre]] , il semble pouvoir s’intégrer dans le Taeniathero capitis-medusaeAegilopion geniculatae ( Brometalia rubenti-tectorum ). De plus, il présente des affinités avec le Medicagini rigidulae-Aegilopetum geniculatae Rivas-Mart. & Izco 1977, association décrite d’Espagne reconnue par JULVE (1993) dans le midi français (FOUCAULT 2012), qui possède notamment [[Aegilops neglecta]], [[Medicago minima]], M. rigidula, [[Astragalus hamosus]] (rare).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Orlaya%20grandiflora%20et%20Anisantha%20sterilis.png)

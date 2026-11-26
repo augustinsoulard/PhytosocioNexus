@@ -16,3 +16,7 @@ Syn. : Ass. à Iberis pinnata Br.-Bl. 1915 ; Ass. à Iberis pinnata et Asperula 
 Espèces indicatrices : [[Iberis pinnata]] (IV⁺), [[Bunium bulbocastanum]] (IV⁺), [[Legousia hybrida]] (IV⁺), [[Androsace maxima]] (III⁺), [[Camelina microcarpa]] (II⁺), [[Holosteum umbellatum]] (I⁺), [[Turgenia latifolia]] (I⁺).
 
 Écologie : moissons sur sol calcaire pierreux, peu profond, très perméable. Développement annuel tardif ; les espèces sensibles aux gélées printanières manquent ou sont rares.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Androsaco%20maximae-Iberidetum%20pinnatae.png)

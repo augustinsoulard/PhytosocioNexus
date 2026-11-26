@@ -19,3 +19,7 @@ Espèces indicatrices : [[Hippuris vulgaris]], [[Myriophyllum spicatum]].
 Écologie : Végétation des eaux stagnantes à très faiblement courantes, mésotrophes à eutrophes, de profondeur moyenne (0,5-2 m), sur substrat graveleux ou sableux recouvert de vase, plutôt basique.
 
 Chorologie BdR : Autrefois dans les canaux de la Crau humide aux environs d'Arles ; sa présence actuelle devra être confirmée compte tenu des évolutions possibles des milieux.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Myriophyllo%20verticillati-Hippuridetum%20vulgaris.png)

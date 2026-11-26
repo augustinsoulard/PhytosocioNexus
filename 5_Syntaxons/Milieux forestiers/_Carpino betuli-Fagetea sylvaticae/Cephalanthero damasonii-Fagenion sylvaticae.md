@@ -32,3 +32,7 @@ Associations :
 - [[Polygalo chamaebuxi-Fagetum sylvaticae]] Barbero 1970 ; 
 - [[Seslerio albicantis-Fagetum sylvaticae]] Moor 1952 ; 
 - [[Taxo baccatae-Fagetum sylvaticae]] Moor 1952
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cephalanthero%20damasonii-Fagenion%20sylvaticae.png)

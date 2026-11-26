@@ -30,3 +30,7 @@ Associations :
 - [[Laserpitio latifolii-Teucrietum scorodoniae]] F. Gillet ex J.-M. Royer 2016 ; 
 - [[Veronico teucrii-Lathyretum heterophylli]] Gobat ex J.-M. Royer 2016 ; 
 - [[Vicietum sylvaticae]] Oberdorfer et T. Müller ex T. Müller 1962
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Knautienion%20dipsacifoliae.png)

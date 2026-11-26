@@ -31,3 +31,7 @@ Associations :
 - [[Limonietum lychnidifolio-dodartii]] Géhu et Géhu-Franck 1975 ; 
 - [[Limonio ovalifolii-Frankenietum laevis]] M. Herrera 1995 ; 
 - [[Parapholiso strigosae-Limonietum occidentalis]] Bioret et Lahondère 2010
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Frankenio%20laevis-Armerienion%20maritimae.png)

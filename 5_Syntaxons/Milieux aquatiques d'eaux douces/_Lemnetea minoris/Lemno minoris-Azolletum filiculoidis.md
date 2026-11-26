@@ -18,3 +18,7 @@ Espèces indicatrices : [[Azolla filiculoides]], [[Lemna minor]], [[Wolffia arrh
 
 Chorologie BdR (13) : Camargue, Crau, contre-canaux du Rhône. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lemno%20minoris-Azolletum%20filiculoidis.png)

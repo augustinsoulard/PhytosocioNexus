@@ -18,3 +18,7 @@ Espèces indicatrices : [[Roemeria hybrida]], [[Hypecoum pendulum]].
 
 Chorologie BdR (13) : Entre Aix-en-Provence et Lançon-de-Provence ; région d’Allauch. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Roemerio%20hybridae-Hypecoetum%20penduli.png)

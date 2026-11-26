@@ -30,3 +30,7 @@ Les rares relevés réunis apparaissent hétérogènes avec deux communautés ri
 
 **Syntaxonomie et synsystématique** :
 Ce groupement, en raison de son cortège thérophytique, pourrait s’intégrer dans les Brometalia rubenti-tectorum (cf. § 3.6.3). Toutefois, la dominance de Sedum album et la présence de quelques éléments des Sedo-Scleranthetea incite à rattacher cette pelouse crassulescente au Sedion micrantho-sediformis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Muscari%20neglectum%20et%20Sedum%20album.png)

@@ -19,3 +19,7 @@ Espèces indicatrices : [[Posidonia oceanica]].
 
 Chorologie BdR (13) : Tout le littoral du département à l’exception de la Camargue. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Posidonietum%20oceanicae.png)

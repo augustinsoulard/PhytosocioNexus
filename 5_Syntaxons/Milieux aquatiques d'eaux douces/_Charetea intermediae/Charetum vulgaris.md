@@ -31,3 +31,7 @@ Chara vulgaris var. longibracteata, Chara vulgaris var. vulgaris.
 
 **Syntaxonomie et synsystématique** :
 Le Charetum vulgaris Corill. 1949 est une association à caractère monospécifique largement répandue en France. La variabilité infrataxonomique de Chara vulgaris est incluse dans l’association (FELZINES & LAMBERT 2012 & 2016). Charetum vulgaris Potametum colorati Potamo crispi-Ranunculetum trichophylli
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Charetum%20vulgaris.png)

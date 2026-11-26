@@ -21,3 +21,7 @@ Espèces indicatrices : [[Cymodocea nodosa]].
 
 Chorologie BdR (13) : Végétation rare, observée en quelques points du département (golfe de Fos, littoral de la Nerthe et des Calanques), peut-être en expansion récente avec le réchauffement de l’eau de mer. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cymodoceetum%20nodosae.png)

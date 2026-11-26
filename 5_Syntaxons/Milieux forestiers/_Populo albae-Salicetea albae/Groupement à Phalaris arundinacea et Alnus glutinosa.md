@@ -17,3 +17,7 @@ Cette aulnaie-peupleraie noire ou aulnaie-saulaie blanche constitue une ripisylv
 
 **Composition floristique** :
 [[Alnus glutinosa]], Bryonia cretica subsp. dioica, [[Carex pendula]], [[Equisetum arvense]], [[Lycopus europaeus]], [[Lysimachia vulgaris]], [[Lythrum salicaria]], [[Phalaris arundinacea]], Populus gr. alba, [[Populus nigra]], Reynoutria gr. japonica, [[Salix alba]], [[Salix purpurea]], [[Urtica dioica]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Phalaris%20arundinacea%20et%20Alnus%20glutinosa.png)

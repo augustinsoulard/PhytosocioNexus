@@ -66,3 +66,7 @@ Groupe de la Provence occidentale :
 *Note :* les tableaux de R. Nègre pour le Rosmarineto-Lithospermetum de la Sainte-Victoire semblent comprendre plus d'un groupement (sous-associations ? associations ?), différenciés notamment par une Globularia.
 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rosmarino%20officinalis-Lithospermetum%20fruticosi.png)

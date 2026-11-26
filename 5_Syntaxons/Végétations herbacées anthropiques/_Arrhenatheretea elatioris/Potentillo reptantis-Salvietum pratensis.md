@@ -34,3 +34,7 @@ Var. type à [[Potentilla reptans]] (pr3a) ; Var. appauvrie (pr3b).
 
 **Syntaxonomie et synsystématique** :
 Cf. § 3.5.4.ii
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potentillo%20reptantis-Salvietum%20pratensis.png)

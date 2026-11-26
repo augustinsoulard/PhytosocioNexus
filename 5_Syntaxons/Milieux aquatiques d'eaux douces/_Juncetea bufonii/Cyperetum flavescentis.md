@@ -20,3 +20,7 @@ Espèces indicatrices : [[Cyperus flavescens]], [[Cyperus fuscus]], [[Centaurium
 
 Chorologie BdR (13) : Crau humide, Durance.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cyperetum%20flavescentis.png)

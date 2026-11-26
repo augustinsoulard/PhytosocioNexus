@@ -30,3 +30,7 @@ Associations :
 - [[Teucrio scorodoniae-Fagetum sylvaticae]] Billy ex Renaux et al. in Renaux et al. 2015 ; 
 - [[Umbilico-Quercetum roboris]] Géhu et Bournique 1993 ; 
 - [[Vaccinio myrtilli-Quercetum petraeae]] Be. Clément et al. 1975
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ilici%20aquifolii-Quercenion%20petraeae.png)

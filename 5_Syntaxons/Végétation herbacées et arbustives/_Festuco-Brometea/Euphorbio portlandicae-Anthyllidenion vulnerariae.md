@@ -25,3 +25,7 @@ ZH : non
 Associations :
 - [[Anthyllido vulnerariae-Festucetum armoricanae]] Bioret et Glemarec 2016 ; 
 - [[Galio littoralis-Brachypodietum rupestris]] Géhu et Géhu-Franck 1984 corr. Bioret 2008
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Euphorbio%20portlandicae-Anthyllidenion%20vulnerariae.png)

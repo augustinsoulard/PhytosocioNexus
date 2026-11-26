@@ -22,3 +22,7 @@ Espèces indicatrices : [[**Populus nigra subsp. neapolitana]], [[Quercus pubesc
 Chorologie BdR (13) : Durance.
 
 Précision dynamique : Végétation de transition qui dérive, par assèchement du substrat, de la peupleraie du Phalarido arundinaceae - Populetum nigrae et qui évoluera progressivement vers des forêts zonales des Quercetea pubescentis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Brachypodio%20phoenicoidis-Populetum%20nigrae.png)

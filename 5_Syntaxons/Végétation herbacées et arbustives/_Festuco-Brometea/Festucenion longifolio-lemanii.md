@@ -49,3 +49,7 @@ Associations :
 - [[Sedo rupestris-Festucetum longifoliae]] Loiseau et Felzines 2010 ; 
 - [[Groupement à Bothriochloa ischaemum et Artemisia campestris]] Choisnet, 2019 ;
 - [[Sedo sexangularis-Thymetum pulegioidis]] Billy ex Loiseau et Felzines 2010
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Festucenion%20longifolio-lemanii.png)

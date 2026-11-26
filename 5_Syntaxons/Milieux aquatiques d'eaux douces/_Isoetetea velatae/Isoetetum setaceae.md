@@ -20,3 +20,7 @@ sources:
 **Chorologie** : plateau basaltique de Roquehaute, près de Vias (assez grande extension sur le pourtour des mares) ; appauvri, il réapparaît dans la mare de Grammont, près de Montpellier. Molinier et Tallon (1948) ont décrit pour la Costière nîmoise un Isoetetum setacei très appauvri.
 
 **Note** : sur le plateau de Roquehaute, un groupement (sous-association ?) est localisé dans la partie la plus basse des cuvettes, différencié par [[Juncus bufonius]], [[Ranunculus sardous]] et la grande abondance de [[Drepanocladus aduncus]] flottant dans l'eau.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Isoetetum%20setaceae.png)

@@ -52,3 +52,7 @@ Chorologie : a : 7 relevés du Languedoc, Br.-Bl. et Tchou ; b : 9 relevés du L
 Sous-unités :
 - sous-ass. *rumicetosum* Tchou 1948 (sous-ass. de la plaine) — s'installe de préférence sur les rives des cours d'eau soumis au régime des inondations temporaires ; le sol alluvionnaire, limoneux et sablonneux, reste humide pendant presque toute l'année. La végétation, baignée à chaque crue, comprend bon nombre d'espèces différentielles hygrophiles ([[Persicaria lapathifolia]], [[Rumex conglomeratus]], [[Equisetum arvense]], [[Lycopus europaeus]]), et est caractérisée par l'abondance ou la prédominance de [[Salix purpurea]].
 - sous-ass. *salicetosum incanae* Tchou 1948 (y compris sous-ass. montagnarde) — occupe des sols mieux drainés, sablonneux, caillouteux, à niveau phréatique un peu plus bas que dans la sous-association rumicetosum ; en diffère par la prédominance de [[Salix elaeagnos]] (S. incana), l'absence des espèces hygrophiles et méditerranéennes et la présence de quelques différentielles ([[Calystegia sepium|Convolvulus sepium]], [[Corylus avellana]], [[Chelidonium majus]]). On peut distinguer deux variantes : l'une avec [[Salix purpurea]], l'autre sans (sous-ass. incanetosum Tchou 1948 s. s.). Outre les deux sous-associations, Tchou décrit encore (1948, p. 25) un groupement caractérisé par l'abondance de [[Salix atrocinerea]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Saponario%20officinalis-Salicetum%20purpureae.png)

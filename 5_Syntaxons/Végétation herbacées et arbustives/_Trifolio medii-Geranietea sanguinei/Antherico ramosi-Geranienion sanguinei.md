@@ -51,3 +51,7 @@ Associations :
 - [[Rubio peregrinae-Anthericetum ramosi]] Braque ex J.-M. Royer 2016 ; 
 - [[Teucrio scorodoniae-Polygonatetum odorati]] Korneck 1974 ; 
 - [[Xanthoselino veneti-Brachypodietum rupestris]] Offerhaus in J.-M. Royer 2016
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Antherico%20ramosi-Geranienion%20sanguinei.png)

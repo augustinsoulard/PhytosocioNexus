@@ -17,3 +17,7 @@ Espèces indicatrices : [[Groenlandia densa]], [[Ranunculus trichophyllus subsp.
 Écologie : Végétation héliophile des eaux douces calciques, fraîches, oligomésotrophes à mésotrophes, peu profondes, sur substrats divers.
 
 Chorologie BdR : Végétation méconnue mais certainement assez répandue dans l'ouest du département.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groenlandietum%20densae.png)

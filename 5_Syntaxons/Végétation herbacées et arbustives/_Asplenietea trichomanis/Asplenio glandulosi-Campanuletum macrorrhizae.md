@@ -17,3 +17,7 @@ Espèces indicatrices : [[Piptatherum coerulescens]] (3+), [[Antirrhinum latifol
 Écologie : groupement thermophile des fentes des rochers calcaires compacts peu éloignés de la mer, dans la partie la plus chaude du littoral méditerranéen, à toute exposition. [[Senecio cineraria]], dont l'optimum est dans l'alliance du Crithmo-Staticion, pénètre ici dans une association de l'Asplenion glandulosi.
 
 Chorologie : littoral à l'est de Nice, Alpes maritimes (3 relevés inédits, Br.-Bl.).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Asplenio%20glandulosi-Campanuletum%20macrorrhizae.png)

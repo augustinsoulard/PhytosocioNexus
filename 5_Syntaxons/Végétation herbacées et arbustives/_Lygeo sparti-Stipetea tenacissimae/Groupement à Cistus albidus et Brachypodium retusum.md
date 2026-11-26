@@ -33,3 +33,7 @@ Le déterminisme des variations mises en évidence doit être précisé. Var. à
 
 **Syntaxonomie et synsystématique** :
 Groupement relativement peu diversifié sur le plan floristique qui pourrait constituer une forme appauvrie du Rumici intermedi-Brachypodietum retusi. Groupements de statut incertain dont l’étude serait à poursuivre
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Cistus%20albidus%20et%20Brachypodium%20retusum.png)

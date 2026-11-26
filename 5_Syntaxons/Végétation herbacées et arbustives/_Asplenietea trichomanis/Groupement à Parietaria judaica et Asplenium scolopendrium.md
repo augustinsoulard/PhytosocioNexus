@@ -17,3 +17,7 @@ Communauté se développant sur le rebord pentu rocheux d’un aven. Constitue s
 
 **Composition floristique** :
 [[Asplenium scolopendrium]], [[Asplenium trichomanes]], [[Hedera helix]], [[Parietaria judaica]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Parietaria%20judaica%20et%20Asplenium%20scolopendrium.png)
