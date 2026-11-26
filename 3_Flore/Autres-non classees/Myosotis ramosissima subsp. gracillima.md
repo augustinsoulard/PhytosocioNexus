@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Myosotis ramosissima subsp. gracillima
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Myosotis%20ramosissima%20subsp.%20gracillima.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

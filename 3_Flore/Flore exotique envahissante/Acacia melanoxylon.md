@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20melanoxylon.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Acacia melanoxylon* R.Br., 1813
@@ -31,7 +42,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20melanoxylon.png)
 **Type de reproduction / propagation** : *Acacia melanoxylon* produit des fleurs dès la deuxième année, et des graines dès la cinquième année. Les graines sont produites en grande quantité et capables de rester longtemps en dormance (viables plus de 50 ans) jusqu'à l'arrivée d'une perturbation (comme le feu). Le taux de germination moyen est de 75%. Il est également capable de se propager à partir de drageons (CABI, 2018).
 **Type(s) biologique** : Phanérophyte
 
@@ -89,3 +99,22 @@ Remuer la terre une zone infestée favorise le retour de cette espèce.
 **Révision** : 2025*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79701)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

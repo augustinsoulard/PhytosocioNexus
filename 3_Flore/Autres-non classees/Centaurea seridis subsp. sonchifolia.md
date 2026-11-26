@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Centaurea seridis subsp. sonchifolia
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Centaurea%20seridis%20subsp.%20sonchifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

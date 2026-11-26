@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Abies procera
+## Description
+
+**Famille** : Pinaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Abies%20procera.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

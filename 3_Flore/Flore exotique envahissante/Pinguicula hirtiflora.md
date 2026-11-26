@@ -8,6 +8,16 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Lentibulariaceae
+**Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
+**Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinguicula%20hirtiflora.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Pinguicula hirtiflora* Ten., 1811
@@ -26,7 +36,6 @@ sources:
 
 **Milieux** : **Marais, tourbières, tufières**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinguicula%20hirtiflora.png)
 **Type de reproduction / propagation** : La grassette à fleurs hirsutes se reproduit par graines, qui germent dès qu'elles tombent au sol et ont une faible durée de vie. Les graines peuvent être dispersées par l'eau.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -63,3 +72,9 @@ Pour plus d'informations : http://www.invmed.fr/src/agir/action-fiche.php?id=178
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=719104)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

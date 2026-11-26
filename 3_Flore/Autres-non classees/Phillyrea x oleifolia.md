@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phillyrea x oleifolia
+## Description
+
+**Famille** : Oleaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phillyrea%20x%20oleifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

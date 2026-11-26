@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Epilobium x abortivum
+## Description
+
+**Famille** : Onagraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Epilobium%20x%20abortivum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

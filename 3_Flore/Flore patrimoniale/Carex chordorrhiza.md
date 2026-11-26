@@ -1,0 +1,42 @@
+---
+tags:
+  - espece
+cd_nomv18: 88426
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+## Description
+
+**Famille** : Cyperaceae
+**Floraison** : mai-juillet
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Menyantho trifoliatae–Caricetalia lasiocarpae Julve 1993
+**Écologie (Baseflor)** : magnocariçaies oligotrophiles à parvocariçaies des tremblants tourbeux primaires
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carex%20chordorrhiza.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : EN
+* **Enjeu RESEDA Flore 2021 (CBN)** : FOR
+* **Indicatrice zone humide** : Oui
+* **Protection** : nationale
+* **Intérêt patrimonial PACA** : TRES FORT
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 7
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 9

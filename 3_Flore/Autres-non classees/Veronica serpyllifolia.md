@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Veronica serpyllifolia
+## Description
+
+**Famille** : Plantaginaceae
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
+**Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veronica%20serpyllifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : FAI
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

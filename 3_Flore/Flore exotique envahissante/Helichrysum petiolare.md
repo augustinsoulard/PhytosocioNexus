@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helichrysum%20petiolare.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Helichrysum petiolare* Hilliard & Burtt, 1973
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=101093)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helichrysum%20petiolare.png)
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

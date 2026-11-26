@@ -7,6 +7,19 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Primula intricata
+## Description
+
+**Famille** : Primulaceae
+**Syntaxon (Baseflor)** : Primulion elatioris subsp. intricatae Braun–Blanquet 1948 ex Vigo 1972
+**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohygrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Primula%20intricata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

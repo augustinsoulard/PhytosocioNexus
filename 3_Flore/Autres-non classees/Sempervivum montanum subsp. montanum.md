@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Sempervivum montanum subsp. montanum
+## Description
+
+**Famille** : Crassulaceae
+**Floraison** : juin-août
+**Type biologique** : ccou-suc
+**Syntaxon (Baseflor)** : Atociono rupestris–Sempervivetalia montani de Foucault 1999
+**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sempervivum%20montanum%20subsp.%20montanum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 2
+* **Niveau trophique** : 1
+* **Salinité** : 0
+* **Texture** : 8
+* **Matière organique** : 1

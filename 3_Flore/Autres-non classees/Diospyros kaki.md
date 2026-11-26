@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Diospyros kaki
+## Description
+
+**Famille** : Ebenaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Diospyros%20kaki.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

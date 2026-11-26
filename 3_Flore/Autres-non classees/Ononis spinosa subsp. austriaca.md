@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ononis spinosa subsp. austriaca
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ononis%20spinosa%20subsp.%20austriaca.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

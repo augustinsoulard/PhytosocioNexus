@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20squamatum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Symphyotrichum squamatum* (Spreng.) G.L.Nesom, 1995 [syn. Symphyotrichum subulatum var. squamatum (Spreng.) S.D.Sundb., 2004]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20squamatum.png)
 **Type de reproduction / propagation** : L'aster écailleux produit de nombreux fruits (akènes) munis d’une aigrette qui favorise leur dissémination par le vent à l’automne. La multiplication végétative est assurée par les rhizomes.
 **Type(s) biologique** : Thérophyte
 
@@ -65,3 +75,23 @@ Les années suivantes, il convient de réaliser une surveillance des zones où l
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125333)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

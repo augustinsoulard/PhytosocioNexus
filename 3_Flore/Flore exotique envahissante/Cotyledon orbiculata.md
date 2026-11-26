@@ -8,6 +8,15 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Crassulaceae
+**Type biologique** : c-suc
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotyledon%20orbiculata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cotyledon orbiculata* L., 1753 [nom. et typ. cons.] [syn. Cotyledon orbiculata L., 1753]
@@ -29,7 +38,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotyledon%20orbiculata.png)
 **Type de reproduction / propagation** : Comme bon nombre de plantes succulentes, *Cotyledon orbiculata* se reproduit par voie végétative et se répand également par déversement de déchets de jardin. Elle peut cependant produire des graines qui peuvent être dispersées par le vent.
 **Type(s) biologique** : Chaméphyte
 
@@ -65,3 +73,22 @@ Pour les populations de petites et moyennes tailles, c'est à ce jour la seule g
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=92734)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 8
+* **Matière organique** : 1

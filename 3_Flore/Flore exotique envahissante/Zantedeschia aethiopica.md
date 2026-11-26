@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Araceae
+**Type biologique** : Gtub
+**Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
+**Écologie (Baseflor)** : parvoroselières circumboréales pionnières
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Zantedeschia%20aethiopica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Zantedeschia aethiopica* (L.) Spreng., 1826
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Zantedeschia%20aethiopica.png)
 **Type de reproduction / propagation** : L'arum d’Éthiopie se reproduit principalement de manière végétative par ses rhizomes. Il peut également se reproduire par graines qui sont dispersées par les oiseaux. Il est pollinisé par les insectes.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -72,3 +82,22 @@ Il est préconisé de porter des équipements de protection individuel (gants, e
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=130605)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

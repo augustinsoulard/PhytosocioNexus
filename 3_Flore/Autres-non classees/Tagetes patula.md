@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Tagetes patula
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tagetes%20patula.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

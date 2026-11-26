@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Malephora crocea
+## Description
+
+**Famille** : Aizoaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Malephora%20crocea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

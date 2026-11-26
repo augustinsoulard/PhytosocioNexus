@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rubus doranus
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20doranus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

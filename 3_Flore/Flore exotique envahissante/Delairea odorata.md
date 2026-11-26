@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : a-lia-cad
+**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Delairea%20odorata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Delairea odorata* Lem., 1844 [syn. Senecio mikanioides Otto ex Walp., 1845]
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux agricoles**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Delairea%20odorata.png)
 **Type de reproduction / propagation** : *Delairea odorata* se reproduit par voie végétative (par bouturage et marcottage) et par voie sexuée : les graines sont généralement dispersées par le vent, les mouvements du sol et les dépôts sauvages de déchets verts en zones naturelle ou semi-naturelle. Les sources d'introduction les plus courantes sont les jardins, les terrains vagues, les bords de route et les lisières de friches. Cette plante possède des racines filantes assez grandes (parfois à plus de 3 mètres du pied-mère) qui comprennent des dizaines, voire des centaines de petits tubercules qui se cassent aisément lors de mouvements de terre.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -82,3 +92,22 @@ Pour les cas où l'espèce s'étale au sol en mattes denses, il est aussi possib
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94560)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 7
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

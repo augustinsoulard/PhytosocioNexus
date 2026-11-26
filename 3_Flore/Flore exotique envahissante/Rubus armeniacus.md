@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20armeniacus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Rubus armeniacus* Focke, 1874
@@ -26,7 +34,6 @@ sources:
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20armeniacus.png)
 **Type de reproduction / propagation** : La ronce d'Arménie se reproduit par graines qui sont dispersées par les oiseaux et les mammifères (qui consomment les fruits) et par l'eau. Elle produit de 7000 à 13000 graines/m², qui restent viables plusieurs années dans le sol. La pollinisation est réalisée par les insectes. Néanmoins, la ronce d'Arménie se reproduit principalement de manière végétative : les tiges s'enracinent en touchant le sol, des rejets partent des racines (drageons) et les fragments de tiges et de racines se bouturent.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -68,3 +75,9 @@ La **rouille *Phragmidium violaceum*** est étudiée comme agent potentiel de lu
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=118963)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Onagraceae
+**Floraison** : mai-septembre
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oenothera%20rosea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Oenothera rosea* L'Hér. ex Aiton, 1789
@@ -22,5 +34,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=109956)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oenothera%20rosea.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 6
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 2

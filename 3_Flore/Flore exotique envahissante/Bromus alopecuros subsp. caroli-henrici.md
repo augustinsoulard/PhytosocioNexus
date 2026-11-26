@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Bromus alopecuros subsp. caroli-henrici* (Greuter) P.M.Sm., 1978
@@ -19,3 +23,9 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA :  ; Massif Central :  ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=132234)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

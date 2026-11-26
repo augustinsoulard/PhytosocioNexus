@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : hces
+**Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
+**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20longisetus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cenchrus longisetus* M.C.Johnst., 1963 [syn. Pennisetum villosum R.Br. ex Fresen., 1837]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20longisetus.png)
 **Type de reproduction / propagation** : Le pennisetum hérissé se reproduit par graines et par ses rhizomes. Les graines sont dispersées par les l'eau, le vent, les animaux domestiques et les activités humaines (véhicules, machines agricoles, vêtements, sols contaminés, laine, etc.).
 **Type(s) biologique** : Hémicryptophyte
 
@@ -65,3 +75,22 @@ L'espèce est connue pour être un contaminant de la laine.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717122)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 2
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 1

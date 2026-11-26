@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Orchis x spuria
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Orchis%20x%20spuria.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

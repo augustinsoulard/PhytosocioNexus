@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cotoneaster integrifolius
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotoneaster%20integrifolius.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

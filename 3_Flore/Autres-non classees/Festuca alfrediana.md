@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Festuca alfrediana
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : hces
+**Syntaxon (Baseflor)** : Sesamoido pygmaeae–Bellardiochloion variegatae Gamisans 1975 ex 1977
+**Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des adrets corso-sardes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Festuca%20alfrediana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 2
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 2
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 5

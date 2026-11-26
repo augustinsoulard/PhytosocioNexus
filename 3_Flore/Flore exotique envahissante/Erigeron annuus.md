@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juillet-août
+**Type biologique** : Hbis
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20annuus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Erigeron annuus* (L.) Desf., 1804
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20annuus.png)
 **Type de reproduction / propagation** : L'érigéron annuel est apomictique, il produit des graines sans fécondation, qui lui sont génétiquement identiques, mais une reproduction sexuée est également possible. Un individu peut produire jusqu'à 100 000 graines, qui sont dispersées par le vent.
 **Type(s) biologique** : Thérophyte
 
@@ -65,3 +76,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96739)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

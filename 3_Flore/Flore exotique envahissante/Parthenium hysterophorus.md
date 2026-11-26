@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Parthenium hysterophorus* L., 1753
@@ -106,3 +110,8 @@ Des campagnes de prévention sont réalisées dans certains pays, notamment en A
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=446978)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : A
+* **Intérêt patrimonial PACA** : NUL

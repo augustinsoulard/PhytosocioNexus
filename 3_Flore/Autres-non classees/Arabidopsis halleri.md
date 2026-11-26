@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Arabidopsis halleri
+## Description
+
+**Famille** : Brassicaceae
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
+**Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arabidopsis%20halleri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 4
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Prunus cerasifera f. atropurpurea
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Prunus%20cerasifera%20f.%20atropurpurea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

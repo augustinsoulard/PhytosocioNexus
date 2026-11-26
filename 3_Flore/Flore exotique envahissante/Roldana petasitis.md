@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : b-semp
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Roldana%20petasitis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Roldana petasitis* (Sims) H.Rob. & Brettell, 1974
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Roldana%20petasitis.png)
 **Type de reproduction / propagation** : Le séneçon à feuilles de pétasite se reproduit principalement de manière sexuée, avec une pollinisation par les insectes. Il produit de nombreuses graines qui sont disséminées par le vent ou par les activités humaines (terres de jardin contaminées par exemple). Il peut également se reproduire de manière végétative par bouturage ou marcottage des tiges.
 **Type(s) biologique** : Chaméphyte
 
@@ -56,3 +66,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=610857)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

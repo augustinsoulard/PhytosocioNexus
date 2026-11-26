@@ -9,6 +9,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Simaroubaceae
+**Floraison** : juillet
+**Type biologique** : A-cad
+**Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
+**Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
+
 **Description :** Grand arbre caduc à croissance fulgurante, tronc gris lisse devenant crevassé, rameaux robustes à cicatrices foliaires marquées. Feuilles composées très longues (souvent 30–90 cm) à nombreux folioles ovales portant à la base une dent glanduleuse ; feuillage et rameaux dégagent une odeur forte lorsqu’on les froisse. Espèce dioïque à production massive de samares chez les pieds femelles ; banque de graines abondante et durable. Drageonnant vigoureusement, il rejette après coupe et émet de longues racines traçantes colonisant rapidement les sols remués et les maçonneries fissurées.
 
   **Risques :** Très compétitif grâce à sa plasticité écologique, sa capacité de rejet et une allélopathie marquée (ailanthone) qui inhibe la régénération des espèces indigènes ; il forme des fourrés monospécifiques appauvrissant fortement la diversité. En ville, ses racines soulèvent trottoirs et enrobés, envahissent réseaux et murs, générant des coûts d’entretien élevés ; le pollen des pieds mâles est allergisant. Hôte privilégié d’insectes exotiques comme _Lycorma delicatula_ là où ils sont présents, ce qui peut amplifier des risques phytosanitaires pour la viticulture et les fruitiers. Les opérations de coupe favorisent souvent les repousses, rendant le contrôle long et coûteux.
@@ -20,6 +28,10 @@ sources:
 L'ailanthe glanduleux (*Ailanthus altissima*) est une espèce exotique envahissante classée comme modéré en Occitanie par INVMED.
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=80824)
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ailanthus%20altissima.png)
 
 ## D'après INVMED (consulté en 2026)
 
@@ -39,7 +51,6 @@ L'ailanthe glanduleux (*Ailanthus altissima*) est une espèce exotique envahissa
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ailanthus%20altissima.png)
 **Type de reproduction / propagation** : Les fleurs d’ailante sont pollinisées par le vent. Les nombreuses graines ailées produites (300 000 graines par arbre et par an) sont disséminées par le vent ou l’eau et germent très facilement. La durée de vie des graines dans la litière est généralement de 7 ans : elle est quasi nulle au bout de 5 ans, mais sur sol minéral, elles restent viables à 75% après 5 ans (Porté, comm. pers.). Cet arbre a une grande vitesse de croissance (jusqu’à 1,5 m par saison) et forme un tapis racinaire dense (dès 3 mois pour un jeune plant). Il produit de nombreux drageons et rejette de souche, notamment quand la plante est stressée (taille, blessure, coupe, etc.). Chaque fragment de racine peut donner naissance à un nouvel individu.
 **Type(s) biologique** : Phanérophyte
 
@@ -144,3 +155,22 @@ Les traitements chimiques sont inappropriés dans des sites naturels protégés 
 **Révision** : 2022* *Plus d'informations : => lien vers le webinaire "Retours d'expérience : la gestion des arbres et arbustes exotiques envahissants" (CBNPMP, CBNMed, OFB, ONF, INRAE, **Syndicat du Bassin Hers-Girou) : https://vimeo.com/706612323 => lien vers la fiche ressource associée : http://doctech.cbnpmp.fr/pee-occitanie/ressources-REX-ailanthus-altissima.pdf*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=80824)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Oxalis corniculata subsp. purpurea
+## Description
+
+**Famille** : Oxalidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oxalis%20corniculata%20subsp.%20purpurea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

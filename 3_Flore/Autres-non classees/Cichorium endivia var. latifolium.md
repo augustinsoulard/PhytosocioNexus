@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cichorium endivia var. latifolium
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cichorium%20endivia%20var.%20latifolium.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

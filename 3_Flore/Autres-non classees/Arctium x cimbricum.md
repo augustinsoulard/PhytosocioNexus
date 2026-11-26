@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Arctium x cimbricum
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arctium%20x%20cimbricum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

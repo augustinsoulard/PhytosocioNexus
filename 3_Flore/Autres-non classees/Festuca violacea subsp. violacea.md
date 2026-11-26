@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Festuca violacea subsp. violacea
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Festuca%20violacea%20subsp.%20violacea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

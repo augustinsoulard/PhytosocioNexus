@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Pinaceae
+**Floraison** : mai-juin
+**Type biologique** : A-semp
+**Syntaxon (Baseflor)** : σA Abietetalia cephalonico–x borisii–regis de Foucault 2022
+**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes orientales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinus%20nigra%20subsp.%20nigra.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Pinus nigra subsp. nigra* J.F.Arnold, 1785 [hors plantations]
@@ -22,5 +34,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=138843)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinus%20nigra%20subsp.%20nigra.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

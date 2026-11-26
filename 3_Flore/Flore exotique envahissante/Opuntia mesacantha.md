@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cactaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Opuntia mesacantha* Raf., 1830
@@ -21,3 +25,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA : Alerte ; Massif Central :  ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=110771)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

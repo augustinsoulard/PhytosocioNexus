@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Sapindaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cardiospermum%20grandiflorum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cardiospermum grandiflorum* Sw., 1788
@@ -22,7 +30,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cardiospermum%20grandiflorum.png)
 **Type de reproduction / propagation** : La Vigne ballon se reproduit par graines, qui sont dispersées par l'eau (fruits flottants), le vent ou les activités humaines (terres de jardins). Chaque plante peut produire plusieurs centaines de graines qui peuvent rester viables 2 ans dans le sol. La Vigne ballon peut également se reproduire de manière végétative à partir de fragments de racines.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -61,3 +68,9 @@ sources:
 **Révision** : 2020*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=161030)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

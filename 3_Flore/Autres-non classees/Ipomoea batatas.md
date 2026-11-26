@@ -7,6 +7,6 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ipomoea batatas
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20batatas.png)

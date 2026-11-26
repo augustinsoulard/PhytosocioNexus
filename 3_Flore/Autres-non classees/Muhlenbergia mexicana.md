@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Muhlenbergia mexicana
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : Hces
+**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Muhlenbergia%20mexicana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 2

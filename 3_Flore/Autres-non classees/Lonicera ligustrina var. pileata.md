@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lonicera ligustrina var. pileata
+## Description
+
+**Famille** : Caprifoliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lonicera%20ligustrina%20var.%20pileata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

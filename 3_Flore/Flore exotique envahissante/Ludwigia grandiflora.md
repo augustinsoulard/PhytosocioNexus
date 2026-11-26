@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Onagraceae
+**Floraison** : juin-septembre
+**Type biologique** : Hsto
+**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20grandiflora%20subsp.%20hexapetala.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ludwigia grandiflora* (Michx.) Greuter & Burdet, 1987 [Ludwigia grandiflora subsp. hexapetala (Hook. & Arn.) G.L.Nesom & Kartesz, 2000]
@@ -25,9 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20grandiflora%20subsp.%20hexapetala.png)
-
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20grandiflora.png)
 **Type de reproduction / propagation** : Les jussies se reproduisent principalement de manière végétative par fragmentation des tiges (les fragments de tiges peuvent produire un nouveau plant dès lors qu'ils possèdent un nœud). La reproduction sexuée est également possible dans l'aire d'introduction (pollinisation entomophile) : les semences (jusqu'à 10 000 graines/m²) sont souvent fertiles et peuvent produire des plantules viables. Les fruits peuvent flotter dans le courant durant 3 mois, et les fragments de tiges transportés par l’eau sont capables de bouturer dans de nouveaux sites. Les activités humaines (entretien des milieux aquatiques, curages, etc.) sont en grande partie responsables de la dissémination des jussies.
 **Type(s) biologique** : Hydrophyte
 
@@ -172,3 +181,22 @@ En France, sur 364 actions de gestion évaluées (actions effectuées avant 2002
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=612513)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 8

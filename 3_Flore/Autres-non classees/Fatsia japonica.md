@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fatsia japonica
+## Description
+
+**Famille** : Araliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fatsia%20japonica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

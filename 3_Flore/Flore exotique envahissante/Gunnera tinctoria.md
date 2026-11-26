@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Gunneraceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gunnera%20tinctoria.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Gunnera tinctoria* (Molina) Mirb., 1805
@@ -22,5 +30,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=100603)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gunnera%20tinctoria.png)
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

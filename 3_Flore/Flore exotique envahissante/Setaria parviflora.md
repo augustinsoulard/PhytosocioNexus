@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Setaria%20parviflora.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Setaria parviflora* (Poir.) Kerguélen, 1987 [syn. Cenchrus parviflorus Poir., 1804]
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Setaria%20parviflora.png)
 **Type de reproduction / propagation** : La sétaire à petites fleurs se reproduit par graines, qui sont dispersées par les oiseaux, le bétail ou les activités humaines (contaminant des semences agricoles ou du foin, en s'accrochant sur les vêtements, etc.).
 **Type(s) biologique** : Hémicryptophyte
 
@@ -58,3 +68,22 @@ En Argentine, elle peut réduire les rendements de luzerne de 50%.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=123138)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 4

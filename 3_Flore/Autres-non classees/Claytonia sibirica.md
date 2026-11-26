@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Claytonia sibirica
+## Description
+
+**Famille** : Montiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Claytonia%20sibirica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

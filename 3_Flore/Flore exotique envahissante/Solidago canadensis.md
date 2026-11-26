@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : Hsto
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solidago%20canadensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Solidago canadensis* L., 1753
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124164)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solidago%20canadensis.png)
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

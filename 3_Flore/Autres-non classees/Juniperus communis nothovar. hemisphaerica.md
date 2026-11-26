@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Juniperus communis nothovar. hemisphaerica
+## Description
+
+**Famille** : Cupressaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Juniperus%20communis%20nothovar.%20hemisphaerica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD

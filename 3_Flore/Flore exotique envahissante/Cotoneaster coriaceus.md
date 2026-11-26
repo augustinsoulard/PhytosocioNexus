@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+**Type biologique** : b-semp
+**Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
+**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotoneaster%20coriaceus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cotoneaster coriaceus* Franch., 1890 [syn. Cotoneaster lacteus W.W.Sm., 1917 ; Cotoneaster smithii G.Klotz, 1996]
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotoneaster%20coriaceus.png)
 **Type de reproduction / propagation** : Le cotonéaster laiteux est apomictique, il peut produire des graines sans fécondation. Il est pollinisé par les insectes et ses graines sont dispersées principalement par les oiseaux, mais aussi par d'autres animaux et par l'eau. Un individu peut produire des milliers de graines chaque année. Le cotonéaster laiteux rejette de souche lorsqu'on le coupe.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -60,3 +70,22 @@ Cette méthode permet de contrôler partiellement la présence de l’espèce. L
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717150)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 4
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

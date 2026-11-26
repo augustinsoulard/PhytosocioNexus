@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Schedonorus arundinaceus subsp. mediterraneus
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Schedonorus%20arundinaceus%20subsp.%20mediterraneus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

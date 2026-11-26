@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Camelina rumelica
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Camelina%20rumelica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

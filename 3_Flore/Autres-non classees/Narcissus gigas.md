@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Narcissus gigas
+## Description
+
+**Famille** : Amaryllidaceae
+**Type biologique** : gbul
+**Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
+**Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Narcissus%20gigas.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 3
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 4

@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Arabidopsis arenosa subsp. arenosa
+## Description
+
+**Famille** : Brassicaceae
+**Floraison** : avril-juillet
+**Type biologique** : hbis
+**Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
+**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arabidopsis%20arenosa%20subsp.%20arenosa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 4
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 6
+* **Matière organique** : 1

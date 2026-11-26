@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Arabidopsis pedemontana
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arabidopsis%20pedemontana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

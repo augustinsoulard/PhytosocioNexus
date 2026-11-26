@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Malva x intermedia
+## Description
+
+**Famille** : Malvaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Malva%20x%20intermedia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

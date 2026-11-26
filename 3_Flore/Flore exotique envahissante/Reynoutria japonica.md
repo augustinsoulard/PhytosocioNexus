@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygonaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20japonica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Reynoutria japonica* Houtt., 1777
@@ -27,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20japonica.png)
 **Type de reproduction / propagation** : La renouée du Japon est une espèce gynodioïque, c’est-à-dire que les plants sont soit mâles-stériles (pieds fonctionnellement femelles), soit mâles-fertiles (pieds fonctionnellement mâles), soit plus rarement hermaphrodites. Or, seul un clone mâle-stérile semble avoir été introduit en Europe. La formation de graines (pollinisation entomophile) est toutefois possible par hybridation, notamment avec *Fallopia baldschuanica, Reynoutria sachalinensis* et *Reynoutria x bohemica* (elle-même issue du croisement avec *R. sachalinensis*). Cependant, la production de graines viables reste rare, et la reproduction se fait principalement par multiplication végétative, par fragmentation du rhizome et bouturage des tiges (un fragment de 0,7 g suffit à générer un nouveau plant). La dissémination des fragments est principalement due à l'homme (déplacement de terres contaminées lors de travaux d'aménagement), mais aussi à l’eau, à l’érosion des berges des rivières et aux animaux.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -236,3 +246,22 @@ mso-fareast-language:EN-US;}
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=117503)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 3

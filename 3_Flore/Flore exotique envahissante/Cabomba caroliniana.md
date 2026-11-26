@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cabombaceae
+**Type biologique** : Hsto-aqua
+**Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
+**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cabomba%20caroliniana.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cabomba caroliniana* A.Gray, 1848
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=610664)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cabomba%20caroliniana.png)
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 12
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 8

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Primula x pubescens
+## Description
+
+**Famille** : Primulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Primula%20x%20pubescens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

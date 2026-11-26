@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Geum x intermedium
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Geum%20x%20intermedium.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

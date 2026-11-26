@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Allium ascalonicum
+## Description
+
+**Famille** : Amaryllidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Allium%20ascalonicum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

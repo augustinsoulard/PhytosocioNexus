@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Araceae
+**Type biologique** : gbul-aqua
+**Syntaxon (Baseflor)** : Lemnetea minoris Tüxen 1953 ex O. de Bolòs & Masclans 1955
+**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, holarctiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lemna%20minuta.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lemna minuta* Kunth, 1816
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lemna%20minuta.png)
 **Type de reproduction / propagation** : La lentille d'eau minuscule fleurit rarement dans son aire d'introduction : la reproduction est presque exclusivement végétative, par bourgeonnement latéral. La dispersion se fait par le courant, parfois par le vent et par les animaux, dont les oiseaux : Goughlan *et al*. (1994) ont montré que les canards colverts *Anas platyrhynchos* pouvaient jouer un rôle dans la dispersion de l'espèce.
 **Type(s) biologique** : Hydrophyte nageant
 
@@ -72,3 +82,22 @@ En ce qui concerne le devenir des plantes récoltées, l’épandage agricole pe
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=105433)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 11
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

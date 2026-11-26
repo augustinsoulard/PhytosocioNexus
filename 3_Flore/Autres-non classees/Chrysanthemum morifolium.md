@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Chrysanthemum morifolium
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chrysanthemum%20morifolium.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

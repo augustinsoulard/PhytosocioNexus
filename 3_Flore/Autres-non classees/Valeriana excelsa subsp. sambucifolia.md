@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Valeriana excelsa subsp. sambucifolia
+## Description
+
+**Famille** : Caprifoliaceae
+**Syntaxon (Baseflor)** : Lythro salicariae–Filipenduletalia ulmariae (Passarge 1988) Julve & Gillet 1994
+**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésoeutrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Valeriana%20excelsa%20subsp.%20sambucifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Liste rouge nationale** : LC
+* **Intérêt patrimonial PACA** : TRES FAIBLE

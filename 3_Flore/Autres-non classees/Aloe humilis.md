@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Aloe humilis
+## Description
+
+**Famille** : Asphodelaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20humilis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

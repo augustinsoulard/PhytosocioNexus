@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Orchis mascula subsp. ichnusae
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Orchis%20mascula%20subsp.%20ichnusae.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

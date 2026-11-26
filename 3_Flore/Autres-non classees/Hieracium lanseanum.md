@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Hieracium lanseanum
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hieracium%20lanseanum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : DD

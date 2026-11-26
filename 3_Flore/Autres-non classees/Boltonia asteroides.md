@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Boltonia asteroides
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Boltonia%20asteroides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

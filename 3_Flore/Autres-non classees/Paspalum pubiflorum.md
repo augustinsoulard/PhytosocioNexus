@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Paspalum pubiflorum
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Paspalum%20pubiflorum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

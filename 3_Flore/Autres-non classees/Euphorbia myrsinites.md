@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Euphorbia myrsinites
+## Description
+
+**Famille** : Euphorbiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euphorbia%20myrsinites.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

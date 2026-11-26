@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Glechoma hirsuta
+## Description
+
+**Famille** : Lamiaceae
+**Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
+**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Glechoma%20hirsuta.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

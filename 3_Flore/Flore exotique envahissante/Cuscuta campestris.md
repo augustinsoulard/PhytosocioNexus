@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Convolvulaceae
+**Type biologique** : Test-lia-par
+**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cuscuta%20campestris.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cuscuta campestris* Yunck., 1932
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cuscuta%20campestris.png)
 **Type de reproduction / propagation** : La cuscute des champs se reproduit par graines, produites par auto-pollinisation et dispersées par le vent, l'eau, les animaux ou les activités humaines (machines, véhicules, matériel contaminé). Une plante peut produire jusqu'à 16 000 graines qui peuvent rester viables au moins 3 ans.
 **Type(s) biologique** : Thérophyte
 
@@ -75,3 +85,22 @@ Le **champignon pathogène*** Alternaria cuscutacidae* a été utilisé en ex-UR
 **Révision** : 2021 *
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=93613)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 7
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

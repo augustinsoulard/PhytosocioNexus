@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Daucus muricatus
+## Description
+
+**Famille** : Apiaceae
+**Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
+**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Daucus%20muricatus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

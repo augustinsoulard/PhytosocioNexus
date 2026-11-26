@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Boraginaceae
+**Type biologique** : b-semp
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2037
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Echium%20candicans.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Echium candicans* L.f., 1782
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717166)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Echium%20candicans.png)
+* **Indigénat (TAXREF v18)** : I
+* **Directive Habitats** : CDH2, CDH4
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 2
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

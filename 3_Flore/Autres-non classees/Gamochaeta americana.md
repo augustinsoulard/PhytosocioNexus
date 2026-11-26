@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Gamochaeta americana
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gamochaeta%20americana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Commelinaceae
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+**Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tradescantia%20fluminensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Tradescantia fluminensis* Vell., 1829
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tradescantia%20fluminensis.png)
 **Type de reproduction / propagation** : En Nouvelle-Zélande et en Australie, l'éphémère de Rio ne produit pas de graines et sa reproduction est uniquement végétative. Un fragment d'1 cm avec au moins un nœud suffit à produire un nouveau plant par bouturage. Au Portugal, l'espèce produit des graines mais peu fréquemment.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -71,3 +81,22 @@ Le **coléoptère *Noelema ogloblini***, un prédateur naturel de l'éphémère 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=126954)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

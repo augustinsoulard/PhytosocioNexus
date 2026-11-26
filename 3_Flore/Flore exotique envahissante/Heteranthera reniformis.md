@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Pontederiaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Heteranthera%20reniformis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Heteranthera reniformis* Ruiz & Pav., 1798
@@ -22,5 +30,8 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=101503)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Heteranthera%20reniformis.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

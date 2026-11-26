@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Passifloraceae
+**Type biologique** : b-lia-cad
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2026
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Passiflora%20caerulea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Passiflora caerulea* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Passiflora%20caerulea.png)
 **Type de reproduction / propagation** : La passiflore bleue se reproduit par graines, elle est pollinisée par les insectes (pollinisation croisée). Certains oiseaux, ou parfois mammifères, transportent ses graines. Elle peut s'hybrider avec d'autres espèces de passiflores. Les tiges coupées peuvent également se bouturer.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -59,3 +69,22 @@ Ne pas entreprendre une action sans suivi régulier.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112536)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 8
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 1

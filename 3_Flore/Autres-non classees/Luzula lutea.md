@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Luzula lutea
+## Description
+
+**Famille** : Juncaceae
+**Floraison** : juillet-août
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Caricetalia curvulae subsp. curvulae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+**Écologie (Baseflor)** : pelouses acidophiles alpines climaciques, chionophobes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Luzula%20lutea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 2
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 1
+* **Niveau trophique** : 1
+* **Salinité** : 0
+* **Texture** : 5
+* **Matière organique** : 1

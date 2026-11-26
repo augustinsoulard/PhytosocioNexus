@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rubus vigoi
+## Description
+
+**Famille** : Rosaceae
+**Syntaxon (Baseflor)** : Lonicero periclymeni–Rubetea plicati Haveman, Schaminée & Stortelder in Stortelder, Schaminée & Hommel 1999
+**Écologie (Baseflor)** : ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20vigoi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

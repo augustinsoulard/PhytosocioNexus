@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Geranium x oxonianum
+## Description
+
+**Famille** : Geraniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Geranium%20x%20oxonianum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

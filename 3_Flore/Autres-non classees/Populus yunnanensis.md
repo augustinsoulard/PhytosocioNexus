@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Populus yunnanensis
+## Description
+
+**Famille** : Salicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Populus%20yunnanensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

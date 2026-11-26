@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Citrus medica
+## Description
+
+**Famille** : Rutaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Citrus%20medica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

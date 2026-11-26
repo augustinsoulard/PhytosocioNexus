@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Gypsophila elegans
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gypsophila%20elegans.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

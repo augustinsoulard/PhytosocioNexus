@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Medicago orbicularis var. castellana
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Medicago%20orbicularis%20var.%20castellana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

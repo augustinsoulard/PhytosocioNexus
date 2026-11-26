@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Anacamptis papilionacea subsp. grandiflora
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anacamptis%20papilionacea%20subsp.%20grandiflora.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

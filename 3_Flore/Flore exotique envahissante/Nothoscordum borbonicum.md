@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Amaryllidaceae
+**Floraison** : avril-juin
+**Type biologique** : Gbul
+**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nothoscordum%20x%20borbonicum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Nothoscordum borbonicum* Kunth, 1843
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nothoscordum%20x%20borbonicum.png)
 **Type de reproduction / propagation** : L'ail inodore se reproduit par graines et par multiplication végétative. Les plantes matures possèdent un bulbe principal avec de nombreuses petites bulbilles accrochées, qui peuvent s'en détacher et former de nouvelles tiges. Les graines peuvent être dispersées par l'eau et le vent, ainsi que par les activités humaines, tout comme les bulbilles (déchets de jardin, sols contaminés, etc.).
 **Type(s) biologique** : Géophyte à bulbe
 
@@ -56,3 +67,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=109711)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

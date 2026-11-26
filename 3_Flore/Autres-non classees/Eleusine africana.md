@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Eleusine africana
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Eleusine%20africana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

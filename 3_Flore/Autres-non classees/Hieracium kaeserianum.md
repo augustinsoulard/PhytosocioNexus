@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Hieracium kaeserianum
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hieracium%20kaeserianum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

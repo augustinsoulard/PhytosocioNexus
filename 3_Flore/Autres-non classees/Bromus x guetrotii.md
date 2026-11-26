@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Bromus x guetrotii
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bromus%20x%20guetrotii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

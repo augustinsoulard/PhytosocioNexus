@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Primula veris var. canescens
+## Description
+
+**Famille** : Primulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Primula%20veris%20var.%20canescens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

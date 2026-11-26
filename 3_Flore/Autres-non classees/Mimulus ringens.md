@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Mimulus ringens
+## Description
+
+**Famille** : Phrymaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Mimulus%20ringens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

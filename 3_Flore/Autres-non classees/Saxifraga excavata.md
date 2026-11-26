@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Saxifraga excavata
+## Description
+
+**Famille** : Saxifragaceae
+**Type biologique** : hros
+**Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
+**Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saxifraga%20excavata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 4
+* **Température** : 3
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 3
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 5

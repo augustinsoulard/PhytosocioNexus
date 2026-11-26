@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Heuchera sanguinea
+## Description
+
+**Famille** : Saxifragaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Heuchera%20sanguinea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Convolvulaceae
+**Type biologique** : Test-lia
+**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20purpurea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ipomoea purpurea* (L.) Roth, 1787
@@ -20,5 +31,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=521639)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20purpurea.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

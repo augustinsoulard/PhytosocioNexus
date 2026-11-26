@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Potamogeton x cooperi
+## Description
+
+**Famille** : Potamogetonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Potamogeton%20x%20cooperi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

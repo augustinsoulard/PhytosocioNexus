@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20inaequidens.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Senecio inaequidens* DC., 1838 [syn. Senecio harveianus sensu Jovet, 1975 non MacOwan, 1890]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20inaequidens.png)
 **Type de reproduction / propagation** : Le séneçon du Cap se reproduit par graines. Il est pollinisé par les insectes. Un pied peut produire 10 000 à 30 000 graines par an. Les graines sont disséminées par le vent et les activités humaines (en s'accrochant aux vêtements, au pelage du bétail ou aux véhicules, par transport de sol, de foin, de graines ou de laine contaminés). Elles conservent leur pouvoir germinatif pendant 2 ans et peuvent germer du printemps à l'automne. De plus, les tiges peuvent se bouturer.
 **Type(s) biologique** : Chaméphyte
 
@@ -98,3 +108,22 @@ Afin d'éviter tout risque de contamination,** il est fortement déconseillé de
 **Révision** : 2021 *
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=122630)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dianthus superbus var. speciosus
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dianthus%20superbus%20var.%20speciosus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

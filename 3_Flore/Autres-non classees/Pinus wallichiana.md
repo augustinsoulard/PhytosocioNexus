@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pinus wallichiana
+## Description
+
+**Famille** : Pinaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinus%20wallichiana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

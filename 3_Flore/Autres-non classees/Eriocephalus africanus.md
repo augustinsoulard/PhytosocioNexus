@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Eriocephalus africanus
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Eriocephalus%20africanus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

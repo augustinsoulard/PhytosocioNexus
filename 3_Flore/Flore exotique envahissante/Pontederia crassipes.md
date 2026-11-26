@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Pontederiaceae
+**Type biologique** : hros-aqua
+**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pontederia%20crassipes.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Pontederia crassipes* Mart., 1823 [syn. Eichhornia crassipes (Mart.) Solms, 1883]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Marais, tourbières, tufières**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pontederia%20crassipes.png)
 **Type de reproduction / propagation** : La jacinthe d’eau est une espèce monoïque qui pratique principalement la reproduction végétative, mais aussi la reproduction sexuée. La pollinisation est notamment réalisée par les abeilles. Chaque plante peut produire jusqu’à 5 000 graines, qui peuvent rester viables jusqu'à 20 ans dans le sédiment. La reproduction végétative, quant à elle, s’effectue par les stolons. Les graines ou les jeunes clones sont ensuite disséminés par l’eau, les animaux ou l’homme (engins de navigation, entretien des voies fluviales).
 **Type(s) biologique** : Hydrophyte
 
@@ -123,3 +133,22 @@ Il est important de ne pas prendre en compte uniquement les coûts des méthodes
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=454932)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 9
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 12
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

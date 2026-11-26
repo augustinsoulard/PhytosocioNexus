@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Galanthus plicatus subsp. byzantinus
+## Description
+
+**Famille** : Amaryllidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galanthus%20plicatus%20subsp.%20byzantinus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

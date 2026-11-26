@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Conium maculatum var. viride
+## Description
+
+**Famille** : Apiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Conium%20maculatum%20var.%20viride.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

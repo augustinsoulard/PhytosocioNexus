@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Asperula rupicola
+## Description
+
+**Famille** : Rubiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asperula%20rupicola.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Floraison** : avril-mai
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20longifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Acacia longifolia* (Andrews) Willd., 1806
@@ -31,7 +43,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20longifolia.png)
 **Type de reproduction / propagation** : Espèce poussant rapidement, elle fleurit dès la 2ème année (Jacquemin, 1997). Cette espèce se disperse seulement par reproduction sexuée, mais lors d'incendie ou de coupe elle peut rejeter de souche. Les graines ont une longue durée de vie et leur germination est favorisée par le feu (Queensland Government, 2016).
 **Type(s) biologique** : Phanérophyte
 
@@ -89,3 +100,22 @@ Remuer la terre une zone infestée favorise le retour de l'espèce.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79698)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

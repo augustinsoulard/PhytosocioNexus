@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Symphyotrichum subulatum
+## Description
+
+**Famille** : Asteraceae
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20subulatum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : A
+* **Intérêt patrimonial PACA** : TRES FAIBLE

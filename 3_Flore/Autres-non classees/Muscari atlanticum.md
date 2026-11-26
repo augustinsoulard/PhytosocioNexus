@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Muscari atlanticum
+## Description
+
+**Famille** : Asparagaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Muscari%20atlanticum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : DD

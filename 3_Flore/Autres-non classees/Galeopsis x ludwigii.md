@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Galeopsis x ludwigii
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galeopsis%20x%20ludwigii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

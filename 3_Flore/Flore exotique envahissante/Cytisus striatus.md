@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Type biologique** : b-cad
+**Syntaxon (Baseflor)** : Ulici europaei–Cytision striati Rivas–Martínez, Bascones, Díaz González, Fernandez–Gonzales & Loidi 1991
+**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles, mésohydriques, méridionaux
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cytisus%20striatus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cytisus striatus* (Hill) Rothm., 1944 [syn. Sarothamnus eriocarpus Boiss. & Reut., 1842]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cytisus%20striatus.png)
 **Type de reproduction / propagation** : Le Cytise strié est une espèce originaire de la péninsule ibérique, introduite en France comme plante ornementale et pour lutter contre l'érosion des sols (plantée sur les talus routiers). C'est une espèce exotique envahissante avérée en Amérique du nord, propagée par les activités humaines.
 
 Le Cytise strié se reproduit principalement de manière sexuée par graines (auto-incompatible, pollinisation croisée obligatoire), mais aussi parfois de manière asexuée par bouturage des tiges. Les graines ont une durée de vie longue, et une partie reste en dormance dans le sol. Elles sont dispersées par autochorie (dehiscence explosive) ainsi que par les activités humaines, les animaux et l'eau.
@@ -64,3 +74,22 @@ Des **herbicides** sont parfois utilisés pour lutter contre le Cytise strié, m
 **Révision** : 2024 *
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94168)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 4

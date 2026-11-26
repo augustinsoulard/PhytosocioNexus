@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Hyparrhenion hirtae Braun–Blanquet, Pinto da Silva & Rozeira 1956
+**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles, sur pentes caillouteuses, infra- thermo- et mésoméditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nassella%20neesiana.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Nassella neesiana* (Trin. & Rupr.) Barkworth, 1990 [syn. Stipa neesiana Trin. & Rupr., 1842]
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nassella%20neesiana.png)
 **Type de reproduction / propagation** : Le stipe de Nees possède à la fois des fleurs cléistogames (auto-pollinisation) et chasmogames (pollinisation croisée). Les fleurs cléistogames produisent des graines cachées dans les nœuds et les bases des tiges, qui représentent environ un quart de la production de graines totales. Celle-ci peut atteindre 28 000 graines par mètre carré les bonnes années, et 75% à 90% de ces graines produites sont viables. Les graines cachées permettent à la plante de se reproduire même si elle a été broutée, coupée ou brûlée. Les plantes peuvent fleurir et produire jusqu'à 250 graines dès leur première année. Les graines sont principalement dispersées par les activités humaines : elles s'accrochent aux machines agricoles, véhicules, vêtements et au bétail (en particulier la laine des moutons), elles sont dispersées par les opérations de fauchage ou débroussaillage et par les transports de terres. Elles peuvent également être dispersées par l'eau. La banque de graines peut persister jusqu'à 12 ans dans le sol.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -79,3 +89,22 @@ Le stipe de Nees produit beaucoup de graines, il faut donc impérativement **ré
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=109379)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Euphorbiaceae
+**Type biologique** : tver
+**Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
+**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euphorbia%20serpens.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Euphorbia serpens* Kunth, 1817
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=97666)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euphorbia%20serpens.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

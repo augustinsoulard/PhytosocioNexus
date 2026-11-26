@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cyperaceae
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
+**Écologie (Baseflor)** : prairies hygrophiles, subtropicales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20reflexus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cyperus reflexus* Vahl, 1805
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94007)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20reflexus.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 4

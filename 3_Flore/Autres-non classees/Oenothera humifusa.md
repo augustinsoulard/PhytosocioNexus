@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Oenothera humifusa
+## Description
+
+**Famille** : Onagraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oenothera%20humifusa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

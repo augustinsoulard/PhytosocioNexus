@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dryopteris borreri
+## Description
+
+**Famille** : Dryopteridaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
+**Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dryopteris%20borreri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 3
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 4

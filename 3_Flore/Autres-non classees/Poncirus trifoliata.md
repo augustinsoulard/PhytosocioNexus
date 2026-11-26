@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Poncirus trifoliata
+## Description
+
+**Famille** : Rutaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Poncirus%20trifoliata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

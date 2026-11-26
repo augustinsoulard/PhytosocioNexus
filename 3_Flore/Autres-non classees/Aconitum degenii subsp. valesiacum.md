@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Aconitum degenii subsp. valesiacum
+## Description
+
+**Famille** : Ranunculaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aconitum%20degenii%20subsp.%20valesiacum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

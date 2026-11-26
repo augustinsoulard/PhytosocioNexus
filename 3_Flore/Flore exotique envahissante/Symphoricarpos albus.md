@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Caprifoliaceae
+**Type biologique** : b-cad
+**Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
+**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphoricarpos%20albus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Symphoricarpos albus* (L.) S.F.Blake, 1914
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphoricarpos%20albus.png)
 **Type de reproduction / propagation** : La symphorine à fruits blancs peut se reproduire de manière sexuée. Elle est pollinisée par les insectes et produit de nombreux fruits (contenant chacun 2 graines) qui sont consommés par les oiseaux. Dans son aire d'introduction elle se reproduit surtout de manière végétative par ses drageons.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -55,3 +65,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125324)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 3

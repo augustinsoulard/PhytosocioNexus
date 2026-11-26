@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Citrus x aurantium var. sinensis
+## Description
+
+**Famille** : Rutaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Citrus%20x%20aurantium%20var.%20sinensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

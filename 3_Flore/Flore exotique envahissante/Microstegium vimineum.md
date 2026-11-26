@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Microstegium vimineum* (Trin.) A.Camus, 1922
@@ -73,3 +77,8 @@ Il altère la qualité de la nidification de certains oiseaux nicheurs au sol (c
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=20000092)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : A
+* **Intérêt patrimonial PACA** : TRES FAIBLE

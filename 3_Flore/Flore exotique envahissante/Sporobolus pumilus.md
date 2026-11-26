@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : août-mars
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
+**Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20pumilus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Sporobolus pumilus* (Roth) P.M.Peterson & Saarela, 2014 [syn. Spartina patens (Aiton) Muhl., 1813]
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : ****
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20pumilus.png)
 **Type de reproduction / propagation** : La spartine bigarrée est généralement stérile dans sa zone d'introduction, et se reproduit de manière végétative par ses rhizomes.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -66,3 +77,22 @@ Le **bâ****chage** peut être utilisé pour limiter la repousse de la spartine 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=1015865)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 8
+* **Salinité** : 7
+* **Texture** : 2
+* **Matière organique** : 3

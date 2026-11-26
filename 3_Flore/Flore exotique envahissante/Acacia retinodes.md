@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Floraison** : juin-juillet
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20retinodes.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Acacia retinodes* Schltdl., 1847
@@ -31,7 +43,6 @@ sources:
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20retinodes.png)
 **Type de reproduction / propagation** : Espèce résistante au calcaire, servant de porte-greffe pour les espèces calcifuges (Jacquemin, 1997). *Acacia retinodes* se reproduit par graines (nombreuses), qui restent viables dans le sol pendant de nombreuses années.
 **Type(s) biologique** : Phanérophyte
 
@@ -76,3 +87,22 @@ La lutte chimique est inutile, l’épaisse cuticule diminue considérablement l
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79707)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Verbascum x denudatum
+## Description
+
+**Famille** : Scrophulariaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Verbascum%20x%20denudatum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

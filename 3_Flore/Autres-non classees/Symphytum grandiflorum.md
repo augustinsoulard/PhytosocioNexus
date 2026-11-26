@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Symphytum grandiflorum
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphytum%20grandiflorum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

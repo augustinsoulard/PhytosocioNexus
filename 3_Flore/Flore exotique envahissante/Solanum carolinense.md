@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Solanaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Solanum carolinense* L., 1753
@@ -19,3 +23,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Absente ; Pyrénées : Absente ; Méd. Occ. : Alerte ; Méd. PACA :  ; Massif Central : Absente ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124023)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

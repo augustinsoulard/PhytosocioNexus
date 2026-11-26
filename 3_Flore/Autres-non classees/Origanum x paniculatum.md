@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Origanum x paniculatum
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Origanum%20x%20paniculatum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : A
+* **Intérêt patrimonial PACA** : TRES FAIBLE

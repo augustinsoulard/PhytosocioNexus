@@ -9,16 +9,27 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Plantaginaceae
+**Floraison** : mars-octobre
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+
 **cd_nom** : 128956
 
 **Description :**
 
 **Risques :** 
 
-
 **Habitats :** Espèce commensale des cultures et friches ([[Diplotaxion erucoidis]], [[Veronico agrestis-Euphorbion pepli]]). Elle est devenu très courante dans les habitats secondaires et régulièrement perturbés.
 
 Espèce commensale des cultures et friches (Diplotaxion erucoidis, Veronico agrestis-Euphorbion pepli). Elle est devenu très courante dans les habitats secondaires et régulièrement perturbés.
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veronica%20persica.png)
 
 ## D'après INVMED (consulté en 2026)
 
@@ -37,7 +48,6 @@ Espèce commensale des cultures et friches (Diplotaxion erucoidis, Veronico agre
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veronica%20persica.png)
 **Type de reproduction / propagation** : La véronique de Perse est une plante qui a une reproduction sexuée (production de nombreuses graines). Ses graines se dispersent par hydrochorie mais aussi via des terres contaminées, des semences de céréales ou de plantes fourragères, ou dans le fumier.
 **Type(s) biologique** : Thérophyte
 
@@ -72,3 +82,23 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Auteurs CBNMed** : MR, MH, KD, CC, CS* *Révisions : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=128956)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

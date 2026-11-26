@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juillet-septembre
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Artemisia%20verlotiorum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Artemisia verlotiorum* Lamotte, 1877
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Artemisia%20verlotiorum.png)
 **Type de reproduction / propagation** : L'espèce se reproduit de manière végétative, grâce à ses rhizomes. Le risque de dispersion via le transport des terres contaminées et des plantes est élevé. Il serait nécessaire de vérifier si la reproduction sexuée s'effectue en région méditerranéenne.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -65,3 +76,22 @@ En région Occitanie : *Artemisia verlotiorum* présente un fort impact sur la r
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=84057)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 6
+* **Matière organique** : 2

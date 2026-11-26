@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Bupleurum lancifolium
+## Description
+
+**Famille** : Apiaceae
+**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bupleurum%20lancifolium.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

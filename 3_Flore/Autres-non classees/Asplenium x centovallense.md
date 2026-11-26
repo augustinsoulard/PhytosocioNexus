@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Asplenium x centovallense
+## Description
+
+**Famille** : Aspleniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asplenium%20x%20centovallense.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

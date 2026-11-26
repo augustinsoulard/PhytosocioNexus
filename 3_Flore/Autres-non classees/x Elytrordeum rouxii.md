@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# x Elytrordeum rouxii
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Elytrordeum%20rouxii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

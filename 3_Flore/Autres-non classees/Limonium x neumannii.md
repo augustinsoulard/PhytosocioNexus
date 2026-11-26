@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Limonium x neumannii
+## Description
+
+**Famille** : Plumbaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Limonium%20x%20neumannii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

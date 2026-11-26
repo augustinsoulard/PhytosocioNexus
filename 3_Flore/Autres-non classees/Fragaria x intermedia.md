@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fragaria x intermedia
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fragaria%20x%20intermedia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

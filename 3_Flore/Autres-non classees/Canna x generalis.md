@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Canna x generalis
+## Description
+
+**Famille** : Cannaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Canna%20x%20generalis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

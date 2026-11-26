@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Puccinellia x hybrida
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Puccinellia%20x%20hybrida.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

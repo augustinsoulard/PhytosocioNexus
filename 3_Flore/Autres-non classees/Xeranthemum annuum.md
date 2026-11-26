@@ -7,6 +7,31 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Xeranthemum annuum
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
+**Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xeranthemum%20annuum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

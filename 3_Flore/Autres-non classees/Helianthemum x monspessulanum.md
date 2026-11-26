@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Helianthemum x monspessulanum
+## Description
+
+**Famille** : Cistaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helianthemum%20x%20monspessulanum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

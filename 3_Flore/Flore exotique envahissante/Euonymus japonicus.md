@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Celastraceae
+**Type biologique** : B-semp
+**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euonymus%20japonicus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Euonymus japonicus* L.f., 1780
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euonymus%20japonicus.png)
 **Type de reproduction / propagation** : Le fusain du Japon se reproduit par graines, il est pollinisé par des insectes. Les graines ont besoin d'une période de froid pour germer. Il peut également rejeter de souche.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -60,3 +70,22 @@ Il faut exercer une **pression permanente** et assidue sur l’espèce de maniè
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=448138)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

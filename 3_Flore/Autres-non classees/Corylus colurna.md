@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Corylus colurna
+## Description
+
+**Famille** : Betulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Corylus%20colurna.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Allium paniculatum
+## Description
+
+**Famille** : Amaryllidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Allium%20paniculatum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

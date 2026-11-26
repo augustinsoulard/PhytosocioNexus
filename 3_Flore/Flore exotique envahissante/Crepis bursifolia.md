@@ -13,6 +13,18 @@ syntaxon_inferieur:
 especes_indicatrices:
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : mai-juin
+**Type biologique** : hros(tver)
+**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crepis%20bursifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Crepis bursifolia* L., 1753
@@ -27,5 +39,21 @@ especes_indicatrices:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=93020)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crepis%20bursifolia.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

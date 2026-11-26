@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Arecaceae
+**Type biologique** : a-semp
+**Syntaxon (Baseflor)** : Cytiso proliferi–Pinetea canariensis Rivas Goday & Esteve ex Esteve 1969
+**Écologie (Baseflor)** : associations arborescentes climaciques des forêts canariennes montagnardes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phoenix%20canariensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Phoenix canariensis* Chabaud, 1882 [nom. cons.] [syn. Phoenix canariensis hort. ex Chabaud, 1882]
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phoenix%20canariensis.png)
 **Type de reproduction / propagation** : Le phénix des Canaries se reproduit par graines, qui peuvent être dispersées par l'eau ou par les animaux qui consomment ses fruits. La pollinisation se fait par le vent. Un individu produit de 10 000 à 30 000 drupes par an. Le phénix des Canaries peut s'hybrider avec le dattier (*Phoenix dactylifera*).
 **Type(s) biologique** : Phanérophyte
 
@@ -62,3 +72,22 @@ Plus d'information sur cette espèce : http://www.aliem-network.eu/Rhynchophorus
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=113248)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

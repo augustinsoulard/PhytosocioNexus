@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rubus lindenbergii
+## Description
+
+**Famille** : Rosaceae
+**Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
+**Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20lindenbergii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

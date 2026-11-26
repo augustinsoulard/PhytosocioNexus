@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phuopsis stylosa
+## Description
+
+**Famille** : Rubiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phuopsis%20stylosa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

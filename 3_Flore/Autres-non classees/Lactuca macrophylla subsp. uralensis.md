@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lactuca macrophylla subsp. uralensis
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lactuca%20macrophylla%20subsp.%20uralensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

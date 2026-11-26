@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Asplenium x jacksonii
+## Description
+
+**Famille** : Aspleniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asplenium%20x%20jacksonii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

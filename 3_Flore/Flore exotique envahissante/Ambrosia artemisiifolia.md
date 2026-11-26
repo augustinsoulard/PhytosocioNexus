@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : août-septembre
+**Type biologique** : Test
+**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ambrosia%20artemisiifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ambrosia artemisiifolia* L., 1753
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ambrosia%20artemisiifolia.png)
 **Type de reproduction / propagation** : La pollinisation des fleurs se fait par le vent. Les graines (3 000 graines sur un plant de taille moyenne, pouvant aller jusqu'à 62 000 graines) sont dispersées dans un rayon de 2 m autour de la plante mère. Les graines sont transportées principalement par l'homme, et parfois par les animaux et par l'eau. Le transport par l'homme comprend notamment les machines agricoles et de fauche, les terres contaminées, les graines à planter, les mélanges de graines pour oiseaux et les véhicules automobiles. Les graines doivent subir une période de froid avant de germer. Elles peuvent rester en dormance pendant de nombreuses années, jusqu'à 40 ans.
 **Type(s) biologique** : Thérophyte
 
@@ -137,3 +148,22 @@ Pour plus d'informations, ne pas hésiter à consulter la plateforme ambroisies 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=82080)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

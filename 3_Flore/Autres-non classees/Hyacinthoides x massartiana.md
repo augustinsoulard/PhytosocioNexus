@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Hyacinthoides x massartiana
+## Description
+
+**Famille** : Asparagaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hyacinthoides%20x%20massartiana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

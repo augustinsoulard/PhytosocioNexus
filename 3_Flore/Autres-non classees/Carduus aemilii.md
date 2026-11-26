@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Carduus aemilii
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : Hbis
+**Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
+**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carduus%20aemilii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : S
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 7
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

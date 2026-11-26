@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Aizoaceae
+**Type biologique** : test(heri)
+**Syntaxon (Baseflor)** : Chenopodion muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tetragonia%20tetragonoides.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Tetragonia tetragonoides* (Pall.) Kuntze, 1891 [syn. Tetragonia tetragonioides (Pall.) Kuntze, 1891]
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Dunes côtières et plages de sable**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tetragonia%20tetragonoides.png)
 **Type de reproduction / propagation** : La tétragone cornue se reproduit par graines, qui tombent généralement près du pied-mère ou sont dispersées par l'eau (et ses courants). L'auto-fécondation est prédominante, mais la fécondation croisée peut également avoir lieu. Les graines peuvent être conservées durant 4-5 ans en chambre de stockage.
 **Type(s) biologique** : Thérophyte
 
@@ -63,3 +73,22 @@ Si la plante n'est pas en fruits, les déchets verts issus de gestion peuvent ê
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125935)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

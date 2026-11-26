@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cannabaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Humulus%20japonicus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Humulus japonicus* Siebold & Zucc., 1846 [syn. Humulus scandens (Lour.) Merr., 1935]
@@ -22,7 +30,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Humulus%20japonicus.png)
 **Type de reproduction / propagation** : Les graines peuvent rester plusieurs années en dormance dans le sol. Reproduction uniquement sexuée (individus dioïques).
 **Type(s) biologique** : Thérophyte
 
@@ -70,3 +77,10 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2024*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=103030)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,6 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Calamagrostis canadensis var. canadensis
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Calamagrostis%20canadensis%20var.%20canadensis.png)

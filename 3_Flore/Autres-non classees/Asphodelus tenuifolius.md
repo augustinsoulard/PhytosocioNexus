@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Asphodelus tenuifolius
+## Description
+
+**Famille** : Asphodelaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asphodelus%20tenuifolius.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Plantago lanceolata var. lanuginosa
+## Description
+
+**Famille** : Plantaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Plantago%20lanceolata%20var.%20lanuginosa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

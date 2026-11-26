@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Taraxacum marklundii
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : hros
+**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Taraxacum%20marklundii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 1

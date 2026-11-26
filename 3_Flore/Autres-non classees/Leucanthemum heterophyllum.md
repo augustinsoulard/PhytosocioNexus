@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Leucanthemum heterophyllum
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Leucanthemum%20heterophyllum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

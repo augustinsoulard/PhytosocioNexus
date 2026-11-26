@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Sisyrinchium rosulatum
+## Description
+
+**Famille** : Iridaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sisyrinchium%20rosulatum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

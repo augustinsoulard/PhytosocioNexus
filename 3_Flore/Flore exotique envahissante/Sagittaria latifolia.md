@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Alismataceae
+**Floraison** : juillet-septembre
+**Type biologique** : Hces
+**Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
+**Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sagittaria%20latifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Sagittaria latifolia* Willd., 1805
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Eaux courantes ou stagnantes ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sagittaria%20latifolia.png)
 **Type de reproduction / propagation** : Dans son aire d'origine, la sagittaire à larges feuilles présente des populations soit monoïques (fleurs mâles et femelles sur le même plant) soit dioïques (fleurs mâles et femelles sur des plants différents). En France, seuls des pieds mâles (populations dioïques) ont été observés. La reproduction s'effectue donc uniquement de manière asexuée, par les tubercules. Une plante peut produire jusqu'à 40 tubercules par an, et chaque tubercule peut produire de 3 à 5 nouveaux plants. Dans son aire d'origine, la sagittaire à larges feuilles se reproduit également de manière sexuée (par graines) et un plant peut produire jusqu'à 20 000 akènes viables par an.
 **Type(s) biologique** : Hydrophyte enraciné
 
@@ -62,3 +73,23 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=119854)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

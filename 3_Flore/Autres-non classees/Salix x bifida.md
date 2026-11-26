@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Salix x bifida
+## Description
+
+**Famille** : Salicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Salix%20x%20bifida.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

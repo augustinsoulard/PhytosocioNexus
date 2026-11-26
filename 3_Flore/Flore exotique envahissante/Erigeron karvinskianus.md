@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : csuf
+**Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
+**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20karvinskianus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Erigeron karvinskianus* DC., 1836
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20karvinskianus.png)
 **Type de reproduction / propagation** : L'érigéron de Karvinski fleurit toute l'année dans les zones tropicales, et durant une grande partie de l'année dans les zones tempérées (mars à octobre en région méditerranéenne). Il produit de nombreuses graines qui sont dispersées par le vent. Une grande partie des graines est produite par apomixie (sans fécondation). De plus, l'érigéron de Karvinski produit des racines adventices qui lui permettent de former des tapis denses.
 **Type(s) biologique** : Chaméphyte
 
@@ -60,3 +70,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96775)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 6
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 9
+* **Matière organique** : 1

@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Bignoniaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Podranea ricasoliana* (Tanfani) Sprague, 1904
@@ -19,3 +23,9 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA :  ; Massif Central :  ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=611645)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

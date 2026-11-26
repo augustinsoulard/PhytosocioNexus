@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Festuca pallens subsp. scabrifolia
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Festuca%20pallens%20subsp.%20scabrifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD

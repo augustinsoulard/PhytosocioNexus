@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Verbascum x semialbum
+## Description
+
+**Famille** : Scrophulariaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Verbascum%20x%20semialbum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

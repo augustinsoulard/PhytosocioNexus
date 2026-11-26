@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Floraison** : mai-août
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
+**Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Vicia%20dalmatica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Vicia dalmatica* A.Kern., 1886
@@ -21,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=129152)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Vicia%20dalmatica.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 6
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 2

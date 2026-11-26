@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Scorpiurus muricatus
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Scorpiurus%20muricatus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

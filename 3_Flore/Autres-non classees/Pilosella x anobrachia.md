@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pilosella x anobrachia
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pilosella%20x%20anobrachia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

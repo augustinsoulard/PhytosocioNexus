@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# x Leontoroides hispidaster
+## Description
+
+**Famille** : Asteraceae
+**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Leontoroides%20hispidaster.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

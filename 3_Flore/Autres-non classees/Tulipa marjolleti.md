@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Tulipa marjolleti
+## Description
+
+**Famille** : Liliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tulipa%20marjolleti.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Z
+* **Intérêt patrimonial PACA** : FAIBLE

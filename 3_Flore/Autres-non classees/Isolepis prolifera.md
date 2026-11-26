@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Isolepis prolifera
+## Description
+
+**Famille** : Cyperaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Isolepis%20prolifera.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Y
+* **Intérêt patrimonial PACA** : NUL

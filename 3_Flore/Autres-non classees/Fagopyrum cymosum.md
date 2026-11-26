@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fagopyrum cymosum
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fagopyrum%20cymosum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

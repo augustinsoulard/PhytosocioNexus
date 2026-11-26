@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Minuartia setacea subsp. setacea
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Minuartia%20setacea%20subsp.%20setacea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

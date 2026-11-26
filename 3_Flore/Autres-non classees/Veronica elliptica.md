@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Veronica elliptica
+## Description
+
+**Famille** : Plantaginaceae
+**Floraison** : juin-septembre
+**Type biologique** : B-semp
+**Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2021
+**Écologie (Baseflor)** : landes atlantiques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veronica%20elliptica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 5

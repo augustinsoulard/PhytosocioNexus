@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Achillea erba-rotta subsp. ambigua
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Achillea%20erba-rotta%20subsp.%20ambigua.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

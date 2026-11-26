@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20clandestinus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cenchrus clandestinus* (Hochst. ex Chiov.) Morrone, 2010 [syn. Pennisetum clandestinum C.F. Hochstetter ex E. Chiovenda ; Kikuyuochloa clandestina (Hochst. ex Chiov.) H.Scholz, 2006]
@@ -22,5 +30,8 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717120)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20clandestinus.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cerastium uniflorum
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cerastium%20uniflorum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

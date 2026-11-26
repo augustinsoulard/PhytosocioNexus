@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygonaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20x%20bohemica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Reynoutria x bohemica* Chrtek & Chrtkova, 1983 [R. sachalinensis x R. japonica]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20x%20bohemica.png)
 **Type de reproduction / propagation** : La renouée de Bohême est un hybride issu du croisement entre la renouée du Japon et la renouée de Sakhaline. Elle est partiellement fertile et peut produire des graines viables (pollinisation entomophile), et peut également s'hybrider avec ses parents. Cependant, la production de graines viables reste rare, et la reproduction se fait principalement par multiplication végétative, par fragmentation du rhizome et bouturage des tiges (un fragment de 0,7 g suffit à générer un nouveau plant). La dissémination des fragments est principalement due à l'homme (déplacement de terres contaminées lors de travaux d'aménagement), mais aussi à l’eau, à l’érosion des berges des rivières et aux animaux.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -153,3 +163,21 @@ Pour en savoir plus (dossier complet sur les renouées asiatiques) : http://www.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=117507)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

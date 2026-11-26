@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Valeriana pratensis
+## Description
+
+**Famille** : Caprifoliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Valeriana%20pratensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

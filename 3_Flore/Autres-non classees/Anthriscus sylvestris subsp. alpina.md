@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Anthriscus sylvestris subsp. alpina
+## Description
+
+**Famille** : Apiaceae
+**Floraison** : juin-juillet
+**Type biologique** : Hbis(Heri)
+**Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
+**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anthriscus%20sylvestris%20subsp.%20alpina.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 3

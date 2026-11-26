@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20philadelphicus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Erigeron philadelphicus* L., 1753
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96794)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20philadelphicus.png)
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

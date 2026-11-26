@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Brunnera macrophylla
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Brunnera%20macrophylla.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

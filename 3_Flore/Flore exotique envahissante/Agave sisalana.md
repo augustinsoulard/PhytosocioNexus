@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asparagaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Agave sisalana* Perrine, 1838
@@ -19,3 +23,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA :  ; Massif Central :  ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=638607)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

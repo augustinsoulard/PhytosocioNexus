@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Nasturtium x sterile
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nasturtium%20x%20sterile.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

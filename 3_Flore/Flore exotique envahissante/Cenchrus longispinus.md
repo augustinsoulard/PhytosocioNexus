@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
+**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20longispinus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cenchrus longispinus* (Hack.) Fernald, 1943
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20longispinus.png)
 **Type de reproduction / propagation** : Le cenchrus à épines longues se reproduit uniquement par graines. Chaque plante peut contenir jusqu'à 5 600 fruits contenant chacun 2 graines, soit plus de 10 000 graines par plante. Celles-ci sont de deux sortes : les premières sont formées sur les épillets supérieurs et germent dans l'année, les deuxièmes sont formées sur les épillets inférieurs et peuvent rester en dormance pendant de longues périodes. Les fruits épineux s'accrochent aux vêtements, aux véhicules et au pelage des animaux (sauvages et domestiques), ce qui permet leur propagation. Les fruits sont parfois dispersés par l'eau. La banque de graines du sol peut persister 5 ans, et germer après un épisode pluvieux.
 **Type(s) biologique** : Thérophyte
 
@@ -71,3 +81,22 @@ Une méthode de surveillance par détection précoce et réaction rapide ("*seek
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=89489)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 1
+* **Texture** : 4
+* **Matière organique** : 1

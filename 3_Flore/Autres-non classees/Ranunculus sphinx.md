@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ranunculus sphinx
+## Description
+
+**Famille** : Ranunculaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ranunculus%20sphinx.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : E
+* **Intérêt patrimonial PACA** : FAIBLE

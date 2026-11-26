@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphytum%20x%20uplandicum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Symphytum x uplandicum* Nyman, 1855
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125369)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphytum%20x%20uplandicum.png)
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

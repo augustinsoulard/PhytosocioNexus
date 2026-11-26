@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dracocephalum moldavica
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dracocephalum%20moldavica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

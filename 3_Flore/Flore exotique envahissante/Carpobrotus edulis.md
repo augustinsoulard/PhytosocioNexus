@@ -8,6 +8,15 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Aizoaceae
+**Type biologique** : c-suc
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carpobrotus%20edulis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Carpobrotus edulis* (L.) N.E.Br., 1926
@@ -26,7 +35,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carpobrotus%20edulis.png)
 **Type de reproduction / propagation** : La consommation des fruits par les animaux, principalement les rats et les lapins, permet la dissémination des graines à plus de 150 m du plant mère (Bourgeois *et al*., 2005). L’ingestion par les mammifères favorise la germination de ces graines (endozoochorie). Le transport secondaire des graines par myrmécochorie (transport par les fourmis) est également possible. La croissance rapide des stolons (jusqu’à 1m/an) leur permet de couvrir rapidement de grandes surfaces. Des boutures de tiges transportées par l'eau de mer ou par les oiseaux (pour la confection des nids) assurent plus rarement la colonisation de nouveaux espaces.
 **Type(s) biologique** : Chaméphyte
 
@@ -102,3 +110,22 @@ D’Antonio (1993) propose de limiter l’expansion de la griffe de sorcière pa
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=89212)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 3
+* **Texture** : 9
+* **Matière organique** : 1

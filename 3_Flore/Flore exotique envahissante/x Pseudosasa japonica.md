@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Pseudosasa%20japonica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *x Pseudosasa japonica* (Siebold & Zucc. ex Steud.) Makino ex Nakai, 1925
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=116211)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Pseudosasa%20japonica.png)
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

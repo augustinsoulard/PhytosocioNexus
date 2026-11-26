@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : août-septembre
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20x%20salignum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Symphyotrichum x salignum* (Willd.) G.L.Nesom, 1995 [syn. Aster salignus Willd., S. lanceolatum (Willd.) G. L. Nesom × S. novii-belgii (L.) G. L. Nesom]
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20x%20salignum.png)
 **Type de reproduction / propagation** : La reproduction sexuée de l'aster à feuilles de saule lui permet de produire un grand nombre de graines, transportables sur de grandes distances grâce au vent. En revanche, la capacité de germination de ces graines semble faible. Mais une fois installée, l'espèce se reproduit par multiplication végétative grâce aux longs rhizomes traçants, produisant de nouvelles tiges chaque année. L'aster à feuilles de saule (*Symphyotrichum x salignum*) est l'hybride de *S. lanceolatum × S. novii-belgii*, qu'il a de grandes chances de féconder dans la nature.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -70,3 +81,21 @@ Les années suivantes, il convient de réaliser une surveillance des zones où l
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125337)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Moraceae
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
+**Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Broussonetia%20papyrifera.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Broussonetia papyrifera* (L.) Vent., 1799
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Broussonetia%20papyrifera.png)
 **Type de reproduction / propagation** : Le mûrier à papier se reproduit de manière sexuée et asexuée. Il est pollinisé par les insectes et par le vent. Les graines sont dispersées par les oiseaux et les mammifères (notamment des chauves-souris) qui consomment ses fruits, et peut-être également par l'eau. Le taux de germination est d'environ 50% et le taux de survie des plantules est de 25-30%. Les graines ont besoin de la présence de la lumière pour germer, même si la fructification est un événement plutôt rare dans ses régions d'introduction, car les plants mâles et femelles sont rarement plantés l’un à côté de l’autre (InfoFlora, 2022). 
 
 Il peut repousser à partir de fragments de racines, drageons et rejets de souche. Le déversement illégal de déchets de jardin (fruits, boutures et racines) dans la nature est une voie de propagation importante.
@@ -81,3 +91,22 @@ Les champignons *Aecidium mori* var. *broussonetia,* *Dendryphiella broussonetia
 **Révision** : 2026*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=86817)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 3

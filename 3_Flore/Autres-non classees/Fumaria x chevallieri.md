@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fumaria x chevallieri
+## Description
+
+**Famille** : Papaveraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fumaria%20x%20chevallieri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

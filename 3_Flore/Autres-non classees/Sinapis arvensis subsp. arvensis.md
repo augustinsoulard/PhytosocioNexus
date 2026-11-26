@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Sinapis arvensis subsp. arvensis
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sinapis%20arvensis%20subsp.%20arvensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

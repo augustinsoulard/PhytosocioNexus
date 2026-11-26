@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Oenothera atrovirens
+## Description
+
+**Famille** : Onagraceae
+**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+**Écologie (Baseflor)** : friches vivaces mésohydriques, médio-européennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oenothera%20atrovirens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

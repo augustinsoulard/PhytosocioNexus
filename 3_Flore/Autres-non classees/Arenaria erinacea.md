@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Arenaria erinacea
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arenaria%20erinacea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

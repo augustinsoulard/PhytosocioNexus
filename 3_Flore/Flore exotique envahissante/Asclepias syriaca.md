@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Apocynaceae
+**Floraison** : juin-août
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asclepias%20syriaca.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Asclepias syriaca* L., 1753
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asclepias%20syriaca.png)
 **Type de reproduction / propagation** : La multiplication végétative est assurée par des rhizomes traçants. Les activités humaines participent à la dispersion des rhizomes et des graines (mouvement de terre, transport routier, etc.).
 **Type(s) biologique** : Géophyte
 
@@ -114,3 +125,22 @@ Pas d'informations recensées ni de retours d'expériences efficaces connus sur 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=84251)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 2

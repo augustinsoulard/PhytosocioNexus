@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Elaeagnaceae
+**Floraison** : mars-mai
+**Type biologique** : B-cad
+**Syntaxon (Baseflor)** : Salici eleagni subsp. eleagni–Hippophaeion rhamnoidis subsp. fluviatilis de Foucault & Julve 2001
+**Écologie (Baseflor)** : buissons arbustifs montagnards, mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hippophae%20rhamnoides%20subsp.%20fluviatilis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Hippophae rhamnoides subsp. fluviatilis* Soest, 1952
@@ -20,5 +32,23 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=136646)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hippophae%20rhamnoides%20subsp.%20fluviatilis.png)
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 5
+* **Matière organique** : 3

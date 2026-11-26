@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Alnus maritima
+## Description
+
+**Famille** : Betulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Alnus%20maritima.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

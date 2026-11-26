@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Erysimum burnatii
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erysimum%20burnatii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

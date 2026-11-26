@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Nicotiana sylvestris
+## Description
+
+**Famille** : Solanaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nicotiana%20sylvestris.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

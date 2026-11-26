@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cucurbitaceae
+**Type biologique** : test-lia
+**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sicyos%20angulatus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Sicyos angulatus* L., 1753 [syn. Sicyos angulata L., 1753]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sicyos%20angulatus.png)
 **Type de reproduction / propagation** : Le sicyos anguleux, plante annuelle, n'est pas capable de multiplication végétative et se répand par dissémination des graines. Celles-ci sont épineuses, relativement petites et facilement transportables. En milieu naturel, elles s'accrochent aux animaux et sont déplacées dans les cours d'eau sur de longues distances. En milieu agricole, elles sont charriées par les engins qui participent à une dispersion de proximité. La fructification est largement plus importante dans les milieux où les pressions de compétition interspécifique sont réduites, et les pieds établis en parcelle cultivée (maïs) produisent moins de semences que ceux établis en milieu naturel.
 **Type(s) biologique** : Thérophyte
 
@@ -78,3 +88,22 @@ Les graines s'accrochant aux machines - à travers le déplacement des engins ag
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=721757)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

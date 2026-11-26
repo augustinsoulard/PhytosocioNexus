@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Orchis brancifortii
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Orchis%20brancifortii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

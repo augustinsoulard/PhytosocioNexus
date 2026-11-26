@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Neotinea x dietrichiana
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Neotinea%20x%20dietrichiana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

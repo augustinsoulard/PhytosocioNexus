@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : Hsto
+**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Glyceria%20striata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Glyceria striata* (Lam.) Hitchc., 1928
@@ -20,5 +31,22 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=159690)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Glyceria%20striata.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

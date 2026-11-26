@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Trifolium infamia-ponertii
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Trifolium%20infamia-ponertii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

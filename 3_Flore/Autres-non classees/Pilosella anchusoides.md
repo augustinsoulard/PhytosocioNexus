@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pilosella anchusoides
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pilosella%20anchusoides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Enjeu RESEDA Flore 2021 (CBN)** : FOR
+* **Intérêt patrimonial PACA** : DD

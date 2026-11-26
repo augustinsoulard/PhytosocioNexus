@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : test(heri)
+**Syntaxon (Baseflor)** : Laguro ovati–Bromion rigidi Géhu & Géhu–Franck 1985
+**Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, atlantiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arctotheca%20calendula.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Arctotheca calendula* (L.) Levyns, 1942
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=83529)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arctotheca%20calendula.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

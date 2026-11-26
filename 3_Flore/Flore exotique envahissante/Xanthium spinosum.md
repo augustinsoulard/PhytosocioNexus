@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : août-octobre
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Xanthion orientalis subsp. italici Felzines & Loiseau 2005
+**Écologie (Baseflor)** : friches annuelles thermophiles méditerranéennes à centro-européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xanthium%20spinosum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Xanthium spinosum* L., 1753
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xanthium%20spinosum.png)
 **Type de reproduction / propagation** : Les fruits, munis de nombreuses épines, s’accrochent facilement au pelage des animaux et sont ainsi dispersés très facilement par épizoochorie. Les graines peuvent rester viables pendant 8 ans.
 **Type(s) biologique** : Thérophyte
 
@@ -59,3 +70,22 @@ Leur ingestion engendre des nausées, des dépressions, pouvant entraîner la mo
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=130491)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

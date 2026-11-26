@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Proteaceae
+**Type biologique** : B-cad
+**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
+**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hakea%20salicifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Hakea salicifolia* (Vent.) B.L.Burtt, 1941
@@ -30,7 +41,6 @@ sources:
 
 **Milieux** : **Forêts et maquis**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hakea%20salicifolia.png)
 **Type de reproduction / propagation** : Les graines peuvent rester viables tout au long de la vie de l'arbre. L'espèce est capable de drageonner.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -100,3 +110,22 @@ Dans tous les cas, un suivi sur plusieurs années est nécessaire après une int
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=100712)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 5
+* **Matière organique** : 4

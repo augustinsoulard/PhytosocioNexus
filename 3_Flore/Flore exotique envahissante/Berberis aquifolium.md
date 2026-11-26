@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Berberidaceae
+**Type biologique** : b-semp
+**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Berberis%20aquifolium.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Berberis aquifolium* Pursh, 1814 [syn. Mahonia aquifolium (Pursh) Nutt., 1818]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Berberis%20aquifolium.png)
 **Type de reproduction / propagation** : Le mahonia à feuilles de houx est entomogame et peut produire une grande quantité de graines. Les oiseaux, qui consomment ses fruits, dispersent les graines. Localement le mahonia à feuilles de houx se répand rapidement grâce à ses drageons.
 **Type(s) biologique** : Chaméphyte
 
@@ -66,3 +76,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=85763)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

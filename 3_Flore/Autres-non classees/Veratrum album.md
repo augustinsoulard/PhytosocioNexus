@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Veratrum album
+## Description
+
+**Famille** : Melanthiaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
+**Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veratrum%20album.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : FAI
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ranunculus flammula var. reptans
+## Description
+
+**Famille** : Ranunculaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ranunculus%20flammula%20var.%20reptans.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : TRES FAIBLE

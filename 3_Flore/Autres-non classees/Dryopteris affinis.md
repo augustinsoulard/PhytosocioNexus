@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dryopteris affinis
+## Description
+
+**Famille** : Dryopteridaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Luzulion forsteri Julve 2006 all. nov. hoc loco
+**Écologie (Baseflor)** : sous-bois herbacés acidophiles, planitiaires-collinéens, subatlantiques à subméditerranéens, mésothermes à thermophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dryopteris%20affinis%20%28cd_nom%201038740%29.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 3
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 4

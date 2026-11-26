@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Plumbago auriculata
+## Description
+
+**Famille** : Plumbaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Plumbago%20auriculata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

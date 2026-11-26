@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pseudodictamnus hirsutus
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pseudodictamnus%20hirsutus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Y
+* **Intérêt patrimonial PACA** : NUL

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20dealbata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Acacia dealbata* Link, 1822
@@ -31,7 +42,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20dealbata.png)
 **Type de reproduction / propagation** : Les fleurs sont pollinisées par les insectes. Un arbre est capable de produire des graines dès l’âge de 4 ou 5 ans. *Acacia dealbata* produit beaucoup de graines dont la majorité s'accumule sous l'arbre mère. Elles peuvent être disséminées par les animaux, principalement les oiseaux et les fourmis, ou transportées sur de grandes distances par l’eau, les activités humaines ou des vents forts. Les téguments extérieurs de ses semences ont besoin d’être usés ou rompus (scarifiés) pour germer. Les incendies favorisent leur germination. Les graines ont une durée de vie de 50 ans. Cet arbre a une croissance rapide mais une durée de vie relativement courte (quelques décennies). L’extension des peuplements est essentiellement assurée par le drageonnement et les rejets de souche. Ces deux types de reproduction végétative sont accentués lorsque l'arbre se trouve en état de stress (lésion des racines, taille, coupe, etc.) (AME, 2003).
 **Type(s) biologique** : Phanérophyte
 
@@ -151,3 +161,22 @@ Les traitements chimiques sont inappropriés dans des sites naturels protégés 
 **Révision** : 2025*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79691)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

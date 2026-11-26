@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Thymus vulgaris subsp. aestivus
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Thymus%20vulgaris%20subsp.%20aestivus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

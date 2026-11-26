@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Indigofera heterantha
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Indigofera%20heterantha.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

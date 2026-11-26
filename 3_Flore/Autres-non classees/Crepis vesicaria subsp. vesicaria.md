@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Crepis vesicaria subsp. vesicaria
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crepis%20vesicaria%20subsp.%20vesicaria.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Y
+* **Intérêt patrimonial PACA** : NUL

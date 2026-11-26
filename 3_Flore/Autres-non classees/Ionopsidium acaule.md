@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ionopsidium acaule
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ionopsidium%20acaule.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Directive Habitats** : CDH2
+* **Intérêt patrimonial PACA** : NUL

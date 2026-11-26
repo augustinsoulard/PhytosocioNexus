@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Veronica praecox
+## Description
+
+**Famille** : Plantaginaceae
+**Floraison** : mars-juin
+**Type biologique** : tver
+**Syntaxon (Baseflor)** : Alysso alyssoidis–Veronicion praecocis Passarge 1977
+**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, centro-européennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veronica%20praecox.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 1
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

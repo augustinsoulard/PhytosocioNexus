@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ribes aureum
+## Description
+
+**Famille** : Grossulariaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ribes%20aureum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

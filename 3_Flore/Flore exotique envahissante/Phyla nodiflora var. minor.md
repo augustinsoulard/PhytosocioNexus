@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Verbenaceae
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Menthion cervinae Braun–Blanquet 1931 ex Moor 1937
+**Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, pâturées
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyla%20nodiflora%20var.%20minor.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Phyla nodiflora var. minor* (Gillies & Hook.) N.O'Leary & Múlgura, 2012 [syn. Phyla filiformis (Schrad.) Meikle, 1985 ; Lippia canescens auct. non Kunth, 1818, sensu P.Fourn., 1937]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyla%20nodiflora%20var.%20minor.png)
 **Type de reproduction / propagation** : Chaque fruit s’ouvre à maturité pour libérer deux petites graines qui tombent au pied des plants mères. Elles sont ensuite transportées par l’eau, éventuellement par les fourmis ou les oiseaux. On a compté jusqu’à 1500 germinations par m2. Le phyla blanchâtre se reproduit très activement par reproduction végétative. Ses stolons lui permettent de s’étendre par tâches circulaires jusqu’à former un tapis dense. Il entre en repos végétatif en période de sécheresse et rejette de souche dès l’apparition d’eau (pluie, inondation). Lors d’inondations ou de travaux du sol, des fragments de tige sont arrachés ou sectionnés. Ils sont transportés par l’eau (éventuellement par le bétail ou les oiseaux). Ils possèdent une grande capacité à bouturer.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -63,3 +73,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=718746)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 8
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

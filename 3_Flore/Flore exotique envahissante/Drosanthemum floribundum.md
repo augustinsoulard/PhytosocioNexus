@@ -8,6 +8,15 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Aizoaceae
+**Type biologique** : c-suc
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Drosanthemum%20floribundum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Drosanthemum floribundum* (Haw.) Schwantes, 1927 [syn. Mesembryanthemum floribundum Haw., 1803]
@@ -25,7 +34,6 @@ sources:
 
 **Milieux** : ****
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Drosanthemum%20floribundum.png)
 **Type de reproduction / propagation** : Le drosanthème à fleurs nombreuses se reproduit de manière sexuée (par graines). Chaque fruit produit environ 200 graines, chaque plante peut donc produire des centaines voire des milliers de graines par an. Il se reproduit également de manière asexuée par bouturage des fragments de tige. Ceux-ci peuvent être dispersés par l'eau.
 **Type(s) biologique** : Chaméphyte
 
@@ -53,3 +61,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=95434)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 2
+* **Texture** : 8
+* **Matière organique** : 1

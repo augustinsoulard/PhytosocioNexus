@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cirsium glabrum
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : août-septembre
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
+**Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cirsium%20glabrum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : S
+* **Liste rouge nationale** : NT
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 3
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

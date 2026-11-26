@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Orchis x meilsheimeri
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Orchis%20x%20meilsheimeri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

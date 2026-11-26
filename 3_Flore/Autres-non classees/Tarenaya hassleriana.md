@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Tarenaya hassleriana
+## Description
+
+**Famille** : Cleomaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tarenaya%20hassleriana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

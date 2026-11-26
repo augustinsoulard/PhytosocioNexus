@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Trifolium x bertrandii
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Trifolium%20x%20bertrandii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

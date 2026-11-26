@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : août-septembre
+**Type biologique** : Test(Hbis)
+**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20sumatrensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Erigeron sumatrensis* Retz., 1810
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20sumatrensis.png)
 **Type de reproduction / propagation** : La vergerette de Barcelone se reproduit par graines, qui sont dispersées principalement par le vent, mais aussi par l'eau et par les activités humaines. Un individu peut produire plus de 200 000 graines. La survie des graines dans le sol est comprise entre 1 et 3 ans. La vergerette de Barcelone peut s'hybrider avec le conyze du Canada (*Erigeron canadensis*).
 **Type(s) biologique** : Thérophyte
 
@@ -71,3 +82,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96814)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

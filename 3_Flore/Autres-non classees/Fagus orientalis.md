@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fagus orientalis
+## Description
+
+**Famille** : Fagaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fagus%20orientalis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

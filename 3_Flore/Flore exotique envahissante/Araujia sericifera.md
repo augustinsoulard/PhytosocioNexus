@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Apocynaceae
+**Type biologique** : a-lia-cad
+**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Araujia%20sericifera.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Araujia sericifera* Brot., 1818
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Araujia%20sericifera.png)
 **Type de reproduction / propagation** : L’Araujia porte-soie se multiplie par reproduction sexuée. Chaque fruit peut contenir environ 400 graines, qui sont dispersées par le vent et qui peuvent persister dans le sol pendant au moins 5 ans (EPPO, 2012). Cette espèce peut se aussi reproduire par voie végétative (morceaux de tiges et de collet souterrains peuvent produire de nouvelles racines) (CAL-IPC, 2016).
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -74,3 +84,22 @@ Couper et exporter les fruits chaque année avant qu'ils ne soient murs peut per
 **Révision** : 2026*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=83469)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 9
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

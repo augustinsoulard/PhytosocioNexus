@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : b-semp
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2026
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chrysanthemoides%20monilifera.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Chrysanthemoides monilifera* (L.) Norl., 1943
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chrysanthemoides%20monilifera.png)
 **Type de reproduction / propagation** : Le faux chrysanthème fleurit dès l'âge de 1 à 3 ans et peut vivre jusqu'à 35 ans (généralement 10 à 20 ans). Il se reproduit principalement par graines, mais la reproduction végétative est également possible par marcottage, notamment dans les sols dunaires où les branches sont parfois recouvertes de sable. Le faux chrysanthème est pollinisé par les insectes. Un individu peut produire jusqu'à 50 000 graines par an dont environ 60% sont viables. La banque de graines d'une infestation mature est comprise entre 800 et 3000 graines/m². Les mammifères (lapins, renards, bétail) et les oiseaux consomment ses fruits, disséminant ainsi ses graines. Les graines peuvent également être transportées par l'eau ou le vent, mais plus généralement elles tombent au pied de la plante mère. La viabilité des graines dans le sol décroît après 2 ans, mais certaines graines peuvent rester en dormance dans le sol pendant au moins 10 ans.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -91,3 +101,22 @@ Les **agents de lutte biologique** ne permettent pas de contrôler le faux chrys
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=91012)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 5
+* **Matière organique** : 1

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Trifolium subterraneum var. flagelliforme
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Trifolium%20subterraneum%20var.%20flagelliforme.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

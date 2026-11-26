@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Kolkwitzia amabilis
+## Description
+
+**Famille** : Caprifoliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Kolkwitzia%20amabilis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

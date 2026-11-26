@@ -8,6 +8,16 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
+**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lupinus%20x%20regalis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lupinus x regalis* Bergmans, 1924
@@ -25,7 +35,6 @@ sources:
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lupinus%20x%20regalis.png)
 **Type de reproduction / propagation** : Le lupin de Russell se reproduit par graines qui sont dispersées à courte distance par explosion des gousses (dispersion balistique). Elles peuvent ensuite être transportées par l'eau et par les activités humaines (sols contaminés, véhicules, etc.). La pollinisation est réalisée par les insectes. Un individu produit en moyenne quelques centaines de graines par an, jusqu'à quelques milliers pour certains individus. Les graines peuvent rester viables plusieurs années dans le sol. Le lupin de Russell se reproduit également de manière végétative grâce à ses rhizomes.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -76,3 +85,8 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=106800)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Geranium core-core
+## Description
+
+**Famille** : Geraniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Geranium%20core-core.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

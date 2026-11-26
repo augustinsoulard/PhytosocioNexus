@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Taraxacum gymnanthum
+## Description
+
+**Famille** : Asteraceae
+**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Taraxacum%20gymnanthum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

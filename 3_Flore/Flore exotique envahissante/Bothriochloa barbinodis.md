@@ -13,6 +13,14 @@ syntaxon_inferieur:
 especes_indicatrices:
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juillet-septembre
+**Type biologique** : hces
+**Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+
 **Description :** Grande graminée vivace cespiteuse (~ 0,6–1,2 m) en touffes serrées. Chaumes dressés, nœuds marqués par un anneau de longs poils blancs ; feuilles étroites et coriaces. Fort pouvoir de tallage, persistance des souches et régénération après fauche. Reproduction abondante par caryopses munies d’arêtes torsadées ; dissémination anémophile et par le trafic routier. Biomasse aérienne élevée en été, s’accumulant sous forme de litière sèche.  
   
 **Risques :** Expansion rapide le long des infrastructures où elle forme des peuplements monospécifiques remplaçant la flore herbacée indigène. Accroît la charge combustible estivale (litière sèche), compliquant la prévention incendie et l’entretien des talus. Coûts récurrents de gestion (débroussaillement, fauche) et risque de re-colonisation depuis les foyers routiers. Effet “corridor” favorisant la diffusion régionale.  
@@ -20,6 +28,10 @@ especes_indicatrices:
 **Habitats :** En forte progression dans le sud et les vallées majeures ; colonise bermes routières, talus ferroviaires, friches et prairies perturbées sur sols secs et tassés.  
   
 **Floraison :** Juillet-Septembre
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bothriochloa%20barbinodis.png)
 
 ## D'après INVMED (consulté en 2026)
 
@@ -39,7 +51,6 @@ especes_indicatrices:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bothriochloa%20barbinodis.png)
 **Type de reproduction / propagation** : Le barbon à noeuds velus se reproduit de manière sexuée, produisant de nombreuses graines à fort pouvoir germinatif (avec production de graines dès la première année dans des conditions idéales de germination) qui sont dispersées par le vent, les animaux et les activités humaines (notamment le long des voies de communication). L'espèce est aussi capable de drageonner.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -82,3 +93,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=86167)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

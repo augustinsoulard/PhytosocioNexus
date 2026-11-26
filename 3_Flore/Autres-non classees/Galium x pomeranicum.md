@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Galium x pomeranicum
+## Description
+
+**Famille** : Rubiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galium%20x%20pomeranicum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

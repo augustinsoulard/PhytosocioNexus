@@ -9,6 +9,13 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+**Floraison** : mai
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
+**Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
 
 **cd_nom** : 
 
@@ -21,6 +28,10 @@ sources:
 Floraison : avril à juin 
 
 Fructification : septembre-octobre
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pyracantha%20coccinea.png)
 
 ## D'après INVMED (consulté en 2026)
 
@@ -41,7 +52,6 @@ Fructification : septembre-octobre
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies humides ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pyracantha%20coccinea.png)
 **Type de reproduction / propagation** : Le buisson ardent peut se reproduire à partir de boutures de tiges et de greffes. Il produit aussi de nombreuses graines qui peuvent être dispersées par les animaux.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -93,3 +103,22 @@ De même, les tiges coupées renaissent et les graines germent facilement dans l
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=116485)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

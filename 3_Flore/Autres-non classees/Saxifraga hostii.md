@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Saxifraga hostii
+## Description
+
+**Famille** : Saxifragaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saxifraga%20hostii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

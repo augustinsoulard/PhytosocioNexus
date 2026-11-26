@@ -8,6 +8,16 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
+**Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyllostachys%20nigra.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Phyllostachys nigra* (Lodd. ex Lindl.) Munro, 1868
@@ -22,5 +32,8 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=113319)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyllostachys%20nigra.png)
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

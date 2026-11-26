@@ -7,6 +7,31 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rubus integribasis
+## Description
+
+**Famille** : Rosaceae
+**Type biologique** : Hrub
+**Syntaxon (Baseflor)** : Lonicero periclymeni écoph. rampant–Rubion sylvatici Tüxen & Neumann in Tüxen 1950 ex Wittig 1977
+**Écologie (Baseflor)** : ronciers de clairières acidoclines, planitiaires-collinéennes, mésotrophiles, mésohydriques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20integribasis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 3
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 4

@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Angelica archangelica subsp. litoralis
+## Description
+
+**Famille** : Apiaceae
+**Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
+**Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Angelica%20archangelica%20subsp.%20litoralis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

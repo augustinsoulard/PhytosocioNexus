@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cynoglottis barrelieri
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cynoglottis%20barrelieri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

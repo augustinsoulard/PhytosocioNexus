@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ehrharta%20erecta.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ehrharta erecta* Lam., 1786
@@ -25,7 +33,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ehrharta%20erecta.png)
 **Type de reproduction / propagation** : L'ehrharte érigée se reproduit principalement par graines, mais la reproduction asexuée est également possible par enracinement aux nœuds des tiges florifères. Le taux de germination des graines est proche de 100%, et la densité des plantules peut atteindre 1200 plantules/m². Les graines sont dispersées par le vent, les animaux (sabots et fourrure) et les activités humaines (chaussures, sol contaminé, voies de communication, etc.).
 **Type(s) biologique** : Thérophyte
 
@@ -67,3 +74,9 @@ Le **bâchage** avec un matériau opaque type plastique noir peut être utilisé
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=710411)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

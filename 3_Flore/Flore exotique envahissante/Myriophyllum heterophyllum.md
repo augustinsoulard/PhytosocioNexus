@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Haloragaceae
+**Type biologique** : Hsto-aqua
+**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Myriophyllum%20heterophyllum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Myriophyllum heterophyllum* Michx., 1803
@@ -29,7 +40,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Myriophyllum%20heterophyllum.png)
 **Type de reproduction / propagation** : Il n'y a pas de reproduction sexuée connue dans l'aire d'introduction. La reproduction du myriophylle hétérophylle s’effectue de manière végétative par fragmentation des tiges et division du rhizome. Un fragment de tige de moins d'1 cm avec un seul nœud suffit à produire un nouveau plant. Les tiges robustes ne se cassent généralement pas toutes seules, la fragmentation est causée par les activités humaines ou les animaux (poissons ou oiseaux). La dispersion des fragments est liée aux activités humaines (rejets d'aquariums, curage d'étangs, etc.), possiblement aux oiseaux et au courant.
 **Type(s) biologique** : Hydrophyte
 
@@ -82,3 +92,22 @@ Les engins et outils doivent faire l'objet d'un **nettoyage**, avant de traiter 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=109144)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 12
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

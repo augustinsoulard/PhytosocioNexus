@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lupinus%20polyphyllus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lupinus polyphyllus* Lindl., 1827 [Lupinus x regalis Bergmans, 1924]
@@ -27,7 +35,6 @@ sources:
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lupinus%20polyphyllus.png)
 **Type de reproduction / propagation** : Le lupin à folioles nombreuses se reproduit par graines qui sont dispersées à courte distance par explosion des gousses (dispersion balistique). Elles peuvent ensuite être transportées par l'eau et par les activités humaines (sols contaminés, véhicules, etc.). La pollinisation est réalisée par les insectes. Un individu produit en moyenne quelques centaines de graines par an, jusqu'à quelques milliers pour certains individus. Les graines peuvent rester viables plusieurs années dans le sol. Le lupin à folioles nombreuses se reproduit également de manière végétative grâce à ses rhizomes. Il peut s'hybrider avec *Lupinus arboreus* pour former *Lupinus x regalis*.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -82,3 +89,9 @@ Le puceron *Macrosiphum albifrons* est étudié comme potentiel agent de **lutte
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=106789)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

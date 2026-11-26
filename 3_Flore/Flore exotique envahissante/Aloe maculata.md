@@ -8,6 +8,15 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asphodelaceae
+**Type biologique** : C-suc
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20maculata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Aloe maculata* All., 1773
@@ -28,7 +37,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20maculata.png)
 **Type de reproduction / propagation** : Il semblerait qu'en dehors de son aire d'origine, *Aloe maculata* ne produise pas de graines, et se reproduit exclusivement par reproduction végétative. C'est notamment le cas en Nouvelle Zélande (NZPCN, 2010) et au Brésil (Corredor-Prado *et al*., 2015). Introduite en Australie, l'espèce se serait répandue à partir de déchets de jardin (bouturage) où elle est cultivée à but ornemental.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -67,3 +75,22 @@ Pour les populations de petites et moyennes tailles, c'est à ce jour la seule g
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=81595)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 8
+* **Matière organique** : 1

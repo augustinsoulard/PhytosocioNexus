@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Laserpitium x besseanum
+## Description
+
+**Famille** : Apiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Laserpitium%20x%20besseanum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

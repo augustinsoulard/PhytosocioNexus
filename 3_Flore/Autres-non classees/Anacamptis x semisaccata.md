@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Anacamptis x semisaccata
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anacamptis%20x%20semisaccata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Y
+* **Intérêt patrimonial PACA** : NUL

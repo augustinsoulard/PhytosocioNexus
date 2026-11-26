@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Anacamptis x nicodemi nothosubsp. nicodemi
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anacamptis%20x%20nicodemi%20nothosubsp.%20nicodemi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Jacobaea vulgaris subsp. dunensis
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Jacobaea%20vulgaris%20subsp.%20dunensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

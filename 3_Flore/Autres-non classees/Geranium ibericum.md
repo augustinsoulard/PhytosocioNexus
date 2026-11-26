@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Geranium ibericum
+## Description
+
+**Famille** : Geraniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Geranium%20ibericum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

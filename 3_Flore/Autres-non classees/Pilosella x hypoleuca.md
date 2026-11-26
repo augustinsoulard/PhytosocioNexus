@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pilosella x hypoleuca
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pilosella%20x%20hypoleuca.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

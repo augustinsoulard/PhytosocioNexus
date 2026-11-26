@@ -7,6 +7,6 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Microtis unifolia
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Microtis%20unifolia.png)

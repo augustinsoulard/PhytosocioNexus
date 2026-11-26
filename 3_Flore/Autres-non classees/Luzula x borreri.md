@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Luzula x borreri
+## Description
+
+**Famille** : Juncaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Luzula%20x%20borreri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

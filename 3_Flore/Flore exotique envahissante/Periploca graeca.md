@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Apocynaceae
+**Type biologique** : b-cad
+**Syntaxon (Baseflor)** : Nerio oleandri–Tamaricetea africanae (O. de Bolòs 1956) Braun–Blanquet & O. de Bolòs 1958
+**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, méditerranéo-atlantiques, des sols minéraux
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Periploca%20graeca.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Periploca graeca* L., 1753
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Periploca%20graeca.png)
 **Type de reproduction / propagation** : La pollinisation est entomogame. Le bourreau-des-arbres produit des graines qui sont dispersées par le vent et les animaux. Il peut aussi avoir une reproduction végétative (marcottage, drageonnement).
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -70,3 +80,23 @@ L'enfouissement en profondeur ou la combustion sont les méthodes de gestion des
 **Révision** : 2025*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112712)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : DD
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

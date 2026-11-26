@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : a-lia-semp
+**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20angulatus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Senecio angulatus* L.f., 1782
@@ -29,7 +40,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20angulatus.png)
 **Type de reproduction / propagation** : Le séneçon anguleux se reproduit très facilement par marcotte aérienne. Cette astéracée est aussi capable de produire de nombreuses graines qui sont dispersées par le vent : c’est une espèce dite anémochore, dont les fruits sont des akènes surmontés de soies adaptés à la dispersion par le vent. Elle se reproduit aussi facilement par bouturage à partir de fragments de tiges isolés, d’où le risque important de dissémination par déplacement des déchets verts issus de l’entretien des jardins (Fried, 2012).
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -69,3 +79,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=122545)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

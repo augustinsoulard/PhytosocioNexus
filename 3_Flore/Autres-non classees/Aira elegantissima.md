@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Aira elegantissima
+## Description
+
+**Famille** : Poaceae
+**Floraison** : mai-juin
+**Type biologique** : tver
+**Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
+**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aira%20elegantissima.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

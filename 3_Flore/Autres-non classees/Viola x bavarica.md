@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Viola x bavarica
+## Description
+
+**Famille** : Violaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Viola%20x%20bavarica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

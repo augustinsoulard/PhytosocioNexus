@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : mai-juillet
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
+**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dasypyrum%20villosum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Dasypyrum villosum* (L.) P.Candargy, 1901
@@ -21,5 +33,22 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94473)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dasypyrum%20villosum.png)
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 2
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 3
+* **Niveau trophique** : 3
+* **Salinité** : 2
+* **Texture** : 5
+* **Matière organique** : 1

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Butia capitata
+## Description
+
+**Famille** : Arecaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Butia%20capitata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Eleocharis obtusa
+## Description
+
+**Famille** : Cyperaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Eleocharis%20obtusa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Intérêt patrimonial PACA** : NUL

@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juin-novembre
+**Type biologique** : tver
+**Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
+**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Matricaria%20discoidea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Matricaria discoidea* DC., 1838 [syn. Chamomilla suaveolens (Pursh) Rydb., 1916]
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Matricaria%20discoidea.png)
 **Type de reproduction / propagation** : La matricaire fausse-camomille ne se reproduit que par voie sexuée. Les graines deviennent gélatineuses au contact de l'eau et s'accrochent aux tissus animaux. Les graines de cette espèce peuvent être aussi disséminées dans le substrat terreux collé aux pneus des véhicules et des engins agricoles. Les zones humides et piétinées par le bétail favorisent son apparition dans les prairies. Les semences sont capables de rester en dormance dans le sol pendant plusieurs années.
 **Type(s) biologique** : Thérophyte
 
@@ -61,3 +72,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=107446)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

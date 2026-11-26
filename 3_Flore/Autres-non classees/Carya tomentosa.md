@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Carya tomentosa
+## Description
+
+**Famille** : Juglandaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carya%20tomentosa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

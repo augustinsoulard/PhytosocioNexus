@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Brassica oleracea var. gongylodes
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Brassica%20oleracea%20var.%20gongylodes.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

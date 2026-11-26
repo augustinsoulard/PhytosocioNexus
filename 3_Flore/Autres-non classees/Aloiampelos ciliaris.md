@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Aloiampelos ciliaris
+## Description
+
+**Famille** : Asphodelaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloiampelos%20ciliaris.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

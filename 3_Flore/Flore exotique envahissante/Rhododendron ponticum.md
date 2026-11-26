@@ -8,6 +8,16 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Ericaceae
+**Type biologique** : B-semp
+**Syntaxon (Baseflor)** : σB Vaccinio arctostaphyli–Rhododendrion pontici de Foucault 2021
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rhododendron%20ponticum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Rhododendron ponticum* L., 1762 [nom. et typ. cons. prop.] [syn. Rhododendron ponticum L., 1762 ; Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz., 1909]
@@ -25,7 +35,6 @@ sources:
 
 **Milieux** : **Forêts et maquis ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rhododendron%20ponticum.png)
 **Type de reproduction / propagation** : Le rhododendron pontique est une espèce capable de produire environ 1 million de graines par buisson. Elles ont une durée de vie inférieure à un an. Il est capable de fleurir à partir de la 10ème année. L'espèce peut marcotter.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -66,3 +75,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=117692)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 4
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

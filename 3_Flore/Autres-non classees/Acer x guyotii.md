@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Acer x guyotii
+## Description
+
+**Famille** : Sapindaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acer%20x%20guyotii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

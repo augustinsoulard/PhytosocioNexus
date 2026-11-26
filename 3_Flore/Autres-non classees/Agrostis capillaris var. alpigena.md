@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Agrostis capillaris var. alpigena
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juin-septembre
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
+**Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Agrostis%20capillaris%20var.%20alpigena.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 7
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 4

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : Test
+**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20miliaceum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Panicum miliaceum* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20miliaceum.png)
 **Type de reproduction / propagation** : Le panic faux-millet se reproduit uniquement par graines, qu'il produit en grandes quantités.
 **Type(s) biologique** : Thérophyte
 
@@ -56,3 +66,23 @@ sources:
 - *Auteurs CBNMed : MLB, KD, MH, CC, CS Révision : 2021 *
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112195)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 2

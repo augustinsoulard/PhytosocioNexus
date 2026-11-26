@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Andropogon virginicus* L., 1753
@@ -21,3 +25,9 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Prévention ; Méd. Occ. : Prévention ; Méd. PACA : Prévention ; Massif Central : Prévention ; Alpine : Prévention
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=1076366)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

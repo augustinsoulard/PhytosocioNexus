@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Kickxia lanigera
+## Description
+
+**Famille** : Plantaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Kickxia%20lanigera.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL

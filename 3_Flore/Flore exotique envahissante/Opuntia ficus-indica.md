@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cactaceae
+**Floraison** : mai-juillet
+**Type biologique** : b-suc
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20ficus-indica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Opuntia ficus-indica* (L.) Mill., 1768
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20ficus-indica.png)
 **Type de reproduction / propagation** : Le figuier de barbarie est une oponce qui se multiplie très facilement par bouturage à partir de raquettes tombées à terre. Une bouture est capable de produire des graines dès sa troisième année. La dissémination des graines s'effectue par endozoochorie.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -84,3 +95,22 @@ Afin de limiter toute dispersion des graines, la période définie pour mener le
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=110758)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 1
+* **Texture** : 8
+* **Matière organique** : 1

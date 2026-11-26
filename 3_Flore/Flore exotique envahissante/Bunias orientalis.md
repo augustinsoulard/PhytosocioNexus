@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Brassicaceae
+**Type biologique** : Hbis(Heri)
+**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+**Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bunias%20orientalis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Bunias orientalis* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bunias%20orientalis.png)
 **Type de reproduction / propagation** : Le bunias d'Orient peut se propager par reproduction sexuée (l'espèce fleurit et produit des graines dès sa première année) et végétative (à partir d'un fragment de racine). La plupart des graines ne se propagent pas très loin de la plante-mère, excepté celles déplacées par la faune (fourrure, excréments) ou par l'homme (semelles remplis de terre infestée, etc.), mais sont viables de nombreuses années. La production de semences atteint 1000 graines / m2 (3000-4500 graines par plante) avec un taux de germination élevé et une faible mortalité des plants juvéniles. L'espèce peut aussi se propager par les perturbations au niveau du sol (déplacement de terres contaminées), par les machines agricoles (transport dans le foin) et par le bétail, qui refuse les plantes adultes souvent malodorantes (InfoFlora, 2019).
 **Type(s) biologique** : Hémicryptophyte
 
@@ -80,3 +90,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=86975)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

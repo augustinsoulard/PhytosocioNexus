@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rorippa x armoracioides
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rorippa%20x%20armoracioides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

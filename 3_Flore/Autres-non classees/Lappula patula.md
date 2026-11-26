@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lappula patula
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lappula%20patula.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Polygala amara
+## Description
+
+**Famille** : Polygalaceae
+**Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
+**Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Polygala%20amara.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

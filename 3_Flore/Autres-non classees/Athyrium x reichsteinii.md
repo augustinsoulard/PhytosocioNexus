@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Athyrium x reichsteinii
+## Description
+
+**Famille** : Athyriaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Athyrium%20x%20reichsteinii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

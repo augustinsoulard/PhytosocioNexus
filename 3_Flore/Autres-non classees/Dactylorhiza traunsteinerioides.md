@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dactylorhiza traunsteinerioides
+## Description
+
+**Famille** : Orchidaceae
+**Syntaxon (Baseflor)** : Caricion viridulo–trinervis (de Foucault 1984) Julve 1989 ex 1993
+**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, submaritimes, des pannes dunaires atlantiques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dactylorhiza%20traunsteinerioides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

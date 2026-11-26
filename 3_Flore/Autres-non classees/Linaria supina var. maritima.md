@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Linaria supina var. maritima
+## Description
+
+**Famille** : Plantaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Linaria%20supina%20var.%20maritima.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

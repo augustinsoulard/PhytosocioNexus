@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asparagaceae
+**Type biologique** : b-lia
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2036
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asparagus%20asparagoides.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Asparagus asparagoides* (L.) Druce, 1914 [syn. Elide asparagoides (L.) Kerguélen, 1993]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asparagus%20asparagoides.png)
 **Type de reproduction / propagation** : L'élide en forme d'asperge se multiplie par graines et par voie végétative, à partir du rhizome. Suite à un incendie, c'est souvent l'une des premières espèces végétales à germer.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -81,3 +91,22 @@ Une **gestion intégrée** combinant plusieurs méthodes de contrôle optimise d
 **Révision** : 2026*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=84269)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 3
+* **Texture** : 5
+* **Matière organique** : 1

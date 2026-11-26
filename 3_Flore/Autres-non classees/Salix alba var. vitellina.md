@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Salix alba var. vitellina
+## Description
+
+**Famille** : Salicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Salix%20alba%20var.%20vitellina.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

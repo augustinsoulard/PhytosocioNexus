@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Tulipa billietiana
+## Description
+
+**Famille** : Liliaceae
+**Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
+**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tulipa%20billietiana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Z
+* **Intérêt patrimonial PACA** : FAIBLE

@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Haplophyllum buxbaumii
+## Description
+
+**Famille** : Rutaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Haplophyllum%20buxbaumii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

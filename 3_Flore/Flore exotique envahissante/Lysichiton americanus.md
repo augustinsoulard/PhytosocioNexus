@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Araceae
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lysichiton%20americanus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lysichiton americanus* Hultén & H.St.John, 1931
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Marais, tourbières, tufières ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lysichiton%20americanus.png)
 **Type de reproduction / propagation** : Le lysichiton américain se reproduit principalement par graines. Il est pollinisé par un coléoptère dans son aire d'origine, probablement par des diptères en Europe. Les individus fleurissent à partir de l'âge de 3 à 6 ans et produisent 300 à 650 graines par spadice. La plupart des graines tombent au sol, et peuvent ensuite être transportées par l'eau ou par les animaux. Les graines peuvent rester viables 6 à 9 ans dans le sol. La multiplication végétative est également possible par fragmentation des rhizomes, mais n'est pas observée en conditions naturelles.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -77,3 +87,22 @@ Le lysichiton américain peut également être contrôlé par **arrachage mécan
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=610602)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 3
+* **Température** : 4
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

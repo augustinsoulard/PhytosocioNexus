@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juillet-septembre
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Xanthion orientalis subsp. italici Felzines & Loiseau 2005
+**Écologie (Baseflor)** : friches annuelles thermophiles méditerranéennes à centro-européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xanthium%20orientale%20subsp.%20italicum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Xanthium orientale subsp. italicum* (Moretti) Greuter, 2003 [syn. Xanthium strumarium subsp. italicum (Moretti) D.Löve, 1976]
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xanthium%20orientale%20subsp.%20italicum.png)
 **Type de reproduction / propagation** : La lampourde d'Italie est une plante monoïque qui se reproduit par graines. Celles-ci sont dispersées par les animaux ou par les activités humaines (les fruits s'accrochent à la fourrure, aux vêtements, chaussures). Un individu peut produire 6200 graines et le taux de germination en conditions naturelles est supérieur à 90%.
 **Type(s) biologique** : Thérophyte
 
@@ -65,3 +76,22 @@ Plus d'informations : http://www.infloweb.fr/lampourde-a-gros-fruits
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=612629)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

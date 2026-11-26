@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Oxalidaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oxalis%20bowiei.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Oxalis bowiei* Lindl., 1834
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=1019488)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oxalis%20bowiei.png)
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phyllostachys bambusoides
+## Description
+
+**Famille** : Poaceae
+**Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
+**Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyllostachys%20bambusoides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

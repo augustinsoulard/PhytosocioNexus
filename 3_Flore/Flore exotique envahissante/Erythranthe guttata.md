@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Phrymaceae
+**Floraison** : juin-septembre
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erythranthe%20guttata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Erythranthe guttata* (Fisch. ex DC.) G.L.Nesom, 2012 [syn. Mimulus guttatus Fisch. ex DC., 1813]
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erythranthe%20guttata.png)
 **Type de reproduction / propagation** : *Erythranthe guttata* possède une grande capacité de dispersion. Celle-ci est fortement liée aux crues. Elle adopte une double stratégie : une reproduction végétative par bouturage et une reproduction sexuée (graines) lui permettant alors une dispersion à différentes périodes de l'année. Lors des crues, des fragments de mimule tacheté se détachent. Après 6 semaines, 96% des fragments produisent des pousses et 99% produisent des racines. Pour ce qui est de la reproduction sexuée : un pied de mimule tacheté produit en moyenne 15 fruits (capsules) par an, et chaque fruit contient en moyenne 464 graines. Ainsi en 1 an, un pied peut libérer 7 000 graines. 18 jours après la libération des graines, 40% d'entre elles ont germé. Et 90 jours après, 80% des germinations sont toujours en vie (Truscott, 2006).
 **Type(s) biologique** : Hémicryptophyte
 
@@ -71,3 +82,23 @@ Après avoir entrepris des actions de gestion, la zone doit être surveillée du
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717180)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

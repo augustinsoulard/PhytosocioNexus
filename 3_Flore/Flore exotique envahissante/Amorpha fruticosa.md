@@ -8,6 +8,16 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Type biologique** : b-cad
+**Syntaxon (Baseflor)** : Amorphion fruticosae auct. ukr.
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Amorpha%20fruticosa.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Amorpha fruticosa* L., 1753
@@ -26,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Amorpha%20fruticosa.png)
 **Type de reproduction / propagation** : *Amorpha fruticosa* se reproduit principalement de façon sexuée. Il est pollinisé par les insectes. Les graines sont ensuite disséminées par les cours d'eau ou restent à proximité de la plante mère. Elles ont un fort pouvoir germinatif (plus de 80%). Cette espèce peut aussi se marcotter ou se bouturer à partir de fragments de la tige (AME, 2003).
 **Type(s) biologique** : Nanophanérophyte
 
@@ -85,3 +94,22 @@ L’utilisation d’herbicides est interdite en milieux aquatiques et à moins d
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=82164)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygonaceae
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Koenigia%20polystachya.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Koenigia polystachya* (Wall. ex Meisn.) T.M.Schust. & Reveal, 2015 [syn. Persicaria polystachya (C.F.W.Meissn.) H.Gross, 1913 ; Rubrivena polystachya (Wall. ex Meisn.) M.Král, 1985]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Koenigia%20polystachya.png)
 **Type de reproduction / propagation** : La renouée à épis nombreux peut se reproduire par graines (pollinisation par les insectes), mais cela reste assez rare dans son aire d'introduction. Les graines sont dispersées par le vent ou par l'eau. Elle se reproduit principalement de manière végétative grâce à ses rhizomes et à ses tiges qui peuvent se bouturer. Des fragments de rhizomes et de tiges d'1 cm peuvent former des nouvelles plantes. Ils sont dispersés par l'eau (crues) et par les activités humaines (équipements, véhicules, sol contaminé, etc.).
 **Type(s) biologique** : Hémicryptophyte
 
@@ -85,3 +95,22 @@ La renouée à épis nombreux est considérée comme une espèce problématique 
 **Révision** : 2022*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=883894)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

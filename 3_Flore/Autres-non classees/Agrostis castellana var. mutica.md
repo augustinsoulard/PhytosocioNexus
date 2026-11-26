@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Agrostis castellana var. mutica
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Agrostis%20castellana%20var.%20mutica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Silene cretica
+## Description
+
+**Famille** : Caryophyllaceae
+**Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
+**Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Silene%20cretica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

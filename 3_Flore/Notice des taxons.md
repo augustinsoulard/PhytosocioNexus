@@ -1,0 +1,3 @@
+- **Carte de répartition** : élaborée à partir de trois bases de données (eFloRe, Préservons la nature, Flornum). L'orange foncé correspond aux départements où la présence de l'espèce est confirmée ; l'orange clair signale les départements où l'espèce n'est rapportée que par une seule de ces trois sources.
+- **Intérêt patrimonial** : valeur indicative, issue d'une compilation des statuts de protection et de rareté. Elle n'a pas de valeur normative : les espèces absentes des bases de statuts ressortent mécaniquement avec un intérêt très faible.
+- **Statuts** : la plupart des statuts mentionnés s'entendent à l'échelle de la région PACA.

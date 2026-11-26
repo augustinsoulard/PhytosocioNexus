@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Crassulaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Aeonium arboreum* (L.) Webb & Berthel., 1840
@@ -64,3 +68,8 @@ Pour les populations de petites et moyennes tailles, c'est à ce jour la seule g
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=80331)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

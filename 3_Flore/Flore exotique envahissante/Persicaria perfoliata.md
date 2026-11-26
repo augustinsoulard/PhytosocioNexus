@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygonaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Persicaria perfoliata* (L.) H.Gross, 1919 [syn. Polygonum perfoliatum (L.) H. Gross, 1919 ; Persicaria perfoliata (L.) H.Gross, 1913]
@@ -76,3 +80,8 @@ En Nouvelle-Zélande, la renouée perfoliée a été éradiquée. Aux États-Uni
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=845449)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : A
+* **Intérêt patrimonial PACA** : NUL

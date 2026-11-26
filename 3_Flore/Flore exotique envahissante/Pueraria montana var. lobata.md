@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Pueraria montana var. lobata* (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep, 1992 [syn. Pueraria hirsuta (Thunb.) C.K.Schneid., 1907]
@@ -81,3 +85,8 @@ Le kudzu est réglementé en Australie, aux États-Unis et en Europe. Les coûts
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=532918)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

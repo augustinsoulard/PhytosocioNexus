@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Verbascum x ramosissimum
+## Description
+
+**Famille** : Scrophulariaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Verbascum%20x%20ramosissimum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

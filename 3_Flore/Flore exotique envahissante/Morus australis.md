@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Moraceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Morus%20australis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Morus australis* Poir., 1797 [syn. Morus kagayamae Koidz., 1915]
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=446743)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Morus%20australis.png)
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

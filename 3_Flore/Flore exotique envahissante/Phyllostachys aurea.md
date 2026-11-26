@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
+**Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyllostachys%20aurea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Phyllostachys aurea* Carrière ex Rivière & C.Rivière, 1878
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyllostachys%20aurea.png)
 **Type de reproduction / propagation** : Le bambou doré se reproduit par multiplication végétative grâce à ses rhizomes, qui peuvent s'allonger de 4 à 7 m par an. Les fragments de rhizomes peuvent être transportés par l'eau ou par les activités humaines. La reproduction sexuée par graines est très rare, mais peut parfois avoir lieu. La pollinisation se fait par le vent.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -68,3 +78,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=611604)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

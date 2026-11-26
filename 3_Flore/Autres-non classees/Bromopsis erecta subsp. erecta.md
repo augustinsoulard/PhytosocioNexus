@@ -1,0 +1,32 @@
+---
+tags:
+  - espece
+cd_nomv18: 718318
+date_maj: "2026-11-26"
+---
+
+## Description
+
+**Famille** : Poaceae
+**Floraison** : mai-juillet
+**Type biologique** : Hces
+**Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
+**Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

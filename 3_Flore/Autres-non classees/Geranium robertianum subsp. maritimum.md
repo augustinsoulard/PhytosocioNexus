@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Geranium robertianum subsp. maritimum
+## Description
+
+**Famille** : Geraniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Geranium%20robertianum%20subsp.%20maritimum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

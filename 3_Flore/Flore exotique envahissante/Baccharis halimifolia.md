@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : B-cad
+**Syntaxon (Baseflor)** : Tamaricion africanae Braun–Blanquet & O. de Bolòs 1958
+**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, subhalophiles, méditerranéo-atlantiques, des sols minéraux
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Baccharis%20halimifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Baccharis halimifolia* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Marais, tourbières, tufières ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Baccharis%20halimifolia.png)
 **Type de reproduction / propagation** : Les fleurs sont pollinisées par le vent. Les arbustes sont capables de fructifier dès l’âge de 2 ans. Chaque individu produit entre 10 000 et 1,5 million de graines ailées qui peuvent être dispersées sur de longues distances par le vent. Les graines sont capables de germer très rapidement, dès qu’elles rencontrent des conditions favorables. Elles ont une durée de vie de 5 ans environ. La croissance du séneçon en arbre est rapide (habituellement de 1 à 4 m par an). Après une coupe, il rejette de souche. La reprise peut se faire de façon presque instantanée par drageonnage.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -150,3 +160,22 @@ Pour en savoir plus : http://www.especes-exotiques-envahissantes.fr/wp-content/u
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=85474)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 8
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 6
+* **Texture** : 5
+* **Matière organique** : 2

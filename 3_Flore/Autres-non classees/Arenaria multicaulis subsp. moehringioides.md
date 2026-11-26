@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Arenaria multicaulis subsp. moehringioides
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arenaria%20multicaulis%20subsp.%20moehringioides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Balsaminaceae
+**Floraison** : juillet-septembre
+**Type biologique** : Test
+**Syntaxon (Baseflor)** : Impatiention noli–tangeris Julve 2009 all. nov. hoc loco
+**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, hygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Impatiens%20glandulifera.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Impatiens glandulifera* Royle, 1833
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Impatiens%20glandulifera.png)
 **Type de reproduction / propagation** : La balsamine de l’Himalaya a une croissance très rapide et se reproduit essentiellement par graines. Elle est auto-fertile et son nectar attire de nombreux insectes, notamment les abeilles et les bourdons. À maturité, les capsules produites explosent au moindre contact (goutte d’eau par exemple) et éjectent les nombreuses graines (800 graines par plant) jusqu’à 6 m du plant mère.
 
 Ces graines peuvent ensuite être transportées par l’eau ou par les activités humaines. Elles ont une durée de vie de 18 mois et ont besoin de froid pour germer. Elle peut également se reproduire par bouturage des tiges ou des racines.
@@ -109,3 +120,23 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=103547)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 8
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Solanum aviculare
+## Description
+
+**Famille** : Solanaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solanum%20aviculare.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

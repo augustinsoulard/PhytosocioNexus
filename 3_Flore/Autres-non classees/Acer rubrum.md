@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Acer rubrum
+## Description
+
+**Famille** : Sapindaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acer%20rubrum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

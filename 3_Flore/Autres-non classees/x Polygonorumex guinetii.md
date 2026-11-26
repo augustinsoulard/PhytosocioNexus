@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# x Polygonorumex guinetii
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Polygonorumex%20guinetii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

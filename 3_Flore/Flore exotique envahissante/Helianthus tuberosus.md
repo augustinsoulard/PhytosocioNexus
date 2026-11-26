@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : Gtub
+**Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
+**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helianthus%20tuberosus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Helianthus tuberosus* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helianthus%20tuberosus.png)
 **Type de reproduction / propagation** : La reproduction sexuée du topinambour est faible en Europe. Le topinambour se reproduit principalement par multiplication végétative à partir des rhizomes, qui forment des tubercules. Ces tubercules peuvent être disséminés par les animaux ou par les eaux.
 **Type(s) biologique** : Géophyte à tubercule
 
@@ -68,3 +78,22 @@ Les engins et outils doivent faire l'objet d'un nettoyage, avant de traiter la z
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=101055)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

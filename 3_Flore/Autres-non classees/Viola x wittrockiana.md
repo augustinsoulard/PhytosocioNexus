@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Viola x wittrockiana
+## Description
+
+**Famille** : Violaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Viola%20x%20wittrockiana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

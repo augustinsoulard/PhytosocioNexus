@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juin-septembre
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
+**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20indicus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Sporobolus indicus* (L.) R.Br., 1810
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20indicus.png)
 **Type de reproduction / propagation** : Le sporobole tenace se reproduit par graines, qui tombent généralement près du pied-mère ou sont dispersées par l'eau, les animaux ou les activités humaines (remaniements de sol, déplacements de gravats et décombres, etc.). L’entretien mécanique des bords de routes (fauche-raclage) participe à sa dissémination.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -67,3 +78,22 @@ La texture des feuilles et des tiges provoque des dommages à la dentition des v
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124719)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

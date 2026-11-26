@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ornithogalum gussonei
+## Description
+
+**Famille** : Asparagaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ornithogalum%20gussonei.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

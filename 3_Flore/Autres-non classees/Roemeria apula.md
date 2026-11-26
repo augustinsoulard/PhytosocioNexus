@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Roemeria apula
+## Description
+
+**Famille** : Papaveraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Roemeria%20apula.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

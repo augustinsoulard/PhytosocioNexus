@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Campanula rotundifolia subsp. hispanica
+## Description
+
+**Famille** : Campanulaceae
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
+**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Campanula%20rotundifolia%20subsp.%20hispanica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Enjeu RESEDA Flore 2021 (CBN)** : FOR
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 2
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 8
+* **Matière organique** : 1

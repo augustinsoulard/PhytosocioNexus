@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Epilobium x decipiens
+## Description
+
+**Famille** : Onagraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Epilobium%20x%20decipiens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

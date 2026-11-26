@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Vitaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Vitis acerifolia x Vitis riparia*
@@ -19,3 +23,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA : Emergente ; Massif Central :  ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717902)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

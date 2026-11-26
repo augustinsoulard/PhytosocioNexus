@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Avena fatua subsp. septentrionalis
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Avena%20fatua%20subsp.%20septentrionalis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

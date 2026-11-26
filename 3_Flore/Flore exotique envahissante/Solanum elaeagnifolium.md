@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Solanaceae
+**Type biologique** : Test(Heri)
+**Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
+**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solanum%20elaeagnifolium.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Solanum elaeagnifolium* Cav., 1795
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solanum%20elaeagnifolium.png)
 **Type de reproduction / propagation** : La morelle jaune se reproduit principalement par reproduction végétative à partir de différents organes (racines, rhizomes, drageons, collets, tiges). Un fragment de racine ou de rhizome de très petite taille (0,5 cm) produit des repousses. Enfoui, il peut rester viable plus de 15 mois. Elle produit également une très grande quantité de graines, qui sont libérées, disséminées par les véhicules et les engins agricoles, le bétail et l’eau. Certaines graines sont viables dès leur année de production.
 **Type(s) biologique** : Géophyte
 
@@ -90,3 +100,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124036)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ranunculus lingulatus
+## Description
+
+**Famille** : Ranunculaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ranunculus%20lingulatus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : E
+* **Intérêt patrimonial PACA** : FAIBLE

@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phyteuma globulariifolium subsp. pedemontanum
+## Description
+
+**Famille** : Campanulaceae
+**Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
+**Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyteuma%20globulariifolium%20subsp.%20pedemontanum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

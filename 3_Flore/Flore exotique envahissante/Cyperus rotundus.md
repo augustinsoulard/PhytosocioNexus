@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cyperaceae
+**Floraison** : août-novembre
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Cyperetalia papyri Lebrun 1947
+**Écologie (Baseflor)** : roselières et magnocariçaies amphibies paléotropicales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20rotundus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cyperus rotundus* L., 1753
@@ -24,7 +36,6 @@ sources:
 
 **Milieux** : ****
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20rotundus.png)
 **Type de reproduction / propagation** : Le Souchet rond est une espèce pansubtropicale. En France, il est présent dans la région méditerranéenne : dans les Alpes-Maritimes, la Corse et le Var il est considéré comme probablement indigène. Par contre, dans l'Aude, les Bouches-du-Rhône, le Gard, l'Hérault, les Pyrénées-Orientales et le Vaucluse, il est considéré comme exotique (naturalisé).
 
 Le Souchet rond se reproduit principalement de manière asexuée, par ses rhizomes ou ses tubercules, qui sont dispersés par l'eau et par les activités humaines. La reproduction sexuée est peu présente chez cette espèce, car une grande partie de ses graines n'est pas viable. Les quelques graines viables sont dispersées principalement par le vent.
@@ -84,3 +95,23 @@ Des **papillons de nuit** (du genre *Bactra*) sont étudiés comme potentiels ag
 **Révision** : 2024*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94011)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 1
+* **Texture** : 1
+* **Matière organique** : 8

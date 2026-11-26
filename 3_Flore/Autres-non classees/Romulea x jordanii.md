@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Romulea x jordanii
+## Description
+
+**Famille** : Iridaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Romulea%20x%20jordanii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

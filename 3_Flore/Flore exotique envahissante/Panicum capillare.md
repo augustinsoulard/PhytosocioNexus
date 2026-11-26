@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20capillare.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Panicum capillare* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20capillare.png)
 **Type de reproduction / propagation** : Le panic capillaire se reproduit par graines qui sont disséminées par le vent, l'eau, les animaux domestiques et les activités humaines (en contaminant des céréales ou en s'accrochant aux chaussures). Un individu peut produire 56 400 graines, qui peuvent rester viables dans le sol pendant longtemps.
 **Type(s) biologique** : Thérophyte
 
@@ -61,3 +71,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112111)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 7
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 2

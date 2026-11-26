@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Sabulina tenuifolia subsp. tenuifolia
+## Description
+
+**Famille** : Caryophyllaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sabulina%20tenuifolia%20subsp.%20tenuifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

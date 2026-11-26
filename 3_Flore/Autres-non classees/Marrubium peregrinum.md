@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Marrubium peregrinum
+## Description
+
+**Famille** : Lamiaceae
+**Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
+**Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Marrubium%20peregrinum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Y
+* **Intérêt patrimonial PACA** : NUL

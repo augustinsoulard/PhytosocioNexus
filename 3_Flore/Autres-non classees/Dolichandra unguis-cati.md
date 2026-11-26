@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dolichandra unguis-cati
+## Description
+
+**Famille** : Bignoniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dolichandra%20unguis-cati.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

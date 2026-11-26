@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Capparis spinosa subsp. rupestris
+## Description
+
+**Famille** : Capparaceae
+**Syntaxon (Baseflor)** : Capparidetalia spinosae Biondi, Blasi & Galdenzi in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Capparis%20spinosa%20subsp.%20rupestris.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Tamaricaceae
+**Type biologique** : B-cad
+**Syntaxon (Baseflor)** : Rubo ulmifolii–Nerion oleandri O. de Bolòs 1985
+**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, dulçaquicoles, méditerranéo-atlantiques, des sols minéraux
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tamarix%20parviflora.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Tamarix parviflora* DC., 1828
@@ -22,5 +33,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125437)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tamarix%20parviflora.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 5
+* **Matière organique** : 2

@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Phytolaccaceae
+**Floraison** : juin-septembre
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
+**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phytolacca%20americana.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Phytolacca americana* L., 1753
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phytolacca%20americana.png)
 **Type de reproduction / propagation** : La plante se reproduit uniquement de manière sexuée. La dissémination des graines s'effectue par endozoochorie. Elles sont en capacité de germer après plusieurs années dans la banque de graines du sol.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -93,3 +104,22 @@ Pour les zones massivement colonisées, il peut être envisagé de recourir au *
 **Révision** : 2021 *
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=113418)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 6
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 2

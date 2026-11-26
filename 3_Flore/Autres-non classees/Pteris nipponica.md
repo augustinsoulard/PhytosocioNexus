@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pteris nipponica
+## Description
+
+**Famille** : Pteridaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pteris%20nipponica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

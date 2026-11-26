@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Convolvulaceae
+**Type biologique** : hsto-lia
+**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20indica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ipomoea indica* (Burm.) Merr., 1917
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20indica.png)
 **Type de reproduction / propagation** : La dissémination est assurée par ses rhizomes et par la fragmentation de la tige. Les graines sont dispersées par le vent, la pluie, les cours d'eau, la gravité et l'activité humaine, tandis que les fragments de tige sont généralement dispersés par l'eau, les animaux et les véhicules et dans les déchets de jardin déversés.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -59,3 +69,22 @@ Sur l’île de la Réunion, c’est une adventice encore peu fréquente mais qu
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=103684)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 1
+* **Texture** : 3
+* **Matière organique** : 2

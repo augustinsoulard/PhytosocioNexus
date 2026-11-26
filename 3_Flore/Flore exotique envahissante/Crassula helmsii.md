@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Crassulaceae
+**Type biologique** : hsto-suc
+**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crassula%20helmsii.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Crassula helmsii* (Kirk) Cockayne, 1907 [syn. Tillaea helmsii Kirk, 1899]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Marais, tourbières, tufières**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crassula%20helmsii.png)
 **Type de reproduction / propagation** : L'orpin de Helms se reproduit de manière végétative grâce à des turions, des stolons, ou par bouturage (un fragment de tige inférieur à 5 mm peut suffire à former une bouture). La production de graines viables est incertaine en Europe (des expérimentations en conditions contrôlées semblent néanmoins démontrer le développement de plantes par germinations). La propagation des fragments de plante est effectuée par les oiseaux aquatiques, les hélices des bateaux, les activités d'entretien des cours d'eau et les rejets d'aquariums.
 **Type(s) biologique** : Hélophyte
 
@@ -124,3 +134,23 @@ La plupart des gestionnaires ayant travaillé sur la gestion de cette espèce in
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=92793)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

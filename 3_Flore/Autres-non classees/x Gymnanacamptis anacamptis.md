@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# x Gymnanacamptis anacamptis
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Gymnanacamptis%20anacamptis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

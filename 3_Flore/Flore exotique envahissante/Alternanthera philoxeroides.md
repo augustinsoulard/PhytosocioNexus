@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Amaranthaceae
+**Type biologique** : Hsto
+**Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
+**Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Alternanthera%20philoxeroides.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Alternanthera philoxeroides* (Mart.) Griseb., 1879
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Alternanthera%20philoxeroides.png)
 **Type de reproduction / propagation** : La reproduction est essentiellement végétative (reproduction asexuée) : *Alternanthera philoxeroides* peut se bouturer facilement à partir des fragments de tiges (qui contiennent des racines filamenteuses à ses noeuds) ou à partir de fragments de stolons. La reproduction sexuée n’a pas été observée dans les aires d’introduction de l’espèce (Sainty *et al.*, 1998).
 **Type(s) biologique** : Hydrophyte enraciné
 
@@ -127,3 +137,23 @@ Une revégétalisation avec des plantes indigènes locales (*cf.* Végétal Loca
 **Révision** : 2026*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=81831)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

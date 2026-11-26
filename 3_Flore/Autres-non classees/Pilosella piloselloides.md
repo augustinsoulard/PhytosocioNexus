@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pilosella piloselloides
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juin-juillet
+**Type biologique** : hros
+**Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
+**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pilosella%20piloselloides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 1

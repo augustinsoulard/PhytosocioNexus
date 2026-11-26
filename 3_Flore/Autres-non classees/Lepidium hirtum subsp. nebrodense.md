@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lepidium hirtum subsp. nebrodense
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lepidium%20hirtum%20subsp.%20nebrodense.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

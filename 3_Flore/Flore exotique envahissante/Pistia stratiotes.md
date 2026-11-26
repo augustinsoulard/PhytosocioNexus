@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Araceae
+**Type biologique** : hros-aqua
+**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pistia%20stratiotes.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Pistia stratiotes* L., 1753
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pistia%20stratiotes.png)
 **Type de reproduction / propagation** : La laitue d'eau se reproduit principalement par multiplication végétative, assurée par les stolons, mais également par reproduction sexuée (graines). Des tests de germination réalisés à partie de graines récoltées dans le contre-canal du Rhône ont permis de mettre en évidence la viabilité des graines et la capacité de germination de la population gardoise (Steffann, 2026).
 
 Les fragments de stolons sont principalement disséminés par les activités humaines (aquariophilie, bateaux) et par l'eau. La laitue d'eau est une espèce sensible au gel. La graine est l'organe de résistance au froid. Les graines peuvent résister à des températures de -5°C pendant quelques jours (Vélard, 1998).
@@ -88,3 +98,22 @@ Dans ce cas, tous les fragments doivent être récupérés, et les déchets peuv
 **Révision** : 2026*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=447733)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 11
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 8

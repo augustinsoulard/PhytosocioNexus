@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Hydrocharitaceae
+**Floraison** : mai-août
+**Type biologique** : Hsto-aqua
+**Syntaxon (Baseflor)** : Callitricho obtusangulae–Ranunculetalia peltati (Passarge 1978) Julve 2004 ord. nov. hoc loco
+**Écologie (Baseflor)** : herbiers aquatiques vivaces, enracinés, européens, des eaux douces à saumâtres, peu profondes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elodea%20canadensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Elodea canadensis* Michx., 1803
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : **Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elodea%20canadensis.png)
 **Type de reproduction / propagation** : L'élodée du Canada est une espèce dioïque dont seuls les pieds femelles sont observés en France, sa reproduction est donc uniquement végétative. La propagation se fait principalement par fragmentation et bouturage des tiges, et leur dissémination est effectuée par les courants, les oiseaux aquatiques et les activités humaines (navigation, entretien des cours d'eau, loisirs, rejets d'aquariums). L'espèce régresse dans les eaux atteignant 25°C.
 **Type(s) biologique** : Hydrophyte enraciné
 
@@ -82,3 +93,22 @@ La réduction des nutriments présents dans l'eau (phosphore et azote) ne permet
 **Révision** : 2023*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=95980)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 12
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rhamnus x mercieri
+## Description
+
+**Famille** : Rhamnaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rhamnus%20x%20mercieri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

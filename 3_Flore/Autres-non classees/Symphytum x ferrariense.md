@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Symphytum x ferrariense
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphytum%20x%20ferrariense.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : W
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juillet-octobre
+**Type biologique** : Test
+**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20canadensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Erigeron canadensis* L., 1753 [syn. Conyza canadensis (L.) Cronquist, 1943]
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20canadensis.png)
 **Type de reproduction / propagation** : Le conyze du Canada se reproduit par graines qui sont dispersées par le vent et parfois par l'eau. Un individu peut produire jusqu'à 250 000 graines. La survie des graines dans le sol est comprise entre 1 et 3 ans. Le conyze du Canada peut s'hybrider avec l'érigéron crépu (*Erigeron bonariensis*) et la vergerette de Barcelone (*Erigeron sumatrensis*).
 **Type(s) biologique** : Thérophyte
 
@@ -70,3 +81,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96749)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dactylorhiza x kerneriorum
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dactylorhiza%20x%20kerneriorum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

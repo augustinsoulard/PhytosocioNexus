@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Convolvulus sabatius subsp. mauritanicus
+## Description
+
+**Famille** : Convolvulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Convolvulus%20sabatius%20subsp.%20mauritanicus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

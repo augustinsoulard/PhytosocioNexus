@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Campanula elatines
+## Description
+
+**Famille** : Campanulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Campanula%20elatines.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

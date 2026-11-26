@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ulmus plotii
+## Description
+
+**Famille** : Ulmaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ulmus%20plotii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

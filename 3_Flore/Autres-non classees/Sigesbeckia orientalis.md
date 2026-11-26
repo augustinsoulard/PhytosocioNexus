@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Sigesbeckia orientalis
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sigesbeckia%20orientalis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : A
+* **Intérêt patrimonial PACA** : TRES FAIBLE

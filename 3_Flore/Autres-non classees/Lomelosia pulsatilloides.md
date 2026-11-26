@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lomelosia pulsatilloides
+## Description
+
+**Famille** : Caprifoliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lomelosia%20pulsatilloides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

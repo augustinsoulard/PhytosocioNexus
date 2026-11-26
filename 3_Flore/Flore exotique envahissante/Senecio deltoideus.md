@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : b-lia-semp
+**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20deltoideus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Senecio deltoideus* Less., 1832
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20deltoideus.png)
 **Type de reproduction / propagation** : Le séneçon à feuilles en delta se reproduit très facilement par bouturage à l'aide de simples fragments de plante. Il est aussi en capacité de produire des milliers de graines.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -59,3 +69,22 @@ sources:
 **Révision** : 2021 *
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=122586)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

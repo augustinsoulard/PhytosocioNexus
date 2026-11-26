@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rumex x dufftii
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rumex%20x%20dufftii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,15 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cactaceae
+**Type biologique** : c-suc
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20stricta.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Opuntia stricta* (Haw.) Haw., 1812
@@ -26,7 +35,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20stricta.png)
 **Type de reproduction / propagation** : *Opuntia stricta* est la plus fréquente des oponces naturalisées sur le territoire. La combinaison des deux modes de reproduction (voie asexuée et sexuée) lui confère une dynamique de colonisation importante. Elle a la capacité de se multiplier très facilement par bouturage à partir de raquettes tombées à terre. Une bouture est capable de produire des graines dès sa troisième année. En effet, une seule raquette peut bouturer et donner naissance à un nouveau plant (qui donnera à son tour des fruits à partir de la troisième année).
 
 La dissémination des graines s'effectue par endozoochorie : les animaux, notamment les oiseaux, contribuent à disséminer les graines : sucré, riche en arômes et de couleur vive, le fruit est appétent. Les graines et les "raquettes" (tiges de forme aplatie) peuvent aussi être transportées par l'eau et le vent.
@@ -88,3 +96,22 @@ Afin de limiter toute dispersion des graines, la période définie pour mener le
 **Révision** : 2024*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=110781)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 2
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 7
+* **Matière organique** : 2

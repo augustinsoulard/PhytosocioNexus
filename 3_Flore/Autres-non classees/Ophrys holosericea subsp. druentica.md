@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ophrys holosericea subsp. druentica
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ophrys%20holosericea%20subsp.%20druentica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

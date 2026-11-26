@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rubus muelleri
+## Description
+
+**Famille** : Rosaceae
+**Syntaxon (Baseflor)** : Lonicero periclymeni–Rubetea plicati Haveman, Schaminée & Stortelder in Stortelder, Schaminée & Hommel 1999
+**Écologie (Baseflor)** : ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20muelleri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

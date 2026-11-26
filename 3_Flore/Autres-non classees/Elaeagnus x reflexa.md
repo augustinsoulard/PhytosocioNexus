@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Elaeagnus x reflexa
+## Description
+
+**Famille** : Elaeagnaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elaeagnus%20x%20reflexa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

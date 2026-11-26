@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rosa villosa
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rosa%20villosa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

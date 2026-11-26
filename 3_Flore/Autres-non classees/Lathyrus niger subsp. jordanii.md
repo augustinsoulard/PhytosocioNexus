@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lathyrus niger subsp. jordanii
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lathyrus%20niger%20subsp.%20jordanii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

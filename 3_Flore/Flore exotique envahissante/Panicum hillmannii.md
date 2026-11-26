@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : Test
+**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20hillmanii.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Panicum hillmannii* Chase, 1934 [syn. Panicum hillmanii Chase, 1934]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20hillmanii.png)
 **Type de reproduction / propagation** : Le panic de Hillman se reproduit uniquement par graines.
 **Type(s) biologique** : Thérophyte
 
@@ -55,3 +65,22 @@ sources:
 - *Auteurs CBNMed : MLB, KD, MH, CC, CS Révision : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112160)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 2

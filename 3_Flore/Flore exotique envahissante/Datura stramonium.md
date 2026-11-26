@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Solanaceae
+**Floraison** : juillet-octobre
+**Type biologique** : Test
+**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Datura%20stramonium.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Datura stramonium* L., 1753
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Datura%20stramonium.png)
 **Type de reproduction / propagation** : Le datura stramoine se reproduit uniquement par graines. Dans de bonnes conditions, un individu peut produire plus de 50 capsules et donc plus 30 000 graines par an, qui sont viables pendant 40 ans dans le sol. Il est fortement auto-compatible. La pollinisation des daturas est réalisée par les insectes, et notamment par des sphinx dans l'aire naturelle de répartition du datura stramoine. Cependant, des expériences réalisées dans son aire d'introduction (Afrique du Sud, Amérique du Nord, Espagne) montrent que le datura stramoine, bien que visité par des abeilles, se reproduit dans 98% des cas par auto-fertilisation. Ses graines sont dispersées mécaniquement (l'ouverture des capsules sèches provoque la dispersion des graines sur une distance de 1 à 3 m, un processus favorisé par les perturbations humaines agricoles), par l'eau (les capsules et les graines flottent) et par l'homme (par les semences agricoles contaminées, les machines, les véhicules, etc.).
 **Type(s) biologique** : Thérophyte
 
@@ -86,3 +97,22 @@ En période de fructification ou sur les sites envahis présentant une banque de
 **Révision** : 2022*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94489)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 8
+* **Salinité** : 1
+* **Texture** : 3
+* **Matière organique** : 3

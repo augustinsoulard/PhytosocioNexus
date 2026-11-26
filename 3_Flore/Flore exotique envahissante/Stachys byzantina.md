@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Lamiaceae
+**Floraison** : juin-août
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Stachys%20byzantina.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Stachys byzantina* K.Koch, 1848
@@ -20,5 +32,21 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124756)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Stachys%20byzantina.png)
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 9
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

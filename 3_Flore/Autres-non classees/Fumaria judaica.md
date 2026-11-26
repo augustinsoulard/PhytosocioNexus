@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fumaria judaica
+## Description
+
+**Famille** : Papaveraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fumaria%20judaica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

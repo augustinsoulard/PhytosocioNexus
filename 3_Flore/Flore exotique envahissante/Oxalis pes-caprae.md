@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Oxalidaceae
+**Type biologique** : gtub
+**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oxalis%20pes-caprae.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Oxalis pes-caprae* L., 1753 [syn. Oxalis cernua Thunb., 1781]
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oxalis%20pes-caprae.png)
 **Type de reproduction / propagation** : *Oxalis pes-caprae* fructifie exceptionnellement, et les graines sont alors vides. La reproduction est végétative, par les bulbilles qui s'échelonnent tout le long de la tige souterraine. La plante se propage ainsi principalement grâce à cette multitude de bulbilles dispersées par le travail du sol. Elles sont également emportées le long des ravines par la pluie ou les cours d'eau. Les sangliers (*Sus scrofa*), par les boutis qu'ils laissent parfois sur leurs passages, peuvent être vecteurs de dispersion de la plante.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -73,3 +83,22 @@ En dehors de l'Europe, la **noctuelle** *Klugeana philoxalis* est un spécialist
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=111910)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

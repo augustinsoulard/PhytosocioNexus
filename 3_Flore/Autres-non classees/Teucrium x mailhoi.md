@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Teucrium x mailhoi
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Teucrium%20x%20mailhoi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

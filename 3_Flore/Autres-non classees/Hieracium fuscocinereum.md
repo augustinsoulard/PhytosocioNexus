@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Hieracium fuscocinereum
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hieracium%20fuscocinereum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD

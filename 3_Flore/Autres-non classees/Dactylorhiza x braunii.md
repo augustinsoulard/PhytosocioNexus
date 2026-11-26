@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dactylorhiza x braunii
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dactylorhiza%20x%20braunii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

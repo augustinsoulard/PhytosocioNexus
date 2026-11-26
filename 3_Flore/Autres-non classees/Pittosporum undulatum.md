@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pittosporum undulatum
+## Description
+
+**Famille** : Pittosporaceae
+**Type biologique** : a-semp
+**Syntaxon (Baseflor)** : Cytiso proliferi–Pinetea canariensis Rivas Goday & Esteve ex Esteve 1969
+**Écologie (Baseflor)** : associations arborescentes climaciques des forêts canariennes montagnardes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pittosporum%20undulatum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 4
+* **Matière organique** : 2

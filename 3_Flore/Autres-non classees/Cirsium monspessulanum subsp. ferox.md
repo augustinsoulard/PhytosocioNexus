@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cirsium monspessulanum subsp. ferox
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cirsium%20monspessulanum%20subsp.%20ferox.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Thymus x citriodorus
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Thymus%20x%20citriodorus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

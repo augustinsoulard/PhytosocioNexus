@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phyteuma x hegetschweileri
+## Description
+
+**Famille** : Campanulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyteuma%20x%20hegetschweileri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

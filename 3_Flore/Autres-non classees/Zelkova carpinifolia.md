@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Zelkova carpinifolia
+## Description
+
+**Famille** : Ulmaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Zelkova%20carpinifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

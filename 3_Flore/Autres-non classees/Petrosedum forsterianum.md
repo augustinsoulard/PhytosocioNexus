@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Petrosedum forsterianum
+## Description
+
+**Famille** : Crassulaceae
+**Floraison** : juin-juillet
+**Type biologique** : csuf-suc
+**Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
+**Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Petrosedum%20forsterianum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 2
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 3
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 8
+* **Matière organique** : 1

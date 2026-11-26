@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Malvaceae
+**Floraison** : juin-juillet
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Abutilon%20theophrasti.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Abutilon theophrasti* Medik., 1787
@@ -30,7 +42,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Abutilon%20theophrasti.png)
 **Type de reproduction / propagation** : Espèce très fertile, autogame, pouvant produire plus de 3 000 graines par individu pouvant rester viables jusqu'à 50 ans dans le sol (Elorza *et al*., 2004 ; CABI, 2019). Les machines agricoles jouent un rôle important dans la dispersion des graines de cette plante d'un champ à l'autre. Les graines sont matures 17 à 22 jours après la pollinisation (CABI, 2019). Les fruits ont une bonne flottabilité (Elorza *et al.*, 2004).
 **Type(s) biologique** : Thérophyte
 
@@ -77,3 +88,22 @@ Pour rappel, il est interdit d'utiliser des herbicides en milieux aquatiques à 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79684)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

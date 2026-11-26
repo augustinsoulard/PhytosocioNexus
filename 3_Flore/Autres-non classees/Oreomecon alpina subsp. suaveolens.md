@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Oreomecon alpina subsp. suaveolens
+## Description
+
+**Famille** : Papaveraceae
+**Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
+**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oreomecon%20alpina%20subsp.%20suaveolens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

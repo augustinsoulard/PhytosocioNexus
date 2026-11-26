@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rumex acetosa subsp. biformis
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rumex%20acetosa%20subsp.%20biformis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Androsace laggeri
+## Description
+
+**Famille** : Primulaceae
+**Floraison** : mai-août
+**Type biologique** : csuf
+**Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
+**Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Androsace%20laggeri.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 1
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 3
+* **Niveau trophique** : 1
+* **Salinité** : 0
+* **Texture** : 6
+* **Matière organique** : 7

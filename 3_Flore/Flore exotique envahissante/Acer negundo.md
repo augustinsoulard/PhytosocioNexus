@@ -9,6 +9,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Sapindaceae
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : σA Aceri sacchari–Fagetea grandifoliae Julve 2019 class. nov. hoc loco
+**Écologie (Baseflor)** : associations arborescentes climaciques caducifoliées malacophylles des forêts du tempéré modal nord-est américain
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acer%20negundo.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Acer negundo* L., 1753
@@ -32,7 +43,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acer%20negundo.png)
 **Type de reproduction / propagation** : La pollinisation se fait majoritairement par le vent. Elle peut être assurée par les abeilles. Les fruits se disséminent à au moins 50 m du pied mère par anémochorie. L'eau est également un agent de dispersion efficace, étant donné que les graines sont capables de survivre 6 semaines dans l'eau. Les samares peuvent parfois être transportées par les voitures et le long des voies ferrées. Les graines sont capables de germer dans les espaces ouverts mais aussi en sous-bois. L'âge de première reproduction est fortement dépendant des ressources, il varie de 5 à plus de 15 ans. L'espèce est aussi capable de se reproduire de façon végétative (drageons) et de produire de nombreux rejets après coupe.
 **Type(s) biologique** : Phanérophyte
 
@@ -108,3 +118,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Auteurs CBNMed** : EK, MR, PB, MH, KD, CC, CS* *Révisions : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79766)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 6
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

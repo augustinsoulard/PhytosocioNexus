@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Salix x alpigena
+## Description
+
+**Famille** : Salicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Salix%20x%20alpigena.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

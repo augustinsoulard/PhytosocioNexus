@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Pteridaceae
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
+**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pteris%20vittata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Pteris vittata* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pteris%20vittata.png)
 **Type de reproduction / propagation** : Le ptéris rubané se reproduit par spores, qui peuvent être transportées par le vent, l'eau ou les vêtements.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -54,3 +64,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=116285)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 6
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 9
+* **Matière organique** : 1

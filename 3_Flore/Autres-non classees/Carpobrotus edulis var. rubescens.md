@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Carpobrotus edulis var. rubescens
+## Description
+
+**Famille** : Aizoaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carpobrotus%20edulis%20var.%20rubescens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Persicaria x wilmsii
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Persicaria%20x%20wilmsii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

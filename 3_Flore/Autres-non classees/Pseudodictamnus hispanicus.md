@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pseudodictamnus hispanicus
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pseudodictamnus%20hispanicus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

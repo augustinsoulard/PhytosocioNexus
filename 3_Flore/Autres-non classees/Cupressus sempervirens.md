@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Cupressus sempervirens
+## Description
+
+**Famille** : Cupressaceae
+**Floraison** : avril
+**Type biologique** : A-semp
+**Syntaxon (Baseflor)** : Pinetalia halepensis Biondi, Blasi, Galdenzi, Pesaresi & Vagge in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+**Écologie (Baseflor)** : pinèdes pionnières thermo à mésoméditerranéennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cupressus%20sempervirens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

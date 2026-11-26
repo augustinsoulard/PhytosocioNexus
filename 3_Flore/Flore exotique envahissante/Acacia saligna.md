@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Type biologique** : a-cad
+**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20saligna.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Acacia saligna* (Labill.) H.L.Wendl., 1820 [syn. Acacia cyanophylla Lindl., 1839]
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20saligna.png)
 **Type de reproduction / propagation** : Fleurit dès la 2ème année (Jacquemin, 1997). Cette espèce se disperse principalement par reproduction sexuée, mais peut également former des petits colonies par des drageons. Grosse production de graines, pouvant rester longtemps en dormance dans le sol, et dont la germination peut être favoriser par le feu (CABI).
 **Type(s) biologique** : Phanérophyte
 
@@ -120,3 +130,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2023*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79710)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 8
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 3

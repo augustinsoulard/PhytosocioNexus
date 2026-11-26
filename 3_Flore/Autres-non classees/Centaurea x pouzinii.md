@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Centaurea x pouzinii
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Centaurea%20x%20pouzinii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

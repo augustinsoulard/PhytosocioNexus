@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Artemisia vallesiaca
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Artemisia%20vallesiaca.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

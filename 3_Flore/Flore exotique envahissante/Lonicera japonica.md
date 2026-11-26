@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Caprifoliaceae
+**Floraison** : mai-septembre
+**Type biologique** : B-lia-semp
+**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lonicera%20japonica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lonicera japonica* Thunb., 1784
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Marais, tourbières, tufières**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lonicera%20japonica.png)
 **Type de reproduction / propagation** : Le chèvrefeuille du Japon se développe en produisant de longs stolons et des rhizomes souterrains. La dispersion sur de longues distances s'effectue par production de graines, par endozoochorie.
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -71,3 +82,22 @@ Pour les individus plus âgés, la coupe répétée peut limiter sa propagation 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=106571)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

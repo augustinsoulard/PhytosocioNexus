@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Basellaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anredera%20cordifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Anredera cordifolia* (Ten.) Steenis, 1957
@@ -24,7 +32,6 @@ sources:
 
 **Milieux** : ****
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anredera%20cordifolia.png)
 **Type de reproduction / propagation** : Plante rarement fertile dans les zones où elle a été introduite, l'Anrédère à feuilles en cœur se reproduit principalement de manière végétative par ses nombreux tubercules (aériens et souterrains), ainsi que par ses rhizomes et fragments de tiges. Les tubercules peuvent notamment être dispersés par barochorie, par l'eau et par les activités humaines. Les tubercules aériens peuvent survivre plusieurs années dans la canopée après que les tiges aient été coupées, et sont capables de donner de nouvelles plantes. Cette espèce est pollinisée par les insectes.
 
 Bien que son nom commun fasse référence à Madère, l'Anrédère à feuilles en cœur n'est pas originaire de cette île, mais d'Amérique du Sud. Elle a été introduite dans de nombreux pays en tant que plante d’ornement. Elle continue d’être dispersée par l’Homme, toujours pour l’ornement. En France, les premières mentions datent du XXème siècle, dans les Bouches-du-Rhône.
@@ -63,3 +70,9 @@ Bien que son nom commun fasse référence à Madère, l'Anrédère à feuilles e
 **Auteurs CBNMed** : MLB, MF* *Rédaction : 2023*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=446987)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Taraxacum reichlingii
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Taraxacum%20reichlingii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

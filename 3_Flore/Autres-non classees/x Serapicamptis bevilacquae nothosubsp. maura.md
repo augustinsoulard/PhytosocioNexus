@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# x Serapicamptis bevilacquae nothosubsp. maura
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Serapicamptis%20bevilacquae%20nothosubsp.%20maura.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

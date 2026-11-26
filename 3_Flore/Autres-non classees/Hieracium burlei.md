@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Hieracium burlei
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hieracium%20burlei.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : E
+* **Intérêt patrimonial PACA** : FAIBLE

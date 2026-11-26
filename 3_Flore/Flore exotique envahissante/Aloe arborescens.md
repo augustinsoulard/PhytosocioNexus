@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asphodelaceae
+**Type biologique** : b-suc
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20arborescens.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Aloe arborescens* Mill., 1768
@@ -24,7 +35,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20arborescens.png)
 **Type de reproduction / propagation** : *Aloe arborescens* se reproduit très bien par reproduction asexuée (bouturage). La plante est aussi anémochore.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -65,3 +75,22 @@ Pour les populations de petites et moyennes tailles, c'est à ce jour la seule g
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=81588)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 8
+* **Matière organique** : 1

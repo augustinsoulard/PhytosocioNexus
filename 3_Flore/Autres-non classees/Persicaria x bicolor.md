@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Persicaria x bicolor
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Persicaria%20x%20bicolor.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

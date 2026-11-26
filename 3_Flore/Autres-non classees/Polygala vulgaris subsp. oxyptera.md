@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Polygala vulgaris subsp. oxyptera
+## Description
+
+**Famille** : Polygalaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Polygala%20vulgaris%20subsp.%20oxyptera.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Mentha x dalmatica
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Mentha%20x%20dalmatica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

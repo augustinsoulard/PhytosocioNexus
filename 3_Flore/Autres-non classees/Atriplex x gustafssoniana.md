@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Atriplex x gustafssoniana
+## Description
+
+**Famille** : Amaranthaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Atriplex%20x%20gustafssoniana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

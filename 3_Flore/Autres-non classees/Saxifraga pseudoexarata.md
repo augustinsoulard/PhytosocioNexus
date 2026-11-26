@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Saxifraga pseudoexarata
+## Description
+
+**Famille** : Saxifragaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saxifraga%20pseudoexarata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Nephrolepidaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nephrolepis%20cordifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Nephrolepis cordifolia* (L.) C.Presl, 1836
@@ -20,5 +28,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=448011)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nephrolepis%20cordifolia.png)
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

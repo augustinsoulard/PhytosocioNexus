@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Tropaeolaceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
+**Écologie (Baseflor)** : annuelles commensales des cultures
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tropaeolum%20majus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Tropaeolum majus* L., 1753
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tropaeolum%20majus.png)
 **Type de reproduction / propagation** : La Grande Capucine se reproduit par graines. Elle est pollinisée par les insectes.
 
 Les graines de Grande Capucine peuvent être dispersées par l'eau (Beckett, 1988; Chambert and James, 2009) ainsi que par les oiseaux (NZPCN, 2020).
@@ -62,3 +72,22 @@ Une replantation dense des sites traités peut être recommandée afin de limite
 **Révision** : 2025*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=127885)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

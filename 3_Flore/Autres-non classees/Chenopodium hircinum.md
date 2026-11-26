@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Chenopodium hircinum
+## Description
+
+**Famille** : Amaranthaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chenopodium%20hircinum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

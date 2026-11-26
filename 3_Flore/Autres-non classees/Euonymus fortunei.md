@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Euonymus fortunei
+## Description
+
+**Famille** : Celastraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euonymus%20fortunei.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

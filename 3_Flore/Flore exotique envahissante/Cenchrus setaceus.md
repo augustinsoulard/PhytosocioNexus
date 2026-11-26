@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Cenchrus setaceus* (Forssk.) Morrone, 2010 [syn. Pennisetum setaceum (Forssk.) Chiov., 1923]
@@ -89,3 +93,9 @@ Les stations bien établies d'herbe fontaine sont très difficiles à éliminer.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=717123)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

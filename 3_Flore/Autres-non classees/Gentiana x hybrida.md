@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Gentiana x hybrida
+## Description
+
+**Famille** : Gentianaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gentiana%20x%20hybrida.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

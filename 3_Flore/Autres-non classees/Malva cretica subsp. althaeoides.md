@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Malva cretica subsp. althaeoides
+## Description
+
+**Famille** : Malvaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Malva%20cretica%20subsp.%20althaeoides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

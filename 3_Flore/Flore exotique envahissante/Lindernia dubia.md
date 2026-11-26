@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Linderniaceae
+**Floraison** : août-octobre
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
+**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lindernia%20dubia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lindernia dubia* (L.) Pennell, 1935
@@ -30,7 +42,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lindernia%20dubia.png)
 **Type de reproduction / propagation** : La lindernie fausse-gratiole peut se reproduire par graines (pollinisation entomogame) ou de manière asexuée, grâce à des turions se terminant par des propagules. Les graines flottant aisément sont principalement dispersées par l'eau, ou encore par les animaux ou les activités humaines (la vase contenant des graines peut coller aux pattes des oiseaux, aux chaussures, aux pneus des véhicules, etc.).
 **Type(s) biologique** : Thérophyte
 
@@ -64,3 +75,23 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=106252)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 10
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

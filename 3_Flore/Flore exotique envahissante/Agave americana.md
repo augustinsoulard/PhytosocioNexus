@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asparagaceae
+**Type biologique** : b-suc
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Agave%20americana.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Agave americana* L., 1753
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Agave%20americana.png)
 **Type de reproduction / propagation** : *Agave americana* est une espèce monocarpique. La floraison apparait au bout de 10-20 ans, puis l'individu meurt après la maturation des fruits. Elle a aussi la capacité de drageonner (reproduction asexuée). Des bulbilles peuvent être présents sur la hampe florale et se disperser.
 **Type(s) biologique** : Chaméphyte
 
@@ -72,3 +82,22 @@ Si le mât est recouvert de fruits, tenter de les récupérer au maximum (dans u
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=80383)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 8
+* **Matière organique** : 1

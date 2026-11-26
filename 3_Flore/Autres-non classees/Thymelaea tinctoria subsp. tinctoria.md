@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Thymelaea tinctoria subsp. tinctoria
+## Description
+
+**Famille** : Thymelaeaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Thymelaea%20tinctoria%20subsp.%20tinctoria.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

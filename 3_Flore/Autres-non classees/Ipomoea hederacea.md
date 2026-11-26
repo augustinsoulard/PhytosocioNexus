@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ipomoea hederacea
+## Description
+
+**Famille** : Convolvulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20hederacea.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

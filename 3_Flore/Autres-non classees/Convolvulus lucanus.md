@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Convolvulus lucanus
+## Description
+
+**Famille** : Convolvulaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Convolvulus%20lucanus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Legousia speculum-veneris subsp. pentagonia
+## Description
+
+**Famille** : Campanulaceae
+**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Legousia%20speculum-veneris%20subsp.%20pentagonia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

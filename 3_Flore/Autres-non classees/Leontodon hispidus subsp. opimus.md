@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Leontodon hispidus subsp. opimus
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Leontodon%20hispidus%20subsp.%20opimus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

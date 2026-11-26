@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygonaceae
+**Type biologique** : a-lia-cad
+**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fallopia%20baldschuanica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Fallopia baldschuanica* (Regel) Holub, 1971 [syn. Polygonum baldschuanicum Regel, 1884]
@@ -30,7 +41,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fallopia%20baldschuanica.png)
 **Type de reproduction / propagation** : La vrillée de Bal'dzhuan peut se reproduire de manière sexuée (graines) ou asexuée (par bouturage). Elle peut s'hybrider avec la renouée du Japon (*Reynoutria japonica*), produisant l'hybride *Fallopia x conollyana*, et avec la renouée de bohème (*Reynoutria x bohemica*).
 **Type(s) biologique** : Phanérophyte lianescente
 
@@ -70,3 +80,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=97961)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

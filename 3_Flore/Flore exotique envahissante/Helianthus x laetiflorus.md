@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helianthus%20x%20laetiflorus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Helianthus x laetiflorus* Pers., 1807 [H. pauciflorus × H. tuberosus]
@@ -22,5 +30,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=101056)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helianthus%20x%20laetiflorus.png)
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

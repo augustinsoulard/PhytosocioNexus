@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Amaranthus x ralletii
+## Description
+
+**Famille** : Amaranthaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Amaranthus%20x%20ralletii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

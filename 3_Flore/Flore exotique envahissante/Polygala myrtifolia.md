@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygalaceae
+**Type biologique** : b-semp
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Polygala%20myrtifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Polygala myrtifolia* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Polygala%20myrtifolia.png)
 **Type de reproduction / propagation** : Le polygale à feuilles de myrte se reproduit par graines, qui peuvent être dispersées par l'eau, les fourmis, les oiseaux ou les terres de jardins contaminées. La densité de graines peut atteindre 2000 graines/m². Elles peuvent rester viables 1 à 5 ans dans le sol et germer tout au long de l'année.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -64,3 +74,22 @@ Les graines pouvant être dispersées par le déplacement des machines utilisée
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=114572)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 9
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 4
+* **Salinité** : 1
+* **Texture** : 4
+* **Matière organique** : 2

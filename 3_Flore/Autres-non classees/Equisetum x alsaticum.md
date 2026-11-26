@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Equisetum x alsaticum
+## Description
+
+**Famille** : Equisetaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Equisetum%20x%20alsaticum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

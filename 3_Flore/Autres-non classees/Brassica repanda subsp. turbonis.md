@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Brassica repanda subsp. turbonis
+## Description
+
+**Famille** : Brassicaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Brassica%20repanda%20subsp.%20turbonis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

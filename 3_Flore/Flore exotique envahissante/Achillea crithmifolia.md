@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
+**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Achillea%20crithmifolia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Achillea crithmifolia* Waldst. & Kit., 1802
@@ -29,7 +40,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Achillea%20crithmifolia.png)
 **Type de reproduction / propagation** : *Achillea crithmifolia* est une plante (hémicryptophyte) vivace drageonnante capable de former en peu de temps un large et dense tapis persistant. Sa propagation se fait sur quelques mètres par le biais de drageons, envahissant rapidement la surface disponible. Elle produit aussi des graines, qui sont dispersées par le vent.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -60,3 +70,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=79877)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 6
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

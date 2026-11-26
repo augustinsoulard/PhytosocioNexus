@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Petunia integrifolia
+## Description
+
+**Famille** : Solanaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Petunia%20integrifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

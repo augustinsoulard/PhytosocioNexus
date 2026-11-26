@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Hydrocotyle sibthorpioides
+## Description
+
+**Famille** : Araliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hydrocotyle%20sibthorpioides.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

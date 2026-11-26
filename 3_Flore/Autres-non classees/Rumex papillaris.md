@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rumex papillaris
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rumex%20papillaris.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

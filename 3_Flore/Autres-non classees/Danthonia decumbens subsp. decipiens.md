@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Danthonia decumbens subsp. decipiens
+## Description
+
+**Famille** : Poaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Danthonia%20decumbens%20subsp.%20decipiens.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

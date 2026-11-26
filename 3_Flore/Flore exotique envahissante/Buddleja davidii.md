@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Scrophulariaceae
+**Type biologique** : B-cad
+**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Buddleja%20davidii.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Buddleja davidii* Franch., 1887
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Buddleja%20davidii.png)
 **Type de reproduction / propagation** : Le buddleia est pollinisé par les insectes, notamment par les papillons. La reproduction sexuée est la première méthode de propagation du buddleia. Chaque arbre peut produire jusqu'à trois millions de graines. Les graines peuvent être dispersées sur de longues distances par l'homme et dans un moindre mesure par le vent. Elles peuvent aussi être disséminées par l'eau. Les graines entrent en dormance et peuvent rester dans le sol de nombreuses années. Chaque arbuste peut fleurir et fructifier dès la première année. La reproduction végétative est assurée par bouturage de fragments de tiges et de racines (le long des cours d'eaux ou lors des transport de terres) mais aussi par des rejets de souche si l'espèce est coupée (FCBN, 2009). Il peut atteindre une taille de 2 m un an après avoir été coupé à la base.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -87,3 +97,22 @@ Manche (2007) propose une estimation du coût de l’arrachage manuel au stade s
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=86869)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 3

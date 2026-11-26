@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Diatelia tuberaria
+## Description
+
+**Famille** : Cistaceae
+**Floraison** : mai-juin
+**Type biologique** : csuf
+**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Diatelia%20tuberaria.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

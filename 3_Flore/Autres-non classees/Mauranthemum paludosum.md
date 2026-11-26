@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Mauranthemum paludosum
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Mauranthemum%20paludosum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

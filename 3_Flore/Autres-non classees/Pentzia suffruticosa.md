@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pentzia suffruticosa
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pentzia%20suffruticosa.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

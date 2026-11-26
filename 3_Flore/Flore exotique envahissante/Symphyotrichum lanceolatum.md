@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20lanceolatum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Symphyotrichum lanceolatum* (Willd.) G.L.Nesom, 1995
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20lanceolatum.png)
 **Type de reproduction / propagation** : L'aster lancéolé produit de nombreux fruits (akènes) munis d’une aigrette qui favorise leur dissémination par le vent à l’automne. Cependant, cette espèce naturalisée en France se maintient sur le territoire métropolitain surtout sous forme de clones se reproduisant de manière végétative dans le cadre de cultures. L'aster lancéolé peut être fécondé par ses hybrides, notamment *Symphyotrichum x salignum* (*S. lanceolatum × S. novii-belgii*). La multiplication végétative est assurée par les rhizomes.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -69,3 +79,22 @@ Les années suivantes, il convient de réaliser une surveillance des zones où l
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=125330)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

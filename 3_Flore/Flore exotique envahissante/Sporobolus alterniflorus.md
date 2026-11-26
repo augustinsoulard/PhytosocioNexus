@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juin-août
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Spartinion alterniflorae Conard 1935
+**Écologie (Baseflor)** : spartinaies vasicoles amphibies exondables, de la slikke supérieure
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20alterniflorus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Sporobolus alterniflorus* (Loisel.) P.M.Peterson & Saarela, 2014 [syn. Spartina alterniflora Loisel., 1807]
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : ****
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20alterniflorus.png)
 **Type de reproduction / propagation** : La multiplication végétative de *Spartina alterniflora* est assurée par ses rhizomes. La spartine à feuilles alternes peut aussi se reproduire par graines et au moyen de fragments de tige capables de s'enraciner. Les graines n'ont pas une très longue durée de vie et ne sont viables que pendant un an. La germination optimale a lieu dans l'obscurité.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -77,3 +88,23 @@ Plus d'informations : http://www.especes-exotiques-envahissantes.fr/wp-content/u
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=1015861)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 4
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 10
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 7
+* **Salinité** : 9
+* **Texture** : 1
+* **Matière organique** : 3

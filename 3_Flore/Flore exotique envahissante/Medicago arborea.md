@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Type biologique** : b-cad
+**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2036
+**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Medicago%20arborea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Medicago arborea* L., 1753
@@ -29,7 +40,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Medicago%20arborea.png)
 **Type de reproduction / propagation** : Le mode de reproduction de *Medicago arborea* est sexuée (allogame). La dissémination des graines s'effectue par épizoochorie (dissémination des graines ou des diaspores des végétaux se faisant grâce aux animaux). Le transport du pollen est assuré par les insectes pollinisateurs, surtout les abeilles solitaires. En absence de pollinisateurs, la production de graines est faible.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -73,3 +83,22 @@ Elle entre en compétition avec les autres espèces végétales indigènes par a
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=107575)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

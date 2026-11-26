@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Persicaria x lenticularis
+## Description
+
+**Famille** : Polygonaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Persicaria%20x%20lenticularis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

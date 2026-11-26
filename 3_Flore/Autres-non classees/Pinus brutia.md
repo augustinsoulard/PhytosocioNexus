@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Pinus brutia
+## Description
+
+**Famille** : Pinaceae
+**Type biologique** : a-semp
+**Syntaxon (Baseflor)** : Pinetalia halepensis Biondi, Blasi, Galdenzi, Pesaresi & Vagge in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+**Écologie (Baseflor)** : pinèdes pionnières thermo à mésoméditerranéennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinus%20brutia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 9
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 5
+* **Matière organique** : 4

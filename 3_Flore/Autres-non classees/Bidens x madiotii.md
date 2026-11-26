@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Bidens x madiotii
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bidens%20x%20madiotii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

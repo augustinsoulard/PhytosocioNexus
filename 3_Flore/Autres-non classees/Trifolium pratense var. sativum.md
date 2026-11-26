@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Trifolium pratense var. sativum
+## Description
+
+**Famille** : Fabaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Trifolium%20pratense%20var.%20sativum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

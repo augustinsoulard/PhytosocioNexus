@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chaenomeles%20japonica.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Chaenomeles japonica* (Thunb.) Lindl. ex Spach, 1834
@@ -21,5 +29,7 @@ sources:
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=90307)
 
+## Statuts
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chaenomeles%20japonica.png)
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

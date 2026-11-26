@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Patzkea durandoi
+## Description
+
+**Famille** : Poaceae
+**Floraison** : avril-août
+**Type biologique** : hces
+**Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
+**Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Patzkea%20durandoi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : NT
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 2
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 7

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Crassulaceae
+**Type biologique** : ccou-suc
+**Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
+**Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aeonium%20haworthii.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Aeonium haworthii* Salm-Dyck ex Webb. & Berthel., 1840 [syn. Aeonium haworthii Webb & Berthel., 1840]
@@ -29,7 +40,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aeonium%20haworthii.png)
 **Type de reproduction / propagation** : Comme bon nombre de plantes succulentes, l'*Aeonium haworthii* se reproduit par voie végétative et se répand par déversement de déchets de jardin (et bouturage). L'espèce est aussi anémochore.
 **Type(s) biologique** : Chaméphyte
 
@@ -63,3 +73,22 @@ Pour les populations de petites et moyennes tailles, c'est à ce jour la seule g
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=80332)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 2
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 8
+* **Matière organique** : 1

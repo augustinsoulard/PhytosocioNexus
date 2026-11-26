@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Salvia x sylvestris
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Salvia%20x%20sylvestris.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

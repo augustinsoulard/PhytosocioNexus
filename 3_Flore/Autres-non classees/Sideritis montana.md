@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Sideritis montana
+## Description
+
+**Famille** : Lamiaceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Sideriti romanae–Hypochaeridion achyrophori (Braun–Blanquet 1925) de Foucault 1999
+**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, mésoméditerranéennes, de l'intérieur des terres
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sideritis%20montana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

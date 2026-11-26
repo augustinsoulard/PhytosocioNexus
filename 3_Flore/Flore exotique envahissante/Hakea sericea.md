@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Proteaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hakea%20sericea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Hakea sericea* Schrad. & J.C.Wendl., 1798
@@ -26,7 +34,6 @@ sources:
 
 **Milieux** : **Forêts et maquis**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hakea%20sericea.png)
 **Type de reproduction / propagation** : Les graines peuvent rester viables tout au long de la vie de l'arbre.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -86,3 +93,8 @@ Les graines résistent à une température de 110°C pendant 4 heures.
 **Révision** : 2022*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=100714)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

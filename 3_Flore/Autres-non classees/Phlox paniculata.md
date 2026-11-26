@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phlox paniculata
+## Description
+
+**Famille** : Polemoniaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phlox%20paniculata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

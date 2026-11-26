@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Azolla cristata
+## Description
+
+**Famille** : Salviniaceae
+**Syntaxon (Baseflor)** : Lemnion trisulcae Den Hartog & Segal 1964 ex Tüxen & Schwabe in Tüxen 1974 em. Julve 2004 hoc loco
+**Écologie (Baseflor)** : voiles de lentilles aquatiques, annuelles, libres, flottantes en surface, européennes, mésotrophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Azolla%20cristata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

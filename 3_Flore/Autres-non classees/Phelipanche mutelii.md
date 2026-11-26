@@ -7,6 +7,18 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Phelipanche mutelii
+## Description
+
+**Famille** : Orobanchaceae
+**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phelipanche%20mutelii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE

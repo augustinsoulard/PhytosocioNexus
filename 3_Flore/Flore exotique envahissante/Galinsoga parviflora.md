@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
+**Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galinsoga%20parviflora.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Galinsoga parviflora* Cav., 1795
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galinsoga%20parviflora.png)
 **Type de reproduction / propagation** : Le galinsoge à petites fleurs se reproduit généralement par graines, mais la reproduction végétative est également possible par bouturage. La pollinisation est entomogame ou autogame. Un individu peut produire jusqu'à 30 000 graines, dont la plupart sont viables (90%). Les graines ne présentent pas de dormance : la grande majorité germe dès la première année, les autres peuvent rester viables de 2 ans dans le sol. Les akènes peuvent être disséminés par le vent, les animaux, l'eau et les activités humaines. Le galinsoge à petites fleurs peut réaliser 3 ou 4 générations en une saison de croissance.
 **Type(s) biologique** : Thérophyte
 
@@ -90,3 +100,22 @@ Les graines pouvant être diffusées à travers le déplacement des engins et ou
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=99358)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 4

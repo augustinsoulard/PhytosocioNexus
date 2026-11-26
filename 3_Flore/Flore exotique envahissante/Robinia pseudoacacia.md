@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Fabaceae
+**Floraison** : mai-juin
+**Type biologique** : A-cad
+**Syntaxon (Baseflor)** : σA Aceri sacchari–Fagetea grandifoliae Julve 2019 class. nov. hoc loco
+**Écologie (Baseflor)** : associations arborescentes climaciques caducifoliées malacophylles des forêts du tempéré modal nord-est américain
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Robinia%20pseudoacacia.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Robinia pseudoacacia* L., 1753
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Robinia%20pseudoacacia.png)
 **Type de reproduction / propagation** : Les fleurs sont pollinisées par les insectes, notamment par les abeilles. Les gousses sont transportées par le vent ou s’ouvrent sur l’arbre en hiver et au printemps. Parmi les nombreuses graines libérées, très peu germent car leurs téguments extérieurs doivent être usés ou rompus (scarifiés). Le robinier faux-acacia a une croissance rapide (de 0,4 à 1,2 cm par jour en début de croissance). Il assure son expansion grâce à ses grandes capacités à drageonner et à rejeter de souche. La multiplication végétative est d’autant plus productive que la plante est en situation de stress (coupe, brûlage, etc.).
 **Type(s) biologique** : Phanérophyte
 
@@ -93,3 +104,22 @@ En Languedoc-Roussillon, le Syndicat mixte d’aménagement et de gestion équil
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=117860)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

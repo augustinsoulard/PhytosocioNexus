@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Araliaceae
+**Floraison** : juin-septembre
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hydrocotyle%20ranunculoides.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Hydrocotyle ranunculoides* L.f., 1782
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hydrocotyle%20ranunculoides.png)
 **Type de reproduction / propagation** : En Europe, la reproduction sexuée semble possible, toutefois, la production de graines viables n'a pour l'instant jamais été observée. L'hydrocotyle fausse-renoncule se reproduit principalement par fragmentation des tiges. Ces fragments sont facilement dispersés par des activités humaines telles que les vidanges d'aquariums, la circulation des bateaux et des véhicules utilisés pour entretenir les cours d'eau, ou l'arrachage sans précaution. Les crues et les oiseaux d'eau participeraient aussi à la propagation de la plante.
 **Type(s) biologique** : Hydrophyte enraciné
 
@@ -104,3 +115,23 @@ En 2007 aux Pays-Bas, la gestion de l'hydrocotyle fausse-renoncule a coûté plu
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=103139)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 8

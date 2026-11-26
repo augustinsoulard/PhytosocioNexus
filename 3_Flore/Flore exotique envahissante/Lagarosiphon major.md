@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Hydrocharitaceae
+**Type biologique** : Hsto-aqua
+**Syntaxon (Baseflor)** : Callitricho obtusangulae–Ranunculetalia peltati (Passarge 1978) Julve 2004 ord. nov. hoc loco
+**Écologie (Baseflor)** : herbiers aquatiques vivaces, enracinés, européens, des eaux douces à saumâtres, peu profondes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lagarosiphon%20major.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Lagarosiphon major* (Ridl.) Moss, 1928
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lagarosiphon%20major.png)
 **Type de reproduction / propagation** : En dehors de son aire de répartition d'origine (Afrique du Sud) seuls des pieds femelles ont été observés. Il n'y a donc pas de reproduction sexuée. La multiplication végétative se fait par bouturage (fragmentation des tiges) et par croissance du rhizome. Les fragments sont propagés par l'eau, les activités humaines (bateaux, pêche, faucardage, etc.) et parfois par les oiseaux.
 **Type(s) biologique** : Hydrophyte
 
@@ -99,3 +109,22 @@ Au Royaume-Uni, le coût annuel de la gestion du grand lagarosiphon est estimé 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=104805)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 12
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 2
+* **Matière organique** : 8

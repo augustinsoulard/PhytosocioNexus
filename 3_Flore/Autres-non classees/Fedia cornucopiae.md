@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Fedia cornucopiae
+## Description
+
+**Famille** : Caprifoliaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fedia%20cornucopiae.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

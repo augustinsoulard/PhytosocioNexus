@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Gnaphalium x rompelii
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gnaphalium%20x%20rompelii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

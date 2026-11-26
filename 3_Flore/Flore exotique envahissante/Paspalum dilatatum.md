@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juillet-octobre
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
+**Écologie (Baseflor)** : prairies hygrophiles, subtropicales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Paspalum%20dilatatum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Paspalum dilatatum* Poir., 1804
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Paspalum%20dilatatum.png)
 **Type de reproduction / propagation** : Le paspale dilaté se reproduit principalement par graines, de manière sexuée (pollinisation anémogame) ou apomictique, mais aussi par fractionnement de la souche. La fauche favorise l'épiaison. L'eau et les axes de circulation sont des vecteurs de propagation.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -74,3 +85,22 @@ Si les rémanents ne contiennent pas de graines (mûres), ceux-ci peuvent être 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112482)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 8
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

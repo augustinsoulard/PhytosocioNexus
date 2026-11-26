@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Potentilla grandiflora
+## Description
+
+**Famille** : Rosaceae
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
+**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Potentilla%20grandiflora.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 2
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 4

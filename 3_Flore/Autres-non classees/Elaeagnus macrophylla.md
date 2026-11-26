@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Elaeagnus macrophylla
+## Description
+
+**Famille** : Elaeagnaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elaeagnus%20macrophylla.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

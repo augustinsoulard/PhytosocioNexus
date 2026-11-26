@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Dactylorhiza x guilhotii
+## Description
+
+**Famille** : Orchidaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dactylorhiza%20x%20guilhotii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Oleaceae
+**Type biologique** : a-semp
+**Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
+**Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ligustrum%20lucidum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ligustrum lucidum* W.T.Aiton, 1810
@@ -22,7 +33,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ligustrum%20lucidum.png)
 **Type de reproduction / propagation** : Le troène luisant est capable de drageonner et de se reproduire par voie sexuée. Ses graines sont dispersées par barochorie et endozoochorie.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -67,3 +77,22 @@ La méthode consiste à couper à appliquer un traitement individuel sur les arb
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=105960)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

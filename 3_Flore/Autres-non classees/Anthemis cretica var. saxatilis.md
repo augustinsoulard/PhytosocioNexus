@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Anthemis cretica var. saxatilis
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anthemis%20cretica%20var.%20saxatilis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

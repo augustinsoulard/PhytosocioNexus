@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Mentha x carinthiaca
+## Description
+
+**Famille** : Lamiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Mentha%20x%20carinthiaca.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

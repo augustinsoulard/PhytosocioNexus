@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Buxus balearica
+## Description
+
+**Famille** : Buxaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Buxus%20balearica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

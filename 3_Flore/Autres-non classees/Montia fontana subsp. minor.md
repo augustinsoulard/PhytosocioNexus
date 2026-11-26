@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Montia fontana subsp. minor
+## Description
+
+**Famille** : Montiaceae
+**Floraison** : avril-juin
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Montio fontanae–Cardaminetalia amarae Pawłowski in Pawłowski, Sokołowski & Wallisch 1928 em. Maas 1959
+**Écologie (Baseflor)** : microphorbiaies des sources européennes acidophiles, héliophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Montia%20fontana%20subsp.%20minor.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 5
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 4

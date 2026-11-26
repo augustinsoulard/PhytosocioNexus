@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Centaurium x aschersonianum
+## Description
+
+**Famille** : Gentianaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Centaurium%20x%20aschersonianum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

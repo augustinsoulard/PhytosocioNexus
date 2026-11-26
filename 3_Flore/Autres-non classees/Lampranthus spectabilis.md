@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lampranthus spectabilis
+## Description
+
+**Famille** : Aizoaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lampranthus%20spectabilis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

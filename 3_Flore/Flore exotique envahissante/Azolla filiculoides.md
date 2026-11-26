@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Salviniaceae
+**Floraison** : juin-septembre
+**Type biologique** : hsto-aqua
+**Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
+**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Azolla%20filiculoides.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Azolla filiculoides* Lam., 1783
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : **Eaux courantes ou stagnantes**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Azolla%20filiculoides.png)
 **Type de reproduction / propagation** : L'azolla fausse-fougère est une plante monoïque à sporulation automnale. La reproduction sexuée est rare, elle se reproduit principalement par voie végétative à partir de la fragmentation des tiges. Ces fragments sont ensuite disséminés par l'eau, par les animaux (oiseaux d'eau mais aussi petits mammifères, amphibiens et bétail) et par l'homme (nettoyage d'aquariums, activités nautiques...).
 **Type(s) biologique** : Hydrophyte nageant
 
@@ -77,3 +88,22 @@ Des recherches ont actuellement lieu en Iran concernant la **pyrale *Diasemiopsi
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=85469)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 11
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

@@ -8,6 +8,14 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Cactaceae
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20engelmannii.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Opuntia engelmannii* Salm-Dyck ex Engelm., 1850
@@ -24,7 +32,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20engelmannii.png)
 **Type de reproduction / propagation** : Les oponces se multiplient très facilement par bouturage à partir de raquettes tombées à terre. *Opuntia engelmannii* peut aussi avoir une reproduction sexuée (ses graines étant dispersées par endozoochorie et hydrochorie).
 **Type(s) biologique** : Chaméphyte
 
@@ -71,3 +78,9 @@ Afin de limiter toute dispersion des graines, la période définie pour mener le
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=610564)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL

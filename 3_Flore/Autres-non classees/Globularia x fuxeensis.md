@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Globularia x fuxeensis
+## Description
+
+**Famille** : Plantaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Globularia%20x%20fuxeensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD

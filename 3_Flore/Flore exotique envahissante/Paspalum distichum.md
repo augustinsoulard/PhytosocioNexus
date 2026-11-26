@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juillet-octobre
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
+**Écologie (Baseflor)** : prairies hygrophiles, subtropicales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Paspalum%20distichum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Paspalum distichum* L., 1759 [syn. Paspalum paspalodes (Michx.) Scribn., 1894]
@@ -26,7 +38,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Paspalum%20distichum.png)
 **Type de reproduction / propagation** : Le paspale a deux épis se reproduit principalement par multiplication végétative, par extension de ses stolons (dont la croissance peut atteindre 25-30 cm par semaine par des températures de 30 à 40°C), et également par fragmentation de son rhizome. Espèce monoïque, il se reproduit également de manière sexuée par graines (pollinisation anémophile). Les graines sont disséminées par le vent, les courants, les animaux et par l'homme (lors d'opérations agricoles notamment). Les fragments de stolons et de rhizomes sont transportés par l'eau.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -98,3 +109,23 @@ Le coût des opérations d'arrachage manuel est de l'ordre de 20 à 45 €/h à 
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112483)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 8
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

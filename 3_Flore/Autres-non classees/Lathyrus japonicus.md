@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Lathyrus japonicus
+## Description
+
+**Famille** : Fabaceae
+**Floraison** : juin-août
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
+**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lathyrus%20japonicus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 4
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 5
+* **Texture** : 6
+* **Matière organique** : 1

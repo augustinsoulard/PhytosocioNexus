@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Oenothera ligerica
+## Description
+
+**Famille** : Onagraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oenothera%20ligerica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

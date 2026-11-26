@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+**Floraison** : juin
+**Type biologique** : B-semp
+**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Prunus%20laurocerasus.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Prunus laurocerasus* L., 1753
@@ -22,7 +34,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Prunus%20laurocerasus.png)
 **Type de reproduction / propagation** : La dissémination des graines s'effectue par endozoochorie (oiseaux). Les noyaux des baies sont rejetés dans les fèces à grandes distances du pied-mère. L'espèce a une forte capacité de drageonnage après une coupe (et de bouturage).
 **Type(s) biologique** : Nanophanérophyte
 
@@ -69,3 +80,22 @@ Plus d'informations : http://especes-exotiques-envahissantes.fr/espece/prunus-la
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=116089)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

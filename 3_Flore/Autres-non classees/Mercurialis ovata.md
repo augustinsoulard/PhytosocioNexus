@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Mercurialis ovata
+## Description
+
+**Famille** : Euphorbiaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Mercurialis%20ovata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

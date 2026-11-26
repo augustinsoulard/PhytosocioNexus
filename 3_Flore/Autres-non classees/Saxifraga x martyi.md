@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Saxifraga x martyi
+## Description
+
+**Famille** : Saxifragaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saxifraga%20x%20martyi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

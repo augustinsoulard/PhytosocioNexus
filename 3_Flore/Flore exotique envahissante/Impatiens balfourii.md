@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Balsaminaceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Impatiention noli–tangeris Julve 2009 all. nov. hoc loco
+**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, hygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Impatiens%20balfourii.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Impatiens balfourii* Hook.f., 1903 [syn. Impatiens balfouri Hook.f., 1903]
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Impatiens%20balfourii.png)
 **Type de reproduction / propagation** : La balsamine de Balfour est une plante autofertile, qui se reproduit par voie végétative (bouturage) et par voie sexuée (autochorie) : elle possède des fruits (capsules) qui explosent à maturité (ou par contact) et éjectent les graines.
 **Type(s) biologique** : Thérophyte
 
@@ -80,3 +90,22 @@ Le compostage est à éviter.
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=103543)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Onoclea sensibilis
+## Description
+
+**Famille** : Onocleaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Onoclea%20sensibilis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

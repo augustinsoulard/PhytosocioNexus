@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Scilla luciliae
+## Description
+
+**Famille** : Asparagaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Scilla%20luciliae.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

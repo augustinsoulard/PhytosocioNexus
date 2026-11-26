@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Ranunculus argoviensis
+## Description
+
+**Famille** : Ranunculaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ranunculus%20argoviensis.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

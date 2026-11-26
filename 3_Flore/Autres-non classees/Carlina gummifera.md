@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Carlina gummifera
+## Description
+
+**Famille** : Asteraceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carlina%20gummifera.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : W
+* **Liste rouge nationale** : RE
+* **Enjeu RESEDA Flore 2021 (CBN)** : DD
+* **Intérêt patrimonial PACA** : DD

@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Globularia x cunyi
+## Description
+
+**Famille** : Plantaginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Globularia%20x%20cunyi.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE

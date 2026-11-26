@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Spiraea x billiardii* Hérincq, 1857 [syn. Spiraea x billardii Hérincq, 1857]
@@ -19,3 +23,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Absente ; Méd. Occ. : Absente ; Méd. PACA :  ; Massif Central : Absente ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124682)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Intérêt patrimonial PACA** : NUL

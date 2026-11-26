@@ -1,0 +1,39 @@
+---
+tags:
+  - espece
+cd_nomv18: 140686
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+## Description
+
+**Famille** : Saxifragaceae
+**Floraison** : juin-août
+**Type biologique** : ccou
+**Syntaxon (Baseflor)** : Potentillion caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, subalpins à montagnards, alpiens et auvergnat
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saxifraga%20rosacea%20subsp.%20sponhemica.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : CR
+* **Intérêt patrimonial PACA** : TRES FORT
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 4
+* **Continentalité** : 7
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 8
+* **Matière organique** : 1

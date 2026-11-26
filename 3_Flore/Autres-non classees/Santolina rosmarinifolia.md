@@ -7,6 +7,17 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Santolina rosmarinifolia
+## Description
+
+**Famille** : Asteraceae
+**Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
+**Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Santolina%20rosmarinifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Rosaceae
+**Type biologique** : b-cad
+**Syntaxon (Baseflor)** : Salicion arenariae Tüxen 1952
+**Écologie (Baseflor)** : buissons d'arbrisseaux maritimes, psychrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rosa%20rugosa.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Rosa rugosa* Thunb., 1784
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Dunes côtières et plages de sable**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rosa%20rugosa.png)
 **Type de reproduction / propagation** : Le rosier rugueux se reproduit par graines, qui sont dispersées par les animaux (consommation du cynorrhodon qui contient les akènes) ou par l'eau (douce ou salée). Les cynorrhodons contiennent en moyenne 62 akènes. Les graines ont une forte viabilité (85-95%) mais une durée de vie courte dans le sol. Le rosier rugueux est pollinisé par les insectes (pollinisation croisée ou auto-pollinisation). Il se reproduit également de manière végétative grâce à ses rhizomes.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -76,3 +86,22 @@ Le rosier rugueux est attaqué par différents insectes, mais ceux-ci peuvent é
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=118477)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 4
+* **Salinité** : 3
+* **Texture** : 4
+* **Matière organique** : 3

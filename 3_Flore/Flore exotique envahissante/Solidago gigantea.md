@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juillet-août
+**Type biologique** : Hsto
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solidago%20gigantea.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Solidago gigantea* Aiton, 1789
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solidago%20gigantea.png)
 **Type de reproduction / propagation** : Les solidages américains se reproduisent de manière asexuée par élongation du rhizome, mais aussi de manière sexuée (pollinisation entomophile). Ils produisent de nombreux akènes (jusqu'à 19 000 par individu) qui sont disséminés par le vent et par les animaux. Le taux de germination des graines est très élevé et celles-ci peuvent rester dans le sol deux ans avant de se développer afin d’attendre des conditions optimales à leur germination. Les rhizomes et les graines peuvent être propagés par les activités humaines (transport de sols contaminés, véhicules, voies de communication). Le solidage géant peut parfois s'hybrider avec le solidage du Canada *Solidago canadensis*.
 **Type(s) biologique** : Géophyte
 
@@ -98,3 +109,22 @@ Les graines pouvant être diffusées à travers le déplacement des engins agric
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124168)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

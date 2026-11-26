@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Echium italicum subsp. biebersteinii
+## Description
+
+**Famille** : Boraginaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Echium%20italicum%20subsp.%20biebersteinii.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

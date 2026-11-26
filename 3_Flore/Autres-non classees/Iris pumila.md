@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Iris pumila
+## Description
+
+**Famille** : Iridaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Iris%20pumila.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : Q
+* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Dryopteridaceae
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Asplenion marini Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+**Écologie (Baseflor)** : pelouses aérohalines ouvertes, chasmophytiques, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyrtomium%20falcatum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cyrtomium falcatum* (L.f.) C.Presl, 1836
@@ -25,7 +36,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyrtomium%20falcatum.png)
 **Type de reproduction / propagation** : Les populations introduites de fougère-houx comprennent des individus diploïdes sexués, des individus tétraploïdes sexués et des individus triploïdes apogames. Les spores sont dispersées par le vent.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -59,3 +69,22 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=94045)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 4
+* **Température** : 6
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 3
+* **Texture** : 9
+* **Matière organique** : 1

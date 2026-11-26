@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rhododendron arboreum
+## Description
+
+**Famille** : Ericaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rhododendron%20arboreum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL

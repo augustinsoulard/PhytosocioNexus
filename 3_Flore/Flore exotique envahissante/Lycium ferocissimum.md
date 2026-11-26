@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Solanaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Lycium ferocissimum* Miers, 1854
@@ -75,3 +79,8 @@ Le Lyciet féroce se régénère rapidement à la suite d'un **incendie** ou d'u
 **Révision** : 2022*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=966301)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Intérêt patrimonial PACA** : NUL

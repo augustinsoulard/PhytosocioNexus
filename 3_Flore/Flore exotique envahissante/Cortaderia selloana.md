@@ -8,6 +8,18 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Floraison** : juin-septembre
+**Type biologique** : hces
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cortaderia%20selloana.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Cortaderia selloana* (Schult. & Schult.f.) Asch. & Graebn., 1900
@@ -25,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies humides ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cortaderia%20selloana.png)
 **Type de reproduction / propagation** : Les fleurs de l’herbe de la pampa sont pollinisées par le vent. Cette plante produit une très grande quantité de graines (environ 10 millions par pied) qui sont le plus souvent disséminées par le vent dans un rayon de plus de 30 km et plus rarement par l’eau ou les véhicules automobiles. Elle a une croissance très rapide (la touffe atteint 1 m de haut au bout de 2 ans). Un plant d’herbe de la pampa vit entre 10 et 15 ans. La reproduction végétative est possible par des fragments de la plante lorsque les conditions d'humidité sont adéquates, cependant ce mode de reproduction est très peu observé (FCBN, 2009).
 **Type(s) biologique** : Hémicryptophyte
 
@@ -117,3 +128,22 @@ L'herbe de la pampa, de par sa taille et ses feuilles très coupantes, nécessit
 **Révision** : 2025*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=92572)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 7
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 7
+* **Salinité** : 1
+* **Texture** : 3
+* **Matière organique** : 3

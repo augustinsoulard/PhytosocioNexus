@@ -7,6 +7,34 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Crocus versicolor
+## Description
+
+**Famille** : Iridaceae
+**Floraison** : février-avril
+**Type biologique** : gtub
+**Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crocus%20versicolor.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 3
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 8
+* **Niveau trophique** : 2
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

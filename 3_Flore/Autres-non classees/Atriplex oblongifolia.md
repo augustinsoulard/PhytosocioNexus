@@ -7,6 +7,32 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Atriplex oblongifolia
+## Description
+
+**Famille** : Amaranthaceae
+**Type biologique** : test
+**Syntaxon (Baseflor)** : Atriplicion sagittatae Passarge 1978
+**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture fine
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Atriplex%20oblongifolia.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 1
+* **Texture** : 4
+* **Matière organique** : 3

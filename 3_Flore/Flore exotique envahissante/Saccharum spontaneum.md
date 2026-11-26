@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Poaceae
+**Type biologique** : grhi
+**Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saccharum%20spontaneum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Saccharum spontaneum* L., 1771
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saccharum%20spontaneum.png)
 **Type de reproduction / propagation** : La canne à sucre fourragère peut se reproduire de manière sexuée ou asexuée. La pollinisation croisée par le vent et l'auto-pollinisation sont toutes deux possibles. La production de graines est importante, entre 3 000 et 13 000 graines en moyenne par plante, et leur taux de germination est proche de 90%. Les graines sont dispersées par le vent ou par l'eau. La canne à sucre fourragère se reproduit également de manière asexuée par fragmentation des rhizomes et des tiges, qui peuvent s'enraciner aux nœuds. Elle peut s'hybrider avec la canne à sucre cultivée *Saccharum officinarum*.
 **Type(s) biologique** : Hémicryptophyte
 
@@ -77,3 +87,22 @@ Le coût de la gestion de la canne à sucre fourragère dans les plantations syl
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=119774)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 9
+* **Température** : 9
+* **Continentalité** : 1
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 5
+* **Salinité** : 0
+* **Texture** : 5
+* **Matière organique** : 1

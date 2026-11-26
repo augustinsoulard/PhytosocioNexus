@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Asteraceae
+**Type biologique** : Heri
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rudbeckia%20laciniata.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Rudbeckia laciniata* L., 1753
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rudbeckia%20laciniata.png)
 **Type de reproduction / propagation** : La reproduction est principalement végétative : elle s'effectue par élongation et fragmentation des rhizomes. Les fragments de rhizomes constituent de véritables boutures qui peuvent être dispersées facilement. La rudbeckie laciniée produit également de grandes quantités d'akènes (1600 graines viables par plant et jusqu’à 94000 par m²) par pollinisation entomophile, mais ses graines ne germer souvent que dans des sites ouverts et perturbés. L'abondance des graines produites et leur facilité d'accrochage au pelage des animaux assurent également une propagation lointaine (CBNFC, 2008).
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -68,3 +78,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=119407)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 5
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 7
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

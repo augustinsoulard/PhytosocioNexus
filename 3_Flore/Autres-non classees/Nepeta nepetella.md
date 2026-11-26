@@ -7,6 +7,33 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Nepeta nepetella
+## Description
+
+**Famille** : Lamiaceae
+**Type biologique** : heri
+**Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
+**Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nepeta%20nepetella.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Intérêt patrimonial PACA** : FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 3
+* **Continentalité** : 3
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 7
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 6
+* **Matière organique** : 1

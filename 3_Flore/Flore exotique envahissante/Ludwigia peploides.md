@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Onagraceae
+**Type biologique** : Hsto
+**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20peploides%20subsp.%20montevidensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Ludwigia peploides* (Kunth) P.H.Raven, 1963 [Ludwigia peploides subsp. montevidensis (Spreng.) P.H.Raven, 1964]
@@ -22,9 +33,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Prairies humides**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20peploides%20subsp.%20montevidensis.png)
-
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20peploides.png)
 **Type de reproduction / propagation** : Les jussies se reproduisent principalement de manière végétative par fragmentation des tiges (les fragments de tiges peuvent produire un nouveau plant dès lors qu'ils possèdent un nœud). La reproduction sexuée est également possible dans l'aire d'introduction (pollinisation entomophile) : les semences (jusqu'à 10 000 graines/m²) sont souvent fertiles et peuvent produire des plantules viables. Les fruits de cette espèce peuvent flotter dans le courant durant 1,5 mois, et les fragments de tiges transportés par l’eau sont capables de bouturer dans de nouveaux sites. Les activités humaines (entretien des milieux aquatiques, curages, etc.) sont en grande partie responsables de la dissémination des jussies.
 **Type(s) biologique** : Hydrophyte
 
@@ -167,3 +175,22 @@ En France, sur 364 actions de gestion évaluées (actions effectuées avant 2002
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=612514)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 9
+* **Humidité édaphique** : 9
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 8

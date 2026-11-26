@@ -8,6 +8,10 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Aizoaceae
+
 ## D'après INVMED (consulté en 2026)
 
 *Carpobrotus acinaciformis x Carpobrotus edulis*
@@ -21,3 +25,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA : Emergente ; Massif Central :  ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=1048562)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : J
+* **Intérêt patrimonial PACA** : NUL

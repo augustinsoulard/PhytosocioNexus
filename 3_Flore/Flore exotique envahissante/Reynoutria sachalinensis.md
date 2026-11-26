@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Polygonaceae
+**Type biologique** : Grhi
+**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20sachalinensis.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Reynoutria sachalinensis* (F.Schmidt) Nakai, 1922
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20sachalinensis.png)
 **Type de reproduction / propagation** : La renouée de Sakhaline, comme la renouée du Japon (*Reynoutria japonica*), est une espèce gynodioïque, c’est-à-dire que les plants sont soit mâles-stériles (pieds fonctionnellement femelles), soit mâles-fertiles (pieds fonctionnellement mâles), soit plus rarement hermaphrodites. Elle peut se reproduire de manière sexuée (entre individus de la même espèce ou en s'hybridant avec d'autres espèces) ou asexuée. Elle constitue une source de pollen pour la renouée du Japon, dont seuls des plants mâles-stériles sont présents en Europe, produisant un hybride appelé renouée de Bohême. Cependant, la production de graines viables (pollinisation entomophile) reste rare, et la reproduction se fait principalement par multiplication végétative, par fragmentation du rhizome et bouturage des tiges (un fragment de 0,7 g suffit à générer un nouveau plant). La dissémination des fragments est principalement due à l'homme (déplacement de terres contaminées lors de travaux d'aménagement), mais aussi à l’eau, à l’érosion des berges des rivières et aux animaux.
 **Type(s) biologique** : Géophyte à rhizome
 
@@ -160,3 +170,22 @@ En France, **la renouée de Sakhaline est également soumise à la règlementati
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=117505)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 6
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 5
+* **Humidité édaphique** : 5
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 3

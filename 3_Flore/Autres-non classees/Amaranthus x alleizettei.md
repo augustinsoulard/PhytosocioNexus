@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Amaranthus x alleizettei
+## Description
+
+**Famille** : Amaranthaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Amaranthus%20x%20alleizettei.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : D
+* **Intérêt patrimonial PACA** : TRES FAIBLE

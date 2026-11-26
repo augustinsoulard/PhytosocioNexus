@@ -7,6 +7,16 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Rosa moschata
+## Description
+
+**Famille** : Rosaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rosa%20moschata.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : W
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : TRES FAIBLE

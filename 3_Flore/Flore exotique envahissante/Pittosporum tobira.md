@@ -8,6 +8,17 @@ sources:
   - invmed.fr
 ---
 
+## Description
+
+**Famille** : Pittosporaceae
+**Type biologique** : a-semp
+**Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
+**Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pittosporum%20tobira.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Pittosporum tobira* (Thunb.) W.T.Aiton, 1811
@@ -26,7 +37,6 @@ sources:
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Milieux anthropiques**
 
-![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pittosporum%20tobira.png)
 **Type de reproduction / propagation** : De nombreux semis sont observés sans individus mature à proximité. Les animaux semblent donc jouer un rôle important dans la dispersion de cette espèce.
 **Type(s) biologique** : Nanophanérophyte
 
@@ -67,3 +77,22 @@ sources:
 **Révision** : 2021*
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=113785)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 8
+* **Continentalité** : 2
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 3
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 5
+* **Salinité** : 1
+* **Texture** : 4
+* **Matière organique** : 2

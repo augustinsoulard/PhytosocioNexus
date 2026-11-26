@@ -7,6 +7,15 @@ auteurs:
   - Augustin Soulard
 ---
 
-# Tradescantia x andersoniana
+## Description
+
+**Famille** : Commelinaceae
+
+## Répartition
 
 ![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tradescantia%20x%20andersoniana.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : M
+* **Intérêt patrimonial PACA** : NUL
