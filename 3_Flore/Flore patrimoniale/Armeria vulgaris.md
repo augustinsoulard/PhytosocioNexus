@@ -1,0 +1,39 @@
+---
+tags:
+  - espece
+cd_nomv18: 83855
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+## Description
+
+**Famille** : Plumbaginaceae
+**Type biologique** : hces
+**Syntaxon (Baseflor)** : Armerion maritimae subsp. elongatae Krausch (1962) 1968
+**Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, centro-européennes
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Armeria%20vulgaris.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Protection** : nationale
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 7
+* **Température** : 4
+* **Continentalité** : 8
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 5
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 1

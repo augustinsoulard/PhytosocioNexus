@@ -1,0 +1,43 @@
+---
+tags:
+  - espece
+cd_nomv18: 96545
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+## Description
+
+**Famille** : Equisetaceae
+**Floraison** : avril-juin
+**Type biologique** : hsto
+**Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
+**Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Equisetum%20sylvaticum.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Liste rouge nationale** : LC
+* **Liste rouge régionale PACA** : VU
+* **Statut ZNIEFF PACA** : D
+* **Enjeu RESEDA Flore 2021 (CBN)** : MOY
+* **Indicatrice zone humide** : Oui
+* **Intérêt patrimonial PACA** : FORT
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 4
+* **Température** : 4
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 8
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 4
+* **Niveau trophique** : 4
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 9

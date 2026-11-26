@@ -1,11 +1,22 @@
 ---
-auteurs:
-  - Augustin Soulard
 tags:
   - eee_occitanie
-date_maj: 2026-06-15
+cd_nomv18: 93129
+date_maj: "2026-11-24"
+auteurs:
+  - Augustin Soulard
 sources:
+  - invmed.fr
 ---
+
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : mars-mai
+**Type biologique** : tver
+**Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
+**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
+
 **cd_nom** : 93129
 
 **Description** : plante annuelle , mesurant entre 5 et 50 cm de hauteur. Elle ressemble à [[Crepis bursifolia]], mais s’en distingue par une racine plus grêle, des feuilles non glauques, plus fines et moins profondément découpées. Ses capitules portent de nombreuses ligules d’un jaune d’or éclatant.
@@ -14,4 +25,37 @@ sources:
 
 **Habitats :** Ubiquiste à grande plasticité écologique. On la retrouve dans les friches, pelouses et le long des voies de communication. Depuis les pelouses sèches des [[Lygeo sparti-Stipetea tenacissimae]] jusqu'au prairies des [[Arrhenatheretalia elatioris]], c'est une espèce très répandue.
 
+## Répartition
 
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crepis%20sancta.png)
+
+## D'après INVMED (consulté en 2026)
+
+*Crepis sancta* (L.) Bornm., 1913
+
+**Nom(s) vernaculaire(s)** : Crépide de Terre sainte, Crépide de Nîmes, Ptérothèque de Nîmes
+**Famille** : Asteraceae
+
+**Régions administratives** : PACA :  ; Occitanie : Modérée ; Corse : 
+**Zones biogéographiques continentales** : Sud-Ouest : Modérée ; Pyrénées : Modérée ; Méd. Occ. : Modérée ; Méd. PACA :  ; Massif Central : Modérée ; Alpine : 
+
+[Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=93129)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : I
+* **Liste rouge nationale** : NA
+* **Intérêt patrimonial PACA** : NUL
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 6
+* **Température** : 7
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 4
+* **Humidité édaphique** : 4
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 6
+* **Salinité** : 0
+* **Texture** : 3
+* **Matière organique** : 2

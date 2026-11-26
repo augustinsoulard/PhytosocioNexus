@@ -1,0 +1,39 @@
+---
+tags:
+  - espece
+cd_nomv18: 132588
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+## Description
+
+**Famille** : Asteraceae
+**Floraison** : juillet-septembre
+**Type biologique** : Hbis
+**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carduus%20crispus%20subsp.%20crispus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : C
+* **Liste rouge nationale** : DD
+* **Intérêt patrimonial PACA** : DD
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 8
+* **Température** : 6
+* **Continentalité** : 5
+* **Humidité atmosphérique** : 7
+* **Humidité édaphique** : 7
+* **Réaction du sol (pH)** : 6
+* **Niveau trophique** : 8
+* **Salinité** : 0
+* **Texture** : 1
+* **Matière organique** : 8

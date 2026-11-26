@@ -1,0 +1,38 @@
+---
+tags:
+  - espece
+cd_nomv18: 119118
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+## Description
+
+**Famille** : Rosaceae
+**Floraison** : juillet
+**Type biologique** : Hrub
+**Syntaxon (Baseflor)** : Rubenion grati Weber 1977
+**Écologie (Baseflor)** : ronciers de clairières acidophiles, planitiaires-collinéennes, méso-oligotrophiles, mésohygrophiles
+
+## Répartition
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20gratus.png)
+
+## Statuts
+
+* **Indigénat (TAXREF v18)** : P
+* **Intérêt patrimonial PACA** : TRES FAIBLE
+
+## Indices écologiques (Ellenberg)
+
+* **Lumière** : 5
+* **Température** : 4
+* **Continentalité** : 4
+* **Humidité atmosphérique** : 6
+* **Humidité édaphique** : 6
+* **Réaction du sol (pH)** : 2
+* **Niveau trophique** : 3
+* **Salinité** : 0
+* **Texture** : 4
+* **Matière organique** : 5

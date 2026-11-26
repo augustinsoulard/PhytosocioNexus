@@ -106,7 +106,12 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 - [[Stellarietea mediae]]
 # **Autres typologies**
 
-- **[[EUNIS 2012]]**
+### **[[EUNIS 2012]]**
+### [[HIC EU28]]
+
+# **Flore et autres taxons**
+
+### **[[Notice des taxons]]**
 
 # **Méthodologie**
 
@@ -123,12 +128,11 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 
 # **Liens externes**
 
-
 ### 🌐 Sites web & Références générales
 
-*  **[FloraVeg](https://floraveg.eu/vegetation/)** : La référence de la phytosociologie et des végétations à l'échelle de l'Europe.
+* **[FloraVeg](https://floraveg.eu/vegetation/)** : La référence de la phytosociologie et des végétations à l'échelle de l'Europe.
 * **[Habitats Naturels](http://habitats-naturels.info/definition/)** : Site thématique dédié à la définition des habitats naturels français.
-*  **[App-Caricetum](https://app-phytosociologie.caricetum.fr/)** : Propositions d'unités phytosociologiques (basées sur HABREF v7).
+* **[App-Caricetum](https://app-phytosociologie.caricetum.fr/)** : Propositions d'unités phytosociologiques (basées sur HABREF v7).
 
 ### 🔍 Phytosociologie synusiale & Bases de données
 
@@ -138,7 +142,8 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 
 ### 🛠️ Outils de saisie et d'analyses
 
-*  **[QBiome](https://ageona-cartographie.fr/qbiome-telechargement/))** : Outil de saisie de données et de relevés phytosociologiques.
+*  **[QBiome](https://ageona-cartographie.fr/qbiome-telechargement/)** : Outil de saisie de données et de relevés phytosociologiques.
+* **[PhytoCohortis]([https://ageona-cartographie.fr/qbiome-telechargement/](https://synetea.shinyapps.io/PhytoCohortis/)**) : Outils d'analyse de relevés phytosociologiques via un R shiny
 * **[JUICE.NET](https://www.sci.muni.cz/botany/juice/NET/index.htm)** : Successeur direct du programme JUICE, offrant des outils pour l'analyse des données de végétation.
 
 # **A propos**
