@@ -33,3 +33,7 @@ Associations :
 - [[Teucrio montani-Brometum erecti]] Lapraz 1968 ; 
 - [[Teucrio montani-Festucetum laevigatae]] Je. Ritter 1972 ; 
 - [[Violo rupestris-Koelerietum pyramidatae]] Braque et Loiseau ex J.-M. Royer et Ferrez 2020
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Seslerio%20caeruleae-Mesobromenion%20erecti.png)

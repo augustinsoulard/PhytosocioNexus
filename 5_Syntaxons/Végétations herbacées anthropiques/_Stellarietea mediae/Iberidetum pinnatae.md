@@ -20,3 +20,7 @@ Espèces indicatrices : [[Androsace maxima]], [[Iberis pinnata]], [[Delphinium p
 
 Chorologie BdR (13) : Végétation principalement localisée entre Aix-en-Provence et Salon-de-Provence et au nord de la montagne Sainte-Victoire. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Iberidetum%20pinnatae.png)

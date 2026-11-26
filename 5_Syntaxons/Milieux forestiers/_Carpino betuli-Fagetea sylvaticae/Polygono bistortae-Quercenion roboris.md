@@ -30,3 +30,7 @@ Associations :
 - [[Polygono bistortae-Quercetum roboris]] Sougnez 1973 ; 
 - [[Pruno padi-Quercetum roboris]] Schnitzler ex Boeuf 2014 ; 
 - [[Sambuco nigrae-Quercetum roboris]] (Ger. Hofmann 1965) H. Passarge et Ger. Hofmann 1968
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Polygono%20bistortae-Quercenion%20roboris.png)

@@ -16,3 +16,7 @@ Espèces indicatrices : [[Potentilla saxifraga]] (V⁺/IV⁺), [[Saxifraga cochl
 
 Écologie : pentes de 80–100 % d'inclinaison, surtout aux expositions Nord et Ouest, entre 400–950 m. Optimum au-dessus de Fontan (600 m) ; limite inférieure imprécise.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potentilletum%20saxifragae.png)

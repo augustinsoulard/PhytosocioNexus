@@ -22,3 +22,7 @@ Chorologie BdR (13) : Cordon dunaire de la Camargue ; localisée et même margin
 
 Précision dynamique : Se place en situation intermédiaire entre les végétations dunaires psammophiles des [[Ammophiletea]] et les végétations halophiles des bassins saumâtres relevant des [[Salicornietea fruticosae]]. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Schoeno%20nigricantis-Plantaginetum%20crassifoliae.png)

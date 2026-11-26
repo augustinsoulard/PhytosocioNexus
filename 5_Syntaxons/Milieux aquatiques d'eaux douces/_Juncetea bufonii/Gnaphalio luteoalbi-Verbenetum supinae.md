@@ -29,3 +29,7 @@ Syn. : Verbeno-Gnaphalietum Rivas Goday 1970 (nom. invers.).
 Hyères (Var), île du Levant, alt. 61 m, 6 mai 2006, rec. H 60 %, 12 taxons. H. Michaud, V. Noble, A. Aboucaya, G. Blanc (rel. 341840) : Verbena supina +, Laphangium luteoalbum +, [[Corrigiola litoralis]] +, [[Juncus bufonius]] +, [[Lythrum hyssopifolia]] 1, Lotus angustissimus 1, [[Polypogon subspathaceus]] 2, [[Centaurium erythraea]] +, [[Lysimachia arvensis]] +, [[Mentha pulegium]] +, [[Juncus articulatus]] +, [[Trifolium arvense]] +, [[Geranium purpureum]] +.
 
 **Position synsystématique** : [[Juncetea bufonii]] / [[Elatino triandrae-Cyperetalia fusci]] / [[Heleochloion schoenoidis]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Gnaphalio%20luteoalbi-Verbenetum%20supinae.png)

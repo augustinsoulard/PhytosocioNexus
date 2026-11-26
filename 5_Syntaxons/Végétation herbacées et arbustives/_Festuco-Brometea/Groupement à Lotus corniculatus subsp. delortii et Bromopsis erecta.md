@@ -33,3 +33,7 @@ Variantes oligo-mésotrophiles prairiales à Salvia pratensis et [[Trisetum flav
 
 **Syntaxonomie et synsystématique** :
 Ce groupement demeure problématique en raison de sa position charnière entre prairies, pelouses et ourlets. Il illustre dans la plupart des cas des communautés instables en évolution dynamique : ourlets post-culturaux (issu de vignes, vergers ou de cultures) récemment traités en fauche, pelouses fertilisées et fauchées, ourlets remis au pâturage. Toutefois, la variante à Ophrys scolopax s’observe sur des parcelles fauchées depuis de nombreuses décennies, juste fertilisées par le pâturage de regain ; elles constituent donc des communautés stabilisées et floristiquement saturées. Ce groupement présente des affinités avec l’Orchido purpureae-Brometum erecti Braun-Blanq. & Susplugas 1937, association de pelouses mésophiles méditerranéennes du Bromion erecti . Mais l’absence des espèces des Bromenalia erecti ( [[Plantago media]] , [[Cirsium acaulon]], [[Briza media]], [[Galium pumilum]], [[Leontodon hispidus]], [[Linum catharticum]]) ne permet pas un rattachement à cette alliance.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Lotus%20corniculatus%20subsp.%20delortii%20et%20Bromopsis%20erecta.png)

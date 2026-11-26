@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées à la nature des substrats. Var. �
 
 **Syntaxonomie et synsystématique** :
 Ce groupement s’observe régulièrement dans la zone d’étude ; malgré un faible nombre de relevés recueillis et un matériel un peu hétérogène, une nouvelle association vicariante méridionale du Carici remotae-Fraxinetum excelsioris W.Koch ex Faber 1937 et du Fraxino excelsioris-Aceretum pseudoplatani W.Koch ex Tüxen 1937 est proposée. Par rapport à l’ Equiseto telmateiae-Fraxinetum excelsioris Rühl 1967, association riveraine décrite de la montagne de Hesse en Allemagne, de nombreux taxons médio-européens et montagnards manquent dans l’ equisetetosum telmateiae. Le Carici remotae-Fraxinetum angustifoliae Pedrotti ex Pedrotti 1992 est une association bien distincte du Carici pendulae-Fraxinetum angustifolia : liée aux grands systèmes riverains, elle héberge quelques taxons "fluviaux" ( [[Ulmus minor]] , [[Rumex sanguineus]], Bryonia cretica subsp. dioica).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Carici%20pendulae-Fraxinetum%20angustifoliae.png)

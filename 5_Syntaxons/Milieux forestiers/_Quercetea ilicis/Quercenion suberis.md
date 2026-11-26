@@ -25,3 +25,7 @@ ZH : p.p.
 Associations :
 - [[Querco suberis-Genistetum candicantis]] R.J. Loisel 1971 ; 
 - [[Querco suberis-Genistetum linifoliae]] R.J. Loisel 1971
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Quercenion%20suberis.png)

@@ -24,3 +24,7 @@ Chorologie BdR (13) : Littoral rocheux de l'ensemble du département, parfois d'
 Précision dynamique : Végétation climatique.
 
 Le Querco - Pinetum halepensis Loisel 1971 est une association complexe qui selon la conception de l'auteur semble regrouper plusieurs végétations intégrant Pinus halepensis, aujourd'hui mieux individualisées : chênaie verte thermophile, bois de Juniperus phoenicea subsp. turbinata, fruticées littorales à Pistacia lentiscus et Myrtus communis. C'est sa sous-association « oleo-letiscetosum » qui correspond le mieux à la conception actuelle de ces pinèdes xéro-thermophiles stables.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Pistacio%20lentisci-Pinetum%20halepensis.png)

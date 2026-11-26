@@ -17,3 +17,7 @@ Espèces indicatrices : [[Calluna vulgaris]], [[Cistus salviifolius]], [[Erica s
 Écologie : Végétation xérophile des substrats superficiels rocailleux plus ou moins acides : poudingues à éléments siliceux ou grès.
 
 Chorologie BdR (13) : Plaine de l'Arc entre Rousset, Trets et contreforts du mont Olympe et du Regagnas.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Erico%20scopariae-Lavanduletum%20stoechadis.png)

@@ -27,3 +27,7 @@ Associations :
 - [[Rhododendro ferruginei-Abietetum albae]] (Braun-Blanquet in Braun-Blanquet et al. 1939) Braun-Blanquet 1948 ; 
 - [[Rhododendro ferruginei-Betuletum pendulae]] Nègre 1972 ; 
 - [[Rhododendro ferruginei-Pinetum uncinatae]] (Braun-Blanquet 1948) Rivas Martínez 1968
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rhododendro%20ferruginei-Pinenion%20uncinatae.png)

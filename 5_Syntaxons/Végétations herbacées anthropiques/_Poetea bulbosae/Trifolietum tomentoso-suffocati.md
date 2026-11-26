@@ -19,3 +19,7 @@ Espèces indicatrices : [[Trifolium tomentosum]], [[Trifolium scabrum subsp. sca
 Chorologie BdR (13) : Camargue.
 
 L'association telle que nous la concevons est légèrement différente de celle décrite par Molinier sur un faible nombre de relevés. Trifolium suffocatum n'est pas si fréquent que cela si l'on intègre de nombreux relevés récents. Soit les milieux ont légèrement évolué, en particulier avec une variation de la charge pastorale, soit l'idée qu'avait Moliner de son association l'a conduit à sélectionner un faciès plus fortement piétiné.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Trifolietum%20tomentoso-suffocati.png)

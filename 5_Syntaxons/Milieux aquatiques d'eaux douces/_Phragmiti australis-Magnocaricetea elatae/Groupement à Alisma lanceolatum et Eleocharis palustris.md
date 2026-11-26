@@ -17,3 +17,7 @@ Le groupement colonise les mares longuement inondables sur les marnes du Sillon 
 
 **Composition floristique** :
 [[Eleocharis palustris]], [[Alisma lanceolatum]], [[Juncus striatus]], [[Teucrium scordium]], [[Lythrum salicaria]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Alisma%20lanceolatum%20et%20Eleocharis%20palustris.png)

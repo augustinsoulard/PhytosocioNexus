@@ -31,3 +31,7 @@ Les variations mises en évidence s’inscrivent dans le gradient topographique.
 
 **Syntaxonomie et synsystématique** :
 Avec la présence de Bromus gr. racemosus, [[Silaum silaus]], [[Anacamptis laxiflora]], ce groupement peut être rapproché du Bromion racemosi. À cause de la mauvaise représentation des éléments des Potentillo-Polygonetalia avicularis, il apparaît en marge de l’alliance tout comme le Trifolio patentisBrometum racemosi B.Foucault 2008, décrit dans le sud-ouest de la France. Située dans un autre contexte bioclimatique, cette dernière association, héberge des éléments atlantiques absents des communautés ardéchoises.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Dactylorhizo%20occitanicae-Silaetum%20silai.png)

@@ -41,3 +41,7 @@ Les variations mises en évidence sont liées au gradient de décarbonatation de
 
 **Syntaxonomie et synsystématique** :
 Par rapport aux données bibliographiques, les communautés ardéchoises s’insèrent dans le buxetosum. L’association demande toutefois à être étudiée plus finement sur le plan infrasyntaxonomique, par rapport au gradient édaphique (sols carbonatés, décarbonatés, dolomitiques, réserve utile) et altitudinal/latitudinal. Les relevés princeps de l’association (BRAUN-BLANQUET 1936 in BRAUN-BLANQUET et al. 1952) relèvent de la var. à Lonicera implexa et [[Arbutus unedo]]. Dans le Bas-Vivarais cette association est représentée par des taillis paucispécifiques anthropogènes. QUÉZEL & BARBÉRO 1987 font un constat similaire : « le Viburno-Quercetum ilicis représente, en fait, un stade déjà considérablement dégradé par l’homme […] qui pouvait laisser croire à une impossibilité d’évolution ultérieure du cortège floristique et des caractères édaphiques ». Pour RAMEAU (1991), il s’agit de « forêts plus ou moins transformées bloquées par les actions anthropiques ».
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Viburno%20tini-Quercetum%20ilicis.png)

@@ -19,3 +19,7 @@ sources:
 **Écologie** : Végétation pionnière des eaux stagnantes à légèrement courantes, mésotrophes, peu profondes, sur substrats de préférence vaseux, riches en matière organique, neutres à basiques.
 
 **Chorologie BdR** : Canaux de la Crau ; petit Rhône.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potamo%20nodosi-Vallisnerietum%20spiralis.png)

@@ -31,3 +31,7 @@ sources:
 - sous-ass. *tribuletosum* Br.-Bl. sous-ass. nova (= Ass. à Tribulus terrestris et Crepis bursifolia Br.-Bl. 1931) — différenciée par [[Tribulus terrestris]], [[Euphorbia chamaesyce]], [[Eragrostis minor]], [[Eragrostis barrelieri]], [[Spergularia rubra]] et [[Crepis bursifolia]] ; apparaît dans les gares de marchandises, entre les rails, et sur les débris de démolition donnant une terre fine, grise, riche en sels minéraux (SO₄Ca en particulier).
 
 ---
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Hordeetum%20leporini.png)

@@ -19,3 +19,7 @@ Espèces indicatrices : [[Deschampsia media]], [[Prunella hyssopifolia]], [[Plan
 Écologie : Végétation mésohygrophile, basiphile se développant dans des dépressions temporairement inondées l'hiver mais totalement asséchées l'été, sur des sols marneux imperméables et asphyxiques. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Partie orientale du département, bien développée dans le massif de la Sainte-Victoire, principalement sur le plateau du Cengle et environs immédiats.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Prunello%20hyssopifoliae-Deschampsietum%20mediae.png)

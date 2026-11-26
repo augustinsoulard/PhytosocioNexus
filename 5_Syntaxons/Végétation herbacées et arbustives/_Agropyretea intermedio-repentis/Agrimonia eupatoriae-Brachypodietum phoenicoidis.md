@@ -30,3 +30,7 @@ Groupement présentant une grande variabilité liée aux substrats et aux passif
 
 **Syntaxonomie et synsystématique** :
 Par rapport au Brachypodietum phoenicoidis Braun-Blanq. 1924 (tab. 17), le groupement ardéchois partage un lot de taxons mésotrophiles important ( [[Daucus carota]], [[Plantago lanceolata]] , [[Clinopodium nepeta]] , [[Picris hieracioides]] …) qui sont à considérer comme des différentiels des Brachypodietalia phoenicoidis. L’Agrimonia eupatoriae-Brachypodietum phoenicoidis se distingue toutefois nettement du Brachypodietum phoenicoidis par la présence de [[Jacobaea erucifolia]], [[Carex flacca]], [[Lotus hirsutus]] (…) et l’absence ou les faibles fréquences de taxons méridionaux ([[Urospermum dalechampii]], [[Scabiosa atropurpurea]], [[Carlina corymbosa]] gr…).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Agrimonia%20eupatoriae-Brachypodietum%20phoenicoidis.png)

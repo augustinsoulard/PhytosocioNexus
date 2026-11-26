@@ -32,3 +32,7 @@ Associations :
 - [[Galeopsio tetrahit-Sperguletum arvensis]] H. Passarge in H. Passarge et Jurko 1975 ; 
 - [[Panico cruris-galli-Chenopodietum polyspermi]] Tüxen 1937 ; 
 - [[Setario-Stachyetum arvensis]] Oberdorfer 1957
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Eu-Polygono%20persicariae-Chenopodienion%20polyspermi.png)

@@ -40,3 +40,7 @@ Associations :
 - [[Stachyo officinalis-Galietum veri]] Billy ex Thébaud et al. 2014
 - [[Thymo pulegioidis-Caricetum caryophylleae]] Misset 2015
 - [[Trifolio subterranei-Seselietum montani]] J.-M. Royer in J.-M. Royer et al. 2006
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chamaespartio%20sagittalis-Agrostienion%20tenuis.png)

@@ -33,3 +33,7 @@ Sur le plan floristique, les communautés sont hétérogènes, constituant une m
 
 **Syntaxonomie et synsystématique** :
 Le matériel recueilli est peu abondant et ne permet de proposer un rattachement phytosociologique étayé. En tout cas, ce groupement est bien différent des " Leersietum" décrits, de par l’absence de nombreux éléments des Phragmiti australis-Magnocaricetea elatae (Leersietum orysoidis (Eggler 1933) H.Passarge 1957 in OBERDORFER 1998, Glycerio fluitantis-Leersietum orysoidis H.Passarge 1999 in PASSARGE 1999). ii / Autres groupements de statuts incertains dont l’étude serait à poursuivre
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Rorippa%20sylvestris%20et%20Leersia%20oryzoides.png)

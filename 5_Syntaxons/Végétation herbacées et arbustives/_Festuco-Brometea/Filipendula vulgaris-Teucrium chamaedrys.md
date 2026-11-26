@@ -17,3 +17,7 @@ Ce groupement peu observé, concerne deux communautés liées à des sols limone
 
 **Composition floristique** :
 [[Teucrium chamaedrys]], [[Filipendula vulgaris]], [[Bromopsis erecta]], [[Carex halleriana]], [[Eryngium campestre]], [[Prospero autumnale]], [[Geranium columbinum]], [[Ranunculus bulbosus]], [[Plantago lanceolata]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Filipendula%20vulgaris-Teucrium%20chamaedrys.png)

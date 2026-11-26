@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées à l’ombrage des stations. Var. 
 
 **Syntaxonomie et synsystématique** :
 Cf. § 3.13.2
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Helleboro%20foetidi-Piptatheretum%20paradoxi.png)

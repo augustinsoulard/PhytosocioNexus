@@ -33,3 +33,7 @@ Les variations mises en évidence sont liées à la nature des substrats. Var. �
 
 **Syntaxonomie et synsystématique** :
 Par rapport au [[Prunello hyssopifoliae-Deschampsietum mediae]] Braun-Blanq. 1931. Le groupement ardéchois se distingue par l’absence des espèces des Agrostietea stoloniferae s.l. dont la présence incite FOUCAULT & CATTEAU (2012) à rapprocher ces groupements de cette classe. Le Trifolium lappaceum-Deschampsia media -G est une unité présentant des éléments des Agrostietea stoloniferaea qui pourrait sans doute est rapprochée du Prunello hyssopifoliae-Deschampsietum mediae Braun-Blanq. 1931
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Lotus%20dorycnium%20et%20Deschampsia%20media.png)

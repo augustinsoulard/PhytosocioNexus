@@ -39,3 +39,7 @@ Var. type (sx8a) avec [[Linaria supina]], [[Geranium purpureum]], [[Melica cilia
 
 **Syntaxonomie et synsystématique** :
 Avec [[Geranium purpureum]] et [[Linaria supina]] , le Centranthetum lecoqii Braun-Blanq. 1931, association décrite des éboulis calcaires du « pourtour des Cévennes méridionales » (BRAUNBLANQUET et al. 1952), correspond probablement à la var. type proposée ici : par rapport aux communautés princeps, Iberis intermedia subsp. violletii et Laserpitium gallicum manquent dans les relevés ardéchois.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Centranthetum%20lecoqii.png)

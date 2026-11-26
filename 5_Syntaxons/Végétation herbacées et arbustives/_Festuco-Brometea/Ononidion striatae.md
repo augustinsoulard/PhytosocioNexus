@@ -29,3 +29,7 @@ Associations :
 - [[Gentiano corbariensis-Seslerietum caeruleae]] Braun-Blanquet et Susplugas 1937 ; 
 - [[Helianthemo-Seslerietum]] Braun-Blanquet ex Vanden Berghen 1963 ; 
 - [[Senecioni provincialis-Seslerietum elegantissimae]] Braun-Blanquet et Mosseray 1937
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ononidion%20striatae.png)

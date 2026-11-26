@@ -34,3 +34,7 @@ Les variations mises en évidence sont liées à la syndynamique et à la nature
 
 **Syntaxonomie et synsystématique** :
 Dans les relevés rapprochés par LOISEL au Staehelino-Dorycnietum suffruticosi Tomaselli 1949, les principaux éléments de la combinaison différentielle se retrouvent dans les communautés ardéchoises mais des différentielles chorologiques ( [[Genista hispanica]], [[Pinus halepensis]], [[Carthamus carduncellus]], [[Genista cinerea]]) et thermophiles ([[Poterium verrucosum]]) manquent.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Genisto%20scorpii-Staehelinetum%20dubiae.png)

@@ -25,3 +25,7 @@ ZH : p.p.
 
 Associations :
 - [[Luzulo campestris-Cynosuretum cristati]] (K. Meisel 1966) B. Foucault 2016 nom. inval. (16) et illeg. (31)
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Danthonio%20decumbentis-Cynosurenion%20cristati.png)

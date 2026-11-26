@@ -21,3 +21,7 @@ Syn. : ass. à Arrhenatherum et Narcissus poeticus Braun-Blanq. 1931 ; Arrhenath
 Chorologie BdR (13) : Plaine de la Crau. Les « améliorations » presque systématiques par ensemencement des foins de Crau ont peut-être aujourd'hui transformé le groupement semi-naturel initial en de simples prairies artificielles.
 
 Les communautés des Bouches-du-Rhône montrent une composition floristique relativement uniforme et banale et constituent un ensemble assez basal en définitive, sans véritables espèces caractéristiques propres. Les prairies de fauche de la région d'Arles sont artificielles, ensemencées et amendées depuis bien longtemps, ce qui explique certainement cette uniformité. Le rattachement à l'association de Braun-Blanquet, plus caractérisée en Languedoc (de Foucault 2016b), est un choix par défaut.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Gaudinio%20fragilis-Arrhenatheretum%20elatioris.png)

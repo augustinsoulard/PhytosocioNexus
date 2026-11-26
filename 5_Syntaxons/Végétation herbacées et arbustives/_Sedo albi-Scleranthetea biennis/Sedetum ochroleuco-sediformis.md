@@ -44,3 +44,7 @@ Les variations mises en évidence sont liées à la nature plus ou moins friable
 
 **Syntaxonomie et synsystématique** :
 Cette association supraméditerranéenne à collinéenne décrite du Languedoc est connue dans l’Aude et en Provence. Les deux relevés princeps (ROYER & FERREZ 2018) cadrent bien avec les relevés ardéchois.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sedetum%20ochroleuco-sediformis.png)

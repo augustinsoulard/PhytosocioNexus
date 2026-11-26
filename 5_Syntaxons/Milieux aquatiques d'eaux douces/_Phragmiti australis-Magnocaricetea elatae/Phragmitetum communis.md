@@ -20,3 +20,7 @@ Espèces indicatrices : [[Phragmites australis]], [[Calystegia sepium]], [[Stach
 
 Chorologie BdR (13) : Crau humide ; bords du Rhône.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phragmitetum%20communis.png)

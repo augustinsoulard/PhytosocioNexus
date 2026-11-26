@@ -28,3 +28,7 @@ Ce groupement rare dans le Bas-Vivarais a été observé dans des retenues d’e
 
 **Syntaxonomie et synsystématique** :
 De par la dominance de [[Potamogeton coloratus]], les communautés ont été rapprochées du Potametum colorati, même si celles-ci peuvent apparaître fragmentaires.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potametum%20colorati.png)

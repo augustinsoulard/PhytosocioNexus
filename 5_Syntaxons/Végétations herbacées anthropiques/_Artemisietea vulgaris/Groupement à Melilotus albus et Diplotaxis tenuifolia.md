@@ -17,3 +17,7 @@ sources:
 **Écologie** : Végétation pionnière mésophile des substrats grossiers (bancs de galets sur limons) du lit majeur des cours d'eau régulièrement soumis aux crues ou aux travaux d'essartements. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Durance.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Melilotus%20albus%20et%20Diplotaxis%20tenuifolia.png)

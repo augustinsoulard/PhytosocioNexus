@@ -21,3 +21,7 @@ Chorologie BdR (13) : Présence possible dans toutes les plaines du département
 
 Note : Cette association se rapproche des communautés rudérales et post-culturales de la classe des [[Digitario sanguinalis-Eragrostietea minoris]] mais la fréquence des espèces messicoles peut appuyer son maintien au sein de la présente classe. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Polycnemo%20arvensis-Linarietum%20spuriae.png)

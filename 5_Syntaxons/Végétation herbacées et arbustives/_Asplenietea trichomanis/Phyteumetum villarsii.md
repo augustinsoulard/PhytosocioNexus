@@ -19,3 +19,7 @@ sources:
 **Écologie** : Hémicryptophytaie héliophile mais de parois peu ensoleillées, sur lithosol de rocher, basophile et oligotrophile, mésohydrique ; étages collinéen à montagnard ; optimum estival ; aéromésohydrique (humidité atmosphérique des gorges) ; dynamique primaire, sans influence anthropozoogène
 
 **Chorologie** : Orophyte ligure : Alpes-Maritimes et ligures, avec l'aire principale autour du Verdon et de ses affluents.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phyteumetum%20villarsii.png)

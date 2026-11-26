@@ -21,3 +21,7 @@ Chorologie BdR (13) : Crau.
 Alliance retenue ici par défaut qui s'oppose à une autre alliance nord-ouest méditerranéenne strictement silicicole. ### Camphorosma monspeliacae - Trifolium subterraneum Molin. & Tallon 1950
 
 Cette association semble correspondre en tous points à la définition de la classe des Poetea bulbosae qui n'a toutefois pas été réellement étudiée en France méditerranéenne et qui reste délicate à définir d'un strict point de vue floristique. Nous ne pouvons pour l'instant proposer de rattachement à l'une ou l'autre des alliances décrites de la péninsule Ibérique ou de Sardaigne.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Camphorosmo%20monspeliacae-Trifolietum%20subterranei.png)

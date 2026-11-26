@@ -31,3 +31,7 @@ Associations :
 - [[Potentillo puberulae-Phleetum phleoidis]] Misset 2015 ; 
 - [[Scillo autumnalis-Filipenduletum hexapetalae]] Guittet et P. Paul 1974 ; 
 - [[Viscario-Festucetum]] Braun-Blanquet 1939
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Koelerio%20macranthae-Phleenion%20phleoidis.png)

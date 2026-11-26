@@ -29,3 +29,7 @@ sources:
 Collobrières (Var), Lambert, sur gneiss, alt. 482 m, 22 mars 2021, rec. H 40 %, 21 taxons : [[Ranunculus paludosus]] 1, [[Allium chamaemoly]] 2, Romulea rollii 1, Trifolium bocconei 1, Gagea granatelli +, [[Poa bulbosa]] 2, [[Sherardia arvensis]] 1, Parentucellia latifolia +, [[Tuberaria guttata]] 1, [[Teesdalia coronopifolia]] +, [[Logfia gallica]] +, [[Stachys arvensis]] +, [[Briza maxima]] +, [[Linaria pelisseriana]] +, Lotus angustissimus +, [[Geranium dissectum]] +, Allium roseum +, [[Petrosedum ochroleucum]] +, [[Asphodelus ramosus]] +, [[Jasione montana]] +, [[Hedypnois rhagadioloides]] 1.
 
 **Position synsystématique** : [[Poetea bulbosae]] / [[Poetalia bulbosae]] / [[Trifolio subterranei-Periballion minutae]]. Dans la classe des Poetea bulbosae, l'alliance du [[Trifolio subterranei-Periballion minutae]] correspond aux communautés sur substrats siliceux de Méditerranée occidentale.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Romuleo%20rollii-Ranunculetum%20paludosi.png)

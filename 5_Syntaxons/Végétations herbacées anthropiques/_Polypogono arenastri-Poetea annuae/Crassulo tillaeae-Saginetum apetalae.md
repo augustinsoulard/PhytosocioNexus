@@ -19,3 +19,7 @@ Espèces indicatrices : [[Crassula tillaea]], [[Sagina apetala]], [[Polycarpon t
 Chorologie BdR (13) : Méconnue dans le département : observée ponctuellement à Port-de-Bouc.
 
 Précision dynamique : Végétation édaphophile maintenue par la perturbation permanente du piétinement pouvant dériver, par dégradation et eutrophisation, d'une végétation plus oligotrophile comme le Tillaeetum muscosae (Helianthemetea guttati). ---Catalogue des végétations du département des Bouches-du-Rhône
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Crassulo%20tillaeae-Saginetum%20apetalae.png)

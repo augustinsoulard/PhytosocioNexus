@@ -17,3 +17,7 @@ Groupement silicicole des hautes terrasses alluviales du cours amont du bassin d
 
 **Composition floristique** :
 [[Corylus avellana]], [[Salix purpurea]], [[Populus nigra]], [[Clematis vitalba]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Corylus%20avellana%20et%20Salix%20purpurea.png)

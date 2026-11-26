@@ -20,3 +20,7 @@ Espèces indicatrices : [[Cladium mariscus]].
 
 Chorologie BdR (13) : Crau humide ; marais de bordure de l'étang de Berre.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cladietum%20marisci.png)

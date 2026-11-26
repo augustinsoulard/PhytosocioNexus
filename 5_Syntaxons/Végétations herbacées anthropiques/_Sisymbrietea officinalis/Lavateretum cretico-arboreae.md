@@ -25,3 +25,7 @@ sources:
 **Écologie** : s'installe partout autour des habitations, dans les lieux riches en nitrates, sur la côte chaude et humide de la Riviera française.
 
 **Chorologie** : Riviera française ; plus fragmentaire aux îles provençales habitées (13 relevés, dont 2 de l'île de Penganelles, Br.-Bl. et Mol., et une dizaine des îles d'Hyères et du Frioul, Mol.).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lavateretum%20cretico-arboreae.png)

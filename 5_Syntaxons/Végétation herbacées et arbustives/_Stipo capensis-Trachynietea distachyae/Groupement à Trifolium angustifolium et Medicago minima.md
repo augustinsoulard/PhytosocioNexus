@@ -17,3 +17,7 @@ Cette pelouse annuelle mésotrophile est liée à des parcelles anciennement cul
 
 **Composition floristique** :
 [[Geranium columbinum]], [[Medicago minima]], [[Myosotis ramosissima]], [[Poa bulbosa]], [[Sherardia arvensis]], [[Trifolium angustifolium]], [[Trifolium campestre]], [[Veronica arvensis]], [[Vicia sativa]] gr., [[Vulpia ciliata]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Trifolium%20angustifolium%20et%20Medicago%20minima.png)

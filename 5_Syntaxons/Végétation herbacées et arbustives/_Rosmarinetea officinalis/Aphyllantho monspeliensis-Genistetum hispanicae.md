@@ -22,3 +22,7 @@ Chorologie BdR (13) : Reliefs de la partie est du département ; Saint-Paul-lès
 
 Précision dynamique : En relation dynamique avec les pinèdes de pin d’Alep qui préfigurent une évolution vers le [[Lathyro latifolii-Quercetum pubescentis]] ; souvent en situation d’ourlet.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Aphyllantho%20monspeliensis-Genistetum%20hispanicae.png)

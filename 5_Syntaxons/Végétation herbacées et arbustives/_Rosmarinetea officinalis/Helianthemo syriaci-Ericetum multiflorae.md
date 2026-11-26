@@ -23,3 +23,7 @@ Écologie : Végétation xérophile et thermophile des pentes bien exposées et
 
 Chorologie BdR (13) : Variante à Helianthemum marifolium : secteurs abrités et côtiers de la Nerthe et collines de Vitrolles et de Velaux près de l’étang de Berre. Variante classique : adrets de la chaîne de l’Étoile, Calanques (Marseilleveyre, adrets de Carpiagne) ; cap Canaille (jusqu’aux falaises Soubeyrannes).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Helianthemo%20syriaci-Ericetum%20multiflorae.png)

@@ -22,3 +22,7 @@ Chorologie BdR (13) : Camargue
 
 Note Catalogue BdR (13) : La conception historique de l’Imperato-Erianthetum de Molinier et Tallon semble bien regrouper deux groupements bien distincts mais toutefois régulièrement en contact, comme le montrent les nombreux schémas d’organisation de la végétation en Camargue (Molinier & Tallon 1965). Le groupement à [[Imperata cylindrica]] ne possède guère de caractéristiques propres mais il est nettement moins hygrophile que l’[[Eriantho ravennae-Schoenetum nigricantis]] que nous traitons dans les [[Juncetalia maritimi]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Imperata%20cylindrica%20et%20Scirpoides%20holoschoenus%20subsp.%20australis.png)

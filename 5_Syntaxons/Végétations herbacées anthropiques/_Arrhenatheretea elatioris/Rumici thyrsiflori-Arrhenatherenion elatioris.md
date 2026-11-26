@@ -28,3 +28,7 @@ Associations :
 - [[Fritillario meleagridis-Arrhenatheretum elatioris]] P. Lacroix et al. 2014 ; 
 - [[Trifolio maritimi-Galietum veri]] P. Lacroix et al. 2014 ; 
 - [[Trifolio subterranei-Galietum veri]] P. Lacroix et al. 2014
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rumici%20thyrsiflori-Arrhenatherenion%20elatioris.png)

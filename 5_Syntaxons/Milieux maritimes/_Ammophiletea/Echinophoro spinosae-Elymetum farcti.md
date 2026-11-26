@@ -35,3 +35,7 @@ Précision dynamique : Végétation pionnière sans évolution potentielle dans 
 **Chorologie** : tout le pourtour de la Méditerranée et la côte ibéro-atlantique, sous forme de sous-associations ou variantes appauvries (20 relevés du Languedoc, Br.-Bl.). Sur la côte atlantique française, remplacé par l'Agropyretum ibero-atlanticum, caractérisé par [[Honckenya peploides]] et par la ssp. atlantique d'[[Elytrigia juncea]] (2n = 20–28 chromosomes, contre 20–42 chez la ssp. mediterranea, au port chétif et à l'épi plus court).
 
 ---
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Echinophoro%20spinosae-Elymetum%20farcti.png)

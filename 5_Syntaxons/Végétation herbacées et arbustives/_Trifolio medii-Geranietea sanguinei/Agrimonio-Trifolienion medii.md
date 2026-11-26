@@ -41,3 +41,7 @@ Associations :
 - [[Valeriano officinalis-Fragarietum vescae]] O. Bolòs 1977 ; 
 - [[Vicio cassubicae-Agrimonietum eupatoriae]] H. Passarge 1967 ; 
 - [[Violo hirtae-Silaetum silai]] Catteau 2021
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Agrimonio-Trifolienion%20medii.png)

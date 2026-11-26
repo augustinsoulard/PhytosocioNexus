@@ -31,3 +31,7 @@ Subass. prov. phagnaletosum sordidi (sx7) avec [[Stipa offneri]], [[Achnatherum 
 
 **Syntaxonomie et synsystématique** :
 Ce groupement constitue un vicariant septentrional et oriental du [[Phagnalo sordidi-Asplenietum petrarchae]] Braun-Blanq ex Braun-Blanq. 1951 (BRAUN-BLANQUET et al. 1952, SUTTER 1973) différencié par la raréfaction des éléments thermophiles (Asplenium petrarchae notamment) et la présence de Centranthus lecoqii et d’ Erysimum nevadense subsp. collisparsum , taxon à chorologie ouest-méditerranéenne présent dans le sud-est de la France et les Pyrénées orientales (absent du Languedoc) (TISON & FOUCAULT 2014). Le phagnaletosum sordidi pourrait être interprété comme une race du [[Phagnalo sordidi-Asplenietum petrarchae]] à Achnatherum bromoides et [[Erysimum nevadense]]. L’analyse d’un plus grand nombre de relevés (le matériel est hétérogène) permettrait sans doute de trancher la question.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Erysimo%20collisparsi-Centranthetum%20lecoqii.png)

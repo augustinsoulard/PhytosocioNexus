@@ -17,3 +17,7 @@ Espèces indicatrices : [[Dittrichia viscosa]], [[Lobularia maritima]], [[Oloptu
 Écologie : Végétation pionnière thermophile, xérophile, légèrement nitrophile, des sols remaniés (anciennes cultures, talus, etc.), profonds, perméables, secs et rocailleux sur pentes nulles ou faibles. Étage mésoméditerranéen inférieur.
 
 Chorologie BdR (13) : Peu développée dans le département ; littoral de la Côte Bleue, région marseillaise, Cassis et La Ciotat.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Inulo%20viscosae-Oryzopsietum%20miliaceae.png)

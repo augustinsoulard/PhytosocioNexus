@@ -20,3 +20,7 @@ Espèces indicatrices : caractéristiques territoriales : [[Alnus glutinosa]] (V
 Écologie : cette association forestière forme des bosquets plus ou moins étendus sur les berges des rivières soumises au régime des inondations temporaires, dans la région montagneuse sous le climat méditerranéen humide.
 
 Chorologie : décrite du Valentinois méridional et des Cévennes méridionales ; ne descend pas dans la plaine languedocienne plus sèche.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Fraxino%20angustifoliae-Alnetum%20glutinosae.png)

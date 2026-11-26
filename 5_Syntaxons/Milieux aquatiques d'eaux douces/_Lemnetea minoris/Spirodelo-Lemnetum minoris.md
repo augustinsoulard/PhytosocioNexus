@@ -18,3 +18,7 @@ Espèces indicatrices : [[Spirodela polyrhiza]], [[Lemna minor]].
 
 Chorologie BdR (13) : bassin du Rhône et Camargue, repéré sur les bordures du Petit Rhône ; à rechercher ailleurs, en particulier dans les canaux de la Crau humide où [[Spirodela polyrhiza]] est fréquente. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Spirodelo-Lemnetum%20minoris.png)

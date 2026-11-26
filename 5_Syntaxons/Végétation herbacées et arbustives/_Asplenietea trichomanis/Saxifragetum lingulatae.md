@@ -16,3 +16,7 @@ Espèces indicatrices : [[Saxifraga callosa]] (V), [[Potentilla caulescens]] var
 
 Écologie : pentes de 60–110 % d'inclinaison, à toute exposition, entre 820–1 400 m. Optimum sur les rochers calcaires de Viévola, au-dessus de Tende (1 100 m).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Saxifragetum%20lingulatae.png)

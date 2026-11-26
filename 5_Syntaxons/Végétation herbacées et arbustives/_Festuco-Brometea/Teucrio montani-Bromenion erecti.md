@@ -38,3 +38,7 @@ Associations :
 - [[Pastinaco sativae-Caricetum flaccae]] Decocq 1999 ; 
 - [[Teucrio chamaedryos-Brometum erecti]] Billy ex Thébaud et al. 2014 ; 
 - [[Veronico scheereri-Koelerietum macranthae]] Boullet 1996 nom. ined. (1) et inval. (3b)
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Teucrio%20montani-Bromenion%20erecti.png)

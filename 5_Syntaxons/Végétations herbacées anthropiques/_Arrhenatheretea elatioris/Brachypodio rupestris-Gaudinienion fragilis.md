@@ -30,3 +30,7 @@ Associations :
 - [[Serapiado cordigerae-Schedonoretum pratensis]] (Braun-Blanquet 1967) B. Foucault 2016 ; 
 - [[Serapiado vomeraceae-Trisetetum flavescentis]] B. Foucault 2018 ; 
 - [[Tragopogono orientalis-Salvietum pratensis]] Choisnet in Le Hénaff et al. 2021
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Brachypodio%20rupestris-Gaudinienion%20fragilis.png)

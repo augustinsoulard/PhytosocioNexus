@@ -30,3 +30,7 @@ La pelouse à Alkanna matthioli et Anisantha tectorum peut s’observer sur les 
 
 **Syntaxonomie et synsystématique** :
 Ce groupement des Brometalia rubenti-tectorum présente une certaine hétérogénéité dont le déterminisme synécologique doit être précisé ; son étude est à poursuivre.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Alkanna%20matthioli%20et%20Anisantha%20tectorum.png)

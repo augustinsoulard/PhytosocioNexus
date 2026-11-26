@@ -20,3 +20,7 @@ Espèces indicatrices : [[Lemna gibba]].
 
 Chorologie BdR (13) : Petit Rhône, çà et là dans le bassin du Rhône au sens large. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lemnetum%20gibbae.png)

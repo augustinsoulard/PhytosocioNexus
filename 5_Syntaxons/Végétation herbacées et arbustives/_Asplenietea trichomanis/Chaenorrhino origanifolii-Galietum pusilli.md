@@ -26,3 +26,7 @@ Molinier (1934) cite plusieurs autres espèces comme caractéristiques de son as
 
 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chaenorrhino%20origanifolii-Galietum%20pusilli.png)

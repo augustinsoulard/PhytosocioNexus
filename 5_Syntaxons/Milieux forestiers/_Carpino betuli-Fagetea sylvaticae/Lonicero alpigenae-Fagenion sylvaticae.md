@@ -26,3 +26,7 @@ Associaitons :
 - [[Dentario heptaphylli-Fagetum sylvaticae]] (Braun-Blanquet 1932) F.K. Hartmann et G. Jahn 1967 ; 
 - [[Hordelymo europae-Fagetum sylvaticae]] Kuhnholtz-Lordat 1937 ; 
 - [[Milio effusi-Fagetum sylvaticae]] Frehner ex Ellenger et Klötzli 1972
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lonicero%20alpigenae-Fagenion%20sylvaticae.png)

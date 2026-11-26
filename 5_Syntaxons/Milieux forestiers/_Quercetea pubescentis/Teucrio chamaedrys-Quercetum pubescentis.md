@@ -33,3 +33,7 @@ Les variations sont liées à la nature des substrats et à l’altitude. La com
 
 **Syntaxonomie et synsystématique** :
 On retrouve dans les relevés de BANNES-PUYGIRON (1933) un lot important d’éléments héliophiles ([[Brachypodium rupestre]], [[Bromopsis erecta]], [[Carex humilis]], [[Lotus dorycnium]], [[Ranunculus bulbosus]]…). Il semble que l’« association à Quercus pubescens et [[Buxus sempervirens]] » prennent en compte ces chênaies pubescentes juvéniles, mais leur individualité floristique bien montrée par les analyses statistiques incite à individualiser une unité particulière.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Teucrio%20chamaedrys-Quercetum%20pubescentis.png)

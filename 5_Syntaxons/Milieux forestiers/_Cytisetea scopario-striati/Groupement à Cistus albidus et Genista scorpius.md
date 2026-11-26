@@ -17,3 +17,7 @@ Prémanteau ou garrigue haute lié aux substrats argileux décarbonatés issus d
 
 **Composition floristique** :
 [[Cistus albidus]], [[Genista scorpius]], [[Juniperus oxycedrus]], [[Lonicera implexa]], [[Phillyrea media]] gr,[[Thymus vulgaris]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Cistus%20albidus%20et%20Genista%20scorpius.png)

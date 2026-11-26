@@ -21,3 +21,7 @@ Espèces indicatrices : [[Carduus tenuiflorus]], [[Onopordum illyricum]], [[Malv
 Chorologie BdR (13) : Crau.
 
 De Foucault (2012) place cette association, structurée et dominée par de grands chardons bisannuels, dans l'Hordeion leporini (Sisymbrietea officinalis). Il est vrai que la composante herbacée thérophytique associée relève clairement de cette alliance. Cette association reste à étudier et son placement dans la présente alliance en privilégiant l'aspect structurel peut être discuté.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Carduo%20tenuiflori-Onopordetum%20illyrici.png)

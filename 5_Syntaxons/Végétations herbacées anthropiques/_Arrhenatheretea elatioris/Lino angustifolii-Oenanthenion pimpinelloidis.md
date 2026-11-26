@@ -32,3 +32,7 @@ Associations :
 - [[Lino angustifolii-Brometum hordeacei]] B. Foucault 2016 ; 
 - [[Lino biennis-Cynosuretum cristati]] P. Allorge ex Tüxen et Oberdorfer 1958 ; 
 - [[Potentillo reptantis-Salvietum pratensis]] Choisnet in Le Hénaff et al. 2021
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lino%20angustifolii-Oenanthenion%20pimpinelloidis.png)

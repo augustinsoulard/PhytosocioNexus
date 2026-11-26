@@ -30,3 +30,7 @@ Les variations mises en évidence sont liées au bioclimat. Var. à [[Arbutus un
 
 **Syntaxonomie et synsystématique** :
 Le matériel réuni est trop hétérogène et pas suffisamment fournis pour asseoir une caractérisation de ce groupement. La présence des taxons liés aux sols acides ( [[Erica arborea]], E. scoparia, [[Cistus salviifolius]]…) permet de rapprocher ce groupement de l’Ericion arboreae.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Buxus%20sempervirens%20et%20Erica%20scoparia.png)

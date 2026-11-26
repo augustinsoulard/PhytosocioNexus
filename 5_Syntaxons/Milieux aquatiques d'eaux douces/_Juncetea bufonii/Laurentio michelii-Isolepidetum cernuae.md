@@ -18,3 +18,7 @@ Espèces indicatrices : [[Solenopsis laurentia]], [[Isolepis cernua]], [[Juncus 
 
 Chorologie BdR (13) : Crau humide vers Cabane neuve.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Laurentio%20michelii-Isolepidetum%20cernuae.png)

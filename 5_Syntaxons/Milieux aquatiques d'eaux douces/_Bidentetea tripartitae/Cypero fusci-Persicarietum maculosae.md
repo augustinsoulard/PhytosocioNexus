@@ -34,3 +34,7 @@ Var. à Phalaris arundinacea et [[Veronica beccabunga]] (fa3a), du cours moyen d
 
 **Syntaxonomie et synsystématique** :
 Ce groupement présente des affinités avec l’aile thérophytique du Paspalo distichi-Agrostietum verticillatae Braun-Blanq., Gajewski, Wraber & Walas 1936 sensu Tchou 1948 (ou sensu Braun-Blanq., Roussine & Nègre 1952), association hétérogène qui regroupe communautés vivaces et annuelles. Les analyses statistiques montrent toutefois qu’il s’en distingue, malgré des différences floristiques ténues (tab. 8). Il relève du Chenopodion rubri Poli & J.Tüxen ex Kopecký 1969 (cf. discussion § 3.10.4).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cypero%20fusci-Persicarietum%20maculosae.png)

@@ -22,3 +22,7 @@ Espèces indicatrices : [[Genista provincialis]], [[Carthamus carduncellus]], [[
 
 Chorologie BdR (13) : Saint-Paul-lès-Durance
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Carthamo%20carduncelli-Genistetum%20provincialis.png)

@@ -17,3 +17,7 @@ Espèces indicatrices : [[Utricularia vulgaris]], [[Lemna trisulca]], [[Utricula
 Écologie : Végétation des eaux fraîches et calmes peu profondes, oligodystrophes sur substrat vaseux à paratourbeux autour des résurgences de la nappe de la Durance (laurons de Crau).
 
 Chorologie BdR (13) : Marais de Crau où il est strictement lié à l'alimentation en eau fraîche par les laurons.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lemno%20trisulcae-Utricularietum%20vulgaris.png)

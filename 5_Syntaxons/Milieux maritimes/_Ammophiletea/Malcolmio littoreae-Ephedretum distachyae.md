@@ -20,3 +20,7 @@ Chorologie BdR (13) : Camargue (extrémité sud-occidentale).
 
 Précision dynamique : Évolution lente vers des fourrés du [[Juniperion turbinatae]] ([[Quercetea ilicis]]). 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Malcolmio%20littoreae-Ephedretum%20distachyae.png)

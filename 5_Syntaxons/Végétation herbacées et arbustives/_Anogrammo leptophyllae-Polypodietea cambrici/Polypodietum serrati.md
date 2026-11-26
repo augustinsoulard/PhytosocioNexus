@@ -40,3 +40,7 @@ Les relevés réunis sur roches volcaniques (rel. D3 et D4, tab. 32) ne s’indi
 
 **Syntaxonomie et synsystématique** :
 Avec [[Asplenium ceterach]] , A. ruta-muraria , A. trichomanes (subsp. pachyrachis), [[Geranium purpureum]], [[Sedum dasyphyllum]] , [[Teucrium flavum]] , [[Umbilicus rupestris]] , [[Polypodium cambricum]], les communautés ardéchoises s’intègrent parfaitement dans le Polypodietum serrati Braun-Blanq. 1931, association décrite de la plaine du Languedoc (BRAUN-BLANQUET et al. 1952).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Polypodietum%20serrati.png)

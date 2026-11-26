@@ -34,3 +34,7 @@ Devant être étayées par l’analyse d’un plus grand nombre de relevés, deu
 
 **Syntaxonomie et synsystématique** :
 Cette végétation constitue un groupement particulier, distinct de ses équivalents du cours aval de l’Ardèche et de ceux du bassin ligérien (Scrophulario caninae-Melilotetum albi Loiseau & Braque 1972), différencié par des taxons liés aux sols acides et à affinité cévenole (tab. 33). Une certaine proximité ‘statistique’, montrée notamment par le dendrogramme (fig. 45) avec le groupement silico-calcaricole à Helianthus tuberosus et [[Saponaria officinalis]] (décrit ci-dessous) pourrait inciter à proposer une unité unique et deux infrasyntaxons. Des arguments écologiques (étages de végétation différents, trajectoire dynamique et nature du sol bien distinctes) et des différences floristiques notables incitent à proposer une association originale liée au cours supérieur des rivières ardéchoises.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Galeopsio%20segeti-Saponarietum%20officinalis.png)

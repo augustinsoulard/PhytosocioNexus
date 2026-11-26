@@ -38,3 +38,7 @@ Dans les stations où s'accumulent les débris végétaux, dans les lieux rudér
 **Sous-unités** :
 - sous-ass. *silybetosum* Br.-Bl. sous-ass. nova — stations assez sèches, bords de routes, décombres.
 - sous-ass. *hyoscyametosum* Br.-Bl. sous-ass. nova — autour des mas, surtout où l'on dépose régulièrement les sarments de vigne ; sol plus meuble et moins sec, favorisant [[Lepidium draba]] très abondant ; [[Urtica pilulifera]] à peu près remplacée par [[Urtica urens]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Silybo%20mariani-Urticetum%20piluliferae.png)

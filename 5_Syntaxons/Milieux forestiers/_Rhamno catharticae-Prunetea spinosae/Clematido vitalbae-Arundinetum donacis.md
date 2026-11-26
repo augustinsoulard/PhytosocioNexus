@@ -23,3 +23,7 @@ sources:
 ## D'après Offerhaus et al. (2026)
 
 **Diagnose** : Clematido vitalbae-Arundinetum donacis Biondi & Allegrezza ex Biondi & Allegrezza in Biondi et al. 2013, décrite de la région des Marches en Italie (Biondi & Allegrezza 2004). Rattachée initialement au [[Pruno spinosae-Rubion ulmifolii]], elle s'intègre mieux à l'alliance de l'[[Arundo plinii-Rubion ulmifolii]] (Biondi, Blasi, Casavecchia & Gasparri in Biondi et al. 2014, sub Arundo plinii-Rubion... art. 41b), dans l'ordre des [[Pyro spinosae-Rubetalia ulmifolii]] et la classe des [[Rhamno catharticae-Prunetea spinosae]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Clematido%20vitalbae-Arundinetum%20donacis.png)

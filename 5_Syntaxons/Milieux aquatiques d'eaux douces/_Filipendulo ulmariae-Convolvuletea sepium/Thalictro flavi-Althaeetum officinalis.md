@@ -17,3 +17,7 @@ Espèces indicatrices : [[Althaea officinalis]], [[Convolvulus sepium]], [[Eupho
 Écologie : Végétation mésohygrophile, basiphile de la bordure des marais d'eau douce (cladiaies) en plaine.
 
 Chorologie BdR (13) : Crau humide (marais des Chanoines et de Meyranne), marais des Baux-de-Provence, à confirmer dans les environs immédiats d'Arles et dans la vallée du Rhône (plaine entre Tarascon et Châteaurenard). Le faciès à Thalictrum lucidum semble plus largement répandu (vallée de la Durance, autour de l'étang de Berre, etc.).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Thalictro%20flavi-Althaeetum%20officinalis.png)

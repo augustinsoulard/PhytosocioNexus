@@ -22,3 +22,7 @@ Chorologie BdR (13) : Crau humide.
 
 Précision dynamique : S'observe en tonsure au sein de l'[[Hyperico tomentosi-Deschampsietum mediae]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Blackstonio%20perfoliatae-Ranunculetum%20sardoi.png)

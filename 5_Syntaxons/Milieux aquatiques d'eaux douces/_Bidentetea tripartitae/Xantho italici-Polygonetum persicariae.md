@@ -19,3 +19,7 @@ Espèces indicatrices : [[Persicaria maculosa]], [[Persicaria mitis]], [[Xanthiu
 Chorologie BdR (13) : Durance.
 
 Cette communauté, repérée sur le cours de la Durance mais sur la rive vauclusienne, devra faire l'objet d'études complémentaires pour confirmer sa similarité avec les communautés décrites de la péninsule Ibérique.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Xantho%20italici-Polygonetum%20persicariae.png)

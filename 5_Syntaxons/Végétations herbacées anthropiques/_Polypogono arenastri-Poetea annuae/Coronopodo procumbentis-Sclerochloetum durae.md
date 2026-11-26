@@ -33,3 +33,7 @@ Le « groupement caractérisé par Coronopus procumbens » donné en Crau par Mo
 **Écologie** : chemins peu fréquentés, parfois inondés, de la plaine littorale ; supporte bien le piétinement et l'inondation temporaire. L'aspect varie beaucoup au cours du développement annuel ; en été, on la distingue très difficilement de l'Hordeetum. Se rapproche par certains caractères du Lolieto-Plantaginetum de l'Europe moyenne et occidentale, qui apparaît aux limites nord de la Région méditerranéenne.
 
 **Chorologie** : çà et là dans le Bas-Languedoc, entre le Rhône et l'Hérault (15 relevés inédits, Br.-Bl.) ; en Crau, les chemins bas piétinés par les troupeaux offrent un groupement proche, surtout caractérisé par l'abondance de [[Lepidium coronopus]]. Un groupement voisin est connu du Valais en Suisse.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Coronopodo%20procumbentis-Sclerochloetum%20durae.png)

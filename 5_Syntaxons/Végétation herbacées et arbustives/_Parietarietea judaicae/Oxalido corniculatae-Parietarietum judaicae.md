@@ -31,3 +31,7 @@ sources:
 **Chorologie** : très répandue dans le Languedoc, le Roussillon et çà et là en Provence (23 relevés inédits du Languedoc, Br.-Bl. et H. Meier).
 
 ***Note** :* dans les vallées des Cévennes siliceuses, plus humides, la partie supérieure des murs peut être bordée d'une bande continue de [[Polypodium vulgare]], puis d'une bande à [[Asplenium ceterach]] et [[Asplenium trichomanes]], enfin d'une bande à mousses.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Oxalido%20corniculatae-Parietarietum%20judaicae.png)

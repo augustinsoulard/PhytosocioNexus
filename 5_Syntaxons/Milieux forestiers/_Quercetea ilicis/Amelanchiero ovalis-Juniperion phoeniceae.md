@@ -20,3 +20,7 @@ sources:
 	- HIC EUR : [[5210-1]] & [[5210-3]] (si junipéraie) / NC (autre)
 
 ZH : non
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Amelanchiero%20ovalis-Juniperion%20phoeniceae.png)

@@ -30,3 +30,7 @@ Cette végétation des éboulis actifs mésoméditerranéen, se développe sur d
 
 **Syntaxonomie et synsystématique** :
 L’étude de ce groupement doit être complétée : le matériel doit être étoffé. Il semble toutefois qu’il constitue une association originale. Arrhenatherum elatius-Epilobium dodonaei-G Centranthetum lecoqii type-v Centranthetum lecoqii Scrophularia canina -v
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Arrhenatherum%20elatius%20et%20Epilobium%20dodonaei.png)

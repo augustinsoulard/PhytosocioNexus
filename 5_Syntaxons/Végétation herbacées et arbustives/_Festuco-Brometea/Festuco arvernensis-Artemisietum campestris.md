@@ -31,3 +31,7 @@ Ces communautés se développent sur les sommets des levées alluvionnaires à u
 
 **Syntaxonomie et synsystématique** :
 Le Festuco arvernensis-Artemisietum campestris Loiseau & Felzines 2010 est décrit d'Auvergne, sur le cours de l'Allier et sur le cours moyen de la Loire. Association caractérisée par un lot de taxons à affinités cévenoles ( [[Dianthus graniticus]] , [[Leucanthemum monspeliense]], [[Potentilla rupestris]] – non présent dans les relevés mais connu de communautés similaires). Les communautés ardéchoises constituent une race méridionale de l’association avec notamment [[Allium lusitanicum]], Centaurea pectinata et la fréquence plus élevée d’ Hylotelephium maximum et d’[[Oreoselinum nigrum]] . Cette association du Koelerio macranthae-Phleion phleoidis Korneck 1974 s’inscrit dans le Festucenion longifolio-lemanii Loiseau & Felzines 2010.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Festuco%20arvernensis-Artemisietum%20campestris.png)

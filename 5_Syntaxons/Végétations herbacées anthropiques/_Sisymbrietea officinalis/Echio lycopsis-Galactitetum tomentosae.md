@@ -17,3 +17,7 @@ Espèces indicatrices : [[Echium plantagineum]], [[Galactites tomentosus]], [[La
 Écologie : Végétation thermophile des terres remaniées sèches (friches, bords de chemins, talus) sous climat doux et arrosé l'hiver, donc peu éloignée du littoral. Étage mésoméditerranéen inférieur.
 
 Chorologie BdR (13) : Végétation en limite de ses exigences climatiques dans les Bouches-du-Rhône où elle n'est observée que de façon fragmentaire dans le bassin de La Ciotat.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Echio%20lycopsis-Galactitetum%20tomentosae.png)

@@ -23,3 +23,7 @@ Chorologie BdR (13) : Camargue.
 
 Note catalogue BdR : Association souvent confondue avec le [[Suaedetum fruticosae]] Braun-Blanq. ex O. Bolòs & Molin. 1958 qui se développe dans des conditions plus sèches, sur des terrains argileux très perturbés et riches en matière organique (levées de terre, talus, digues), intégrant une strate thérophytique composée d’espèces subnitrophiles. Association fortement potentielle dans le département mais nous n’avons pas pour l’instant de relevé faisant foi de sa présence. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Halimiono%20portulacoidis-Suaedetum%20verae.png)

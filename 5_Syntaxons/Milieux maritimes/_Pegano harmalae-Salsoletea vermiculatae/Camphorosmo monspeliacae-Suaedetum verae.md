@@ -20,3 +20,7 @@ Chorologie BdR (13) : Archipel du Frioul ; à préciser sur les îles de Maïre 
 
 Précision dynamique : Végétation pionnière des substrats rocheux perturbés du littoral sans réel potentiel d’évolution pouvant certainement évoluer progressivement, après lessivage du substrat, vers des fourrés du [[Myrto communis-Pistacietum lentisci]] ([[Quercetea ilicis]]).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Camphorosmo%20monspeliacae-Suaedetum%20verae.png)

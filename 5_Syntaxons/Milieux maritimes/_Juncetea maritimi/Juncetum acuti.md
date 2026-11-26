@@ -22,3 +22,7 @@ Chorologie BdR (13) : Camargue littorale, plus ponctuelle en Camargue interne et
 
 Précision dynamique : Se situe topographiquement en position intermédiaire entre les végétations psammophiles des [[Saccharetalia ravennae]] et les végétations halophiles des bassins saumâtres relevant des [[Salicornietea fruticosae]]. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Juncetum%20acuti.png)

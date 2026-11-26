@@ -10,3 +10,7 @@ sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Espèces indicatrices : [[Euphorbia serrata]], [[Urospermum dalechampii]], [[Koeleria macrantha]], [[Festuca occitanica]], [[Serapias vomeracea]]
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Koelerio%20macranthae-Thymetum%20vulgaris.png)

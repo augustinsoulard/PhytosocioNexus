@@ -30,3 +30,7 @@ Associations :
 - [[Festuco rubrae-Crepidetum capillaris]] Hülbusch et Kienast in Kienast 1978 ; 
 - [[Geranio pyrenaici-Trisetetum flavescentis]] Le Hénaff et al. 2021 ; 
 - [[Trifolietum dubio-subterranei]] Billy ex Thébaud et al. 2014
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lolio%20perennis-Cynosurenion%20cristati.png)

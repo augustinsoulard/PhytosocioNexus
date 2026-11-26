@@ -19,3 +19,7 @@ Espèces indicatrices : [[Chaenorrhinum rubrifolium]], [[Crucianella latifolia]]
 Chorologie BdR (13) : Principalement dans les massifs calcaires à l'est d'Aix-en-Provence et Aubagne : Sainte-Baume et ses contreforts. Un relevé de Molinier au Rove dans la Nerthe pourrait peut-être s'y rapporter (Molinier 1934, rel. 16 p. 75).
 
 Précision dynamique : Les conditions édaphiques sont garantes d'une certaine stabilité de cette association et la différencient des pelouses thérophytiques issues de la dégradation des garrigues des Rhamno lycioidis - Quercion cocciferae ou du Rosmarinion officinalis avec qui elle cohabite spatialement.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chaenorrhino%20rubrifolii-Crucianelletum%20latifoliae.png)

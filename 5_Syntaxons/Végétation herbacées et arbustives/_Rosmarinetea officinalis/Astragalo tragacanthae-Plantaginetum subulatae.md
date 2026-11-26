@@ -31,3 +31,7 @@ Syn. : Ass. à [[Plantago subulata]] et [[Astragalus tragacantha]] Molin. 1934.
 **Chorologie** : Provence occidentale (5 relevés, Mol.). Molinier (1948) signale sur les rives de l'étang de Berre un peuplement à [[Thymelaea tartonraira]] représentant un fragment de l'association.
 
 ***Note** :* l'association à Camphorosma monspeliaca et Frankenia intermedia de Molinier (1934) paraît hétérogène : les relevés portent en général sur une mosaïque de peuplements, éléments de l'[[Artemisietum-Staticetum virgatae]] mêlés d'espèces du Crithmo-Staticetum, en enclave plus ou moins fragmentaire.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Astragalo%20tragacanthae-Plantaginetum%20subulatae.png)

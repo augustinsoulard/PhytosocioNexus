@@ -17,3 +17,7 @@ Espèces indicatrices : [[Acer monspessulanum]], [[Acer opalus]], [[Cytisophyllu
 Écologie : Végétation mésoxérophile et thermophile des sols profonds sur substrat calcaire en ubacs et bas de versants. Étage supraméditerranéen.
 
 Chorologie BdR (13) : Ubacs de l'Étoile et de la Sainte-Victoire et localement sur l'ubac de Saint-Jean-du-Puy ; bien développée en limite du département, dans le Var, au niveau de la forêt de la Sainte-Baume.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ilici%20aquifolii-Quercetum%20pubescentis.png)

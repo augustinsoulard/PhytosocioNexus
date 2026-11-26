@@ -52,3 +52,7 @@ Différentes associations phanérophytiques des parois calcaires ont été décr
 - race à Genista cinerea provençale, - race à Coronilla juncea et Jacobaea maritima thermophile provençale, 
 - race à Prunus mahaleb du Roussillon, 
 - race à Teucrium flavum des Gorges de l’Ardèche, septentrionale appauvrie.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Buxo%20sempervirentis-Juniperetum%20phoeniceae.png)

@@ -19,3 +19,7 @@ Espèces indicatrices : [[Molinia caerulea]], [[Silaum silaus]], [[Succisa prate
 Écologie : Végétation hygrophile de la bordure des marais d'eau douce sur des substrats inondés durant l'hiver par la remontée d'une nappe d'eau foide et calcaire. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Crau humide.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Scirpo%20holoschoeni-Molinietum%20caeruleae.png)

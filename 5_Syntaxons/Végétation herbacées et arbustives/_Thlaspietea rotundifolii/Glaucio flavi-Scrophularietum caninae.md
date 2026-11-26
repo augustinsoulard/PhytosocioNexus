@@ -18,3 +18,7 @@ sources:
 **Écologie** : association pionnière. Le sol des alluvions est carbonaté, meuble et très perméable : sables grossiers et graviers dominant, très peu de limon - d'où le dessèchement de la surface en été ; pour atteindre l'eau, les espèces développent un puissant système radicalaire. [[Glaucium flavum]], parfois en immense quantité, se rencontre aussi, quoique rarement, dans les graviers littoraux.
 
 **Chorologie** : bords de l'Hérault, de l'Orb, du Tarn, etc. En dehors du rayon des grandes crues, elle précède l'installation du Saponario-Salicetum purpureae.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Glaucio%20flavi-Scrophularietum%20caninae.png)

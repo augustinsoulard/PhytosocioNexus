@@ -20,3 +20,7 @@ sources:
 	- HIC EUR : [[5330-1]]
 
 ZH : non
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Euphorbion%20dendroidis-Myrtion%20communis.png)

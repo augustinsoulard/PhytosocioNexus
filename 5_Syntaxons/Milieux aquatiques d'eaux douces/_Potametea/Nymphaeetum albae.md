@@ -21,3 +21,7 @@ Espèces indicatrices : [[Nuphar lutea]], [[Nymphaea alba]], [[Myriophyllum vert
 Chorologie BdR : Canaux des marais de la Crau.
 
 Les peuplements à [[Nymphaea alba]] de la Crau sont très souvent liés aux laurons.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Nymphaeetum%20albae.png)

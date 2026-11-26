@@ -34,3 +34,7 @@ Subass. bituminarietosum bituminosae Choisnet, 2019 , avec [[Bituminaria bitumin
 
 **Syntaxonomie et synsystématique** :
 On retrouve des éléments de cette association dans le Phlomido lychnitidis-Brachypodietum retusi Braun-Blanq. 1925 (tab. 17) mais les éléments méridionaux manquent.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rumici%20intermedii-Brachypodietum%20retusi.png)

@@ -33,3 +33,7 @@ sources:
 **Écologie** : association souvent discontinue (recouvrement moyen 60–80 %), recherchant des sols à teneur en sel élevée, formés de débris de coquillages et d'algues rejetés par les vagues sur le pourtour des étangs et lacs salés. Composée presque exclusivement d'annuelles. Le faciès le plus répandu est celui à [[Suaeda maritima]] et [[Salicornia europaea]] subsp. emerici, sans Kochia ; en automne, il se distingue de loin à sa couleur rougeâtre.
 
 **Chorologie** : littoral méditerranéen, de la Provence au Roussillon.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Suaedo%20maritimae-Kochietum%20hirsutae.png)

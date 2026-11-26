@@ -29,3 +29,7 @@ Associations :
 - [[Leucobryo glauci-Fagetum sylvaticae]] (H. Passarge ex H. Passarge et Ger. Hofmann 1968) Boeuf 2014 ; 
 - [[Lonicero periclymeni-Fagetum sylvaticae]] H. Passarge 1957 ; 
 - [[Querco roboris-Betuletum pendulae]] Tüxen 1930
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Quercenion%20robori-petraeae.png)

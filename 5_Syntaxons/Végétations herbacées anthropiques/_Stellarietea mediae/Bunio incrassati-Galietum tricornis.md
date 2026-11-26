@@ -21,3 +21,7 @@ Espèces indicatrices : [[Galium tricornutum]], [[Neslia paniculata subsp. thrac
 
 Chorologie BdR (13) : Communauté la plus commune de la classe et certainement la plus variable, elle est présente dans une grande partie du département à l’exception de la Camargue et du nord-ouest. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Bunio%20incrassati-Galietum%20tricornis.png)

@@ -12,3 +12,7 @@ sources:
 Syn : Aphyllantho monspeliensis-Leontodontetum villarsii Braun-Blanq. ex G. Braun-Blanq. 1936 (Ibid. : 185)
 
 Espèces indicatrices : [[Bupleurum rigidum]] ,[[Leucanthemum graminifolium]], [[Linum campanulatum]]
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Aphyllantho%20monspeliensis-Leontodontetum%20hirti.png)

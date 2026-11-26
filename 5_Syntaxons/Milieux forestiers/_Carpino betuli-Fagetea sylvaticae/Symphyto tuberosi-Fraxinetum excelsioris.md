@@ -33,3 +33,7 @@ Chorologie : Bordure sud-est du Massif central ; association connue des Cévenne
 **Axes à développer** : Aire de répartition à préciser ; à rechercher dans le Haut-Vivarais et en rive gauche du Rhône. Le rattachement à la directive « Habitats » est à préciser. Le rattachement aux typologies EUNIS et CORINE Biotopes est aussi à préciser, entre le CORINE Biotopes 41.22 « Frênaies-chênaies et chênaies-charmaies aquitaniennes » et le 41.28 « Chênaies-charmaies sud-alpines ».
 
 **Bibliographie** : Braun-Blanquet J., 1931 ; Choisnet G., 2019 ; Renaux B., Le Hénaff P.-M. & Choisnet G., 2015.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Symphyto%20tuberosi-Fraxinetum%20excelsioris.png)

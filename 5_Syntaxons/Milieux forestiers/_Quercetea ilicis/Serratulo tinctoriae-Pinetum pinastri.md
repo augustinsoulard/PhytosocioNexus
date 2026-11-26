@@ -29,3 +29,7 @@ sources:
 Mandelieu-la-Napoule (Alpes-Maritimes), mont Saint-Martin, rhyolite, alt. 219 m, 23 mai 2024, rec. A 50 %, rec. a 75 %, rec. H 15 %, 35 taxons : [[Pinus pinaster]] 4, [[Erica scoparia]] 3, [[Erica arborea]] 2, [[Phillyrea angustifolia]] 2, [[Arbutus unedo]] 1, [[Rhamnus alaternus]] +, [[Smilax aspera]] +, [[Amelanchier ovalis]] +, [[Brachypodium rupestre]] 2, [[Pteridium aquilinum]] +, Pulicaria odora 1, [[Galatella sedifolia]] subsp. sedifolia 1, [[Calluna vulgaris]] 2, [[Genista pilosa subsp. pilosa]] 1, [[Serratula tinctoria]] 1, [[Pistacia lentiscus]] +, [[Daphne gnidium]] 1, Cormus domestica +, [[Hieracium cinerascens]] +, [[Lavandula stoechas]] 1, [[Lonicera implexa]] +, [[Solidago virgaurea]] subsp. virgaurea 1, [[Quercus ilex]] +, [[Teucrium chamaedrys]] 1, [[Viburnum tinus]] +, [[Anthericum liliago]] 1, Asphodelus macrocarpus subsp. macrocarpus +, [[Urospermum dalechampii]] +, [[Myrtus communis]] +, [[Avenella flexuosa]] +, [[Genista hispanica subsp. hispanica]] 1, [[Betonica officinalis]] 1, [[Rubia peregrina]] 1, [[Viola riviniana]] +.
 
 **Position synsystématique** : [[Quercetea ilicis]] / [[Quercetalia ilicis]] / [[Genisto pilosae-Pinion pinastri]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Serratulo%20tinctoriae-Pinetum%20pinastri.png)

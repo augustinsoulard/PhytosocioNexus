@@ -31,3 +31,7 @@ Le Sisymbrello asperae-Veronicetum anagalloidis se cantonne aux marges des cours
 
 **Syntaxonomie et synsystématique** :
 Ce groupement, présentant une combinaison originale, peut s’intégrer au sein du Centaurio pulchelli-Blackstonion perfoliatae.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sisymbrello%20asperae-Veronicetum%20anagalloidis.png)

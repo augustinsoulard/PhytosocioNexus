@@ -15,3 +15,7 @@ sources:
 **Écologie** : flancs des rochers calcaires à suintements tufeux.
 
 **Chorologie** : association très rare, reléguée sur les rochers bordant le Causse Noir (à l'est de Peyreleau) et le Causse Méjean (gorges du Tarn), autour de 800 m (2 relevés inédits des Causses, Br.-Bl. et Liou Tchen-Ngo).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Carici%20brachystachyos-Pinguiculetum%20caussensis.png)

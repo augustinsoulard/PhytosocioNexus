@@ -17,3 +17,7 @@ Un unique relevé a été réalisé de cette communauté contactée sur alluvion
 
 **Composition floristique** :
 Biscutella gr. lima, [[Centaurea paniculata]], [[Chondrilla juncea]], [[Festuca arvernensis]], [[Satureja montana]], [[Sedum acre]], [[Sedum album]], [[Sedum ochroleucum]], [[Sedum sediforme]], [[Thymus vulgaris]], [[Trigonella wojciechowskii]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Festuca%20arvernensis%20et%20Sedum%20sediforme.png)

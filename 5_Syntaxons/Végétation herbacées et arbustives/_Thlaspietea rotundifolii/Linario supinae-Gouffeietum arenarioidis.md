@@ -27,3 +27,7 @@ sources:
 **Écologie** : recouvre très faiblement la surface des éboulis. Constituée en grande majorité de thérophytes, elle exige pour son développement une chaleur et une insolation très fortes provoquant une intense évaporation, d'où son aspect sub-désertique en été.
 
 **Chorologie** : chaînes littorales de Marseille, éboulis entre 40 et 400 m.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Linario%20supinae-Gouffeietum%20arenarioidis.png)

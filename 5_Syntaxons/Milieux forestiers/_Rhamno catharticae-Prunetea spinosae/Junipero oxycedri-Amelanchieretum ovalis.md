@@ -33,3 +33,7 @@ Groupement spécialisé pauvre en espèces différencié surtout par l’absence
 
 **Syntaxonomie et synsystématique** :
 De par l’absence des éléments des Rhamno-Prunetea, ce groupement se démarque des autres associations connues de l’Amelanchiero-Buxion sempervirentis, constituant au sein de cette alliance une association thermophile.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Junipero%20oxycedri-Amelanchieretum%20ovalis.png)

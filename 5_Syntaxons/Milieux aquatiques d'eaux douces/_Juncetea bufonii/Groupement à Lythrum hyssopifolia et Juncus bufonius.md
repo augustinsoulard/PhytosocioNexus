@@ -33,3 +33,7 @@ Groupement assez pauvre, surtout différencié négativement par l’absence des
 
 **Syntaxonomie et synsystématique** :
 Les communautés réunies présentent une certaine pauvreté floristique et un caractère souvent fragmentaire : de nombreuses stations sont perturbées par les vermillis des sangliers. Il est donc difficile de statuer sur le statut phytosociologique de ce groupement qui pourrait être interprété comme une variante topographique et dégradée du Trifolio lappacei-Juncetum bufonii Choisnet, 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Lythrum%20hyssopifolia%20et%20Juncus%20bufonius.png)

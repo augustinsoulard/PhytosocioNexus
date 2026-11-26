@@ -31,3 +31,7 @@ Capsella bursa-pastoris subsp. bursa-pastoris, [[Crepis sancta]], [[Erodium cicu
 
 **Syntaxonomie et synsystématique** :
 Avec [[Medicago polymorpha]], [[Anisantha diandra]], [[Avena barbata]] , [[Lolium rigidum]] (rare), le groupement peut s’intégrer dans les Brometalia rubenti-tectorum, ordre au sein duquel il ne semble pas avoir d’équivalent connu. Le rattachement à une alliance connue est encore ici problématique.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Podospermo%20laciniati-Medicaginetum%20polymorphae.png)

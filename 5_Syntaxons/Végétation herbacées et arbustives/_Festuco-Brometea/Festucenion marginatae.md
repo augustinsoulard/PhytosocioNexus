@@ -30,3 +30,7 @@ Associations :
 - [[Helictochloo pratensis-Festucetum marginatae]] Boullet in J.-M. Royer et Ferrez 2020 ; 
 - [[Prunello grandiflorae-Linetum appressi]] Boullet in J.-M. Royer et Ferrez 2020 ; 
 - [[Ranunculo graminei-Carthametum mitissimi]] J.L. Verrier ex J.-M. Royer et Ferrez 2020
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Festucenion%20marginatae.png)

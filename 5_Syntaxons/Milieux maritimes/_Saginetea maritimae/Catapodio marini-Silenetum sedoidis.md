@@ -22,3 +22,7 @@ Chorologie BdR (13) : Îles des archipels du Frioul et de Riou, littoral des Cal
 
 Précision dynamique : Cette végétation pionnière s’insère dans les mosaïques de végétation halophile des rochers littoraux du [[Crithmo maritimi-Limonietum pseudominuti]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Catapodio%20marini-Silenetum%20sedoidis.png)

@@ -18,3 +18,7 @@ Espèces indicatrices : [[Anisantha tectorum]] (V), [[Malva neglecta]] (V), [[De
 
 Écologie : dépôts d'ordures et de matières azotées dans les villages, reposoirs de troupeaux. L'association forme parfois des fourrés denses et épineux.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Onopordetum%20acanthii.png)

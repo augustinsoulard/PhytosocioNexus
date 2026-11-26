@@ -20,3 +20,7 @@ Espèces indicatrices : [[Quercus coccifera]], [[Cistus albidus]], [[Juniperus o
 Écologie : Végétation héliophile, xérophile des substrats basiques peu profonds, souvent rocailleux sur calcaires francs. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Majeure partie du département à l'exception de la Camargue et des plaines (Crau, vallées du Rhône et de la Durance).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Quercetum%20cocciferae.png)

@@ -19,3 +19,7 @@ Espèces indicatrices : [[Erica arborea]], [[Arbutus unedo]], [[Cistus monspelie
 Chorologie BdR (13) : Sur les poudingues du Bec de l'Aigle (La Ciotat) et les grès calcaires des environs de Ceyreste.
 
 Communauté peu typique dans les Bouches-du-Rhône où s'intègrent nombre d'espèces du Rhamno lycioidis - Quercion cocciferae.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Erico%20arboreae-Arbutetum%20unedonis.png)

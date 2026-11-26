@@ -22,3 +22,7 @@ Espèces indicatrices : [[**Populus nigra subsp. neapolitana]], [[Alnus incana]]
 Chorologie BdR (13) : Durance.
 
 Précision dynamique : Végétation pouvant succéder dynamiquement aux saulaies arbustives du Salicion elaeagno - daphnoidis. En l'absence de perturbation naturelle liée à la dynamique fluviale, elle évoluera vers une forêt alluviale à bois dur (Populion albae).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phalarido%20arundinaceae-Populetum%20nigrae.png)

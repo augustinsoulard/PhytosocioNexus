@@ -31,3 +31,7 @@ Groupement présentant une grande variabilité liée aux substrats et aux passif
 
 **Syntaxonomie et synsystématique** :
 Par rapport aux communautés rapportées au Brachypodietum phoenicoidis Braun Blanq. 1924, il manque aux communautés ardéchoises de trop nombreux éléments pour pouvoir en être rapprochées (tab. 17). De plus, elles se différencient par une bonne représentation des éléments de l’Helianthemo italici-Aphyllanthion.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Loto%20hirsuti-Brachypodietum%20phoenicoidis.png)

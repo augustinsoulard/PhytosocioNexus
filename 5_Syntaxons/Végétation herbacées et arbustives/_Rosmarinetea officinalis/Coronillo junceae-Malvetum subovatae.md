@@ -22,3 +22,7 @@ Chorologie BdR (13) : Massifs de la partie orientale du département aux exposit
 
 Précision dynamique : Végétation plutôt stable sans réel potentiel évolutif dans des conditions édaphiques et géomorphologiques particulières.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Coronillo%20junceae-Malvetum%20subovatae.png)

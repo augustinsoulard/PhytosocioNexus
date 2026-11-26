@@ -17,3 +17,7 @@ Ce groupement, ordinairement à caractère rudéral, s’observe en contexte pri
 
 **Composition floristique** :
 [[Parietaria judaica]], [[Asplenium trichomanes]], [[Lapsana communis]], [[Sedum dasyphyllum]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Parietaria%20judaica.png)

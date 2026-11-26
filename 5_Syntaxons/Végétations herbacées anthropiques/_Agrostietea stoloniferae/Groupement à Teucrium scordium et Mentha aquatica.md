@@ -17,3 +17,7 @@ Prairie alluviale soumise aux crues des dépressions du lit majeur. Liée à des
 
 **Composition floristique** :
 [[Agrostis stolonifera]], [[Bidens frondosa]], [[Juncus articulatus]], [[Mentha aquatica]], [[Potentilla reptans]], [[Samolus valerandi]], [[Teucrium scordium]], [[Veronica anagalloides]]
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Teucrium%20scordium%20et%20Mentha%20aquatica.png)

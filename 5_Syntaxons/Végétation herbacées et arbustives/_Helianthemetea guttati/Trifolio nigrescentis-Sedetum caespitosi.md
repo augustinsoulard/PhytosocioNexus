@@ -20,3 +20,7 @@ Espèces indicatrices : [[Sedum caespitosum]], [[Herniaria glabra]], [[Plantago 
 Chorologie BdR (13) : Crau près de Mas Thibert.
 
 Le positionnement de cette association dans cette classe est problématique compte tenu du faible nombre d'espèces caractéristiques de la classe mais il en est de même pour d'autres classes potentielles (Poetea bulbosae ?). Cela devra sûrement être revu après une étude plus approfondie.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Trifolio%20nigrescentis-Sedetum%20caespitosi.png)

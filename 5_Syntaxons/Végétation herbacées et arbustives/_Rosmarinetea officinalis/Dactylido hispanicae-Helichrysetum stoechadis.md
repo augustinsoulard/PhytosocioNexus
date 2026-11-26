@@ -20,3 +20,7 @@ sources:
 	- HIC EUR : [[6210]] - [[1240-6]]
 
 ZH : p.p.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Dactylido%20hispanicae-Helichrysetum%20stoechadis.png)

@@ -26,3 +26,7 @@ Associations :
 - [[Quercetum pubescentis-petraeae]] Imchenetzky 1926 nom. invers. et mut. Boeuf 2014 ; 
 - [[Rubio peregrinae-Quercetum pubescentis]] Rameau 1974 ; 
 - [[Trifolio rubentis-Quercetum pubescentis]] Billy ex Renaux et al. 2019
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sorbo%20ariae-Quercenion%20pubescentis.png)

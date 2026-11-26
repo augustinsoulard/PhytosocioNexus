@@ -17,3 +17,7 @@ Espèces indicatrices : [[Quercus ilex]], [[Quercus pubescens]], [[Taxus baccata
 Écologie : Végétation forestière thermophile, mésophile, des substrats basiques sur sols profonds et évolués en ambiance fraîche donc préférentiellement en ubac ou en fond de vallons.
 
 Chorologie BdR (13) : Ubac de la Sainte-Victoire ; vallons encaissés des ubacs de la vallée de Cuges-les-Pins.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Taxo-Quercetum%20ilicis.png)

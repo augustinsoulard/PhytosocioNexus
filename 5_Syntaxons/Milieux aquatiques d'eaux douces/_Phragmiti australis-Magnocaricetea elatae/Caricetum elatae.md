@@ -20,3 +20,7 @@ Espèces indicatrices : [[Carex elata]], [[Galium elongatum]], [[Stachys palustr
 
 Chorologie BdR (13) : Crau humide.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Caricetum%20elatae.png)

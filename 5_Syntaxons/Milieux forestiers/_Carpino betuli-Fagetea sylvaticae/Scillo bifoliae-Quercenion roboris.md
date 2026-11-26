@@ -32,3 +32,7 @@ Associations :
 - [[Primulo vulgaris-Carpinetum betuli]] (Durin et al. 1967) Géhu et Géhu-Franck 1986 ; 
 - [[Scillo bifoliae-Quercetum roboris]] Rameau in J.-M. Royer et al. 2006 ; 
 - [[Stellario holosteae-Carpinetum betuli]] Oberdorfer 1957
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Scillo%20bifoliae-Quercenion%20roboris.png)

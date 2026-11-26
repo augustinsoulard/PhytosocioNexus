@@ -20,3 +20,7 @@ Espèces indicatrices : [[Carex extensa]], [[Juncus maritimus]], [[Limonium narb
 
 Chorologie BdR (13) : Camargue. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Puccinellio%20festuciformis-Juncetum%20maritimi.png)

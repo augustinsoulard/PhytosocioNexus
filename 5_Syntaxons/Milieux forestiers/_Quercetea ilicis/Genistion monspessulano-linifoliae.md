@@ -20,3 +20,7 @@ sources:
 	- HIC EUR : NC
 
 ZH : non
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Genistion%20monspessulano-linifoliae.png)

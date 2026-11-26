@@ -34,3 +34,7 @@ Différenciée négativement par l’absence des taxons marnicoles ([[Blackstoni
 
 **Syntaxonomie et synsystématique** :
 En raison de l’absence des taxons marnicoles, ce groupement se démarque bien des associations connues du Bas-Languedoc ( Aphyllantho monspeliensis-Leontodetum villarsii Braun-Blanq. 1936, Onobrychidetum supinae Braun-Blanq. 1936). Le groupement réunit surtout des relevés du Gard (6 rel.) réalisé au nord-est de Nîmes (Bois de Lens). Il semble en fait que les aphyllanthaies déjà connues dans la littérature ( Aphyllantho monspeliensis-Leontodetum vilarsii notamment), principalement décrites au travers de relevés synthétiques, intègrent ce syntaxon qui, de par ses cartactéristiques écologiques et floristiques (bien mises en évidence par les analyses), constitue à nos yeux une association particulière.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Bupleuro%20rigidi-Aphyllanthetum%20monspeliensis.png)

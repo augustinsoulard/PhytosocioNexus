@@ -22,3 +22,7 @@ Espèces indicatrices : [[Alnus incana]], [[Alnus glutinosa]], [[Carex pendula]]
 Chorologie BdR (13) : Durance.
 
 Précision dynamique : Evolution possible vers une frênaie ou frênaie-ormaie qui reste à étudier.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Alno%20incanae-Salicetum%20albae.png)

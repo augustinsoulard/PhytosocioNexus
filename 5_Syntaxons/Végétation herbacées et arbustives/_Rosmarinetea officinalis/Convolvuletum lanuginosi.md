@@ -17,3 +17,7 @@ Espèces indicatrices : [[Convolvulus lanuginosus]] (3), [[Helianthemum violaceu
 
 Espèces compagnes : [[Brachypodium retusum]], [[Polygala rupestris]], [[Thymus vulgaris]], [[Atractylis humilis]], [[Argyrolobium zanonii]], [[Chamaerops humilis|]], [[Genista scorpius]], [[Lotus dorycnium]], [[Juniperus phoenicea]], [[Cistus monspeliensis]], [[Coronilla glauca]], [[Ononis minutissima]], [[Eryngium campestre]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Convolvuletum%20lanuginosi.png)

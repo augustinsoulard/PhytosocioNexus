@@ -18,3 +18,7 @@ Syn. : Lathyro latifolii - Quercetum pubescentis Loisel 1976 nom. ined. et inval
 Espèces indicatrices : [[Quercus pubescens]], [[Quercus ilex]], [[Lonicera implexa]], [[Asparagus acutifolius]], [[Ruscus aculeatus]], [[Rubia peregrina]], [[Cytisophyllum sessilifolium]], [[Hippocrepis emerus]].
 
 Écologie : Végétation forestière thermophile, mésophile, des substrats basiques sur sols profonds et évolués. Elle s'observe donc principalement dans les plaines ou en ambiance fraîche (ubacs). Étage mésoméditerranéen.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Lathyro%20latifolii-Quercetum%20pubescentis.png)

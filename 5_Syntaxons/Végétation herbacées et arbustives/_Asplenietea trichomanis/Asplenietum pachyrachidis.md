@@ -31,3 +31,7 @@ Ce groupement est lié aux anfractuosités des parois calcaires en contexte semi
 
 **Syntaxonomie et synsystématique** :
 L’Asplenietum pachyrachidis J.-M. Royer in J.-M. Royer et al. 2006 est une association décrite de Bourgogne et de Champagne qui se développe dans les balmes chaudes et ensoleillées (ROYER et al. 2006). Par rapport aux relevés princeps, il manque Sesleria caerulea et Campanula rotundifolia aux relevés bas-vivarois qui hébergent en plus Sedum dasyphyllum et [[Asplenium ceterach]]. Nous proposons de définir une race méridionale à Asplenium ceterach de cette association caractérisée par la combinaison d’Asplenium pachyrachis et d’A. ruta-muraria.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Asplenietum%20pachyrachidis.png)

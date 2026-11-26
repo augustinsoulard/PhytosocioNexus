@@ -17,3 +17,7 @@ Espèces indicatrices : [[Quercus pubescens]], [[Pinus pinaster]], [[Erica scopa
 Écologie : Végétation mésoxérophile et thermophile des sols profonds sur substrat gréseux en ubacs et bas de versants. Étage mésoméditerranéen supérieur.
 
 Chorologie BdR (13) : Ubac de l'ermitage Saint-Jean-du-Puy.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Quercus%20pubescens%20et%20Erica%20scoparia.png)

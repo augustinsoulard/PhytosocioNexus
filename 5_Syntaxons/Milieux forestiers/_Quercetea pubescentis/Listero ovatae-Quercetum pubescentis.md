@@ -27,3 +27,7 @@ Chorologie Champagne et Est de l'Île-de-France : aire géographique centrée su
 
 Affinités floristiques avec le [[Rubio peregrinae-Quercetum pubescentis]] et le [[Quercetum pubescentis-petraeae]], mais originalité floristique bien marquée. Deux races géographiques : race champenoise (différentielles [[Rosa pimpinellifolia]], [[Fragaria viridis]], [[Viola alba]]) et race vallée de la Marne–Tardenois ([[Aegonychon purpurocaeruleum]]). Holotypus de l'association et de la race champenoise : relevé 165, forêt domaniale de la Perthe à Plancy-l'Abbaye (Aube) ; holotypus de la race vallée de la Marne : relevé 3, coteau de Tincourt (Marne). En Champagne crayeuse, succession passant par les fruticées du [[Frangulo alnae-Prunetum mahaleb]] et les pinèdes du [[Pyrolo chloranthae-Pinetum sylvestris]], via des phases pionnières du [[Listero ovatae-Betuletum pendulae]].
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Listero%20ovatae-Quercetum%20pubescentis.png)

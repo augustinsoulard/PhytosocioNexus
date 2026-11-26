@@ -34,3 +34,7 @@ Var. à [[Sherardia arvensis]] (pa3a) avec [[Valerianella eriocarpa]], de transi
 
 **Syntaxonomie et synsystématique** :
 Ce groupement original, héberge sporadiquement quelques éléments thermophiles, qui caractérisent les pelouses méridionales [ Sideritidi romanae-Brachypodion distachyae (Braun-Blanq. 1925) B.Foucault 1999] : [[Coronilla scorpioides]] , [[Sideritis romana]], [[Polygala monspeliaca]] , [[Linum trigynum]]. Ces espèces le différencient notamment du Lino collini-Arenarietum controversae Verrier 1979, association décrite du Quercy. Il n'en reste pas moins marqué d'une teinte septentrionale annonçant l'Alysso-Sedion (ou l'Acini arvensis-Arenarion serpyllifoliae B.Foucault 1999), avec [[Crepis foetida]], [[Teucrium botrys]], [[Acinos arvensis]] , [[Veronica arvensis]]. Il peut être considéré comme vicariant septentrional du Bupleurum baldense-Brachypodium distachyon -G B.Foucault 1999 (aile thérophytique du Phlomido lychnitidis-Brachypodietum ramosi Braun-Blanq. 1924, FOUCAULT 1999), association languedocienne. Il manque, en effet, dans le groupement ardéchois, de nombreux éléments méridionaux ([[Echinaria capitata]], [[Medicago disciformis]], [[Hippocrepis ciliata]]…).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Bupleuro%20baldensis-Bombycilaenetum%20erectae.png)

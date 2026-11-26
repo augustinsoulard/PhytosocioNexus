@@ -33,3 +33,7 @@ Groupement marqué par les espèces prairiales hygrophiles ([[Rorippa sylvestris
 
 **Syntaxonomie et synsystématique** :
 Ce groupement du Paspalo distichi-Agrostion semiverticillatae Braun-Blanq. in Braun-Blanq., Roussine & Nègre 1952, constitue l’aile vivace du Paspalo distichi-Agrostietum verticillatae BraunBlanq., Gajewski, Wraber & Walas 1936, tel que le conçoit TCHOU (1948) ou BRAUN-BLANQUET, ROUSSINE & NÈGRE (1952). L’examen du relevé synthétique princeps de l’association, décrite du Bas-Languedoc « des grèves limoneuses de l’Orb en aval de Mons » (BRAUN-BLANQUET et al. 1936), montre que, malgré l’absence dans nos relevés de Polypogon viridis et de [[Paspalum dilatatum]] (taxons sporadiquement présents dans la dition dans des communautés similaires), aucune différence significative n’existe avec les communautés ardéchoises (tab. 4).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Paspalo%20distichi-Agrostietum%20verticillatae.png)

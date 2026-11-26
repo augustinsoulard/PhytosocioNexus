@@ -10,3 +10,7 @@ Écologie : Végétation hygrophile de bordure des marais sur substrats alcalin
 Chorologie BdR : Crau humide. Bibliographie : Molinier & Tallon 1950 ; Molinier 1980 ; Devaux et al. 1983.
 
 #association 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Inulo%20viscosae-Schoenetum%20nigricantis.png)

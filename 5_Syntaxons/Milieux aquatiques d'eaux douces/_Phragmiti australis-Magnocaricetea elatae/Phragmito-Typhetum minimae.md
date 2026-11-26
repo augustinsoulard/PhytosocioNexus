@@ -18,3 +18,7 @@ Espèces indicatrices : [[Typha minima]], [[Phragmites australis]], [[Scirpoides
 
 Chorologie BdR (13) : Durance.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phragmito-Typhetum%20minimae.png)

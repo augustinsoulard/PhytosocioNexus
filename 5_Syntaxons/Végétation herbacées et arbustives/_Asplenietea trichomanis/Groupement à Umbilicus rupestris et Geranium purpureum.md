@@ -17,3 +17,7 @@ Plusieurs communautés fragmentaires ont été observées au niveau de surplombs
 
 **Composition floristique** :
 [[Anisantha madritensis]], [[Geranium purpureum]], [[Pseudoturritis turrita]], [[Saxifraga tridactylites]], [[Umbilicus rupestris]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Umbilicus%20rupestris%20et%20Geranium%20purpureum.png)

@@ -18,3 +18,7 @@ sources:
 **Écologie** : écologie semblable à celle de l'Elatineturn macropodae, mais exige une période de submersion plus courte ; dès le mois d'avril, il est déjà à sec.
 
 **Chorologie** : observé uniquement sur le gravier basaltique du plateau de Roquehaute, en bordure des mares peu profondes. [[Myosurus heldreichii]] est également présent dans un stade terminal du [[Suaedetum fruticosae]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Myosuro%20minimi-Bulliardetum%20vaillantii.png)

@@ -22,3 +22,7 @@ Chorologie BdR (13) : Îles et îlots des archipels du Frioul et de Riou.
 
 Précision dynamique : Cette végétation semble dériver, par eutrophisation, de l’extrême dégradation des sols occupés auparavant par les fourrés littoraux du [[Myrto communis-Pistacietum lentisci]] ([[Quercetea ilicis]]). 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Dactylo%20hispanicae-Malvetum%20arboreae.png)

@@ -19,3 +19,7 @@ Espèces indicatrices : [[Asphodelus ayardii]], [[Stipa capillata]], [[Euphorbia
 Écologie : Végétation héliophile et xérophile des substrats perméables sur sols quaternaires (galets plus ou moins cimentés) peu profonds de la Crau (paléodelta de la Durance). Le pâturage ovin séculaire associé à la présence d'une « dalle » constituée, à quelques centimètres de profondeur, du cimentage des galets par le calcaire des eaux de ruissellement (poudingue) limite fortement toute dynamique végétale et l'évolution des sols. Étage mésoméditerranéen.
 
 Chorologie BdR (13) : Crau sèche (secteurs quaternaires).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Asphodeletum%20ayardii.png)

@@ -15,3 +15,7 @@ Syn. : ass. à Elatine macropoda - Herniaria glabra Braun-Blanq. 1931 ; associat
 **Description :** Végétation annuelle d'expression tardivernale, au recouvrement assez dense mais généralement sur des surfaces très réduites, dominée par [[Damasonium polyspermum]] ([[Elatine macropoda]] n'a pas été observée dans ce milieu dans les Bouches-du-Rhône).
 
 Espèces indicatrices : [[Damasonium polyspermum]], [[Lythrum tribracteatum]], [[Myosurus minimus]], [[Herniaria glabra]], [[Riella battandieri|Riella batandieri]], [[Elatine macropoda]] 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Elatinetum%20macropodae.png)

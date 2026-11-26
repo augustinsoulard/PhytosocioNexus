@@ -21,3 +21,7 @@ Espèces indicatrices : [[Oxybasis chenopodioides]], [[Crypsis aculeata]], [[Cre
 Chorologie BdR (13) : Étang du Pourra, étang de Bolmon, Vigueirat ; Camargue (?).
 
 Son positionnement dans l'alliance du Heleochloion schoenoidis est un peu arbitraire et elle pourrait tout aussi bien s'intégrer au sein des Thero-Salicornietea. Les végétations à Crypsis aculeata de Camargue mériteraient d'être étudiées plus précisément.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Chenopodio%20chenopodioidis-Crypsietum%20aculeatae.png)

@@ -9,3 +9,7 @@ Associations :
 - [[Helianthemo hirti-Stipetum ibericae]] Noble & Van Es in Royer &  Ferrez in prép.
 
 #alliance 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Astragalo%20incani%20-%20Festucion%20cinereae.png)

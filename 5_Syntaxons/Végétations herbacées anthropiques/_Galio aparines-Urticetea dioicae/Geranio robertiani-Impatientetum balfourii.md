@@ -29,3 +29,7 @@ sources:
 Colomars (Alpes-Maritimes), ravin des Vallières, alluvions, alt. 185 m, 12 mai 2023, rec. 75 %, 16 taxons : [[Geranium robertianum]] 1, Impatiens balfourii 4, [[Carex pendula]] 2, [[Lactuca muralis]] +, [[Galium aparine]] +, [[Brachypodium sylvaticum]] 1, [[Viola reichenbachiana]] 1, [[Symphytum tuberosum]] +, [[Urtica dioica]] +, [[Glechoma hederacea]] 1, [[Hedera helix]] 2, [[Rubia peregrina]] +, [[Primula vulgaris]] subsp. vulgaris +, [[Sanicula europaea]] 1, [[Clematis vitalba]] +, [[Poa trivialis]] +.
 
 **Position synsystématique** : [[Galio aparines-Urticetea dioicae]] / [[Impatienti noli-tangere-Stachyetalia sylvaticae]] / [[Impatienti noli-tangere-Stachyion sylvaticae]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Geranio%20robertiani-Impatientetum%20balfourii.png)

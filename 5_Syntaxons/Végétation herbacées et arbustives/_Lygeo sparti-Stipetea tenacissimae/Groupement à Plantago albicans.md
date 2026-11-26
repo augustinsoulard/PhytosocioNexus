@@ -21,3 +21,7 @@ Espèces indicatrices : [[Plantago albicans]], [[Convolvulus lineatus]] (rare).
 Chorologie BdR (13) : Contrefort occidental du plateau d'Arbois entre Vitrolles, Velaux et Ventabren ; autrefois développé mais aujourd'hui fragmentaire dans la plaine de l'Arc au nord de Berre-l'Étang.
 
 Végétation peu caractérisée, méconnue et peut-être aujourd'hui trop dégradée pour être rattachée à une association existante.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Plantago%20albicans.png)

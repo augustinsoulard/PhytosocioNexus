@@ -20,3 +20,7 @@ Espèces indicatrices : [[Schoenoplectus litoralis]], [[Bolboschoenus maritimus]
 
 Chorologie BdR (13) : Embouchure du Rhône.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Scirpetum%20littoralis.png)

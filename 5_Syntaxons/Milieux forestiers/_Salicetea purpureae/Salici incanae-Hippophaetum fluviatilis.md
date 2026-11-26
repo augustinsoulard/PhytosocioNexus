@@ -22,3 +22,7 @@ Espèces indicatrices : [[Hippophae rhamnoides subsp. fluviatilis]], [[Salix pur
 Chorologie BdR (13) : Vallée de la Durance, entre la clue de Mirabeau et la Roque-d'Anthéron ; relictuelle voire éteinte.
 
 Précision dynamique : Végétation pionnière assez mature succédant au Myricarietum germanicae Beger ex Soó 1927.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Salici%20incanae-Hippophaetum%20fluviatilis.png)

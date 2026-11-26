@@ -21,3 +21,7 @@ Espèces indicatrices : [[Myosotis pusilla]], [[Limonium echioides]], [[Catapodi
 Chorologie BdR (13) : Principalement en Camargue ; forme appauvrie dans les sables de l'île de Riou.
 
 Le positionnement de cette association dans la classe pose problème et les espèces caractéristiques strictes des Stipo - Trachynietea, bien que nombreuses, y sont finalement pour la plupart peu fréquentes. Son caractère légèrement halophile, la présence d'espèces des Saginetea maritimae et de quelques espèces des Stipo capensis - Bupleuretilia semicompositi plaident pour un rattachement à la présente alliance mais sans grande conviction. La haute fréquence d'un cortège d'espèces psammophiles (Cerastium semidecandrum, Hypochaeris glabra, Limonium echioides) pourrait peut-être justifier un rapprochement avec d'autres pelouses plus continentales (révision des Phleo arenarii - Cerastietalia semidecandri ?) mais cela nécessiterait une synthèse à une autre échelle.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Staticetum%20echioidis.png)

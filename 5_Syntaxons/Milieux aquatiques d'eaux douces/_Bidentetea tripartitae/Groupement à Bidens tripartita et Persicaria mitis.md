@@ -29,3 +29,7 @@ Note (13) : il manque des relevés récents pour confirmer le groupement identif
 **Écologie** : lieux humides et vaseux, bordant les eaux tranquilles.
 
 **Chorologie** : assez fragmentaire en Languedoc (Vistre), Camargue et Crau. Bien mieux représentée en Europe moyenne et en Italie septentrionale, aux confins de la Région méditerranéenne.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Bidens%20tripartita%20et%20Persicaria%20mitis.png)

@@ -40,3 +40,7 @@ Associations :
 - [[Silao silai-Colchicetum autumnalis]] B. Foucault 2016 ; 
 - [[Stellario gramineae-Festucetum rubrae]] J.-M. Royer et B. Didier in J.-M. Royer et al. 2006 ; 
 - [[Klaseo lycopifoliae-Filipenduletum vulgaris]] Offerhaus et Bravet in B. Foucault 2022
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Colchico%20autumnalis-Arrhenatherenion%20elatioris.png)

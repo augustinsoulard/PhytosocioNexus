@@ -21,3 +21,7 @@ Espèces indicatrices : [[Cirsium monspessulanum]], [[Scirpoides holoschoenus su
 Chorologie BdR (13) : Environs du Cengle dans le massif de la Sainte-Victoire (le long du Bayon), sources de la chaîne de l'Étoile ; Sainte-Baume ; à rechercher dans la vallée de la Durance entre La Roque-d'Anthéron et Saint-Paul-lès-Durance.
 
 Une confusion a longtemps régné du fait de l'utilisation du terme « Holoschoenetum » qui a en réalité désigné deux communautés distinctes quoique physionomiquement proches. Les relevés de Crau (Molinier & Tallon 1950) et des bords de l'étang de Berre (Molinier 1948) relèvent ainsi plutôt des Filipendulo ulmariae - Convolvuletea sepium
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Cirsio%20monspessulani-Holoschoenetum%20vulgaris.png)

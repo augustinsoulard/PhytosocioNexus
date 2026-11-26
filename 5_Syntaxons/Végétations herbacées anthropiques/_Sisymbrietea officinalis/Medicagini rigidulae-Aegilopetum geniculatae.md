@@ -17,3 +17,7 @@ Espèces indicatrices : [[Hordeum murinum subsp. leporinum]].
 Écologie : Végétation herbacée xérophile, subnitrophile, basiphile, des substrats plus ou moins argileux s'assèchant rapidement l'été, qui se développe après abandon des terres cultivées ou sur des secteurs régulièrement perturbés et pâturés (talus, bords des pistes et chemins, environs des bergeries). Étage mésoméditerranéen à supraméditerranéen.
 
 Chorologie BdR (13) : Association identifiée sur les reliefs de l'est du département : bois de la Lare, ermitage de Saint-Jean du Puy ; à rechercher ailleurs.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Medicagini%20rigidulae-Aegilopetum%20geniculatae.png)

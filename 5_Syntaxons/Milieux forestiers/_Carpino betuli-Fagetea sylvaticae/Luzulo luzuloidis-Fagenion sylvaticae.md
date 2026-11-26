@@ -24,3 +24,7 @@ ZH : non
 ![[160 - Luzulo luzuloidis-Fagenion sylvaticae.jpg]]
 Associations :
 - [[Luzulo luzuloidis-Fagetum sylvaticae]] Meusel 1937
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Luzulo%20luzuloidis-Fagenion%20sylvaticae.png)

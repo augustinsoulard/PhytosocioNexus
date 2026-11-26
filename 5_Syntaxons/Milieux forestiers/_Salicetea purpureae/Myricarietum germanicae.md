@@ -22,3 +22,7 @@ Espèces indicatrices : [[Myricaria germanica]], [[Salix purpurea]], [[Hippophae
 Chorologie BdR (13) : Vallée de la Durance où cette communauté est au mieux marginale sur le cours inférieur en aval de Pertuis – Meyrargues ; peut-être même aujourd'hui éteinte.
 
 Précision dynamique : Végétation pionnière succédant aux communautés du Chenopodion rubri.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Myricarietum%20germanicae.png)

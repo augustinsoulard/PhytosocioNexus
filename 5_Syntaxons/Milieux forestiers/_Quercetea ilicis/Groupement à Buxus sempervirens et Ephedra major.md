@@ -21,3 +21,7 @@ Chorologie BdR (13) : Alpilles.
 Précision dynamique : Cette végétation est globalement stable.
 
 Cette végétation est parfois considérée comme une simple variante du Buxo sempervirentis - Juniperetum phoeniceae mais ses exigences écologiques nous semblent justifier son individualisation. Des relevés complémentaires permettront de mieux cerner sa composition floristique.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Buxus%20sempervirens%20et%20Ephedra%20major.png)

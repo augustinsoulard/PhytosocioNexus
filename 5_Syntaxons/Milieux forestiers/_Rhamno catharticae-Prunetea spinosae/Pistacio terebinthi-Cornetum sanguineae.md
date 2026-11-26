@@ -34,3 +34,7 @@ Ce groupement est lié à des sols épais colluvionnés au niveau de fonds de va
 
 **Syntaxonomie et synsystématique** :
 Vicariant septentrional du Groupement à [[Viburnum tinus]] , Crataegus monogyna et Ulmus campestris R.J.Loisel 1976, différencié par les taxons supramediterranéen de l’Amelanchiero-Buxion sempervirentis et la meilleur représentation des éléments des Rhamno-Prunetea spinosae (en plus [[Cornus sanguinea]], [[Ligustrum vulgare]], [[Prunus spinosa]]). Cette association illustre un phénomène de compensation écologique (lié à la réserve en eau des sols épais) permettant le développement dans le domaine méditerranéen de groupements caducifoliés des Rhamno-Prunetea spinosae. Au sein de cette classe, le Pistacio terebinthi-Cornetum sanguineae prend place dans l’Amelanchiero-Buxion sempervirentis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Pistacio%20terebinthi-Cornetum%20sanguineae.png)

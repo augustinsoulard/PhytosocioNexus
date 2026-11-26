@@ -30,3 +30,7 @@ Cette pelouse est liée aux hautes terrasses (plus de 3 m par rapport au niveau 
 
 **Syntaxonomie et synsystématique** :
 Le faible nombre de relevés réunis et leur réalisation tardive ne permettent pas de statuer sur la synsystématique de ce groupement qui présente toutefois des affinités avec le Sileno armeriaeCorynephoretum canescentis Billy ex Felzines & Loiseau 2007, association liée au Massif central, connue des hautes vallées de la Loire, de l’Allier et de la Truyère (SEYTRE 2005, LOISEAU & FELZINES 2007). La présence dans nos relevés de [[Ranunculus monspeliacus]], [[Oreoselinum nigrum]], pourrait présager une association originale vicariante méridionale. Deux relevés effectués sur des communautés riches en espèces pelousaires (rel. A1 & A2 tab. 31) illustrent le lien dynamique existant entre le Festuco arvernensis-Artemisietum campestris Loiseau & Felzines 2010 et les pelouses à [[Corynephorus canescens]]. Au regard du tableau synthétique de LOISEAU & FELZINES (2007), ces communautés semblent pouvoir être rapprochées du Sedo micranthi-Corynephorion canescentis Loiseau & Felzines 2007.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Oreoselinum%20nigrum%20et%20Corynephorus%20canescens.png)

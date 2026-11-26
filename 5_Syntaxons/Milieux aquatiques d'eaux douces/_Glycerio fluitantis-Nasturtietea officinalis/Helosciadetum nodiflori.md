@@ -20,3 +20,7 @@ Espèces indicatrices : [[Helosciadium nodiflorum]], [[Nasturtium officinale]], 
 
 Chorologie BdR (13) : Crau humide.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Helosciadetum%20nodiflori.png)

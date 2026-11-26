@@ -34,3 +34,7 @@ Associations :
 - [[Ononido pusillae-Brometum erecti]] Quantin ex J.-M. Royer in Ferrez et al. 2011 ; 
 - [[Teucrio montani-Fumanetum procumbentis]] Pabot 1940 ; 
 - [[Xerobrometum erecti]] Braun-Blanquet 1931
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Xerobromenion%20erecti.png)

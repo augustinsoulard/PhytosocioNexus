@@ -19,3 +19,7 @@ Espèces indicatrices : [[Polypogon viridis]], [[Agrostis stolonifera]], [[Paspa
 Écologie : Végétation eutrophile, mésohygrophile et thermophile des limons gras et humides en bordure des cours d'eau à débit variable ou en ceinture des marécages (Crau).
 
 Chorologie BdR (13) : Très ponctuelle en Crau, à rechercher ailleurs sur les bords des cours d'eau.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Paspalo%20distichi-Agrostietum%20semiverticillatae.png)

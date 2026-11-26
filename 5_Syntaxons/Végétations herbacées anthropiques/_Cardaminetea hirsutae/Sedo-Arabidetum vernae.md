@@ -17,3 +17,7 @@ Espèces indicatrices : [[Arabis verna]], [[Hornungia petraea]], [[Centranthus c
 Écologie : Végétation pionnière, d'expression vernale, thermophile, hémisciaphile, subnitrophile, mésoxérophile, des substrats superficiels des replats rocheux calcaires et des éboulis fixés couverts de bryophytes en condition ombragée et généralement en exposition nord. Étage mésoméditerranéen à supraméditerranéen.
 
 Chorologie BdR (13) : Reliefs de la partie orientale du département : piémonts de la Sainte-Baume, Dents de Roque Forcade, Bassan, massif de l'Étoile, montagne Sainte-Victoire, montagne des Ubacs, etc.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sedo-Arabidetum%20vernae.png)

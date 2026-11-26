@@ -35,3 +35,7 @@ Sous-unités :
 - sous-ass. *melicetosum minutae* Mol. — Provence occidentale : groupement photophile et thermophile des fentes des rochers calcaires exposés au Midi, bien découverts, à faible altitude. Sur le littoral, occupe parfois les premiers rochers au-dessus du niveau marin ; atteint exceptionnellement 650 m (massif d'Allauch) et 850 m (chaîne de Sainte-Victoire). Au-dessus de 300 m, [[Melica minuta]] et [[Jasonia glutinosa]] disparaissent, remplacées par [[Teucrium flavum]] et [[Mercurialis annua subsp. huetii]].
 
 ---
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Phagnalo%20sordidi-Asplenietum%20petrarchae.png)

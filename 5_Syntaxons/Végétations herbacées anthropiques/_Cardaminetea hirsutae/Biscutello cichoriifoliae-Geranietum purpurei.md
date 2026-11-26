@@ -31,3 +31,7 @@ Les variations mises en évidence sont liées à la maturité des communautés. 
 
 **Syntaxonomie et synsystématique** :
 Au regard des dernières synthèses (DE FOUCAULT 1999, 2009, 2012), de telles communautés à Biscutella cichoriifolia ne semblent pas avoir été mises en évidence dans de précédents travaux. Le Biscutello cichoriifoliae-Geranietum purpurei apparaît à la charnière entre ourlets vernaux, pelouses annuelles ([[Saxifraga tridactylites]] , [[Hornungia petraea]] , [[Euphorbia segetalis]]) et friches des Brometalia rubenti-tectori ( [[Anisantha madritensis]] , Bromus gr. hordeaceus, [[Orlaya grandiflora]] ). La présence de [[Cardamine hirsuta]], [[Geranium lucidum]] , [[Fumaria capreolata]] (rare) et la synécologie du groupement (balmes et vires semi-ombragées d’exposition nord) suggèrent un rattachement aux Cardaminetea hirsuti. Le rapprochement au niveau de l’alliance est problématique, car aucune des différentielles mises en avant par DE FOUCAULT (2009) pour les alliances connues n’est présente.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Biscutello%20cichoriifoliae-Geranietum%20purpurei.png)

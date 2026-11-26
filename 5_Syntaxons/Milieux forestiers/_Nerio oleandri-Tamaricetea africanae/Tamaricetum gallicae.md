@@ -20,3 +20,7 @@ Chorologie BdR (13) : Camargue et bordures de l'étang de Berre.
 
 Précision dynamique : Stade ultime de l'évolution de la végétation sur substrat sablo-limoneux salé.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Tamaricetum%20gallicae.png)

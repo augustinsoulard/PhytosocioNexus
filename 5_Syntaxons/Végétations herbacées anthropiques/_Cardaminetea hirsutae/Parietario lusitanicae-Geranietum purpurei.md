@@ -21,3 +21,7 @@ Espèces indicatrices : [[Parietaria lusitanica]], [[Geranium purpureum]], [[Ger
 Chorologie BdR (13) : Massifs calcaires du département.
 
 Association décrite du sud de la péninsule Ibérique et placée par de Foucault (2009) dans l'alliance du Parietarion lusitanicae - mauritanicae. Nos relevés provençaux des Bouches-du-Rhône et du Var n'en diffèrent globalement que par l'absence d'Anthriscus caucalis et il ne nous semble pas opportun de proposer une nouvelle association. Les relevés de l'Hérault de Sutter (1973) peuvent également s'y intégrer. La variabilité mineure de la communauté autour d'un noyau constant plaiderait plutôt pour la définition d'éventuelles sous-associations régionales. L'association semble par contre mieux positionnée dans l'alliance du Valantio muralis - Galion muralis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Parietario%20lusitanicae-Geranietum%20purpurei.png)

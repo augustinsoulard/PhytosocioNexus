@@ -35,3 +35,7 @@ Associations :
 - [[Potentillo caulescentis-Saxifragetum cebennensis]] Braun-Blanquet 1915 ; 
 - [[Primulo marginatae-Valerianetum saliuncae]] Lavagne 1963 ; 
 - [[Sileno saxifragae-Asplenietum fontani]] Molinier 1934
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potentillenion%20caulescentis.png)

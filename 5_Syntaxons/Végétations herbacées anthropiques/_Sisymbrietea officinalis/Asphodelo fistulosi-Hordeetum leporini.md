@@ -19,3 +19,7 @@ Espèces indicatrices : [[Asphodelus fistulosus]], [[Hordeum murinum subsp. lepo
 Écologie : Végétation herbacée rudérale, xérophile, thermophile, des terrains aménagés non régulièrement travaillés en profondeur et régulièrement fauchés (bords des routes, parterres en secteur urbain, friches en bordure de zones urbanisées). Étage mésoméditerranéen inférieur.
 
 Chorologie BdR (13) : Environs du port du Frioul, zones urbaines de Marseille (Notre-Dame de la Garde, etc.), de Fos-sur-Mer ; certainement ailleurs le long des grands axes routiers du littoral du département.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Asphodelo%20fistulosi-Hordeetum%20leporini.png)

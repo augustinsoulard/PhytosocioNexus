@@ -26,3 +26,7 @@ Associaitons :
 - [[Carici albae-Tilietum cordatae]] T. Müller et Görs 1958 ; 
 - [[Lithospermo purpurocaerulei-Carpinetum betuli]] (Issler 1926) Oberdorfer 1957 ; 
 - [[Stellario holosteae-Quercetum petraeae]] (Issler 1926) Boeuf et N. Simler 2011
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Carpinenion%20betuli.png)

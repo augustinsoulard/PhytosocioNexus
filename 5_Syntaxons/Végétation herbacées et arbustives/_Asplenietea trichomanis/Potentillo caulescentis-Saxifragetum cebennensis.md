@@ -23,3 +23,7 @@ Syn. : Ass. à Potentilla caulescens et Saxifraga cebennensis Br.-Bl. 1915 ; Pot
 **Espèces indicatrices :** [[Arenaria hispida]] (V⁺), [[Chaenorhinum origanifolium]] (IV⁺), [[Kernera saxatilis]] (V⁺), [[Erinus alpinus]] (III⁺), [[Draba aizoides]] ssp. saxigena (II⁺).
 
 **Écologie :** fréquente à toute exposition dans les rocailles dolomitiques friables du Larzac et du Causse Noir entre 600–800 m, où elle occupe généralement de petites surfaces. Meilleur développement à l'ombre ; s'installe même dans les fissures des roches surplombantes. Taux de CO₃Ca de la terre fine toujours très élevé (≈ 50 %).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Potentillo%20caulescentis-Saxifragetum%20cebennensis.png)

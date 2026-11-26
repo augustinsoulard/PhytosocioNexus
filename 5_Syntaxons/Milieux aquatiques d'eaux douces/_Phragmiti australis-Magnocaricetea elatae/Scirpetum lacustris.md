@@ -20,3 +20,7 @@ Espèces indicatrices : [[Schoenoplectus lacustris]].
 
 Chorologie BdR (13) : Plutôt rare : Crau humide, Durance et potentiellement ponctuelle ailleurs.
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Scirpetum%20lacustris.png)

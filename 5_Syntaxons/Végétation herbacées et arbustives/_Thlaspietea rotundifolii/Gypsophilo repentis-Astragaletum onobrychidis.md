@@ -27,3 +27,7 @@ sources:
 Ilonse (Alpes-Maritimes), lit de la Tinée, Costa Vaère, alluvions, alt. 444 m, 12 octobre 2004, rec. 5 %, 35 taxons : Gypsophila repens 1, Astragalus onobrychis 1, [[Ononis natrix]] 1, Chamaenerion dodonaei 1, [[Ptychotis saxifraga]] 1, [[Coincya monensis subsp. cheiranthos]] 1, [[Scrophularia canina subsp. canina]] 1, [[Rumex scutatus]] 1, [[Silene vulgaris]] subsp. prostrata 1, Tolpis staticifolia +, Linaria alpina +, [[Melilotus albus]] 1, [[Tussilago farfara]] 1, [[Daucus carota]] +, [[Reseda lutea]] 1, [[Artemisia vulgaris]] 1, [[Plantago lanceolata]] +, [[Clinopodium nepeta]] subsp. nepeta +, [[Picris hieracioides]] +, [[Astragalus monspessulanus subsp. monspessulanus]] 1, [[Poterium sanguisorba]] +, [[Artemisia campestris subsp. glutinosa]] +, [[Anthyllis vulneraria]] +, [[Astragalus sempervirens]] subsp. sempervirens 1, [[Eupatorium cannabinum subsp. cannabinum]] +, [[Elymus caninus]] +, [[Ononis rotundifolia]] 1, [[Minuartia rostrata]] +, [[Salix eleagnos]] 1, [[Populus nigra subsp. neapolitana]] 1, [[Clematis vitalba]] +, [[Robinia pseudoacacia]] +, [[Satureja montana]] +, [[Carpinus ostrya]] +, [[Ailanthus altissima]] +.
 
 **Position synsystématique** : [[Thlaspietea rotundifolii]] / [[Epilobietalia fleischeri]] / [[Epilobion fleischeri]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Gypsophilo%20repentis-Astragaletum%20onobrychidis.png)

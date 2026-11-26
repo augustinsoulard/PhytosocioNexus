@@ -44,3 +44,7 @@ Associations :
 - [[Spergulario rupicolae-Limonietum dodartii]] Géhu et al. 1984 ; 
 - [[Spergulario rupicolae-Limonietum occidentalis]] Bioret et Géhu 2008 ; 
 - [[Spergulario rupicolae-Puccinellietum maritimae]] Gallet et Bioret 2014
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Crithmo%20maritimi-Limonienion%20binervosi.png)

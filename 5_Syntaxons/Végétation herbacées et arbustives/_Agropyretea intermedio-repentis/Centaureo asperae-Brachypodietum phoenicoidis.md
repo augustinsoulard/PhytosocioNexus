@@ -31,3 +31,7 @@ Var. type (or3a), Var. à [[Bothriochloa ischaemum]] (or3b) des substrats plus s
 
 **Syntaxonomie et synsystématique** :
 Même si peu de relevés ont été réunis, la constance de ce groupement dans les systèmes liés aux alluvions calcaires, incite à proposer une nouvelle association.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Centaureo%20asperae-Brachypodietum%20phoenicoidis.png)

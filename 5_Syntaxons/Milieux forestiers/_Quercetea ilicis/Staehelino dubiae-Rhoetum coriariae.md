@@ -19,3 +19,7 @@ Espèces indicatrices : [[Rhus coriaria]], [[Staehelina dubia]], [[Amelanchier o
 Chorologie BdR (13) : Calanques, mont Gibaou, le Montounier.
 
 L'indigénat de Rhus coriaria sur les massifs provençaux pose question et il n'est pas impossible que sa présence actuelle soit le fruit d'une naturalisation ancienne liée aux usages passés. Si l'on observe régulièrement l'espèce dans des conditions clairement anthropiques (talus remaniés par exemple), elle constitue néanmoins, dans les éboulis, des formations stables et semblant en équilibre.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Staehelino%20dubiae-Rhoetum%20coriariae.png)

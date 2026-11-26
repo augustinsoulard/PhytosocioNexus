@@ -21,3 +21,7 @@ Chorologie BdR (13) : Ubacs des plus hauts reliefs : chaîne de l'Étoile, monta
 Précision dynamique : Communauté azonale pionnière sans réel potentiel d'évolution se situant dans la gamme climatique des formations forestières des Quercetea pubescentis et des Carpino-Fagetea.
 
 Cette association représente l'ultime extension vers la Provence des végétations alpines et préalpines du Potentillon caulescentis. Dans le tableau original décrivant l'association, Molinier (1934) met bien en évidence de fortes variations de la composition floristique. On s'aperçoit en particulier que seule la végétation des parois rocheuses des plus hautes altitudes du département montre un réel cortège d'espèces orophiles, typique des végétations rupicoles des Préalpes provençales, tandis que la couverture des fougères caractéristiques de la classe se réduit nettement. Inversement, les végétations des plus basses altitudes ou en exposition intermédiaire tendent vers une communauté basale (« faciès à fougères » sensu Molinier) sans caractéristiques propres qu'il ne nous paraît guère pertinent de nommer.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Sileno%20saxifragae-Asplenietum%20fontani.png)

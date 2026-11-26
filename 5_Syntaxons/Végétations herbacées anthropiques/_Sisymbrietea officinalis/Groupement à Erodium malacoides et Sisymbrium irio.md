@@ -27,3 +27,7 @@ Deux syntaxons élémentaires dont le déterminisme reste à préciser sont regr
 
 **Syntaxonomie et synsystématique** :
 L’étude doit être poursuivie par l’analyse de plus de sites afin de statuer sur ce groupement qui pourrait s’intégrer dans les Sisymbrietea officinalis.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Erodium%20malacoides%20et%20Sisymbrium%20irio.png)

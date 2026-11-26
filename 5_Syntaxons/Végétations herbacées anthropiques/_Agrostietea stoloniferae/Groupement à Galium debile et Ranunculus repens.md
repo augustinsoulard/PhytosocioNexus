@@ -30,3 +30,7 @@ Les variations mises en évidence sont liées à la trophie des stations. Var. �
 
 **Syntaxonomie et synsystématique** :
 Ce groupement pourrait être considéré comme une forme eutrophile du Junco striatiEleocharitetum palustris (cf. ci-dessous).
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Groupement%20%C3%A0%20Galium%20debile%20et%20Ranunculus%20repens.png)

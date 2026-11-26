@@ -34,3 +34,7 @@ Anthyllis vulneraria subsp. rubriflora, Genista pulchella subsp. villarsiana, [[
 
 **Syntaxonomie et synsystématique** :
 Par rapport aux autres associations décrites à Genista pulchella subsp. villarsiana (tab. 25), le Seseli longifolii-Genistetum pulchellae est différencié par : - l’absence de taxons méridionaux et méditarréno-montagnards ( Bupleurum ranunculoides subsp. telonense, [[Arenaria modesta]], [[Sempervivum calcareum]], [[Globularia repens]]…) ; - la présence de [[Seseli longifolium]].
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Seseli%20longifolii-Genistetum%20pulchellae.png)

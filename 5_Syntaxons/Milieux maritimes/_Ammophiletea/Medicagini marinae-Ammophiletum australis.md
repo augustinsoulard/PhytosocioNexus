@@ -23,3 +23,7 @@ Chorologie BdR (13) : Littoral de la Camargue (autrefois dans le golfe de Fos-su
 
 Précision dynamique : Végétation pionnière sans évolution potentielle dans sa zone d’expression située généralement entre la dune embryonnaire ([[Echinophoro spinosae-Elymetum farcti]]) et la dune en voie de fixation ([[Crucianelletalia maritimae]]).
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Medicagini%20marinae-Ammophiletum%20australis.png)

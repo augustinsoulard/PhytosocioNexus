@@ -19,3 +19,7 @@ Espèces indicatrices : [[Callitriche truncata subsp. occidentalis]], [[Myriophy
 Écologie : Végétation herbacée vivace aquatique, pionnière, héliophile, des eaux stagnantes légèrement saumâtres, oligotrophes à mésotrophes, peu profondes et pouvant s'exonder temporairement, sur substrats basiques sableux ou vaseux.
 
 Chorologie BdR : Camargue ; Crau humide (méconnue) ; étang de Bolmon.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Ranunculetum%20baudotii.png)

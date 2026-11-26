@@ -20,3 +20,7 @@ Espèces indicatrices : [[Pistacia lentiscus]], [[Myrtus communis]], [[Olea euro
 Écologie : Végétation mésoxérophile, thermophile, se développant sur des sols peu profonds mais constitués dans les vallons ou sur les replats du littoral rocheux. Étage mésoméditerranéen inférieur.
 
 Chorologie BdR (13) : Calanques, formations appauvries sur les îles des archipels du Frioul et de Riou ; quelques vallons de la Côte Bleue.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Myrto%20communis-Pistacietum%20lentisci.png)

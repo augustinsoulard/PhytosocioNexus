@@ -19,3 +19,7 @@ Espèces indicatrices : [[Zostera marina]].
 
 Chorologie BdR (13) : Golfe de Fos ; étang de Berre. 
 
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Zosteretum%20marinae.png)

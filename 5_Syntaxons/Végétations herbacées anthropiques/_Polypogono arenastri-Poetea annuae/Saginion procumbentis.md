@@ -23,3 +23,7 @@ ZH : non
 
 Associations :
 - [[Bryo argentei-Saginetum procumbentis]] Diémont et al. 1940 corr. Rivas Martínez et al. 2002
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Saginion%20procumbentis.png)

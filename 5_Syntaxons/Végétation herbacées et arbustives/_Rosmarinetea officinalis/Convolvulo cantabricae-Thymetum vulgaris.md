@@ -40,3 +40,7 @@ Les variations mises en évidence sont liées à la réserve en eau des substrat
 
 **Syntaxonomie et synsystématique** :
 Un groupement relativement proche est rapporté de Provence par LOISEL (1976 - tabXXXVIII), « le groupement des Rosmarinetalia » (tab. 25, col. 111). Il se différencie des communautés ardéchoises par la présence de taxons méridionaux ( [[Genista hispanica]], [[Rosmarinus officinalis]]), la rareté ou l’absence des éléments des Festuco-Brometea s.l. et la présence d’espèce des Ononidietalia striatae.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Convolvulo%20cantabricae-Thymetum%20vulgaris.png)

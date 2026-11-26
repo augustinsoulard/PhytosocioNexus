@@ -22,3 +22,7 @@ Espèces indicatrices : [[Jasminum fruticans]], [[Phillyrea angustifolia]], [[Ru
 Chorologie BdR (13) : Camargue.
 
 Précision dynamique : Formation pouvant évoluer vers des ormaies (niveaux bas) ou une chênaie verte ; stable en position topographique basse à la limite de concentrations de sel supportables.
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Jasmino%20fruticantis-Phillyreetum%20angustifoliae.png)

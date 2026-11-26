@@ -38,3 +38,7 @@ Associations :
 - [[Rhamno saxatilis-Buxetum sempervirentis]] Bannes-Puygiron ex Tüxen 1952 ; 
 - [[Taxo baccatae-Amelanchieretum ovalis]] B. Foucault et al. ex B. Foucault 2008 ; 
 - [[Violo hirtae-Buxetum sempervirentis]] M. Gruber 1993
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Amelanchiero%20ovalis-Buxenion%20sempervirentis.png)

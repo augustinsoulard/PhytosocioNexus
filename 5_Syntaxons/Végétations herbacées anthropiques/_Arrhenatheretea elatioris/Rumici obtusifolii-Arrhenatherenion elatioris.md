@@ -32,3 +32,7 @@ Associations :
 - [[Phleo pratensis-Agropyretum repentis]] A. Peeters et J. Lambert ex B. Foucault 2016 ; 
 - [[Tanaceto vulgaris-Arrhenatheretum elatioris]] An. Fischer ex B. Foucault 2016 ; 
 - [[Trifolio hybridi-Lolietum multiflori]] B. Didier et J.-M. Royer in J.-M. Royer et al. 2006
+
+## Répartition potentielle
+
+![Carte de répartition potentielle](https://s09.swdrive.fr/public.php/dav/files/Jd28BpaAMJ9e36q/Rumici%20obtusifolii-Arrhenatherenion%20elatioris.png)
