@@ -1,0 +1,23 @@
+---
+tags:
+cd_nomv18: 160257
+date_maj: "2026-11-24"
+auteurs:
+  - Augustin Soulard
+sources:
+  - invmed.fr
+---
+
+## D'après INVMED (consulté en 2026)
+
+*Heracleum persicum* Desf. ex Fisch., 1841
+
+**Nom(s) vernaculaire(s)** : Berce de Perse
+**Famille** : Apiaceae
+**Origine** : Asie
+**Date d'introduction** : déb-XIXe (1829, GB)
+
+**Régions administratives** : PACA : Prévention ; Occitanie : Prévention ; Corse : 
+**Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Prévention ; Méd. Occ. : Prévention ; Méd. PACA : Prévention ; Massif Central : Prévention ; Alpine : Prévention
+
+[Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=160257)

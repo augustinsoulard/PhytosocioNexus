@@ -1,11 +1,14 @@
 ---
 tags:
   - eee_occitanie
-date_maj: 2026-06-15
+cd_nomv18: 111863
+date_maj: "2026-11-24"
 auteurs:
   - Augustin Soulard
 sources:
+  - invmed.fr
 ---
+
 **cd_nom** : 111863
 
 **Description :** Plante vivace géophyte, mesurant entre 5 et 20 cm de hauteur. Elle se présente en touffes denses mais peu étalées, avec des feuilles portées par de longs pétioles grêles, dont le limbe, vert clair et parfois teinté de pourpre, atteint rarement 5 cm de diamètre. Ses inflorescences, nombreuses, s’organisent en fausses ombelles ou sur des rameaux courts, généralement inférieurs à 5 mm. Enfin, ses fleurs, dont la corolle mesure entre 8 et 18 mm, arborent une couleur rose vif à blanche.
@@ -17,3 +20,17 @@ sources:
 **Floraison** : mars à juin
 
 **Sources** : INVMED, Catalogue de la Flore vasculaire du Var, FloreMED.
+
+## D'après INVMED (consulté en 2026)
+
+*Oxalis articulata* Savigny, 1798
+
+**Nom(s) vernaculaire(s)** : Oxalis articulé
+**Famille** : Oxalidaceae
+**Origine** : Amérique du Sud
+**Date d'introduction** : Non connue
+
+**Régions administratives** : PACA : Modérée ; Occitanie : Modérée ; Corse : Alerte
+**Zones biogéographiques continentales** : Sud-Ouest : Modérée ; Pyrénées : Modérée ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Non envahissante ; Alpine : Prévention
+
+[Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=111863)

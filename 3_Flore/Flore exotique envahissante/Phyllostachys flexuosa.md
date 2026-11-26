@@ -1,0 +1,23 @@
+---
+tags:
+cd_nomv18: 611602
+date_maj: "2026-11-24"
+auteurs:
+  - Augustin Soulard
+sources:
+  - invmed.fr
+---
+
+## D'après INVMED (consulté en 2026)
+
+*Phyllostachys flexuosa* Rivière & C.Rivière, 1878
+
+**Nom(s) vernaculaire(s)** : Bambou traçant
+**Famille** : Poaceae
+**Origine** : Asie
+**Date d'introduction** : Non connue
+
+**Régions administratives** : PACA : Prévention ; Occitanie :  ; Corse : 
+**Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA : Prévention ; Massif Central :  ; Alpine : Absente
+
+[Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=611602)
