@@ -25,6 +25,8 @@ sources:
 - **Confusion possible** : avec certaines espèces de *Callitriche *spp.* (*qui se distinguent par des feuilles aux pointes échancrées en forme de clé à molette, du fait qu'elles sont souvent flottantes et plus rarement émergées, avec des fleurs non blanches et des feuilles fines planes non charnues) et *Montia* spp. (présentant des feuilles plus larges et des fleurs à 5 pétales), *Sedum* spp. (présents en milieux secs) et l’espèce indigène proche *Crassula tillaea* (aussi cantonnée aux milieux secs).
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Marais, tourbières, tufières**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crassula%20helmsii.png)
 **Type de reproduction / propagation** : L'orpin de Helms se reproduit de manière végétative grâce à des turions, des stolons, ou par bouturage (un fragment de tige inférieur à 5 mm peut suffire à former une bouture). La production de graines viables est incertaine en Europe (des expérimentations en conditions contrôlées semblent néanmoins démontrer le développement de plantes par germinations). La propagation des fragments de plante est effectuée par les oiseaux aquatiques, les hélices des bateaux, les activités d'entretien des cours d'eau et les rejets d'aquariums.
 **Type(s) biologique** : Hélophyte
 

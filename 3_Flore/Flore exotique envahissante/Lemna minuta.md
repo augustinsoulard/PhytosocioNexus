@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles **: avec les autres lentilles d'eau. Le genre *Lemna* possède une seule racine par fronde. *Lemna trisulca* possède une fronde lancéolée, rétrécie en pétiole et souvent submergée. *Lemna gibba* a une fronde ovale sans pétiole, dont la face inférieure est renflée et spongieuse. *Lemna minor*, plus grande que *Lemna minuta*, a une fronde large à 3-5 nervures peu visibles, dont la face supérieure est plate.
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lemna%20minuta.png)
 **Type de reproduction / propagation** : La lentille d'eau minuscule fleurit rarement dans son aire d'introduction : la reproduction est presque exclusivement végétative, par bourgeonnement latéral. La dispersion se fait par le courant, parfois par le vent et par les animaux, dont les oiseaux : Goughlan *et al*. (1994) ont montré que les canards colverts *Anas platyrhynchos* pouvaient jouer un rôle dans la dispersion de l'espèce.
 **Type(s) biologique** : Hydrophyte nageant
 

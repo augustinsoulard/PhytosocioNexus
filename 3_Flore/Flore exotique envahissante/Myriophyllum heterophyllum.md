@@ -28,6 +28,8 @@ sources:
 - **Confusions possibles** : avec les autres myriophylles. Il se distingue des espèces indigènes par ses feuilles hétérophylles (de deux sortes). Très semblable à *Myriophyllum simulans* (une autre espèce introduite), il s'en distingue par ses 4 étamines (8 chez *Myriophyllum simulans*).
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Myriophyllum%20heterophyllum.png)
 **Type de reproduction / propagation** : Il n'y a pas de reproduction sexuée connue dans l'aire d'introduction. La reproduction du myriophylle hétérophylle s’effectue de manière végétative par fragmentation des tiges et division du rhizome. Un fragment de tige de moins d'1 cm avec un seul nœud suffit à produire un nouveau plant. Les tiges robustes ne se cassent généralement pas toutes seules, la fragmentation est causée par les activités humaines ou les animaux (poissons ou oiseaux). La dispersion des fragments est liée aux activités humaines (rejets d'aquariums, curage d'étangs, etc.), possiblement aux oiseaux et au courant.
 **Type(s) biologique** : Hydrophyte
 

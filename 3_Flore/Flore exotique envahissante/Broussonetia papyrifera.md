@@ -24,6 +24,8 @@ sources:
 - ** Port** : Arbre à latex, caduque, dioïque.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Broussonetia%20papyrifera.png)
 **Type de reproduction / propagation** : Le mûrier à papier se reproduit de manière sexuée et asexuée. Il est pollinisé par les insectes et par le vent. Les graines sont dispersées par les oiseaux et les mammifères (notamment des chauves-souris) qui consomment ses fruits, et peut-être également par l'eau. Le taux de germination est d'environ 50% et le taux de survie des plantules est de 25-30%. Les graines ont besoin de la présence de la lumière pour germer, même si la fructification est un événement plutôt rare dans ses régions d'introduction, car les plants mâles et femelles sont rarement plantés l’un à côté de l’autre (InfoFlora, 2022). 
 
 Il peut repousser à partir de fragments de racines, drageons et rejets de souche. Le déversement illégal de déchets de jardin (fruits, boutures et racines) dans la nature est une voie de propagation importante.

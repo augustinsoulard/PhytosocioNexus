@@ -26,6 +26,8 @@ sources:
 - **Tige** : tige non ramifiée à poils courts et épars.
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lupinus%20polyphyllus.png)
 **Type de reproduction / propagation** : Le lupin à folioles nombreuses se reproduit par graines qui sont dispersées à courte distance par explosion des gousses (dispersion balistique). Elles peuvent ensuite être transportées par l'eau et par les activités humaines (sols contaminés, véhicules, etc.). La pollinisation est réalisée par les insectes. Un individu produit en moyenne quelques centaines de graines par an, jusqu'à quelques milliers pour certains individus. Les graines peuvent rester viables plusieurs années dans le sol. Le lupin à folioles nombreuses se reproduit également de manière végétative grâce à ses rhizomes. Il peut s'hybrider avec *Lupinus arboreus* pour former *Lupinus x regalis*.
 **Type(s) biologique** : Hémicryptophyte
 

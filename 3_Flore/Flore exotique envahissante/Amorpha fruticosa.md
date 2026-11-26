@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : *Amorpha fruticosa* peut être confondu avec *Robinia pseudoacacia* (Fabacées), arbre ayant des tiges pourvues d'épines. Ses feuilles et ses fruits sont glabres et sans glandes, ses fleurs sont blanches et disposées en grappes pendantes. Il ressemble aussi à *Sophora japonica* dont les feuilles sont dépourvues de glandes.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Amorpha%20fruticosa.png)
 **Type de reproduction / propagation** : *Amorpha fruticosa* se reproduit principalement de façon sexuée. Il est pollinisé par les insectes. Les graines sont ensuite disséminées par les cours d'eau ou restent à proximité de la plante mère. Elles ont un fort pouvoir germinatif (plus de 80%). Cette espèce peut aussi se marcotter ou se bouturer à partir de fragments de la tige (AME, 2003).
 **Type(s) biologique** : Nanophanérophyte
 

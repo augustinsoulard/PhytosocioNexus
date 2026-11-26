@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les élodées (*Elodea canadensis*, *Elodea nuttallii*, *Egeria densa*), qui ont les feuilles verticillées. Les naïades (*Najas *spp.*) ont les feuilles opposées (elles peuvent sembler verticillées) et des tiges à nombreuses ramifications dichotomiques.
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lagarosiphon%20major.png)
 **Type de reproduction / propagation** : En dehors de son aire de répartition d'origine (Afrique du Sud) seuls des pieds femelles ont été observés. Il n'y a donc pas de reproduction sexuée. La multiplication végétative se fait par bouturage (fragmentation des tiges) et par croissance du rhizome. Les fragments sont propagés par l'eau, les activités humaines (bateaux, pêche, faucardage, etc.) et parfois par les oiseaux.
 **Type(s) biologique** : Hydrophyte
 

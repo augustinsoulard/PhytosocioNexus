@@ -25,6 +25,8 @@ sources:
 - **Taille** : de 2 à 3 m de diamètre environ sur 2 à 5 m de haut.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Buddleja%20davidii.png)
 **Type de reproduction / propagation** : Le buddleia est pollinisé par les insectes, notamment par les papillons. La reproduction sexuée est la première méthode de propagation du buddleia. Chaque arbre peut produire jusqu'à trois millions de graines. Les graines peuvent être dispersées sur de longues distances par l'homme et dans un moindre mesure par le vent. Elles peuvent aussi être disséminées par l'eau. Les graines entrent en dormance et peuvent rester dans le sol de nombreuses années. Chaque arbuste peut fleurir et fructifier dès la première année. La reproduction végétative est assurée par bouturage de fragments de tiges et de racines (le long des cours d'eaux ou lors des transport de terres) mais aussi par des rejets de souche si l'espèce est coupée (FCBN, 2009). Il peut atteindre une taille de 2 m un an après avoir été coupé à la base.
 **Type(s) biologique** : Nanophanérophyte
 

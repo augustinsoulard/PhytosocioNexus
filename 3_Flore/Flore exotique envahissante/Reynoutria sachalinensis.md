@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Reynoutria japonica *qui a des feuilles plus petites, **tronquées à la base**, glabres à la face inférieure ; et avec *Reynoutria *x* *bohemica* (*hybride entre *R. japonica* et *R.* *sachalinensis)*, qui a des feuilles plus petites, à base légèrement en forme de cœur et présentant quelques poils sur la face inférieure.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20sachalinensis.png)
 **Type de reproduction / propagation** : La renouée de Sakhaline, comme la renouée du Japon (*Reynoutria japonica*), est une espèce gynodioïque, c’est-à-dire que les plants sont soit mâles-stériles (pieds fonctionnellement femelles), soit mâles-fertiles (pieds fonctionnellement mâles), soit plus rarement hermaphrodites. Elle peut se reproduire de manière sexuée (entre individus de la même espèce ou en s'hybridant avec d'autres espèces) ou asexuée. Elle constitue une source de pollen pour la renouée du Japon, dont seuls des plants mâles-stériles sont présents en Europe, produisant un hybride appelé renouée de Bohême. Cependant, la production de graines viables (pollinisation entomophile) reste rare, et la reproduction se fait principalement par multiplication végétative, par fragmentation du rhizome et bouturage des tiges (un fragment de 0,7 g suffit à générer un nouveau plant). La dissémination des fragments est principalement due à l'homme (déplacement de terres contaminées lors de travaux d'aménagement), mais aussi à l’eau, à l’érosion des berges des rivières et aux animaux.
 **Type(s) biologique** : Géophyte à rhizome
 

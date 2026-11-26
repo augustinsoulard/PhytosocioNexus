@@ -19,3 +19,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Non envahissante ; Méd. Occ. : Emergente ; Méd. PACA :  ; Massif Central : Absente ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=116211)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/x%20Pseudosasa%20japonica.png)

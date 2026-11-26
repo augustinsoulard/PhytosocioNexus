@@ -1,0 +1,12 @@
+---
+tags:
+  - espece
+cd_nomv18: 105442
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+# Lemna turionifera
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lemna%20turionifera.png)

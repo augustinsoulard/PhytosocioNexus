@@ -24,6 +24,8 @@ sources:
 - **Port** : herbacée vivace à rhizome.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solidago%20gigantea.png)
 **Type de reproduction / propagation** : Les solidages américains se reproduisent de manière asexuée par élongation du rhizome, mais aussi de manière sexuée (pollinisation entomophile). Ils produisent de nombreux akènes (jusqu'à 19 000 par individu) qui sont disséminés par le vent et par les animaux. Le taux de germination des graines est très élevé et celles-ci peuvent rester dans le sol deux ans avant de se développer afin d’attendre des conditions optimales à leur germination. Les rhizomes et les graines peuvent être propagés par les activités humaines (transport de sols contaminés, véhicules, voies de communication). Le solidage géant peut parfois s'hybrider avec le solidage du Canada *Solidago canadensis*.
 **Type(s) biologique** : Géophyte
 

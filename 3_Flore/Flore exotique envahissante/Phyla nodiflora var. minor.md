@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : *Phyla nodiflora *(L.) Greene [syn. *Lippia nodiflora* (L.) Michaux] (Verbénacées), est une plante à tiges radicantes herbacées. Son calice lobé est découpé jusqu’à la base. La corolle à 5 lobes subégaux mesure 2 mm. Elle est peu pubescente et de couleur blanche. En France, cette espèce est rare, on ne la trouve qu’en Corse.
 
 **Milieux** : **Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyla%20nodiflora%20var.%20minor.png)
 **Type de reproduction / propagation** : Chaque fruit s’ouvre à maturité pour libérer deux petites graines qui tombent au pied des plants mères. Elles sont ensuite transportées par l’eau, éventuellement par les fourmis ou les oiseaux. On a compté jusqu’à 1500 germinations par m2. Le phyla blanchâtre se reproduit très activement par reproduction végétative. Ses stolons lui permettent de s’étendre par tâches circulaires jusqu’à former un tapis dense. Il entre en repos végétatif en période de sécheresse et rejette de souche dès l’apparition d’eau (pluie, inondation). Lors d’inondations ou de travaux du sol, des fragments de tige sont arrachés ou sectionnés. Ils sont transportés par l’eau (éventuellement par le bétail ou les oiseaux). Ils possèdent une grande capacité à bouturer.
 **Type(s) biologique** : Hémicryptophyte
 

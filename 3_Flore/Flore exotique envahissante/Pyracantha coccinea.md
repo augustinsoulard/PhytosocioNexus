@@ -40,6 +40,8 @@ Fructification : septembre-octobre
 - **Tiges** : écorce grisâtre se craquelant en vieillissant.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies humides ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pyracantha%20coccinea.png)
 **Type de reproduction / propagation** : Le buisson ardent peut se reproduire à partir de boutures de tiges et de greffes. Il produit aussi de nombreuses graines qui peuvent être dispersées par les animaux.
 **Type(s) biologique** : Nanophanérophyte
 

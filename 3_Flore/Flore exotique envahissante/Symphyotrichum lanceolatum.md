@@ -25,6 +25,8 @@ sources:
 - **Confusion possible** : avec *Symphyotrichum novi-belgii* à feuilles plus larges (1 à 2,5 m), avec *Symphyotrichum novae-angliae* qui a de nombreux poils glanduleux au niveau de l'inflorescence composée de fleurs ligulées bleu violacé. Il existe aussi *Symphyotrichum laeve* qui mesure jusqu'à 120 cm avec des fleurs ligulées bleu pâle ou lilas et aux feuilles vert glauque pruineuses, et *Symphyotrichum pilosum* qui se distingue par son port grêle, ses feuilles étroites et avec des capitules similaires à la pâquerette (*Bellis perennis*). Il ne faut également pas la confondre avec *Aster tripolium* aux feuilles charnues, avec *Aster amellus* aux fleurs mauves, présentes uniquement en Picardie, avec *Erigeron annuus* aux fleurs ligulées disposées sur deux rangs, et enfin avec *Solidago canadensis* et *Solidago gigantea* qui possèdent de fortes dents au niveau des limbes.
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20lanceolatum.png)
 **Type de reproduction / propagation** : L'aster lancéolé produit de nombreux fruits (akènes) munis d’une aigrette qui favorise leur dissémination par le vent à l’automne. Cependant, cette espèce naturalisée en France se maintient sur le territoire métropolitain surtout sous forme de clones se reproduisant de manière végétative dans le cadre de cultures. L'aster lancéolé peut être fécondé par ses hybrides, notamment *Symphyotrichum x salignum* (*S. lanceolatum × S. novii-belgii*). La multiplication végétative est assurée par les rhizomes.
 **Type(s) biologique** : Hémicryptophyte
 

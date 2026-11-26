@@ -21,6 +21,10 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Prévention ; Méd. Occ. : Majeure ; Méd. PACA : Majeure ; Massif Central : Emergente ; Alpine : Prévention
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20peploides%20subsp.%20montevidensis.png)
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ludwigia%20peploides.png)
 **Type de reproduction / propagation** : Les jussies se reproduisent principalement de manière végétative par fragmentation des tiges (les fragments de tiges peuvent produire un nouveau plant dès lors qu'ils possèdent un nœud). La reproduction sexuée est également possible dans l'aire d'introduction (pollinisation entomophile) : les semences (jusqu'à 10 000 graines/m²) sont souvent fertiles et peuvent produire des plantules viables. Les fruits de cette espèce peuvent flotter dans le courant durant 1,5 mois, et les fragments de tiges transportés par l’eau sont capables de bouturer dans de nouveaux sites. Les activités humaines (entretien des milieux aquatiques, curages, etc.) sont en grande partie responsables de la dissémination des jussies.
 **Type(s) biologique** : Hydrophyte
 

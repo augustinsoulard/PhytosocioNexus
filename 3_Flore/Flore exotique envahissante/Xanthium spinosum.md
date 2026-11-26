@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Alerte ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Alerte ; Alpine : Prévention
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xanthium%20spinosum.png)
 **Type de reproduction / propagation** : Les fruits, munis de nombreuses épines, s’accrochent facilement au pelage des animaux et sont ainsi dispersés très facilement par épizoochorie. Les graines peuvent rester viables pendant 8 ans.
 **Type(s) biologique** : Thérophyte
 

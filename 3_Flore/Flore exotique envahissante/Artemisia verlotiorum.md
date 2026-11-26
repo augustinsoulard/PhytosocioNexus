@@ -24,6 +24,8 @@ sources:
 - **Port** : plante herbacée vivace à rhizomes formant des colonies denses, à feuillage semi-persistant.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Artemisia%20verlotiorum.png)
 **Type de reproduction / propagation** : L'espèce se reproduit de manière végétative, grâce à ses rhizomes. Le risque de dispersion via le transport des terres contaminées et des plantes est élevé. Il serait nécessaire de vérifier si la reproduction sexuée s'effectue en région méditerranéenne.
 **Type(s) biologique** : Hémicryptophyte
 

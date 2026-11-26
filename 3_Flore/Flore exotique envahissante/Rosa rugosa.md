@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres rosiers (*Rosa* spp.) : une quarantaine d'espèces (qui sont pour la plupart des complexes hybridogènes) sont présentes en région méditerranéenne continentale française, dont 3 sont exotiques. Il se distingue par ses grandes fleurs et ses tiges à aiguillons très nombreux.
 
 **Milieux** : **Dunes côtières et plages de sable**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rosa%20rugosa.png)
 **Type de reproduction / propagation** : Le rosier rugueux se reproduit par graines, qui sont dispersées par les animaux (consommation du cynorrhodon qui contient les akènes) ou par l'eau (douce ou salée). Les cynorrhodons contiennent en moyenne 62 akènes. Les graines ont une forte viabilité (85-95%) mais une durée de vie courte dans le sol. Le rosier rugueux est pollinisé par les insectes (pollinisation croisée ou auto-pollinisation). Il se reproduit également de manière végétative grâce à ses rhizomes.
 **Type(s) biologique** : Nanophanérophyte
 

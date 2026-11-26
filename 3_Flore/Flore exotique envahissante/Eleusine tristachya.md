@@ -19,3 +19,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Modérée ; Pyrénées : Non envahissante ; Méd. Occ. : Alerte ; Méd. PACA :  ; Massif Central : Non envahissante ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=95975)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Eleusine%20tristachya.png)

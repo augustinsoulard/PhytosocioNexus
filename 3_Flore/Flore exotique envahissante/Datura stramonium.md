@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Majeure ; Pyrénées : Modérée ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Majeure ; Alpine : Alerte
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Datura%20stramonium.png)
 **Type de reproduction / propagation** : Le datura stramoine se reproduit uniquement par graines. Dans de bonnes conditions, un individu peut produire plus de 50 capsules et donc plus 30 000 graines par an, qui sont viables pendant 40 ans dans le sol. Il est fortement auto-compatible. La pollinisation des daturas est réalisée par les insectes, et notamment par des sphinx dans l'aire naturelle de répartition du datura stramoine. Cependant, des expériences réalisées dans son aire d'introduction (Afrique du Sud, Amérique du Nord, Espagne) montrent que le datura stramoine, bien que visité par des abeilles, se reproduit dans 98% des cas par auto-fertilisation. Ses graines sont dispersées mécaniquement (l'ouverture des capsules sèches provoque la dispersion des graines sur une distance de 1 à 3 m, un processus favorisé par les perturbations humaines agricoles), par l'eau (les capsules et les graines flottent) et par l'homme (par les semences agricoles contaminées, les machines, les véhicules, etc.).
 **Type(s) biologique** : Thérophyte
 

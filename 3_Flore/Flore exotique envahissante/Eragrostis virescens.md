@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Non envahissante ; Méd. Occ. : Modérée ; Méd. PACA : Alerte ; Massif Central : Alerte ; Alpine : Alerte
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96644)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Eragrostis%20virescens.png)

@@ -1,1 +1,4 @@
 **Habitats :** développe principalement dans des habitats humides oligotrophes, notamment les prés paratourbeux, les bas-marais et les prairies du _Juncion acutiflori_. Dans les régions à affinités méditerranéennes, il colonise plutôt les prés bas thermophiles du [[Deschampsio mediae-Molinion arundinaceae]], inondables en hiver et asséchés en été. Ces habitats exigent un entretien régulier par la fauche ou le pâturage pour éviter leur évolution vers des végétations de hautes herbes comme les roselières ou les mégaphorbiaies.
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galium%20debile.png)

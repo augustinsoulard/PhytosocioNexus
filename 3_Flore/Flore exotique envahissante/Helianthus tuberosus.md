@@ -25,6 +25,8 @@ sources:
 - **Confusion possible** : Avec *Helianthus x laetiflorus*, un hybride d'origine horticole entre *H. tuberosus* et *H. pauciflorus*, qui a des rhizomes non tubérisés, des feuilles plus étroites, qui est plus grêle et qui fleurit plus précocément (dès le mois de juillet).
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Helianthus%20tuberosus.png)
 **Type de reproduction / propagation** : La reproduction sexuée du topinambour est faible en Europe. Le topinambour se reproduit principalement par multiplication végétative à partir des rhizomes, qui forment des tubercules. Ces tubercules peuvent être disséminés par les animaux ou par les eaux.
 **Type(s) biologique** : Géophyte à tubercule
 

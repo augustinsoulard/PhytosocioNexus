@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Absente ; Méd. Occ. : Emergente ; Méd. PACA : Emergente ; Massif Central : Emergente ; Alpine : Prévention
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Azolla%20filiculoides.png)
 **Type de reproduction / propagation** : L'azolla fausse-fougère est une plante monoïque à sporulation automnale. La reproduction sexuée est rare, elle se reproduit principalement par voie végétative à partir de la fragmentation des tiges. Ces fragments sont ensuite disséminés par l'eau, par les animaux (oiseaux d'eau mais aussi petits mammifères, amphibiens et bétail) et par l'homme (nettoyage d'aquariums, activités nautiques...).
 **Type(s) biologique** : Hydrophyte nageant
 

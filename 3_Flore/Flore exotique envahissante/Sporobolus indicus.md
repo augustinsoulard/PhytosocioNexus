@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Sporobolus cryptandrus*, se distingue par une touffe de longs poils blancs au niveau du ligule ; avec *S. vaginiflorus*, se distingue par un panicule ne dépassant pas 5 cm de long à maturité ; avec *S. neglectus*, se distingue par ses glumelles glabres.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20indicus.png)
 **Type de reproduction / propagation** : Le sporobole tenace se reproduit par graines, qui tombent généralement près du pied-mère ou sont dispersées par l'eau, les animaux ou les activités humaines (remaniements de sol, déplacements de gravats et décombres, etc.). L’entretien mécanique des bords de routes (fauche-raclage) participe à sa dissémination.
 **Type(s) biologique** : Hémicryptophyte
 

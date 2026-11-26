@@ -26,6 +26,8 @@ sources:
 - **Confusions possibles** : avec la renouée de Sakhaline (*Reynoutria sachalinensis*) et la renouée de Bohême (*Reynoutria *x *bohemica*, hybride entre *R. japonica* et *R. sachalinensis*), qui ont des feuilles plus grandes, à la base en forme de cœur, et poilues sur les nervures de la face inférieure du limbe.* *
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20japonica.png)
 **Type de reproduction / propagation** : La renouée du Japon est une espèce gynodioïque, c’est-à-dire que les plants sont soit mâles-stériles (pieds fonctionnellement femelles), soit mâles-fertiles (pieds fonctionnellement mâles), soit plus rarement hermaphrodites. Or, seul un clone mâle-stérile semble avoir été introduit en Europe. La formation de graines (pollinisation entomophile) est toutefois possible par hybridation, notamment avec *Fallopia baldschuanica, Reynoutria sachalinensis* et *Reynoutria x bohemica* (elle-même issue du croisement avec *R. sachalinensis*). Cependant, la production de graines viables reste rare, et la reproduction se fait principalement par multiplication végétative, par fragmentation du rhizome et bouturage des tiges (un fragment de 0,7 g suffit à générer un nouveau plant). La dissémination des fragments est principalement due à l'homme (déplacement de terres contaminées lors de travaux d'aménagement), mais aussi à l’eau, à l’érosion des berges des rivières et aux animaux.
 **Type(s) biologique** : Géophyte à rhizome
 

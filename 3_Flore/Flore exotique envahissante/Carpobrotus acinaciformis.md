@@ -24,6 +24,8 @@ sources:
 - **Port** : plante grasse vivace rampante, sub-ligneuse, formant des tapis végétaux (monospécifiques) qui s'étalent sur des zones ouvertes, telles que les côtes rocheuses, les dunes et le matorral. **
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carpobrotus%20acinaciformis.png)
 **Type de reproduction / propagation** : La consommation des fruits par les animaux, principalement les rats et les lapins, permet la dissémination des graines à plus de 150 m du plant mère (Bourgeois *et al*., 2005). L’ingestion par les mammifères favorise la germination de ces graines (endozoochorie). Le transport secondaire des graines par myrmécochorie (transport par les fourmis) est également possible. La croissance rapide des stolons (jusqu’à 1m/an) leur permet de couvrir rapidement de grandes surfaces. Des boutures de tiges transportées par l'eau de mer ou par les oiseaux (pour la confection des nids) assurent plus rarement la colonisation de nouveaux espaces.
 **Type(s) biologique** : Chaméphyte
 

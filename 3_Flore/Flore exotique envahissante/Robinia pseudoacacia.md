@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Sophora japonica*, arbre pouvant atteindre 25 m, qui a des folioles aux extrémités est pointues, et une écorce presque lisse ; avec *Amorpha fruticosa*, arbuste à port buissonnant qui a des folioles arrondis criblés de glandes (visibles par transparence) et des tiges dépourvues d'épine.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Robinia%20pseudoacacia.png)
 **Type de reproduction / propagation** : Les fleurs sont pollinisées par les insectes, notamment par les abeilles. Les gousses sont transportées par le vent ou s’ouvrent sur l’arbre en hiver et au printemps. Parmi les nombreuses graines libérées, très peu germent car leurs téguments extérieurs doivent être usés ou rompus (scarifiés). Le robinier faux-acacia a une croissance rapide (de 0,4 à 1,2 cm par jour en début de croissance). Il assure son expansion grâce à ses grandes capacités à drageonner et à rejeter de souche. La multiplication végétative est d’autant plus productive que la plante est en situation de stress (coupe, brûlage, etc.).
 **Type(s) biologique** : Phanérophyte
 

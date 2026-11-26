@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : la symphorine à fruits blancs se reconnaît facilement à ses fruits.
 
 **Milieux** : **Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphoricarpos%20albus.png)
 **Type de reproduction / propagation** : La symphorine à fruits blancs peut se reproduire de manière sexuée. Elle est pollinisée par les insectes et produit de nombreux fruits (contenant chacun 2 graines) qui sont consommés par les oiseaux. Dans son aire d'introduction elle se reproduit surtout de manière végétative par ses drageons.
 **Type(s) biologique** : Nanophanérophyte
 

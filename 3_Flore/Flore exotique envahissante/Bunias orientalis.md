@@ -25,6 +25,8 @@ sources:
 - **Confusion possible** : le bunias d'Orient peut être confondu avec d'autres espèces de crucifères à fleurs jaunes (la détermination des espèces de ce groupe est facilité en présence des fruits), notamment avec *Bunias erucago* qui se distingue par une taille plus modeste, dont les fleurs ont des pétales plus grands (8-12 mm) et dont les fruits sont quadrangulaires à angles munis d'ailes.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bunias%20orientalis.png)
 **Type de reproduction / propagation** : Le bunias d'Orient peut se propager par reproduction sexuée (l'espèce fleurit et produit des graines dès sa première année) et végétative (à partir d'un fragment de racine). La plupart des graines ne se propagent pas très loin de la plante-mère, excepté celles déplacées par la faune (fourrure, excréments) ou par l'homme (semelles remplis de terre infestée, etc.), mais sont viables de nombreuses années. La production de semences atteint 1000 graines / m2 (3000-4500 graines par plante) avec un taux de germination élevé et une faible mortalité des plants juvéniles. L'espèce peut aussi se propager par les perturbations au niveau du sol (déplacement de terres contaminées), par les machines agricoles (transport dans le foin) et par le bétail, qui refuse les plantes adultes souvent malodorantes (InfoFlora, 2019).
 **Type(s) biologique** : Hémicryptophyte
 

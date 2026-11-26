@@ -25,6 +25,8 @@ sources:
 - **Tiges** : longues, fines et entortillées, ligneuses à la base. Elles s'enroulent autour de la végetation arbustive et sur les petits arbres. Les parties souterraines sont pérennes et largement développées, formées de rhizomes cylindriques ramifiés, épais d'environ 5 mm et agencés dans un plan parallèle au sol.
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asparagus%20asparagoides.png)
 **Type de reproduction / propagation** : L'élide en forme d'asperge se multiplie par graines et par voie végétative, à partir du rhizome. Suite à un incendie, c'est souvent l'une des premières espèces végétales à germer.
 **Type(s) biologique** : Phanérophyte lianescente
 

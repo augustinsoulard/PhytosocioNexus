@@ -24,6 +24,8 @@ sources:
 - ** Port** : herbe vivace très vigoureuse, à port cespiteux, formant des touffes en forme de fontaine, à racines fasciculées.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nassella%20tenuissima.png)
 **Type de reproduction / propagation** : Le stipe grêle possède à la fois des fleurs cléistogames (auto-pollinisation) et chasmogames (pollinisation croisée). Il produit des milliers des graines qui sont dispersées par le vent, l'eau, les animaux et les activités humaines (déplacement de sols contaminés, véhicules, etc.). La banque de graines peut persister 4 ans dans le sol.
 **Type(s) biologique** : Hémicryptophyte
 

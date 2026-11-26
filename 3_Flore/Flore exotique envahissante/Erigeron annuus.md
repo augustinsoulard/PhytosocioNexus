@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres vergerettes (*Erigeron *spp. incluant *Conyza *spp. : 15 espèces présentes en zone méditerranéenne française continentale, dont 8 exotiques) et notamment *Erigeron karvinskianus*, dont il se distingue par son port dressé, sa taille plus grande, et ses ligules plus fines. Ses capitules peuvent être confondus avec ceux des pâquerettes (*Bellis *spp*.*), mais il s'en différencie par sa taille bien plus grande et ses feuilles plus dentées.
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20annuus.png)
 **Type de reproduction / propagation** : L'érigéron annuel est apomictique, il produit des graines sans fécondation, qui lui sont génétiquement identiques, mais une reproduction sexuée est également possible. Un individu peut produire jusqu'à 100 000 graines, qui sont dispersées par le vent.
 **Type(s) biologique** : Thérophyte
 

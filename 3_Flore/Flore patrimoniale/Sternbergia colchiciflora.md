@@ -7,3 +7,6 @@ L’espèce est protégée et est classée en danger (EN) par l’IUCN à l’é
 ![[Sternbergia colchiciflora_illustration_Juliette_Vallin.png]]
 
 Illustration par Juliette Vallin - [@naturalist-drawings](https://www.instagram.com/naturalist_drawings?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sternbergia%20colchiciflora.png)

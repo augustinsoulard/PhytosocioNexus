@@ -24,6 +24,8 @@ sources:
 - **Confusion posible** : avec *Senecio deltoideus* qui se distingue par des feuilles sagittées, avec 3 pointes séparées par des marges dentées ; avec *Senecio angulatus* qui se distingue par des feuilles ovales à base obtuse, grossièrement lobées-dentées, un peu charnues et cassantes, et par des inflorescences en corymbe avec 3-6 fleurs ligulées par capitule.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux agricoles**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Delairea%20odorata.png)
 **Type de reproduction / propagation** : *Delairea odorata* se reproduit par voie végétative (par bouturage et marcottage) et par voie sexuée : les graines sont généralement dispersées par le vent, les mouvements du sol et les dépôts sauvages de déchets verts en zones naturelle ou semi-naturelle. Les sources d'introduction les plus courantes sont les jardins, les terrains vagues, les bords de route et les lisières de friches. Cette plante possède des racines filantes assez grandes (parfois à plus de 3 mètres du pied-mère) qui comprennent des dizaines, voire des centaines de petits tubercules qui se cassent aisément lors de mouvements de terre.
 **Type(s) biologique** : Phanérophyte lianescente
 

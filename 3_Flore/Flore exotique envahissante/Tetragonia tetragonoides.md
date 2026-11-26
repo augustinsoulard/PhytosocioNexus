@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : en feuilles, avec les Chenopodiaceae. Il s'en distingue par ses fleurs sessiles à l'aisselle des feuilles et ses fruits à cornes.
 
 **Milieux** : **Dunes côtières et plages de sable**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tetragonia%20tetragonoides.png)
 **Type de reproduction / propagation** : La tétragone cornue se reproduit par graines, qui tombent généralement près du pied-mère ou sont dispersées par l'eau (et ses courants). L'auto-fécondation est prédominante, mais la fécondation croisée peut également avoir lieu. Les graines peuvent être conservées durant 4-5 ans en chambre de stockage.
 **Type(s) biologique** : Thérophyte
 

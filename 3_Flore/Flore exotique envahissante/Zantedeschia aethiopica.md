@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les *Arum* spp., qui s'en distinguent par leur spadice portant des fleurs seulement à sa base.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Zantedeschia%20aethiopica.png)
 **Type de reproduction / propagation** : L'arum d’Éthiopie se reproduit principalement de manière végétative par ses rhizomes. Il peut également se reproduire par graines qui sont dispersées par les oiseaux. Il est pollinisé par les insectes.
 **Type(s) biologique** : Géophyte à rhizome
 

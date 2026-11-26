@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Prévention ; Méd. Occ. : Emergente ; Méd. PACA : Alerte ; Massif Central : Prévention ; Alpine : Prévention
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Humulus%20japonicus.png)
 **Type de reproduction / propagation** : Les graines peuvent rester plusieurs années en dormance dans le sol. Reproduction uniquement sexuée (individus dioïques).
 **Type(s) biologique** : Thérophyte
 

@@ -28,6 +28,8 @@ sources:
 - **Taille** : pouvant atteindre 1 m de hauteur.
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Mesembryanthemum%20cordifolium.png)
 **Type de reproduction / propagation** : Comme bon nombre de plantes succulentes, *Mesembryanthemum cordifolium* se reproduit par voie végétative et se répand également par déversement de déchets de jardin.
 **Type(s) biologique** : Chaméphyte
 

@@ -24,6 +24,8 @@ sources:
 - ** Port** : fougère vivace robuste, en touffes.
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyrtomium%20falcatum.png)
 **Type de reproduction / propagation** : Les populations introduites de fougère-houx comprennent des individus diploïdes sexués, des individus tétraploïdes sexués et des individus triploïdes apogames. Les spores sont dispersées par le vent.
 **Type(s) biologique** : Hémicryptophyte
 

@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : limbe involuté, de 3,5-65 cm de long et 1,5-5 mm de large, à marges scabres ; ligules ciliées.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20longisetus.png)
 **Type de reproduction / propagation** : Le pennisetum hérissé se reproduit par graines et par ses rhizomes. Les graines sont dispersées par les l'eau, le vent, les animaux domestiques et les activités humaines (véhicules, machines agricoles, vêtements, sols contaminés, laine, etc.).
 **Type(s) biologique** : Hémicryptophyte
 

@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Aster tripolium* (= *Tripolium pannonicum*), une espèce indigène dont les feuilles sont charnues et épaisses, les capitules de 1 à 2,5 cm de diamètre, et les bractées du capitule à bout arrondi. Les *Erigeron* spp. (= *Conyza *spp*.*) sont des plantes pubescentes (tiges et/ou feuilles) et ont des ligules disposées sur plusieurs rangs.
 
 **Milieux** : **Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20squamatum.png)
 **Type de reproduction / propagation** : L'aster écailleux produit de nombreux fruits (akènes) munis d’une aigrette qui favorise leur dissémination par le vent à l’automne. La multiplication végétative est assurée par les rhizomes.
 **Type(s) biologique** : Thérophyte
 

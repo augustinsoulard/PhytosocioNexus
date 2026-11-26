@@ -25,6 +25,8 @@ sources:
 - **Taille** : 1 à 2 m.
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20deltoideus.png)
 **Type de reproduction / propagation** : Le séneçon à feuilles en delta se reproduit très facilement par bouturage à l'aide de simples fragments de plante. Il est aussi en capacité de produire des milliers de graines.
 **Type(s) biologique** : Phanérophyte lianescente
 

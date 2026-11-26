@@ -25,6 +25,8 @@ sources:
 - **C****onfusion possibles :**  la détermination de ce taxon peut poser quelques problèmes car il existe plusieurs hybrides horticoles. Les populations exotiques introduites en Europe ont été sélectionnées et hybridées pour l'horticulture. On retrouve aujourd'hui régulièrement un taxon hybride entre deux espèces nord-américaines, *Berberis aquifolium* *x Berberis repens*, plus vigoureux et se disséminant encore plus efficacement que ses parents.
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Berberis%20aquifolium.png)
 **Type de reproduction / propagation** : Le mahonia à feuilles de houx est entomogame et peut produire une grande quantité de graines. Les oiseaux, qui consomment ses fruits, dispersent les graines. Localement le mahonia à feuilles de houx se répand rapidement grâce à ses drageons.
 **Type(s) biologique** : Chaméphyte
 

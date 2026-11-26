@@ -28,6 +28,8 @@ sources:
 - **Confusions possibles** : avec le genre *Cytisus*, se distingue par ses 10 étamines soudées et les feuilles supérieures sont composées que d'une seule foliole ; avec *Coronilla glauca*, se distingue par 2 à 7 paires de folioles et est entièrement glabre.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Medicago%20arborea.png)
 **Type de reproduction / propagation** : Le mode de reproduction de *Medicago arborea* est sexuée (allogame). La dissémination des graines s'effectue par épizoochorie (dissémination des graines ou des diaspores des végétaux se faisant grâce aux animaux). Le transport du pollen est assuré par les insectes pollinisateurs, surtout les abeilles solitaires. En absence de pollinisateurs, la production de graines est faible.
 **Type(s) biologique** : Nanophanérophyte
 

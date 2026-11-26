@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec d'autres cytises et genêts, notamment le Cytise à balais *Cytisus scoparius* (qui est indigène). Il s'en distingue par ses rameaux à 8 côtes étroites et obtuses en U renversé (5 côtes larges et aigües en V renversé chez *C. scoparius*), et ses ovaires et gousses à faces soyeuses-argentées (faces glabres ou très rarement à poils peu denses chez *C. scoparius*).
 
 **Milieux** : **Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cytisus%20striatus.png)
 **Type de reproduction / propagation** : Le Cytise strié est une espèce originaire de la péninsule ibérique, introduite en France comme plante ornementale et pour lutter contre l'érosion des sols (plantée sur les talus routiers). C'est une espèce exotique envahissante avérée en Amérique du nord, propagée par les activités humaines.
 
 Le Cytise strié se reproduit principalement de manière sexuée par graines (auto-incompatible, pollinisation croisée obligatoire), mais aussi parfois de manière asexuée par bouturage des tiges. Les graines ont une durée de vie longue, et une partie reste en dormance dans le sol. Elles sont dispersées par autochorie (dehiscence explosive) ainsi que par les activités humaines, les animaux et l'eau.

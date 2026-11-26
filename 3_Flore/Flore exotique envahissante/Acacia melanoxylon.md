@@ -30,6 +30,8 @@ sources:
 - **Confusions possibles** : très semblable à *A. saligna* et *A. retinoides*, mais ces 2 espèces ont des phyllodes à seulement 1 nervure saillante. *A. melanoxylon* peut également être confondu avec : - *A. longifolia* qui a aussi des phyllodes mais qui possède des inflorescences allongées en épi ; - *A. paradoxa* qui a des épines et de petites phyllodes ; - *A. pycnantha* dont les inflorescences sont composées de plus de glomérules (10 à 15 glomérules). Sinon *A. melanoxylon* se distingue facilement des autres espèces d'*Acacia* spp. qui ont des feuilles composées.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20melanoxylon.png)
 **Type de reproduction / propagation** : *Acacia melanoxylon* produit des fleurs dès la deuxième année, et des graines dès la cinquième année. Les graines sont produites en grande quantité et capables de rester longtemps en dormance (viables plus de 50 ans) jusqu'à l'arrivée d'une perturbation (comme le feu). Le taux de germination moyen est de 75%. Il est également capable de se propager à partir de drageons (CABI, 2018).
 **Type(s) biologique** : Phanérophyte
 

@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres vergerettes (*Erigeron *spp. incluant *Conyza *spp. : 15 espèces présentes en zone méditerranéenne française continentale, dont 8 exotiques) et en particulier *Erigeron blackei*, *Erigeron bonariensis*, *Erigeron floribundus* et *Erigeron sumatrensis*, dont il se distingue par ses ligules plus longues (visibles) et ses feuilles à soies étalées.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20canadensis.png)
 **Type de reproduction / propagation** : Le conyze du Canada se reproduit par graines qui sont dispersées par le vent et parfois par l'eau. Un individu peut produire jusqu'à 250 000 graines. La survie des graines dans le sol est comprise entre 1 et 3 ans. Le conyze du Canada peut s'hybrider avec l'érigéron crépu (*Erigeron bonariensis*) et la vergerette de Barcelone (*Erigeron sumatrensis*).
 **Type(s) biologique** : Thérophyte
 

@@ -19,3 +19,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Emergente ; Méd. Occ. : Alerte ; Méd. PACA :  ; Massif Central : Prévention ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=96591)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Eragrostis%20curvula.png)

@@ -24,6 +24,8 @@ sources:
 - **Port** : lianescent. Arbuste grimpant, volubile, pouvant atteindre une hauteur de 15 à 20 m. L’espèce peut gagner 1 à 2 m par an.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Periploca%20graeca.png)
 **Type de reproduction / propagation** : La pollinisation est entomogame. Le bourreau-des-arbres produit des graines qui sont dispersées par le vent et les animaux. Il peut aussi avoir une reproduction végétative (marcottage, drageonnement).
 **Type(s) biologique** : Phanérophyte lianescente
 

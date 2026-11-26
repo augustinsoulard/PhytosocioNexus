@@ -23,6 +23,8 @@ sources:
 - **Port** : plante buissonnante vivace, succulente, à port dressé.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20engelmannii.png)
 **Type de reproduction / propagation** : Les oponces se multiplient très facilement par bouturage à partir de raquettes tombées à terre. *Opuntia engelmannii* peut aussi avoir une reproduction sexuée (ses graines étant dispersées par endozoochorie et hydrochorie).
 **Type(s) biologique** : Chaméphyte
 

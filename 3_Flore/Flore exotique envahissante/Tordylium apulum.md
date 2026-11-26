@@ -13,6 +13,8 @@ sources:
 
 **Habitats** : Milieux rudéraux des bords de chemins, friches, cultures et des fossés ([[Chenopodietalia albi]]).
 
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tordylium%20apulum.png)
+
 ## D'après INVMED (consulté en 2026)
 
 *Tordylium apulum* L., 1753

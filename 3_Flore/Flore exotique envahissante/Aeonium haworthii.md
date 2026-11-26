@@ -28,6 +28,8 @@ sources:
 - **Taille** : de 15 à 30 cm.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aeonium%20haworthii.png)
 **Type de reproduction / propagation** : Comme bon nombre de plantes succulentes, l'*Aeonium haworthii* se reproduit par voie végétative et se répand par déversement de déchets de jardin (et bouturage). L'espèce est aussi anémochore.
 **Type(s) biologique** : Chaméphyte
 

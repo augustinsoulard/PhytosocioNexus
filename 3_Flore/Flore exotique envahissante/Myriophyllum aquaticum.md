@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Non envahissante ; Méd. Occ. : Emergente ; Méd. PACA : Emergente ; Massif Central : Emergente ; Alpine : Prévention
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Myriophyllum%20aquaticum.png)
 **Type de reproduction / propagation** : Le myriophylle du Brésil peut coloniser des fonds jusqu'à 3 mètres et ses racines peuvent s'enfoncer jusqu'à 50 cm dans le substrat. Sa production de biomasse importante lui permet de coloniser rapidement un plan d'eau. Les boutures peuvent survivre plusieurs jours dans l'eau avant de se fixer et de former un nouvel individu. Elle n'a pas de reproduction sexuée connue en Europe étant donné que l'espèce est dioïque et que seuls des individus femelles ont été introduits sur le territoire. L'espèce peut fleurir sur le territoire métropolitain. Elle se reproduit exclusivement de manière végétative (clonage) soit par fragmentation des tiges et des rhizomes qui flottent et se bouturent. Elle se disperse principalement par les mouvements d'eau (courants, crues, etc.), par les espèces aquatiques (dont oiseaux) et les activités humaines.
 **Type(s) biologique** : Hydrophyte enraciné
 

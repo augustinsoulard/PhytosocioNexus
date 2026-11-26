@@ -1,0 +1,12 @@
+---
+tags:
+  - espece
+cd_nomv18: 130749
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+# Achillea ptarmica subsp. ptarmica
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Achillea%20ptarmica%20subsp.%20ptarmica.png)

@@ -20,3 +20,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Majeure ; Pyrénées : Emergente ; Méd. Occ. : Majeure ; Méd. PACA : Modérée ; Massif Central : Emergente ; Alpine : Alerte
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112790)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Petasites%20pyrenaicus.png)

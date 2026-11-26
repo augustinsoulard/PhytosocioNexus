@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles :** avec les élodées (*Elodea canadensis* et *Elodea nuttalii*), qui ont les feuilles verticillées par 3 et < 2 cm de long ; avec le lagarosiphon (*Lagarosiphon major*), qui a les feuilles alternes (caractère visible sur la partie inférieure de la tige) ; avec les naïades (*Najas*), qui ont les feuilles opposées (elles peuvent sembler verticillées) et des tiges à nombreuses ramifications dichotomiques.
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elodea%20densa.png)
 **Type de reproduction / propagation** : L'égérie dense est une plante dioïque dont seuls les pieds mâles sont présents en France. Elle se propage donc uniquement par multiplication asexuée en produisant des boutures (fragments de tige). La dispersion est principalement due à l'homme, par les bateaux, les équipements de pêche, les machines et outils utilisés pour gérer cette espèce aquatique, les vêtements et les chaussures. Elle est également favorisée par les lâchers d'eau et les crues.
 **Type(s) biologique** : Hydrophyte
 

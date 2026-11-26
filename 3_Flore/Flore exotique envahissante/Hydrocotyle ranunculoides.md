@@ -24,6 +24,8 @@ sources:
 - **Port** : plante herbacée amphibie vivace, stolonifère.
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hydrocotyle%20ranunculoides.png)
 **Type de reproduction / propagation** : En Europe, la reproduction sexuée semble possible, toutefois, la production de graines viables n'a pour l'instant jamais été observée. L'hydrocotyle fausse-renoncule se reproduit principalement par fragmentation des tiges. Ces fragments sont facilement dispersés par des activités humaines telles que les vidanges d'aquariums, la circulation des bateaux et des véhicules utilisés pour entretenir les cours d'eau, ou l'arrachage sans précaution. Les crues et les oiseaux d'eau participeraient aussi à la propagation de la plante.
 **Type(s) biologique** : Hydrophyte enraciné
 

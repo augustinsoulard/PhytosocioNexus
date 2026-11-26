@@ -19,3 +19,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Absente ; Méd. Occ. : Alerte ; Méd. PACA :  ; Massif Central : Alerte ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=97594)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euphorbia%20nutans.png)

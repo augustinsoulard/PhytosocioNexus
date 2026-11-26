@@ -25,6 +25,8 @@ sources:
 - **Tiges** : grimpantes et poilues.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ipomoea%20indica.png)
 **Type de reproduction / propagation** : La dissémination est assurée par ses rhizomes et par la fragmentation de la tige. Les graines sont dispersées par le vent, la pluie, les cours d'eau, la gravité et l'activité humaine, tandis que les fragments de tige sont généralement dispersés par l'eau, les animaux et les véhicules et dans les déchets de jardin déversés.
 **Type(s) biologique** : Phanérophyte lianescente
 

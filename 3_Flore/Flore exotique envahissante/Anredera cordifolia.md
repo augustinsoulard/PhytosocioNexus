@@ -23,6 +23,8 @@ sources:
 - **Confusions possibles** : en France, il n'y a pas de risque de confusion avec d'autres espèces.
 
 **Milieux** : ****
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Anredera%20cordifolia.png)
 **Type de reproduction / propagation** : Plante rarement fertile dans les zones où elle a été introduite, l'Anrédère à feuilles en cœur se reproduit principalement de manière végétative par ses nombreux tubercules (aériens et souterrains), ainsi que par ses rhizomes et fragments de tiges. Les tubercules peuvent notamment être dispersés par barochorie, par l'eau et par les activités humaines. Les tubercules aériens peuvent survivre plusieurs années dans la canopée après que les tiges aient été coupées, et sont capables de donner de nouvelles plantes. Cette espèce est pollinisée par les insectes.
 
 Bien que son nom commun fasse référence à Madère, l'Anrédère à feuilles en cœur n'est pas originaire de cette île, mais d'Amérique du Sud. Elle a été introduite dans de nombreux pays en tant que plante d’ornement. Elle continue d’être dispersée par l’Homme, toujours pour l’ornement. En France, les premières mentions datent du XXème siècle, dans les Bouches-du-Rhône.

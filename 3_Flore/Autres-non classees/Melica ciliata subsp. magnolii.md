@@ -1,0 +1,12 @@
+---
+tags:
+  - espece
+cd_nomv18: 137723
+date_maj: "2026-11-26"
+auteurs:
+  - Augustin Soulard
+---
+
+# Melica ciliata subsp. magnolii
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Melica%20ciliata%20subsp.%20magnolii.png)

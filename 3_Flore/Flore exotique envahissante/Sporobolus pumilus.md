@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : avec les autres spartines (5 espèces présentes en France). C'est la seule qui est présente sur le littoral méditerranéen français.
 
 **Milieux** : ****
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20pumilus.png)
 **Type de reproduction / propagation** : La spartine bigarrée est généralement stérile dans sa zone d'introduction, et se reproduit de manière végétative par ses rhizomes.
 **Type(s) biologique** : Géophyte à rhizome
 

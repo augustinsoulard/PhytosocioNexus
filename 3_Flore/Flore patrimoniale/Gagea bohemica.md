@@ -7,3 +7,6 @@ C’est une espèce très précoce pouvant apparaître dès janvier.
 [[Protection nationale|Elle est protégée à l’échelle nationale.]]
 
 On la reconnaît à ses tépales moins étalées que les autres espèces du genre. Les fleurs sont portées par des pédicelles très velus. Les feuilles basales ne dépassent pas 1 mm de largeur alors que les feuilles caulinaires sont plus larges et élargies vers la base.
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gagea%20bohemica.png)

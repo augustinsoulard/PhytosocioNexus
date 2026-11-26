@@ -23,6 +23,8 @@ sources:
 - **Confusions possibles** : avec d'autres souchets, notamment le souchet comestible *Cyperus esculentus*, qui est d'un vert plus clair, à tubercules plus pâles et inflorescence plus jaune.
 
 **Milieux** : ****
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20rotundus.png)
 **Type de reproduction / propagation** : Le Souchet rond est une espèce pansubtropicale. En France, il est présent dans la région méditerranéenne : dans les Alpes-Maritimes, la Corse et le Var il est considéré comme probablement indigène. Par contre, dans l'Aude, les Bouches-du-Rhône, le Gard, l'Hérault, les Pyrénées-Orientales et le Vaucluse, il est considéré comme exotique (naturalisé).
 
 Le Souchet rond se reproduit principalement de manière asexuée, par ses rhizomes ou ses tubercules, qui sont dispersés par l'eau et par les activités humaines. La reproduction sexuée est peu présente chez cette espèce, car une grande partie de ses graines n'est pas viable. Les quelques graines viables sont dispersées principalement par le vent.

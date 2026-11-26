@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Alerte ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Alerte ; Alpine : Non envahissante
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=92222)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Commelina%20communis.png)

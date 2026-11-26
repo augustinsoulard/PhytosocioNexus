@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Tristagma uniflorum*, qui s'en distingue par ses fleurs solitaires et bleutées, ses étamines enfermées dans le tube du périgone et son odeur alliacée par froissement ; et avec les ails (*Allium *spp.), qui s'en distinguent par leurs tépales libres et leur odeur alliacée par froissement.
 
 **Milieux** : **Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nothoscordum%20x%20borbonicum.png)
 **Type de reproduction / propagation** : L'ail inodore se reproduit par graines et par multiplication végétative. Les plantes matures possèdent un bulbe principal avec de nombreuses petites bulbilles accrochées, qui peuvent s'en détacher et former de nouvelles tiges. Les graines peuvent être dispersées par l'eau et le vent, ainsi que par les activités humaines, tout comme les bulbilles (déchets de jardin, sols contaminés, etc.).
 **Type(s) biologique** : Géophyte à bulbe
 

@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : *Paspalum distichum* peut être confondu avec *Paspalum dilatatum*, *Digitaria sanguialis, Digitaria ischaemum* et *Cynodon dactylon* qui ont également des épis digités mais plus nombreux.
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Paspalum%20distichum.png)
 **Type de reproduction / propagation** : Le paspale a deux épis se reproduit principalement par multiplication végétative, par extension de ses stolons (dont la croissance peut atteindre 25-30 cm par semaine par des températures de 30 à 40°C), et également par fragmentation de son rhizome. Espèce monoïque, il se reproduit également de manière sexuée par graines (pollinisation anémophile). Les graines sont disséminées par le vent, les courants, les animaux et par l'homme (lors d'opérations agricoles notamment). Les fragments de stolons et de rhizomes sont transportés par l'eau.
 **Type(s) biologique** : Géophyte à rhizome
 

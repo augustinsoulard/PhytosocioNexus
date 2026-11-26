@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : les feuilles apparaissent sur les jeunes raquettes, elles sont réduites et éphémères.
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20stricta.png)
 **Type de reproduction / propagation** : *Opuntia stricta* est la plus fréquente des oponces naturalisées sur le territoire. La combinaison des deux modes de reproduction (voie asexuée et sexuée) lui confère une dynamique de colonisation importante. Elle a la capacité de se multiplier très facilement par bouturage à partir de raquettes tombées à terre. Une bouture est capable de produire des graines dès sa troisième année. En effet, une seule raquette peut bouturer et donner naissance à un nouveau plant (qui donnera à son tour des fruits à partir de la troisième année).
 
 La dissémination des graines s'effectue par endozoochorie : les animaux, notamment les oiseaux, contribuent à disséminer les graines : sucré, riche en arômes et de couleur vive, le fruit est appétent. Les graines et les "raquettes" (tiges de forme aplatie) peuvent aussi être transportées par l'eau et le vent.

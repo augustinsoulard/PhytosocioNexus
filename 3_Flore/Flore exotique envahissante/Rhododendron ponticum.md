@@ -24,6 +24,8 @@ sources:
 - **Port** : arbustif sempervirent.
 
 **Milieux** : **Forêts et maquis ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rhododendron%20ponticum.png)
 **Type de reproduction / propagation** : Le rhododendron pontique est une espèce capable de produire environ 1 million de graines par buisson. Elles ont une durée de vie inférieure à un an. Il est capable de fleurir à partir de la 10ème année. L'espèce peut marcotter.
 **Type(s) biologique** : Nanophanérophyte
 

@@ -24,6 +24,8 @@ sources:
 - ** Port** : arbrisseau ou arbuste.
 
 **Milieux** : **Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Euonymus%20japonicus.png)
 **Type de reproduction / propagation** : Le fusain du Japon se reproduit par graines, il est pollinisé par des insectes. Les graines ont besoin d'une période de froid pour germer. Il peut également rejeter de souche.
 **Type(s) biologique** : Nanophanérophyte
 

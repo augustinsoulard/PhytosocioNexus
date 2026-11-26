@@ -19,3 +19,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Absente ; Méd. Occ. : Absente ; Méd. PACA :  ; Massif Central : Alerte ; Alpine : 
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=88956)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Carex%20vulpinoidea.png)

@@ -24,6 +24,8 @@ sources:
 - ** Port** : plante annuelle robuste, vert foncé.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20floribundus.png)
 **Type de reproduction / propagation** : La vergerette à fleurs nombreuses se reproduit par graines, qui sont dispersées par le vent. Elle peut s'hybrider avec *Erigeron acris * qui est indigène.
 **Type(s) biologique** : Thérophyte
 

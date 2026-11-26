@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : pas de confusions possibles (possiblement avec la laitue d'eau, *Pistia stratiotes,* qui ressemble à une laitue flottant librement à la surface de l'eau). Les fleurs rappellent l'hétéranthère des marais* Heteranthera limosa* mais à 6 étamines subégales et sans pétiole renflé à la base.
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Marais, tourbières, tufières**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pontederia%20crassipes.png)
 **Type de reproduction / propagation** : La jacinthe d’eau est une espèce monoïque qui pratique principalement la reproduction végétative, mais aussi la reproduction sexuée. La pollinisation est notamment réalisée par les abeilles. Chaque plante peut produire jusqu’à 5 000 graines, qui peuvent rester viables jusqu'à 20 ans dans le sédiment. La reproduction végétative, quant à elle, s’effectue par les stolons. Les graines ou les jeunes clones sont ensuite disséminés par l’eau, les animaux ou l’homme (engins de navigation, entretien des voies fluviales).
 **Type(s) biologique** : Hydrophyte
 

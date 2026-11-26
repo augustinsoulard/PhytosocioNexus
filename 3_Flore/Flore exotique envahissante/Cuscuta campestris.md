@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : avec les autres cuscutes (7 espèces sont présentes en région méditerranéenne française continentale, dont une autre exotique). Elle se distingue par ses inflorescences en glomérules, ses 2 styles et stigmates globuleux.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cuscuta%20campestris.png)
 **Type de reproduction / propagation** : La cuscute des champs se reproduit par graines, produites par auto-pollinisation et dispersées par le vent, l'eau, les animaux ou les activités humaines (machines, véhicules, matériel contaminé). Une plante peut produire jusqu'à 16 000 graines qui peuvent rester viables au moins 3 ans.
 **Type(s) biologique** : Thérophyte
 

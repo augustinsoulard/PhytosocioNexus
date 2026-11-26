@@ -26,6 +26,8 @@ sources:
 - **Confusion possible** : avec *Cyperus fuscus*, *ayant les épillets brun, plus lâches, et dont les feuilles inférieures font 5 mm de large.
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20eragrostis.png)
 **Type de reproduction / propagation** : Le souchet robuste se multiplie de manière sexuée (graines) et de manière asexuée. Les plantes, même petites, produisent une grande quantité de graines viables dispersées par les cours d'eau. La multiplication végétative s'effectue par rhizomes, et parfois dans le collet où apparaissent des bourgeons qui perpétuent la plante.
 **Type(s) biologique** : Hémicryptophyte
 

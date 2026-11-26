@@ -25,6 +25,8 @@ sources:
 - **Taille** : de 1 à 4 m de haut.
 
 **Milieux** : **Forêts et maquis**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hakea%20sericea.png)
 **Type de reproduction / propagation** : Les graines peuvent rester viables tout au long de la vie de l'arbre.
 **Type(s) biologique** : Nanophanérophyte
 

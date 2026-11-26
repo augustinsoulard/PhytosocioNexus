@@ -25,6 +25,8 @@ sources:
 - **Confusion possible** : avec *Bryonia dioica* que l'on trouve dans les mêmes milieux, différenciable par les fruits (baies) et les vrilles simples.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sicyos%20angulatus.png)
 **Type de reproduction / propagation** : Le sicyos anguleux, plante annuelle, n'est pas capable de multiplication végétative et se répand par dissémination des graines. Celles-ci sont épineuses, relativement petites et facilement transportables. En milieu naturel, elles s'accrochent aux animaux et sont déplacées dans les cours d'eau sur de longues distances. En milieu agricole, elles sont charriées par les engins qui participent à une dispersion de proximité. La fructification est largement plus importante dans les milieux où les pressions de compétition interspécifique sont réduites, et les pieds établis en parcelle cultivée (maïs) produisent moins de semences que ceux établis en milieu naturel.
 **Type(s) biologique** : Thérophyte
 

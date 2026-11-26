@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : opposées ou verticillées, largement ovales à bord entier et glauque, elles possèdent de nombreuses nervures secondaires parallèles. La face inférieure est velue et blanchâtre.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Asclepias%20syriaca.png)
 **Type de reproduction / propagation** : La multiplication végétative est assurée par des rhizomes traçants. Les activités humaines participent à la dispersion des rhizomes et des graines (mouvement de terre, transport routier, etc.).
 **Type(s) biologique** : Géophyte
 

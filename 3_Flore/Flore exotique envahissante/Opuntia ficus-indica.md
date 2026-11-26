@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : les feuilles apparaissent sur les jeunes raquettes, elles sont réduites et éphémères.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Opuntia%20ficus-indica.png)
 **Type de reproduction / propagation** : Le figuier de barbarie est une oponce qui se multiplie très facilement par bouturage à partir de raquettes tombées à terre. Une bouture est capable de produire des graines dès sa troisième année. La dissémination des graines s'effectue par endozoochorie.
 **Type(s) biologique** : Nanophanérophyte
 

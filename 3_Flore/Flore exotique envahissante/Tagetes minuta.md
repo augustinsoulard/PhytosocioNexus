@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Tageta patula*, espèce à plus grands capitules appelé oeillet d'Inde.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tagetes%20minuta.png)
 **Type de reproduction / propagation** : Le tagète des décombres se reproduit de manière sexuée uniquement. Il est pollinisé par les insectes et produit de nombreuses graines qui sont dispersées par le vent, les animaux et les activités humaines (en contaminant des semences agricoles, du foin, en s'accrochant au bétail, etc.). Les graines ont un taux de germination important la première année (95%) mais ne survivent pas plus de quelques mois dans le sol.
 **Type(s) biologique** : Thérophyte
 

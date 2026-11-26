@@ -27,6 +27,8 @@ sources:
 - **Taille** : 30 à 60 cm.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20maculata.png)
 **Type de reproduction / propagation** : Il semblerait qu'en dehors de son aire d'origine, *Aloe maculata* ne produise pas de graines, et se reproduit exclusivement par reproduction végétative. C'est notamment le cas en Nouvelle Zélande (NZPCN, 2010) et au Brésil (Corredor-Prado *et al*., 2015). Introduite en Australie, l'espèce se serait répandue à partir de déchets de jardin (bouturage) où elle est cultivée à but ornemental.
 **Type(s) biologique** : Hémicryptophyte
 

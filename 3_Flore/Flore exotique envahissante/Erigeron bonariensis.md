@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres vergerettes (*Erigeron *spp. incluant *Conyza *spp. : 15 espèces présentes en zone méditerranéenne française continentale, dont 8 exotiques) et en particulier *Erigeron blackei*, *Erigeron canadensis*, *Erigeron floribundus* et *Erigeron sumatrensis*, dont il se distingue par sa taille relativement petite et ses rameaux subterminaux tardifs.
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20bonariensis.png)
 **Type de reproduction / propagation** : L'érigéron crépu se reproduit par graines qui sont dispersées par le vent. Il produit en moyenne 119 000 graines par individu (400 graines par capitule) qui peuvent rester viables 2-3 ans dans le sol. Il peut s'hybrider avec le conyze du Canada (*Erigeron canadensis*).
 **Type(s) biologique** : Thérophyte
 

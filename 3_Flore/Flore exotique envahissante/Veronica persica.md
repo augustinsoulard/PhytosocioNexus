@@ -36,6 +36,8 @@ Espèce commensale des cultures et friches (Diplotaxion erucoidis, Veronico agre
 - ** Port** : herbacée annuelle ramifiée.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Veronica%20persica.png)
 **Type de reproduction / propagation** : La véronique de Perse est une plante qui a une reproduction sexuée (production de nombreuses graines). Ses graines se dispersent par hydrochorie mais aussi via des terres contaminées, des semences de céréales ou de plantes fourragères, ou dans le fumier.
 **Type(s) biologique** : Thérophyte
 

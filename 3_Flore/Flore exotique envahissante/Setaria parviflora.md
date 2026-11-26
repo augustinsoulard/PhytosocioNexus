@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : avec les autres sétaires (5 espèces présentes en France méditerranéenne continentale, toutes indigènes, à l'exception d'une des sous-espèce de *Setaria italica*). La sétaire à petites fleurs se distingue par ses gaines glabres, son inflorescence grêle et ses limbes étroits. Elle peut également être confondue avec les *Cenchrus* spp. (5 espèces présentes en France méditerranéenne continentale, toutes exotiques), un genre auquel elle était rattachée auparavant (*Cenchrus parviflorus *Poir.). Les cenchrus se distinguent par leurs arêtes très raides et épineuses.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Setaria%20parviflora.png)
 **Type de reproduction / propagation** : La sétaire à petites fleurs se reproduit par graines, qui sont dispersées par les oiseaux, le bétail ou les activités humaines (contaminant des semences agricoles ou du foin, en s'accrochant sur les vêtements, etc.).
 **Type(s) biologique** : Hémicryptophyte
 

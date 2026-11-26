@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : le genre *Rubus* spp. est très complexe et comprend de nombreux taxons hybrides et apomictiques, très difficiles à différencier. *Rubus armeniacus* fait partie de l'aggrégat de *Rubus fruticosus*. Le nom *Rubus discolor* est souvent recontré dans la littérature comme synonyme de *Rubus armeniacus*, mais c'est incorrect, et c'est bien *Rubus armeniacus* qui est une espèce végétale exotique envahissante.
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rubus%20armeniacus.png)
 **Type de reproduction / propagation** : La ronce d'Arménie se reproduit par graines qui sont dispersées par les oiseaux et les mammifères (qui consomment les fruits) et par l'eau. Elle produit de 7000 à 13000 graines/m², qui restent viables plusieurs années dans le sol. La pollinisation est réalisée par les insectes. Néanmoins, la ronce d'Arménie se reproduit principalement de manière végétative : les tiges s'enracinent en touchant le sol, des rejets partent des racines (drageons) et les fragments de tiges et de racines se bouturent.
 **Type(s) biologique** : Nanophanérophyte
 

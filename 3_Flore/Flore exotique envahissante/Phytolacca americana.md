@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Phytolacca dioica*, naturalisée en Corse et dans le Var, qui est un arbre de 8 à 15 m avec des inflorescences pendantes.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phytolacca%20americana.png)
 **Type de reproduction / propagation** : La plante se reproduit uniquement de manière sexuée. La dissémination des graines s'effectue par endozoochorie. Elles sont en capacité de germer après plusieurs années dans la banque de graines du sol.
 **Type(s) biologique** : Hémicryptophyte
 

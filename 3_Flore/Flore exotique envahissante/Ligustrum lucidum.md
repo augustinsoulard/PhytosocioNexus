@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Alerte ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Alerte ; Alpine : Prévention
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ligustrum%20lucidum.png)
 **Type de reproduction / propagation** : Le troène luisant est capable de drageonner et de se reproduire par voie sexuée. Ses graines sont dispersées par barochorie et endozoochorie.
 **Type(s) biologique** : Nanophanérophyte
 

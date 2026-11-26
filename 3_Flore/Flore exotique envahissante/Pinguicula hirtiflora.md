@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres grassettes (*Pinguicula* spp.), les 7 autres espèces présentes en France méditerranéenne continentale sont toutes indigènes. Elle se distingue par ses rosettes persistant l'hiver et la forme de ses fleurs.
 
 **Milieux** : **Marais, tourbières, tufières**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pinguicula%20hirtiflora.png)
 **Type de reproduction / propagation** : La grassette à fleurs hirsutes se reproduit par graines, qui germent dès qu'elles tombent au sol et ont une faible durée de vie. Les graines peuvent être dispersées par l'eau.
 **Type(s) biologique** : Hémicryptophyte
 

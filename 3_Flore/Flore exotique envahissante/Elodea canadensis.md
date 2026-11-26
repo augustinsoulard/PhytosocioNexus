@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Majeure ; Pyrénées : Modérée ; Méd. Occ. : Emergente ; Méd. PACA : Emergente ; Massif Central : Emergente ; Alpine : Emergente
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elodea%20canadensis.png)
 **Type de reproduction / propagation** : L'élodée du Canada est une espèce dioïque dont seuls les pieds femelles sont observés en France, sa reproduction est donc uniquement végétative. La propagation se fait principalement par fragmentation et bouturage des tiges, et leur dissémination est effectuée par les courants, les oiseaux aquatiques et les activités humaines (navigation, entretien des cours d'eau, loisirs, rejets d'aquariums). L'espèce régresse dans les eaux atteignant 25°C.
 **Type(s) biologique** : Hydrophyte enraciné
 

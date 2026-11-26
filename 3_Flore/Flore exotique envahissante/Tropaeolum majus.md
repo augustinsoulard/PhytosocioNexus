@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : Avec la Capucine à cinq feuilles, qui est également exotique. Elle s'en distingue par ses feuilles entières et ses 5 pétales développés, plus longs que les sépales (*Tropaeolum pentaphyllum* a des feuilles composées palmées à pétiole vrillé et seulement 2 pétales développés, plus courts que les sépales).
 
 **Milieux** : **Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tropaeolum%20majus.png)
 **Type de reproduction / propagation** : La Grande Capucine se reproduit par graines. Elle est pollinisée par les insectes.
 
 Les graines de Grande Capucine peuvent être dispersées par l'eau (Beckett, 1988; Chambert and James, 2009) ainsi que par les oiseaux (NZPCN, 2020).

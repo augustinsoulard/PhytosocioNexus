@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : feuilles simples légèrement pétiolées à sommet obtus à acuminé. Le limbe foliaire est ovale, couvert de nervures profondes et présente une base triangulaire à subtronquée. Sa texture rappelle le cuir. Feuilles longues de 40 à 120 cm et larges de 27 à 70 cm. Elles n’apparaissent qu’après la floraison.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Marais, tourbières, tufières ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lysichiton%20americanus.png)
 **Type de reproduction / propagation** : Le lysichiton américain se reproduit principalement par graines. Il est pollinisé par un coléoptère dans son aire d'origine, probablement par des diptères en Europe. Les individus fleurissent à partir de l'âge de 3 à 6 ans et produisent 300 à 650 graines par spadice. La plupart des graines tombent au sol, et peuvent ensuite être transportées par l'eau ou par les animaux. Les graines peuvent rester viables 6 à 9 ans dans le sol. La multiplication végétative est également possible par fragmentation des rhizomes, mais n'est pas observée en conditions naturelles.
 **Type(s) biologique** : Hémicryptophyte
 

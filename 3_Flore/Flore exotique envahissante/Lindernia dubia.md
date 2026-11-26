@@ -29,6 +29,8 @@ sources:
 - **Confusions possibles** : avec *Lindernia palutris*, protégée au niveau national, se distinguant par des pédoncules qui dépassent les feuilles (entières ou légèrement crénelées). Ne pas confondre avec *Veronica anagalis-aquatica* dont les fleurs forment des grappes et les feuilles ont une nervation pennée.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lindernia%20dubia.png)
 **Type de reproduction / propagation** : La lindernie fausse-gratiole peut se reproduire par graines (pollinisation entomogame) ou de manière asexuée, grâce à des turions se terminant par des propagules. Les graines flottant aisément sont principalement dispersées par l'eau, ou encore par les animaux ou les activités humaines (la vase contenant des graines peut coller aux pattes des oiseaux, aux chaussures, aux pneus des véhicules, etc.).
 **Type(s) biologique** : Thérophyte
 

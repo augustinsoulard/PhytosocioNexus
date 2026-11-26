@@ -28,6 +28,8 @@ sources:
 - **Confusion possible** : avec *Achillea millefolium*, indigène, qui se distingue par ses corolles d'un blanc plus jaunâtre et par une odeur beaucoup plus prononcée. Elle peut également être confondue avec *Achillea filipendulina* qui est potentiellement envahissante, mais celle-ci est plus grande (souvent plus de 1 m de haut) et des fleurs d'un jaune d'or.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Achillea%20crithmifolia.png)
 **Type de reproduction / propagation** : *Achillea crithmifolia* est une plante (hémicryptophyte) vivace drageonnante capable de former en peu de temps un large et dense tapis persistant. Sa propagation se fait sur quelques mètres par le biais de drageons, envahissant rapidement la surface disponible. Elle produit aussi des graines, qui sont dispersées par le vent.
 **Type(s) biologique** : Hémicryptophyte
 

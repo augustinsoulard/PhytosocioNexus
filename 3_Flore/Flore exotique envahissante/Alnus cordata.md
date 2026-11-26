@@ -20,3 +20,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Non envahissante ; Pyrénées : Non envahissante ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Alerte ; Alpine : Alerte
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=81567)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Alnus%20cordata.png)

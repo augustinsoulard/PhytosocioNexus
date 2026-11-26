@@ -24,6 +24,8 @@ sources:
 - **Feuilles :** opposées, cylindriques, fortement papilleuses, donnant un aspect givré.
 
 **Milieux** : ****
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Drosanthemum%20floribundum.png)
 **Type de reproduction / propagation** : Le drosanthème à fleurs nombreuses se reproduit de manière sexuée (par graines). Chaque fruit produit environ 200 graines, chaque plante peut donc produire des centaines voire des milliers de graines par an. Il se reproduit également de manière asexuée par bouturage des fragments de tige. Ceux-ci peuvent être dispersés par l'eau.
 **Type(s) biologique** : Chaméphyte
 

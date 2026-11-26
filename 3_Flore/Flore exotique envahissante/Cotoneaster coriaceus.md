@@ -24,6 +24,8 @@ sources:
 - ** Port** : arbrisseau dressé.
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotoneaster%20coriaceus.png)
 **Type de reproduction / propagation** : Le cotonéaster laiteux est apomictique, il peut produire des graines sans fécondation. Il est pollinisé par les insectes et ses graines sont dispersées principalement par les oiseaux, mais aussi par d'autres animaux et par l'eau. Un individu peut produire des milliers de graines chaque année. Le cotonéaster laiteux rejette de souche lorsqu'on le coupe.
 **Type(s) biologique** : Nanophanérophyte
 

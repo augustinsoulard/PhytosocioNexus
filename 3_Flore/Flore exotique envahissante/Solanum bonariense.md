@@ -20,3 +20,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Absente ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Absente ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124020)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solanum%20bonariense.png)

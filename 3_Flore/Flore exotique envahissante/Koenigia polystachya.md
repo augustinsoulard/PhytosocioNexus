@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les renouées du Japon, de Sakhaline et de Bohême (*Reynoutria* spp.), qui sont également des espèces exotiques envahissantes. Elle s'en distingue par ses tépales non carénés, ses inflorescences majoritairement terminales et ses feuilles lancéolées. Elle peut également être confondue avec la renouée des Alpes (*Koenigia alpina*), qui est indigène. Elle s'en distingue par ses stigmantes non dilatés, ses feuilles médianes plus ou moins auriculées et sa taille plus grande.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Koenigia%20polystachya.png)
 **Type de reproduction / propagation** : La renouée à épis nombreux peut se reproduire par graines (pollinisation par les insectes), mais cela reste assez rare dans son aire d'introduction. Les graines sont dispersées par le vent ou par l'eau. Elle se reproduit principalement de manière végétative grâce à ses rhizomes et à ses tiges qui peuvent se bouturer. Des fragments de rhizomes et de tiges d'1 cm peuvent former des nouvelles plantes. Ils sont dispersés par l'eau (crues) et par les activités humaines (équipements, véhicules, sol contaminé, etc.).
 **Type(s) biologique** : Hémicryptophyte
 

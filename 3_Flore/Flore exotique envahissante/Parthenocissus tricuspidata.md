@@ -20,3 +20,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Alerte ; Méd. Occ. : Alerte ; Méd. PACA : Emergente ; Massif Central : Prévention ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112467)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Parthenocissus%20tricuspidata.png)

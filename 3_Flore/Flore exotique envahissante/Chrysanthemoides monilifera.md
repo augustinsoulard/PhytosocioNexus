@@ -24,6 +24,8 @@ sources:
 - ** Port** : Arbrisseau vivace en dôme. Système racinaire peu profond.
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Chrysanthemoides%20monilifera.png)
 **Type de reproduction / propagation** : Le faux chrysanthème fleurit dès l'âge de 1 à 3 ans et peut vivre jusqu'à 35 ans (généralement 10 à 20 ans). Il se reproduit principalement par graines, mais la reproduction végétative est également possible par marcottage, notamment dans les sols dunaires où les branches sont parfois recouvertes de sable. Le faux chrysanthème est pollinisé par les insectes. Un individu peut produire jusqu'à 50 000 graines par an dont environ 60% sont viables. La banque de graines d'une infestation mature est comprise entre 800 et 3000 graines/m². Les mammifères (lapins, renards, bétail) et les oiseaux consomment ses fruits, disséminant ainsi ses graines. Les graines peuvent également être transportées par l'eau ou le vent, mais plus généralement elles tombent au pied de la plante mère. La viabilité des graines dans le sol décroît après 2 ans, mais certaines graines peuvent rester en dormance dans le sol pendant au moins 10 ans.
 **Type(s) biologique** : Nanophanérophyte
 

@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec l'armoise commune (*Artemisia vulgaris)*, se distingue par son feuillage blancs en dessous et une odeur marquée au froissement ; avec les autres *Ambrosia*, aussi introduites.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ambrosia%20artemisiifolia.png)
 **Type de reproduction / propagation** : La pollinisation des fleurs se fait par le vent. Les graines (3 000 graines sur un plant de taille moyenne, pouvant aller jusqu'à 62 000 graines) sont dispersées dans un rayon de 2 m autour de la plante mère. Les graines sont transportées principalement par l'homme, et parfois par les animaux et par l'eau. Le transport par l'homme comprend notamment les machines agricoles et de fauche, les terres contaminées, les graines à planter, les mélanges de graines pour oiseaux et les véhicules automobiles. Les graines doivent subir une période de froid avant de germer. Elles peuvent rester en dormance pendant de nombreuses années, jusqu'à 40 ans.
 **Type(s) biologique** : Thérophyte
 

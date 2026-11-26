@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : *Saccharum ravennae* (L.) Murray [syn. *Erianthus ravennae* (L.) Beauv.], la canne d'Italie, est indigène du bassin méditerranéen et peut atteindre 3 m. Les feuilles ont une gaine velue et la ligule est remplacée par des poils longs. *Saccharum spontaneum*, la canne sauvage est originaire d’Afrique et du sud de l’Asie. Elle peut atteindre 4 m de haut et la ligule est constituée de deux oreillettes poilues.
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies humides ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cortaderia%20selloana.png)
 **Type de reproduction / propagation** : Les fleurs de l’herbe de la pampa sont pollinisées par le vent. Cette plante produit une très grande quantité de graines (environ 10 millions par pied) qui sont le plus souvent disséminées par le vent dans un rayon de plus de 30 km et plus rarement par l’eau ou les véhicules automobiles. Elle a une croissance très rapide (la touffe atteint 1 m de haut au bout de 2 ans). Un plant d’herbe de la pampa vit entre 10 et 15 ans. La reproduction végétative est possible par des fragments de la plante lorsque les conditions d'humidité sont adéquates, cependant ce mode de reproduction est très peu observé (FCBN, 2009).
 **Type(s) biologique** : Hémicryptophyte
 

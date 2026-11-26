@@ -20,6 +20,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Absente ; Pyrénées : Alerte ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Absente ; Alpine : Prévention
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nicotiana%20glauca.png)
 **Type de reproduction / propagation** : *Nicotiana glauca* a une propagation rapide en raison des taux élevés de fruits et de graines produits, d'une grande viabilité des semences et d'un recrutement fréquent des semis dans les populations. Cette espèce n'est pas gênée par les embruns.
 **Type(s) biologique** : Nanophanérophyte
 

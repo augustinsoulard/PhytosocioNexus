@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Rudbeckia hirta *et *R. fulgida*, espèces ornementales qui se distinguent par des feuilles entières et lancéolées.
 
 **Milieux** : **Berges et ripisylves ; Marais, tourbières, tufières ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Rudbeckia%20laciniata.png)
 **Type de reproduction / propagation** : La reproduction est principalement végétative : elle s'effectue par élongation et fragmentation des rhizomes. Les fragments de rhizomes constituent de véritables boutures qui peuvent être dispersées facilement. La rudbeckie laciniée produit également de grandes quantités d'akènes (1600 graines viables par plant et jusqu’à 94000 par m²) par pollinisation entomophile, mais ses graines ne germer souvent que dans des sites ouverts et perturbés. L'abondance des graines produites et leur facilité d'accrochage au pelage des animaux assurent également une propagation lointaine (CBNFC, 2008).
 **Type(s) biologique** : Géophyte à rhizome
 

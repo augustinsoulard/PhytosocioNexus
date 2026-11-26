@@ -30,6 +30,8 @@ sources:
 - **Confusions possibles** : très semblable à *A. saligna* et *A. pycnantha* qui ont le funicule des graines qui est court. *A. retinodes* peut également être confondu avec : - *A. melanoxylon* qui a plusieurs nervures marquées (2 à 7) sur chaque phyllode ; - *A. longifolia* qui possède des inflorescences allongées en épi ; - *A. paradoxa* qui a des épines et de petites phyllodes. Sinon *A. retinodes* se distingue facilement des autres espèces d'*Acacia* spp. qui ont des feuilles composées.
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20retinodes.png)
 **Type de reproduction / propagation** : Espèce résistante au calcaire, servant de porte-greffe pour les espèces calcifuges (Jacquemin, 1997). *Acacia retinodes* se reproduit par graines (nombreuses), qui restent viables dans le sol pendant de nombreuses années.
 **Type(s) biologique** : Phanérophyte
 

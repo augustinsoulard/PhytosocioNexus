@@ -24,6 +24,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Non envahissante ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Non envahissante ; Alpine : Absente
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Yucca%20gloriosa.png)
 **Type de reproduction / propagation** : Le yucca glorieux a un mode de reproduction entomogame dans son aire de répartition naturelle. Dans ses zones d'introduction en Europe, l'insecte pollinisateur n'est pas présent : le yucca se développe ainsi uniquement par bouturage (et drageonnement).
 **Type(s) biologique** : Nanophanérophyte
 

@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Sagittaria sagittifolia*, espèce indigène, dont les premières feuilles sont rubanées et ovales, les feuilles adultes sagittées et dépassant rarement 12 cm de longueur (sans le pétiole). Les fleurs sont blanches à mauve pâle vers le centre.
 
 **Milieux** : **Eaux courantes ou stagnantes ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sagittaria%20latifolia.png)
 **Type de reproduction / propagation** : Dans son aire d'origine, la sagittaire à larges feuilles présente des populations soit monoïques (fleurs mâles et femelles sur le même plant) soit dioïques (fleurs mâles et femelles sur des plants différents). En France, seuls des pieds mâles (populations dioïques) ont été observés. La reproduction s'effectue donc uniquement de manière asexuée, par les tubercules. Une plante peut produire jusqu'à 40 tubercules par an, et chaque tubercule peut produire de 3 à 5 nouveaux plants. Dans son aire d'origine, la sagittaire à larges feuilles se reproduit également de manière sexuée (par graines) et un plant peut produire jusqu'à 20 000 akènes viables par an.
 **Type(s) biologique** : Hydrophyte enraciné
 

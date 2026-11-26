@@ -31,6 +31,8 @@ sources:
 - **Confusions possibles** : avec *Fraxinus excelsior*, qui a des samares simples et des bourgeons noirs terminaux.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acer%20negundo.png)
 **Type de reproduction / propagation** : La pollinisation se fait majoritairement par le vent. Elle peut être assurée par les abeilles. Les fruits se disséminent à au moins 50 m du pied mère par anémochorie. L'eau est également un agent de dispersion efficace, étant donné que les graines sont capables de survivre 6 semaines dans l'eau. Les samares peuvent parfois être transportées par les voitures et le long des voies ferrées. Les graines sont capables de germer dans les espaces ouverts mais aussi en sous-bois. L'âge de première reproduction est fortement dépendant des ressources, il varie de 5 à plus de 15 ans. L'espèce est aussi capable de se reproduire de façon végétative (drageons) et de produire de nombreux rejets après coupe.
 **Type(s) biologique** : Phanérophyte
 

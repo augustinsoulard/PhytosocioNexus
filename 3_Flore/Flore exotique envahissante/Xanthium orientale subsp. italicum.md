@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : Avec les autres *Xanthium* spp. (3 espèces présentes en France méditerranéenne continentale, dont 2 exotiques), dont il se distingue par ses fruits mûrs dépassant 20 mm de longueur à maturité. Il se distingue de l'autre sous-espèce *Xanthium orientale* subsp. *orientale* par ses fruits densément velus mais assez peu glanduleux, hérissés d'épines serrées, fines, droites ou peu courbées sauf l'extrémité crochue.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Xanthium%20orientale%20subsp.%20italicum.png)
 **Type de reproduction / propagation** : La lampourde d'Italie est une plante monoïque qui se reproduit par graines. Celles-ci sont dispersées par les animaux ou par les activités humaines (les fruits s'accrochent à la fourrure, aux vêtements, chaussures). Un individu peut produire 6200 graines et le taux de germination en conditions naturelles est supérieur à 90%.
 **Type(s) biologique** : Thérophyte
 

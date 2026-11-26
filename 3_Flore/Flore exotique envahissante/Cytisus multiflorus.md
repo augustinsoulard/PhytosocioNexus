@@ -23,6 +23,8 @@ sources:
 - **Confusions possibles** : il se distingue des autres cytises et genêts par ses fleurs blanches (jaunes chez la plupart les autres espèces).
 
 **Milieux** : ****
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cytisus%20multiflorus.png)
 **Type de reproduction / propagation** : Le Cytise blanc est une espèce originaire de la péninsule ibérique, introduite en France comme plante ornementale (plantée sur les talus routiers). C'est une espèce exotique envahissante avérée en Amérique du nord et en Océanie, propagée par les activités humaines.
 
 Le Cytise blanc se reproduit principalement de manière sexuée par graines (auto-incompatible, pollinisation croisée obligatoire), mais aussi parfois de manière asexuée par bouturage des tiges. Les graines ont une durée de vie longue, et une partie reste en dormance dans le sol. Elles sont dispersées par autochorie (dehiscence explosive) ainsi que par les activités humaines, les animaux et l'eau.

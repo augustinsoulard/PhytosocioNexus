@@ -29,6 +29,8 @@ sources:
 - **Taille** : de 30 à 200 cm.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Abutilon%20theophrasti.png)
 **Type de reproduction / propagation** : Espèce très fertile, autogame, pouvant produire plus de 3 000 graines par individu pouvant rester viables jusqu'à 50 ans dans le sol (Elorza *et al*., 2004 ; CABI, 2019). Les machines agricoles jouent un rôle important dans la dispersion des graines de cette plante d'un champ à l'autre. Les graines sont matures 17 à 22 jours après la pollinisation (CABI, 2019). Les fruits ont une bonne flottabilité (Elorza *et al.*, 2004).
 **Type(s) biologique** : Thérophyte
 

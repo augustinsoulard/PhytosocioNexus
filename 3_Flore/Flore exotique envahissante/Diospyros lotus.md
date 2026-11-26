@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Prévention ; Méd. Occ. : Emergente ; Méd. PACA : Alerte ; Massif Central : Absente ; Alpine : Prévention
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=95048)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Diospyros%20lotus.png)

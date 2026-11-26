@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Absente ; Méd. Occ. : Emergente ; Méd. PACA : Alerte ; Massif Central : Prévention ; Alpine : Prévention
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=610847)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ambrosia%20psilostachya.png)

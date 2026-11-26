@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Alerte ; Méd. Occ. : Emergente ; Méd. PACA : Emergente ; Massif Central : Emergente ; Alpine : Prévention
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Elodea%20nuttallii.png)
 **Type de reproduction / propagation** : L'élodée à feuilles étroites est une espèce dioïque dont des pieds mâles et femelles ont été introduits en France, contrairement à l'élodée du Canada, où seuls des pieds femelles ont été observés. La propagation se fait principalement par fragmentation et bouturage des tiges, mais elle peut également produire des graines, bien que cette forme de reproduction soit peu observée. La dissémination des fragments de plante est effectuée par les courants, les oiseaux aquatiques et les activités humaines (activités nautiques, entretien des cours d'eau, rejets d'aquariums, etc.).
 **Type(s) biologique** : Hydrophyte enraciné
 

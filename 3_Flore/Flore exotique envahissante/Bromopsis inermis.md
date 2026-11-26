@@ -20,3 +20,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Non envahissante ; Méd. Occ. : Alerte ; Méd. PACA : Majeure ; Massif Central : Alerte ; Alpine : Majeure
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=86513)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bromopsis%20inermis.png)

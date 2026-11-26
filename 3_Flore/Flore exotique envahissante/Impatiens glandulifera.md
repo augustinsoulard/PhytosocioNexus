@@ -25,6 +25,8 @@ sources:
 - **Confusion possible** : avec *Impatiens balfourii* qui se distingue par sa taille plus petite, des feuilles alternes et des fleurs à éperon plus long et droit.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Impatiens%20glandulifera.png)
 **Type de reproduction / propagation** : La balsamine de l’Himalaya a une croissance très rapide et se reproduit essentiellement par graines. Elle est auto-fertile et son nectar attire de nombreux insectes, notamment les abeilles et les bourdons. À maturité, les capsules produites explosent au moindre contact (goutte d’eau par exemple) et éjectent les nombreuses graines (800 graines par plant) jusqu’à 6 m du plant mère.
 
 Ces graines peuvent ensuite être transportées par l’eau ou par les activités humaines. Elles ont une durée de vie de 18 mois et ont besoin de froid pour germer. Elle peut également se reproduire par bouturage des tiges ou des racines.

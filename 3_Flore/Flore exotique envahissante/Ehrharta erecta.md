@@ -24,6 +24,8 @@ sources:
 - ** Port** : herbe vivace cespiteuse et rhizomateuse.
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ehrharta%20erecta.png)
 **Type de reproduction / propagation** : L'ehrharte érigée se reproduit principalement par graines, mais la reproduction asexuée est également possible par enracinement aux nœuds des tiges florifères. Le taux de germination des graines est proche de 100%, et la densité des plantules peut atteindre 1200 plantules/m². Les graines sont dispersées par le vent, les animaux (sabots et fourrure) et les activités humaines (chaussures, sol contaminé, voies de communication, etc.).
 **Type(s) biologique** : Thérophyte
 

@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Emergente ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Emergente ; Alpine : Prévention
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=124164)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solidago%20canadensis.png)

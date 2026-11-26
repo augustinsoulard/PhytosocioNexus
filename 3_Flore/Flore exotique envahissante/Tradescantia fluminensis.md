@@ -24,6 +24,8 @@ sources:
 - ** Port** : herbacée vivace à longues tiges rampantes d'où partent des rameaux ascendants. Forme des tapis.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Tradescantia%20fluminensis.png)
 **Type de reproduction / propagation** : En Nouvelle-Zélande et en Australie, l'éphémère de Rio ne produit pas de graines et sa reproduction est uniquement végétative. Un fragment d'1 cm avec au moins un nœud suffit à produire un nouveau plant par bouturage. Au Portugal, l'espèce produit des graines mais peu fréquemment.
 **Type(s) biologique** : Hémicryptophyte
 

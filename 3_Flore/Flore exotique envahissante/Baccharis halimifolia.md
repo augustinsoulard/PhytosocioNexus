@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec l'arbousier (*Arbutus unedo*) et le nerprun (*Rhamnus alaternus*), qui ont des feuilles finement denticulées.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Marais, tourbières, tufières ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Baccharis%20halimifolia.png)
 **Type de reproduction / propagation** : Les fleurs sont pollinisées par le vent. Les arbustes sont capables de fructifier dès l’âge de 2 ans. Chaque individu produit entre 10 000 et 1,5 million de graines ailées qui peuvent être dispersées sur de longues distances par le vent. Les graines sont capables de germer très rapidement, dès qu’elles rencontrent des conditions favorables. Elles ont une durée de vie de 5 ans environ. La croissance du séneçon en arbre est rapide (habituellement de 1 à 4 m par an). Après une coupe, il rejette de souche. La reprise peut se faire de façon presque instantanée par drageonnage.
 **Type(s) biologique** : Nanophanérophyte
 

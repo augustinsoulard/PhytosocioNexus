@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec la canne à sucre cultivée (*Saccharum officinarum*), qui n'est pas présente en France. Avec *Tripidium ravennae*, *Miscanthus sinensis* ou encore *Cortaderia selloana* (les deux dernières étant également exotiques), qui s'en distinguent par leur souche cespiteuse leur conférant un port en touffe (souche rampante chez *Saccharum spontaneum*). Les plantes naturalisées de *S. spontaneum* de méditerranée occidentale appartiennent généralement à la sous-espèce *aegyptiacum*.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Saccharum%20spontaneum.png)
 **Type de reproduction / propagation** : La canne à sucre fourragère peut se reproduire de manière sexuée ou asexuée. La pollinisation croisée par le vent et l'auto-pollinisation sont toutes deux possibles. La production de graines est importante, entre 3 000 et 13 000 graines en moyenne par plante, et leur taux de germination est proche de 90%. Les graines sont dispersées par le vent ou par l'eau. La canne à sucre fourragère se reproduit également de manière asexuée par fragmentation des rhizomes et des tiges, qui peuvent s'enraciner aux nœuds. Elle peut s'hybrider avec la canne à sucre cultivée *Saccharum officinarum*.
 **Type(s) biologique** : Hémicryptophyte
 

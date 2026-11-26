@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Emergente ; Pyrénées : Prévention ; Méd. Occ. : Emergente ; Méd. PACA : Emergente ; Massif Central : Prévention ; Alpine : Prévention
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phyllostachys%20aurea.png)
 **Type de reproduction / propagation** : Le bambou doré se reproduit par multiplication végétative grâce à ses rhizomes, qui peuvent s'allonger de 4 à 7 m par an. Les fragments de rhizomes peuvent être transportés par l'eau ou par les activités humaines. La reproduction sexuée par graines est très rare, mais peut parfois avoir lieu. La pollinisation se fait par le vent.
 **Type(s) biologique** : Géophyte à rhizome
 

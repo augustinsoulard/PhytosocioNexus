@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : avec les autres chèvrefeuilles. *Lonicera japonica *se distingue facilement des espèces indigènes par son port grimpant et ses fleurs regroupées par deux. *Lonicera implexa *a des fleurs groupées en tête sessiles, elles sont pédonculées chez *Lonicera etrusca. *
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Marais, tourbières, tufières**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Lonicera%20japonica.png)
 **Type de reproduction / propagation** : Le chèvrefeuille du Japon se développe en produisant de longs stolons et des rhizomes souterrains. La dispersion sur de longues distances s'effectue par production de graines, par endozoochorie.
 **Type(s) biologique** : Phanérophyte lianescente
 

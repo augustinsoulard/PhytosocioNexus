@@ -20,3 +20,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Modérée ; Pyrénées : Non envahissante ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Modérée ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=611753)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Dysphania%20ambrosioides.png)

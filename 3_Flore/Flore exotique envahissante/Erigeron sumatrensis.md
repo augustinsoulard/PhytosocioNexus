@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** :  avec les autres vergerettes (*Erigeron *spp. incluant *Conyza *spp. : 15 espèces présentes en zone méditerranéenne française continentale, dont 8 exotiques) et en particulier *Erigeron blackei*, *Erigeron bonariensis*, *Erigeron canadensis* et *Erigeron floribundus*, dont elle se distingue par ses capitules très nombreux et ses feuilles oblancéolées.
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20sumatrensis.png)
 **Type de reproduction / propagation** : La vergerette de Barcelone se reproduit par graines, qui sont dispersées principalement par le vent, mais aussi par l'eau et par les activités humaines. Un individu peut produire plus de 200 000 graines. La survie des graines dans le sol est comprise entre 1 et 3 ans. La vergerette de Barcelone peut s'hybrider avec le conyze du Canada (*Erigeron canadensis*).
 **Type(s) biologique** : Thérophyte
 

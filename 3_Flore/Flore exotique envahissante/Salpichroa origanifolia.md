@@ -27,6 +27,8 @@ sources:
 - **Taille** : de 30 à 200 cm.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Salpichroa%20origanifolia.png)
 **Type de reproduction / propagation** : Un pied est mature (capable de produire des fleurs et des fruits) au bout de 2 ans. Un fruit peut contenir 6 à 30 graines, avec une capacité de germination de 71 à 96% (Manceau, 2015). Le système racinaire et rhizomateux se trouve généralement à 10 cm de profondeur mais il peut atteindre 40 cm de profondeur. La coupe de ces rhizomes (même en courts morceaux) favorise leur régénération (Omezzine, 2009).
 **Type(s) biologique** : Chaméphyte
 

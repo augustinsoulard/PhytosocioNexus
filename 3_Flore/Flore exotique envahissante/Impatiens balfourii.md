@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : alternes, simples et pétiolées, au limbe ovale-lancéolées, aigües, finement dentées, vert tendre, de 2 à 13 cm de long sur 1,7 à 7 cm de large.
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Impatiens%20balfourii.png)
 **Type de reproduction / propagation** : La balsamine de Balfour est une plante autofertile, qui se reproduit par voie végétative (bouturage) et par voie sexuée (autochorie) : elle possède des fruits (capsules) qui explosent à maturité (ou par contact) et éjectent les graines.
 **Type(s) biologique** : Thérophyte
 

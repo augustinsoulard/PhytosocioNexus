@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Majeure ; Méd. Occ. : Alerte ; Méd. PACA : Modérée ; Massif Central : Emergente ; Alpine : Alerte
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erigeron%20karvinskianus.png)
 **Type de reproduction / propagation** : L'érigéron de Karvinski fleurit toute l'année dans les zones tropicales, et durant une grande partie de l'année dans les zones tempérées (mars à octobre en région méditerranéenne). Il produit de nombreuses graines qui sont dispersées par le vent. Une grande partie des graines est produite par apomixie (sans fécondation). De plus, l'érigéron de Karvinski produit des racines adventices qui lui permettent de former des tapis denses.
 **Type(s) biologique** : Chaméphyte
 

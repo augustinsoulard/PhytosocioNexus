@@ -38,6 +38,8 @@ especes_indicatrices:
 - **Feuilles** : vert bleuté, jaune rougeâtre en séchant, de 20-30 cm de long sur 2-7 mm de large, glabre sauf près de la ligule de 1-2mm de large.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bothriochloa%20barbinodis.png)
 **Type de reproduction / propagation** : Le barbon à noeuds velus se reproduit de manière sexuée, produisant de nombreuses graines à fort pouvoir germinatif (avec production de graines dès la première année dans des conditions idéales de germination) qui sont dispersées par le vent, les animaux et les activités humaines (notamment le long des voies de communication). L'espèce est aussi capable de drageonner.
 **Type(s) biologique** : Hémicryptophyte
 

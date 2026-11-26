@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Modérée ; Pyrénées : Modérée ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Alerte ; Alpine : Alerte
 
 **Milieux** : **Berges et ripisylves ; Forêts et maquis**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Prunus%20laurocerasus.png)
 **Type de reproduction / propagation** : La dissémination des graines s'effectue par endozoochorie (oiseaux). Les noyaux des baies sont rejetés dans les fèces à grandes distances du pied-mère. L'espèce a une forte capacité de drageonnage après une coupe (et de bouturage).
 **Type(s) biologique** : Nanophanérophyte
 

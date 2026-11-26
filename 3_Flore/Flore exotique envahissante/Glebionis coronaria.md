@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Non envahissante ; Pyrénées : Prévention ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Non envahissante ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=611295)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Glebionis%20coronaria.png)

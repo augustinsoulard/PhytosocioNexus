@@ -24,6 +24,8 @@ sources:
 - **Port** : arbustif à arboré, les branches retombent comme un saule-pleureur.
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20saligna.png)
 **Type de reproduction / propagation** : Fleurit dès la 2ème année (Jacquemin, 1997). Cette espèce se disperse principalement par reproduction sexuée, mais peut également former des petits colonies par des drageons. Grosse production de graines, pouvant rester longtemps en dormance dans le sol, et dont la germination peut être favoriser par le feu (CABI).
 **Type(s) biologique** : Phanérophyte
 

@@ -23,6 +23,8 @@ sources:
 - **Confusions possibles** : avec d'autres souchets, notamment le souchet rond *Cyperus rotundus*, qui est d'un vert plus foncé, à tubercules plus sombres et inflorescence brun rouge foncé.
 
 **Milieux** : **Marais, tourbières, tufières ; Milieux agricoles**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cyperus%20esculentus.png)
 **Type de reproduction / propagation** : Le Souchet comestible est une espèce pansubtropicale. En France, il est présent dans la région méditerranéenne, et dans les vallées de la Loire, de l'Allier et de la Garonne. Il est considéré comme indigène en Corse et probablement indigène dans le Var, mais exotique ailleurs (naturalisé ou subspontané).
 
 Le Souchet comestible se reproduit à la fois de manière sexuée par graines (pollinisation croisée) et de manière asexuée par ses rhizomes et tubercules. Cette dernière est prédominante. Les graines et les tubercules peuvent être dispersés par les activités humaines (notamment agricoles), les sols contaminés, l'eau ou le vent. Le Souchet comestible est propagé principalement par les activités humaines (agriculture et horticulture).

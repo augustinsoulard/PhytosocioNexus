@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Pittosporum undulatum* qui se distingue par ses feuilles plus allongées à bords ondulés et par son port arborescent.
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pittosporum%20tobira.png)
 **Type de reproduction / propagation** : De nombreux semis sont observés sans individus mature à proximité. Les animaux semblent donc jouer un rôle important dans la dispersion de cette espèce.
 **Type(s) biologique** : Nanophanérophyte
 

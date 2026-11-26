@@ -24,6 +24,8 @@ sources:
 - **Port** : succulente vivace.
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Agave%20americana.png)
 **Type de reproduction / propagation** : *Agave americana* est une espèce monocarpique. La floraison apparait au bout de 10-20 ans, puis l'individu meurt après la maturation des fruits. Elle a aussi la capacité de drageonner (reproduction asexuée). Des bulbilles peuvent être présents sur la hampe florale et se disperser.
 **Type(s) biologique** : Chaméphyte
 

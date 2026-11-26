@@ -24,6 +24,8 @@ sources:
 - **Confusions possibles** : avec *Bidens tripartita*, indigène, qui se distingue par son absence de pétiole à la base des folioles et par ses akènes bordés de poils raides dirigés vers le bas.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bidens%20frondosa.png)
 **Type de reproduction / propagation** : Le bident feuillu se reproduit par reproduction sexuée (production de graines) uniquement. Sur les capitules, il existe 2 types de graines : les graines périphériques qui sont plus courtes et trapues, qui ne se dispersent pas loin mais avec une capacité de germination très rapide, tandis que les graines centrales sont plus longues (avec de longues dents) qui leur permettent de se disséminer sur de longues distances, avec une capacité de germination plus lente (CABI, 2018). Un seul individu peut produire plusieurs milliers de graines (jusqu'à 10 000) qui sont ensuite dispersées par le vent mais aussi via les cours d'eau et les oiseaux aquatiques. Les fruits peuvent être transportés par l'homme et les animaux.
 **Type(s) biologique** : Thérophyte
 

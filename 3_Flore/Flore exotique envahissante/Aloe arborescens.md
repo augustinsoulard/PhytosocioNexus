@@ -23,6 +23,8 @@ sources:
 - **Port** : arbrisseau dense pouvant dépasser 3 m de diamètre.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Aloe%20arborescens.png)
 **Type de reproduction / propagation** : *Aloe arborescens* se reproduit très bien par reproduction asexuée (bouturage). La plante est aussi anémochore.
 **Type(s) biologique** : Nanophanérophyte
 

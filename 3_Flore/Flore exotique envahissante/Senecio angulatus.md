@@ -28,6 +28,8 @@ sources:
 - **Taille** : de 2 à 10 m.
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20angulatus.png)
 **Type de reproduction / propagation** : Le séneçon anguleux se reproduit très facilement par marcotte aérienne. Cette astéracée est aussi capable de produire de nombreuses graines qui sont dispersées par le vent : c’est une espèce dite anémochore, dont les fruits sont des akènes surmontés de soies adaptés à la dispersion par le vent. Elle se reproduit aussi facilement par bouturage à partir de fragments de tiges isolés, d’où le risque important de dissémination par déplacement des déchets verts issus de l’entretien des jardins (Fried, 2012).
 **Type(s) biologique** : Phanérophyte lianescente
 

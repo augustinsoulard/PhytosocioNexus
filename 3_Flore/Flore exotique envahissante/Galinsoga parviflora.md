@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : feuilles pétiolées à limbe largement ovale, denté, long de 2-6 cm.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galinsoga%20parviflora.png)
 **Type de reproduction / propagation** : Le galinsoge à petites fleurs se reproduit généralement par graines, mais la reproduction végétative est également possible par bouturage. La pollinisation est entomogame ou autogame. Un individu peut produire jusqu'à 30 000 graines, dont la plupart sont viables (90%). Les graines ne présentent pas de dormance : la grande majorité germe dès la première année, les autres peuvent rester viables de 2 ans dans le sol. Les akènes peuvent être disséminés par le vent, les animaux, l'eau et les activités humaines. Le galinsoge à petites fleurs peut réaliser 3 ou 4 générations en une saison de croissance.
 **Type(s) biologique** : Thérophyte
 

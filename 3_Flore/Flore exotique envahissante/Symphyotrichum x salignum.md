@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Majeure ; Pyrénées : Emergente ; Méd. Occ. : Alerte ; Méd. PACA : Majeure ; Massif Central : Emergente ; Alpine : Emergente
 
 **Milieux** : **Berges et ripisylves ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphyotrichum%20x%20salignum.png)
 **Type de reproduction / propagation** : La reproduction sexuée de l'aster à feuilles de saule lui permet de produire un grand nombre de graines, transportables sur de grandes distances grâce au vent. En revanche, la capacité de germination de ces graines semble faible. Mais une fois installée, l'espèce se reproduit par multiplication végétative grâce aux longs rhizomes traçants, produisant de nouvelles tiges chaque année. L'aster à feuilles de saule (*Symphyotrichum x salignum*) est l'hybride de *S. lanceolatum × S. novii-belgii*, qu'il a de grandes chances de féconder dans la nature.
 **Type(s) biologique** : Hémicryptophyte
 

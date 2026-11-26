@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : peu de risque de confusion, car les autres espèces de polygales (*Polygala* spp.) ne sont pas des arbustes. En feuilles, il peut être confondu avec le myrte (*Myrtus communis*) mais celui-ci a les feuilles opposées.
 
 **Milieux** : **Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Polygala%20myrtifolia.png)
 **Type de reproduction / propagation** : Le polygale à feuilles de myrte se reproduit par graines, qui peuvent être dispersées par l'eau, les fourmis, les oiseaux ou les terres de jardins contaminées. La densité de graines peut atteindre 2000 graines/m². Elles peuvent rester viables 1 à 5 ans dans le sol et germer tout au long de l'année.
 **Type(s) biologique** : Nanophanérophyte
 

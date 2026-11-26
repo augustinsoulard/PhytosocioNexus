@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres panics (7 espèces en France méditerranéenne continentale, tous exotiques sauf *Panicum repens*) dont la détermination est délicate. *P. miliaceum* se distingue par son inflorescence penchée et à gros épillets.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20miliaceum.png)
 **Type de reproduction / propagation** : Le panic faux-millet se reproduit uniquement par graines, qu'il produit en grandes quantités.
 **Type(s) biologique** : Thérophyte
 

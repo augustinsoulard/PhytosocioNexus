@@ -10,3 +10,6 @@ Habitats : [[Lamio maculati - Symphytetum bulbosi]]
 Etudes trantant du sujet :
 - [[Consoude bulbeuse - Biotope]]
 
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Symphytum%20bulbosum.png)

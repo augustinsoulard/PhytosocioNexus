@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Absente ; Méd. Occ. : Emergente ; Méd. PACA : Emergente ; Massif Central : Alerte ; Alpine : Absente
 
 **Milieux** : **Eaux courantes ou stagnantes**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pistia%20stratiotes.png)
 **Type de reproduction / propagation** : La laitue d'eau se reproduit principalement par multiplication végétative, assurée par les stolons, mais également par reproduction sexuée (graines). Des tests de germination réalisés à partie de graines récoltées dans le contre-canal du Rhône ont permis de mettre en évidence la viabilité des graines et la capacité de germination de la population gardoise (Steffann, 2026).
 
 Les fragments de stolons sont principalement disséminés par les activités humaines (aquariophilie, bateaux) et par l'eau. La laitue d'eau est une espèce sensible au gel. La graine est l'organe de résistance au froid. Les graines peuvent résister à des températures de -5°C pendant quelques jours (Vélard, 1998).

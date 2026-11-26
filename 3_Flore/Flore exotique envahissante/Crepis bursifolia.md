@@ -26,3 +26,6 @@ especes_indicatrices:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Non envahissante ; Méd. Occ. : Modérée ; Méd. PACA : Modérée ; Massif Central : Non envahissante ; Alpine : Absente
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=93020)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Crepis%20bursifolia.png)

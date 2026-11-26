@@ -15,3 +15,6 @@ Canne de Provence (_Arundo donax_) est une espèce introduite classée comme en 
 **Habitats** : Principalement ripisylves, fossés, canaux d’irrigation, zones humides et friches humides des régions méditerranéennes et atlantiques ; s’étend le long des réseaux hydrauliques et des emprises d’infrastructures.
 
 **Floraison** : Septembre-Octobre
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Arundo%20donax.png)

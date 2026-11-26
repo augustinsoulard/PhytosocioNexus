@@ -24,6 +24,8 @@ sources:
 - ** Port** : herbe annuelle.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20longispinus.png)
 **Type de reproduction / propagation** : Le cenchrus à épines longues se reproduit uniquement par graines. Chaque plante peut contenir jusqu'à 5 600 fruits contenant chacun 2 graines, soit plus de 10 000 graines par plante. Celles-ci sont de deux sortes : les premières sont formées sur les épillets supérieurs et germent dans l'année, les deuxièmes sont formées sur les épillets inférieurs et peuvent rester en dormance pendant de longues périodes. Les fruits épineux s'accrochent aux vêtements, aux véhicules et au pelage des animaux (sauvages et domestiques), ce qui permet leur propagation. Les fruits sont parfois dispersés par l'eau. La banque de graines du sol peut persister 5 ans, et germer après un épisode pluvieux.
 **Type(s) biologique** : Thérophyte
 

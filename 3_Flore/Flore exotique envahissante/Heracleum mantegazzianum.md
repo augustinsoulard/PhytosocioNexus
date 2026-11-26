@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec *Heracleum sphondylium* (berce commune) et *Heracleum sibiricum* (berce de Sibérie) : dimensions générales de la plante beaucoup moins importantes (elle ne dépasse pas les 1,5 m) et feuilles pubescentes, de couleur vert-gris et à divisions lobées non dentées.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Heracleum%20mantegazzianum.png)
 **Type de reproduction / propagation** : La berce du Caucase est une plante pérenne monocarpique. C'est parvenue au terme de ses 5 à 7 années de développement que ses grandes ombelles vont porter des dizaines de milliers de fleurs puis de graines avant de dépérir. Chaque individu produit en moyenne entre 10 000 à 20 000 graines en Europe, avec possibilité d’autofécondation. Ces graines ont une durée de vie dans le sol pouvant égaler 7 ans d'après la bibliographie (avec en moyenne plus de 2 000 graines viables/m²). Une étude est en cours pour évaluer la persistance de la banque de graines du sol de cette espèce dans les Préalpes de Grasse.
 
 Cette espèce disperse ses graines généralement via les cours d'eau (mais aussi grâce au vent et les activités humaines). Des introductions involontaires peuvent s'opérer via le transport de graines au sein de terres contaminées, sous les pneumatiques des engins agricoles, sous les semelles de chaussures, etc.

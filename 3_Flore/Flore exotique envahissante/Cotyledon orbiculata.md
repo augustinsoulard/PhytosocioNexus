@@ -28,6 +28,8 @@ sources:
 - **Taille** : pouvant atteindre 80 cm de hauteur.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cotyledon%20orbiculata.png)
 **Type de reproduction / propagation** : Comme bon nombre de plantes succulentes, *Cotyledon orbiculata* se reproduit par voie végétative et se répand également par déversement de déchets de jardin. Elle peut cependant produire des graines qui peuvent être dispersées par le vent.
 **Type(s) biologique** : Chaméphyte
 

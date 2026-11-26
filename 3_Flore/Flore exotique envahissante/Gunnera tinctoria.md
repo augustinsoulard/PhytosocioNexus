@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Prévention ; Pyrénées : Prévention ; Méd. Occ. : Prévention ; Méd. PACA : Prévention ; Massif Central : Prévention ; Alpine : Prévention
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=100603)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Gunnera%20tinctoria.png)

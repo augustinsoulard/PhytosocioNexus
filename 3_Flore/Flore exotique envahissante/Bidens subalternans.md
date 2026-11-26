@@ -24,6 +24,8 @@ sources:
 - **Port** : plante annuelle robuste, glabre ou pubescente.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Bidens%20subalternans.png)
 **Type de reproduction / propagation** : Le bident à folioles subalternes est pollinisé par les insectes. Il produit de nombreux akènes, qui sont dispersés par les animaux, par l'homme ou par le vent.
 **Type(s) biologique** : Thérophyte
 

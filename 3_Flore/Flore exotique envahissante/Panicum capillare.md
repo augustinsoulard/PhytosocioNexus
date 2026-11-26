@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres panics (7 espèces en France méditerranéenne continentale, tous exotiques sauf *Panicum repens*) dont la détermination est délicate. *P. capillare *se distingue par ses gaines hérissées de poils, sa panicule fine à rameaux étalés, et ses fleurons fertiles à petite cicatrice basale. Il est très proche de *P. hillmannii*, lequel est considéré comme l'une de ses sous-espèce par certains auteurs.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20capillare.png)
 **Type de reproduction / propagation** : Le panic capillaire se reproduit par graines qui sont disséminées par le vent, l'eau, les animaux domestiques et les activités humaines (en contaminant des céréales ou en s'accrochant aux chaussures). Un individu peut produire 56 400 graines, qui peuvent rester viables dans le sol pendant longtemps.
 **Type(s) biologique** : Thérophyte
 

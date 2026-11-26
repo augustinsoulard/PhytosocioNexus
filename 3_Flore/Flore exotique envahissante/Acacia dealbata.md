@@ -30,6 +30,8 @@ sources:
 - **Confusions possibles** : très semblable à *Acacia baileyana* qui a des feuilles pruineuses, plus glauques et ont moins de 7 paires de segments primaires, et des folioles ciliées ou glabres (feuilles pubescentes chez *Acacia dealbata*). Ses fleurs sont plus foncées, moins vives et forment des grappes plus petites. Sinon, se distingue facilement des autres *Acacia* qui ont des feuilles entières (appelées phyllodes).
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20dealbata.png)
 **Type de reproduction / propagation** : Les fleurs sont pollinisées par les insectes. Un arbre est capable de produire des graines dès l’âge de 4 ou 5 ans. *Acacia dealbata* produit beaucoup de graines dont la majorité s'accumule sous l'arbre mère. Elles peuvent être disséminées par les animaux, principalement les oiseaux et les fourmis, ou transportées sur de grandes distances par l’eau, les activités humaines ou des vents forts. Les téguments extérieurs de ses semences ont besoin d’être usés ou rompus (scarifiés) pour germer. Les incendies favorisent leur germination. Les graines ont une durée de vie de 50 ans. Cet arbre a une croissance rapide mais une durée de vie relativement courte (quelques décennies). L’extension des peuplements est essentiellement assurée par le drageonnement et les rejets de souche. Ces deux types de reproduction végétative sont accentués lorsque l'arbre se trouve en état de stress (lésion des racines, taille, coupe, etc.) (AME, 2003).
 **Type(s) biologique** : Phanérophyte
 

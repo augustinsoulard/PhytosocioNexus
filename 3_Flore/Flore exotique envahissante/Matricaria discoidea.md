@@ -24,6 +24,8 @@ sources:
 - ** Port** : plante annuelle assez petite, très aromatique par froissement.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Matricaria%20discoidea.png)
 **Type de reproduction / propagation** : La matricaire fausse-camomille ne se reproduit que par voie sexuée. Les graines deviennent gélatineuses au contact de l'eau et s'accrochent aux tissus animaux. Les graines de cette espèce peuvent être aussi disséminées dans le substrat terreux collé aux pneus des véhicules et des engins agricoles. Les zones humides et piétinées par le bétail favorisent son apparition dans les prairies. Les semences sont capables de rester en dormance dans le sol pendant plusieurs années.
 **Type(s) biologique** : Thérophyte
 

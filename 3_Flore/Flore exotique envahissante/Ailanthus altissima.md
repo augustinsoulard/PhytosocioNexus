@@ -38,6 +38,8 @@ L'ailanthe glanduleux (*Ailanthus altissima*) est une espèce exotique envahissa
 - **Confusions possibles** : avec* Rhus *spp. (Anacardiacées), les sumacs (*Rhus typhina* L. originaire d’Amérique du Nord, *Rhus coriaria* L. originaire du sud de la Méditerranée), dont les feuilles sont semblables à celles de l’ailante. Leurs fruits sont de petites baies poilues.
 
 **Milieux** : **Berges et ripisylves ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Ailanthus%20altissima.png)
 **Type de reproduction / propagation** : Les fleurs d’ailante sont pollinisées par le vent. Les nombreuses graines ailées produites (300 000 graines par arbre et par an) sont disséminées par le vent ou l’eau et germent très facilement. La durée de vie des graines dans la litière est généralement de 7 ans : elle est quasi nulle au bout de 5 ans, mais sur sol minéral, elles restent viables à 75% après 5 ans (Porté, comm. pers.). Cet arbre a une grande vitesse de croissance (jusqu’à 1,5 m par saison) et forme un tapis racinaire dense (dès 3 mois pour un jeune plant). Il produit de nombreux drageons et rejette de souche, notamment quand la plante est stressée (taille, blessure, coupe, etc.). Chaque fragment de racine peut donner naissance à un nouvel individu.
 **Type(s) biologique** : Phanérophyte
 

@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : feuilles palmatipartites, coriaces.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Passiflora%20caerulea.png)
 **Type de reproduction / propagation** : La passiflore bleue se reproduit par graines, elle est pollinisée par les insectes (pollinisation croisée). Certains oiseaux, ou parfois mammifères, transportent ses graines. Elle peut s'hybrider avec d'autres espèces de passiflores. Les tiges coupées peuvent également se bouturer.
 **Type(s) biologique** : Phanérophyte lianescente
 

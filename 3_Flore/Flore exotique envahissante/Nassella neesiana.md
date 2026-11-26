@@ -24,6 +24,8 @@ sources:
 - ** Port** : herbe vivace en touffes.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Nassella%20neesiana.png)
 **Type de reproduction / propagation** : Le stipe de Nees possède à la fois des fleurs cléistogames (auto-pollinisation) et chasmogames (pollinisation croisée). Les fleurs cléistogames produisent des graines cachées dans les nœuds et les bases des tiges, qui représentent environ un quart de la production de graines totales. Celle-ci peut atteindre 28 000 graines par mètre carré les bonnes années, et 75% à 90% de ces graines produites sont viables. Les graines cachées permettent à la plante de se reproduire même si elle a été broutée, coupée ou brûlée. Les plantes peuvent fleurir et produire jusqu'à 250 graines dès leur première année. Les graines sont principalement dispersées par les activités humaines : elles s'accrochent aux machines agricoles, véhicules, vêtements et au bétail (en particulier la laine des moutons), elles sont dispersées par les opérations de fauchage ou débroussaillage et par les transports de terres. Elles peuvent également être dispersées par l'eau. La banque de graines peut persister jusqu'à 12 ans dans le sol.
 **Type(s) biologique** : Hémicryptophyte
 

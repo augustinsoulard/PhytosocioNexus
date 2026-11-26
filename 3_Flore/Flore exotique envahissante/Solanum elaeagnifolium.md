@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : En France, la difficulté relève surtout de l’identification formelle de la plante du fait de la variabilité morphologique observée dans notre région. Sur les stations de Châteauneuf-les-Martigues (Bouches-du-Rhône) et de Vic-la-Gardiole (Hérault), deux formes différentes de la plante ont été identifiées. À Vic-la-Gardiole, la plante présentait des feuilles larges duveteuses et d’un vert foncé, une tige couverte d’épines atteignant 80 cm de haut et des fleurs d’un violet intense. À Châteauneuf-les-Martigues, elle était prostrée (20 cm, dépourvue d’épines, elle avait des feuilles lisses d’un vert plus tendre et des fleurs presque blanches). *Nota bene* : des confusions sont possibles avec d’autres Solanacées exotiques : *Solanum panduriforme, S. carolinense, S. coactiliferum*, **S. esuriale* et *S. karsensis*. Ces espèces ne sont pas présentes en méditerranée française.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Solanum%20elaeagnifolium.png)
 **Type de reproduction / propagation** : La morelle jaune se reproduit principalement par reproduction végétative à partir de différents organes (racines, rhizomes, drageons, collets, tiges). Un fragment de racine ou de rhizome de très petite taille (0,5 cm) produit des repousses. Enfoui, il peut rester viable plus de 15 mois. Elle produit également une très grande quantité de graines, qui sont libérées, disséminées par les véhicules et les engins agricoles, le bétail et l’eau. Certaines graines sont viables dès leur année de production.
 **Type(s) biologique** : Géophyte
 

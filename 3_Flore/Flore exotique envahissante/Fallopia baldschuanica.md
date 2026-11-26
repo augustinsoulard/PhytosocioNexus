@@ -29,6 +29,8 @@ sources:
 - **Confusions possibles** : avec *Fallopia dumerotum*, espèce indigène annuelle à tiges volubiles ne dépassant pas 2 m [avec *Fallopia aubertii*, taxon très proche, qui a des fleurs blanches rosissant un peu à maturité : ces deux taxons sont regroupés sous le même nom par de nombreux auteurs].
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Fallopia%20baldschuanica.png)
 **Type de reproduction / propagation** : La vrillée de Bal'dzhuan peut se reproduire de manière sexuée (graines) ou asexuée (par bouturage). Elle peut s'hybrider avec la renouée du Japon (*Reynoutria japonica*), produisant l'hybride *Fallopia x conollyana*, et avec la renouée de bohème (*Reynoutria x bohemica*).
 **Type(s) biologique** : Phanérophyte lianescente
 

@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** avec ses parents, dont elle présente des caractères intermédiaires. *Reynoutria japonica* a des feuilles  plus petites, nettement tronquées à la base, glabres à la face inférieure, et des tiges cylindriques fortement tachetées de rouge ; *Reynoutria sachalinensis* a des feuilles de très grande taille, nettement en forme de cœur à la base et nettement poilues sur la face inférieure, et des tiges cannelées, non tachetées de rouge.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Reynoutria%20x%20bohemica.png)
 **Type de reproduction / propagation** : La renouée de Bohême est un hybride issu du croisement entre la renouée du Japon et la renouée de Sakhaline. Elle est partiellement fertile et peut produire des graines viables (pollinisation entomophile), et peut également s'hybrider avec ses parents. Cependant, la production de graines viables reste rare, et la reproduction se fait principalement par multiplication végétative, par fragmentation du rhizome et bouturage des tiges (un fragment de 0,7 g suffit à générer un nouveau plant). La dissémination des fragments est principalement due à l'homme (déplacement de terres contaminées lors de travaux d'aménagement), mais aussi à l’eau, à l’érosion des berges des rivières et aux animaux.
 **Type(s) biologique** : Géophyte à rhizome
 

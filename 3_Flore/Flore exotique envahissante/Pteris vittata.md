@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres ptéris (*Pteris cretica*, indigène [syn.* Pteris nipponica*]) dont il se distingue par ses pennes plus nombreuses et son pétiole écailleux.
 
 **Milieux** : **Côtes rocheuses et falaises ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Pteris%20vittata.png)
 **Type de reproduction / propagation** : Le ptéris rubané se reproduit par spores, qui peuvent être transportées par le vent, l'eau ou les vêtements.
 **Type(s) biologique** : Hémicryptophyte
 

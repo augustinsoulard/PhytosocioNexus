@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA : Emergente ; Massif Central :  ; Alpine : Absente
 
 **Milieux** : **Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Roldana%20petasitis.png)
 **Type de reproduction / propagation** : Le séneçon à feuilles de pétasite se reproduit principalement de manière sexuée, avec une pollinisation par les insectes. Il produit de nombreuses graines qui sont disséminées par le vent ou par les activités humaines (terres de jardin contaminées par exemple). Il peut également se reproduire de manière végétative par bouturage ou marcottage des tiges.
 **Type(s) biologique** : Chaméphyte
 

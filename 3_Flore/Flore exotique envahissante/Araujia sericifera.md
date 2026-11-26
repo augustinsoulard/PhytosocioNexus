@@ -25,6 +25,8 @@ sources:
 - **Taille** : de 2 à 10 m de long.
 
 **Milieux** : **Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Araujia%20sericifera.png)
 **Type de reproduction / propagation** : L’Araujia porte-soie se multiplie par reproduction sexuée. Chaque fruit peut contenir environ 400 graines, qui sont dispersées par le vent et qui peuvent persister dans le sol pendant au moins 5 ans (EPPO, 2012). Cette espèce peut se aussi reproduire par voie végétative (morceaux de tiges et de collet souterrains peuvent produire de nouvelles racines) (CAL-IPC, 2016).
 **Type(s) biologique** : Phanérophyte lianescente
 

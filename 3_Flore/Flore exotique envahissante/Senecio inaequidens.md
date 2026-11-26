@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres séneçons (*Senecio* spp. et *Jacobaea* spp.), 29 espèces en région méditerranéenne française continentale, dont 6 exotiques. Il s'en distingue par son port en buisson et ses feuilles entières bordées de dents (ou rarement de petits lobes) très espacés.
 
 **Milieux** : **Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Marais, tourbières, tufières ; Milieux agricoles ; Milieux anthropiques ; Prairies, pelouses sèches et garrigues**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Senecio%20inaequidens.png)
 **Type de reproduction / propagation** : Le séneçon du Cap se reproduit par graines. Il est pollinisé par les insectes. Un pied peut produire 10 000 à 30 000 graines par an. Les graines sont disséminées par le vent et les activités humaines (en s'accrochant aux vêtements, au pelage du bétail ou aux véhicules, par transport de sol, de foin, de graines ou de laine contaminés). Elles conservent leur pouvoir germinatif pendant 2 ans et peuvent germer du printemps à l'automne. De plus, les tiges peuvent se bouturer.
 **Type(s) biologique** : Chaméphyte
 

@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest :  ; Pyrénées :  ; Méd. Occ. :  ; Méd. PACA : Prévention ; Massif Central :  ; Alpine : Absente
 
 **Milieux** : ****
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Sporobolus%20alterniflorus.png)
 **Type de reproduction / propagation** : La multiplication végétative de *Spartina alterniflora* est assurée par ses rhizomes. La spartine à feuilles alternes peut aussi se reproduire par graines et au moyen de fragments de tige capables de s'enraciner. Les graines n'ont pas une très longue durée de vie et ne sont viables que pendant un an. La germination optimale a lieu dans l'obscurité.
 **Type(s) biologique** : Géophyte à rhizome
 

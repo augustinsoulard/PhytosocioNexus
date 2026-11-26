@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres panics (7 espèces en France méditerranéenne continentale, tous exotiques sauf *Panicum repens*) dont la détermination est délicate. Il est très proche de **P. capillare **(certains auteurs considèrent** Panicum hillmannii **comme une sous-espèce de** P. capillare**). *P. hillmannii* aurait les fleurs fertiles plus foncées et à cicatrice basale en forme de lune remontant dechaque côté de plus de 0,3 mm.
 
 **Milieux** : **Berges et ripisylves ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20hillmanii.png)
 **Type de reproduction / propagation** : Le panic de Hillman se reproduit uniquement par graines.
 **Type(s) biologique** : Thérophyte
 

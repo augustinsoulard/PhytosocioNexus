@@ -30,6 +30,8 @@ sources:
 - **Confusions possibles** : se distingue facilement des autres *Acacia* spp. par ses feuilles entières (phyllodes) et ses inflorescences allongées en épi (alors que les autres espèces ont des inflorescences globulaires = glomérules).
 
 **Milieux** : **Berges et ripisylves ; Côtes rocheuses et falaises ; Dunes côtières et plages de sable ; Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Acacia%20longifolia.png)
 **Type de reproduction / propagation** : Espèce poussant rapidement, elle fleurit dès la 2ème année (Jacquemin, 1997). Cette espèce se disperse seulement par reproduction sexuée, mais lors d'incendie ou de coupe elle peut rejeter de souche. Les graines ont une longue durée de vie et leur germination est favorisée par le feu (Queensland Government, 2016).
 **Type(s) biologique** : Phanérophyte
 

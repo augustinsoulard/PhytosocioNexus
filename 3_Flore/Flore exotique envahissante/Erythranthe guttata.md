@@ -25,6 +25,8 @@ sources:
 - **Taille** : de 20 à 50cm.
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Erythranthe%20guttata.png)
 **Type de reproduction / propagation** : *Erythranthe guttata* possède une grande capacité de dispersion. Celle-ci est fortement liée aux crues. Elle adopte une double stratégie : une reproduction végétative par bouturage et une reproduction sexuée (graines) lui permettant alors une dispersion à différentes périodes de l'année. Lors des crues, des fragments de mimule tacheté se détachent. Après 6 semaines, 96% des fragments produisent des pousses et 99% produisent des racines. Pour ce qui est de la reproduction sexuée : un pied de mimule tacheté produit en moyenne 15 fruits (capsules) par an, et chaque fruit contient en moyenne 464 graines. Ainsi en 1 an, un pied peut libérer 7 000 graines. 18 jours après la libération des graines, 40% d'entre elles ont germé. Et 90 jours après, 80% des germinations sont toujours en vie (Truscott, 2006).
 **Type(s) biologique** : Hémicryptophyte
 

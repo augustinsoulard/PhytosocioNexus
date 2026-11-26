@@ -29,6 +29,8 @@ sources:
 - **Taille** : peut atteindre 5 m de haut.
 
 **Milieux** : **Forêts et maquis**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Hakea%20salicifolia.png)
 **Type de reproduction / propagation** : Les graines peuvent rester viables tout au long de la vie de l'arbre. L'espèce est capable de drageonner.
 **Type(s) biologique** : Nanophanérophyte
 

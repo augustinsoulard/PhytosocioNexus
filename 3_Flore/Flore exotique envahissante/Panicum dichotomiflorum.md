@@ -25,6 +25,8 @@ sources:
 - **Confusions possibles** : avec les autres panics (7 espèces en France méditerranéenne continentale, tous exotiques sauf *Panicum repens*) dont la détermination est délicate. *P. dichotomiflorum* se distingue par ses gaines presque glabres.
 
 **Milieux** : **Berges et ripisylves**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Panicum%20dichotomiflorum.png)
 **Type de reproduction / propagation** : Le panic à fleurs dichotomes se reproduit uniquement par graines.
 **Type(s) biologique** : Thérophyte
 

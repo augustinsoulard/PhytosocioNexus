@@ -21,3 +21,6 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Majeure ; Pyrénées : Modérée ; Méd. Occ. : Majeure ; Méd. PACA : Majeure ; Massif Central : Majeure ; Alpine : Alerte
 
 [Fiche INVMED](https://invmed.fr/src/listes/evee-fiche.php?cd_ref=112463)
+
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Parthenocissus%20inserta.png)

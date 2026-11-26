@@ -29,6 +29,8 @@ sources:
 - **Taille** : De 10 à 60 cm.
 
 **Milieux** : **Berges et ripisylves ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Juncus%20tenuis.png)
 **Type de reproduction / propagation** : La pollinisation du jonc grêle est anémophile. La reproduction se fait de manière sexuée, un individu pouvant produire 30000 graines.
 **Type(s) biologique** : Hémicryptophyte
 

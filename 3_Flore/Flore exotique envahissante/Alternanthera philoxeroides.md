@@ -24,6 +24,8 @@ sources:
 - **Port** : herbacée amphibie, stolonifère, enracinée immergée ou émergée pouvant former des herbiers denses (jusqu’à 1 m d'épaisseur). Feuillage persistant. Il existe une "forme" aquatique (plus vigoureuse) et une "forme" terrestre, qui correspondent à une plasticité morphologique typique des plantes amphibies.
 
 **Milieux** : **Berges et ripisylves ; Eaux courantes ou stagnantes ; Milieux agricoles ; Milieux anthropiques ; Prairies humides**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Alternanthera%20philoxeroides.png)
 **Type de reproduction / propagation** : La reproduction est essentiellement végétative (reproduction asexuée) : *Alternanthera philoxeroides* peut se bouturer facilement à partir des fragments de tiges (qui contiennent des racines filamenteuses à ses noeuds) ou à partir de fragments de stolons. La reproduction sexuée n’a pas été observée dans les aires d’introduction de l’espèce (Sainty *et al.*, 1998).
 **Type(s) biologique** : Hydrophyte enraciné
 

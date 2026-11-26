@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Alerte ; Pyrénées : Absente ; Méd. Occ. : Alerte ; Méd. PACA : Majeure ; Massif Central : Absente ; Alpine : Alerte
 
 **Milieux** : **Côtes rocheuses et falaises ; Forêts et maquis ; Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Oxalis%20pes-caprae.png)
 **Type de reproduction / propagation** : *Oxalis pes-caprae* fructifie exceptionnellement, et les graines sont alors vides. La reproduction est végétative, par les bulbilles qui s'échelonnent tout le long de la tige souterraine. La plante se propage ainsi principalement grâce à cette multitude de bulbilles dispersées par le travail du sol. Elles sont également emportées le long des ravines par la pluie ou les cours d'eau. Les sangliers (*Sus scrofa*), par les boutis qu'ils laissent parfois sur leurs passages, peuvent être vecteurs de dispersion de la plante.
 **Type(s) biologique** : Géophyte à rhizome
 

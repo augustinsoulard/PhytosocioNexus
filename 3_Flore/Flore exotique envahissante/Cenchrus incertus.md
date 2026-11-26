@@ -24,6 +24,8 @@ sources:
 - ** Port** : herbe annuelle ou vivace à vie brève.
 
 **Milieux** : **Dunes côtières et plages de sable ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Cenchrus%20incertus.png)
 **Type de reproduction / propagation** : Le cenchrus épineux produit des graines de deux tailles différentes, et il est auto-compatible. Les fruits s'accrochent aux vêtements et au pelage des animaux ce qui permet leur propagation.
 **Type(s) biologique** : Thérophyte
 

@@ -21,6 +21,8 @@ sources:
 **Zones biogéographiques continentales** : Sud-Ouest : Absente ; Pyrénées : Non envahissante ; Méd. Occ. : Alerte ; Méd. PACA : Alerte ; Massif Central : Absente ; Alpine : Absente
 
 **Milieux** : **Forêts et maquis ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Phoenix%20canariensis.png)
 **Type de reproduction / propagation** : Le phénix des Canaries se reproduit par graines, qui peuvent être dispersées par l'eau ou par les animaux qui consomment ses fruits. La pollinisation se fait par le vent. Un individu produit de 10 000 à 30 000 drupes par an. Le phénix des Canaries peut s'hybrider avec le dattier (*Phoenix dactylifera*).
 **Type(s) biologique** : Phanérophyte
 

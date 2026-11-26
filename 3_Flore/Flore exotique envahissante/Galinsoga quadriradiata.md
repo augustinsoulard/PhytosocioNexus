@@ -25,6 +25,8 @@ sources:
 - **Feuilles** : feuilles pétiolées à limbe largement ovale, denté, long de 2-6 cm.
 
 **Milieux** : **Milieux agricoles ; Milieux anthropiques**
+
+![Carte de répartition départementale](https://s09.swdrive.fr/public.php/dav/files/xce75wj8JdKNQHq/Galinsoga%20quadriradiata.png)
 **Type de reproduction / propagation** : Le galinsoge cilié se reproduit généralement par graines, mais la reproduction végétative est également possible par bouturage. La pollinisation est entomogame ou autogame. Un individu peut produire jusqu'à 7500 graines, et l'infestation peut aller jusqu'à 1,3 millions de graines/m². Les graines ne présentent pas de dormance : la grande majorité germe dès la première année, les autres peuvent rester viables de 2 ans dans le sol. Les akènes peuvent être disséminés par le vent, les animaux, l'eau et les activités humaines. Le galinsoge cilié peut réaliser 2 ou 3 générations en une saison de croissance. Dans son aire d'indigénat, il peut fleurir et fructifier toute l'année.
 **Type(s) biologique** : Thérophyte
 
