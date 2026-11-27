@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Falcario vulgaris–Poion pratensis subsp. angustifoliae Passarge 1989
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Falcario vulgaris–Poion pratensis subsp. angustifoliae Passarge 1989
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
 
 ## Répartition
 
@@ -22,4 +22,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT

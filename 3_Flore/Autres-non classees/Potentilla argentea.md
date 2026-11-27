@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables basophiles, européennes
+* **Famille** : Rosaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables basophiles, européennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Cakiletea maritimae Tüxen & Preising in Tüxen 1950
-**Écologie (Baseflor)** : annuelles eutrophiles, estivales, des laisses de mer européennes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cakiletea maritimae Tüxen & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : annuelles eutrophiles, estivales, des laisses de mer européennes
 
 ## Répartition
 

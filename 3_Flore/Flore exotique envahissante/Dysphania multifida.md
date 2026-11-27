@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Amaranthaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

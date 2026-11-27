@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
-**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+* **Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
 
 ## Répartition
 

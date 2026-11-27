@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
 
 ## Répartition
 

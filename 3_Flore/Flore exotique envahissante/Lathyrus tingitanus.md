@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : test-lia
-**Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
 
 ## Répartition
 

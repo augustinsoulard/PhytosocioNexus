@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : Test-lia
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

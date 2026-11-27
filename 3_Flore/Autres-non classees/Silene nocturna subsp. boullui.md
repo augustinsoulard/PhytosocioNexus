@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+* **Famille** : Caryophyllaceae
+* **Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
 
 ## Répartition
 
@@ -22,4 +22,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE

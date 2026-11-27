@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+* **Famille** : Rubiaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
 
 ## Répartition
 

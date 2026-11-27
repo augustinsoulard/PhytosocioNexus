@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
 
 ## Répartition
 

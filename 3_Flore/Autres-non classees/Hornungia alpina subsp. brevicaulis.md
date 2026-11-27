@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Androsacetalia alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles, acidophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Androsacetalia alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles, acidophiles
 
 ## Répartition
 

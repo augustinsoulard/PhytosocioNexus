@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
+* **Famille** : Rubiaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
 
 ## Répartition
 

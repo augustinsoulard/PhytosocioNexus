@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
 
 ## Répartition
 

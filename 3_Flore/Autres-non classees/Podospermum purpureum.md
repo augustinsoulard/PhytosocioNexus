@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
+* **Famille** : Asteraceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

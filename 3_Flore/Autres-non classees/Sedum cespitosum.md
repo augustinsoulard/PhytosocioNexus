@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : avril-juin
-**Type biologique** : tver-suc
-**Syntaxon (Baseflor)** : Crassulo tillaeae–Sedion caespitosi (Rivas–Martínez 1978) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes, subhygrophiles
+* **Famille** : Crassulaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal succulent
+* **Syntaxon (Baseflor)** : Crassulo tillaeae–Sedion caespitosi (Rivas–Martínez 1978) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes, subhygrophiles
 
 ## Répartition
 

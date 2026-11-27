@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygalaceae
+* **Famille** : Polygalaceae
 
 ## Répartition
 

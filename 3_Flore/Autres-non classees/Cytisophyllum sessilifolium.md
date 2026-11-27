@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Cytisophyllion sessilifolii Biondi in Biondi, Allegrezza & Guitian 1988
-**Écologie (Baseflor)** : buissons d'arbrisseaux subméditerranéens
+* **Famille** : Fabaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Cytisophyllion sessilifolii Biondi in Biondi, Allegrezza & Guitian 1988
+* **Écologie (Baseflor)** : buissons d'arbrisseaux subméditerranéens
 
 ## Répartition
 

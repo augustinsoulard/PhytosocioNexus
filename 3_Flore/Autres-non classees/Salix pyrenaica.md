@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : juillet-août
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Salicion helveticae Rübel 1912 ex Theurillat in Theurillat, Aeschimann, Küpfer & Spichiger 1995
-**Écologie (Baseflor)** : sous-arbrisseaux hydrophiles, subalpins
+* **Famille** : Salicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salicion helveticae Rübel 1912 ex Theurillat in Theurillat, Aeschimann, Küpfer & Spichiger 1995
+* **Écologie (Baseflor)** : sous-arbrisseaux hydrophiles, subalpins
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

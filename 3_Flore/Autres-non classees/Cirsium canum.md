@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Achilleo ptarmicae subsp. ptarmicae–Cirsion palustris Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, acidophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Achilleo ptarmicae subsp. ptarmicae–Cirsion palustris Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, acidophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

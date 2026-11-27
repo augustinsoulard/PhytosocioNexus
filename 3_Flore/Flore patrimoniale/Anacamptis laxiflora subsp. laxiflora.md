@@ -6,19 +6,19 @@ cd_nomv18: 162135
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Orchidaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
-**Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
+* **Famille** : Orchidaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

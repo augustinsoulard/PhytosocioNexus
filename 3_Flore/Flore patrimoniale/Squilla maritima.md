@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Syntaxon (Baseflor)** : Charybdido pancratii–Asphodeletea ramosi Biondi in Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
-**Écologie (Baseflor)** : friches herbacées vivaces, méso-eutrophiles, thermo- à mésoméditerranéennes, de méditerranée centrale et orientale
+* **Famille** : Asparagaceae
+* **Syntaxon (Baseflor)** : Charybdido pancratii–Asphodeletea ramosi Biondi in Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
+* **Écologie (Baseflor)** : friches herbacées vivaces, méso-eutrophiles, thermo- à mésoméditerranéennes, de méditerranée centrale et orientale
 
 ## Répartition
 

@@ -11,11 +11,11 @@ sources:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1962
-**Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
+* **Famille** : Lamiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1962
+* **Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
 
 ## Répartition
 

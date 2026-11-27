@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
-**Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
+* **Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
 
 ## Répartition
 

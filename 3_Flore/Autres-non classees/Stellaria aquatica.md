@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-octobre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 

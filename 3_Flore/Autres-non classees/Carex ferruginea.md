@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
+* **Famille** : Cyperaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
 
 ## Répartition
 

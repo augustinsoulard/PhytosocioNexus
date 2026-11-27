@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
+* **Famille** : Orchidaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

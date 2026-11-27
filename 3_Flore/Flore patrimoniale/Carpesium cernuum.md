@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 

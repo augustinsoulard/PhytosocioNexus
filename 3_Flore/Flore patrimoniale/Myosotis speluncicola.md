@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
+* **Famille** : Boraginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
 
 ## Répartition
 

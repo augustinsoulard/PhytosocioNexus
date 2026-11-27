@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : février-avril
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes
+* **Famille** : Rubiaceae
+* **Floraison** : février-avril
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes
 
 ## Répartition
 

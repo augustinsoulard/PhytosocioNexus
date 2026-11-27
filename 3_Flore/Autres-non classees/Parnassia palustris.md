@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Celastraceae
-**Floraison** : août-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
+* **Famille** : Celastraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
 
 ## Répartition
 

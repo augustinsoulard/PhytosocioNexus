@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Senecion leucophylli Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, pyrénéens
+* **Famille** : Asteraceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Senecion leucophylli Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, pyrénéens
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,18 +7,17 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
-**Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
+* **Famille** : Apiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
+* **Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

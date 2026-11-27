@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

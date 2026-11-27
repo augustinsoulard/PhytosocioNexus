@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
-**Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
+* **Famille** : Poaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
+* **Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

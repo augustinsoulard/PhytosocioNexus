@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
-**Écologie (Baseflor)** : ourlets basophiles médio-européens
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens
 
 ## Répartition
 

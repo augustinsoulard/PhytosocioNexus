@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-juin
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
+* **Famille** : Apiaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
 
 ## Répartition
 

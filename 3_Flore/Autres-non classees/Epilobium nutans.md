@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
-**Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
+* **Famille** : Onagraceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
+* **Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
 
 ## Répartition
 

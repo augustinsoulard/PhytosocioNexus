@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

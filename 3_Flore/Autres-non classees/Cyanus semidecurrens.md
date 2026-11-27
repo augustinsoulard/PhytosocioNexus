@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
 
 ## Répartition
 

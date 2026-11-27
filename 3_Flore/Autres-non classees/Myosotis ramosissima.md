@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
+* **Famille** : Boraginaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
 
 ## Répartition
 

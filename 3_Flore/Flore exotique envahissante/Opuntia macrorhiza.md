@@ -10,8 +10,8 @@ sources:
 
 ## Description
 
-**Famille** : Cactaceae
-**Type biologique** : c-suc
+* **Famille** : Cactaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 
@@ -35,7 +35,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

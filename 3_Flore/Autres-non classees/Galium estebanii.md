@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

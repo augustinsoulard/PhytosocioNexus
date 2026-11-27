@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
 
 ## Répartition
 

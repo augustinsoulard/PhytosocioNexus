@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Androsacion alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, alpiens
+* **Famille** : Brassicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Androsacion alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, alpiens
 
 ## Répartition
 

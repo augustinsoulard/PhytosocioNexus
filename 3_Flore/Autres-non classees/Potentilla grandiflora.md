@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
 
 ## Répartition
 

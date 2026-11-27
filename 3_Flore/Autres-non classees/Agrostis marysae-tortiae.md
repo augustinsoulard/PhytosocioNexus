@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

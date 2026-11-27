@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Boraginaceae
+* **Famille** : Boraginaceae
 
 ## Répartition
 

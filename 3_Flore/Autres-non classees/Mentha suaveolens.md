@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Scirpoido holoschoeni–Juncion inflexi de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hygrophiles pâturées, thermophiles, basophiles, glycophiles à subhalophiles
+* **Famille** : Lamiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Scirpoido holoschoeni–Juncion inflexi de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hygrophiles pâturées, thermophiles, basophiles, glycophiles à subhalophiles
 
 ## Répartition
 

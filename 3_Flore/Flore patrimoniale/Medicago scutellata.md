@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
 
 ## Répartition
 

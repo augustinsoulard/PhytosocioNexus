@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
+* **Famille** : Orchidaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

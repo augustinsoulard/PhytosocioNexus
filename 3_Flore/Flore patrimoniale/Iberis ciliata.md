@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+* **Famille** : Brassicaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
 
 ## Répartition
 

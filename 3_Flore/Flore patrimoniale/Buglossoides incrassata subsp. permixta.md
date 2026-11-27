@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
-**Écologie (Baseflor)** : friches vivaces mésohydriques, médio-européennes
+* **Famille** : Boraginaceae
+* **Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+* **Écologie (Baseflor)** : friches vivaces mésohydriques, médio-européennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : avril-juin
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Ericion herbaceae (Gams 1936) Eggler 1952
-**Écologie (Baseflor)** : landes basophiles des adrets, subalpines méridionalo-orientales
+* **Famille** : Ericaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ericion herbaceae (Gams 1936) Eggler 1952
+* **Écologie (Baseflor)** : landes basophiles des adrets, subalpines méridionalo-orientales
 
 ## Répartition
 

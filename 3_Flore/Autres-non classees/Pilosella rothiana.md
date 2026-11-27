@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

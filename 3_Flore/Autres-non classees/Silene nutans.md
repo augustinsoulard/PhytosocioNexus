@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
-**Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
+* **Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
 
 ## Répartition
 

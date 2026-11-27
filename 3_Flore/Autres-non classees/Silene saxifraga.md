@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
 
 ## Répartition
 

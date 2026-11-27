@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Androsacetalia argenteae Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Androsacetalia argenteae Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines
 
 ## Répartition
 

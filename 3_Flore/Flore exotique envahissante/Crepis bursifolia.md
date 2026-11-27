@@ -15,11 +15,11 @@ especes_indicatrices:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juin
-**Type biologique** : hros(tver)
-**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte rosetté (vernal)
+* **Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
 
 ## Répartition
 

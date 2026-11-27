@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sideriti romanae–Hypochaeridion achyrophori (Braun–Blanquet 1925) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, mésoméditerranéennes, de l'intérieur des terres
+* **Famille** : Lamiaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sideriti romanae–Hypochaeridion achyrophori (Braun–Blanquet 1925) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, mésoméditerranéennes, de l'intérieur des terres
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

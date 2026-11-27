@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Ulici parviflori–Cistetalia ladaniferi Braun-Blanquet, Pinto da Silva & Rozeira 1965
-**Écologie (Baseflor)** : cistaies méditerranéennes occidentales
+* **Famille** : Lamiaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Ulici parviflori–Cistetalia ladaniferi Braun-Blanquet, Pinto da Silva & Rozeira 1965
+* **Écologie (Baseflor)** : cistaies méditerranéennes occidentales
 
 ## Répartition
 

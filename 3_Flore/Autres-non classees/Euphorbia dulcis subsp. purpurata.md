@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
 
 ## Répartition
 

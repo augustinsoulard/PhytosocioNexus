@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

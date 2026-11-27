@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
+* **Famille** : Cyperaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
 
 ## Répartition
 

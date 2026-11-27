@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

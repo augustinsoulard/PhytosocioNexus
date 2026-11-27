@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : juin-août
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
-**Écologie (Baseflor)** : Plante messicole, adventice des champs de blé et de seigle. Elle se rencontre également dans les friches.
+* **Famille** : Amaryllidaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Écologie (Baseflor)** : Plante messicole, adventice des champs de blé et de seigle. Elle se rencontre également dans les friches.
 
 ## Répartition
 

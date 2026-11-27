@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
-**Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
+* **Famille** : Cyperaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
+* **Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

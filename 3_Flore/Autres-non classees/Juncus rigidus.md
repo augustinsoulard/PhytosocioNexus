@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
+* **Famille** : Juncaceae
 
 ## Répartition
 

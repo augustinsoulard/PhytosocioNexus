@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Hypericaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Hypericaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 

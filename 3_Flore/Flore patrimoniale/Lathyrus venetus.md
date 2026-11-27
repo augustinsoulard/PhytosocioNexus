@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juin
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
+* **Famille** : Fabaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Type biologique** : hsto-aqua-car
-**Syntaxon (Baseflor)** : Utricularion intermedio–minoris (Müller & Görs 1960) Julve 1993 prov.
-**Écologie (Baseflor)** : herbiers dulcaquicoles vivaces, libres, dystrophiles organiques, européens
+* **Famille** : Lentibulariaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique carnivore
+* **Syntaxon (Baseflor)** : Utricularion intermedio–minoris (Müller & Görs 1960) Julve 1993 prov.
+* **Écologie (Baseflor)** : herbiers dulcaquicoles vivaces, libres, dystrophiles organiques, européens
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

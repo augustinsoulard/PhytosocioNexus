@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lythraceae
-**Floraison** : mai-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crypsietea aculeatae Vicherek 1973
-**Écologie (Baseflor)** : anuelle des mares et fossés marécageux
+* **Famille** : Lythraceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crypsietea aculeatae Vicherek 1973
+* **Écologie (Baseflor)** : anuelle des mares et fossés marécageux
 
 ## Répartition
 

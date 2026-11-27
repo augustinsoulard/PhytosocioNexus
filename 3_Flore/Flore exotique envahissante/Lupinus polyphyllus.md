@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
+* **Famille** : Fabaceae
 
 ## Répartition
 
@@ -94,4 +94,3 @@ Le puceron *Macrosiphum albifrons* est étudié comme potentiel agent de **lutte
 
 * **Indigénat (TAXREF v18)** : D
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

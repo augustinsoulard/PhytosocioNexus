@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-août
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
-**Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
+* **Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-octobre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
+* **Famille** : Apiaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
 
 ## Répartition
 

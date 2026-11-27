@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-août
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Mesobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, aéromésohygrophiles, submontagnardes, d'ubac
+* **Famille** : Orchidaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Mesobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, aéromésohygrophiles, submontagnardes, d'ubac
 
 ## Répartition
 

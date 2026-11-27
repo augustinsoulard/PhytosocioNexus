@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Agrostio caninae–Caricion canescentis (de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses médio-européennes à boréo-subalpines, acidophiles, sur sols asphyxiques
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Agrostio caninae–Caricion canescentis (de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses médio-européennes à boréo-subalpines, acidophiles, sur sols asphyxiques
 
 ## Répartition
 

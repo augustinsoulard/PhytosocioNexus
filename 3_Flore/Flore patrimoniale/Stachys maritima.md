@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mai-juillet
-**Type biologique** : hces(csuf)
-**Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
+* **Famille** : Lamiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux (suffrutescent)
+* **Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
 
 ## Répartition
 

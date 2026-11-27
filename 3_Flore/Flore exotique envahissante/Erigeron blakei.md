@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
-**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+* **Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
 
 ## Répartition
 

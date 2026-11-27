@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Rosion micranthae Arlot 1985
-**Écologie (Baseflor)** : buissons d'arbrisseaux, méridionaux à atlantiques, planitiaires à collinéens
+* **Famille** : Rosaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rosion micranthae Arlot 1985
+* **Écologie (Baseflor)** : buissons d'arbrisseaux, méridionaux à atlantiques, planitiaires à collinéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

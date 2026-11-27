@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
+* **Famille** : Fabaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
 
 ## Répartition
 

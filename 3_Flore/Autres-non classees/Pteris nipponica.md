@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Pteridaceae
+* **Famille** : Pteridaceae
 
 ## Répartition
 

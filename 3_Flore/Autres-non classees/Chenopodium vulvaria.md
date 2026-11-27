@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Malvion neglectae (Gutte 1972) Hejný 1978
-**Écologie (Baseflor)** : friches annuelles estivales à autumnales, centro-européennes
+* **Famille** : Amaranthaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Malvion neglectae (Gutte 1972) Hejný 1978
+* **Écologie (Baseflor)** : friches annuelles estivales à autumnales, centro-européennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Androsacetalia argenteae Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Androsacetalia argenteae Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

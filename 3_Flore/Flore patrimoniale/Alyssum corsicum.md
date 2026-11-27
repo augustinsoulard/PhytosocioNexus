@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
-**Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
+* **Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

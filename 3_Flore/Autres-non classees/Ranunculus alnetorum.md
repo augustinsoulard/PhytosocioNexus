@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
+* **Famille** : Ranunculaceae
+* **Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

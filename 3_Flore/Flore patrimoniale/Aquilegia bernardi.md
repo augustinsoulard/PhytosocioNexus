@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. sardoi Gamisans 1989
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, corso-sardes
+* **Famille** : Ranunculaceae
+* **Floraison** : juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. sardoi Gamisans 1989
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

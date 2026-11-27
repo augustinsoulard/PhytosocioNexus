@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures basophiles
 
 ## Répartition
 

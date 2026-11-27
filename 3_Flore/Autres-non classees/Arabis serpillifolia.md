@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Seslerietalia caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
+* **Famille** : Brassicaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Seslerietalia caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
 
 ## Répartition
 

@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
+* **Famille** : Brassicaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : Q
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : MODERE

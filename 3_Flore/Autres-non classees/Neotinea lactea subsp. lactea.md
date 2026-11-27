@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+* **Famille** : Orchidaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

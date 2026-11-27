@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
-**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+* **Famille** : Boraginaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+* **Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
 
 ## Répartition
 

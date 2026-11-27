@@ -6,19 +6,19 @@ cd_nomv18: 137873
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
+* **Famille** : Apiaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

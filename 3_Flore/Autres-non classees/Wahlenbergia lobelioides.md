@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Ornithopo pinnati–Malcolmion ramosissimae (Rivas Goday 1958) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes, catalano-provençales à corse
+* **Famille** : Campanulaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Ornithopo pinnati–Malcolmion ramosissimae (Rivas Goday 1958) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes, catalano-provençales à corse
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

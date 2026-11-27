@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mars-mai
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Euphorbion pithyusae Biondi & Géhu in Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses basophiles thermoméditerranéennes, maritimes, corso-sardes
+* **Famille** : Fabaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Euphorbion pithyusae Biondi & Géhu in Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermoméditerranéennes, maritimes, corso-sardes
 
 ## Répartition
 

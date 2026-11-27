@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : mai-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Alopecuro bulbosi–Caricion divisae Julve 2006 all. nov. hoc loco
-**Écologie (Baseflor)** : prairies hydrophiles fauchées, européennes, thermophiles
+* **Famille** : Iridaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Alopecuro bulbosi–Caricion divisae Julve 2006 all. nov. hoc loco
+* **Écologie (Baseflor)** : prairies hydrophiles fauchées, européennes, thermophiles
 
 ## Répartition
 

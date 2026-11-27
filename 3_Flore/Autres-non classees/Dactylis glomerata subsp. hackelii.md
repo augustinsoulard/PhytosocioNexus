@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
-**Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
+* **Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
 
 ## Répartition
 

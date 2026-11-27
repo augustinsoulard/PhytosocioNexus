@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
-**Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
+* **Famille** : Alismataceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
+* **Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
 
 ## Répartition
 

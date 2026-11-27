@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
-**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
+* **Famille** : Polygonaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
+* **Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

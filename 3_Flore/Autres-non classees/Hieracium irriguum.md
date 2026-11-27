@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
-**Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
+* **Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

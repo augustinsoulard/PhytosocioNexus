@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Hydrocharitaceae
+* **Famille** : Hydrocharitaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : D
 * **Directive Habitats** : CDH4, CDH2
-* **Intérêt patrimonial PACA** : TRES FAIBLE

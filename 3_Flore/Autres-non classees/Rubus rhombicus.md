@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
-**Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
+* **Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -19,7 +19,6 @@ date_maj: "2026-11-26"
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

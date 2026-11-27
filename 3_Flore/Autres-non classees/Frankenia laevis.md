@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Frankeniaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Limonio ovalifolii–Frankenion laevis Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles, méditerranéo-atlantiques à Frankenia laevis
+* **Famille** : Frankeniaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Limonio ovalifolii–Frankenion laevis Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles, méditerranéo-atlantiques à Frankenia laevis
 
 ## Répartition
 

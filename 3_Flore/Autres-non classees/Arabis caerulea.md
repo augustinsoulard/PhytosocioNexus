@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Arabidion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
+* **Famille** : Brassicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Arabidion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
 
 ## Répartition
 

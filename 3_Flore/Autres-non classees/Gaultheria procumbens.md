@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Syntaxon (Baseflor)** : Rhododendretalia tomentosi Nordhagen 1936
-**Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
+* **Famille** : Ericaceae
+* **Syntaxon (Baseflor)** : Rhododendretalia tomentosi Nordhagen 1936
+* **Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

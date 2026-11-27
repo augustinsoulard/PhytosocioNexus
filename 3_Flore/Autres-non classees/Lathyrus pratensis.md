@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : Hsto-lia(Test-lia)
-**Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère lianescent (estival lianescent)
+* **Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
 
 ## Répartition
 

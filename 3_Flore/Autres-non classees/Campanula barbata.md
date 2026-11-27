@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
 
 ## Répartition
 

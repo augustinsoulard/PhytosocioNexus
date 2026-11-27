@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
 
 ## Répartition
 

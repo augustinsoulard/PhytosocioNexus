@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
 
 ## Répartition
 

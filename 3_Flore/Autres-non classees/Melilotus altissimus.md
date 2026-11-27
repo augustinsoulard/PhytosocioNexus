@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Fabaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2020
+* **Famille** : Lentibulariaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2020
 
 ## Répartition
 

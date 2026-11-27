@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Araceae
-**Floraison** : octobre-novembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Allion triquetri O. de Bolòs 1967
-**Écologie (Baseflor)** : ourlets mésohydriques, eutrophiles, méditerranéens
+* **Famille** : Araceae
+* **Floraison** : octobre-novembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Allion triquetri O. de Bolòs 1967
+* **Écologie (Baseflor)** : ourlets mésohydriques, eutrophiles, méditerranéens
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

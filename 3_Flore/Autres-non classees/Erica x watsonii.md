@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Ulici minoris–Ericion tetralicis (Schwickerath 1933) Tüxen 1937
-**Écologie (Baseflor)** : landes atlantiques, hygrophiles à mésohygrophiles
+* **Famille** : Ericaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ulici minoris–Ericion tetralicis (Schwickerath 1933) Tüxen 1937
+* **Écologie (Baseflor)** : landes atlantiques, hygrophiles à mésohygrophiles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

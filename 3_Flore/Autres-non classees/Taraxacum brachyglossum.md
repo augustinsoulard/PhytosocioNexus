@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : D
-* **Intérêt patrimonial PACA** : TRES FAIBLE

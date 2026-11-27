@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : mai-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
+* **Famille** : Alismataceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
 
 ## Répartition
 

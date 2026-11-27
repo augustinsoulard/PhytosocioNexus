@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
+* **Famille** : Ericaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : RE
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

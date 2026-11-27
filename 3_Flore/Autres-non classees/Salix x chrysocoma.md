@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
+* **Famille** : Salicaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

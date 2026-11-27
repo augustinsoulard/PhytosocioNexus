@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ophioglossaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
+* **Famille** : Ophioglossaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Bidentetea tripartitae Tüxen, Lohmeyer & Preising in Tüxen 1950
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles, pionnières, eurasiatiques
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bidentetea tripartitae Tüxen, Lohmeyer & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles, pionnières, eurasiatiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

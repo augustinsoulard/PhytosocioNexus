@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Littorelletalia uniflorae Koch 1926
-**Écologie (Baseflor)** : parvogéophytaies amphibies à subaquatiques, oligotrophiles, psychrophiles, boréocontinentales à montagnardes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Littorelletalia uniflorae Koch 1926
+* **Écologie (Baseflor)** : parvogéophytaies amphibies à subaquatiques, oligotrophiles, psychrophiles, boréocontinentales à montagnardes
 
 ## Répartition
 

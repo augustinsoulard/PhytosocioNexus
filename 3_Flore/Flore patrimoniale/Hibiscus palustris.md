@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Phragmition australis Koch 1926
-**Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
+* **Famille** : Malvaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Phragmition australis Koch 1926
+* **Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

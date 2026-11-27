@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Cyperetalia papyri Lebrun 1947
-**Écologie (Baseflor)** : roselières et magnocariçaies amphibies paléotropicales
+* **Famille** : Cyperaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Cyperetalia papyri Lebrun 1947
+* **Écologie (Baseflor)** : roselières et magnocariçaies amphibies paléotropicales
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Posidoniaceae
-**Floraison** : octobre-juin
-**Type biologique** : grhi-aqua
-**Syntaxon (Baseflor)** : Posidonietea oceanicae Den Hartog 1976
-**Écologie (Baseflor)** : herbiers marins phanérogamiques, thermophiles du zonobiome tempéré chaud méditerranéen
+* **Famille** : Posidoniaceae
+* **Floraison** : octobre-juin
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Posidonietea oceanicae Den Hartog 1976
+* **Écologie (Baseflor)** : herbiers marins phanérogamiques, thermophiles du zonobiome tempéré chaud méditerranéen
 
 ## Répartition
 

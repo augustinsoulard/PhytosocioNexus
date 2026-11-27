@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Geraniaceae
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Geraniaceae
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

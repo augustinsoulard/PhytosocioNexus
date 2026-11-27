@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Rhamno alpinae–Berberidion vulgaris Braun-Blanquet ex Rivas Martínez 2011
-**Écologie (Baseflor)** : buissons arbustifs basophiles, montagnards
+* **Famille** : Rosaceae
+* **Floraison** : mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rhamno alpinae–Berberidion vulgaris Braun-Blanquet ex Rivas Martínez 2011
+* **Écologie (Baseflor)** : buissons arbustifs basophiles, montagnards
 
 ## Répartition
 

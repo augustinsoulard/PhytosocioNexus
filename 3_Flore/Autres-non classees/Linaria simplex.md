@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
 
 ## Répartition
 

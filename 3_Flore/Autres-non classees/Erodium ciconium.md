@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : avril-juillet
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
+* **Famille** : Geraniaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
 
 ## Répartition
 

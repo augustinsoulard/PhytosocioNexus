@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : avril-octobre
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
+* **Famille** : Plantaginaceae
+* **Floraison** : avril-octobre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
 
 ## Répartition
 

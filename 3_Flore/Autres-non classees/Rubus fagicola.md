@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
+* **Famille** : Rosaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD

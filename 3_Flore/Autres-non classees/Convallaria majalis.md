@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
+* **Famille** : Asparagaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
 
 ## Répartition
 

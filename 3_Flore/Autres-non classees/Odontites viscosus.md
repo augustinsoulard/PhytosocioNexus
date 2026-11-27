@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Oleaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
+* **Famille** : Oleaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

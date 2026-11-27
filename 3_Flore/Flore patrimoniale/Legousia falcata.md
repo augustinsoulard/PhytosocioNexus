@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : avril-juin
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
+* **Famille** : Campanulaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes
 
 ## Répartition
 

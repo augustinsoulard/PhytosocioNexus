@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
+* **Famille** : Apiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
 
 ## Répartition
 

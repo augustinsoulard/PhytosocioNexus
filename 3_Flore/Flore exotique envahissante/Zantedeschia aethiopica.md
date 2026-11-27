@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Araceae
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
-**Écologie (Baseflor)** : parvoroselières circumboréales pionnières
+* **Famille** : Araceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
+* **Écologie (Baseflor)** : parvoroselières circumboréales pionnières
 
 ## Répartition
 

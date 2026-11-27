@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Juglandaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Quercetea fagineo–pubescentis Julve 2017 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, sub/supraméditerranéen
+* **Famille** : Juglandaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercetea fagineo–pubescentis Julve 2017 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, sub/supraméditerranéen
 
 ## Répartition
 

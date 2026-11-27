@@ -7,18 +7,17 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mars-octobre
-**Type biologique** : test(hsto)
-**Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
+* **Famille** : Caryophyllaceae
+* **Floraison** : mars-octobre
+* **Type biologique** : Thérophyte estival (stolonifère)
+* **Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

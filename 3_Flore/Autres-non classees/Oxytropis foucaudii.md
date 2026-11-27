@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Oxytropido halleri–Caricion myosuroidis Braun–Blanquet 1949
-**Écologie (Baseflor)** : pelouses basophiles alpines climaciques, pyrénéennes, chionophobes
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Oxytropido halleri–Caricion myosuroidis Braun–Blanquet 1949
+* **Écologie (Baseflor)** : pelouses basophiles alpines climaciques, pyrénéennes, chionophobes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

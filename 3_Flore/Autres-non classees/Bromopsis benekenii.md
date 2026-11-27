@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
 
 ## Répartition
 

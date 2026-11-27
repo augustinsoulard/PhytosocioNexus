@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
 
 ## Répartition
 

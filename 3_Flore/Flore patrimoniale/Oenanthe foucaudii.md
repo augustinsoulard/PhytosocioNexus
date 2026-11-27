@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Convolvulo sepium–Althaeion officinalis de Foucault 2011
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires oligohalines, des estuaires atlantiques et salines continentales
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Convolvulo sepium–Althaeion officinalis de Foucault 2011
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires oligohalines, des estuaires atlantiques et salines continentales
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

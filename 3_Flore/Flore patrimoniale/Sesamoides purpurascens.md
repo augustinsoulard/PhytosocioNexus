@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Resedaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
+* **Famille** : Resedaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

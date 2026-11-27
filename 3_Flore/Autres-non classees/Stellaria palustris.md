@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Agrostio caninae–Caricion canescentis (de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses médio-européennes à boréo-subalpines, acidophiles, sur sols asphyxiques
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrostio caninae–Caricion canescentis (de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses médio-européennes à boréo-subalpines, acidophiles, sur sols asphyxiques
 
 ## Répartition
 

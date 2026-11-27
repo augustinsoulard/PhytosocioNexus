@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mai-août
-**Type biologique** : hsto(test)
-**Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
+* **Famille** : Lamiaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère (estival)
+* **Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

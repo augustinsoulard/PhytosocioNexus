@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
 
 ## Répartition
 

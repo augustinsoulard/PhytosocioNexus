@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : mai-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Lavanduletalia stoechadis Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
-**Écologie (Baseflor)** : chaméphytaies méditerranéennes occidentales
+* **Famille** : Cistaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Lavanduletalia stoechadis Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
+* **Écologie (Baseflor)** : chaméphytaies méditerranéennes occidentales
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

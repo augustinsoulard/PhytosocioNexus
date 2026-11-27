@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
+* **Famille** : Apiaceae
+* **Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
 
 ## Répartition
 
@@ -23,4 +23,3 @@ auteurs:
 * **Directive Habitats** : CDH4, CDH2
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE

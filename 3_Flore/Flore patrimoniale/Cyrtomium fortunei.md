@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : hces-semp
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Hémicryptophyte cespiteux sempervirent
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 

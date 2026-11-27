@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juin-août
-**Type biologique** : grhi-hpar
-**Syntaxon (Baseflor)** : Caricetalia curvulae subsp. curvulae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses acidophiles alpines climaciques, chionophobes
+* **Famille** : Orobanchaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome hémiparasite
+* **Syntaxon (Baseflor)** : Caricetalia curvulae subsp. curvulae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses acidophiles alpines climaciques, chionophobes
 
 ## Répartition
 

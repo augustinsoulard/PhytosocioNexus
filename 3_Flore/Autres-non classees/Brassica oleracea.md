@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juillet
-**Type biologique** : Hbis(Csuf)
-**Syntaxon (Baseflor)** : Brassicion oleraceae Rivas–Martínez, Fernandez–Gonzalez & Loidi 1999
-**Écologie (Baseflor)** : friches pionnières aérohalines
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (suffrutescent)
+* **Syntaxon (Baseflor)** : Brassicion oleraceae Rivas–Martínez, Fernandez–Gonzalez & Loidi 1999
+* **Écologie (Baseflor)** : friches pionnières aérohalines
 
 ## Répartition
 

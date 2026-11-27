@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
 
 ## Répartition
 

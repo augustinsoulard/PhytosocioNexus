@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 

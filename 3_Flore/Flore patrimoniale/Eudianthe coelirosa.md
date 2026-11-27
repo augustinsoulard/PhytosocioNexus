@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-mai
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Frankenion pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, d'optimum catalano-provençales, arénicoles
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Frankenion pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, d'optimum catalano-provençales, arénicoles
 
 ## Répartition
 

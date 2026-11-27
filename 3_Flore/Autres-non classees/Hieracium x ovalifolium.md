@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
-**Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
+* **Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
 
 ## Répartition
 

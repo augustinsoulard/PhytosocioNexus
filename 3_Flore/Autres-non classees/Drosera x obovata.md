@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Droseraceae
-**Floraison** : juillet-août
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Drosero anglicae–Rhynchosporetalia albae Tüxen apud Fujiwara 1979
-**Écologie (Baseflor)** : parvocariçaies pionnières sur substrats minéraux oligotrophiles ou tourbes minéralisées (gouilles de cicatrisation)
+* **Famille** : Droseraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Drosero anglicae–Rhynchosporetalia albae Tüxen apud Fujiwara 1979
+* **Écologie (Baseflor)** : parvocariçaies pionnières sur substrats minéraux oligotrophiles ou tourbes minéralisées (gouilles de cicatrisation)
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

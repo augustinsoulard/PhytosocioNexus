@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juillet-octobre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Puccinellion maritimae Christiansen 1927 em. Tüxen 1937
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hydrophiles du schorre inférieur
+* **Famille** : Plumbaginaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Puccinellion maritimae Christiansen 1927 em. Tüxen 1937
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hydrophiles du schorre inférieur
 
 ## Répartition
 

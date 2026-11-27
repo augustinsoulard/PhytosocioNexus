@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : test(hces)
-**Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival (cespiteux)
+* **Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
 
 ## Répartition
 

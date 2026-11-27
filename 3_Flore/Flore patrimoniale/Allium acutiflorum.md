@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : mai-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+* **Famille** : Amaryllidaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
 
 ## Répartition
 

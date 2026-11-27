@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Type biologique** : test-lia-par
-**Syntaxon (Baseflor)** : Bidentetea tripartitae Tüxen, Lohmeyer & Preising in Tüxen 1950
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles, pionnières, eurasiatiques
+* **Famille** : Convolvulaceae
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Bidentetea tripartitae Tüxen, Lohmeyer & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles, pionnières, eurasiatiques
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juillet
-**Type biologique** : test(hros)
-**Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival (rosetté)
+* **Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

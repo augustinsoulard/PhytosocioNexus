@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hbis(csuf)
-**Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
-**Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte bisannuel (suffrutescent)
+* **Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
+* **Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
 
 ## Répartition
 

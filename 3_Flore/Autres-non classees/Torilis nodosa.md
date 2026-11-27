@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
+* **Famille** : Apiaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
 
 ## Répartition
 

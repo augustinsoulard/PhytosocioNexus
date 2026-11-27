@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
+* **Famille** : Amaranthaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
 
 ## Répartition
 

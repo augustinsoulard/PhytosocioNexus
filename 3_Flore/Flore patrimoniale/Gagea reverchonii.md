@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
+* **Famille** : Liliaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
 
 ## Répartition
 

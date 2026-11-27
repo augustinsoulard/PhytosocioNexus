@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
-**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
+* **Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
 
 ## Répartition
 

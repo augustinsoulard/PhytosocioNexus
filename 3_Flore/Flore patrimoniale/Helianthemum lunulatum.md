@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1956
-**Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
+* **Famille** : Cistaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1956
+* **Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
 
 ## Répartition
 

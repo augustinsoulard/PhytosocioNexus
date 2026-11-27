@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

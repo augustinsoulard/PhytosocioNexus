@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Pino cembrae–Piceetea abietis Julve 1993
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes aciculifoliées boréo-subalpines de l'Europe occidentale, sur sols mésotrophes
+* **Famille** : Pinaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Pino cembrae–Piceetea abietis Julve 1993
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes aciculifoliées boréo-subalpines de l'Europe occidentale, sur sols mésotrophes
 
 ## Répartition
 

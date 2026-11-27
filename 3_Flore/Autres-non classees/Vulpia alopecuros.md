@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

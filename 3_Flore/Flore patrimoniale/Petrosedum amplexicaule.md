@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : ccou-suc
-**Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte en coussinets succulent
+* **Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mars-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Frankenion pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, d'optimum catalano-provençales, arénicoles
+* **Famille** : Brassicaceae
+* **Floraison** : mars-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Frankenion pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, d'optimum catalano-provençales, arénicoles
 
 ## Répartition
 

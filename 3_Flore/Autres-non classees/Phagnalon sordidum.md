@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Phagnaletea rupestro–saxatilis Julve 2018 class. nov. prov.
-**Écologie (Baseflor)** : lithophytes des dalles en pente des falaises thermo à mésoméditerranéennes, du bassin occidental.
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Phagnaletea rupestro–saxatilis Julve 2018 class. nov. prov.
+* **Écologie (Baseflor)** : lithophytes des dalles en pente des falaises thermo à mésoméditerranéennes, du bassin occidental.
 
 ## Répartition
 

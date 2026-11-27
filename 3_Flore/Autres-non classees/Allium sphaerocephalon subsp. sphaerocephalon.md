@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : juin-août
-**Type biologique** : Gbul
-**Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
+* **Famille** : Amaryllidaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

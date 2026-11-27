@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : janvier-décembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
+* **Famille** : Poaceae
+* **Floraison** : janvier-décembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

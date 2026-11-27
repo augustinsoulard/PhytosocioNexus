@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Isoeto lacustris–Littorelletea uniflorae Braun–Blanquet & Vlieger in Vlieger 1937
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, laurasiennes
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Isoeto lacustris–Littorelletea uniflorae Braun–Blanquet & Vlieger in Vlieger 1937
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, laurasiennes
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
+* **Famille** : Boraginaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
 
 ## Répartition
 

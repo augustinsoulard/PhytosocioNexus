@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Coriariaceae
-**Floraison** : avril-juillet
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Pruno spinosae–Rubion ulmifolii O. de Bolòs 1954
-**Écologie (Baseflor)** : buissons d'arbrisseaux, planitiaires à collinéens, mésohydriques, mésotrophiles, méridionaux
+* **Famille** : Coriariaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Pruno spinosae–Rubion ulmifolii O. de Bolòs 1954
+* **Écologie (Baseflor)** : buissons d'arbrisseaux, planitiaires à collinéens, mésohydriques, mésotrophiles, méridionaux
 
 ## Répartition
 

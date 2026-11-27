@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Caricion elatae Koch 1926
-**Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
+* **Famille** : Cyperaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Caricion elatae Koch 1926
+* **Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

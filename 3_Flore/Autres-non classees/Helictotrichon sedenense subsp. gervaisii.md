@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1960
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1960
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

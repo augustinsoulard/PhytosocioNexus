@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : mai-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
-**Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
+* **Famille** : Gentianaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
+* **Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
 
 ## Répartition
 

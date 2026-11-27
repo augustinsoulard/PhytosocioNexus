@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-juillet
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Empetrion nigri subsp.nigri Böcher 1943
-**Écologie (Baseflor)** : landes psychro-atlantiques
+* **Famille** : Ericaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Empetrion nigri subsp.nigri Böcher 1943
+* **Écologie (Baseflor)** : landes psychro-atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : février-mai
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
+* **Famille** : Iridaceae
+* **Floraison** : février-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
 
 ## Répartition
 

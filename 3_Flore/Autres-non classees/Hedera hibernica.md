@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Araliaceae
-**Floraison** : septembre-octobre
-**Type biologique** : A-lia-semp
-**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
-**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+* **Famille** : Araliaceae
+* **Floraison** : septembre-octobre
+* **Type biologique** : Phanérophyte lianescent sempervirent
+* **Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+* **Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

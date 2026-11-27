@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Ranunculion fluitantis Neuhäusl 1959
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux douces, courantes, peu profondes
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ranunculion fluitantis Neuhäusl 1959
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux douces, courantes, peu profondes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

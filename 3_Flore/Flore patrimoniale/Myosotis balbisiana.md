@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
+* **Famille** : Boraginaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

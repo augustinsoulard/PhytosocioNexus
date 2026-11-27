@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juin-septembre
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
+* **Famille** : Orobanchaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
 
 ## Répartition
 

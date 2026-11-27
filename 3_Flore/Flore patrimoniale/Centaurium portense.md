@@ -6,20 +6,20 @@ cd_nomv18: 89851
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Galio saxatilis–Festucion filiformis (Stieperaere 1990) de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires-collinéennes, psychro-atlantiques
+* **Famille** : Gentianaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Galio saxatilis–Festucion filiformis (Stieperaere 1990) de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires-collinéennes, psychro-atlantiques
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

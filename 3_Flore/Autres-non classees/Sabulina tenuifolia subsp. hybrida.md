@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
+* **Famille** : Caryophyllaceae
+* **Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
 
 ## Répartition
 

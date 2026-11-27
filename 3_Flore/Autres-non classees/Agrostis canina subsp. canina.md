@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
-**Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
+* **Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

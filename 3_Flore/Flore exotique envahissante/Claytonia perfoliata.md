@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Montiaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Anthrisco caucalidis–Cochlearion danicae de Foucault 2009
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, atlantiques, maritimes
+* **Famille** : Montiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Anthrisco caucalidis–Cochlearion danicae de Foucault 2009
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, atlantiques, maritimes
 
 ## Répartition
 
@@ -36,7 +36,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

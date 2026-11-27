@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
-**Écologie (Baseflor)** : roselières amphibies européennes
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
+* **Écologie (Baseflor)** : roselières amphibies européennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-juillet
-**Type biologique** : gbul-par
-**Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à bulbe parasite
+* **Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
 
 ## Répartition
 

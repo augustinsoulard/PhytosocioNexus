@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Trichophorion alpini Julve (1983) 1993
-**Écologie (Baseflor)** : cariçaies des tremblants tourbeux boréo-montagnards basophiles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Trichophorion alpini Julve (1983) 1993
+* **Écologie (Baseflor)** : cariçaies des tremblants tourbeux boréo-montagnards basophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

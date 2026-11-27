@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
+* **Famille** : Asteraceae
+* **Floraison** : juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
-**Écologie (Baseflor)** : pelouses acidoclines montagnardes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
+* **Écologie (Baseflor)** : pelouses acidoclines montagnardes
 
 ## Répartition
 

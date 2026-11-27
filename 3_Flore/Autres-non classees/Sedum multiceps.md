@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
 
 ## Répartition
 

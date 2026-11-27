@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2020
+* **Famille** : Primulaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2020
 
 ## Répartition
 

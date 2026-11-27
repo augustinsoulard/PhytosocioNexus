@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Abietion pinsapo Julve 2016 all. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes occidentales, ibériques
+* **Famille** : Pinaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Abietion pinsapo Julve 2016 all. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes occidentales, ibériques
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-septembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
+* **Famille** : Gentianaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
 
 ## Répartition
 

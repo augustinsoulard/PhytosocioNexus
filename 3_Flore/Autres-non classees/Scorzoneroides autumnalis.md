@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
 
 ## Répartition
 

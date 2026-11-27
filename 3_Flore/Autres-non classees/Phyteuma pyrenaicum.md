@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Rhinantho pumili–Trisetenion flavescentis de Foucault 2016
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures, SW-européennes
+* **Famille** : Campanulaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Rhinantho pumili–Trisetenion flavescentis de Foucault 2016
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures, SW-européennes
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes
 
 ## Répartition
 

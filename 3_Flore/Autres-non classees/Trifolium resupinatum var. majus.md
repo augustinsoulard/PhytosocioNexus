@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Trifolion squamosi Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : annuelles hygrophiles des trouées des prairies (mosaïques contigües)
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Trifolion squamosi Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : annuelles hygrophiles des trouées des prairies (mosaïques contigües)
 
 ## Répartition
 

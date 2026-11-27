@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Hyperico perforati–Ferulion communis Vicente & Galan 2008
-**Écologie (Baseflor)** : friches mésohydriques, mésoeutrophiles, méditerranéennes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Hyperico perforati–Ferulion communis Vicente & Galan 2008
+* **Écologie (Baseflor)** : friches mésohydriques, mésoeutrophiles, méditerranéennes
 
 ## Répartition
 

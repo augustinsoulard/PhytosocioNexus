@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Genistion horridae Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas 1991
-**Écologie (Baseflor)** : garrigues basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées pyrénéennes à caussenardes
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Genistion horridae Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas 1991
+* **Écologie (Baseflor)** : garrigues basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées pyrénéennes à caussenardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

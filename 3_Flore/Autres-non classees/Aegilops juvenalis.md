@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Taeniathero capitis–medusae–Aegilopion geniculatae Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles, thermo- à mésoméditerranéennes
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Taeniathero capitis–medusae–Aegilopion geniculatae Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles, thermo- à mésoméditerranéennes
 
 ## Répartition
 

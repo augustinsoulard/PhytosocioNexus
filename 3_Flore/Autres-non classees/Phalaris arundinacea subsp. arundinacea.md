@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

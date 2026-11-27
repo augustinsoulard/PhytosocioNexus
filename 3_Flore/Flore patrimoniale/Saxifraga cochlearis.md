@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1969
-**Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
+* **Famille** : Saxifragaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1969
+* **Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juillet-août
-**Type biologique** : gbul-par
-**Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
+* **Famille** : Orobanchaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à bulbe parasite
+* **Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aristolochiaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+* **Famille** : Aristolochiaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
 
 ## Répartition
 

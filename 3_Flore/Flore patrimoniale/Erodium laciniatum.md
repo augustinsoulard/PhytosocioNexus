@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : mai-juin
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Geraniaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 

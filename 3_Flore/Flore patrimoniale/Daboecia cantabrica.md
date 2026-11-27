@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-octobre
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Ulicetalia minoris Quantin 1935
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Ericaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ulicetalia minoris Quantin 1935
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

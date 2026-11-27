@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
 
 ## Répartition
 

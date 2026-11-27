@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
+* **Famille** : Ranunculaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : réglementation 04 ; réglementation 06
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

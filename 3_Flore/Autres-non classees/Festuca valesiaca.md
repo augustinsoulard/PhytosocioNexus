@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
 
 ## Répartition
 

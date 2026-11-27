@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Hypericaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
+* **Famille** : Hypericaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
 
 ## Répartition
 

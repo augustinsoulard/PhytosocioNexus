@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juin
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies méditerranéennes
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies méditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

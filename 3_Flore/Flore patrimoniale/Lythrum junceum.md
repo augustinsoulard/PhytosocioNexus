@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lythraceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
+* **Famille** : Lythraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
 
 ## Répartition
 

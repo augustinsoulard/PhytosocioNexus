@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
 
 ## Répartition
 

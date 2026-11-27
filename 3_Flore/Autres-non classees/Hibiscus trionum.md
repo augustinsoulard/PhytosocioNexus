@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Type biologique** : Test(Hbis)
-**Syntaxon (Baseflor)** : Chenopodion muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+* **Famille** : Malvaceae
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Chenopodion muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
 
 ## Répartition
 

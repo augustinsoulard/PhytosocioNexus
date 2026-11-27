@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
-**Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

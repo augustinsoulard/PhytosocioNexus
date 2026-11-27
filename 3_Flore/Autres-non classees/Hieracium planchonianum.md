@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
 
 ## Répartition
 

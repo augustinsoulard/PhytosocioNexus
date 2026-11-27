@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
+* **Famille** : Polygonaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

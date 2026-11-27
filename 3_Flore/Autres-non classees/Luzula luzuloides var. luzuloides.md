@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mai-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
+* **Famille** : Juncaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

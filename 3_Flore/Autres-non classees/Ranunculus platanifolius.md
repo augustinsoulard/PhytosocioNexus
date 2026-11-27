@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
-**Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
 
 ## Répartition
 

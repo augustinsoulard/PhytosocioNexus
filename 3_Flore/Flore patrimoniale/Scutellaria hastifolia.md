@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
-**Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
+* **Famille** : Lamiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
+* **Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
 
 ## Répartition
 

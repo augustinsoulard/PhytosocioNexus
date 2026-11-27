@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Ulici europaei–Cytision striati Rivas–Martínez, Bascones, Díaz González, Fernandez–Gonzales & Loidi 1991
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles, mésohydriques, méridionaux
+* **Famille** : Fabaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Ulici europaei–Cytision striati Rivas–Martínez, Bascones, Díaz González, Fernandez–Gonzales & Loidi 1991
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles, mésohydriques, méridionaux
 
 ## Répartition
 

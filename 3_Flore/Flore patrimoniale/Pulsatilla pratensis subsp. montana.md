@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
+* **Famille** : Ranunculaceae
+* **Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
 
 ## Répartition
 

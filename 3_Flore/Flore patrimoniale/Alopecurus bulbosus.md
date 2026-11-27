@@ -13,13 +13,13 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
 
-**Habitats :** Prairies inondées l'hiver, mariais ou bord des eaux douces ou salées. ([[Juncetalia maritimi]], [[Isoetetalia velatae]])
+* **Habitats :** Prairies inondées l'hiver, mariais ou bord des eaux douces ou salées. ([[Juncetalia maritimi]], [[Isoetetalia velatae]])
 
 ## Répartition
 

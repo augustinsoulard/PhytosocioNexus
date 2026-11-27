@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Androsacion alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, alpiens
+* **Famille** : Violaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Androsacion alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, alpiens
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σA Aceri opali–Quercion pubescentis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés basophiles, mésoxérophiles, méso-oligotrophiles, planitiaires-collinéens à subméditerranéens
+* **Famille** : Rosaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Aceri opali–Quercion pubescentis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés basophiles, mésoxérophiles, méso-oligotrophiles, planitiaires-collinéens à subméditerranéens
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

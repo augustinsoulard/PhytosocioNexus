@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
 
 ## Répartition
 

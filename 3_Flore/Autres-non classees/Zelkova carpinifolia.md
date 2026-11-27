@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Ulmaceae
+* **Famille** : Ulmaceae
 
 ## Répartition
 

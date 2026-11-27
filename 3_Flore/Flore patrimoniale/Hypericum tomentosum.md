@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hypericaceae
-**Floraison** : juin-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
-**Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
+* **Famille** : Hypericaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
+* **Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
 
-**Habitats :** Dépressions humides, généralement sur calcaire ([[Deschampsion mediae]], [[Molinio arundinaceae-Holoschoenion vulgaris]]). Surotut l'étage mésoméditerranéen.
+* **Habitats :** Dépressions humides, généralement sur calcaire ([[Deschampsion mediae]], [[Molinio arundinaceae-Holoschoenion vulgaris]]). Surotut l'étage mésoméditerranéen.
 
 ## Répartition
 

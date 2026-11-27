@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juin-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
-**Écologie (Baseflor)** : ourlets basophiles médio-européens
+* **Famille** : Orchidaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens
 
 ## Répartition
 

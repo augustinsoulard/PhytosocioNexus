@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
+* **Famille** : Geraniaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

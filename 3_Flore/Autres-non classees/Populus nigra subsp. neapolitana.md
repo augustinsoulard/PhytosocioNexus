@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mars-avril
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Populion albae Braun–Blanquet 1931 ex Tchou 1949
-**Écologie (Baseflor)** : associations arborescentes de nomades à bois tendres hydrophiles à amphibies sur sols minéraux, méditerranéennes (tempérées chaudes)
+* **Famille** : Salicaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Populion albae Braun–Blanquet 1931 ex Tchou 1949
+* **Écologie (Baseflor)** : associations arborescentes de nomades à bois tendres hydrophiles à amphibies sur sols minéraux, méditerranéennes (tempérées chaudes)
 
 ## Répartition
 

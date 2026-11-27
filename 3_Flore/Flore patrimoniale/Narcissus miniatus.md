@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : septembre-octobre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies méditerranéennes
+* **Famille** : Amaryllidaceae
+* **Floraison** : septembre-octobre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

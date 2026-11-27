@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Polygonaceae
+* **Famille** : Polygonaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -84,4 +84,3 @@ En Nouvelle-Zélande, la renouée perfoliée a été éradiquée. Aux États-Uni
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : A
-* **Intérêt patrimonial PACA** : NUL

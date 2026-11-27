@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Calocedro decurrentis–Pinetea jeffreyi Rivas–Martínez & Sánchez–Mata in Rivas–Martínez 1997
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts supra à oroméditerranéennes de la Sierra Nevada californienne
+* **Famille** : Cupressaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Calocedro decurrentis–Pinetea jeffreyi Rivas–Martínez & Sánchez–Mata in Rivas–Martínez 1997
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts supra à oroméditerranéennes de la Sierra Nevada californienne
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

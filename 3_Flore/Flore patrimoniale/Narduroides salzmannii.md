@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 

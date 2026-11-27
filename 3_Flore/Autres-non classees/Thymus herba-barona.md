@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
-**Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
+* **Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

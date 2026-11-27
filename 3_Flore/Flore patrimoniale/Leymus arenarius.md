@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Honckenyo peploidis–Leymetea arenarii Tüxen 1966
-**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes circumboréaux à circumarctiques
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Honckenyo peploidis–Leymetea arenarii Tüxen 1966
+* **Écologie (Baseflor)** : herbacées vivaces des rivages maritimes circumboréaux à circumarctiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -6,19 +6,19 @@ cd_nomv18: 971214
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Pteridaceae
-**Floraison** : mai-octobre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
+* **Famille** : Pteridaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

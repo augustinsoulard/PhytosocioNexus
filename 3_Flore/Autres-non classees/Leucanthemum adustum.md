@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
 
 ## Répartition
 

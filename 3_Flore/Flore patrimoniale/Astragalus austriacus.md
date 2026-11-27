@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
-**Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
 
 ## Répartition
 

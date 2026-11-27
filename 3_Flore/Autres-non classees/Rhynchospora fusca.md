@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Drosero anglicae–Rhynchosporetalia albae Tüxen apud Fujiwara 1979
-**Écologie (Baseflor)** : parvocariçaies pionnières sur substrats minéraux oligotrophiles ou tourbes minéralisées (gouilles de cicatrisation)
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Drosero anglicae–Rhynchosporetalia albae Tüxen apud Fujiwara 1979
+* **Écologie (Baseflor)** : parvocariçaies pionnières sur substrats minéraux oligotrophiles ou tourbes minéralisées (gouilles de cicatrisation)
 
 ## Répartition
 

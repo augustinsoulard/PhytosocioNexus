@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hypericaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Hyperico richeri–Patzkeion paniculatae (Braun–Blanquet 1972) de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, subalpines, des adrets méridionaux
+* **Famille** : Hypericaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Hyperico richeri–Patzkeion paniculatae (Braun–Blanquet 1972) de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, subalpines, des adrets méridionaux
 
 ## Répartition
 

@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Lythraceae
+* **Famille** : Lythraceae
 
 ## Répartition
 

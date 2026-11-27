@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

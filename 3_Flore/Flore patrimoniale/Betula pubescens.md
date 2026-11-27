@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Betulaceae
-**Floraison** : avril-mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Betulion pubescentis Lohmeyer & Tüxen ex Oberdorfer 1957
-**Écologie (Baseflor)** : associations arborescentes pionnières plutôt héliophiles, oligotrophiles, hygrophiles
+* **Famille** : Betulaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Betulion pubescentis Lohmeyer & Tüxen ex Oberdorfer 1957
+* **Écologie (Baseflor)** : associations arborescentes pionnières plutôt héliophiles, oligotrophiles, hygrophiles
 
 ## Répartition
 

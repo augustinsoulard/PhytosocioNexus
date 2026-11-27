@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : avril-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
+* **Famille** : Orchidaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

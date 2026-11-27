@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
+* **Famille** : Crassulaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Staphyleaceae
-**Floraison** : mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Ribeso alpini–Viburnion lantanae de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons arbustifs, centro-européens à septentrionaux, planitiaires à montagnards
+* **Famille** : Staphyleaceae
+* **Floraison** : mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Ribeso alpini–Viburnion lantanae de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons arbustifs, centro-européens à septentrionaux, planitiaires à montagnards
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

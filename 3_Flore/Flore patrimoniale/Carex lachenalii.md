@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Salicion herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Salicion herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
 
 ## Répartition
 

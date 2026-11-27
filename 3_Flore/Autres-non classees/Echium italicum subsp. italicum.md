@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : mai-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
-**Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
+* **Famille** : Boraginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+* **Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

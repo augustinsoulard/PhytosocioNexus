@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
 
 ## Répartition
 

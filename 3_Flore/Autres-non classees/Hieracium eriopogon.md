@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
 
 ## Répartition
 

@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
 
 ## Répartition
 
@@ -19,4 +19,3 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE

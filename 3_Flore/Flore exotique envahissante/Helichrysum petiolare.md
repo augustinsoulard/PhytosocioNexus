@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
+* **Famille** : Asteraceae
 
 ## Répartition
 
@@ -31,4 +31,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

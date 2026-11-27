@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Santalaceae
-**Floraison** : mai-juillet
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
-**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+* **Famille** : Santalaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+* **Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
 
 ## Répartition
 

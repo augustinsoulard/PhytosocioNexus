@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
-**Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
+* **Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
 
 ## Répartition
 

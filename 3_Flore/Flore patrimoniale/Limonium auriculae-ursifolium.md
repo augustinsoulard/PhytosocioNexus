@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Limonio ovalifolii–Frankenion laevis Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles, méditerranéo-atlantiques à Frankenia laevis
+* **Famille** : Plumbaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Limonio ovalifolii–Frankenion laevis Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles, méditerranéo-atlantiques à Frankenia laevis
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

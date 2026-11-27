@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Araceae
-**Floraison** : décembre-avril
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Leontodonto tuberosi–Bellidion sylvestris Biondi, Filigheddu & Farris 2001
-**Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
+* **Famille** : Araceae
+* **Floraison** : décembre-avril
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Leontodonto tuberosi–Bellidion sylvestris Biondi, Filigheddu & Farris 2001
+* **Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

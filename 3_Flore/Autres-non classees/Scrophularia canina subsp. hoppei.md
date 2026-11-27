@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Scrophularion caninae subsp. hoppii Béguin 1970 ex 1972
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Scrophularion caninae subsp. hoppii Béguin 1970 ex 1972
 
 ## Répartition
 

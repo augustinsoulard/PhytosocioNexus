@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saxifragion bryoidis Nègre 1968
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, pyrénéennes
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saxifragion bryoidis Nègre 1968
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, pyrénéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

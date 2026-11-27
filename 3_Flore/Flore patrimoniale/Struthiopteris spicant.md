@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Blechnaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Blechnion spicantis Catteau 2012 in prep.
-**Écologie (Baseflor)** : ourlets internes acidoclines planitiaires-collinéens, mésohygrophiles
+* **Famille** : Blechnaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Blechnion spicantis Catteau 2012 in prep.
+* **Écologie (Baseflor)** : ourlets internes acidoclines planitiaires-collinéens, mésohygrophiles
 
 ## Répartition
 

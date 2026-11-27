@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : mai-octobre
-**Type biologique** : hsto(grhi)
-**Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
+* **Famille** : Convolvulaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Hémicryptophyte stolonifère (à rhizome)
+* **Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
 
 ## Répartition
 

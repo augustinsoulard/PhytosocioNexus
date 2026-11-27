@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mai-septembre
-**Type biologique** : B-lia-semp
-**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
-**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+* **Famille** : Caprifoliaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Microphanérophyte lianescent sempervirent
+* **Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+* **Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
 
 ## Répartition
 

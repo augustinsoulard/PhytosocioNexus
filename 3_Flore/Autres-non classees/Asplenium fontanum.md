@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenion trichomano–ceterach Ferrez 2009
-**Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles, planitiaires à orophiles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenion trichomano–ceterach Ferrez 2009
+* **Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles, planitiaires à orophiles
 
 ## Répartition
 

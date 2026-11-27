@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Famille** : Apiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Butomaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
-**Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
+* **Famille** : Butomaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
+* **Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
 
 ## Répartition
 

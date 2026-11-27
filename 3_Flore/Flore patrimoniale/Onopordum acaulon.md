@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

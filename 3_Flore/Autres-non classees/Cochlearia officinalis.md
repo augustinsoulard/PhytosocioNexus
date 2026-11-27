@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mars-juillet
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
-**Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
+* **Famille** : Brassicaceae
+* **Floraison** : mars-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
+* **Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
 
 ## Répartition
 

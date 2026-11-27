@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2026
-**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+* **Famille** : Asteraceae
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2026
+* **Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
 
 ## Répartition
 

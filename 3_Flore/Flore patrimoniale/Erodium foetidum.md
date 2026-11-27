@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
+* **Famille** : Geraniaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

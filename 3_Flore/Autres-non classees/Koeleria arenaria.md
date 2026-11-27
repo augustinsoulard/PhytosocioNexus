@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Artemisio campestris subsp. maritimae–Koelerietalia arenariae Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, atlantiques
+* **Famille** : Poaceae
+* **Floraison** : juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Artemisio campestris subsp. maritimae–Koelerietalia arenariae Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, atlantiques
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables basophiles, européennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables basophiles, européennes
 
 ## Répartition
 

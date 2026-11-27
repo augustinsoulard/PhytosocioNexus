@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
-**Écologie (Baseflor)** : prairies hygrophiles, subtropicales
+* **Famille** : Cyperaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
+* **Écologie (Baseflor)** : prairies hygrophiles, subtropicales
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
+* **Famille** : Euphorbiaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
 
 ## Répartition
 

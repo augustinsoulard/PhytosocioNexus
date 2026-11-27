@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
-**Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
+* **Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

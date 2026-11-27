@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
-* **Intérêt patrimonial PACA** : MAJEUR

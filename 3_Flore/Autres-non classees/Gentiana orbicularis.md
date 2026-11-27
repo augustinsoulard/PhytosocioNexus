@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
+* **Famille** : Gentianaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
 
 ## Répartition
 

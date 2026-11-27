@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Stachyo palustris–Cirsion oleracei Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Stachyo palustris–Cirsion oleracei Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles
 
 ## Répartition
 

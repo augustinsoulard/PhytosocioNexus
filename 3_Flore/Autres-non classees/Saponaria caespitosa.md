@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

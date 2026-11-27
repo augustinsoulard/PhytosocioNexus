@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
 
 ## Répartition
 

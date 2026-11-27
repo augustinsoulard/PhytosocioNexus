@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
 
 Syn : Festuca varia
 

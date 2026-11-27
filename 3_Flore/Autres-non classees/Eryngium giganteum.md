@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
-**Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
+* **Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
 
 ## Répartition
 

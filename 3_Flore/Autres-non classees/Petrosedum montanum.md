@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
 
 ## Répartition
 

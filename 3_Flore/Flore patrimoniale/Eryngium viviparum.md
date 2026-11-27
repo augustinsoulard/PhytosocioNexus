@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis(hsto)
-**Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (stolonifère)
+* **Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : CR
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

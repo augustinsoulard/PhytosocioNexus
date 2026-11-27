@@ -6,19 +6,19 @@ cd_nomv18: 139371
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Primulaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saxifragion bryoidis Nègre 1968
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, pyrénéennes
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saxifragion bryoidis Nègre 1968
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, pyrénéennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

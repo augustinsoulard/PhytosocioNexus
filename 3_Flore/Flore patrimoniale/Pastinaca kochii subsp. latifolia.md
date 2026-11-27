@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-août
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
-**Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+* **Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

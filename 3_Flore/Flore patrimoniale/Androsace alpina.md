@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : juillet-septembre
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Androsacion alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, alpiens
+* **Famille** : Primulaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Androsacion alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, alpiens
 
 ## Répartition
 

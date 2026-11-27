@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Saginetea maritimae Westhoff, van Leeuwen & Adriani 1962
-**Écologie (Baseflor)** : annuelles pionnières des tonsures subnitrophiles maritimes européennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Saginetea maritimae Westhoff, van Leeuwen & Adriani 1962
+* **Écologie (Baseflor)** : annuelles pionnières des tonsures subnitrophiles maritimes européennes
 
 ## Répartition
 

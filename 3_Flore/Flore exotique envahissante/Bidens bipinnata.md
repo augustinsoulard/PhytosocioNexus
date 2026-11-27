@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
 
 ## Répartition
 

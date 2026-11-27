@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
+* **Famille** : Orobanchaceae
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT

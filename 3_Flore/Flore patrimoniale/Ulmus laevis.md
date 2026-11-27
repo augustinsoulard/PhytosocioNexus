@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ulmaceae
-**Floraison** : mars-avril
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Fraxino excelsioris–Alnion glutinosae Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés hygrophiles à amphibies, médio-européens
+* **Famille** : Ulmaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Fraxino excelsioris–Alnion glutinosae Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés hygrophiles à amphibies, médio-européens
 
 ## Répartition
 

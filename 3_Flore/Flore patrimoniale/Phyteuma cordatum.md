@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1965
-**Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1965
+* **Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
 
 ## Répartition
 

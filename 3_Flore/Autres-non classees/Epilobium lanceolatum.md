@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
+* **Famille** : Onagraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
 
 ## Répartition
 

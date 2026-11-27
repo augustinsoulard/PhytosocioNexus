@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
 
 #protection_nationale 
 

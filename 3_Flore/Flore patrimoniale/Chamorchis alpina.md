@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juillet-août
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
-**Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
+* **Famille** : Orchidaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
+* **Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
 
 ## Répartition
 

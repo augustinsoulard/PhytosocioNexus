@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
+* **Famille** : Boraginaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
 
 ## Répartition
 

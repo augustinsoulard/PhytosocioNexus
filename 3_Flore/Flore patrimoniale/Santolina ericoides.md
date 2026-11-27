@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
-**Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
+* **Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
 
 ## Répartition
 

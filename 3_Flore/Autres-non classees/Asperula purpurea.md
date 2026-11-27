@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
+* **Famille** : Rubiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
 
 ## Répartition
 

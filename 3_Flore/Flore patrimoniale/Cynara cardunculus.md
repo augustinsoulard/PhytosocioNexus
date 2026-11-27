@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 

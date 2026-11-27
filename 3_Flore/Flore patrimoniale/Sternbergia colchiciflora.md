@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
+* **Famille** : Amaryllidaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
 
 La **Sternbergie à fleurs de colchique** (_Sternbergia colchiciflora_) est une petite Amaryllidacées discrète que l’on retrouve dans les garrigues calcaires du Var, des Bouches-du-Rhône et de l’Hérault. C’est une plante très rare qu’il est d’autant plus difficile à repérer de par sa petite taille que sa floraison fugace.
 

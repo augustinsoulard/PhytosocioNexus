@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Sesamoido pygmaeae–Bellardiochloion variegatae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des adrets corso-sardes
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Sesamoido pygmaeae–Bellardiochloion variegatae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des adrets corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

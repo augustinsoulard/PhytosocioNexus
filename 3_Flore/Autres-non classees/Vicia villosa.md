@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : Test-lia(Heri-lia)
-**Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte estival lianescent (érigé lianescent)
+* **Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
 
 ## Répartition
 

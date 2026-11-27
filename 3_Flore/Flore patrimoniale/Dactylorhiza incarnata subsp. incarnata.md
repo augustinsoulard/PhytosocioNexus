@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
+* **Famille** : Orchidaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

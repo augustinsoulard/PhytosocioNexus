@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mars-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+* **Famille** : Rubiaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures basophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Mutellino adonidifoliae–Luzulion desvauxii Michalet & Philippe 1994
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, acidophiles, des ubacs
+* **Famille** : Juncaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Mutellino adonidifoliae–Luzulion desvauxii Michalet & Philippe 1994
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, acidophiles, des ubacs
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

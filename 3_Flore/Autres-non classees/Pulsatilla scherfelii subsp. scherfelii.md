@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

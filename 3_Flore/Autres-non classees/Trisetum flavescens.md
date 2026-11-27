@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Arrhenatherenea elatioris subsp. elatioris (Braun–Blanquet 1947) de Foucault 1984
-**Écologie (Baseflor)** : prairies mésohydriques, européennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Arrhenatherenea elatioris subsp. elatioris (Braun–Blanquet 1947) de Foucault 1984
+* **Écologie (Baseflor)** : prairies mésohydriques, européennes
 
 ## Répartition
 

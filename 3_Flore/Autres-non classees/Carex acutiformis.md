@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juin
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
-**Écologie (Baseflor)** : magnocariçaies européennes
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
+* **Écologie (Baseflor)** : magnocariçaies européennes
 
 ## Répartition
 

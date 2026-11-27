@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
-**Écologie (Baseflor)** : prairies hydrophiles européennes
+* **Famille** : Lamiaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
+* **Écologie (Baseflor)** : prairies hydrophiles européennes
 
 ## Répartition
 

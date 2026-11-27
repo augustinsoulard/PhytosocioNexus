@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : juillet-août
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
+* **Famille** : Boraginaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

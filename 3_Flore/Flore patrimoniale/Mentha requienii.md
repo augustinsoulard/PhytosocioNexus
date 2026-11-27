@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
+* **Famille** : Lamiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

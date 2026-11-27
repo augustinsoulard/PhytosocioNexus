@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
-**Écologie (Baseflor)** : magnoroselières méridionales
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
+* **Écologie (Baseflor)** : magnoroselières méridionales
 
 ## Répartition
 

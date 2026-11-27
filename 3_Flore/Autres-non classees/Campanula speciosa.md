@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
+* **Famille** : Campanulaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : mai-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
+* **Famille** : Asparagaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
 
 ## Répartition
 

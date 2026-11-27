@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
 
 ## Répartition
 

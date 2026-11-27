@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Lamiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

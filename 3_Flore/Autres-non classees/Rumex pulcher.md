@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
-**Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
+* **Famille** : Polygonaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+* **Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
 
 ## Répartition
 

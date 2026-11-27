@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

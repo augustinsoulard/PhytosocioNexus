@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Polygonaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 

@@ -6,19 +6,19 @@ cd_nomv18: 138634
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-août
-**Type biologique** : hbis-hpar
-**Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
-**Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte bisannuel hémiparasite
+* **Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
+* **Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

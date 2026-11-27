@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juillet-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Drosero anglicae–Rhynchosporetalia albae Tüxen apud Fujiwara 1979
-**Écologie (Baseflor)** : parvocariçaies pionnières sur substrats minéraux oligotrophiles ou tourbes minéralisées (gouilles de cicatrisation)
+* **Famille** : Orchidaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Drosero anglicae–Rhynchosporetalia albae Tüxen apud Fujiwara 1979
+* **Écologie (Baseflor)** : parvocariçaies pionnières sur substrats minéraux oligotrophiles ou tourbes minéralisées (gouilles de cicatrisation)
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

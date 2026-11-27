@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ophioglossaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+* **Famille** : Ophioglossaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MAJEUR
 
 ## Indices écologiques (Ellenberg)
 

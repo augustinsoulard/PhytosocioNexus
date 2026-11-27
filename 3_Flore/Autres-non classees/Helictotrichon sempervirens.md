@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mars-avril
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Tussilaginion farfarae (Szabo 1971) Popescu & Sanda 1988
-**Écologie (Baseflor)** : friches vivaces pionnières mésohygrophiles, des substrats argileux
+* **Famille** : Asteraceae
+* **Floraison** : mars-avril
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Tussilaginion farfarae (Szabo 1971) Popescu & Sanda 1988
+* **Écologie (Baseflor)** : friches vivaces pionnières mésohygrophiles, des substrats argileux
 
 ## Répartition
 

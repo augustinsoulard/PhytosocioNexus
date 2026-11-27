@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

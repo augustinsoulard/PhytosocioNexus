@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Asarinion procumbentis Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, pyrénéo-auvergnates
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Asarinion procumbentis Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, pyrénéo-auvergnates
 
 ## Répartition
 

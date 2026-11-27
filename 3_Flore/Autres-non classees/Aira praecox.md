@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
+* **Famille** : Poaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

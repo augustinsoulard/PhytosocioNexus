@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
 
 ## Répartition
 

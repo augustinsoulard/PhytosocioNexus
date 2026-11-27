@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

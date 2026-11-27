@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Syntaxon (Baseflor)** : Violo rivinianae–Stellarion holosteae Passarge 1994
-**Écologie (Baseflor)** : ourlets externes acidoclines vernaux, atlantiques
+* **Famille** : Caryophyllaceae
+* **Syntaxon (Baseflor)** : Violo rivinianae–Stellarion holosteae Passarge 1994
+* **Écologie (Baseflor)** : ourlets externes acidoclines vernaux, atlantiques
 
 ## Répartition
 

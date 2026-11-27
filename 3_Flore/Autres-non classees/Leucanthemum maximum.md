@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Lathyro sylvestris subsp. pyrenaici–Anthemidion triumfettii Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles orophiles, pyrénéo-auvergnats mésoxérophiles, oligotrophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Lathyro sylvestris subsp. pyrenaici–Anthemidion triumfettii Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles orophiles, pyrénéo-auvergnats mésoxérophiles, oligotrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

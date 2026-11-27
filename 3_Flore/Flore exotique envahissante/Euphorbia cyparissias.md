@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
 
 ## Répartition
 

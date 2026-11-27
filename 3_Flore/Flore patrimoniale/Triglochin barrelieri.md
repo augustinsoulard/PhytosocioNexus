@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaginaceae
-**Floraison** : mars-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Sarcocornion fruticosae Braun–Blanquet 1933
-**Écologie (Baseflor)** : micromangroves de bas-niveau topographique (bas-schorre)
+* **Famille** : Juncaginaceae
+* **Floraison** : mars-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Sarcocornion fruticosae Braun–Blanquet 1933
+* **Écologie (Baseflor)** : micromangroves de bas-niveau topographique (bas-schorre)
 
 ## Répartition
 

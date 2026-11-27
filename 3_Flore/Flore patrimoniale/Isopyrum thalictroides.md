@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mars-mai
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
+* **Famille** : Ranunculaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ date_maj: "2026-11-26"
 * **Statut ZNIEFF PACA** : D
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

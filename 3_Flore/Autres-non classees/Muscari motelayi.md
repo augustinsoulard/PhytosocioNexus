@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : février-avril
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+* **Famille** : Asparagaceae
+* **Floraison** : février-avril
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

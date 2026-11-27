@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

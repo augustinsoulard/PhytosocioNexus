@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Salsolion squarrosae Philippi 1971
-**Écologie (Baseflor)** : friches annuelles, subnitrophiles, médio-européennes, des sols sablo-graveleux
+* **Famille** : Amaranthaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Salsolion squarrosae Philippi 1971
+* **Écologie (Baseflor)** : friches annuelles, subnitrophiles, médio-européennes, des sols sablo-graveleux
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Verbenaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Verbenion supinae Slavníč 1951
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, en climat continental
+* **Famille** : Verbenaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Verbenion supinae Slavníč 1951
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, en climat continental
 
 ## Répartition
 

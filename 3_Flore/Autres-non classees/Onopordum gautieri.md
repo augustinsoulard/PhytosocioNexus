@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Onopordion acanthii subsp. gautieri Braun–Blanquet & de Bolòs 1957 corr. Rivas–Martínez 1975
-**Écologie (Baseflor)** : friches vivaces xérophiles, supraméditerranéennes
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Onopordion acanthii subsp. gautieri Braun–Blanquet & de Bolòs 1957 corr. Rivas–Martínez 1975
+* **Écologie (Baseflor)** : friches vivaces xérophiles, supraméditerranéennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : W
-* **Intérêt patrimonial PACA** : TRES FAIBLE

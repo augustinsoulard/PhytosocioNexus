@@ -10,9 +10,9 @@ sources:
 
 ## Description
 
-**Famille** : Iridaceae
-**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+* **Famille** : Iridaceae
+* **Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
 
 ## Répartition
 

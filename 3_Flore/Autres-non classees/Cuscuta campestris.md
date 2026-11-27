@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Type biologique** : Test-lia-par
-**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+* **Famille** : Convolvulaceae
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures basophiles
 
 ## Répartition
 

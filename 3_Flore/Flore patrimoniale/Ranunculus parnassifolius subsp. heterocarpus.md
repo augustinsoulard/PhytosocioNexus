@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
 
 ## Répartition
 

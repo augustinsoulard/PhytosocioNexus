@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juin-août
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
+* **Famille** : Orobanchaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Quercion cerridis Avena & Bruno 1975
+* **Famille** : Fagaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Quercion cerridis Avena & Bruno 1975
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : Hbis(Hros)
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte bisannuel (rosetté)
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 

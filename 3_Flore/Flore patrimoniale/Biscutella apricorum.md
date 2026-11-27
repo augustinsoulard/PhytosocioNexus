@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
 
 ## Répartition
 

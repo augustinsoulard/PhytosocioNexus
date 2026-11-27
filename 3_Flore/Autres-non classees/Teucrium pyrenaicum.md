@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

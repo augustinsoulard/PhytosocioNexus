@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Santalaceae
-**Type biologique** : heri-hpar
-**Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
-**Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
+* **Famille** : Santalaceae
+* **Type biologique** : Hémicryptophyte érigé hémiparasite
+* **Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
+* **Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
 
 ## Répartition
 

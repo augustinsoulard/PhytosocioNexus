@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Artemisio albae–Bromopsietalia erectae Ubaldi 1997 ex Dengler & Mucina in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Artemisio albae–Bromopsietalia erectae Ubaldi 1997 ex Dengler & Mucina in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

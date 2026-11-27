@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : avril-mai
-**Type biologique** : tver(csuf)
-**Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
+* **Famille** : Convolvulaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte vernal (suffrutescent)
+* **Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
 
 ## Répartition
 

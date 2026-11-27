@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
+* **Famille** : Caprifoliaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
 
 ## Répartition
 

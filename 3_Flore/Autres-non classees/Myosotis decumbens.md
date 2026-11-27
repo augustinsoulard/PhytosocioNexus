@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
+* **Famille** : Boraginaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
 
 ## Répartition
 

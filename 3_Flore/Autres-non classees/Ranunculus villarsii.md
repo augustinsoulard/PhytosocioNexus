@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+* **Famille** : Ranunculaceae
+* **Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Viburnaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Sambuco nigrae–Salicion capreae juv. Tüxen & Neumann in Tüxen 1950
-**Écologie (Baseflor)** : buissons arbustifs septentrionaux, eutrophiles, mésohydriques, planitiaires à collinéens
+* **Famille** : Viburnaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Sambuco nigrae–Salicion capreae juv. Tüxen & Neumann in Tüxen 1950
+* **Écologie (Baseflor)** : buissons arbustifs septentrionaux, eutrophiles, mésohydriques, planitiaires à collinéens
 
 ## Répartition
 

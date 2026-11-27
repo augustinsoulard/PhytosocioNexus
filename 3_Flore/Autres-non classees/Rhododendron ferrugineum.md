@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Rhododendro ferruginei–Vaccinion myrtilli (Braun–Blanquet 1926) Schnyder 1930
-**Écologie (Baseflor)** : landes subalpines des ubacs, chionophiles
+* **Famille** : Ericaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Rhododendro ferruginei–Vaccinion myrtilli (Braun–Blanquet 1926) Schnyder 1930
+* **Écologie (Baseflor)** : landes subalpines des ubacs, chionophiles
 
 ## Répartition
 

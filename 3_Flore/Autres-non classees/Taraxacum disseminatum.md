@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

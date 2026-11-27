@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juin-octobre
-**Type biologique** : Test-lia
-**Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
+* **Famille** : Polygonaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
 
 ## Répartition
 

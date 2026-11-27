@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+* **Famille** : Liliaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
 
 ## Répartition
 

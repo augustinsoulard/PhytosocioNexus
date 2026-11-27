@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Tetraclinido articulatae–Arganietalia spinosae Rivas Goday ex Fernández Casas & M.E. Sánchez 1972
-**Écologie (Baseflor)** : bois inframéditerranéens sempervirents, du Maghreb
+* **Famille** : Cupressaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Tetraclinido articulatae–Arganietalia spinosae Rivas Goday ex Fernández Casas & M.E. Sánchez 1972
+* **Écologie (Baseflor)** : bois inframéditerranéens sempervirents, du Maghreb
 
 ## Répartition
 

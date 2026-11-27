@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Linaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
+* **Famille** : Linaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

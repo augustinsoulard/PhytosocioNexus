@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Syntaxon (Baseflor)** : Ononido variegatae–Cutandietea maritimae de Foucault & Géhu in de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, maritimes, thermoméditerranéennes
+* **Famille** : Apiaceae
+* **Syntaxon (Baseflor)** : Ononido variegatae–Cutandietea maritimae de Foucault & Géhu in de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, maritimes, thermoméditerranéennes
 
 ## Répartition
 

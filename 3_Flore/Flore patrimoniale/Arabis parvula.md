@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
+* **Famille** : Brassicaceae
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : TRES FORT

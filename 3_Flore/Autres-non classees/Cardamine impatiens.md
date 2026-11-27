@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juin
-**Type biologique** : hbis(test)
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte bisannuel (estival)
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 

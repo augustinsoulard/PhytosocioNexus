@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
+* **Famille** : Fabaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
 
 ## Répartition
 

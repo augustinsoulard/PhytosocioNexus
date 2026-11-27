@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Galeopsio tetrahit–Senecionetea sylvatici Passarge 1981 ex de Foucault 2011
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Galeopsio tetrahit–Senecionetea sylvatici Passarge 1981 ex de Foucault 2011
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
+* **Famille** : Poaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
 
 ## Répartition
 

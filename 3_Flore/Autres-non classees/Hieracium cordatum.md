@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
 
 ## Répartition
 

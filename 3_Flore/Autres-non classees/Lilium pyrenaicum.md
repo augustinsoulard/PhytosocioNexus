@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : mai-juillet
-**Type biologique** : Gbul
-**Syntaxon (Baseflor)** : Lathyro sylvestris subsp. pyrenaici–Anthemidion triumfettii Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles orophiles, pyrénéo-auvergnats mésoxérophiles, oligotrophiles
+* **Famille** : Liliaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Lathyro sylvestris subsp. pyrenaici–Anthemidion triumfettii Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles orophiles, pyrénéo-auvergnats mésoxérophiles, oligotrophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

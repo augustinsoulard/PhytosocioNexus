@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : mai-juillet
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : Myrto communis–Ericetalia scopariae Paradis & Pozzo di Borgo 2005
-**Écologie (Baseflor)** : matorrals d'arbrisseaux méditerranéens, acidophiles
+* **Famille** : Ericaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Myrto communis–Ericetalia scopariae Paradis & Pozzo di Borgo 2005
+* **Écologie (Baseflor)** : matorrals d'arbrisseaux méditerranéens, acidophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes
 
 ## Répartition
 

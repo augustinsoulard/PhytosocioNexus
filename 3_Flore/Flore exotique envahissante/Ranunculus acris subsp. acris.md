@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
 
 ## D'après INVMED (consulté en 2026)
 
@@ -33,7 +33,6 @@ sources:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

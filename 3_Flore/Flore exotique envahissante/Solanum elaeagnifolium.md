@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
-**Type biologique** : Test(Heri)
-**Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
+* **Famille** : Solanaceae
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
 
 ## Répartition
 

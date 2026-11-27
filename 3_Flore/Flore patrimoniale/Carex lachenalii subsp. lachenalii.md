@@ -6,18 +6,18 @@ cd_nomv18: 612426
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Salicion herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
+* **Famille** : Cyperaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Salicion herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

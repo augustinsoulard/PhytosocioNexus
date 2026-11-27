@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-juillet
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1991
-**Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
+* **Famille** : Apiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1991
+* **Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
 
 ## Répartition
 

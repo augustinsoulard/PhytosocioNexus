@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
+* **Famille** : Violaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
 
 ## Répartition
 

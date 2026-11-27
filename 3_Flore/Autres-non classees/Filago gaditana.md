@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

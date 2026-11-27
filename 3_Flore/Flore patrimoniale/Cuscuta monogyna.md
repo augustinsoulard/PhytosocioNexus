@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Type biologique** : Test-lia-par
-**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
-**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+* **Famille** : Convolvulaceae
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+* **Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
 
 ## Répartition
 

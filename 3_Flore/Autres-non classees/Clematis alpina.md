@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-juillet
-**Type biologique** : b-lia
-**Syntaxon (Baseflor)** : Sorbo mougeotii–Lonicerion alpigenae de Foucault 2012
-**Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, des sols stabilisés subalpins
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Nanophanérophyte lianescent
+* **Syntaxon (Baseflor)** : Sorbo mougeotii–Lonicerion alpigenae de Foucault 2012
+* **Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, des sols stabilisés subalpins
 
 ## Répartition
 

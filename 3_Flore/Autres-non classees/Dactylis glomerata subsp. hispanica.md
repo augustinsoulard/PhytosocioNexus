@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes
 
 ## Répartition
 

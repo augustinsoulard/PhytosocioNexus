@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : avril-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
+* **Famille** : Geraniaceae
+* **Floraison** : avril-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
 
 ## Répartition
 

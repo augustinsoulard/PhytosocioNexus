@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Pinguiculion longifoliae Fernandez Casas 1970
-**Écologie (Baseflor)** : végétation des bas-marais pionniers des balmes orophiles, subméditerranéennes
+* **Famille** : Lentibulariaceae
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Pinguiculion longifoliae Fernandez Casas 1970
+* **Écologie (Baseflor)** : végétation des bas-marais pionniers des balmes orophiles, subméditerranéennes
 
 ## Répartition
 

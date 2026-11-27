@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rutaceae
-**Floraison** : mai-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+* **Famille** : Rutaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
 
 ## Répartition
 

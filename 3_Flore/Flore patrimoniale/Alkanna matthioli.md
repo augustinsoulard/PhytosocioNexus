@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-juin
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Diantho pyrenaici–Scrophularion caninae subsp. Pinnatifidae var. pinnatifidae Baudière & Simmoneau 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, méditerranéennes, catalanes
+* **Famille** : Boraginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Diantho pyrenaici–Scrophularion caninae subsp. Pinnatifidae var. pinnatifidae Baudière & Simmoneau 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, méditerranéennes, catalanes
 
-**Habitats :**  Zones sableuses du littoral méditerranéen. Pelouses à nanochaméphytes des falaises méditerranéennes submaritimes, basophiles et mésoxérophiles ([[Helichrysetalia italici]])
+* **Habitats :**  Zones sableuses du littoral méditerranéen. Pelouses à nanochaméphytes des falaises méditerranéennes submaritimes, basophiles et mésoxérophiles ([[Helichrysetalia italici]])
 
 ## Répartition
 

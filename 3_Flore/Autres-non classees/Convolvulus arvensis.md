@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : mai-octobre
-**Type biologique** : Grhi-lia
-**Syntaxon (Baseflor)** : Convolvulo arvensis–Elytrigion repentis Görs 1966
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques à mésohygrohiles, médio-européennes
+* **Famille** : Convolvulaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Géophyte à rhizome lianescent
+* **Syntaxon (Baseflor)** : Convolvulo arvensis–Elytrigion repentis Görs 1966
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques à mésohygrohiles, médio-européennes
 
 ## Répartition
 

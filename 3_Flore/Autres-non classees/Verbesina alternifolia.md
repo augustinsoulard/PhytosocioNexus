@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Isoetaceae
-**Floraison** : juin-septembre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Lobelio dortmannae–Isoetion lacustris Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, hyperatlantiques, acidophiles
+* **Famille** : Isoetaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Lobelio dortmannae–Isoetion lacustris Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, hyperatlantiques, acidophiles
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

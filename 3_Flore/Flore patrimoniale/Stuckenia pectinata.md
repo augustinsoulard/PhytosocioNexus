@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Floraison** : mai-septembre
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Stuckenietea pectinatae Klika in Klika & Novák 1941 em. Julve 2004 hoc loco
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces à saumâtres
+* **Famille** : Potamogetonaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Stuckenietea pectinatae Klika in Klika & Novák 1941 em. Julve 2004 hoc loco
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces à saumâtres
 
 ## Répartition
 

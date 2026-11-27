@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion maritimae (Braun–Blanquet in Volk 1939) Braun–Blanquet 1971
-**Écologie (Baseflor)** : parvocariçaies paratourbeuses, basophiles, de l'étage alpin
+* **Famille** : Cyperaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion maritimae (Braun–Blanquet in Volk 1939) Braun–Blanquet 1971
+* **Écologie (Baseflor)** : parvocariçaies paratourbeuses, basophiles, de l'étage alpin
 
 ## Répartition
 

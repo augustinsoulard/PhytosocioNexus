@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Abietetea spectabilis Miehe 1990 prov.
-**Écologie (Baseflor)** : forêts conifériennes himalayennes, tempérées
+* **Famille** : Pinaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Abietetea spectabilis Miehe 1990 prov.
+* **Écologie (Baseflor)** : forêts conifériennes himalayennes, tempérées
 
 ## Répartition
 

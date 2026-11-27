@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
-**Écologie (Baseflor)** : friches halophiles littorales, thermophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
+* **Écologie (Baseflor)** : friches halophiles littorales, thermophiles
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Oxalidaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Oxalidaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

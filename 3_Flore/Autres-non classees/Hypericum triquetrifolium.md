@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Hypericaceae
+* **Famille** : Hypericaceae
 
 ## Répartition
 

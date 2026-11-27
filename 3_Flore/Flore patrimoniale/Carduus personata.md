@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Petasition hybridi Sillinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, montagnardes, médio-européennes plutôt orientales
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Petasition hybridi Sillinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, montagnardes, médio-européennes plutôt orientales
 
 ## Répartition
 

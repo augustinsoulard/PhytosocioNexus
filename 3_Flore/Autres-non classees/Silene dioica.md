@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
-**Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
+* **Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
 
 ## Répartition
 

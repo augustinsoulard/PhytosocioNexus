@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

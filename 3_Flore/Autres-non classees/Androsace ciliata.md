@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : juillet-août
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Senecion leucophylli Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, pyrénéens
+* **Famille** : Primulaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Senecion leucophylli Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, pyrénéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

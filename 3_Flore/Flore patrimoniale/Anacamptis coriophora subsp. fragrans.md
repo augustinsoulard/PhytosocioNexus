@@ -10,13 +10,13 @@ sources:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Plantaginion crassifoliae Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : jonçaies et parvocariçaies des prés paratourbeux thermoméditerranéens submaritimes
+* **Famille** : Orchidaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Plantaginion crassifoliae Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : jonçaies et parvocariçaies des prés paratourbeux thermoméditerranéens submaritimes
 
-**Habitats :** Garrigues et maquis secs, olivettes, différents sols marneux ouverts, sur sols calcaires, sablonneux ou siliceux ([[Xerobromion erecti]], [[Rosmarinion officinalis]], [[Lavanduletalia stoechadis]])
+* **Habitats :** Garrigues et maquis secs, olivettes, différents sols marneux ouverts, sur sols calcaires, sablonneux ou siliceux ([[Xerobromion erecti]], [[Rosmarinion officinalis]], [[Lavanduletalia stoechadis]])
 
 ## Répartition
 

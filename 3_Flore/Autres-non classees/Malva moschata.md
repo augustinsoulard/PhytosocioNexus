@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1990
-**Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
+* **Famille** : Malvaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1990
+* **Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
 
 ## Répartition
 

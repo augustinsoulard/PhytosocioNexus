@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juillet-octobre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
+* **Famille** : Caprifoliaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
 
 ## Répartition
 

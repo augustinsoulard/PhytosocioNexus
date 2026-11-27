@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
+* **Famille** : Lamiaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
 
 ## Répartition
 

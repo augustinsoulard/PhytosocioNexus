@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Alysso montani–Sedetalia albi (Moravec 1967) Julve 2004 nom. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, centro-européennes
+* **Famille** : Crassulaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Alysso montani–Sedetalia albi (Moravec 1967) Julve 2004 nom. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, centro-européennes
 
 ## Répartition
 

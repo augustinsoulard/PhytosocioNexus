@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
-**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+* **Famille** : Polygonaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+* **Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
 
 ## Répartition
 

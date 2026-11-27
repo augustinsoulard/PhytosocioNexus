@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
 
 ## Répartition
 

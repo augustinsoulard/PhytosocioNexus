@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : février-mars
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Juniperetalia thuriferae Julve 2016 ord. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes occidentales
+* **Famille** : Cupressaceae
+* **Floraison** : février-mars
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Juniperetalia thuriferae Julve 2016 ord. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes occidentales
 
 ## Répartition
 

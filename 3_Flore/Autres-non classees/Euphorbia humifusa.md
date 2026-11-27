@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
+* **Famille** : Euphorbiaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
 
 ## Répartition
 

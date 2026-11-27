@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 

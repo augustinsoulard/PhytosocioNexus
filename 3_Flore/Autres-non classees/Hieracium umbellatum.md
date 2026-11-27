@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
 
 ## Répartition
 

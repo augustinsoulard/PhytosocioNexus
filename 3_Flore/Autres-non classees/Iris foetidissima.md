@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
+* **Famille** : Iridaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
 
 ## Répartition
 

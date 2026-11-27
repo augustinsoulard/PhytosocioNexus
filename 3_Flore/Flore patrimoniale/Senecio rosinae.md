@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

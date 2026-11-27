@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Salicornietea europaeae (Pignatti 1953) Tüxen 1954 apud Tüxen & Oberdorfer 1958
-**Écologie (Baseflor)** : annuelles crassulescentes pionnières des vases salées européennes
+* **Famille** : Amaranthaceae
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Salicornietea europaeae (Pignatti 1953) Tüxen 1954 apud Tüxen & Oberdorfer 1958
+* **Écologie (Baseflor)** : annuelles crassulescentes pionnières des vases salées européennes
 
 ## Répartition
 

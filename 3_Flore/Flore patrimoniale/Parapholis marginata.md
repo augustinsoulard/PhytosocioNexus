@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Limonion avei Brullo 1988
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, centroméditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Limonion avei Brullo 1988
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, centroméditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

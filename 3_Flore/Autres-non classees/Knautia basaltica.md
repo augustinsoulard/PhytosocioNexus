@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
+* **Famille** : Caprifoliaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

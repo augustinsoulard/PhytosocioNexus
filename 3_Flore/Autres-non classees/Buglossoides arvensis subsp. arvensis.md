@@ -7,17 +7,16 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-septembre
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
+* **Famille** : Boraginaceae
+* **Floraison** : avril-septembre
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

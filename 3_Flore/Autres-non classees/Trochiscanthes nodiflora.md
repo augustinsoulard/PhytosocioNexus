@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
+* **Famille** : Apiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
 
 ## Répartition
 

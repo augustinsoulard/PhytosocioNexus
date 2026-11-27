@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

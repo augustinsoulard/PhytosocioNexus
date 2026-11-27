@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
 
 ## Répartition
 

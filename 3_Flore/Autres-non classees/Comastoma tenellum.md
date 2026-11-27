@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juillet-août
-**Type biologique** : hbis(test)
-**Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
+* **Famille** : Gentianaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel (estival)
+* **Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
 
 ## Répartition
 

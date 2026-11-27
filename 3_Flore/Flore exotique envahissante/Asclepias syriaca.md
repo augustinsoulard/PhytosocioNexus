@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Apocynaceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Apocynaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

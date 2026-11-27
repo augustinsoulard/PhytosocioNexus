@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
 
 ## Répartition
 

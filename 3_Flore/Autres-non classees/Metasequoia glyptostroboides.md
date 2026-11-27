@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Abieti veitchii–Piceetalia jezoensis subsp. hondoensis Miyawaki, Ohba & Okuda 1968
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes aciculifoliées boréo-subalpines japonaises et extrême orientales
+* **Famille** : Cupressaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Abieti veitchii–Piceetalia jezoensis subsp. hondoensis Miyawaki, Ohba & Okuda 1968
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes aciculifoliées boréo-subalpines japonaises et extrême orientales
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

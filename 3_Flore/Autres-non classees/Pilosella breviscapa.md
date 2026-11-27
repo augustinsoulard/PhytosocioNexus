@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-août
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Adenostyletalia alliariae G. & J. Braun–Blanquet 1931
-**Écologie (Baseflor)** : mégaphorbiaies subalpines d'Europe occidentale
+* **Famille** : Apiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Adenostyletalia alliariae G. & J. Braun–Blanquet 1931
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines d'Europe occidentale
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
 
 ## Répartition
 

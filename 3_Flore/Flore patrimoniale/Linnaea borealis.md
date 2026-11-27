@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

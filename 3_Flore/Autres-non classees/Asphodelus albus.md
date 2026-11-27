@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Floraison** : avril-juin
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
+* **Famille** : Asphodelaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
 
 ## Répartition
 

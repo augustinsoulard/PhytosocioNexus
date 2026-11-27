@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Nasturtio officinalis–Glycerietalia fluitantis Pignatti 1953
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, européennes
+* **Famille** : Boraginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Nasturtio officinalis–Glycerietalia fluitantis Pignatti 1953
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, européennes
 
 ## Répartition
 

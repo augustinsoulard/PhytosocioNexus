@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1994
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
+* **Famille** : Saxifragaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1994
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
 
 ## Répartition
 

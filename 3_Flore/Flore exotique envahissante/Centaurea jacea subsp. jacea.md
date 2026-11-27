@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
 
 ## D'après INVMED (consulté en 2026)
 
@@ -33,7 +33,6 @@ sources:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

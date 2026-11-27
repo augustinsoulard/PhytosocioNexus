@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

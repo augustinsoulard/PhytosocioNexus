@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : mai-juillet
-**Type biologique** : Gbul
-**Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
-**Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
+* **Famille** : Liliaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
+* **Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
-**Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
+* **Famille** : Saxifragaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
+* **Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
 
 ## Répartition
 

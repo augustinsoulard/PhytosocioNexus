@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apocynaceae
-**Floraison** : février-mai
-**Type biologique** : cfru-semp(hsto)
-**Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
+* **Famille** : Apocynaceae
+* **Floraison** : février-mai
+* **Type biologique** : Chaméphyte frutescent sempervirent (stolonifère)
+* **Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
 
 ## Répartition
 

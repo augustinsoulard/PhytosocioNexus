@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
+* **Famille** : Apiaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
 
 ## Répartition
 

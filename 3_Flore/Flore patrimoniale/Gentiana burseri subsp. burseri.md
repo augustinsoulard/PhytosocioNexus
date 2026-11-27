@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juillet-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
+* **Famille** : Gentianaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

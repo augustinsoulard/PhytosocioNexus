@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
 
 ## Répartition
 

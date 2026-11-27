@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures basophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

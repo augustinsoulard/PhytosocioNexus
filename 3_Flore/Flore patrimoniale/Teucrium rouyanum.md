@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ceratophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Ceratophyllion demersi Den Hartog & Segal 1964
-**Écologie (Baseflor)** : herbier aquatique vivace, d'eaux stagnantes eutrophisées
+* **Famille** : Ceratophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ceratophyllion demersi Den Hartog & Segal 1964
+* **Écologie (Baseflor)** : herbier aquatique vivace, d'eaux stagnantes eutrophisées
 
 ## Répartition
 

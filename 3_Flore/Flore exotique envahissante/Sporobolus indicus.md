@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
-**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
+* **Famille** : Poaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
+* **Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
 
 ## Répartition
 

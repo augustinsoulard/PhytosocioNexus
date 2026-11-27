@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
+* **Famille** : Campanulaceae
 
 ## Répartition
 

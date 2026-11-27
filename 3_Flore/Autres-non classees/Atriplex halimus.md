@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-septembre
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Atriplicetea halimi Nègre 1959
-**Écologie (Baseflor)** : arbrisseaux subhalophiles
+* **Famille** : Amaranthaceae
+* **Floraison** : août-septembre
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Atriplicetea halimi Nègre 1959
+* **Écologie (Baseflor)** : arbrisseaux subhalophiles
 
 ## Répartition
 

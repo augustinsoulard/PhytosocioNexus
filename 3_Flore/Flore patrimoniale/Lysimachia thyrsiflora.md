@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion elatae Koch 1926
-**Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
+* **Famille** : Primulaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion elatae Koch 1926
+* **Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

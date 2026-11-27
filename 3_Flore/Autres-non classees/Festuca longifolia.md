@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Artemision campestris Julve 2006 all. nov. hoc loco
-**Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, continentales, atlantiques
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Artemision campestris Julve 2006 all. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, continentales, atlantiques
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
-**Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
+* **Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
 
 ## Répartition
 

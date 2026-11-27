@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
 
 ## Répartition
 

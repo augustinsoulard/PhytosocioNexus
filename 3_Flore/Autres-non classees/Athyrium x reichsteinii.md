@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Athyriaceae
+* **Famille** : Athyriaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test(heri)
-**Syntaxon (Baseflor)** : Poion supinae (Tüxen 1970) Rivas–Martínez & Géhu 1978
-**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, subalpines
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Poion supinae (Tüxen 1970) Rivas–Martínez & Géhu 1978
+* **Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, subalpines
 
 ## Répartition
 

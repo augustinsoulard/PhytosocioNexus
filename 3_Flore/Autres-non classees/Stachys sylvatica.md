@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
-**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+* **Famille** : Lamiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+* **Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
 
 ## Répartition
 

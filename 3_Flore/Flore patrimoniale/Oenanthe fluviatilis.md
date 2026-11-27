@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Ranunculion fluitantis Neuhäusl 1959
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux douces, courantes, peu profondes
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ranunculion fluitantis Neuhäusl 1959
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux douces, courantes, peu profondes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

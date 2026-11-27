@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Type biologique** : gtub-par
-**Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
+* **Famille** : Ericaceae
+* **Type biologique** : Géophyte à tubercule parasite
+* **Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
 
 ## Répartition
 

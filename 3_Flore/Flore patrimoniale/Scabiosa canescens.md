@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
-**Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
+* **Famille** : Caprifoliaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
+* **Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

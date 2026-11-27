@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
-**Écologie (Baseflor)** : roselières amphibies européennes
+* **Famille** : Typhaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
+* **Écologie (Baseflor)** : roselières amphibies européennes
 
 Ecologie : Fossés, bords de cours d'eau, mares et plans d'eau peu profonds ([[Phragmitetalia australis]], [[Magnocaricion elatae]]). De l'étage thermoméditerranéen au montagnard méditerranéen.
 

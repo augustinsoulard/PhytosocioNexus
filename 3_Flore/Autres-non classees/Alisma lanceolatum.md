@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : mai-septembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Equisetion fluviatilis Passarge 1999
-**Écologie (Baseflor)** : parvoroselières amphibies, pionnières de bords d'étangs et de mares méso-oligotrophiles
+* **Famille** : Alismataceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Equisetion fluviatilis Passarge 1999
+* **Écologie (Baseflor)** : parvoroselières amphibies, pionnières de bords d'étangs et de mares méso-oligotrophiles
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
-**Écologie (Baseflor)** : friches halophiles littorales, thermophiles
+* **Famille** : Amaranthaceae
+* **Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
+* **Écologie (Baseflor)** : friches halophiles littorales, thermophiles
 
 ## Répartition
 

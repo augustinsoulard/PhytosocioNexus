@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Tver(Hbis)
-**Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
+* **Famille** : Apiaceae
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
 
 ## Répartition
 

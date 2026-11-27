@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Tofieldiaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
+* **Famille** : Tofieldiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
 
 ## Répartition
 

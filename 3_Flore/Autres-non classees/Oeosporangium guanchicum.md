@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : février-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
-**Écologie (Baseflor)** : dalles méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Pteridaceae
+* **Floraison** : février-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
+* **Écologie (Baseflor)** : dalles méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

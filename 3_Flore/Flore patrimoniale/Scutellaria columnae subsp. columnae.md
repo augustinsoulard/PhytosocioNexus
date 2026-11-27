@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-juillet
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Lamiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

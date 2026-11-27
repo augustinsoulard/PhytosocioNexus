@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-août
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
+* **Famille** : Orchidaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
 
 ## Répartition
 

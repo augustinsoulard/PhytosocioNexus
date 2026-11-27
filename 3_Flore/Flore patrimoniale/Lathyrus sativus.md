@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : test-lia
-**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
 
 ## Répartition
 

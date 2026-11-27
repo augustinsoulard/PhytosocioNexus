@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
-**Écologie (Baseflor)** : magnocariçaies européennes
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
+* **Écologie (Baseflor)** : magnocariçaies européennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
+* **Famille** : Crassulaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
 
 ## Répartition
 

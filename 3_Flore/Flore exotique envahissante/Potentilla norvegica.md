@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : test(heri)
-**Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
+* **Famille** : Rosaceae
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
 
 ## Répartition
 
@@ -35,7 +35,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

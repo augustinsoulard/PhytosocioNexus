@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

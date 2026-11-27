@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Apiaceae
+* **Famille** : Apiaceae
 
 ## Répartition
 
@@ -34,4 +34,3 @@ sources:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

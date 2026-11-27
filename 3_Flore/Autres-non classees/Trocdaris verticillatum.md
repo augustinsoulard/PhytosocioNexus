@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
+* **Famille** : Apiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

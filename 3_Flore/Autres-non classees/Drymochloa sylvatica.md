@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
 
 ## Répartition
 

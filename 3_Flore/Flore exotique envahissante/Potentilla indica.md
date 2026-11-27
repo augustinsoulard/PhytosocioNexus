@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
 
 ## Répartition
 

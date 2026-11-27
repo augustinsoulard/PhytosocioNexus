@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : avril-mai
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Asplenietalia ceterach Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles
+* **Famille** : Papaveraceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Asplenietalia ceterach Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

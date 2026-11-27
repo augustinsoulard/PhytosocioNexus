@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Boraginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mars-juin
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
+* **Famille** : Orobanchaceae
+* **Floraison** : mars-juin
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Stipello capensis–Bupleuretalia semicompositi Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, méditerranéennes
 
 ## Répartition
 

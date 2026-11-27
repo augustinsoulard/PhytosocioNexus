@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : heri-hpar
-**Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
+* **Famille** : Orobanchaceae
+* **Type biologique** : Hémicryptophyte érigé hémiparasite
+* **Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
 
 ## Répartition
 

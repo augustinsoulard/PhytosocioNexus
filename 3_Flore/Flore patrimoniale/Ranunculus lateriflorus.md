@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Elatino triandrae–Damasonion alismatis de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles méditerranéo-atlantiques
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Elatino triandrae–Damasonion alismatis de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles méditerranéo-atlantiques
 
 ## Répartition
 

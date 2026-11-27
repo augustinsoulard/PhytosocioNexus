@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Plantaginaceae
+* **Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 

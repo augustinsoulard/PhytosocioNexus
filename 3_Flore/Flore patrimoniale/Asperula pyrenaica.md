@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

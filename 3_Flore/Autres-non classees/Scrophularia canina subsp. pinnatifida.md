@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Diantho pyrenaici–Scrophularion caninae subsp. Pinnatifidae var. pinnatifidae Baudière & Simmoneau 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, méditerranéennes, catalanes
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Diantho pyrenaici–Scrophularion caninae subsp. Pinnatifidae var. pinnatifidae Baudière & Simmoneau 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, méditerranéennes, catalanes
 
 ## Répartition
 

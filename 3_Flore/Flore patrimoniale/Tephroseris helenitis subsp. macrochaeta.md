@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
-**Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
+* **Famille** : Asteraceae
+* **Floraison** : mai
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
+* **Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

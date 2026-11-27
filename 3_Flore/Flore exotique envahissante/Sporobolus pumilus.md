@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : août-mars
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
+* **Famille** : Poaceae
+* **Floraison** : août-mars
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
 
 ## Répartition
 

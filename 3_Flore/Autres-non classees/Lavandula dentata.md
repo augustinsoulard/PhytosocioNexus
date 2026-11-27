@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Salvietalia rosmarini Braun-Blanquet 1931 em. Julve 1993 prov.
-**Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salvietalia rosmarini Braun-Blanquet 1931 em. Julve 1993 prov.
+* **Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
 
 ## Répartition
 

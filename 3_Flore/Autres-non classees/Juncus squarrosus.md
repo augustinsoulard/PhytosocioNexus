@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
+* **Famille** : Juncaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

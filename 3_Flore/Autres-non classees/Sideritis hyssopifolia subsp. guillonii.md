@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
 
 ## Répartition
 

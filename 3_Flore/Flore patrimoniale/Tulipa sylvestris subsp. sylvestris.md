@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : avril-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
-**Écologie (Baseflor)** : prairies et les champs non traités
+* **Famille** : Liliaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Écologie (Baseflor)** : prairies et les champs non traités
 
 ## Répartition
 

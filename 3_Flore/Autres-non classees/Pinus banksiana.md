@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Abieti balsameae–Piceetea glaucae Knapp 1957 ex Grandtner 1966
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, du tempéré froid boréal de la Taïga nord-américaine
+* **Famille** : Pinaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Abieti balsameae–Piceetea glaucae Knapp 1957 ex Grandtner 1966
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, du tempéré froid boréal de la Taïga nord-américaine
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Mentho pulegii–Eleocharitenalia palustris subsp. palustris Julve 1993
-**Écologie (Baseflor)** : prairies hydrophiles européennes, thermophiles
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Mentho pulegii–Eleocharitenalia palustris subsp. palustris Julve 1993
+* **Écologie (Baseflor)** : prairies hydrophiles européennes, thermophiles
 
 ## Répartition
 

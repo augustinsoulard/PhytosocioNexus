@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : août-septembre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Carici davallianae–Molinienion caeruleae de Foucault & Géhu 1980
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles, montagnards
+* **Famille** : Gentianaceae
+* **Floraison** : août-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Carici davallianae–Molinienion caeruleae de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles, montagnards
 
 ## Répartition
 

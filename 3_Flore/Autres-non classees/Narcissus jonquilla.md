@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : mars-avril
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
+* **Famille** : Amaryllidaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
 
 ## Répartition
 

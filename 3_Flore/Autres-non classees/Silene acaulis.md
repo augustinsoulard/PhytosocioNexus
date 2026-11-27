@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1996
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1996
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
 
 ## Répartition
 

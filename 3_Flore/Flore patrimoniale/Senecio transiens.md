@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mars-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
+* **Famille** : Asteraceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
 
 ## Répartition
 

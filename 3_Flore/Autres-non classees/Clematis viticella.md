@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : b-lia-cad
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Ranunculaceae
+* **Type biologique** : Nanophanérophyte lianescent caducifolié
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Répartition
 

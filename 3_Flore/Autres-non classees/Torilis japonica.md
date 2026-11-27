@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-septembre
-**Type biologique** : Test(Hbis)
-**Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
+* **Famille** : Apiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
 
 ## Répartition
 

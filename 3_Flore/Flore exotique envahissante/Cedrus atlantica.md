@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Querco fagineae–Cedretalia atlanticae Barbero, Loisel & Quézel 1974
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, supra- à oroméditerranéennes occidentales, atlasiques, Maghreb, 1100-1600m
+* **Famille** : Pinaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Querco fagineae–Cedretalia atlanticae Barbero, Loisel & Quézel 1974
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, supra- à oroméditerranéennes occidentales, atlasiques, Maghreb, 1100-1600m
 
 ## Répartition
 

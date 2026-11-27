@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Meliaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
+* **Famille** : Meliaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Quercetea mongolicae Song 1988 ex Krestov, Song, Nakamura & Verkholat 2006
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts caducifoliées de l'Asie orientale continentale, tempérée modale
 
 ## Répartition
 

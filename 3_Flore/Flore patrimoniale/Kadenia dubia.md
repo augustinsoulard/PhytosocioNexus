@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Hbis(Grhi)
-**Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
-**Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte bisannuel (à rhizome)
+* **Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
+* **Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

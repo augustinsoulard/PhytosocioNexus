@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Floraison** : juillet-août
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
-**Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
+* **Famille** : Saxifragaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Seslerietea caeruleae Braun–Blanquet 1948 em. Oberdorfer 1978
+* **Écologie (Baseflor)** : pelouses basophiles boréo-subalpines, pionnières, chionophiles
 
 ## Répartition
 

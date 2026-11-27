@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cannaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Cannaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

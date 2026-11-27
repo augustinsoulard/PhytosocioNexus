@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juillet-août
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
-**Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
+* **Famille** : Orobanchaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
+* **Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
 
 ## Répartition
 

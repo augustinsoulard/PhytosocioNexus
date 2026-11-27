@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

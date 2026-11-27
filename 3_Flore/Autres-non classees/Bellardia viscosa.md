@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-septembre
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
 
 ## Répartition
 

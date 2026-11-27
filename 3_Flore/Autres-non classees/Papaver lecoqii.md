@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
-**Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
+* **Famille** : Papaveraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
+* **Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

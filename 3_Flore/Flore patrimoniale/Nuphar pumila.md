@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Nymphaeaceae
-**Floraison** : juin-septembre
-**Type biologique** : Grhi-aqua
-**Syntaxon (Baseflor)** : Utriculario minoris–Nymphaeion candidae Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
-**Écologie (Baseflor)** : herbiers aquatiques vivaces, des eaux douces moyennement profondes, dystrophiles organiques
+* **Famille** : Nymphaeaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Utriculario minoris–Nymphaeion candidae Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
+* **Écologie (Baseflor)** : herbiers aquatiques vivaces, des eaux douces moyennement profondes, dystrophiles organiques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

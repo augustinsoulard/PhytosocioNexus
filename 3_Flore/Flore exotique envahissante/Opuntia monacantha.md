@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cactaceae
-**Type biologique** : b-suc
-**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
-**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+* **Famille** : Cactaceae
+* **Type biologique** : Nanophanérophyte succulent
+* **Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+* **Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
 
 ## Répartition
 

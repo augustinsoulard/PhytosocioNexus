@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
+* **Famille** : Geraniaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
 
 ## Répartition
 

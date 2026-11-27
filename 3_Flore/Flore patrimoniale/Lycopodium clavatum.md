@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lycopodiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : csuf-semp
-**Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
-**Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
+* **Famille** : Lycopodiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Chaméphyte suffrutescent sempervirent
+* **Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
+* **Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
 
 ![[Lycopodium clavatum_Augusitn_Soulard.jpg]]
 

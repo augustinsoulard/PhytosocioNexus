@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Styracaceae
-**Floraison** : mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Pistacio lentisci–Rhamnetalia alaterni subsp. alaterni Rivas–Martínez 1975
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens, basophiles
+* **Famille** : Styracaceae
+* **Floraison** : mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Pistacio lentisci–Rhamnetalia alaterni subsp. alaterni Rivas–Martínez 1975
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens, basophiles
 
 ## Répartition
 

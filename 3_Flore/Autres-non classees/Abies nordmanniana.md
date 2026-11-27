@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : avril
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Piceion orientalis Julve 2016 all. nov. hoc loco
-**Écologie (Baseflor)** : bois subalpins sempervirents, aciculifoliés, pontico-caucasiens
+* **Famille** : Pinaceae
+* **Floraison** : avril
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Piceion orientalis Julve 2016 all. nov. hoc loco
+* **Écologie (Baseflor)** : bois subalpins sempervirents, aciculifoliés, pontico-caucasiens
 
 ## Répartition
 

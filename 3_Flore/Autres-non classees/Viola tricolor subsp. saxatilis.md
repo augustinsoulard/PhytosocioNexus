@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : hbis(csuf)
-**Syntaxon (Baseflor)** : Campanulo rhomboidalis–Trisetenion flavescentis Dierschke in Theurillat 1992
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, subalpines à montagnardes, neutroclines
+* **Famille** : Violaceae
+* **Type biologique** : Hémicryptophyte bisannuel (suffrutescent)
+* **Syntaxon (Baseflor)** : Campanulo rhomboidalis–Trisetenion flavescentis Dierschke in Theurillat 1992
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, subalpines à montagnardes, neutroclines
 
 ## Répartition
 

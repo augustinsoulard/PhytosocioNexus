@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

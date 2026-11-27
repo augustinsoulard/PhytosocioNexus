@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
-**Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
+* **Famille** : Asteraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Dauco carotae subsp. carotae–Melilotion albi Görs 1966
+* **Écologie (Baseflor)** : friches bisannuelles mésohydriques, médio-européennes
 
 ## Répartition
 

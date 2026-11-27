@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Caricion remotae Kästner 1942
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Caricion remotae Kästner 1942
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
 
 ## Répartition
 

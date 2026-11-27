@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
-**Floraison** : mai-août
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
+* **Famille** : Solanaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
 
 ## Répartition
 

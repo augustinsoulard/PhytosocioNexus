@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-octobre
-**Type biologique** : tver(csuf)
-**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+* **Famille** : Brassicaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Thérophyte vernal (suffrutescent)
+* **Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
 
 ## Répartition
 

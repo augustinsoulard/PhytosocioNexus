@@ -11,15 +11,15 @@ sources:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+* **Famille** : Apiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
 
-**Type biologique** : Thérophyte vernale
+* **Type biologique** : Thérophyte vernale
 
-**Habitats** : Milieux rudéraux des bords de chemins, friches, cultures et des fossés ([[Chenopodietalia albi]]).
+* **Habitats** : Milieux rudéraux des bords de chemins, friches, cultures et des fossés ([[Chenopodietalia albi]]).
 
 ## Répartition
 

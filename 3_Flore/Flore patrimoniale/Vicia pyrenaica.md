@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1966
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1966
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 

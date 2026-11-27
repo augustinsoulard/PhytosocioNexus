@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-août
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
 
 ## Répartition
 

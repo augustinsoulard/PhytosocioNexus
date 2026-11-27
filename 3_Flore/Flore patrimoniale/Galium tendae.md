@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Saxifragion pedemontanae Barbero & Bono 1967
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, ligures
+* **Famille** : Rubiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Saxifragion pedemontanae Barbero & Bono 1967
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, ligures
 
 ## Répartition
 

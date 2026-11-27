@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
-**Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
 
 ## Répartition
 

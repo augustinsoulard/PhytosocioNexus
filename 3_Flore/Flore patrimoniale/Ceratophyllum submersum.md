@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ceratophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Utricularion vulgaris Passarge 1964
-**Écologie (Baseflor)** : Utriculaires annuelles, libres, flottantes, européennes, oligotrophiles
+* **Famille** : Ceratophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Utricularion vulgaris Passarge 1964
+* **Écologie (Baseflor)** : Utriculaires annuelles, libres, flottantes, européennes, oligotrophiles
 
 ## Répartition
 

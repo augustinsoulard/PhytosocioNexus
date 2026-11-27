@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
 
 ## Répartition
 

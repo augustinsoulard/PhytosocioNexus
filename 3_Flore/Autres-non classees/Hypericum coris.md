@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hypericaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1960
-**Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
+* **Famille** : Hypericaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Saxifragion callosae (Rioux & Quézel 1949) Quézel 1960
+* **Écologie (Baseflor)** : lithophytes héliophiles des replats de falaises basophiles, orophiles, ligures
 
 ## Répartition
 

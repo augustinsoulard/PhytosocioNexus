@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : avril
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
-**Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
+* **Famille** : Rosaceae
+* **Floraison** : avril
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
+* **Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

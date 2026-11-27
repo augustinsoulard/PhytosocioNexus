@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Gymnocarpion robertiani Fernandez Casas 1970
-**Écologie (Baseflor)** : pelouses sciaphiles d'éboulis calcaires
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Gymnocarpion robertiani Fernandez Casas 1970
+* **Écologie (Baseflor)** : pelouses sciaphiles d'éboulis calcaires
 
 ## Répartition
 

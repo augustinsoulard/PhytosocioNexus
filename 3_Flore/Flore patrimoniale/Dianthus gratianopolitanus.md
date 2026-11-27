@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
 
 ## Répartition
 

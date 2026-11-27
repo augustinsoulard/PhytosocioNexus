@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
+* **Famille** : Juncaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
 
 ## Répartition
 

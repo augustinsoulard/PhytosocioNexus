@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Nartheciaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
-**Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Nartheciaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
+* **Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

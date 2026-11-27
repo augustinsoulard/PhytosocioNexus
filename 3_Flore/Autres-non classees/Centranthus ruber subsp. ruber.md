@@ -7,16 +7,15 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mai-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
-**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
+* **Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

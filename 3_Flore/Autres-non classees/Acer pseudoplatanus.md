@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Sapindaceae
-**Floraison** : mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Fraxino excelsioris–Quercetea roboris Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen
+* **Famille** : Sapindaceae
+* **Floraison** : mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Fraxino excelsioris–Quercetea roboris Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asparagaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
+* **Famille** : Asparagaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
 
 ## Répartition
 

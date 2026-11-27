@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juin-octobre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
+* **Famille** : Plumbaginaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
 
 ## Répartition
 

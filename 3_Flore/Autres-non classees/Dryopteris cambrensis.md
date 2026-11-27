@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
+* **Famille** : Dryopteridaceae
+* **Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
 
 ## Répartition
 

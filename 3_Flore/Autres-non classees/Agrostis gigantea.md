@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
 
 ## Répartition
 

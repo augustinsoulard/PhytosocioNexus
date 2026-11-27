@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Rhamnaceae
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Répartition
 

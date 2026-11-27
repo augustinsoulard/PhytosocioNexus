@@ -7,16 +7,15 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Elytrigietalia acutae Géhu 1968
-**Écologie (Baseflor)** : végétation halonitrophile, mésohygrophile, des bordures estuariennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Elytrigietalia acutae Géhu 1968
+* **Écologie (Baseflor)** : végétation halonitrophile, mésohygrophile, des bordures estuariennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

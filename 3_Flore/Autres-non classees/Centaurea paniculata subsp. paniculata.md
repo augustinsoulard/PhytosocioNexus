@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Astragalo incani–Festucion cinereae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses calcicoles xérophiles, montagnardes, du sud-est de la France
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Astragalo incani–Festucion cinereae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses calcicoles xérophiles, montagnardes, du sud-est de la France
 
 ## Répartition
 

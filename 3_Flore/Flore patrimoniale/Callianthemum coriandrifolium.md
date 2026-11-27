@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Salicetalia herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Salicetalia herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
 
 ## Répartition
 

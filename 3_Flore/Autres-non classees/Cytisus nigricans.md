@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
+* **Famille** : Fabaceae
+* **Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
 
 ## Répartition
 

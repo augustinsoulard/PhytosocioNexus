@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cryptogrammion crispae Jenny–Lips 1930
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles grossiers, sciaphiles, montagnards à subalpins
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cryptogrammion crispae Jenny–Lips 1930
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles grossiers, sciaphiles, montagnards à subalpins
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Oryzetea sativae Miyawaki 1960
-**Écologie (Baseflor)** : commensales subtropicales des cultures de riz, holarctiques
+* **Famille** : Poaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Oryzetea sativae Miyawaki 1960
+* **Écologie (Baseflor)** : commensales subtropicales des cultures de riz, holarctiques
 
 ## Répartition
 

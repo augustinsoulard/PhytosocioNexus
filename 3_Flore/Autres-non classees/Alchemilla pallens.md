@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
+* **Famille** : Rosaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion ferrugineae Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohygrophiles
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Amaryllidaceae
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

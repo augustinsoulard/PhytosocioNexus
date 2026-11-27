@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Syntaxon (Baseflor)** : Lapsano communis–Geranion robertiani Dierschke 1974
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
+* **Famille** : Caryophyllaceae
+* **Syntaxon (Baseflor)** : Lapsano communis–Geranion robertiani Dierschke 1974
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
 
 ## Répartition
 

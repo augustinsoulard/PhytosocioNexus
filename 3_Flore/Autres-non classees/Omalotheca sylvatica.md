@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
 
 ## Répartition
 

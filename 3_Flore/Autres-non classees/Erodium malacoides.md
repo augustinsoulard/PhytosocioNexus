@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : avril-juillet
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+* **Famille** : Geraniaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
 
 ## Répartition
 

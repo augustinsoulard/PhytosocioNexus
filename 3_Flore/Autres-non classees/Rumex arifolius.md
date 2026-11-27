@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
-**Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
+* **Famille** : Polygonaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
 
 ## Répartition
 

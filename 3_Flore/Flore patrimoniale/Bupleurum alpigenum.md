@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
-**Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
+* **Famille** : Campanulaceae
+* **Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
+* **Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
+* **Famille** : Euphorbiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
 
 ## Répartition
 

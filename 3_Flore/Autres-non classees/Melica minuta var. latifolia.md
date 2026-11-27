@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
 
 ## Répartition
 

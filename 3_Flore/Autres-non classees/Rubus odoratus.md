@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Syntaxon (Baseflor)** : Lonicero periclymeni–Rubetea plicati Haveman, Schaminée & Stortelder in Stortelder, Schaminée & Hommel 1999
-**Écologie (Baseflor)** : ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Syntaxon (Baseflor)** : Lonicero periclymeni–Rubetea plicati Haveman, Schaminée & Stortelder in Stortelder, Schaminée & Hommel 1999
+* **Écologie (Baseflor)** : ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

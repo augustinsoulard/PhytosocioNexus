@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Galeopsion segetum Oberdorfer 1957
-**Écologie (Baseflor)** : annuelles pionnières des éboulis planitiaires
+* **Famille** : Boraginaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Galeopsion segetum Oberdorfer 1957
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis planitiaires
 
 ## Répartition
 

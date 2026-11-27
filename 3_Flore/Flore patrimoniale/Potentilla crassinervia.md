@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Potentillion crassinerviae Gamisans 1968
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, corso-sardes
+* **Famille** : Rosaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Potentillion crassinerviae Gamisans 1968
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, corso-sardes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

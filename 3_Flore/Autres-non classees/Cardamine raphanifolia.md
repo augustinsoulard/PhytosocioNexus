@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Cardamino amarae–Chrysosplenietalia alternifolii Hinterlang 1992 ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Cardamino amarae–Chrysosplenietalia alternifolii Hinterlang 1992 ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

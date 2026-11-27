@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Elatinaceae
-**Floraison** : juin-septembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
+* **Famille** : Elatinaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
 
 ## Répartition
 

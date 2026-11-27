@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Aizoaceae
+* **Famille** : Aizoaceae
 
 ## Répartition
 
@@ -32,4 +32,3 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

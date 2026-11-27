@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : mai
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Juniperion phoeniceae subsp. turbinatae Rivas Martínez 1975 corr. 1987
+* **Famille** : Cupressaceae
+* **Floraison** : mai
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Juniperion phoeniceae subsp. turbinatae Rivas Martínez 1975 corr. 1987
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

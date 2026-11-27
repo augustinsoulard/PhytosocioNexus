@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1984
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1984
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
 
 ## Répartition
 

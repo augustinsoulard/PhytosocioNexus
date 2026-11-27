@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
+* **Famille** : Primulaceae
+* **Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
 
 ## Répartition
 

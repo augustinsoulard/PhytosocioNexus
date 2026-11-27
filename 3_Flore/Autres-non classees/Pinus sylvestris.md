@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : mai-juin
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Pinetea sylvestris Julve 2016 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes pionnières des forêts sempervirentes, aciculifoliées, boréo-montagnardes, parfois climaciques sur sols oligotrophes
+* **Famille** : Pinaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Pinetea sylvestris Julve 2016 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes pionnières des forêts sempervirentes, aciculifoliées, boréo-montagnardes, parfois climaciques sur sols oligotrophes
 
 ## Répartition
 

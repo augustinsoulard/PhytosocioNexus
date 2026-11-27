@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
-**Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
+* **Famille** : Orobanchaceae
+* **Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
+* **Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
 
 ## Répartition
 

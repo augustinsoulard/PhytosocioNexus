@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
+* **Famille** : Orchidaceae
+* **Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
 
 ## Répartition
 

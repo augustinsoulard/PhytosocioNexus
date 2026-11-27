@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Capparaceae
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Capparidetalia spinosae Biondi, Blasi & Galdenzi in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+* **Famille** : Capparaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Capparidetalia spinosae Biondi, Blasi & Galdenzi in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
 
 ## Répartition
 

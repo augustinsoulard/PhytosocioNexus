@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

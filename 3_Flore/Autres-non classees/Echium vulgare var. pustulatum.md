@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : mai-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Smyrnion olusatri Rivas Goday 1964
-**Écologie (Baseflor)** : friches bisannuelles euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Boraginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Smyrnion olusatri Rivas Goday 1964
+* **Écologie (Baseflor)** : friches bisannuelles euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 

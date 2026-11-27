@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Linaceae
-**Floraison** : juin-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Alopecuro bulbosi–Caricion divisae Julve 2006 all. nov. hoc loco
-**Écologie (Baseflor)** : prairies hydrophiles fauchées, européennes, thermophiles
+* **Famille** : Linaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Alopecuro bulbosi–Caricion divisae Julve 2006 all. nov. hoc loco
+* **Écologie (Baseflor)** : prairies hydrophiles fauchées, européennes, thermophiles
 
 ## Répartition
 

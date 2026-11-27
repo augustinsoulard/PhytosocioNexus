@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Phrymaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
+* **Famille** : Phrymaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

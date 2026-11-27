@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
+* **Famille** : Juncaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
 
 ## Répartition
 

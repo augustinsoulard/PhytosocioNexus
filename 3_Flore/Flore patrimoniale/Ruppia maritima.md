@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ruppiaceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Ruppion maritimae Braun–Blanquet 1931 em. Den Hartog & Segal 1964
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux stagnantes peu profondes, saumâtres
+* **Famille** : Ruppiaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ruppion maritimae Braun–Blanquet 1931 em. Den Hartog & Segal 1964
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux stagnantes peu profondes, saumâtres
 
 ## Répartition
 

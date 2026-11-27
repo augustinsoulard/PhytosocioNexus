@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

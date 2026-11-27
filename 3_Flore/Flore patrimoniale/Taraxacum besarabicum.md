@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Taraxaco bessarabici–Juncion gerardii Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles à mésohygrophiles, subhalophiles, continentales à arrière-littorale
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Taraxaco bessarabici–Juncion gerardii Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles à mésohygrophiles, subhalophiles, continentales à arrière-littorale
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

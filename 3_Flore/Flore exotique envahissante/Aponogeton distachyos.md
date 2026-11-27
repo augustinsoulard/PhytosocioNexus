@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Aponogetonaceae
-**Floraison** : octobre-avril
-**Type biologique** : Gtub-aqua
-**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+* **Famille** : Aponogetonaceae
+* **Floraison** : octobre-avril
+* **Type biologique** : Géophyte à tubercule aquatique
+* **Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
 
 ## Répartition
 

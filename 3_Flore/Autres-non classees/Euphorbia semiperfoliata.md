@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

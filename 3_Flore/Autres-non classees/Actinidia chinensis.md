@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Actinidiaceae
+* **Famille** : Actinidiaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

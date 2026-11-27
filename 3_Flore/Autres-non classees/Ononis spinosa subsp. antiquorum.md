@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Helichrysetalia italici Biondi & Géhu in Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles
+* **Famille** : Fabaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Helichrysetalia italici Biondi & Géhu in Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles
 
 ## Répartition
 

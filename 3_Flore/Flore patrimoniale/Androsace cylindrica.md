@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : juin-août
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
+* **Famille** : Primulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Directive Habitats** : CDH4
 * **Liste rouge nationale** : LC, VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

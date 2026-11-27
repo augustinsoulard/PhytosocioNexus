@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : mai-juin
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Malvion subovatae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Famille** : Malvaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Malvion subovatae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
 
 ## Répartition
 

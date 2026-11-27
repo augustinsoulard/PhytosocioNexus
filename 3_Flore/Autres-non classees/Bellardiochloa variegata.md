@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
+* **Famille** : Poaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
 
 ## Répartition
 

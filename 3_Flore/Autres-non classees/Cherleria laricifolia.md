@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
 
 ## Répartition
 

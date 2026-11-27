@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1978
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1978
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
 
 ## Répartition
 

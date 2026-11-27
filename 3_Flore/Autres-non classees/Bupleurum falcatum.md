@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
+* **Famille** : Apiaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
 
 ## Répartition
 

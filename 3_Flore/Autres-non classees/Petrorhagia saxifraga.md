@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
-**Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
+* **Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

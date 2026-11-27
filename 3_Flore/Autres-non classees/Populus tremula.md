@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mars-avril
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Betulo pendulae–Populetalia tremulae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
-**Écologie (Baseflor)** : associations arborescentes de nomades à bois tendres, pionniers des climax caducifoliés et sempervirents du tempéré modal et du tempéré froid eurasiatiques, planitiaires à boréo-subalpins, sur sols oligotrophes à mésotrophes
+* **Famille** : Salicaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Betulo pendulae–Populetalia tremulae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Écologie (Baseflor)** : associations arborescentes de nomades à bois tendres, pionniers des climax caducifoliés et sempervirents du tempéré modal et du tempéré froid eurasiatiques, planitiaires à boréo-subalpins, sur sols oligotrophes à mésotrophes
 
 ## Répartition
 

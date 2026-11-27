@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
+* **Famille** : Brassicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
 
 ## Répartition
 

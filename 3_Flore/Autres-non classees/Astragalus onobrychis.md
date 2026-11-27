@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
 
 ## Répartition
 

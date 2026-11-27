@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
+* **Famille** : Gentianaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

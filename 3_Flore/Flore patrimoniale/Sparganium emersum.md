@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
-**Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
+* **Famille** : Typhaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
+* **Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-octobre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2019
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2019
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

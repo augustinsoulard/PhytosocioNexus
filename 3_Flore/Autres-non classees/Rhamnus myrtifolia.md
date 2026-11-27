@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Rhamnaceae
+* **Famille** : Rhamnaceae
 
 ## Répartition
 

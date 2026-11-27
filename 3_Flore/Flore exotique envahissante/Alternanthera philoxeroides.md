@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
-**Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
+* **Famille** : Amaranthaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
+* **Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
 
 ## Répartition
 

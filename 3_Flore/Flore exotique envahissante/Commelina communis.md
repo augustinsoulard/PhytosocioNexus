@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Commelinaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Commelinaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
 
 ## Répartition
 

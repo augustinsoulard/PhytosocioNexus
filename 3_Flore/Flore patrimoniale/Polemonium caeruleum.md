@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polemoniaceae
-**Floraison** : mai-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
-**Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
+* **Famille** : Polemoniaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
 
 ## Répartition
 

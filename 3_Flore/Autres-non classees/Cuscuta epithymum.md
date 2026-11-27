@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : juin-septembre
-**Type biologique** : test-lia-par
-**Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
+* **Famille** : Convolvulaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Zosteraceae
-**Floraison** : juin-septembre
-**Type biologique** : Grhi-aqua
-**Syntaxon (Baseflor)** : Zosteretea marinae Pignatti 1953
-**Écologie (Baseflor)** : herbiers marins phanérogamiques, holarctiques, tempérés froids à modal
+* **Famille** : Zosteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Zosteretea marinae Pignatti 1953
+* **Écologie (Baseflor)** : herbiers marins phanérogamiques, holarctiques, tempérés froids à modal
 
 ## Répartition
 

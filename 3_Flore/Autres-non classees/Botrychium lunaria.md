@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ophioglossaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
+* **Famille** : Ophioglossaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
 
 ## Répartition
 

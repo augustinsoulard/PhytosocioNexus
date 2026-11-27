@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Helichrysion stoechadis Géhu & Biondi in Géhu 1994
-**Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles, catalano-provençales à aquitaines
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Helichrysion stoechadis Géhu & Biondi in Géhu 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles, catalano-provençales à aquitaines
 
 ## Répartition
 

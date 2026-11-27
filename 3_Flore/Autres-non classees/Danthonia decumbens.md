@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
 
 ## Répartition
 

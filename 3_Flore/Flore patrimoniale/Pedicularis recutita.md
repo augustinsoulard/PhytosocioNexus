@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juillet-août
-**Type biologique** : heri-hpar
-**Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
+* **Famille** : Orobanchaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé hémiparasite
+* **Syntaxon (Baseflor)** : Seslerion caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, alpiennes, mésohydriques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

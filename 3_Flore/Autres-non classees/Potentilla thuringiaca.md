@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
-**Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
+* **Famille** : Rosaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
+* **Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
 
 ## Répartition
 

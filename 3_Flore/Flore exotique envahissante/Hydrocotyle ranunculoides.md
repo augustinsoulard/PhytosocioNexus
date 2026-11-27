@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Araliaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+* **Famille** : Araliaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
 
 ## Répartition
 
@@ -121,7 +121,6 @@ En 2007 aux Pays-Bas, la gestion de l'hydrocotyle fausse-renoncule a coûté plu
 * **Indigénat (TAXREF v18)** : J
 * **Liste rouge nationale** : NA
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

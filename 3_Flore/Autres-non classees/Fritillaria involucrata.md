@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : avril-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
+* **Famille** : Liliaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
 
 ## Répartition
 

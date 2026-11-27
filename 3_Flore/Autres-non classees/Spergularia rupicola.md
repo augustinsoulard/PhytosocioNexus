@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
-**Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
+* **Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
 
 ## Répartition
 
@@ -20,7 +20,6 @@ date_maj: "2026-11-26"
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

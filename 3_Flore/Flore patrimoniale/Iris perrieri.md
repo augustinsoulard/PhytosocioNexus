@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
+* **Famille** : Iridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

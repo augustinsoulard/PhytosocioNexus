@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : mars-juin
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+* **Famille** : Papaveraceae
+* **Floraison** : mars-juin
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures basophiles
 
 ## Répartition
 

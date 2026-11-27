@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Dorycnio recti–Rumicion conglomerati Gradstein & Smittenberg 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, méditerranéennes
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Dorycnio recti–Rumicion conglomerati Gradstein & Smittenberg 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, méditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : août-octobre
-**Type biologique** : hbis(test)
-**Syntaxon (Baseflor)** : Mesobromopsion erectae Braun–Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales (subatlantiques), mésohydriques à mésohygroclines, mésothermes
+* **Famille** : Gentianaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Hémicryptophyte bisannuel (estival)
+* **Syntaxon (Baseflor)** : Mesobromopsion erectae Braun–Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales (subatlantiques), mésohydriques à mésohygroclines, mésothermes
 
 ## Répartition
 

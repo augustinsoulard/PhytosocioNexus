@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
 
 ## Répartition
 

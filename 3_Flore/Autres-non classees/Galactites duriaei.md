@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Onopordion castellani Braun-Blanquet & O. de Bolòs 1958 corr. Rivas Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : friches méditerranéennes occidentales
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Onopordion castellani Braun-Blanquet & O. de Bolòs 1958 corr. Rivas Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : friches méditerranéennes occidentales
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

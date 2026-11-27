@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asaraceae
-**Floraison** : mars-mai
-**Type biologique** : grhi-semp
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Asaraceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à rhizome sempervirent
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 

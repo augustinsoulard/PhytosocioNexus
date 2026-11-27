@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
 
 ## Répartition
 

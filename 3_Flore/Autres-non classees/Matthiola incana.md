@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
-**Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
+* **Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
 
 ## Répartition
 

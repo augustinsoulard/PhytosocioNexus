@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : Test-lia
-**Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
+* **Famille** : Polygonaceae
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

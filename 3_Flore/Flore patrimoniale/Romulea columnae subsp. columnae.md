@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : février-avril
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
+* **Famille** : Iridaceae
+* **Floraison** : février-avril
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
 
 ## Répartition
 

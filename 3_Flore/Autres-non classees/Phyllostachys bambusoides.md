@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
-**Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
+* **Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
 
 ## Répartition
 

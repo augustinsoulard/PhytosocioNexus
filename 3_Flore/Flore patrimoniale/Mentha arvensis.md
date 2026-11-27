@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-octobre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
-**Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
+* **Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
 
 ## Répartition
 

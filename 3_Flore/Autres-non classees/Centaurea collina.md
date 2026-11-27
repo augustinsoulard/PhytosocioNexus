@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
+* **Famille** : Asteraceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Brachypodion phoenicoidis Braun–Blanquet 1931
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésohydriques, sur sol relativement profond
 
 ## Répartition
 

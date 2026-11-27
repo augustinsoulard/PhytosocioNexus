@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Aristolochiaceae
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Aristolochiaceae
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Répartition
 

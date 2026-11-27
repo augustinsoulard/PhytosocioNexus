@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Floraison** : février-mai
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
+* **Famille** : Aspleniaceae
+* **Floraison** : février-mai
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
 
 ## Répartition
 

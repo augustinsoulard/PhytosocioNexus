@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-août
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
+* **Famille** : Apiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

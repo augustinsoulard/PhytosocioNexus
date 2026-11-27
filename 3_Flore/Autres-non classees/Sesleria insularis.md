@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Seslerietalia juncifoliae Horvat (1930) 1956
-**Écologie (Baseflor)** : pelouses basophiles subalpines, chionophiles, des Balkans NW et Apennins
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Seslerietalia juncifoliae Horvat (1930) 1956
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, chionophiles, des Balkans NW et Apennins
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

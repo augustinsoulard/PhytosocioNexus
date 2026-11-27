@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

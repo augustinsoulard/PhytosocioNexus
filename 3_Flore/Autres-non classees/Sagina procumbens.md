@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
-**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
+* **Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
 
 ## Répartition
 

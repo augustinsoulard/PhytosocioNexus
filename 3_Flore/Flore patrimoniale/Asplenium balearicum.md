@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
-**Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
+* **Famille** : Cyperaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
+* **Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

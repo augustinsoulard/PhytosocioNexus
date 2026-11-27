@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Floraison** : mai-juin
-**Type biologique** : Gtub(Grhi)
-**Syntaxon (Baseflor)** : Charybdido pancratii–Asphodeletea ramosi Biondi in Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
-**Écologie (Baseflor)** : friches herbacées vivaces, méso-eutrophiles, thermo- à mésoméditerranéennes, de méditerranée centrale et orientale
+* **Famille** : Asphodelaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à tubercule (à rhizome)
+* **Syntaxon (Baseflor)** : Charybdido pancratii–Asphodeletea ramosi Biondi in Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
+* **Écologie (Baseflor)** : friches herbacées vivaces, méso-eutrophiles, thermo- à mésoméditerranéennes, de méditerranée centrale et orientale
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
+* **Famille** : Orchidaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
 
 ## Répartition
 

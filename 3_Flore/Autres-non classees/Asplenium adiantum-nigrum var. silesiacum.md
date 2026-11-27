@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenion cuneifolii Braun–Blanquet & Tüxen 1943 nn
-**Écologie (Baseflor)** : chasmophytes de parois européennes, serpentinicoles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenion cuneifolii Braun–Blanquet & Tüxen 1943 nn
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, serpentinicoles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

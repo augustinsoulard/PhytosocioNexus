@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Santalaceae
-**Floraison** : mars-mai
-**Type biologique** : csuf-hpar-semp-épi
-**Syntaxon (Baseflor)** : Viscetea albi Julve 2005 cla. nov. hoc loco
-**Écologie (Baseflor)** : épiphytes de houppiers d'arbres ou d'arbustes, sur branches
+* **Famille** : Santalaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Chaméphyte suffrutescent hémiparasite sempervirent épiphyte
+* **Syntaxon (Baseflor)** : Viscetea albi Julve 2005 cla. nov. hoc loco
+* **Écologie (Baseflor)** : épiphytes de houppiers d'arbres ou d'arbustes, sur branches
 
 ## Répartition
 

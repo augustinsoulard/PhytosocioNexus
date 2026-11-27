@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Type biologique** : b-lia
-**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2036
-**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+* **Famille** : Asparagaceae
+* **Type biologique** : Nanophanérophyte lianescent
+* **Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2036
+* **Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
 
 ## Répartition
 

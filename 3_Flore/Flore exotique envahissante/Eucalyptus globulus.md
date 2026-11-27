@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Myrtaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
-**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+* **Famille** : Myrtaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+* **Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
 
 ## Répartition
 

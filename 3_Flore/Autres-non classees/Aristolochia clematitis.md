@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aristolochiaceae
-**Floraison** : mai-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Galio veri–Aristolochion clematitidis Shevchyk & V. Solomakha in Shevchyk, Bakanina & Solomakha 1996
+* **Famille** : Aristolochiaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Galio veri–Aristolochion clematitidis Shevchyk & V. Solomakha in Shevchyk, Bakanina & Solomakha 1996
 
 ## Répartition
 

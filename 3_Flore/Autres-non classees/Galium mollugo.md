@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Arrhenatheretalia elatioris subsp. elatioris Tüxen 1931
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, planitiaires à montagnardes
+* **Famille** : Rubiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Arrhenatheretalia elatioris subsp. elatioris Tüxen 1931
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, planitiaires à montagnardes
 
 ## Répartition
 

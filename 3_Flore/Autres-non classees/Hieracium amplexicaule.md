@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
 
 ## Répartition
 

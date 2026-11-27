@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juillet-octobre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
+* **Famille** : Plumbaginaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

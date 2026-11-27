@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : avril-novembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Paragymnopterido marantae–Allosorietalia pteridioidis Sáenz & Rivas–Martínez 1979
-**Écologie (Baseflor)** : dalles méditerranéennes, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Pteridaceae
+* **Floraison** : avril-novembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Paragymnopterido marantae–Allosorietalia pteridioidis Sáenz & Rivas–Martínez 1979
+* **Écologie (Baseflor)** : dalles méditerranéennes, acidophiles, héliophiles, thermoxérophiles
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Fabaceae
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

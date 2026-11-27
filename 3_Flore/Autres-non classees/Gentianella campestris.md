@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-septembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
+* **Famille** : Gentianaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Nardetalia strictae Oberdorfer 1949 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes, planitiaires-collinéennes
 
 ## Répartition
 

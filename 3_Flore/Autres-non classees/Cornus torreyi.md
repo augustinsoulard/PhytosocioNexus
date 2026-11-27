@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Cornaceae
+* **Famille** : Cornaceae
 
 ## Répartition
 

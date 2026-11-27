@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
+* **Famille** : Geraniaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

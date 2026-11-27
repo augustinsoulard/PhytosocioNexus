@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Rumicenea acetosellae de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, médio-européennes à méditerranéennes
+* **Famille** : Polygonaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Rumicenea acetosellae de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, médio-européennes à méditerranéennes
 
 ## Répartition
 

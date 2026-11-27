@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
+* **Famille** : Plantaginaceae
+* **Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE

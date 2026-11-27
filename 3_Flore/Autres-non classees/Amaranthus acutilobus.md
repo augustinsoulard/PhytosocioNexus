@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
+* **Famille** : Amaranthaceae
 
 ## Répartition
 

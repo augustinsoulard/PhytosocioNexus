@@ -6,18 +6,18 @@ cd_nomv18: 762157
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

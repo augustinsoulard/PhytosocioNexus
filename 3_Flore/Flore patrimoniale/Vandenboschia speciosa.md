@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Hymenophyllaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Hymenophyllion tunbrigensis Tüxen in Tüxen & Oberdorfer 1958
-**Écologie (Baseflor)** : chasmophytes de parois acidophiles hyperocéaniques
+* **Famille** : Hymenophyllaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Hymenophyllion tunbrigensis Tüxen in Tüxen & Oberdorfer 1958
+* **Écologie (Baseflor)** : chasmophytes de parois acidophiles hyperocéaniques
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

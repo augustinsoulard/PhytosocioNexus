@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Arabidion alpinae Béguin 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis grossiers de calcaires compacts, montagnards-subalpins, sciaphiles
+* **Famille** : Violaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Arabidion alpinae Béguin 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis grossiers de calcaires compacts, montagnards-subalpins, sciaphiles
 
 ## Répartition
 

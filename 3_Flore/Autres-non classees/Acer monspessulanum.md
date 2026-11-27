@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Sapindaceae
-**Floraison** : avril
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σA Quercetea fagineo–pubescentis Julve 2017 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, sub/supraméditerranéen
+* **Famille** : Sapindaceae
+* **Floraison** : avril
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercetea fagineo–pubescentis Julve 2017 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, sub/supraméditerranéen
 
 ## Répartition
 

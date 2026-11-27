@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
+* **Famille** : Asteraceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -114,4 +114,3 @@ Des campagnes de prévention sont réalisées dans certains pays, notamment en A
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : A
-* **Intérêt patrimonial PACA** : NUL

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
+* **Famille** : Campanulaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

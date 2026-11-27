@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

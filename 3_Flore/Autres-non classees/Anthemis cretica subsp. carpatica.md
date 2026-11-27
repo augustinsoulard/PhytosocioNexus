@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

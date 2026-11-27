@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

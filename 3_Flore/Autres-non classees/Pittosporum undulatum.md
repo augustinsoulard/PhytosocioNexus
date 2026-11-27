@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Pittosporaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Cytiso proliferi–Pinetea canariensis Rivas Goday & Esteve ex Esteve 1969
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts canariennes montagnardes
+* **Famille** : Pittosporaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Cytiso proliferi–Pinetea canariensis Rivas Goday & Esteve ex Esteve 1969
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts canariennes montagnardes
 
 ## Répartition
 

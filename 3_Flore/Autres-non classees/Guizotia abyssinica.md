@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

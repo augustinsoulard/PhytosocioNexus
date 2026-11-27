@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
+* **Famille** : Caprifoliaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Festuco valesiacae–Bromopsietea erectae Braun–Blanquet & Tüxen 1943 em. Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes et nevado-illyriennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
+* **Famille** : Juncaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion eskiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, chionophiles, mésohydriques, des ubacs pyrénéens
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables basophiles, européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables basophiles, européennes
 
 ## Répartition
 

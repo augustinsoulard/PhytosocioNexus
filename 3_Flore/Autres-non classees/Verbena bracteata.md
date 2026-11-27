@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Verbenaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Verbenaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

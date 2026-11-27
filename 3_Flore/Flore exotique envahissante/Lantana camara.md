@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Verbenaceae
+* **Famille** : Verbenaceae
 
 ## Répartition
 
@@ -32,4 +32,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

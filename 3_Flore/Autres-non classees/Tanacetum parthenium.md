@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
+* **Famille** : Asteraceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
 
 ## Répartition
 

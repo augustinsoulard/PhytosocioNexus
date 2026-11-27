@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Paeoniaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
+* **Famille** : Paeoniaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

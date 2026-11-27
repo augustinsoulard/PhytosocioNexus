@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
+* **Famille** : Polygonaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : D
-* **Intérêt patrimonial PACA** : TRES FAIBLE

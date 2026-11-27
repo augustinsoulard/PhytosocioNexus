@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub-par
-**Syntaxon (Baseflor)** : Euphorbion pithyusae Biondi & Géhu in Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses basophiles thermoméditerranéennes, maritimes, corso-sardes
+* **Famille** : Orobanchaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule parasite
+* **Syntaxon (Baseflor)** : Euphorbion pithyusae Biondi & Géhu in Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermoméditerranéennes, maritimes, corso-sardes
 
 ## Répartition
 

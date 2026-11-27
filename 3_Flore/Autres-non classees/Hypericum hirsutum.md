@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hypericaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Fragarion vescae Tüxen 1950
-**Écologie (Baseflor)** : ourlets internes des clairières basophiles médio-européennes, mésohydriques
+* **Famille** : Hypericaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Fragarion vescae Tüxen 1950
+* **Écologie (Baseflor)** : ourlets internes des clairières basophiles médio-européennes, mésohydriques
 
 ## Répartition
 

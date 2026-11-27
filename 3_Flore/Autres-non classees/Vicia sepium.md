@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-septembre
-**Type biologique** : heri-lia
-**Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
+* **Famille** : Fabaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé lianescent
+* **Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
 
 ## Répartition
 

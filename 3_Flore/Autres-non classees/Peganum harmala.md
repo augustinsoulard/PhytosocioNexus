@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Nitrariaceae
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
+* **Famille** : Nitrariaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
 
 ## Répartition
 

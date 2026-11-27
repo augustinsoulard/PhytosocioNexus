@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : avril-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Famille** : Asparagaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
 
 ## Répartition
 

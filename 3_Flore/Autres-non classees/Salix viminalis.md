@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mars-avril
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Salicion triandrae subsp. triandrae Müller & Görs 1958
-**Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, planitiaires
+* **Famille** : Salicaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salicion triandrae subsp. triandrae Müller & Görs 1958
+* **Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, planitiaires
 
 ## Répartition
 

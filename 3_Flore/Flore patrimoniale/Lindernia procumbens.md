@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Linderniaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Elatino macropodae–Lindernenion palustris Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles méridionales
+* **Famille** : Linderniaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Elatino macropodae–Lindernenion palustris Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles méridionales
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

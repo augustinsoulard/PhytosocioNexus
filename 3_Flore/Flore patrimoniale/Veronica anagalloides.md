@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-août
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Trifolion squamosi Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : annuelles hygrophiles des trouées des prairies (mosaïques contigües)
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Trifolion squamosi Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : annuelles hygrophiles des trouées des prairies (mosaïques contigües)
 
 Ecologie : Fossés, mares, prairies inondables ([[Isoetetalia velatae]]), à l'étage mésoméditerranéen.
 

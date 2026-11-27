@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
-**Écologie (Baseflor)** : ourlets basophiles médio-européens
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens
 
 ## Répartition
 

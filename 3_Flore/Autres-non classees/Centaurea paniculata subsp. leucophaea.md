@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
 
 ## Répartition
 

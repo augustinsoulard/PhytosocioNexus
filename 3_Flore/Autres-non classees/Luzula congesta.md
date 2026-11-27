@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mai-juin
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
+* **Famille** : Juncaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto(test)
-**Syntaxon (Baseflor)** : Taraxaco bessarabici–Juncion gerardii Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles à mésohygrophiles, subhalophiles, continentales à arrière-littorale
+* **Famille** : Poaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère (estival)
+* **Syntaxon (Baseflor)** : Taraxaco bessarabici–Juncion gerardii Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles à mésohygrophiles, subhalophiles, continentales à arrière-littorale
 
 ## Répartition
 

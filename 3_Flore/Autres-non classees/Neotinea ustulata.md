@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
+* **Famille** : Orchidaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Brizo mediae–Plantaginenea mediae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques à mésohygroclines
 
 ## Répartition
 

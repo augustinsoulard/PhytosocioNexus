@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Araliaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
+* **Famille** : Araliaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
 
 ## Répartition
 

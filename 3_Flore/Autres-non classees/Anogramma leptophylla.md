@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Selaginello denticulatae–Anogrammion leptophyllae Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : microfougeraies acidophiles thermophiles
+* **Famille** : Pteridaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Selaginello denticulatae–Anogrammion leptophyllae Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : microfougeraies acidophiles thermophiles
 
 ## Répartition
 

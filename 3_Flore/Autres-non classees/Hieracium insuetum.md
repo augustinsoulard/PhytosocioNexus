@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
-**Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
+* **Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

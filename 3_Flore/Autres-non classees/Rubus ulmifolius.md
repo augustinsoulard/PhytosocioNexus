@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-août
-**Type biologique** : b-cad(Hrub)
-**Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
+* **Famille** : Rosaceae
+* **Floraison** : juin-août
+* **Type biologique** : Nanophanérophyte caducifolié (ruboïde)
+* **Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
 
 ## Répartition
 

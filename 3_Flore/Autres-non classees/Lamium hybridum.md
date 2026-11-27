@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mars-octobre
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
+* **Famille** : Lamiaceae
+* **Floraison** : mars-octobre
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
 
 ## Répartition
 

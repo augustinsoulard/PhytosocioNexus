@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : avril-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
-**Écologie (Baseflor)** : friches vivaces mésohydriques, thermophiles, euryméditerranéennes, héliophiles
+* **Famille** : Amaryllidaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Écologie (Baseflor)** : friches vivaces mésohydriques, thermophiles, euryméditerranéennes, héliophiles
 
 ## Répartition
 

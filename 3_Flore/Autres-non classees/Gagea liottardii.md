@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : mai-juillet
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
-**Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
+* **Famille** : Liliaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
+* **Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
 
 ## Répartition
 

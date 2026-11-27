@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
+* **Famille** : Apiaceae
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE

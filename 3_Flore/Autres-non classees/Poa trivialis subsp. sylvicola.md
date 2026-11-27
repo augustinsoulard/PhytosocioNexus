@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
-**Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
 
 ## Répartition
 

@@ -6,18 +6,18 @@ cd_nomv18: 125261
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Suaedion splendentis (Braun–Blanquet 1931) Julve 1992 ex 1993
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer vasicoles, méditerranéennes
+* **Famille** : Amaranthaceae
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Suaedion splendentis (Braun–Blanquet 1931) Julve 1992 ex 1993
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer vasicoles, méditerranéennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

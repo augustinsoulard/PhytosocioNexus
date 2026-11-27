@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
+* **Famille** : Juncaceae
+* **Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : juillet-août
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Androsacion argenteae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, alpiennes
+* **Famille** : Boraginaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Androsacion argenteae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, alpiennes
 
 ## Répartition
 

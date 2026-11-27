@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

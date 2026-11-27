@@ -6,19 +6,19 @@ cd_nomv18: 133773
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-août
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale ; réglementation 04 ; réglementation 06
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

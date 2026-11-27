@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+* **Famille** : Liliaceae
+* **Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Z
-* **Intérêt patrimonial PACA** : FAIBLE

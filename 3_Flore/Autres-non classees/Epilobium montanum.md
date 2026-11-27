@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
+* **Famille** : Onagraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
 
 ## Répartition
 

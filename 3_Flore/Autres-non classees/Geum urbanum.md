@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
+* **Famille** : Rosaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
 
 ## Répartition
 

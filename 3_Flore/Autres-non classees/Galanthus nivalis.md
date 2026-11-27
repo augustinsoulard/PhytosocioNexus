@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : février-mars
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
+* **Famille** : Amaryllidaceae
+* **Floraison** : février-mars
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
 
 ## Répartition
 

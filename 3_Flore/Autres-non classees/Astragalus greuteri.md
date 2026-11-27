@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Anthyllidion hermanniae Klein 1972
-**Écologie (Baseflor)** : landes oroméditerranéennes, corses
+* **Famille** : Fabaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Anthyllidion hermanniae Klein 1972
+* **Écologie (Baseflor)** : landes oroméditerranéennes, corses
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

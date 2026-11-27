@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Malvion parviflorae (Rivas–Martínez 1978) Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, vernales
+* **Famille** : Polygonaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Malvion parviflorae (Rivas–Martínez 1978) Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, vernales
 
 ## Répartition
 

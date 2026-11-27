@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : mai-novembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
+* **Famille** : Primulaceae
+* **Floraison** : mai-novembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
 
 ## Répartition
 

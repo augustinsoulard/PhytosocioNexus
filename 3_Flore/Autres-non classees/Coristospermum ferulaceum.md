@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
+* **Famille** : Apiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
 
 ## Répartition
 

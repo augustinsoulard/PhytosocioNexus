@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
+* **Famille** : Fabaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -89,4 +89,3 @@ Le kudzu est réglementé en Australie, aux États-Unis et en Europe. Les coûts
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

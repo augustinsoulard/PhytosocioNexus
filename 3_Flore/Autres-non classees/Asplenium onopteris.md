@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
+* **Famille** : Aspleniaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
 
 ## Répartition
 

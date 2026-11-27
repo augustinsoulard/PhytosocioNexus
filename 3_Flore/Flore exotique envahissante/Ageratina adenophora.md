@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
 
 ## Répartition
 

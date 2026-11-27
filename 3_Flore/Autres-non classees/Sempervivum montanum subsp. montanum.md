@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-août
-**Type biologique** : ccou-suc
-**Syntaxon (Baseflor)** : Atociono rupestris–Sempervivetalia montani de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes
+* **Famille** : Crassulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte en coussinets succulent
+* **Syntaxon (Baseflor)** : Atociono rupestris–Sempervivetalia montani de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes
 
 ## Répartition
 

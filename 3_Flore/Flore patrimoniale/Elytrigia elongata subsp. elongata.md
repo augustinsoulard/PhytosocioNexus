@@ -6,20 +6,20 @@ cd_nomv18: 134076
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Statut ZNIEFF PACA** : D
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

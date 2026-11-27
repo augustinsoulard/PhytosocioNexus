@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
+* **Famille** : Polygonaceae
+* **Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

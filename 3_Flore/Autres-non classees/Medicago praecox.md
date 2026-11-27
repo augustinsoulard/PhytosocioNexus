@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 

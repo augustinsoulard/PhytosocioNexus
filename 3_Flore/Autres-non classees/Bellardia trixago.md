@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-juillet
-**Type biologique** : tver-hpar
-**Syntaxon (Baseflor)** : Artemisio campestris subsp. maritimae–Koelerietalia arenariae Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, atlantiques
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte vernal hémiparasite
+* **Syntaxon (Baseflor)** : Artemisio campestris subsp. maritimae–Koelerietalia arenariae Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, atlantiques
 
 ## Répartition
 

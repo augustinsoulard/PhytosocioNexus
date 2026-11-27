@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cynomoriaceae
-**Type biologique** : g-par
-**Syntaxon (Baseflor)** : Sarcocornion fruticosae Braun–Blanquet 1933
-**Écologie (Baseflor)** : micromangroves de bas-niveau topographique (bas-schorre)
+* **Famille** : Cynomoriaceae
+* **Type biologique** : Géophyte parasite
+* **Syntaxon (Baseflor)** : Sarcocornion fruticosae Braun–Blanquet 1933
+* **Écologie (Baseflor)** : micromangroves de bas-niveau topographique (bas-schorre)
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

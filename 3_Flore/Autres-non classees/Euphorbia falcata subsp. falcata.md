@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+* **Famille** : Euphorbiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Floraison** : mai-juillet
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Rhamno alpinae–Berberidion vulgaris Braun-Blanquet ex Rivas Martínez 2011
-**Écologie (Baseflor)** : buissons arbustifs basophiles, montagnards
+* **Famille** : Rhamnaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rhamno alpinae–Berberidion vulgaris Braun-Blanquet ex Rivas Martínez 2011
+* **Écologie (Baseflor)** : buissons arbustifs basophiles, montagnards
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-août
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Salicetalia herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
+* **Famille** : Crassulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Salicetalia herbaceae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, acidophiles
 
 ## Répartition
 

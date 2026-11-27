@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
 
 ## Répartition
 

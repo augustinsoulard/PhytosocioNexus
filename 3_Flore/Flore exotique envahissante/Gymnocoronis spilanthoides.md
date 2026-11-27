@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
+* **Famille** : Asteraceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -83,4 +83,3 @@ Les engins et outils doivent faire l'objet d'un nettoyage, avant de traiter la z
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : J
-* **Intérêt patrimonial PACA** : NUL

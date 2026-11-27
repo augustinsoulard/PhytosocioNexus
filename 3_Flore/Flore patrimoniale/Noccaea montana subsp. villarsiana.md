@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

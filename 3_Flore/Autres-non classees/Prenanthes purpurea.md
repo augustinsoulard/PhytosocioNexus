@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Hsto(Grhi)
-**Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère (à rhizome)
+* **Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
 
 ## Répartition
 

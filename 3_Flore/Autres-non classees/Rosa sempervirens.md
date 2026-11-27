@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Phillyreo angustifoliae–Pistacietalia lentisci Julve 2025 prov.
+* **Famille** : Rosaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Phillyreo angustifoliae–Pistacietalia lentisci Julve 2025 prov.
 
 ## Répartition
 

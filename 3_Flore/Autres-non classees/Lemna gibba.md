@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Araceae
-**Floraison** : avril-juin
-**Type biologique** : gbul-aqua
-**Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
-**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
+* **Famille** : Araceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à bulbe aquatique
+* **Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
 
 ## Répartition
 

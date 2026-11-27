@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
+* **Famille** : Fabaceae
+* **Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
+* **Famille** : Brassicaceae
+* **Floraison** : avril-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
 
 ## Répartition
 

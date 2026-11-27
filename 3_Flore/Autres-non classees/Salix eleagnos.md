@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Salicion eleagni subsp. eleagni Aichinger 1933
-**Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, montagnards
+* **Famille** : Salicaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salicion eleagni subsp. eleagni Aichinger 1933
+* **Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, montagnards
 
 ## Répartition
 

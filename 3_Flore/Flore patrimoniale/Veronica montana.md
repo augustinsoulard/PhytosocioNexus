@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion remotae Kästner 1942
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
+* **Famille** : Plantaginaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion remotae Kästner 1942
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
 
 ## Répartition
 

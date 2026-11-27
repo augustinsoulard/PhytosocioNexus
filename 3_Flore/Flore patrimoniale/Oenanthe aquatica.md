@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
-**Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
+* **Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
 
 ## Répartition
 

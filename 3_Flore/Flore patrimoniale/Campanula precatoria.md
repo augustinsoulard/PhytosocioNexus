@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
+* **Famille** : Campanulaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

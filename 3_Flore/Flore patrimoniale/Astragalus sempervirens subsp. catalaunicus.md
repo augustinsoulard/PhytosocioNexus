@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1950
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Fabaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1950
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

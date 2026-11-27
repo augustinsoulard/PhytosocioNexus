@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Convolvulo arvensis–Elytrigion repentis Görs 1966
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques à mésohygrohiles, médio-européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Convolvulo arvensis–Elytrigion repentis Görs 1966
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques à mésohygrohiles, médio-européennes
 
 ## Répartition
 

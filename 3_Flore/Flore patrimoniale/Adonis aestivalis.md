@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
 
 ## Répartition
 

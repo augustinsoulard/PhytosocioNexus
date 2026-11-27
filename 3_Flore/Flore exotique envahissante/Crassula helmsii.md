@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : hsto-suc
-**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+* **Famille** : Crassulaceae
+* **Type biologique** : Hémicryptophyte stolonifère succulent
+* **Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
 
 ## Répartition
 
@@ -140,7 +140,6 @@ La plupart des gestionnaires ayant travaillé sur la gestion de cette espèce in
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

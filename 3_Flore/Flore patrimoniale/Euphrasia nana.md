@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juillet-octobre
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
+* **Famille** : Orobanchaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Directive Habitats** : CDH2, CDH4
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

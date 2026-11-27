@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : avril-août
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
-**Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
+* **Famille** : Thymelaeaceae
+* **Floraison** : avril-août
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
+* **Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
 
 ## Répartition
 

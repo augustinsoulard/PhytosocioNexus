@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
 
 ## Répartition
 

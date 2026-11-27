@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

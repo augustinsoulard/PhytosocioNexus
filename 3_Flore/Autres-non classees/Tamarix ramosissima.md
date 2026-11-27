@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Tamaricaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Nerio oleandri–Tamaricetea africanae (O. de Bolòs 1956) Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, méditerranéo-atlantiques, des sols minéraux
+* **Famille** : Tamaricaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Nerio oleandri–Tamaricetea africanae (O. de Bolòs 1956) Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, méditerranéo-atlantiques, des sols minéraux
 
 ## Répartition
 

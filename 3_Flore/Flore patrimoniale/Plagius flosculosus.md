@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Artemision arborescentis (Géhu & Biondi in Géhu, Biondi & Géhu–Franck 1986) Géhu & Biondi 1994
-**Écologie (Baseflor)** : friches halophiles littorales, corses
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Artemision arborescentis (Géhu & Biondi in Géhu, Biondi & Géhu–Franck 1986) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : friches halophiles littorales, corses
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

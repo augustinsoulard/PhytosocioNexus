@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
+* **Famille** : Poaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

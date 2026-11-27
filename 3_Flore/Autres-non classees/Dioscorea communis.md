@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Dioscoreaceae
-**Floraison** : mars-juillet
-**Type biologique** : Gtub-lia
-**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+* **Famille** : Dioscoreaceae
+* **Floraison** : mars-juillet
+* **Type biologique** : Géophyte à tubercule lianescent
+* **Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
 
 ## Répartition
 

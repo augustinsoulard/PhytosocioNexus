@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : mars-septembre
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
-**Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
+* **Famille** : Thymelaeaceae
+* **Floraison** : mars-septembre
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
+* **Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

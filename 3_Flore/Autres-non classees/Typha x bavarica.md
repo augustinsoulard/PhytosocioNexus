@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
+* **Famille** : Typhaceae
 
 ## Répartition
 

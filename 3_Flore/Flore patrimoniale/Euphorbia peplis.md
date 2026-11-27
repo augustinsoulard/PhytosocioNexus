@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Euphorbion peplidis Tüxen 1950
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, méditerranéennes
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Euphorbion peplidis Tüxen 1950
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, méditerranéennes
 
 ## Répartition
 

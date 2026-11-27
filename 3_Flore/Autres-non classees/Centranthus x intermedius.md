@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mai-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

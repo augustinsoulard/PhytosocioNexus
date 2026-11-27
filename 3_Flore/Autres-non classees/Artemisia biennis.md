@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Test(hbis)
-**Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

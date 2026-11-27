@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
+* **Famille** : Brassicaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
 
 ## Répartition
 

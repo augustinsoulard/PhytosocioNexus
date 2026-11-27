@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

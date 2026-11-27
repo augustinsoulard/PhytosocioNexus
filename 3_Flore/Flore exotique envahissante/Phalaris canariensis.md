@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Persicario maculosae–Lipandrion polyspermae Koch 1926 em. Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohygrophiles, des sols limoneux
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Persicario maculosae–Lipandrion polyspermae Koch 1926 em. Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohygrophiles, des sols limoneux
 
 ## Répartition
 

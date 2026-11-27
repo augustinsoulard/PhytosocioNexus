@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables basophiles, européennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables basophiles, européennes
 
 ## Répartition
 

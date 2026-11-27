@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-juin
-**Type biologique** : Tver
-**Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
+* **Famille** : Apiaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
 
 ## Répartition
 

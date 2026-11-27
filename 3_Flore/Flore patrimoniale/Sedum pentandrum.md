@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
+* **Famille** : Crassulaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
-* **Intérêt patrimonial PACA** : FORT

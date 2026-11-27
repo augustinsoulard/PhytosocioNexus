@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
+* **Famille** : Iridaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

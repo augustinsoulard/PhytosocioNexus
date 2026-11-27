@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-octobre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
+* **Famille** : Brassicaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
 
 ## Répartition
 

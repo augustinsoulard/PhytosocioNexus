@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion chordorrhizo–lasiocarpae (Vanden Berghen in Lebrun, Noirfalise, Heinemann & Vanden Berghen 1949) Julve 1993
-**Écologie (Baseflor)** : cariçaies des tremblants tourbeux primaires, boréo-montagnards, acidophiles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion chordorrhizo–lasiocarpae (Vanden Berghen in Lebrun, Noirfalise, Heinemann & Vanden Berghen 1949) Julve 1993
+* **Écologie (Baseflor)** : cariçaies des tremblants tourbeux primaires, boréo-montagnards, acidophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mars-mai
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
+* **Famille** : Ranunculaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
 
 ## Répartition
 

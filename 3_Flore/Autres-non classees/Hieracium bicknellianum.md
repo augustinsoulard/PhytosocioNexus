@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
 
 ## Répartition
 

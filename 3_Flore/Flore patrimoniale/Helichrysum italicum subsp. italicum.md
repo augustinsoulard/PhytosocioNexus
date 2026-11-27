@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
 
 ## Répartition
 

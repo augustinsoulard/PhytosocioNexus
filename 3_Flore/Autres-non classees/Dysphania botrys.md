@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Dysphanion botryos Brullo & Marcenò 1980
-**Écologie (Baseflor)** : annuelles des friches eutrophiles thermophiles
+* **Famille** : Amaranthaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Dysphanion botryos Brullo & Marcenò 1980
+* **Écologie (Baseflor)** : annuelles des friches eutrophiles thermophiles
 
 ## Répartition
 

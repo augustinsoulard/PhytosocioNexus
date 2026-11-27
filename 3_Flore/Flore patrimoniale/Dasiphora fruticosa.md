@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juillet-août
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Ledetalia palustris Nordhagen 1936
-**Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
+* **Famille** : Rosaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Ledetalia palustris Nordhagen 1936
+* **Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
 
 ## Répartition
 

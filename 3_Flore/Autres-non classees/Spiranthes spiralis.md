@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : août-octobre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
+* **Famille** : Orchidaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Mesobromopsenion erectae Braun–Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, mésothermes, sur sol moyennement profond
 
 ## Répartition
 

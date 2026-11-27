@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Betulaceae
-**Floraison** : février-mars
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Fraxino excelsioris–Alnetalia glutinosae Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés hygrophiles à amphibies
+* **Famille** : Betulaceae
+* **Floraison** : février-mars
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Fraxino excelsioris–Alnetalia glutinosae Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés hygrophiles à amphibies
 
 ## Répartition
 

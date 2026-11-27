@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
+* **Famille** : Plumbaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

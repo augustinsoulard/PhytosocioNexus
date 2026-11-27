@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Sedetalia forsteriani Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles planitiaires-collinéennes à méditerranéennes
 
 ## Répartition
 

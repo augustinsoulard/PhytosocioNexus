@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Syntaxon (Baseflor)** : Potamogetonion pusilli Wiegleb ex Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
-**Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux peu profondes
+* **Famille** : Potamogetonaceae
+* **Syntaxon (Baseflor)** : Potamogetonion pusilli Wiegleb ex Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
+* **Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux peu profondes
 
 ## Répartition
 
@@ -22,4 +22,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MAJEUR

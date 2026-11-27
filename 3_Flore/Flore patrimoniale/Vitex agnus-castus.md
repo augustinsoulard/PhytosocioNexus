@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-août
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Nerio oleandri–Viticetalia agni–casti de Foucault, Bensettiti, Noble & Paradis 2012
-**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, dulçaquicoles, méditerranéo-atlantiques, des sols minéraux
+* **Famille** : Lamiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Nerio oleandri–Viticetalia agni–casti de Foucault, Bensettiti, Noble & Paradis 2012
+* **Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, dulçaquicoles, méditerranéo-atlantiques, des sols minéraux
 
 ## Répartition
 

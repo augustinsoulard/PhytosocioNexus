@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

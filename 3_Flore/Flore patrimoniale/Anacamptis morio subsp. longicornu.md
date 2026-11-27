@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mars-mai
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Leontodonto tuberosi–Bellidion sylvestris Biondi, Filigheddu & Farris 2001
-**Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
+* **Famille** : Orchidaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Leontodonto tuberosi–Bellidion sylvestris Biondi, Filigheddu & Farris 2001
+* **Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
 
 ## Répartition
 

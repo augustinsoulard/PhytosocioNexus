@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Balsaminaceae
+* **Famille** : Balsaminaceae
 
 ## Répartition
 

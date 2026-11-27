@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : février-juin
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Cicendion filiformis (Rivas Goday in Rivas Goday & Borja 1961) Rivas Goday 1964 em. Braun–Blanquet 1967
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, thermo-atlantiques à méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : février-juin
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cicendion filiformis (Rivas Goday in Rivas Goday & Borja 1961) Rivas Goday 1964 em. Braun–Blanquet 1967
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, thermo-atlantiques à méditerranéennes
 
 ## Répartition
 

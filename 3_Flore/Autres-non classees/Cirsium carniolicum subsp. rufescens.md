@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

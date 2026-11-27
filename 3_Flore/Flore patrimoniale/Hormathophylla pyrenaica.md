@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
+* **Famille** : Brassicaceae
+* **Floraison** : juin
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Saxifragion mediae Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, pyrénéennes
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,15 +7,15 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : janvier-avril
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gageo bohemicae–Sedion albi (Oberdorfer 1957) de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles granitiques basoclines à acidoclines en systèmes intermédiaires centro-européens
+* **Famille** : Liliaceae
+* **Floraison** : janvier-avril
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gageo bohemicae–Sedion albi (Oberdorfer 1957) de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles granitiques basoclines à acidoclines en systèmes intermédiaires centro-européens
 
 La **Gagée de Bohème** (_Gagea bohemica_) est une petite géophyte de la famille des Liliacées.
 
-**Habitats :** On la retrouve dans les pelouses pionnières et tonsures à thérophytes sur des roches mères siliceuses ([[Sedo albi-Veronicion dillenii]]). 
+* **Habitats :** On la retrouve dans les pelouses pionnières et tonsures à thérophytes sur des roches mères siliceuses ([[Sedo albi-Veronicion dillenii]]). 
 
 C’est une espèce très précoce pouvant apparaître dès janvier. 
 

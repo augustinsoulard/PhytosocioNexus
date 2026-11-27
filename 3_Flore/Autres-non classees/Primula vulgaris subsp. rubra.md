@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Primulaceae
+* **Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : D
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE

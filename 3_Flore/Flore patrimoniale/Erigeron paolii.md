@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Sedo alpestris–Phleion parviceptis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des ubacs corso-sardes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Sedo alpestris–Phleion parviceptis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des ubacs corso-sardes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

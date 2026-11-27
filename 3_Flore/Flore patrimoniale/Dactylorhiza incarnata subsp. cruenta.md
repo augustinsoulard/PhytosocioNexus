@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juin-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
+* **Famille** : Orchidaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
 
 ## Répartition
 

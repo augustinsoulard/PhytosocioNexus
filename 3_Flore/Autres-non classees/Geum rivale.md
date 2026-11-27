@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
-**Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
+* **Famille** : Rosaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
 
 ## Répartition
 

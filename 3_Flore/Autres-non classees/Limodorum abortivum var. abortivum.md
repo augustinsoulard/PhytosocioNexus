@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
+* **Famille** : Orchidaceae
+* **Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
 
 ## Répartition
 

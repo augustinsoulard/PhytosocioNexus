@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
-**Écologie (Baseflor)** : magnoroselières méridionales
+* **Famille** : Poaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
+* **Écologie (Baseflor)** : magnoroselières méridionales
 
 ## Répartition
 

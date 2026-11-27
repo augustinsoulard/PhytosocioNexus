@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mars-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Anthrisco caucalidis–Cochlearion danicae de Foucault 2009
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, atlantiques, maritimes
+* **Famille** : Caryophyllaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Anthrisco caucalidis–Cochlearion danicae de Foucault 2009
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, atlantiques, maritimes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Salicion helveticae Rübel 1912 ex Theurillat in Theurillat, Aeschimann, Küpfer & Spichiger 1995
-**Écologie (Baseflor)** : sous-arbrisseaux hydrophiles, subalpins
+* **Famille** : Salicaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salicion helveticae Rübel 1912 ex Theurillat in Theurillat, Aeschimann, Küpfer & Spichiger 1995
+* **Écologie (Baseflor)** : sous-arbrisseaux hydrophiles, subalpins
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

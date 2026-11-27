@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

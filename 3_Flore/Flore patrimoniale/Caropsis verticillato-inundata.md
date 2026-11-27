@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Lobelio dortmannae–Isoetion lacustris Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, hyperatlantiques, acidophiles
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Lobelio dortmannae–Isoetion lacustris Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, hyperatlantiques, acidophiles
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

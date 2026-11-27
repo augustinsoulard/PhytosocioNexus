@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : juin-juillet
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Fraxino orni–Ostryetalia carpinifoliae Jakucs 1959
-**Écologie (Baseflor)** : associations arborescentes caducifoliées, basophiles, sub/supraméditerranéennes orientales, Italie orientale, Balkans, Anatolie
+* **Famille** : Malvaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Fraxino orni–Ostryetalia carpinifoliae Jakucs 1959
+* **Écologie (Baseflor)** : associations arborescentes caducifoliées, basophiles, sub/supraméditerranéennes orientales, Italie orientale, Balkans, Anatolie
 
 ## Répartition
 

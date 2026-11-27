@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Centaurio pulchelli–Blackstonion perfoliatae (Müller–Stoll & Pietsch 1965 apud Pietsch 1973) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures mésohygrophiles, basophiles
+* **Famille** : Gentianaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Centaurio pulchelli–Blackstonion perfoliatae (Müller–Stoll & Pietsch 1965 apud Pietsch 1973) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures mésohygrophiles, basophiles
 
-**Habitats :** Milieux sablonneux, alluvions de cours d'eau, indiférente au pH ([[Centaurio pulchelli-Blackstonion perfoliatae]]).
+* **Habitats :** Milieux sablonneux, alluvions de cours d'eau, indiférente au pH ([[Centaurio pulchelli-Blackstonion perfoliatae]]).
 
 ## Répartition
 

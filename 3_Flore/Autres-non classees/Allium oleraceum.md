@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : juillet-août
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
-**Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
+* **Famille** : Amaryllidaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
+* **Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
 
 ## Répartition
 

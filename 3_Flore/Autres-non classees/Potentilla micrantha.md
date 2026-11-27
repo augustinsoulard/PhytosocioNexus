@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mars-mai
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
+* **Famille** : Rosaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
 
 ## Répartition
 

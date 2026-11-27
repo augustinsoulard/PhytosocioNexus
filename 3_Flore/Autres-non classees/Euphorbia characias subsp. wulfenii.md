@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
-**Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
+* **Famille** : Euphorbiaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Salvietea rosmarini (Braun–Blanquet 1947) Gaultier 1989
+* **Écologie (Baseflor)** : garrigues méditerranéennes occidentales à subméditerranéennes
 
 ## Répartition
 

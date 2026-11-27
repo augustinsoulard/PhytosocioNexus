@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
 
 ## Répartition
 

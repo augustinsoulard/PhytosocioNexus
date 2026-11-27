@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juillet-août
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
-**Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
+* **Famille** : Brassicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
+* **Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
 
 ## Répartition
 

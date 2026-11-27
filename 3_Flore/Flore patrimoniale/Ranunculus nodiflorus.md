@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ date_maj: "2026-11-26"
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

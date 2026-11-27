@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
 
 ## Répartition
 

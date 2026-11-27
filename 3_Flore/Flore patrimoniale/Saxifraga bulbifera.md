@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Floraison** : mai-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Carici liparocarpos–Helichrysetalia stoechadis (de Foucault 1999) Julve 2003 ord. nov. prov. hoc loco
-**Écologie (Baseflor)** : pelouses des sables basophiles, euryméditerranéennes
+* **Famille** : Saxifragaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Carici liparocarpos–Helichrysetalia stoechadis (de Foucault 1999) Julve 2003 ord. nov. prov. hoc loco
+* **Écologie (Baseflor)** : pelouses des sables basophiles, euryméditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : avril-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
+* **Famille** : Orchidaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
 
 ## Répartition
 

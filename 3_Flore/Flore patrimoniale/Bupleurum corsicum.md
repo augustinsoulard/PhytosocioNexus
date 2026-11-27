@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-octobre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Caricion caryophylleae var. insularis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supraméditerranéennes, corso-sardes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricion caryophylleae var. insularis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supraméditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

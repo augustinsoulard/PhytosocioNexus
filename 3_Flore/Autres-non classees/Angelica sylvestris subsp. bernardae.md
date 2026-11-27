@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
-**Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
+* **Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
 
 ## Répartition
 

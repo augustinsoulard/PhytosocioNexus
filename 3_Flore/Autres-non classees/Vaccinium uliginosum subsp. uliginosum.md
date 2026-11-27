@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru-cad
-**Syntaxon (Baseflor)** : Calluno vulgaris–Vaccinietea myrtilli (Braun–Blanquet, Sissingh & Vlieger 1939) de Foucault 1990
-**Écologie (Baseflor)** : landes circumboréales à montagnardes-subalpines
+* **Famille** : Ericaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent caducifolié
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Vaccinietea myrtilli (Braun–Blanquet, Sissingh & Vlieger 1939) de Foucault 1990
+* **Écologie (Baseflor)** : landes circumboréales à montagnardes-subalpines
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

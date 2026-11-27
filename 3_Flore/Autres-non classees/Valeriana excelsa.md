@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
+* **Famille** : Caprifoliaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE

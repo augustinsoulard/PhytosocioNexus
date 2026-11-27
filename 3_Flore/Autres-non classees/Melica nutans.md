@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
 
 ## Répartition
 

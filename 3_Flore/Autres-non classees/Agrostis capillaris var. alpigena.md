@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
+* **Famille** : Poaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Linaceae
-**Floraison** : mai-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Centaureo stoebes–Koelerion vallesianae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses de la Limagne et du Forez
+* **Famille** : Linaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Centaureo stoebes–Koelerion vallesianae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses de la Limagne et du Forez
 
 ## Répartition
 

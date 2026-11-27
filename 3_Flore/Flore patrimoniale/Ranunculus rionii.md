@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

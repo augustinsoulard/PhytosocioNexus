@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Elatinaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Elatino macropodae–Lindernenion palustris Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles méridionales
+* **Famille** : Elatinaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Elatino macropodae–Lindernenion palustris Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles méridionales
 
 ## Répartition
 

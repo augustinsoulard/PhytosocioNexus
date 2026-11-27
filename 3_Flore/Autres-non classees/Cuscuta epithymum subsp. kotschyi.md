@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : juin-septembre
-**Type biologique** : test-lia-par
-**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+* **Famille** : Convolvulaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Astragalo incani–Festucion cinereae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses calcicoles xérophiles, montagnardes, du sud-est de la France
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Astragalo incani–Festucion cinereae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses calcicoles xérophiles, montagnardes, du sud-est de la France
 
 ## Répartition
 

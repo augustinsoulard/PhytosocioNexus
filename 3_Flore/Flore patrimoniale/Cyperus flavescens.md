@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Cyperion flavescentis Koch 1926 ex Libbert 1933
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, centro-européennes à subatlantiques
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cyperion flavescentis Koch 1926 ex Libbert 1933
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, centro-européennes à subatlantiques
 
 ## Répartition
 

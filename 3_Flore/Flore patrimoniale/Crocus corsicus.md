@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : février-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
+* **Famille** : Iridaceae
+* **Floraison** : février-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

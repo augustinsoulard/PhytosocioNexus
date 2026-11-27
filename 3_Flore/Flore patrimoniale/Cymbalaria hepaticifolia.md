@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-octobre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

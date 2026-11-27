@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Poaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

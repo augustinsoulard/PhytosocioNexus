@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Calamagrostion villosae Pawłowski in Pawłowski, Sokołowski & Wallisch 1928
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, héliophiles
+* **Famille** : Poaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Calamagrostion villosae Pawłowski in Pawłowski, Sokołowski & Wallisch 1928
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, héliophiles
 
 ## Répartition
 

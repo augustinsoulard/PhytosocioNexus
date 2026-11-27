@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : avril
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+* **Famille** : Ranunculaceae
+* **Floraison** : avril
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
 
 ## Répartition
 

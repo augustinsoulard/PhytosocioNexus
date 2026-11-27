@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
 
 ## Répartition
 

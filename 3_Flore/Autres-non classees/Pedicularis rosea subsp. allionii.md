@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi-hpar
-**Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
-**Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
+* **Famille** : Orobanchaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome hémiparasite
+* **Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
 
 ## Répartition
 

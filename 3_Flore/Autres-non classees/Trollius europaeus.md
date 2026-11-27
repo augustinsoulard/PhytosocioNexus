@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
-**Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
 
 ## Répartition
 

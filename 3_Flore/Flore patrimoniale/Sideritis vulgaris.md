@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

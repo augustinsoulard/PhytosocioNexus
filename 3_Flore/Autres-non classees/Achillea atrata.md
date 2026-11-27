@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

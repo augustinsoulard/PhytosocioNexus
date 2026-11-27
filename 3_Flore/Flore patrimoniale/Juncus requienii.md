@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
+* **Famille** : Juncaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

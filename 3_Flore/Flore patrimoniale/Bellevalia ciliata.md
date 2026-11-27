@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : avril-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Asparagaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

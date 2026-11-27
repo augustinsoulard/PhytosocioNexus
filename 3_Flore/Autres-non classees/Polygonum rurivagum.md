@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : mai-novembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sclerochloo durae–Lepidion squamati Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles des tonsures des lieux surpiétinés eutrophiles, sur substrats argileux
+* **Famille** : Polygonaceae
+* **Floraison** : mai-novembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sclerochloo durae–Lepidion squamati Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles des tonsures des lieux surpiétinés eutrophiles, sur substrats argileux
 
 ## Répartition
 

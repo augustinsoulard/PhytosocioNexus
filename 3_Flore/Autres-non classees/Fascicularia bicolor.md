@@ -9,8 +9,8 @@ auteurs:
 
 ## Description
 
-**Famille** : Bromeliaceae
-**Type biologique** : c-suc
+* **Famille** : Bromeliaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 
@@ -20,7 +20,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

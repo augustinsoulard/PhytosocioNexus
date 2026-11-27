@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Syntaxon (Baseflor)** : Leymion arenarii Christiansen 1927
-**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes boréo-européens, sableux
+* **Famille** : Onagraceae
+* **Syntaxon (Baseflor)** : Leymion arenarii Christiansen 1927
+* **Écologie (Baseflor)** : herbacées vivaces des rivages maritimes boréo-européens, sableux
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : Y
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

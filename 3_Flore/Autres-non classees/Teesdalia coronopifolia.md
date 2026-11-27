@@ -11,11 +11,11 @@ sources:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mars-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Brassicaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Tolpido barbatae–Tuberarienalia guttatae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

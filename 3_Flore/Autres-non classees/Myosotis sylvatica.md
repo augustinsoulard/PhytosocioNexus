@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
-**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+* **Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
 
 ## Répartition
 

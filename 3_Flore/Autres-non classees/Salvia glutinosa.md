@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
+* **Famille** : Lamiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
 
 ## Répartition
 

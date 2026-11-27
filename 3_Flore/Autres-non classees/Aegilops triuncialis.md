@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Taeniathero capitis–medusae–Aegilopion geniculatae Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles, thermo- à mésoméditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Taeniathero capitis–medusae–Aegilopion geniculatae Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles, thermo- à mésoméditerranéennes
 
 ## Répartition
 

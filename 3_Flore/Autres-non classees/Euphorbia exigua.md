@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
 
 ## Répartition
 

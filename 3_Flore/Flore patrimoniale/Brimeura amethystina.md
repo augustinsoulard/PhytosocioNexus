@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : mai-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1951
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Asparagaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1951
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : csuf-cad
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Chaméphyte suffrutescent caducifolié
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 

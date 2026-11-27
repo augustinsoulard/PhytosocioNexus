@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Santalaceae
-**Floraison** : septembre-octobre
-**Type biologique** : csuf-par
-**Syntaxon (Baseflor)** : Viscetea albi Julve 2005 cla. nov. hoc loco
-**Écologie (Baseflor)** : épiphytes de houppiers d'arbres ou d'arbustes, sur branches
+* **Famille** : Santalaceae
+* **Floraison** : septembre-octobre
+* **Type biologique** : Chaméphyte suffrutescent parasite
+* **Syntaxon (Baseflor)** : Viscetea albi Julve 2005 cla. nov. hoc loco
+* **Écologie (Baseflor)** : épiphytes de houppiers d'arbres ou d'arbustes, sur branches
 
 ## Répartition
 

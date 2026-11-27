@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
+* **Famille** : Lentibulariaceae
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

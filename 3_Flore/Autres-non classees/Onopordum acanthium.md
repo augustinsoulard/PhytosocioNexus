@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
 
 ## Répartition
 

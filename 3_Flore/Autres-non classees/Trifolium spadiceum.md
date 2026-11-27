@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-septembre
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
-**Écologie (Baseflor)** : annuelles orophiles des graviers de torrents
+* **Famille** : Fabaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
+* **Écologie (Baseflor)** : annuelles orophiles des graviers de torrents
 
 ## Répartition
 

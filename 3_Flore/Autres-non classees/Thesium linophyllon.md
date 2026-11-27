@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Santalaceae
-**Floraison** : juin-août
-**Type biologique** : grhi-hpar
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
+* **Famille** : Santalaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome hémiparasite
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
 
 ## Répartition
 

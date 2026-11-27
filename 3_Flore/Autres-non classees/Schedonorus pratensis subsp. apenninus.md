@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
-**Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
+* **Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
 
 ## Répartition
 

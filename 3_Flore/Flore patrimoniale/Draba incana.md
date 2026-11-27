@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros(hbis)
-**Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1985
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté (bisannuel)
+* **Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1985
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
 
 ## Répartition
 

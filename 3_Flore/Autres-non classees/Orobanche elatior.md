@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-août
-**Type biologique** : gbul-par
-**Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à bulbe parasite
+* **Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cornaceae
-**Floraison** : mars
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Berberidetalia vulgaris de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons arbustifs basophiles, mésotrophiles
+* **Famille** : Cornaceae
+* **Floraison** : mars
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Berberidetalia vulgaris de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons arbustifs basophiles, mésotrophiles
 
 ## Répartition
 

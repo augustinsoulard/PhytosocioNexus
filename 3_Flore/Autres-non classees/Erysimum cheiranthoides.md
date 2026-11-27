@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-septembre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Bidentetea tripartitae Tüxen, Lohmeyer & Preising in Tüxen 1950
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles, pionnières, eurasiatiques
+* **Famille** : Brassicaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bidentetea tripartitae Tüxen, Lohmeyer & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles, pionnières, eurasiatiques
 
 ## Répartition
 

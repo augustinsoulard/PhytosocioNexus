@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
-**Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
+* **Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
 
 ## Répartition
 

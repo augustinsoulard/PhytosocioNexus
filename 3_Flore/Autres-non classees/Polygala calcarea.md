@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygalaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
+* **Famille** : Polygalaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
 
 ## Répartition
 

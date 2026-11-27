@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Escalloniaceae
+* **Famille** : Escalloniaceae
 
 ## Répartition
 

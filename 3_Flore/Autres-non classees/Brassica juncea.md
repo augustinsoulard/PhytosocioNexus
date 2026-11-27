@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : avril-juin
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Fragarion vescae Tüxen 1950
-**Écologie (Baseflor)** : ourlets internes des clairières basophiles médio-européennes, mésohydriques
+* **Famille** : Rosaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Fragarion vescae Tüxen 1950
+* **Écologie (Baseflor)** : ourlets internes des clairières basophiles médio-européennes, mésohydriques
 
 ## Répartition
 

@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-septembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+* **Famille** : Poaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Elytrigietalia intermedio–repentis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
 
 ## Répartition
 

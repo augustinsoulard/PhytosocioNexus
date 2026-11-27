@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : gbul-par
-**Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
+* **Famille** : Orobanchaceae
+* **Type biologique** : Géophyte à bulbe parasite
+* **Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

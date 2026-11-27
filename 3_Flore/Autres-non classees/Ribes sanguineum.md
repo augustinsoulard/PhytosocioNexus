@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Grossulariaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+* **Famille** : Grossulariaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

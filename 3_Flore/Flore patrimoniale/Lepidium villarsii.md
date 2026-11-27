@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1961
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1961
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Quercetalia fagineo–canariensis Julve 2017 ord. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes marcescentes, supraméditerranéennes occidentales et méridionales, ibéro-maghrebines
+* **Famille** : Fagaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercetalia fagineo–canariensis Julve 2017 ord. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes marcescentes, supraméditerranéennes occidentales et méridionales, ibéro-maghrebines
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

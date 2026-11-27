@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
 
 ## Répartition
 

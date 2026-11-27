@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Oxybasion rubrae (Tüxen in Poli & J. Tüxen 1960) Hilbig & Jäger 1972
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Oxybasion rubrae (Tüxen in Poli & J. Tüxen 1960) Hilbig & Jäger 1972
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles
 
 ## Répartition
 

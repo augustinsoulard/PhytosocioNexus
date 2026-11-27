@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
+* **Famille** : Amaryllidaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

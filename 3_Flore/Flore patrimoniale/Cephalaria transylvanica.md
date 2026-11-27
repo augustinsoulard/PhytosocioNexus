@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mars-mai
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : sous bois, pelouses et landes mésophiles à mésohygrophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : sous bois, pelouses et landes mésophiles à mésohygrophiles
 
 ## Répartition
 

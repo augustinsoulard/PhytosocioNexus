@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
-**Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Dittrichietea viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Écologie (Baseflor)** : friches vivaces rudérales méditerranéennes occidentales à centrales, mésohydriques à mésoxérophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion myosuroidis Gams 1936
-**Écologie (Baseflor)** : pelouses basophiles alpines climaciques, alpiennes, chionophobes
+* **Famille** : Fabaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion myosuroidis Gams 1936
+* **Écologie (Baseflor)** : pelouses basophiles alpines climaciques, alpiennes, chionophobes
 
 ## Répartition
 

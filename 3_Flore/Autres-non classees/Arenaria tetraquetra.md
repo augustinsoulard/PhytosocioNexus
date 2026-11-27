@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
+* **Famille** : Caryophyllaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : Q
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE

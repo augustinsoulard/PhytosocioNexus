@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : septembre-novembre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Euphorbion pithyusae Biondi & Géhu in Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses basophiles thermoméditerranéennes, maritimes, corso-sardes
+* **Famille** : Amaryllidaceae
+* **Floraison** : septembre-novembre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Euphorbion pithyusae Biondi & Géhu in Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermoméditerranéennes, maritimes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

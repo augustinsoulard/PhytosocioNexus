@@ -11,11 +11,11 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
 
 ## Répartition
 

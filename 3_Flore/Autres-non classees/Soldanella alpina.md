@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
 
 ## Répartition
 

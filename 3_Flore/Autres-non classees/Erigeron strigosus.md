@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Arction lappae Tüxen 1937 em. 1950
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

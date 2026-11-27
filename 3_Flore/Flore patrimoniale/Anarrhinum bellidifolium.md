@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-octobre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
-**Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
+* **Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
 
 ## Répartition
 

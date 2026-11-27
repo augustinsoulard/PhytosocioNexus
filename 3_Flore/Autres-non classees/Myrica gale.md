@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Myricaceae
-**Floraison** : avril-mai
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Myricetea gale Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux circumboréaux, des substrats tourbeux
+* **Famille** : Myricaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Myricetea gale Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux circumboréaux, des substrats tourbeux
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

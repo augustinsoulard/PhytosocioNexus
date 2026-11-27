@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : avril-mai
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
-**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
+* **Famille** : Iridaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
+* **Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
 
 ## Répartition
 

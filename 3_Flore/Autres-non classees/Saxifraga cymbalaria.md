@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Syntaxon (Baseflor)** : Sedion anglici Braun–Blanquet & Tüxen 1952
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles hyperatlantiques
+* **Famille** : Saxifragaceae
+* **Syntaxon (Baseflor)** : Sedion anglici Braun–Blanquet & Tüxen 1952
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles hyperatlantiques
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

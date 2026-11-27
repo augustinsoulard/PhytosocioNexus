@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
-**Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
+* **Famille** : Asteraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
+* **Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

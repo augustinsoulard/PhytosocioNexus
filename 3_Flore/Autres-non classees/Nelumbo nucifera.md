@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Nelumbonaceae
-**Type biologique** : Grhi-aqua
-**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+* **Famille** : Nelumbonaceae
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
 
 ## Répartition
 

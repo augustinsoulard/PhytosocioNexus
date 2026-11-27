@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
-**Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
+* **Famille** : Cyperaceae
+* **Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
+* **Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
-* **Intérêt patrimonial PACA** : MAJEUR

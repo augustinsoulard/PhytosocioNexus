@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Quercion subero–pyrenaicae Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés médio-européens, acidophiles, oligotrophiles, thermophiles, européo-occidentaux
+* **Famille** : Fagaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercion subero–pyrenaicae Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés médio-européens, acidophiles, oligotrophiles, thermophiles, européo-occidentaux
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

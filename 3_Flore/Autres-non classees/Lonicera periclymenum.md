@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-septembre
-**Type biologique** : B-lia-cad
-**Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2022
-**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Microphanérophyte lianescent caducifolié
+* **Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2022
+* **Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
 
 ## Répartition
 

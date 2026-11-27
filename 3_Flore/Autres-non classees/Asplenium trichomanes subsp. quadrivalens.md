@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Floraison** : janvier-décembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenietea trichomanis Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : chasmophytes des parois européennes
+* **Famille** : Aspleniaceae
+* **Floraison** : janvier-décembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenietea trichomanis Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : chasmophytes des parois européennes
 
 ## Répartition
 

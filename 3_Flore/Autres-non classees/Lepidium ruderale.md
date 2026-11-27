@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-août
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
+* **Famille** : Brassicaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
 
 ## Répartition
 

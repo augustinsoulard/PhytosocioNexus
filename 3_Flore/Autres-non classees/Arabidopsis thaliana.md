@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mars-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Arabidopsion thalianae Passarge 1964
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémihéliophiles, boréocentro-européennes
+* **Famille** : Brassicaceae
+* **Floraison** : mars-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Arabidopsion thalianae Passarge 1964
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémihéliophiles, boréocentro-européennes
 
 ## Répartition
 

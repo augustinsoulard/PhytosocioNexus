@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : avril-juin
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Armerion girardii Braun–Blanquet 1931 em. Quézel 1971
-**Écologie (Baseflor)** : pelouses des sables basophiles, dolomiticoles, euryméditerranéennes
+* **Famille** : Plumbaginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Armerion girardii Braun–Blanquet 1931 em. Quézel 1971
+* **Écologie (Baseflor)** : pelouses des sables basophiles, dolomiticoles, euryméditerranéennes
 
 ## Répartition
 

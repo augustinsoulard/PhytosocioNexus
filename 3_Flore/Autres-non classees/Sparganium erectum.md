@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Typhaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Phragmition australis Koch 1926
-**Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
+* **Famille** : Typhaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Phragmition australis Koch 1926
+* **Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
 
 ## Répartition
 

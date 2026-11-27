@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mars-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
+* **Famille** : Plantaginaceae
+* **Floraison** : mars-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
 
 ## Répartition
 

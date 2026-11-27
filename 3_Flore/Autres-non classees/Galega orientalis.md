@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
+* **Famille** : Fabaceae
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD

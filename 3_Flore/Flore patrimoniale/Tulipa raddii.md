@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : mars-avril
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+* **Famille** : Liliaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
 
 ## Répartition
 

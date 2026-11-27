@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
+* **Famille** : Primulaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Luzulion luzuloidis Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés acidophiles, boréomontagnards à centro-européens, psychrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

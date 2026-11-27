@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

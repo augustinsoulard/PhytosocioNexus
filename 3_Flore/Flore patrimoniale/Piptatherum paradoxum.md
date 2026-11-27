@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Serapiadetea cordigero–linguae de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles méditerranéennes
 
 ## Répartition
 

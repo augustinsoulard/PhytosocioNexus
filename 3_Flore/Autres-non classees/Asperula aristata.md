@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
-**Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
 
 ## Répartition
 

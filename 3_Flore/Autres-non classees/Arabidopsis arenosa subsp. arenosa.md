@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
 
 ## Répartition
 

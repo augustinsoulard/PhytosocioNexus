@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : juin-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
-**Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
+* **Famille** : Liliaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
 
 ## Répartition
 

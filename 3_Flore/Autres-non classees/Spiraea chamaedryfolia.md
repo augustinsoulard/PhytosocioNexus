@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Spiraeion chamaedryfoliae Sanda & Popescu 1999
-**Écologie (Baseflor)** : buissons d'arbrisseaux d'Europe orientale
+* **Famille** : Rosaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Spiraeion chamaedryfoliae Sanda & Popescu 1999
+* **Écologie (Baseflor)** : buissons d'arbrisseaux d'Europe orientale
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

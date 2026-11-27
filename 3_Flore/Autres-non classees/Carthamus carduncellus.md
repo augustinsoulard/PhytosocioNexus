@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
-**Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Festuco hystricis–Poetalia ligulatae Rivas Goday & Rivas–Martínez 1963
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, oroméditerranéennes, nevado-illyriennes, ibériques à maghrebines
 
 ## Répartition
 

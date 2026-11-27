@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
-**Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
+* **Famille** : Caprifoliaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
+* **Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
 
 ## Répartition
 

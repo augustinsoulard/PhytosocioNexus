@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : juin-août
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
-**Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
+* **Famille** : Amaryllidaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
+* **Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
 
 ## Répartition
 

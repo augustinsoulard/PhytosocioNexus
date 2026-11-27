@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Ribesion alpini Julve 2025
-**Écologie (Baseflor)** : fourré d'arbrisseaux basophiles, centro-européens
+* **Famille** : Rosaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Ribesion alpini Julve 2025
+* **Écologie (Baseflor)** : fourré d'arbrisseaux basophiles, centro-européens
 
 ## Répartition
 

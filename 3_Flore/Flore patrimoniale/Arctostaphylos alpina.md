@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : mai-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Kalmio procumbentis–Vaccinietea uliginosi subsp. microphylli Eggler 1952 ex Schubert 1960
-**Écologie (Baseflor)** : landines chionophobes, acidophiles, arctico-alpines, climaciques
+* **Famille** : Ericaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Kalmio procumbentis–Vaccinietea uliginosi subsp. microphylli Eggler 1952 ex Schubert 1960
+* **Écologie (Baseflor)** : landines chionophobes, acidophiles, arctico-alpines, climaciques
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Berberidaceae
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+* **Famille** : Berberidaceae
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
 
 ## Répartition
 

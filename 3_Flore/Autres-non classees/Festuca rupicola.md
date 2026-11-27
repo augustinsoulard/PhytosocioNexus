@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
-**Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
+* **Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
 
 ## Répartition
 

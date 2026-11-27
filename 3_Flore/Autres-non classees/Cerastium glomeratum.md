@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Anisantho sterilis–Cardaminetalia hirsutae de Foucault 2009
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, médio-européens, planitiaires
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Anisantho sterilis–Cardaminetalia hirsutae de Foucault 2009
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, médio-européens, planitiaires
 
 ## Répartition
 

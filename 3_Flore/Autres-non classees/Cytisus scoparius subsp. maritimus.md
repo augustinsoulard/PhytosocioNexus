@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juillet
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. oceanicae–Ulicion europaei subsp. europaei fo. maritimi Géhu 1975
-**Écologie (Baseflor)** : landes atlantiques submaritimes
+* **Famille** : Fabaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. oceanicae–Ulicion europaei subsp. europaei fo. maritimi Géhu 1975
+* **Écologie (Baseflor)** : landes atlantiques submaritimes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

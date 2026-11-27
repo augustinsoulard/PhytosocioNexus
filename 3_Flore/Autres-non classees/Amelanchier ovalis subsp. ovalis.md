@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : avril-mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Amelanchiero ovalis–Buxion sempervirentis O. de Bolòs & Romo 1989
-**Écologie (Baseflor)** : buissons arbustifs basophiles, subméditerranéens
+* **Famille** : Rosaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Amelanchiero ovalis–Buxion sempervirentis O. de Bolòs & Romo 1989
+* **Écologie (Baseflor)** : buissons arbustifs basophiles, subméditerranéens
 
 ## Répartition
 

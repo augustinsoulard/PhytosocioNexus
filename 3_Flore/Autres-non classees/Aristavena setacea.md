@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Eleocharitetalia multicaulis de Foucault 2010
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques à subméditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Eleocharitetalia multicaulis de Foucault 2010
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques à subméditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
+* **Famille** : Poaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -81,4 +81,3 @@ Il altère la qualité de la nidification de certains oiseaux nicheurs au sol (c
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : A
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Lythraceae
-**Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
-**Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
+* **Famille** : Lythraceae
+* **Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
+* **Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
 
 ## Répartition
 

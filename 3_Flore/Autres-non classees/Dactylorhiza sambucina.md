@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
+* **Famille** : Orchidaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
 
 ## Répartition
 

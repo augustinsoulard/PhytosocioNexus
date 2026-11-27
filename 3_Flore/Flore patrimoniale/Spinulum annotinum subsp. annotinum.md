@@ -6,19 +6,19 @@ cd_nomv18: 939840
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Lycopodiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : csuf-semp
-**Syntaxon (Baseflor)** : Empetretalia nigri subsp. hermaphroditi Schubert 1960
-**Écologie (Baseflor)** : landes acidophiles psychrophiles arctico-alpines à boréo-subalpines
+* **Famille** : Lycopodiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Chaméphyte suffrutescent sempervirent
+* **Syntaxon (Baseflor)** : Empetretalia nigri subsp. hermaphroditi Schubert 1960
+* **Écologie (Baseflor)** : landes acidophiles psychrophiles arctico-alpines à boréo-subalpines
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale ; réglementation 06
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

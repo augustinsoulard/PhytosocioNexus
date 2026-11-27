@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : juin-juillet
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
-**Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
+* **Famille** : Cistaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
+* **Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
 
 ## Répartition
 
@@ -36,7 +36,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

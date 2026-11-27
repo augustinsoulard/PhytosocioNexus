@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
-**Écologie (Baseflor)** : magnoroselières méridionales
+* **Famille** : Typhaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
+* **Écologie (Baseflor)** : magnoroselières méridionales
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
 
 ## Répartition
 

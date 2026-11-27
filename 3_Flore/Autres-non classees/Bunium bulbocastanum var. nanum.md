@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+* **Famille** : Apiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Isoetaceae
-**Floraison** : avril-juillet
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
+* **Famille** : Isoetaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

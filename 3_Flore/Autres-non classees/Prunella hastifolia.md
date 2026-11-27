@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
-**Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
+* **Famille** : Lamiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
+* **Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Sapindaceae
-**Floraison** : avril-mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Ulmo glabrae–Tilienea platyphylli Julve 2023 subclass nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, montagnardes
+* **Famille** : Sapindaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Ulmo glabrae–Tilienea platyphylli Julve 2023 subclass nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, montagnardes
 
 ## Répartition
 

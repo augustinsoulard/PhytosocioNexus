@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
 
 ## Répartition
 

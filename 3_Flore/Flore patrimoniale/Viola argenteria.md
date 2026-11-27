@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. sardoi Gamisans 1989
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, corso-sardes
+* **Famille** : Violaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. sardoi Gamisans 1989
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, corso-sardes
 
 ## Répartition
 

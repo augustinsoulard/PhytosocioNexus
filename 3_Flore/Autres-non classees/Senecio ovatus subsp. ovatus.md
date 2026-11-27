@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

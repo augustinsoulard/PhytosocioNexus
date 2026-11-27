@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : juin-août
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Juniperion communis subsp. nanae Braun–Blanquet in Braun–Blanquet, Sissingh & Vlieger 1939
-**Écologie (Baseflor)** : landines alpines à subalpines, des adrets, chionophobes
+* **Famille** : Thymelaeaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Juniperion communis subsp. nanae Braun–Blanquet in Braun–Blanquet, Sissingh & Vlieger 1939
+* **Écologie (Baseflor)** : landines alpines à subalpines, des adrets, chionophobes
 
 ## Répartition
 

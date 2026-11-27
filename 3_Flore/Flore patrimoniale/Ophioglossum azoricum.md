@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ophioglossaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
+* **Famille** : Ophioglossaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 

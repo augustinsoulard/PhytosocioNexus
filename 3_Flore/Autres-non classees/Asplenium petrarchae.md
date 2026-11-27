@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenietalia petrarchae Braun–Blanquet & Meier in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes, basophiles héliophiles
+* **Famille** : Aspleniaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenietalia petrarchae Braun–Blanquet & Meier in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes, basophiles héliophiles
 
 ## Répartition
 

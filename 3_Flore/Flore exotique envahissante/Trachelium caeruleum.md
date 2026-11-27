@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Parietarietalia judaicae Rivas–Martínez 1960 ex Rivas Goday 1964
-**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+* **Famille** : Campanulaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Parietarietalia judaicae Rivas–Martínez 1960 ex Rivas Goday 1964
+* **Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
+* **Famille** : Liliaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Ficarion vernae Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohygrophiles à mésohygroclines
 
 ## Répartition
 

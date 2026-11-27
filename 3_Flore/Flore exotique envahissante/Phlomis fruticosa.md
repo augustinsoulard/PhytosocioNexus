@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mai-juin
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
+* **Famille** : Lamiaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
 
 ## Répartition
 

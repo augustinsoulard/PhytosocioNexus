@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Atriplicion sagittatae Passarge 1978
-**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture fine
+* **Famille** : Amaranthaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Atriplicion sagittatae Passarge 1978
+* **Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture fine
 
 ## Répartition
 

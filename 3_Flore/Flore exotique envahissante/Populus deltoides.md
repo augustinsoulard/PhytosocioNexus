@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Salicaceae
+* **Famille** : Salicaceae
 
 ## Répartition
 

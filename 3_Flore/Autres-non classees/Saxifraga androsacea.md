@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
+* **Famille** : Saxifragaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
 
 ## Répartition
 

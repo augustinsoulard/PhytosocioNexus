@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
+* **Famille** : Crassulaceae
+* **Syntaxon (Baseflor)** : Festucion acuminatae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, alpines, mésohydriques, des adrets alpiens
 
 ## Répartition
 

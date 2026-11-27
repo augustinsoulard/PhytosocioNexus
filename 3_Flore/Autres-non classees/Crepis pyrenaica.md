@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Adenostyletalia alliariae G. & J. Braun–Blanquet 1931
-**Écologie (Baseflor)** : mégaphorbiaies subalpines d'Europe occidentale
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Adenostyletalia alliariae G. & J. Braun–Blanquet 1931
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines d'Europe occidentale
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Onopordion acanthii Braun-Blanquet in Braun-Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches armées monocarpiques, xérophiles, mésothermophiles, centro-européennes
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordion acanthii Braun-Blanquet in Braun-Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches armées monocarpiques, xérophiles, mésothermophiles, centro-européennes
 
 ## Répartition
 

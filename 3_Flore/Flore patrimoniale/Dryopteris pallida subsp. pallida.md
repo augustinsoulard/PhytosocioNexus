@@ -6,19 +6,19 @@ cd_nomv18: 133983
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Noccaeetalia rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, psychrophiles, montagnards (ubacs) à alpins, héliophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

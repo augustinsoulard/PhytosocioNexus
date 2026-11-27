@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Caucalidion platycarpi Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, mésothermes
 
 ## Répartition
 

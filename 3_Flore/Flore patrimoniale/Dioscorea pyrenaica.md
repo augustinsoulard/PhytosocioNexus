@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Dioscoreaceae
-**Floraison** : juin-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
+* **Famille** : Dioscoreaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Iberidion spathulatae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, pyrénéens à auvergnats, subalpins-alpins, héliophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

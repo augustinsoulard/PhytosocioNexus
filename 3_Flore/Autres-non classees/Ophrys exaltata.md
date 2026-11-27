@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : février-avril
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Phlomido lychnitidis - Brachypodion retusi (Rivas-Martínez 1978) Mateo 1983
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+* **Famille** : Orchidaceae
+* **Floraison** : février-avril
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Phlomido lychnitidis - Brachypodion retusi (Rivas-Martínez 1978) Mateo 1983
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
 
 ## Répartition
 

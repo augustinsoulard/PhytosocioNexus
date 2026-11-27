@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Tamaricion africanae Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, subhalophiles, méditerranéo-atlantiques, des sols minéraux
+* **Famille** : Asteraceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Tamaricion africanae Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, subhalophiles, méditerranéo-atlantiques, des sols minéraux
 
 ## Répartition
 

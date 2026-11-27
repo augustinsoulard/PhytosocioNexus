@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaginaceae
-**Floraison** : mai-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Armerio maritimae–Juncetalia gerardii Passarge 1999
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles (schorre moyen), atlantiques et baltiques
+* **Famille** : Juncaginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Armerio maritimae–Juncetalia gerardii Passarge 1999
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles (schorre moyen), atlantiques et baltiques
 
 ## Répartition
 

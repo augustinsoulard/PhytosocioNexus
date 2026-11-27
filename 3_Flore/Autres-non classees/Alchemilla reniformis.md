@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
-**Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
+* **Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens, étages méso- et supraméditerranéen, subspontané au-dessus. Héliophile, thermophile, mésoxérophile, neutro-calcicline, gravicole ou terricole, nitratophile. Chênaies blanches, ripisylves sèches, ourlets, fruticées notamment à genêt cendré.
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens, étages méso- et supraméditerranéen, subspontané au-dessus. Héliophile, thermophile, mésoxérophile, neutro-calcicline, gravicole ou terricole, nitratophile. Chênaies blanches, ripisylves sèches, ourlets, fruticées notamment à genêt cendré.
 
 ## Répartition
 

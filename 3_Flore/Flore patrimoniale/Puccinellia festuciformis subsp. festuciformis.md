@@ -7,7 +7,7 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
+* **Famille** : Poaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE

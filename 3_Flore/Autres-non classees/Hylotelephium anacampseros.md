@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juillet-août
-**Type biologique** : gtub-suc
-**Syntaxon (Baseflor)** : Sedo albi–Scleranthion perennis subsp. perennis Braun–Blanquet (1947) 1955
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Alpes
+* **Famille** : Crassulaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à tubercule succulent
+* **Syntaxon (Baseflor)** : Sedo albi–Scleranthion perennis subsp. perennis Braun–Blanquet (1947) 1955
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Alpes
 
 ## Répartition
 

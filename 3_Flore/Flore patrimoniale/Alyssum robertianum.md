@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Sesamoido pygmaeae–Bellardiochloion variegatae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des adrets corso-sardes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Sesamoido pygmaeae–Bellardiochloion variegatae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des adrets corso-sardes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

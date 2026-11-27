@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
 
 ## Répartition
 

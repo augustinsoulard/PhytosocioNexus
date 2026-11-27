@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Floraison** : mai-juin
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Berberidetalia vulgaris de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons arbustifs basophiles, mésotrophiles
+* **Famille** : Rhamnaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Berberidetalia vulgaris de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons arbustifs basophiles, mésotrophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juin-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
+* **Famille** : Polygonaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
 
 ## Répartition
 

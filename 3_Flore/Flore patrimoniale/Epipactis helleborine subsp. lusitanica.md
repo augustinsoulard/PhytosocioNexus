@@ -6,19 +6,19 @@ cd_nomv18: 612463
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Orchidaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
-**Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
+* **Famille** : Orchidaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Conopodio majoris–Teucrion scorodoniae (de Foucault, Rameau & Royer 1983) Julve 1993
+* **Écologie (Baseflor)** : ourlets externes acidophiles à acidoclines, atlantiques, planitiaires-collinéens
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

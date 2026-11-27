@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Tsugo heterophyllae–Thujetea plicatae Knapp 1957
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, du tempéré modal océanique montagnard NW américain
+* **Famille** : Cupressaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Tsugo heterophyllae–Thujetea plicatae Knapp 1957
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, du tempéré modal océanique montagnard NW américain
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

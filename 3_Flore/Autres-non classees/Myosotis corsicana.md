@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saginetalia piliferae Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supra à oroméditerranéennes, corso-sardes
 
 ## Répartition
 

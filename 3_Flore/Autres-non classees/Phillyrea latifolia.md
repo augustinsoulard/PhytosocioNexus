@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Oleaceae
-**Floraison** : avril-mai
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
+* **Famille** : Oleaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
 
 ## Répartition
 

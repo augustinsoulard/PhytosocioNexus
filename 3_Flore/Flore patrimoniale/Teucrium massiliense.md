@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mai-août
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Salvion rosmarini Braun-Blanquet 1931 ex Molinier 1934
-**Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
+* **Famille** : Lamiaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Salvion rosmarini Braun-Blanquet 1931 ex Molinier 1934
+* **Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
 
 ## Répartition
 

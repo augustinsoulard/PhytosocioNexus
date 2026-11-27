@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
+* **Famille** : Papaveraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
 
 ## Répartition
 

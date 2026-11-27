@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
+* **Famille** : Fabaceae
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : mai-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
-**Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
+* **Famille** : Campanulaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
+* **Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
 
 ## Répartition
 

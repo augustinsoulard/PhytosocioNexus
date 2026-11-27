@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Salici appendiculatae–Alnetea alnobetulae Lacoste 1985
-**Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, subalpins
+* **Famille** : Salicaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salici appendiculatae–Alnetea alnobetulae Lacoste 1985
+* **Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, subalpins
 
 ## Répartition
 

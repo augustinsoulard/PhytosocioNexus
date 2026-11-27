@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juin-août
-**Type biologique** : gtub-par
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
+* **Famille** : Orobanchaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à tubercule parasite
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleetalia phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses arénicoles basophiles, médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : avril-juin
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
+* **Famille** : Crassulaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

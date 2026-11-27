@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
 
 ## Répartition
 

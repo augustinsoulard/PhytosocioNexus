@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
-**Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
+* **Famille** : Cyperaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
+* **Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
 
 ## Répartition
 

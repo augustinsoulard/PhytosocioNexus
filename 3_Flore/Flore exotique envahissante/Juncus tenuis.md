@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
-**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
+* **Famille** : Juncaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
+* **Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
 
 ## Répartition
 

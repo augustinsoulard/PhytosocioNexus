@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Linaceae
-**Floraison** : avril-juin
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
+* **Famille** : Linaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
 
 ## Répartition
 

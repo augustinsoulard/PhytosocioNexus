@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
 
 ## Répartition
 

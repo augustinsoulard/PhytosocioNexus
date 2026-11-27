@@ -6,19 +6,19 @@ cd_nomv18: 142091
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1962
-**Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1962
+* **Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

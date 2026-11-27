@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
+* **Famille** : Poaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

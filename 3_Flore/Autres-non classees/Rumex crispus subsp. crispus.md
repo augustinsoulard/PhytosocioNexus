@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Test(Heri)
-**Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
+* **Famille** : Polygonaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Agrostienea stoloniferae var. stoloniferae (Oberdorfer & Müller ex Görs 1966) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes hygrophiles à hydrophiles, inondables
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

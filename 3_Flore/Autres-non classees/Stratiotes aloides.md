@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hydrocharitaceae
-**Floraison** : juin-août
-**Type biologique** : hros-aqua
-**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+* **Famille** : Hydrocharitaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté aquatique
+* **Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Arenarion bertolonii Gamisans 1991
-**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, corso-sardes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Arenarion bertolonii Gamisans 1991
+* **Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, corso-sardes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

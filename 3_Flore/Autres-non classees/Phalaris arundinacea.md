@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
 
 ## Répartition
 

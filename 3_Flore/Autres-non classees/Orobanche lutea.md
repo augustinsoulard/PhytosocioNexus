@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-juillet
-**Type biologique** : gbul-par
-**Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à bulbe parasite
+* **Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
 
 ## Répartition
 

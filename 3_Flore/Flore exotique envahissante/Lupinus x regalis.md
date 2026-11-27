@@ -10,9 +10,9 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
+* **Famille** : Fabaceae
+* **Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
 
 ## Répartition
 
@@ -89,4 +89,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

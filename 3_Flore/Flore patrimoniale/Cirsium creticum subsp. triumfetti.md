@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

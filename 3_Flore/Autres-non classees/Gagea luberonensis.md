@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gageo bohemicae–Sedion albi (Oberdorfer 1957) de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles granitiques basoclines à acidoclines en systèmes intermédiaires centro-européens
+* **Famille** : Liliaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gageo bohemicae–Sedion albi (Oberdorfer 1957) de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles granitiques basoclines à acidoclines en systèmes intermédiaires centro-européens
 
 ## Répartition
 

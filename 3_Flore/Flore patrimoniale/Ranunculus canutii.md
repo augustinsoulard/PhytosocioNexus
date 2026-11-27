@@ -6,13 +6,14 @@ cd_nomv18: 116963
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : avril-juin
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+* **Famille** : Ranunculaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
 
 ## Statuts
 
@@ -20,7 +21,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

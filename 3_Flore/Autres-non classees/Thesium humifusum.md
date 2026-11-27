@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Santalaceae
-**Type biologique** : hsto-hpar
-**Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
+* **Famille** : Santalaceae
+* **Type biologique** : Hémicryptophyte stolonifère hémiparasite
+* **Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
 
 ## Répartition
 

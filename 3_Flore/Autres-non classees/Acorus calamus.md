@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Acoraceae
-**Floraison** : mai-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
-**Écologie (Baseflor)** : parvoroselières circumboréales pionnières
+* **Famille** : Acoraceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
+* **Écologie (Baseflor)** : parvoroselières circumboréales pionnières
 
 ## Répartition
 

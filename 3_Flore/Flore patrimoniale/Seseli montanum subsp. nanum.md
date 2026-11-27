@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : août-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Oxytropido halleri–Caricion myosuroidis Braun–Blanquet 1949
-**Écologie (Baseflor)** : pelouses basophiles alpines climaciques, pyrénéennes, chionophobes
+* **Famille** : Apiaceae
+* **Floraison** : août-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Oxytropido halleri–Caricion myosuroidis Braun–Blanquet 1949
+* **Écologie (Baseflor)** : pelouses basophiles alpines climaciques, pyrénéennes, chionophobes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

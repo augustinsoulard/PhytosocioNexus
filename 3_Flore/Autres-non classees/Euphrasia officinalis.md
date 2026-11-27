@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
-**Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
+* **Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
 
 ## Répartition
 

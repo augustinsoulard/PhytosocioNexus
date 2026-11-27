@@ -6,12 +6,12 @@ cd_nomv18: 102147
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Asteraceae
+* **Famille** : Asteraceae
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
-* **Intérêt patrimonial PACA** : FORT

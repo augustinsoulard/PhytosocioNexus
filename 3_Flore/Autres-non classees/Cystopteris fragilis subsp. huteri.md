@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cystopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cystopteridion fragilis (Nordhagen 1936) Richard 1972
+* **Famille** : Cystopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cystopteridion fragilis (Nordhagen 1936) Richard 1972
 
 ## Répartition
 

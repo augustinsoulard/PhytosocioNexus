@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Ledetalia palustris Nordhagen 1936
-**Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
+* **Famille** : Ericaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ledetalia palustris Nordhagen 1936
+* **Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
 
 ## Répartition
 

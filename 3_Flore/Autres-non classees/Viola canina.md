@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
-**Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
+* **Famille** : Violaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
+* **Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
 
 ## Répartition
 

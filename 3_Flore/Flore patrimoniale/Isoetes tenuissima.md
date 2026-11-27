@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Isoetaceae
-**Floraison** : mai-septembre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
+* **Famille** : Isoetaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : mai-septembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
-**Écologie (Baseflor)** : parvoroselières circumboréales pionnières
+* **Famille** : Alismataceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
+* **Écologie (Baseflor)** : parvoroselières circumboréales pionnières
 
 ## Répartition
 

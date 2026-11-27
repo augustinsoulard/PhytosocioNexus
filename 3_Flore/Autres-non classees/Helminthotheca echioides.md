@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : Test(Hbis)
-**Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
 
 ## Répartition
 

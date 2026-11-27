@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juin-octobre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
-**Écologie (Baseflor)** : annuelles commensales des cultures
+* **Famille** : Amaranthaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
+* **Écologie (Baseflor)** : annuelles commensales des cultures
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FAI
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

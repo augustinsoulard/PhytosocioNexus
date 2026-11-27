@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Urticaceae
-**Floraison** : juin-octobre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
-**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+* **Famille** : Urticaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
+* **Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
 
 ## Répartition
 

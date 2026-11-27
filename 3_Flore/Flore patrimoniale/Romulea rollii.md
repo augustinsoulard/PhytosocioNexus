@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes
+* **Famille** : Iridaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Dactylido glomeratae subsp. hispanicae–Brachypodietea retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes
 
 ## Répartition
 

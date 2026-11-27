@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Elatinaceae
-**Floraison** : juin-novembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Eleocharition ovatae Philippi 1968
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables), centro-européennes à méridionales
+* **Famille** : Elatinaceae
+* **Floraison** : juin-novembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eleocharition ovatae Philippi 1968
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables), centro-européennes à méridionales
 
 ## Répartition
 

@@ -6,13 +6,14 @@ cd_nomv18: 788856
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Poaceae
-**Floraison** : septembre-octobre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
-**Écologie (Baseflor)** : magnoroselières méridionales
+* **Famille** : Poaceae
+* **Floraison** : septembre-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
+* **Écologie (Baseflor)** : magnoroselières méridionales
 
 ## Statuts
 
@@ -20,7 +21,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Liste rouge régionale PACA** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : MAJEUR
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mars-mai
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietea onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
+* **Famille** : Ranunculaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietea onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
 
 ## Répartition
 

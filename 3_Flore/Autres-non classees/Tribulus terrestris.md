@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Zygophyllaceae
-**Floraison** : avril-septembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+* **Famille** : Zygophyllaceae
+* **Floraison** : avril-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
 
 ## Répartition
 

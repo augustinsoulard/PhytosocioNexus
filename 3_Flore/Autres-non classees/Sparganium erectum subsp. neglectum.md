@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Glycerio fluitantis–Sparganion erecti subsp. neglecti Braun-Blanquet & Sissingh in Boer 1942
-**Écologie (Baseflor)** : parvoglycériaies flottantes amphibies, mésothermes
+* **Famille** : Typhaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Glycerio fluitantis–Sparganion erecti subsp. neglecti Braun-Blanquet & Sissingh in Boer 1942
+* **Écologie (Baseflor)** : parvoglycériaies flottantes amphibies, mésothermes
 
 ## Répartition
 

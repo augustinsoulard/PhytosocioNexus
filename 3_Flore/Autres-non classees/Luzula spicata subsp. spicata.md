@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
+* **Famille** : Juncaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Menyantho trifoliatae–Caricetalia lasiocarpae Julve 1993
-**Écologie (Baseflor)** : magnocariçaies oligotrophiles à parvocariçaies des tremblants tourbeux primaires
+* **Famille** : Cyperaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Menyantho trifoliatae–Caricetalia lasiocarpae Julve 1993
+* **Écologie (Baseflor)** : magnocariçaies oligotrophiles à parvocariçaies des tremblants tourbeux primaires
 
 ## Répartition
 

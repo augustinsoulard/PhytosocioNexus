@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
-**Écologie (Baseflor)** : friches halophiles littorales, thermophiles
+* **Famille** : Amaranthaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
+* **Écologie (Baseflor)** : friches halophiles littorales, thermophiles
 
 ## Répartition
 

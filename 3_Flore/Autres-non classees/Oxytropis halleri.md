@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
+* **Famille** : Fabaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricetalia myosuroidis Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, européennes occidentales
 
 ## Répartition
 

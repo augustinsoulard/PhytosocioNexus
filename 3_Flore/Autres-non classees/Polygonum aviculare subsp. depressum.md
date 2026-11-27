@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : mai-novembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
+* **Famille** : Polygonaceae
+* **Floraison** : mai-novembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
 
 ## Répartition
 

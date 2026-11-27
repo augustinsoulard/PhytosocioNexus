@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
-**Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
+* **Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
 
 ## Répartition
 

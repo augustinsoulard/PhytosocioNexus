@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
-**Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
+* **Famille** : Poaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
+* **Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
 
 ## Répartition
 

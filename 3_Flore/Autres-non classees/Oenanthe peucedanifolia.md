@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-août
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Jacobaeion aquaticae Julve 2020 all. nov. prov. hoc loco
-**Écologie (Baseflor)** : prairies hygrophiles fauchées septentrionales, psychro-atlantiques à centro-européennes
+* **Famille** : Apiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Jacobaeion aquaticae Julve 2020 all. nov. prov. hoc loco
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées septentrionales, psychro-atlantiques à centro-européennes
 
 ## Répartition
 

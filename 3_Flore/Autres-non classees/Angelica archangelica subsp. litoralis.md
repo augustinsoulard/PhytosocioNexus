@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
-**Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
+* **Famille** : Apiaceae
+* **Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
+* **Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

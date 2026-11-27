@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mars-avril
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Salici albae–Populetea nigrae Julve 2016 cla. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes européennes de nomades à bois tendres hydrophiles à amphibies sur sols minéraux
+* **Famille** : Salicaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Salici albae–Populetea nigrae Julve 2016 cla. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes européennes de nomades à bois tendres hydrophiles à amphibies sur sols minéraux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

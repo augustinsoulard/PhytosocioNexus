@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Galio veri subsp. veri–Geranion sanguinei J.–M. Géhu & J. Géhu 1983
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, submaritimes
+* **Famille** : Orchidaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Galio veri subsp. veri–Geranion sanguinei J.–M. Géhu & J. Géhu 1983
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, submaritimes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

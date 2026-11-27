@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Haloragaceae
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+* **Famille** : Haloragaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
 
 ## Répartition
 
@@ -97,7 +97,6 @@ Les engins et outils doivent faire l'objet d'un **nettoyage**, avant de traiter 
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

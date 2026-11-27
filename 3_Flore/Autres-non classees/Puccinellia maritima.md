@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Puccinellion maritimae Christiansen 1927 em. Tüxen 1937
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hydrophiles du schorre inférieur
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Puccinellion maritimae Christiansen 1927 em. Tüxen 1937
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hydrophiles du schorre inférieur
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

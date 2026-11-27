@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
-**Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
+* **Famille** : Brassicaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
+* **Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
 
 ## Répartition
 

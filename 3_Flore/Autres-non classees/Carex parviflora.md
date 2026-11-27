@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
 
 ## Répartition
 

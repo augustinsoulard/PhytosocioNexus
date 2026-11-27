@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Trifolion squamosi Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : annuelles hygrophiles des trouées des prairies (mosaïques contigües)
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Trifolion squamosi Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : annuelles hygrophiles des trouées des prairies (mosaïques contigües)
 
 ## Répartition
 

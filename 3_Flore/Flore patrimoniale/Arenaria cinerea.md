@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Ononidion cristatae Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses des adrets montagnards supérieurs des alpes méridionales
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Ononidion cristatae Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses des adrets montagnards supérieurs des alpes méridionales
 
 ## Répartition
 

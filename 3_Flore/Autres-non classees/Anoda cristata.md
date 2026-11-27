@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Type biologique** : test(csuf)
-**Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
+* **Famille** : Malvaceae
+* **Type biologique** : Thérophyte estival (suffrutescent)
+* **Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

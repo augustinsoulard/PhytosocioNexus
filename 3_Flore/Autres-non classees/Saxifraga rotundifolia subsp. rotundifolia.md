@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Cardamino amarae–Chrysosplenietalia alternifolii Hinterlang 1992 ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
+* **Famille** : Saxifragaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Cardamino amarae–Chrysosplenietalia alternifolii Hinterlang 1992 ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
-**Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Laserpition sileris Misset 2014
+* **Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, alpiens méridionaux, mésoxérophiles, mésotrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

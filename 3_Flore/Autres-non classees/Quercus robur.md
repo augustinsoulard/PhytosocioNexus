@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fagaceae
-**Floraison** : avril-mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Quercenea robori–petraeae Julve 2023
-**Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, planitiaires-collinéennes
+* **Famille** : Fagaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercenea robori–petraeae Julve 2023
+* **Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, planitiaires-collinéennes
 
 ## Répartition
 

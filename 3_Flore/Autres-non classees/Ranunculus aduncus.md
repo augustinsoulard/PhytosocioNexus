@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
 
 ## Répartition
 

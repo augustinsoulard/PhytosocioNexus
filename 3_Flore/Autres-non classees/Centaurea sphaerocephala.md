@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juin
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Ononidion ramosissimae Pignatti 1953
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes centrales
+* **Famille** : Asteraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Ononidion ramosissimae Pignatti 1953
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes centrales
 
 ## Répartition
 

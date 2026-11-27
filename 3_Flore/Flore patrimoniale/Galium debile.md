@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Trocdarido verticillati–Juncenion acutiflori de Foucault & Géhu 1980
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques, planitiaires, thermophiles à mésothermophiles
+* **Famille** : Rubiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Trocdarido verticillati–Juncenion acutiflori de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques, planitiaires, thermophiles à mésothermophiles
 
-**Habitats :** développe principalement dans des habitats humides oligotrophes, notamment les prés paratourbeux, les bas-marais et les prairies du _Juncion acutiflori_. Dans les régions à affinités méditerranéennes, il colonise plutôt les prés bas thermophiles du [[Deschampsio mediae-Molinion arundinaceae]], inondables en hiver et asséchés en été. Ces habitats exigent un entretien régulier par la fauche ou le pâturage pour éviter leur évolution vers des végétations de hautes herbes comme les roselières ou les mégaphorbiaies.
+* **Habitats :** développe principalement dans des habitats humides oligotrophes, notamment les prés paratourbeux, les bas-marais et les prairies du _Juncion acutiflori_. Dans les régions à affinités méditerranéennes, il colonise plutôt les prés bas thermophiles du [[Deschampsio mediae-Molinion arundinaceae]], inondables en hiver et asséchés en été. Ces habitats exigent un entretien régulier par la fauche ou le pâturage pour éviter leur évolution vers des végétations de hautes herbes comme les roselières ou les mégaphorbiaies.
 
 ## Répartition
 

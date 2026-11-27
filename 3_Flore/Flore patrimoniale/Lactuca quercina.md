@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
-**Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
+* **Famille** : Asteraceae
+* **Floraison** : août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
+* **Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
 
 ## Répartition
 

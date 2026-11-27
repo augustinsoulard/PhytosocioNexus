@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetea mollis Passarge 1979
-**Écologie (Baseflor)** : ourlets acidophiles médio-européens
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetea mollis Passarge 1979
+* **Écologie (Baseflor)** : ourlets acidophiles médio-européens
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Elaeagnaceae
-**Floraison** : mars-mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Ligustro vulgaris–Hippophaeion rhamnoidis Géhu & Géhu–Franck 1983
-**Écologie (Baseflor)** : buissons arbustifs maritimes, psychrophiles
+* **Famille** : Elaeagnaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Ligustro vulgaris–Hippophaeion rhamnoidis Géhu & Géhu–Franck 1983
+* **Écologie (Baseflor)** : buissons arbustifs maritimes, psychrophiles
 
 ## Répartition
 

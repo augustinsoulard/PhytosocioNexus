@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-juin
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
+* **Famille** : Boraginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

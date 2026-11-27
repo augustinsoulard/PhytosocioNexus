@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
+* **Famille** : Solanaceae
 
 ## Répartition
 
@@ -31,4 +31,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

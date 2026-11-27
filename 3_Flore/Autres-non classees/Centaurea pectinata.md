@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : août-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
-**Écologie (Baseflor)** : parvoroselières circumboréales pionnières
+* **Famille** : Alismataceae
+* **Floraison** : août-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
+* **Écologie (Baseflor)** : parvoroselières circumboréales pionnières
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

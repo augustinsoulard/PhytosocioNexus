@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
 
 ## Répartition
 

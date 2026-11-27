@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-juin
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

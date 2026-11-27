@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

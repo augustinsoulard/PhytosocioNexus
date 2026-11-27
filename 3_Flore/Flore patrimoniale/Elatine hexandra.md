@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Elatinaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
+* **Famille** : Elatinaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Helosciadion nodiflori Segal in Westhoff & den Held 1969
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, européennes, eutrophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Helosciadion nodiflori Segal in Westhoff & den Held 1969
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, européennes, eutrophiles
 
 ## Répartition
 

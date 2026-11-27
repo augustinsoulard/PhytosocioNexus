@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ephedraceae
-**Floraison** : avril-juin
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : ?
-**Écologie (Baseflor)** : garides basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées ibéro-provençales
+* **Famille** : Ephedraceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : ?
+* **Écologie (Baseflor)** : garides basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées ibéro-provençales
 
 ## Répartition
 

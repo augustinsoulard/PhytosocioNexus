@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

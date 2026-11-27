@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Malvaceae
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Malvion subovatae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Famille** : Malvaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Malvion subovatae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
 
 ## Répartition
 

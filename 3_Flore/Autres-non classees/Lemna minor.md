@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Araceae
-**Floraison** : avril-juin
-**Type biologique** : gbul-aqua
-**Syntaxon (Baseflor)** : Lemnetea minoris Tüxen 1953 ex O. de Bolòs & Masclans 1955
-**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, holarctiques
+* **Famille** : Araceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à bulbe aquatique
+* **Syntaxon (Baseflor)** : Lemnetea minoris Tüxen 1953 ex O. de Bolòs & Masclans 1955
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, holarctiques
 
 ## Répartition
 

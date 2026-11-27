@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Spartinion alterniflorae Conard 1935
-**Écologie (Baseflor)** : spartinaies vasicoles amphibies exondables, de la slikke supérieure
+* **Famille** : Poaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Spartinion alterniflorae Conard 1935
+* **Écologie (Baseflor)** : spartinaies vasicoles amphibies exondables, de la slikke supérieure
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -6,19 +6,19 @@ cd_nomv18: 911064
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Fabaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Fabaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

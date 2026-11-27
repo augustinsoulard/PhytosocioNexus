@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Oenanthion globulosae de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, sublittorales
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Oenanthion globulosae de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, sublittorales
 
 ## Répartition
 

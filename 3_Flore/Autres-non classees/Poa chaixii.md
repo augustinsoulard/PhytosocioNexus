@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
-**Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Melampyro sylvatici–Poion chaixii Julve 1993
+* **Écologie (Baseflor)** : ourlets externes à internes, acidophiles, montagnards
 
 ## Répartition
 

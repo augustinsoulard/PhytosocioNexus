@@ -6,18 +6,18 @@ cd_nomv18: 161077
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenion cuneifolii Braun–Blanquet & Tüxen 1943 nn
-**Écologie (Baseflor)** : chasmophytes de parois européennes, serpentinicoles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenion cuneifolii Braun–Blanquet & Tüxen 1943 nn
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, serpentinicoles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

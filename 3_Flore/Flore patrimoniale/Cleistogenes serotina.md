@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : août-octobre
-**Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : prés secs méditérannéens, buissons ; xérothermophile
+* **Famille** : Poaceae
+* **Floraison** : août-octobre
+* **Syntaxon (Baseflor)** : Festucetalia valesiacae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : prés secs méditérannéens, buissons ; xérothermophile
 
 ## Répartition
 

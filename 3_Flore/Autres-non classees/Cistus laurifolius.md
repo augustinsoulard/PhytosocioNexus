@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : juin-juillet
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Cistion laurifolii Rivas Goday in Rivas Goday, Borja, Monasterio, Galiano & Rivas–Martínez 1956
-**Écologie (Baseflor)** : cistaies supraméditerranéennes occidentales
+* **Famille** : Cistaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Cistion laurifolii Rivas Goday in Rivas Goday, Borja, Monasterio, Galiano & Rivas–Martínez 1956
+* **Écologie (Baseflor)** : cistaies supraméditerranéennes occidentales
 
 ## Répartition
 

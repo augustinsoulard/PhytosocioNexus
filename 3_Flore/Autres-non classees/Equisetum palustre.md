@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Equisetaceae
-**Floraison** : mai-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
+* **Famille** : Equisetaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
 
 ## Répartition
 

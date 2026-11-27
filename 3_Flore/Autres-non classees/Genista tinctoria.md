@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : Cfru-cad
-**Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
-**Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte frutescent caducifolié
+* **Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
+* **Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : mars-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
+* **Famille** : Liliaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
 
 ## Répartition
 

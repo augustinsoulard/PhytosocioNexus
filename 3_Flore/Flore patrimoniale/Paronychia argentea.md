@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hsto(csuf)
-**Syntaxon (Baseflor)** : Ononidion ramosissimae Pignatti 1953
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes centrales
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte stolonifère (suffrutescent)
+* **Syntaxon (Baseflor)** : Ononidion ramosissimae Pignatti 1953
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes centrales
 
 ## Répartition
 

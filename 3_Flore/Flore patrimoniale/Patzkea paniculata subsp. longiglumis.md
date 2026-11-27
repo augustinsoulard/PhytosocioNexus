@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
+* **Famille** : Poaceae
+* **Floraison** : avril-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

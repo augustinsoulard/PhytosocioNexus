@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Floraison** : mai-octobre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Polystichetalia lonchitidis Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles sciaphiles, montagnards-subalpins
+* **Famille** : Dryopteridaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Polystichetalia lonchitidis Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles sciaphiles, montagnards-subalpins
 
 ## Répartition
 

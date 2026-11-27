@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Bupleuro baldensis–Brachypodion distachyi (Braun–Blanquet 1925) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, subméditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Bupleuro baldensis–Brachypodion distachyi (Braun–Blanquet 1925) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, subméditerranéennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Rubion grabowskii–vestiti Royer 2013
-**Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques, centro-européens
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Rubion grabowskii–vestiti Royer 2013
+* **Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques, centro-européens
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

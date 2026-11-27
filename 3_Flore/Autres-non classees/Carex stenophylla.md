@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-mai
-**Type biologique** : hsto(grhi)
-**Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
-**Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
+* **Famille** : Cyperaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Hémicryptophyte stolonifère (à rhizome)
+* **Syntaxon (Baseflor)** : Violion caninae Schwickerath (1941) 1944
+* **Écologie (Baseflor)** : pelouses acidoclines, planitiaires à montagnardes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

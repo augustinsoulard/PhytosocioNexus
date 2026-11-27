@@ -6,13 +6,14 @@ cd_nomv18: 810956
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Lavandulo angustifoliae–Genistion cinereae Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : garides basophiles orophiles, mésohydriques, des préalpes
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Lavandulo angustifoliae–Genistion cinereae Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : garides basophiles orophiles, mésohydriques, des préalpes
 
 ## Statuts
 
@@ -20,7 +21,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

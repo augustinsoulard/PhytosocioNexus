@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
-**Écologie (Baseflor)** : roselières amphibies européennes
+* **Famille** : Typhaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
+* **Écologie (Baseflor)** : roselières amphibies européennes
 
 ## Répartition
 

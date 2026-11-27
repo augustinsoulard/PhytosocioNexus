@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
-**Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
 
 ## Répartition
 

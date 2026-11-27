@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Salicion albae Soó 1930
-**Écologie (Baseflor)** : associations arborescentes de nomades à bois tendres hydrophiles à amphibies sur sols minéraux, médio-européennes (tempérées modales)
+* **Famille** : Salicaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salicion albae Soó 1930
+* **Écologie (Baseflor)** : associations arborescentes de nomades à bois tendres hydrophiles à amphibies sur sols minéraux, médio-européennes (tempérées modales)
 
 ## Répartition
 

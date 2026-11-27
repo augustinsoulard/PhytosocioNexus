@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Salicornion procumbentis (Tüxen 1974) Géhu & Franck 1982
-**Écologie (Baseflor)** : annuelles pionnières hydrophiles à amphibies, des vases maritimes, atlantiques, des haute- et moyenne-slikke
+* **Famille** : Amaranthaceae
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Salicornion procumbentis (Tüxen 1974) Géhu & Franck 1982
+* **Écologie (Baseflor)** : annuelles pionnières hydrophiles à amphibies, des vases maritimes, atlantiques, des haute- et moyenne-slikke
 
 ## Répartition
 

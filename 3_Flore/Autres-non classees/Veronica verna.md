@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sileno conicae–Cerastion semidecandri Korneck 1974 em. de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, centro-européennes
+* **Famille** : Plantaginaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sileno conicae–Cerastion semidecandri Korneck 1974 em. de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, centro-européennes
 
 ## Répartition
 

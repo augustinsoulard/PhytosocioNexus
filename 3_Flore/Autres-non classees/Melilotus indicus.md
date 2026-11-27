@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
 
 ## Répartition
 

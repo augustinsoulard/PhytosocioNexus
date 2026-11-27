@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

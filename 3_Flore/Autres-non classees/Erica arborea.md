@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : mars-mai
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Ericetalia arboreae
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens, acidophiles
+* **Famille** : Ericaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Ericetalia arboreae
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens, acidophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto-suc
-**Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
+* **Famille** : Saxifragaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère succulent
+* **Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
 
 ## Répartition
 

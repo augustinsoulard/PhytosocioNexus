@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Elatinaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Elatino triandrae–Damasonion alismatis de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles méditerranéo-atlantiques
+* **Famille** : Elatinaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Elatino triandrae–Damasonion alismatis de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles méditerranéo-atlantiques
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
+* **Famille** : Apiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
 
 ## Répartition
 

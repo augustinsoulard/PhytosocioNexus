@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
 
 ## Répartition
 

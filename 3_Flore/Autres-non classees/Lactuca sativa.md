@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Tver
-**Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Fumario officinalis–Euphorbion helioscopiae Müller ex Görs 1966
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, mésothermes
 
 ## Répartition
 

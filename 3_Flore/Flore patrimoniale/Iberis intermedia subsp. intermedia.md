@@ -6,19 +6,19 @@ cd_nomv18: 612500
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-octobre
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
+* **Famille** : Brassicaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

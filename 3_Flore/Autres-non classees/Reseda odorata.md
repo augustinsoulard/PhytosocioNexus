@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Resedaceae
+* **Famille** : Resedaceae
 
 ## Répartition
 

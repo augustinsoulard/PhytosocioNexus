@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : juin-août
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
+* **Famille** : Salicaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
 
 ## Répartition
 

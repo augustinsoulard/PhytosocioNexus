@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Linderniaceae
-**Floraison** : août-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
+* **Famille** : Linderniaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
 
 ## Répartition
 

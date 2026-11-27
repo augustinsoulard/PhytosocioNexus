@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Adenostylion alliariae Braun–Blanquet 1926
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles, mésotrophiles, basophiles, des adrets
 
 ## Répartition
 

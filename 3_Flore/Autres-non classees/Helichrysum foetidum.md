@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Sileno uniflorae subsp. uniflorae–Festucion rubrae subsp. pruinosae (Géhu & Géhu–Franck 1984) Géhu in Bardat, Bioret, Botineau, Boullet, Delpech, Géhu, Haury, Lacoste, Rameau, Royer, Roux & Touffet 2004
-**Écologie (Baseflor)** : pelouses aérohalines fermées, des hauts de falaises maritimes atlantiques mieux protégés, souvent sur des replats
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Sileno uniflorae subsp. uniflorae–Festucion rubrae subsp. pruinosae (Géhu & Géhu–Franck 1984) Géhu in Bardat, Bioret, Botineau, Boullet, Delpech, Géhu, Haury, Lacoste, Rameau, Royer, Roux & Touffet 2004
+* **Écologie (Baseflor)** : pelouses aérohalines fermées, des hauts de falaises maritimes atlantiques mieux protégés, souvent sur des replats
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

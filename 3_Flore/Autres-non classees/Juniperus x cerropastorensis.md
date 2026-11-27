@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Pruno prostratae–Juniperion sabinae Rivas Martínez & J.A. Molina in Rivas Martínez, Fernández-González & Loidi 1999
-**Écologie (Baseflor)** : altiméditerranéen inférieur
+* **Famille** : Cupressaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Pruno prostratae–Juniperion sabinae Rivas Martínez & J.A. Molina in Rivas Martínez, Fernández-González & Loidi 1999
+* **Écologie (Baseflor)** : altiméditerranéen inférieur
 
 ## Répartition
 

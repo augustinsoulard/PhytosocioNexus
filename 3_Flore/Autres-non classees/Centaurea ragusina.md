@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Salvietalia rosmarini Braun-Blanquet 1931 em. Julve 1993 prov.
-**Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Salvietalia rosmarini Braun-Blanquet 1931 em. Julve 1993 prov.
+* **Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
 
 ## Répartition
 

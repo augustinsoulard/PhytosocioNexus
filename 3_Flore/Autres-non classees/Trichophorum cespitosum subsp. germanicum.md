@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
-**Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
+* **Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mai-juillet
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Sorbo mougeotii–Lonicerion alpigenae de Foucault 2012
-**Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, des sols stabilisés subalpins
+* **Famille** : Caprifoliaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Sorbo mougeotii–Lonicerion alpigenae de Foucault 2012
+* **Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, des sols stabilisés subalpins
 
 ## Répartition
 

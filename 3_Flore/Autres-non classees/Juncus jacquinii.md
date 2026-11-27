@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
-**Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
+* **Famille** : Juncaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
 
 ## Répartition
 

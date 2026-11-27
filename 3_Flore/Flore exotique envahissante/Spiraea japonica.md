@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
+* **Famille** : Rosaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
 
 ## Répartition
 
@@ -35,7 +35,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

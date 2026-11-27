@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juin
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
+* **Famille** : Poaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
 
 ## Répartition
 

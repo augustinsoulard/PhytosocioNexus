@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hcou
-**Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. australis Braun-Blanquet (1931) 1933 em. Géhu & Géhu-Franck 1988
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles méditerranéennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : hcou
+* **Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. australis Braun-Blanquet (1931) 1933 em. Géhu & Géhu-Franck 1988
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles méditerranéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

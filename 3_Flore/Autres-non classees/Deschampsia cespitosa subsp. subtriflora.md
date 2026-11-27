@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

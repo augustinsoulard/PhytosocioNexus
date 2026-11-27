@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1959
-**Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
+* **Famille** : Asteraceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1959
+* **Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Onopordion gautieri Braun–Blanquet & de Bolòs 1957 corr. Rivas–Martínez 1975
-**Écologie (Baseflor)** : friches xérophiles, supraméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordion gautieri Braun–Blanquet & de Bolòs 1957 corr. Rivas–Martínez 1975
+* **Écologie (Baseflor)** : friches xérophiles, supraméditerranéennes
 
 ## Répartition
 

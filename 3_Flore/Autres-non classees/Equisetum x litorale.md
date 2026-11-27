@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Equisetaceae
+* **Famille** : Equisetaceae
 
 ## Répartition
 

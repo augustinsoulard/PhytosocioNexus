@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
 
 ## Répartition
 

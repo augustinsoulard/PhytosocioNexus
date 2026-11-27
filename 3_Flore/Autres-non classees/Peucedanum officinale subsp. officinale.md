@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Antherico ramosi–Geranietalia sanguinei Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens, mésoxérophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

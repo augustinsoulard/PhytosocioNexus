@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
 
 ## Répartition
 

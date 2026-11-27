@@ -6,18 +6,18 @@ cd_nomv18: 789034
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Arecaceae
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Arecaceae
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : C
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

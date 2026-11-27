@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Verbenaceae
+* **Famille** : Verbenaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -28,4 +28,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

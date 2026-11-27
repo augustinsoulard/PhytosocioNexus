@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
 
 ## Répartition
 

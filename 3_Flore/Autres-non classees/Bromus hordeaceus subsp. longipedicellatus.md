@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

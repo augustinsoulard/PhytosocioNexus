@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Plantaginion crassifoliae Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : jonçaies et parvocariçaies des prés paratourbeux thermoméditerranéens submaritimes
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Plantaginion crassifoliae Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : jonçaies et parvocariçaies des prés paratourbeux thermoméditerranéens submaritimes
 
-**Habitats :** marnicole, héliophile, mésophile, calcicole ([[Glaucion flavi]], [[Molinio arundinaceae-Holoschoenion vulgaris]])
+* **Habitats :** marnicole, héliophile, mésophile, calcicole ([[Glaucion flavi]], [[Molinio arundinaceae-Holoschoenion vulgaris]])
 
 Syn : Dorycnium gracile
 

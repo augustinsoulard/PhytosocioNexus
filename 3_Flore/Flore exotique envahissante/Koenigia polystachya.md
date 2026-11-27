@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Polygonaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -100,7 +100,6 @@ La renouée à épis nombreux est considérée comme une espèce problématique 
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

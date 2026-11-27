@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
-**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
+* **Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

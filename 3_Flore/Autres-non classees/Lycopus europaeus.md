@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
 
 ## Répartition
 

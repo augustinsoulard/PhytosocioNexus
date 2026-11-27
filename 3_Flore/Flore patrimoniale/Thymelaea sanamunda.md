@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : mai-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Salvion rosmarini Braun-Blanquet 1931 ex Molinier 1934
-**Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
+* **Famille** : Thymelaeaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Salvion rosmarini Braun-Blanquet 1931 ex Molinier 1934
+* **Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
 
 ## Répartition
 

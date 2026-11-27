@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
+* **Famille** : Lamiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Knaution dipsacifoliae Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, montagnards
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
 
 ## Répartition
 

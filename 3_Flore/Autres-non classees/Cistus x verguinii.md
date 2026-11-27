@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
+* **Famille** : Cistaceae
 
 ## Répartition
 

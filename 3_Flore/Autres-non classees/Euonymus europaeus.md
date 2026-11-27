@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Celastraceae
-**Floraison** : avril-mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
-**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+* **Famille** : Celastraceae
+* **Floraison** : avril-mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+* **Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
 
 ## Répartition
 

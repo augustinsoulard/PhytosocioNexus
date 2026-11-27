@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Lysimachio nemorum–Saxifragion hirsutae de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies hyperatlantiques
+* **Famille** : Saxifragaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lysimachio nemorum–Saxifragion hirsutae de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies hyperatlantiques
 
 ## Répartition
 

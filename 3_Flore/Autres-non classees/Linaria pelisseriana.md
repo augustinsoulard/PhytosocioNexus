@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
 
 ## Répartition
 

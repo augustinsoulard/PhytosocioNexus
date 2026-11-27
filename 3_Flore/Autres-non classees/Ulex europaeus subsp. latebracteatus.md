@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
+* **Famille** : Fabaceae
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

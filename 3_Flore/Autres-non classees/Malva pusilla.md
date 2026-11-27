@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : mai-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
+* **Famille** : Malvaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sisymbrion officinalis Tüxen, Lohmeyer & Preising in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture grossière
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

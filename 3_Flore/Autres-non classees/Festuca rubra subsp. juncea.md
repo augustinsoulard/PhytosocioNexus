@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Armerio maritimae–Festucetea rubrae subsp. pruinosae Bioret & Géhu 2008
-**Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes atlantico-européennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Armerio maritimae–Festucetea rubrae subsp. pruinosae Bioret & Géhu 2008
+* **Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes atlantico-européennes
 
 ## Répartition
 

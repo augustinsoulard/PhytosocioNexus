@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1949
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Festucion gautieri Braun–Blanquet 1949
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Directive Habitats** : CDH4, CDH2
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

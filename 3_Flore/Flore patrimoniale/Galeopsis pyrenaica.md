@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Galeopsion pyrenaicae Rivas–Martínez 1977
-**Écologie (Baseflor)** : annuelles pionnières des éboulis acidophiles de montagne, pyrénéens à cévenoles
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Galeopsion pyrenaicae Rivas–Martínez 1977
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis acidophiles de montagne, pyrénéens à cévenoles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

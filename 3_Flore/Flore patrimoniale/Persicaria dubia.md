@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juin-octobre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
-**Écologie (Baseflor)** : groupements euro-sibériens annuels des vases fluviatiles
+* **Famille** : Polygonaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
+* **Écologie (Baseflor)** : groupements euro-sibériens annuels des vases fluviatiles
 
 ## Répartition
 

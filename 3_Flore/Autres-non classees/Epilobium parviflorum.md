@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Mentho aquaticae–Juncion inflexi (de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles pâturées, mésothermes, basophiles
+* **Famille** : Onagraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Mentho aquaticae–Juncion inflexi (de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles pâturées, mésothermes, basophiles
 
 ## Répartition
 

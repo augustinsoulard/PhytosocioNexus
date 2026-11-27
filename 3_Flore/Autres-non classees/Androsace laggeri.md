@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : mai-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
+* **Famille** : Primulaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Festucion niphobiae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-pyrénéennes climaciques, chionophobes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Syntaxon (Baseflor)** : Rumicion alpinum Rübel 1933 ex Scharfetter 1938
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, eutrophiles
+* **Famille** : Polygonaceae
+* **Syntaxon (Baseflor)** : Rumicion alpinum Rübel 1933 ex Scharfetter 1938
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, eutrophiles
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE

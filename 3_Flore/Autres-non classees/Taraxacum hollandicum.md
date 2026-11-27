@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

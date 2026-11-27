@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
-**Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
+* **Famille** : Lamiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
+* **Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion elatae Koch 1926
-**Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
+* **Famille** : Dryopteridaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion elatae Koch 1926
+* **Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
-**Écologie (Baseflor)** : annuelles pionnières des éboulis européens
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis européens
 
 ## Répartition
 

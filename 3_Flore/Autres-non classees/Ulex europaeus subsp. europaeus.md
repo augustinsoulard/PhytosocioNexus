@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
+* **Famille** : Fabaceae
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

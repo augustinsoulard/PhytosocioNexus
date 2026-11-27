@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Pontederiaceae
-**Syntaxon (Baseflor)** : Oryzetea sativae Miyawaki 1960
-**Écologie (Baseflor)** : commensales subtropicales des cultures de riz, holarctiques
+* **Famille** : Pontederiaceae
+* **Syntaxon (Baseflor)** : Oryzetea sativae Miyawaki 1960
+* **Écologie (Baseflor)** : commensales subtropicales des cultures de riz, holarctiques
 
 ## Répartition
 

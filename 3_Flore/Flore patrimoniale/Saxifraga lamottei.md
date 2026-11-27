@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Dianthion gratianopolitani Focquet 1982
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines, auvergnates
+* **Famille** : Saxifragaceae
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Dianthion gratianopolitani Focquet 1982
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines, auvergnates
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

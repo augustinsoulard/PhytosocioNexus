@@ -6,12 +6,12 @@ cd_nomv18: 1017918
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Primulaceae
+* **Famille** : Primulaceae
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : S
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE

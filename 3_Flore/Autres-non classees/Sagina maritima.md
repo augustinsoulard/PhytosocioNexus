@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Saginetalia maritimae Westhoff, van Leeuwen & Adriani 1962
-**Écologie (Baseflor)** : annuelles vernales des tonsures subnitrophiles maritimes, arénicoles
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Saginetalia maritimae Westhoff, van Leeuwen & Adriani 1962
+* **Écologie (Baseflor)** : annuelles vernales des tonsures subnitrophiles maritimes, arénicoles
 
 ## Répartition
 

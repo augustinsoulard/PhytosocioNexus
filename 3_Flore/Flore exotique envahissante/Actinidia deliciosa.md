@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Actinidiaceae
-**Type biologique** : a-lia
-**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
-**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+* **Famille** : Actinidiaceae
+* **Type biologique** : Méso-phanérophyte lianescent
+* **Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+* **Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
 
 ## Répartition
 
@@ -34,7 +34,6 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
-**Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Caricion curvulae subsp. curvulae Braun–Blanquet 1925
+* **Écologie (Baseflor)** : pelouses acidophiles alpino-alpiennes climaciques, chionophobes
 
 ## Répartition
 

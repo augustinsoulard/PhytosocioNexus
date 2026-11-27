@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Deschampsio mediae–Molinienion arundinaceae de Foucault 1984
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles, thermophiles, des zones humides s'asséchant l'été en surface
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Deschampsio mediae–Molinienion arundinaceae de Foucault 1984
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles, thermophiles, des zones humides s'asséchant l'été en surface
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
 
 ## Répartition
 

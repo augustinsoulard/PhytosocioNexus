@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Isoetaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
+* **Famille** : Isoetaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 

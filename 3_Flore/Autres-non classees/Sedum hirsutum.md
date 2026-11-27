@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
 
 ## Répartition
 

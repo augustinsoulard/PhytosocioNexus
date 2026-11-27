@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

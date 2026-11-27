@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Caricion caryophylleae var. insularis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supraméditerranéennes, corso-sardes
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Caricion caryophylleae var. insularis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supraméditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

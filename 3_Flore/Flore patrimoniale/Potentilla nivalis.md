@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

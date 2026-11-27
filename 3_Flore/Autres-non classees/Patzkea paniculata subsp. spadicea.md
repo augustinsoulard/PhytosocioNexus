@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Hyperico richeri–Patzkeion paniculatae (Braun–Blanquet 1972) de Foucault 2012
-**Écologie (Baseflor)** : pelouses acidophiles ouvertes, subalpines, des adrets méridionaux
+* **Famille** : Poaceae
+* **Floraison** : avril-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Hyperico richeri–Patzkeion paniculatae (Braun–Blanquet 1972) de Foucault 2012
+* **Écologie (Baseflor)** : pelouses acidophiles ouvertes, subalpines, des adrets méridionaux
 
 ## Répartition
 

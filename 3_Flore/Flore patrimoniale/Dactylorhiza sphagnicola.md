@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juin-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
-**Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Orchidaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Junco acutiflori–Caricetalia nigrae subsp. nigrae (P. Duvigneaud 1949) Julve 1983
+* **Écologie (Baseflor)** : parvocariçaies et jonçaies des tourbières médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

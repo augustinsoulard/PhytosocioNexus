@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Abieto cephalonicae–Pinion nigrae subsp. pallasianae Barbero & Quézel 1976
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes orientales, balcaniques
+* **Famille** : Pinaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Abieto cephalonicae–Pinion nigrae subsp. pallasianae Barbero & Quézel 1976
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes orientales, balcaniques
 
 ## Répartition
 

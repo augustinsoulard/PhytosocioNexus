@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
 
 ## Répartition
 

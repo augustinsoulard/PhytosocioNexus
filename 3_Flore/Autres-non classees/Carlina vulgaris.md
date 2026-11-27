@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Thesio humifusi–Koelerion pyramidatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses des climats atlantique et subatlantique
 
 ## Répartition
 

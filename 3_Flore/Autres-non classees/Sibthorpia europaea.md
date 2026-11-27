@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2018
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Wahlenbergio hederaceae–Sibthorpion europaeae de Foucault 2018
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

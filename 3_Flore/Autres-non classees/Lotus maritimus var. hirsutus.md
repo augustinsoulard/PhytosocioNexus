@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

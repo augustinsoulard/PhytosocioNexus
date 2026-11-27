@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Hypericaceae
-**Floraison** : juin-septembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à mésohygrophiles
+* **Famille** : Hypericaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à mésohygrophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : avril
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Pinetalia halepensis Biondi, Blasi, Galdenzi, Pesaresi & Vagge in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
-**Écologie (Baseflor)** : pinèdes pionnières thermo à mésoméditerranéennes
+* **Famille** : Cupressaceae
+* **Floraison** : avril
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Pinetalia halepensis Biondi, Blasi, Galdenzi, Pesaresi & Vagge in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+* **Écologie (Baseflor)** : pinèdes pionnières thermo à mésoméditerranéennes
 
 ## Répartition
 

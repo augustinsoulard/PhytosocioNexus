@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Bromion racemosi Tüxen in Tüxen & Preising 1951 nn
-**Écologie (Baseflor)** : annuelles hygrophiles des prairies
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Bromion racemosi Tüxen in Tüxen & Preising 1951 nn
+* **Écologie (Baseflor)** : annuelles hygrophiles des prairies
 
 ## Répartition
 

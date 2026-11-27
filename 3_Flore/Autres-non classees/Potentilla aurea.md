@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
 
 ## Répartition
 

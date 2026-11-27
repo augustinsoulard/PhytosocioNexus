@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion viridulo–trinervis (de Foucault 1984) Julve 1989 ex 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, submaritimes, des pannes dunaires atlantiques
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion viridulo–trinervis (de Foucault 1984) Julve 1989 ex 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, submaritimes, des pannes dunaires atlantiques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

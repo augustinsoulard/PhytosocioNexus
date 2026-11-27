@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Lardizabalaceae
-**Type biologique** : a-lia-semp
-**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
-**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+* **Famille** : Lardizabalaceae
+* **Type biologique** : Méso-phanérophyte lianescent sempervirent
+* **Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+* **Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
 
 ## Répartition
 
@@ -37,7 +37,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Sarraceniaceae
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Molinio caeruleae–Eriophorion vaginati subsp. vaginati Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : parvocariçaies des tourbières hautes médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Sarraceniaceae
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Eriophorion vaginati subsp. vaginati Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : parvocariçaies des tourbières hautes médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 
@@ -36,7 +36,6 @@ sources:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

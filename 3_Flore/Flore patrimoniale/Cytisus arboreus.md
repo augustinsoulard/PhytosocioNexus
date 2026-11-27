@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mars-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Ulici europaei–Cytision striati Rivas–Martínez, Bascones, Díaz González, Fernandez–Gonzales & Loidi 1991
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles, mésohydriques, méridionaux
+* **Famille** : Fabaceae
+* **Floraison** : mars-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Ulici europaei–Cytision striati Rivas–Martínez, Bascones, Díaz González, Fernandez–Gonzales & Loidi 1991
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles, mésohydriques, méridionaux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

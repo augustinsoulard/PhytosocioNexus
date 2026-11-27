@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : gtub-par
-**Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Orobanchaceae
+* **Type biologique** : Géophyte à tubercule parasite
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 

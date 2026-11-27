@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Cynancho acuti–Convolvulion sepium Rivas Goday & Rivas–Martínez 1963 ex de Foucault 2011
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

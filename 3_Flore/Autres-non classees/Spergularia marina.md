@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-août
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Armerio maritimae–Juncetalia gerardii Passarge 1999
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles (schorre moyen), atlantiques et baltiques
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Armerio maritimae–Juncetalia gerardii Passarge 1999
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles (schorre moyen), atlantiques et baltiques
 
 ## Répartition
 

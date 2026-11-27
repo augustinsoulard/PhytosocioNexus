@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Resedaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
+* **Famille** : Resedaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

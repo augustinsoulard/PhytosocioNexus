@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Geranio pusilli–Anthriscion caucalidis Rivas–Martínez 1978
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens occidentaux
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Geranio pusilli–Anthriscion caucalidis Rivas–Martínez 1978
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens occidentaux
 
 ## Répartition
 

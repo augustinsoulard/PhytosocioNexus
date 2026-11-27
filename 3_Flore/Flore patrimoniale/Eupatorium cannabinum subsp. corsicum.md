@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Doronicion corsici Gamisans 1977 em. de Foucault & Corriol 2013
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, corso-sardes
 
 ## Répartition
 

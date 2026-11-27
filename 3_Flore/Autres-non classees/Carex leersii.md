@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Fragarion vescae Tüxen 1950
-**Écologie (Baseflor)** : ourlets internes des clairières basophiles médio-européennes, mésohydriques
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Fragarion vescae Tüxen 1950
+* **Écologie (Baseflor)** : ourlets internes des clairières basophiles médio-européennes, mésohydriques
 
 ## Répartition
 

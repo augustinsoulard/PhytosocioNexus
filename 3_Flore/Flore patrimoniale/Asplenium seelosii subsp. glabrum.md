@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenion trichomano–ceterach Ferrez 2009
-**Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles, planitiaires à orophiles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenion trichomano–ceterach Ferrez 2009
+* **Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles, planitiaires à orophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

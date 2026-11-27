@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Crucianellion maritimae Rivas Goday & Rivas–Martínez 1959
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
+* **Famille** : Brassicaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Crucianellion maritimae Rivas Goday & Rivas–Martínez 1959
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
 
 ## Répartition
 

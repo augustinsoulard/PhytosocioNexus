@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Araceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Araceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 

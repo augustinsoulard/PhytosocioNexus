@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

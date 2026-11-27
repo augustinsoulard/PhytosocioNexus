@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
+* **Famille** : Fabaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

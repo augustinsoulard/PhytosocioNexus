@@ -11,19 +11,19 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mars-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
+* **Famille** : Asteraceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
 
-**cd_nom** : 93129
+* **cd_nom** : 93129
 
-**Description** : plante annuelle , mesurant entre 5 et 50 cm de hauteur. Elle ressemble à [[Crepis bursifolia]], mais s’en distingue par une racine plus grêle, des feuilles non glauques, plus fines et moins profondément découpées. Ses capitules portent de nombreuses ligules d’un jaune d’or éclatant.
+* **Description** : plante annuelle , mesurant entre 5 et 50 cm de hauteur. Elle ressemble à [[Crepis bursifolia]], mais s’en distingue par une racine plus grêle, des feuilles non glauques, plus fines et moins profondément découpées. Ses capitules portent de nombreuses ligules d’un jaune d’or éclatant.
 
-**Risques :** Ces impacts sont peu connus. L'espèce est très répandue, mais jamais en formations denses.
+* **Risques :** Ces impacts sont peu connus. L'espèce est très répandue, mais jamais en formations denses.
 
-**Habitats :** Ubiquiste à grande plasticité écologique. On la retrouve dans les friches, pelouses et le long des voies de communication. Depuis les pelouses sèches des [[Lygeo sparti-Stipetea tenacissimae]] jusqu'au prairies des [[Arrhenatheretalia elatioris]], c'est une espèce très répandue.
+* **Habitats :** Ubiquiste à grande plasticité écologique. On la retrouve dans les friches, pelouses et le long des voies de communication. Depuis les pelouses sèches des [[Lygeo sparti-Stipetea tenacissimae]] jusqu'au prairies des [[Arrhenatheretalia elatioris]], c'est une espèce très répandue.
 
 ## Répartition
 

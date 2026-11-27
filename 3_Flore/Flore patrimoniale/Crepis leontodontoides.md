@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juin
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Helichrysetalia italici Biondi & Géhu in Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Helichrysetalia italici Biondi & Géhu in Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles
 
 ## Répartition
 

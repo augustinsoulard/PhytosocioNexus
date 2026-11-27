@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hydrocharitaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test-aqua
-**Syntaxon (Baseflor)** : Najadion marinae Passarge 1978
-**Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux profondes
+* **Famille** : Hydrocharitaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival aquatique
+* **Syntaxon (Baseflor)** : Najadion marinae Passarge 1978
+* **Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux profondes
 
 ## Répartition
 

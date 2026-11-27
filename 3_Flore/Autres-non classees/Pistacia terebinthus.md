@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Anacardiaceae
-**Floraison** : avril-juillet
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : Myrtion communis Allier & Lacoste 1980
-**Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens
+* **Famille** : Anacardiaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Myrtion communis Allier & Lacoste 1980
+* **Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens
 
 ## Répartition
 

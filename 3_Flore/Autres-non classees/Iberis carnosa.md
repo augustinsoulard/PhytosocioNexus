@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juillet-août
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
-**Écologie (Baseflor)** : annuelles pionnières des éboulis européens
+* **Famille** : Brassicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis européens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

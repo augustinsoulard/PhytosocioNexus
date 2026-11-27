@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : b-lia-semp
-**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Nanophanérophyte lianescent sempervirent
+* **Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-juin
-**Type biologique** : test-par
-**Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte estival parasite
+* **Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
 
 ## Répartition
 

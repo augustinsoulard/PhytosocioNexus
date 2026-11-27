@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenietalia ceterach Julve 2014 ord. nov. hoc loco
-**Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenietalia ceterach Julve 2014 ord. nov. hoc loco
+* **Écologie (Baseflor)** : chasmophytes des parois européennes, basophiles
 
 ## Répartition
 

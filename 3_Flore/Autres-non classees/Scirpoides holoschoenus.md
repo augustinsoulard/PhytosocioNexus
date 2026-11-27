@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
-**Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
+* **Famille** : Cyperaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
+* **Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
 
 ## Répartition
 

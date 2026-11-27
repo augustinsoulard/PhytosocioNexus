@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
+* **Famille** : Plantaginaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Agrostio capillaris–Jasionetalia montanae de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles à neutroclines, planitiaires-collinéennes
 
 ## Répartition
 

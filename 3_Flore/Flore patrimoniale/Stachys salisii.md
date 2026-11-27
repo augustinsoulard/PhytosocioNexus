@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
+* **Famille** : Lamiaceae
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT

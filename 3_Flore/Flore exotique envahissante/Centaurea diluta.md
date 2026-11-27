@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Test(Heri)
-**Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Leontodonto tuberosi–Bellidion sylvestris Biondi, Filigheddu & Farris 2001
-**Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
+* **Famille** : Asparagaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Leontodonto tuberosi–Bellidion sylvestris Biondi, Filigheddu & Farris 2001
+* **Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

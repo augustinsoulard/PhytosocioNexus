@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : juin-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Ononidion ramosissimae Pignatti 1953
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes centrales
+* **Famille** : Boraginaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Ononidion ramosissimae Pignatti 1953
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes centrales
 
 ## Répartition
 

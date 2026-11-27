@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Molinio caeruleae–Eriophorion vaginati subsp. vaginati Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : parvocariçaies des tourbières hautes médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Eriophorion vaginati subsp. vaginati Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : parvocariçaies des tourbières hautes médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 

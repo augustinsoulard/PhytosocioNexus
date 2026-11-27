@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Dorycnio recti–Rumicion conglomerati Gradstein & Smittenberg 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Dorycnio recti–Rumicion conglomerati Gradstein & Smittenberg 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, méditerranéennes
 
 ## Répartition
 

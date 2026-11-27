@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Potentilletalia caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, orophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juin-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
+* **Famille** : Orchidaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Loto maritimi–Bromopsenion erectae Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohygroclines, marnicoles, mésothermes
 
 ## Répartition
 

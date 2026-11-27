@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cymodoceaceae
-**Floraison** : avril-octobre
-**Type biologique** : grhi-aqua
-**Syntaxon (Baseflor)** : Cymodoceion nodosae Den Hartog 1976
-**Écologie (Baseflor)** : herbiers marins paléotropicaux
+* **Famille** : Cymodoceaceae
+* **Floraison** : avril-octobre
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Cymodoceion nodosae Den Hartog 1976
+* **Écologie (Baseflor)** : herbiers marins paléotropicaux
 
 ## Répartition
 

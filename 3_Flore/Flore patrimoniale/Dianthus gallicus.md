@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

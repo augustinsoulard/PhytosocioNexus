@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Dennstaedtiaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Pteridion aquilini Lakušić, Pavlović, Abadžić & Grgić 1978
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes
+* **Famille** : Dennstaedtiaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Pteridion aquilini Lakušić, Pavlović, Abadžić & Grgić 1978
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes
 
 ## Répartition
 

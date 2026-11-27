@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Eriophorion scheuchzeri Hadàč 1939
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles alpines à subalpines
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Eriophorion scheuchzeri Hadàč 1939
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles alpines à subalpines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

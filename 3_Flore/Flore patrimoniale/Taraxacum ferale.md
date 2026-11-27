@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
+* **Famille** : Asteraceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : TRES FORT

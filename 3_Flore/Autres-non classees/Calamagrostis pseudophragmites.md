@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
 
 ## Répartition
 

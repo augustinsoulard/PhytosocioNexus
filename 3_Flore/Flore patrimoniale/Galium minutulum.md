@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Ornithopo pinnati–Malcolmion ramosissimae (Rivas Goday 1958) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes, catalano-provençales à corse
+* **Famille** : Rubiaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Ornithopo pinnati–Malcolmion ramosissimae (Rivas Goday 1958) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes, catalano-provençales à corse
 
 ## Répartition
 

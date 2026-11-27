@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : ?
-**Écologie (Baseflor)** : garides basophiles orophiles, mésohydriques, des préalpes
+* **Famille** : Fabaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : ?
+* **Écologie (Baseflor)** : garides basophiles orophiles, mésohydriques, des préalpes
 
 ## Répartition
 

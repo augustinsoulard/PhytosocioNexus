@@ -6,19 +6,19 @@ cd_nomv18: 145373
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
-**Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
+* **Famille** : Gentianaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
+* **Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

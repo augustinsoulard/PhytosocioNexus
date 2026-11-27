@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-août
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Teesdalio nudicaulis–Airenalia praecocis de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes, médio-européennes
 
 ## Répartition
 

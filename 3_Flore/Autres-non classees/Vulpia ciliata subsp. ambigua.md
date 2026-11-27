@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sileno conicae–Vulpion membranaceae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, thermo-atlantiques
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sileno conicae–Vulpion membranaceae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, thermo-atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

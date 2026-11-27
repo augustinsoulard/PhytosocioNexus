@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Atociono rupestris–Sempervivetalia montani de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Atociono rupestris–Sempervivetalia montani de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes
 
 ## Répartition
 

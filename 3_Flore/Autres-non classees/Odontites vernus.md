@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
-**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+* **Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
 
 ## Répartition
 

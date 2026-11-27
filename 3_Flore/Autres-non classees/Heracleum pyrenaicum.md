@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-août
-**Type biologique** : hbis(hces)
-**Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel (cespiteux)
+* **Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

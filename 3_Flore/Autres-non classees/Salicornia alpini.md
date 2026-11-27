@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sarcocornion perennis subsp. alpini (Rivas–Martínez, Lousã, T.E. Diaz, Fernandez–Gonzalez & J.C. Costa 1990) Brullo, Giusso Del Galdo, Minissale, Siracusa & Spampinato 2002
-**Écologie (Baseflor)** : micromangroves de haut-niveau topographique (haut-schorre)
+* **Famille** : Amaranthaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sarcocornion perennis subsp. alpini (Rivas–Martínez, Lousã, T.E. Diaz, Fernandez–Gonzalez & J.C. Costa 1990) Brullo, Giusso Del Galdo, Minissale, Siracusa & Spampinato 2002
+* **Écologie (Baseflor)** : micromangroves de haut-niveau topographique (haut-schorre)
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

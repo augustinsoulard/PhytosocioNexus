@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Noccaeetea rotundifoliae Braun–Blanquet 1947
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Noccaeetea rotundifoliae Braun–Blanquet 1947
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

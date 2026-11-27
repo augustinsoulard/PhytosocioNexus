@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Phleo arenarii–Cerastion diffusi de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, psychro-atlantiques
+* **Famille** : Geraniaceae
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Phleo arenarii–Cerastion diffusi de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, psychro-atlantiques
 
 ## Répartition
 

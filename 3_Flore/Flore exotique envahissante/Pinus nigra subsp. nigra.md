@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : mai-juin
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Abietetalia cephalonico–x borisii–regis de Foucault 2022
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes orientales
+* **Famille** : Pinaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Abietetalia cephalonico–x borisii–regis de Foucault 2022
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes orientales
 
 ## Répartition
 

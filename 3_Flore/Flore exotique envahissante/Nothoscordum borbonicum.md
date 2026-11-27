@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : avril-juin
-**Type biologique** : Gbul
-**Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Amaryllidaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Artemisietea vulgaris Lohmeyer, Preising & Tüxen in Tüxen 1950 ex von Rochow 1951
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

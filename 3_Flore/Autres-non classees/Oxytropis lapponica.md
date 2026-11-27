@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1991
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
+* **Famille** : Fabaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1991
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
 
 ## Répartition
 

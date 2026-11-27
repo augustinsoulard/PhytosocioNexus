@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : avril-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Malvion parviflorae (Rivas–Martínez 1978) Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, vernales
+* **Famille** : Malvaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Malvion parviflorae (Rivas–Martínez 1978) Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, vernales
 
 ## Répartition
 

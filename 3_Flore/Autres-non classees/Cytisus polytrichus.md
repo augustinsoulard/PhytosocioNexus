@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : mai-juin
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Pinion nigrae subsp. salzmannii Julve 2016 all. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, supraméditerranéennes occidentales, dolomiticoles
+* **Famille** : Pinaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Pinion nigrae subsp. salzmannii Julve 2016 all. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, supraméditerranéennes occidentales, dolomiticoles
 
 ## Répartition
 

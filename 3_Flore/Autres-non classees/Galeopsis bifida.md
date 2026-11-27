@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
+* **Famille** : Lamiaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Galio aparines–Alliarion petiolatae Oberdorfer & Lohmeyer in Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, mésohydriques
 
 ## Répartition
 
@@ -20,7 +20,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

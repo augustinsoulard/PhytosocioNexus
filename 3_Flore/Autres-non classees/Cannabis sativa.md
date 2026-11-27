@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cannabaceae
-**Floraison** : juin-septembre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Cannabietalia sativae Golub, Sorokin, Maltsev & Chuvashov 2012
-**Écologie (Baseflor)** : friches d'Europe orientale
+* **Famille** : Cannabaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cannabietalia sativae Golub, Sorokin, Maltsev & Chuvashov 2012
+* **Écologie (Baseflor)** : friches d'Europe orientale
 
 ## Répartition
 

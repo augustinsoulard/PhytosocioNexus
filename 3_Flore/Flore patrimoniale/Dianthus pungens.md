@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Ononidion striatae Braun–Blanquet & Susplugas 1937 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésoxérophiles, des adrets
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

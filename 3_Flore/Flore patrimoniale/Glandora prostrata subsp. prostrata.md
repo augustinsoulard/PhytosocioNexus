@@ -6,19 +6,19 @@ cd_nomv18: 612662
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Boraginaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Ulici minoris–Ericion cinereae Géhu 1975
-**Écologie (Baseflor)** : landes atlantiques mésohydriques à mésoxérophiles
+* **Famille** : Boraginaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Ulici minoris–Ericion cinereae Géhu 1975
+* **Écologie (Baseflor)** : landes atlantiques mésohydriques à mésoxérophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Potentillo argenteae–Artemision absinthii Eliáš (1979) 1980
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Potentillo argenteae–Artemision absinthii Eliáš (1979) 1980
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles
 
 ## Répartition
 

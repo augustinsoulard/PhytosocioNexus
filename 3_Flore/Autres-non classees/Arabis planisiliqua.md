@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
-**Écologie (Baseflor)** : annuelles pionnières des éboulis européens
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis européens
 
 ## Répartition
 

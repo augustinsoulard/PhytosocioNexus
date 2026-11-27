@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaginaceae
-**Floraison** : septembre-décembre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
+* **Famille** : Juncaginaceae
+* **Floraison** : septembre-décembre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

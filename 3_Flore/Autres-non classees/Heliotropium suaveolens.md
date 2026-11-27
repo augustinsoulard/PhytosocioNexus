@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Heliotropiaceae
-**Syntaxon (Baseflor)** : Chenopodion muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, estivales, mésohydriques
+* **Famille** : Heliotropiaceae
+* **Syntaxon (Baseflor)** : Chenopodion muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, estivales, mésohydriques
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
+* **Famille** : Gentianaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion davallianae Klika 1934
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses centro-européennes à boréomontagnardes, basophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

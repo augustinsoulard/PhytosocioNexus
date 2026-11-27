@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : janvier-décembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Valantio muralis–Galion muralis Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, xérophiles, méso- à subméditerranéens centraux
+* **Famille** : Euphorbiaceae
+* **Floraison** : janvier-décembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Valantio muralis–Galion muralis Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, xérophiles, méso- à subméditerranéens centraux
 
 ## Répartition
 

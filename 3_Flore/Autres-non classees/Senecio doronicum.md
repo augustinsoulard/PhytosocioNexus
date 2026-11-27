@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Agrostio capillaris–Seslerion caeruleae (Béguin 1972) Prunier, Greulich, Béguin, Boissezon, Delarze, Hegg, Klötlzi, Pantke, Steffen, Steiger, Vittoz, Sanz, Van Es & Corriol in Corriol, Sanz & Van Es 2023
-**Écologie (Baseflor)** : pelouses neutroclines subalpines, alpiennes, mésohydriques
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Agrostio capillaris–Seslerion caeruleae (Béguin 1972) Prunier, Greulich, Béguin, Boissezon, Delarze, Hegg, Klötlzi, Pantke, Steffen, Steiger, Vittoz, Sanz, Van Es & Corriol in Corriol, Sanz & Van Es 2023
+* **Écologie (Baseflor)** : pelouses neutroclines subalpines, alpiennes, mésohydriques
 
 ## Répartition
 

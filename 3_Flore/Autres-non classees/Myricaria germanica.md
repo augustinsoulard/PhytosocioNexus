@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Tamaricaceae
-**Floraison** : mai-juillet
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Myricarion germanicae Rübel 1933
-**Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, montagnards
+* **Famille** : Tamaricaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Myricarion germanicae Rübel 1933
+* **Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, montagnards
 
 ## Répartition
 

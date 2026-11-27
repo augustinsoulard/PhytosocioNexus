@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Mercurialion perennis Gillet 1986 prov.
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, planitiaires à montagnards, méso-oligotrophiles, des adrets
+* **Famille** : Orchidaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Mercurialion perennis Gillet 1986 prov.
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, planitiaires à montagnards, méso-oligotrophiles, des adrets
 
 ## Répartition
 

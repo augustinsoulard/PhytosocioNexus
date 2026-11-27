@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-juillet
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Glycyrrhizetalia glabrae Golub & Mirkin in Golub 1995
-**Écologie (Baseflor)** : steppes prairiales sur sols salinisés
+* **Famille** : Fabaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Glycyrrhizetalia glabrae Golub & Mirkin in Golub 1995
+* **Écologie (Baseflor)** : steppes prairiales sur sols salinisés
 
 ## Répartition
 

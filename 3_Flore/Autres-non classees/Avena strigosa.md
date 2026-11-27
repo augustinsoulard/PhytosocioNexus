@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
 
 ## Répartition
 

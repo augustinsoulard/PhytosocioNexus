@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
 
 ## Répartition
 

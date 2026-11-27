@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Lathyro sylvestris subsp. pyrenaici–Anthemidion triumfettii Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles orophiles, pyrénéo-auvergnats mésoxérophiles, oligotrophiles
+* **Famille** : Orchidaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Lathyro sylvestris subsp. pyrenaici–Anthemidion triumfettii Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles orophiles, pyrénéo-auvergnats mésoxérophiles, oligotrophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

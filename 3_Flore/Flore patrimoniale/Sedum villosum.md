@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : hbis-suc
-**Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
-**Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Hémicryptophyte bisannuel succulent
+* **Syntaxon (Baseflor)** : Cardamino amarae–Montion fontanae Braun-Blanquet 1925
+* **Écologie (Baseflor)** : microphorbiaies des sources acidophiles, héliophiles, médioeuropéennes
 
 ## Répartition
 

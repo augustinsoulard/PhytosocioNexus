@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : juin-juillet
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Cisto salvifolii–Lavanduletea stoechadis (Braun-Blanquet in Braun-Blanquet, Molinier & Wagner 1940) Julve 1993 prov.
-**Écologie (Baseflor)** : chaméphytaies méditerranéennes acidophiles
+* **Famille** : Cistaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Cisto salvifolii–Lavanduletea stoechadis (Braun-Blanquet in Braun-Blanquet, Molinier & Wagner 1940) Julve 1993 prov.
+* **Écologie (Baseflor)** : chaméphytaies méditerranéennes acidophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

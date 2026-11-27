@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion elatae Koch 1926
-**Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion elatae Koch 1926
+* **Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

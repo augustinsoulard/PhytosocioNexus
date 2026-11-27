@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
+* **Famille** : Apiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

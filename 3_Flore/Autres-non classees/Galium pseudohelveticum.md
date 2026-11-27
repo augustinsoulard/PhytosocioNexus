@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
-**Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
+* **Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
+* **Famille** : Brassicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
 
 ## Répartition
 

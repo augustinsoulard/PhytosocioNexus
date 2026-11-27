@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
+* **Famille** : Geraniaceae
 
 ## Répartition
 

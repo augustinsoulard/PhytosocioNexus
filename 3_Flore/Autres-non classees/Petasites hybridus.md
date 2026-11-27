@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Petasition hybridi Sillinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, montagnardes, médio-européennes plutôt orientales
+* **Famille** : Asteraceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Petasition hybridi Sillinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, montagnardes, médio-européennes plutôt orientales
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Moraceae
-**Floraison** : juin
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σA Aceri sacchari–Fagetea grandifoliae Julve 2019 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques caducifoliées malacophylles des forêts du tempéré modal nord-est américain
+* **Famille** : Moraceae
+* **Floraison** : juin
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Aceri sacchari–Fagetea grandifoliae Julve 2019 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques caducifoliées malacophylles des forêts du tempéré modal nord-est américain
 
 ## Répartition
 

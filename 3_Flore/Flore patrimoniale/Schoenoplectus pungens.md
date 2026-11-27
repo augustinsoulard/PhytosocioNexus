@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
-**Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
+* **Famille** : Cyperaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
+* **Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
 
 ## Répartition
 

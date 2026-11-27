@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Betulaceae
-**Floraison** : mai
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Ledetalia palustris Nordhagen 1936
-**Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
+* **Famille** : Betulaceae
+* **Floraison** : mai
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ledetalia palustris Nordhagen 1936
+* **Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

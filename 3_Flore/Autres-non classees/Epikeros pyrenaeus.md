@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Bistorto officinalis–Juncenion acutiflori de Foucault & Géhu 1980
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantico-montagnards
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Bistorto officinalis–Juncenion acutiflori de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantico-montagnards
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Saxifragion pedemontanae Barbero & Bono 1971
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, ligures
+* **Famille** : Caryophyllaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Saxifragion pedemontanae Barbero & Bono 1971
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, ligures
 
 ## Répartition
 

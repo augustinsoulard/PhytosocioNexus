@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : juillet-septembre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
+* **Famille** : Amaryllidaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Gageo pratensis–Allion schoenoprasi Passarge 1964
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésohydriques, commensales des cultures
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

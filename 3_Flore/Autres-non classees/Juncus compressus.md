@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
-**Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
+* **Famille** : Juncaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
+* **Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
 
 ## Répartition
 

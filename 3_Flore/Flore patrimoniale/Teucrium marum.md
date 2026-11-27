@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
-**Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
+* **Famille** : Lamiaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
+* **Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
 
 ## Répartition
 

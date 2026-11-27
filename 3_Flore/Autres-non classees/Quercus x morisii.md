@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Floraison** : avril-mai
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa Quercion suberis de Foucault & Julve 1991
-**Écologie (Baseflor)** : bois méso- à supraméditerranéens sempervirents, occidentaux, acidophiles
+* **Famille** : Fagaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Quercion suberis de Foucault & Julve 1991
+* **Écologie (Baseflor)** : bois méso- à supraméditerranéens sempervirents, occidentaux, acidophiles
 
 ## Répartition
 

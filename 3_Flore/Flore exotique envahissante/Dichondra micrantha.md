@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
-**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
+* **Famille** : Convolvulaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
+* **Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
 
 ## Répartition
 

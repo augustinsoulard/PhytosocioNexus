@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Trocdarido verticillati–Juncenion acutiflori de Foucault & Géhu 1980
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques, planitiaires, thermophiles à mésothermophiles
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Trocdarido verticillati–Juncenion acutiflori de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques, planitiaires, thermophiles à mésothermophiles
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

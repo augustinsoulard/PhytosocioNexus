@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juillet-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1988
-**Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
+* **Famille** : Gentianaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Caricetea rupestri–myosuroidis Ohba 1988
+* **Écologie (Baseflor)** : pelouses basophiles arctico-alpines climaciques, chionophobes, holarctiques
 
 ## Répartition
 

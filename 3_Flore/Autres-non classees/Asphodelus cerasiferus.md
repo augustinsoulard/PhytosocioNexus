@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Floraison** : mars-juillet
-**Type biologique** : Gtub(Grhi)
-**Syntaxon (Baseflor)** : Asphodelion fistulosi Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
-**Écologie (Baseflor)** : friches xérophiles
+* **Famille** : Asphodelaceae
+* **Floraison** : mars-juillet
+* **Type biologique** : Géophyte à tubercule (à rhizome)
+* **Syntaxon (Baseflor)** : Asphodelion fistulosi Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
+* **Écologie (Baseflor)** : friches xérophiles
 
 ## Répartition
 

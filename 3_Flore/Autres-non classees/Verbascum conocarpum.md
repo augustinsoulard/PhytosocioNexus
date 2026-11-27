@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1961
-**Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1961
+* **Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

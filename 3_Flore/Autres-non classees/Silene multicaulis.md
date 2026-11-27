@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Syntaxon (Baseflor)** : Sedo alpestris–Phleion parviceptis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des ubacs corso-sardes
+* **Famille** : Caryophyllaceae
+* **Syntaxon (Baseflor)** : Sedo alpestris–Phleion parviceptis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles oroméditerranéennes, des ubacs corso-sardes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

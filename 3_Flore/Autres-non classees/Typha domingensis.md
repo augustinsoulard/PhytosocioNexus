@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Typhaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
-**Écologie (Baseflor)** : magnoroselières méridionales
+* **Famille** : Typhaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Typhion laxmannii Losev & Golub 1988
+* **Écologie (Baseflor)** : magnoroselières méridionales
 
 ## Répartition
 

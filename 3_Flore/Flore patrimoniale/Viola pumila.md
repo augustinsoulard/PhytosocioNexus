@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
-**Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
+* **Famille** : Violaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Kadenion dubiae Balátová–Tulačková 1965
+* **Écologie (Baseflor)** : prairies hydrophiles, centro-européennes
 
 ## Répartition
 

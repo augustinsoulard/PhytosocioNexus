@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
-**Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
+* **Famille** : Gentianaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
+* **Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
 
 ## Répartition
 

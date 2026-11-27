@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Onopordion castellani Braun-Blanquet & O. de Bolòs 1958 corr. Rivas Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : friches méditerranéennes occidentales
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordion castellani Braun-Blanquet & O. de Bolòs 1958 corr. Rivas Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : friches méditerranéennes occidentales
 
 ## Répartition
 

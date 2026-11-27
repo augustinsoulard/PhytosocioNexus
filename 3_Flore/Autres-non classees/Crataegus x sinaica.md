@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
+* **Famille** : Rosaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
 
 ## Répartition
 

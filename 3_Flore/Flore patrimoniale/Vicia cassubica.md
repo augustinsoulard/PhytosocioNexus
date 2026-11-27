@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-juillet
-**Type biologique** : hsto-lia
-**Syntaxon (Baseflor)** : Knautio arvensis–Agrimonion eupatoriae Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, planitiaires-collinéens
+* **Famille** : Fabaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte stolonifère lianescent
+* **Syntaxon (Baseflor)** : Knautio arvensis–Agrimonion eupatoriae Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, planitiaires-collinéens
 
 ## Répartition
 

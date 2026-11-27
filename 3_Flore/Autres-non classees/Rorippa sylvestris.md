@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Rorippion sylvestris Julve 2006 all. nov. hoc loco
-**Écologie (Baseflor)** : prairies hydrophiles surpiétinées, mésothermes
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Rorippion sylvestris Julve 2006 all. nov. hoc loco
+* **Écologie (Baseflor)** : prairies hydrophiles surpiétinées, mésothermes
 
 ## Répartition
 

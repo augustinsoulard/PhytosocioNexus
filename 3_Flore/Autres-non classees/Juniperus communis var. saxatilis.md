@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : juin-juillet
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Juniperion communis subsp. nanae Braun–Blanquet in Braun–Blanquet, Sissingh & Vlieger 1939
-**Écologie (Baseflor)** : landines alpines à subalpines, des adrets, chionophobes
+* **Famille** : Cupressaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Juniperion communis subsp. nanae Braun–Blanquet in Braun–Blanquet, Sissingh & Vlieger 1939
+* **Écologie (Baseflor)** : landines alpines à subalpines, des adrets, chionophobes
 
 ## Répartition
 

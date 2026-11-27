@@ -7,7 +7,7 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
+* **Famille** : Poaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT

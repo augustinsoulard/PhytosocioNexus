@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-septembre
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Myrto communis–Ericetalia scopariae Paradis & Pozzo di Borgo 2005
-**Écologie (Baseflor)** : matorrals d'arbrisseaux méditerranéens, acidophiles
+* **Famille** : Fabaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Myrto communis–Ericetalia scopariae Paradis & Pozzo di Borgo 2005
+* **Écologie (Baseflor)** : matorrals d'arbrisseaux méditerranéens, acidophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Potamogetonion pusilli Wiegleb ex Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
-**Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux peu profondes
+* **Famille** : Potamogetonaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Potamogetonion pusilli Wiegleb ex Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
+* **Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux peu profondes
 
 ## Répartition
 

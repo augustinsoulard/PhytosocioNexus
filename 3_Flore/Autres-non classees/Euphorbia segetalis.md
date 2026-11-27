@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-octobre
-**Type biologique** : test(heri)
-**Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-octobre
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Diplotaxion erucoidis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936 em. Brullo & Marcenò 1980
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles, méditerranéennes
 
 ## Répartition
 

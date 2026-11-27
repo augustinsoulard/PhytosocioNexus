@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. sardoi Gamisans 1989
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, corso-sardes
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. sardoi Gamisans 1989
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens, acidophiles, orophiles, corso-sardes
 
 ## Répartition
 

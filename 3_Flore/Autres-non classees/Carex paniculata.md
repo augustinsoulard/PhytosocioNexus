@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
-**Écologie (Baseflor)** : magnocariçaies européennes
+* **Famille** : Cyperaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
+* **Écologie (Baseflor)** : magnocariçaies européennes
 
 ## Répartition
 

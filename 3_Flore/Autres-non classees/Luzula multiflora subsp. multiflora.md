@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mai-juin
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
+* **Famille** : Juncaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
 
 ## Répartition
 
@@ -20,7 +20,6 @@ date_maj: "2026-11-26"
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rutaceae
-**Floraison** : mai-juillet
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Dictamno albi–Ferulagion galbaniferae (van Gils, Keysers & Launsdach 1975) de Foucault, Rameau & Royer 1983 ex Čarni & Dengler in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
-**Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, balkaniques à alpiens méridionaux, mésoxérophiles, mésotrophiles
+* **Famille** : Rutaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Dictamno albi–Ferulagion galbaniferae (van Gils, Keysers & Launsdach 1975) de Foucault, Rameau & Royer 1983 ex Čarni & Dengler in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
+* **Écologie (Baseflor)** : ourlets externes basophiles à grandes herbes, balkaniques à alpiens méridionaux, mésoxérophiles, mésotrophiles
 
 ## Répartition
 

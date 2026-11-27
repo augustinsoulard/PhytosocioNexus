@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Molluginaceae
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Centaurio pulchelli–Blackstonion perfoliatae (Müller–Stoll & Pietsch 1965 apud Pietsch 1973) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures mésohygrophiles, basophiles
+* **Famille** : Molluginaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Centaurio pulchelli–Blackstonion perfoliatae (Müller–Stoll & Pietsch 1965 apud Pietsch 1973) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures mésohygrophiles, basophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,9 +10,9 @@ sources:
 
 ## Description
 
-**Famille** : Salviniaceae
-**Syntaxon (Baseflor)** : Lemnetea minoris Tüxen 1953 ex O. de Bolòs & Masclans 1955
-**Écologie (Baseflor)** : voiles de lentilles aquatiques, annuelles, libres, flottantes en surface, holarctiques
+* **Famille** : Salviniaceae
+* **Syntaxon (Baseflor)** : Lemnetea minoris Tüxen 1953 ex O. de Bolòs & Masclans 1955
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques, annuelles, libres, flottantes en surface, holarctiques
 
 ## D'après INVMED (consulté en 2026)
 
@@ -105,4 +105,3 @@ Un envahissement par la salvinie géante peut atteindre une biomasse de 400 tonn
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

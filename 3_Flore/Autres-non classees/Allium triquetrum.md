@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : mars-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Allion triquetri O. de Bolòs 1967
-**Écologie (Baseflor)** : ourlets mésohydriques, eutrophiles, méditerranéens
+* **Famille** : Amaryllidaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Allion triquetri O. de Bolòs 1967
+* **Écologie (Baseflor)** : ourlets mésohydriques, eutrophiles, méditerranéens
 
 ## Répartition
 

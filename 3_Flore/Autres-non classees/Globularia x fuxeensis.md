@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
+* **Famille** : Plantaginaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD

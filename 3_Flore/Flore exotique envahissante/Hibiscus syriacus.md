@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Malvaceae
+* **Famille** : Malvaceae
 
 ## Répartition
 

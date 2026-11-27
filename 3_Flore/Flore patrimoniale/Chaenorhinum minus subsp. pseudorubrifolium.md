@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Galeopsion segetum Oberdorfer 1957
-**Écologie (Baseflor)** : annuelles pionnières des éboulis planitiaires
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Galeopsion segetum Oberdorfer 1957
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis planitiaires
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

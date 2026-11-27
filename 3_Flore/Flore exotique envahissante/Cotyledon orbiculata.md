@@ -10,8 +10,8 @@ sources:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : c-suc
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 

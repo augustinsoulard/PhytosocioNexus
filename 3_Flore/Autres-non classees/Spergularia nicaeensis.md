@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juin
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

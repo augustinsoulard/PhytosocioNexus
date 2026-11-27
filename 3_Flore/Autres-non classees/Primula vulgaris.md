@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Violo rivinianae–Stellarion holosteae Passarge 1994
-**Écologie (Baseflor)** : ourlets externes acidoclines vernaux, atlantiques
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Violo rivinianae–Stellarion holosteae Passarge 1994
+* **Écologie (Baseflor)** : ourlets externes acidoclines vernaux, atlantiques
 
 ## Répartition
 

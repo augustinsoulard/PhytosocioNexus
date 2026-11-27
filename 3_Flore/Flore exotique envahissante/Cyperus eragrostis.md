@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
-**Écologie (Baseflor)** : prairies hygrophiles, subtropicales
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Paspalo distichi–Polypogonion viridis Braun–Blanquet 1951
+* **Écologie (Baseflor)** : prairies hygrophiles, subtropicales
 
 ## Répartition
 

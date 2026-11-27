@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Puccinellion fasciculatae Rivas–Martínez in Rivas–Martínez & Costa 1976
-**Écologie (Baseflor)** : prés salés arrière-littoraux
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Puccinellion fasciculatae Rivas–Martínez in Rivas–Martínez & Costa 1976
+* **Écologie (Baseflor)** : prés salés arrière-littoraux
 
 ## Répartition
 

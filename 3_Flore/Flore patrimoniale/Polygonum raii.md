@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juin-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Atriplici laciniatae–Salsolion kali (Tüxen 1950) Géhu 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, européo-atlantiques
+* **Famille** : Polygonaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Atriplici laciniatae–Salsolion kali (Tüxen 1950) Géhu 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, européo-atlantiques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Androsacion argenteae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, alpiennes
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Androsacion argenteae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines à alpines, alpiennes
 
 ## Répartition
 

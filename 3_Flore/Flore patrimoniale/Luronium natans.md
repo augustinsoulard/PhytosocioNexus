@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Junco bulbosi écoph. stagnophile–Potamogetonion polygonifolii Passarge 1996
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, dystrophiles organiques
+* **Famille** : Alismataceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Junco bulbosi écoph. stagnophile–Potamogetonion polygonifolii Passarge 1996
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, dystrophiles organiques
 
 ## Répartition
 

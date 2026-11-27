@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Salicetea purpureae subsp. purpureae Moor 1958
-**Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, planitiaires à montagnards
+* **Famille** : Salicaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salicetea purpureae subsp. purpureae Moor 1958
+* **Écologie (Baseflor)** : buissons d'arbrisseaux des sols minéraux, hydrophiles, planitiaires à montagnards
 
 ## Répartition
 

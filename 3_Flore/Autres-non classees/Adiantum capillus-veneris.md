@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Adiantetea capilli–veneris Braun–Blanquet in Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : chasmophytes des balmes ombragées humides, téthyennes
+* **Famille** : Pteridaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Adiantetea capilli–veneris Braun–Blanquet in Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : chasmophytes des balmes ombragées humides, téthyennes
 
 ## Répartition
 

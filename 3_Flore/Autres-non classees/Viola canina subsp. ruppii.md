@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Junco conglomerati–Molinienion caeruleae (Westhoff in Westhoff & den Held 1969) de Foucault & Géhu 1980
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, planitiaires, psychro-atlantiques à centro-européens
+* **Famille** : Violaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Junco conglomerati–Molinienion caeruleae (Westhoff in Westhoff & den Held 1969) de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, planitiaires, psychro-atlantiques à centro-européens
 
 ## Répartition
 

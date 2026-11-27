@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Carici distichae–Oenanthion fistulosae (de Foucault 1984) Julve 1993 prov.
-**Écologie (Baseflor)** : prairies hydrophiles psychro-atlantiques à continentales
+* **Famille** : Cyperaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Carici distichae–Oenanthion fistulosae (de Foucault 1984) Julve 1993 prov.
+* **Écologie (Baseflor)** : prairies hydrophiles psychro-atlantiques à continentales
 
 ## Répartition
 

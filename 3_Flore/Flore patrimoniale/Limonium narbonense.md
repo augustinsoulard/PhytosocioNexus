@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
 
 ## Répartition
 

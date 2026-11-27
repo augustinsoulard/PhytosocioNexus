@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

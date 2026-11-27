@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
-**Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
+* **Famille** : Rubiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Potentillo montanae–Brachypodion rupestris Braun–Blanquet 1967 corr. Rivas–Martínez, Diaz, Fernandez–Gonzalez, Izco, Loidi, Lousã & Penas 2002
+* **Écologie (Baseflor)** : pelouses basophiles mésohydriques, mésothermes, basques
 
 ## Répartition
 

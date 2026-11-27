@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
 
 ## Répartition
 

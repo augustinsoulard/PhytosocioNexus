@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cucurbitaceae
-**Type biologique** : Gtub-lia
-**Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
+* **Famille** : Cucurbitaceae
+* **Type biologique** : Géophyte à tubercule lianescent
+* **Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

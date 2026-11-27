@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
 
 ## Répartition
 

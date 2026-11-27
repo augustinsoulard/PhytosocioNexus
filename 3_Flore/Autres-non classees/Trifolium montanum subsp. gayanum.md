@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Mesobromopsion erectae Braun–Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales (subatlantiques), mésohydriques à mésohygroclines, mésothermes
+* **Famille** : Fabaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Mesobromopsion erectae Braun–Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales (subatlantiques), mésohydriques à mésohygroclines, mésothermes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

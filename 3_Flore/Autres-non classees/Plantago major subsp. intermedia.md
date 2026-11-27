@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-novembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Mentho pulegii–Plantaginion majoris subsp. pleiospermae Julve (1993) 2003 nom. nov. hoc loco
-**Écologie (Baseflor)** : prairies hydrophiles, médio-européennes, pâturées à surpiétinées
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-novembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Mentho pulegii–Plantaginion majoris subsp. pleiospermae Julve (1993) 2003 nom. nov. hoc loco
+* **Écologie (Baseflor)** : prairies hydrophiles, médio-européennes, pâturées à surpiétinées
 
 ## Répartition
 

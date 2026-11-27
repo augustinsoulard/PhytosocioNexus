@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mars-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
+* **Famille** : Brassicaceae
+* **Floraison** : mars-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
-**Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
+* **Famille** : Poaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
+* **Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
 
 ## Répartition
 

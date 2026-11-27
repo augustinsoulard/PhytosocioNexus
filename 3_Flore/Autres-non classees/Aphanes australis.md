@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : avril-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
+* **Famille** : Rosaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Tuberarietalia guttatae Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940 em. Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, mésothermes à thermophiles
 
 ## Répartition
 

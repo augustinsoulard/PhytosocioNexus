@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juillet
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
+* **Famille** : Fabaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
 
 ## Répartition
 

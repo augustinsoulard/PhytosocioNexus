@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : mai-juin
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Ulici minoris–Ericion cinereae Géhu 1975
-**Écologie (Baseflor)** : landes atlantiques mésohydriques à mésoxérophiles
+* **Famille** : Cistaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Ulici minoris–Ericion cinereae Géhu 1975
+* **Écologie (Baseflor)** : landes atlantiques mésohydriques à mésoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

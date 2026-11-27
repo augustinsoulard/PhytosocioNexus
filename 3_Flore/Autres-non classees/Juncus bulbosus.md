@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Isoeto lacustris–Littorelletea uniflorae Braun–Blanquet & Vlieger in Vlieger 1937
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, laurasiennes
+* **Famille** : Juncaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Isoeto lacustris–Littorelletea uniflorae Braun–Blanquet & Vlieger in Vlieger 1937
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, laurasiennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juillet
-**Type biologique** : gbul-par
-**Syntaxon (Baseflor)** : Ononidion cristatae Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses des adrets montagnards supérieurs des alpes méridionales
+* **Famille** : Orobanchaceae
+* **Floraison** : juillet
+* **Type biologique** : Géophyte à bulbe parasite
+* **Syntaxon (Baseflor)** : Ononidion cristatae Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses des adrets montagnards supérieurs des alpes méridionales
 
 ## Répartition
 

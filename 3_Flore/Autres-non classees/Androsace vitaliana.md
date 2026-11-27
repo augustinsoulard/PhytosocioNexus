@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : juin-août
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Androsacetalia alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles, acidophiles
+* **Famille** : Primulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Androsacetalia alpinae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles, acidophiles
 
 ## Répartition
 

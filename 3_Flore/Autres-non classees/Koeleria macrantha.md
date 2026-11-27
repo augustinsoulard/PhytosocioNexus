@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
 
 ## Répartition
 

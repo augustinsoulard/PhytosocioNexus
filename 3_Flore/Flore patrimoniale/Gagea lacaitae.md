@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : avril-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
+* **Famille** : Liliaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Ononidetalia striatae Braun–Blanquet 1949 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supra à oroméditerranéennes, nevado-illyriennes
 
 ## Répartition
 

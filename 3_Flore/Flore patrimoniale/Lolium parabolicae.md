@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Saginion maritimae Westhoff, van Leeuwen & Adriani 1962
-**Écologie (Baseflor)** : annuelles vernales des tonsures subnitrophiles maritimes, arénicoles, psychrophiles, atlantiques
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Saginion maritimae Westhoff, van Leeuwen & Adriani 1962
+* **Écologie (Baseflor)** : annuelles vernales des tonsures subnitrophiles maritimes, arénicoles, psychrophiles, atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

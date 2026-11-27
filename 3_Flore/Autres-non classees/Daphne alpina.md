@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : avril-juin
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Potentillion caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, subalpins à montagnards, alpiens et auvergnat
+* **Famille** : Thymelaeaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Potentillion caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, subalpins à montagnards, alpiens et auvergnat
 
 ## Répartition
 

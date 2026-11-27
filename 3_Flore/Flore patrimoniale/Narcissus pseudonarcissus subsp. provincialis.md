@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
+* **Famille** : Amaryllidaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
 
 ## Répartition
 

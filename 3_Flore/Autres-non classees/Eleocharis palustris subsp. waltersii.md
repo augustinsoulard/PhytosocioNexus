@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Equisetion fluviatilis Passarge 1999
-**Écologie (Baseflor)** : parvoroselières amphibies, pionnières de bords d'étangs et de mares méso-oligotrophiles
+* **Famille** : Cyperaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Equisetion fluviatilis Passarge 1999
+* **Écologie (Baseflor)** : parvoroselières amphibies, pionnières de bords d'étangs et de mares méso-oligotrophiles
 
 ## Répartition
 

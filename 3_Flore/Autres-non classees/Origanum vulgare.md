@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
-**Écologie (Baseflor)** : ourlets basophiles médio-européens
+* **Famille** : Lamiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens
 
 ## Répartition
 

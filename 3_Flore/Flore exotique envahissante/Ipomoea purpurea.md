@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Type biologique** : Test-lia
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Convolvulaceae
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

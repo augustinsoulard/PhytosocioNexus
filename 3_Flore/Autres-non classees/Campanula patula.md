@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : mai-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
+* **Famille** : Campanulaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
 
 ## Répartition
 

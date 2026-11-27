@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Platanaceae
+* **Famille** : Platanaceae
 
 ## Répartition
 

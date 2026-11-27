@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cystopteridion fragilis (Nordhagen 1936) Richard 1972
-**Écologie (Baseflor)** : chasmophytes de parois européennes, basophiles, sciaphiles, psychrophiles, médio-européennes
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cystopteridion fragilis (Nordhagen 1936) Richard 1972
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, basophiles, sciaphiles, psychrophiles, médio-européennes
 
 ## Répartition
 

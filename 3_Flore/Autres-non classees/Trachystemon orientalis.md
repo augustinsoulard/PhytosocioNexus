@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cardamino amarae–Chrysosplenietalia alternifolii Hinterlang 1992 ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
+* **Famille** : Boraginaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cardamino amarae–Chrysosplenietalia alternifolii Hinterlang 1992 ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes acidophiles, sciatolérantes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

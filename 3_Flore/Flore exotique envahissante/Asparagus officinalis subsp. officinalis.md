@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Falcario vulgaris–Poion pratensis subsp. angustifoliae Passarge 1989
-**Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
+* **Famille** : Asparagaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Falcario vulgaris–Poion pratensis subsp. angustifoliae Passarge 1989
+* **Écologie (Baseflor)** : friches vivaces rudérales pionnières, mésoxérophiles à mésohydriques, médio-européennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juin
-**Type biologique** : hbis(tver)
-**Syntaxon (Baseflor)** : Smyrnion olusatri Rivas Goday 1964
-**Écologie (Baseflor)** : friches bisannuelles euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Asteraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte bisannuel (vernal)
+* **Syntaxon (Baseflor)** : Smyrnion olusatri Rivas Goday 1964
+* **Écologie (Baseflor)** : friches bisannuelles euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 

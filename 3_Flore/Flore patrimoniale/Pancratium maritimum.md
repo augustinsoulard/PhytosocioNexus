@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : juillet-septembre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
-**Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
+* **Famille** : Amaryllidaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Crucianelletalia maritimae Sissingh 1974
+* **Écologie (Baseflor)** : végétation vivace des arrière-dunes maritimes subfixées, méditerranéennes occidentales
 
 ## Répartition
 

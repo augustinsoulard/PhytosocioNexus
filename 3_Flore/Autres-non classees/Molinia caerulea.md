@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
 
 ## Répartition
 

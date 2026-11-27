@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Asplenietea trichomanis Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : chasmophytes des parois européennes
+* **Famille** : Campanulaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Asplenietea trichomanis Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : chasmophytes des parois européennes
 
 ## Répartition
 

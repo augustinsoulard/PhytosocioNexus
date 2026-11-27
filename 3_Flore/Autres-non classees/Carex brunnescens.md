@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Eriophorion scheuchzeri Hadàč 1939
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles alpines à subalpines
+* **Famille** : Cyperaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Eriophorion scheuchzeri Hadàč 1939
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles alpines à subalpines
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

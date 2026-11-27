@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Rubetalia plicati Weber ex Pott 1995
-**Écologie (Baseflor)** : ronciers de clairières acidophiles médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Rubetalia plicati Weber ex Pott 1995
+* **Écologie (Baseflor)** : ronciers de clairières acidophiles médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 

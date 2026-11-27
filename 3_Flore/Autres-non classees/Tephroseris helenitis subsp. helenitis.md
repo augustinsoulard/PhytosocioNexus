@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Tephroserido integrifoliae–Platantherion chloranthae Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets marnicoles, mésohygrophiles, planitiaires-collinéens à montagnards
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

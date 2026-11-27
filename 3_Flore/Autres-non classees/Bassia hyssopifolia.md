@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Suaedion splendentis (Braun–Blanquet 1931) Julve 1992 ex 1993
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer vasicoles, méditerranéennes
+* **Famille** : Amaranthaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Suaedion splendentis (Braun–Blanquet 1931) Julve 1992 ex 1993
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer vasicoles, méditerranéennes
 
 ## Répartition
 

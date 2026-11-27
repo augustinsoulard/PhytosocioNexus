@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
-**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+* **Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

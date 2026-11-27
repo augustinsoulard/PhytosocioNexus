@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Violaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
+* **Famille** : Violaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
 
 ## Répartition
 

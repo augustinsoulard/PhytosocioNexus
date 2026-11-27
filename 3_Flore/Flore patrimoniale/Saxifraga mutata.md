@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
+* **Famille** : Saxifragaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Viburnaceae
-**Floraison** : mai-juin
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Salici cinereae–Viburnion opuli (Passarge 1985) de Foucault 1991
-**Écologie (Baseflor)** : buissons arbustifs planitiaires à montagnards, hygrophiles, basophiles, mésotrophiles
+* **Famille** : Viburnaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salici cinereae–Viburnion opuli (Passarge 1985) de Foucault 1991
+* **Écologie (Baseflor)** : buissons arbustifs planitiaires à montagnards, hygrophiles, basophiles, mésotrophiles
 
 ## Répartition
 

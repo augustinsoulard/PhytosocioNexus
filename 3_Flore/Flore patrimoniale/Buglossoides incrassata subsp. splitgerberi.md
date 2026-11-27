@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Bupleuro baldensis–Brachypodion distachyi (Braun–Blanquet 1925) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, subméditerranéennes
+* **Famille** : Boraginaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bupleuro baldensis–Brachypodion distachyi (Braun–Blanquet 1925) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, subméditerranéennes
 
 ## Répartition
 

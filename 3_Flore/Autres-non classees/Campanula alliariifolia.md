@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
+* **Famille** : Campanulaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrimonio eupatoriae–Trifolietalia medii Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, mésotrophiles, médio-européens
 
 ## Répartition
 

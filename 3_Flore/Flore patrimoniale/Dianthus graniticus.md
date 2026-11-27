@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Dianthion gratianopolitani Focquet 1982
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines, auvergnates
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Dianthion gratianopolitani Focquet 1982
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines, auvergnates
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

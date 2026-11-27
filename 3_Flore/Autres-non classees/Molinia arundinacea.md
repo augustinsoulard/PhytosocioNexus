@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
+* **Famille** : Poaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
 
 ## Répartition
 

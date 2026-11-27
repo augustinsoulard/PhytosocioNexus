@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
+* **Famille** : Ranunculaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
 
 ## Répartition
 

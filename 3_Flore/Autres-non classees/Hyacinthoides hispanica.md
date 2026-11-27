@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : avril-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
+* **Famille** : Asparagaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Solanaceae
-**Floraison** : mai-septembre
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Malvion neglectae (Gutte 1972) Hejný 1978
-**Écologie (Baseflor)** : friches annuelles estivales à autumnales, centro-européennes
+* **Famille** : Solanaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Malvion neglectae (Gutte 1972) Hejný 1978
+* **Écologie (Baseflor)** : friches annuelles estivales à autumnales, centro-européennes
 
 ## Répartition
 

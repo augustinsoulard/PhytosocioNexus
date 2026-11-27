@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Calluno vulgaris–Vaccinietea myrtilli (Braun–Blanquet, Sissingh & Vlieger 1939) de Foucault 1990
-**Écologie (Baseflor)** : landes circumboréales à montagnardes-subalpines
+* **Famille** : Ericaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Vaccinietea myrtilli (Braun–Blanquet, Sissingh & Vlieger 1939) de Foucault 1990
+* **Écologie (Baseflor)** : landes circumboréales à montagnardes-subalpines
 
 ## Répartition
 

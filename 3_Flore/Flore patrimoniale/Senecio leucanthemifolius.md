@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
-**Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
+* **Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
 
 ## Répartition
 

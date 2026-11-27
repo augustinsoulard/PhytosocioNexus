@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

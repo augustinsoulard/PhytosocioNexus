@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-octobre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Andryaletalia ragusinae Rivas Goday 1964 ex Rivas Goday & Esteve 1972
-**Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières euryméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Andryaletalia ragusinae Rivas Goday 1964 ex Rivas Goday & Esteve 1972
+* **Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières euryméditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

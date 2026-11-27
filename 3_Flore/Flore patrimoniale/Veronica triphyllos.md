@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mars-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Alysso alyssoidis–Veronicion praecocis Passarge 1977
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, centro-européennes
+* **Famille** : Plantaginaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Alysso alyssoidis–Veronicion praecocis Passarge 1977
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques, centro-européennes
 
 ## Répartition
 

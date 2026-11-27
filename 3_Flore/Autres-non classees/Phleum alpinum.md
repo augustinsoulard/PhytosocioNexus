@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Salicetea herbaceae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses arctico-alpines climaciques, chionophiles, mésohygrophiles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Salicetea herbaceae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses arctico-alpines climaciques, chionophiles, mésohygrophiles
 
 ## Répartition
 

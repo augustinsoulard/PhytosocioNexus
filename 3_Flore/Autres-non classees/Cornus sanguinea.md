@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cornaceae
-**Floraison** : mai-juin
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
-**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+* **Famille** : Cornaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+* **Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
 
 ## Répartition
 

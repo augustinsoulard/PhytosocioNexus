@@ -6,18 +6,18 @@ cd_nomv18: 611470
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Rosaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables basophiles, européennes
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables basophiles, européennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : EN
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

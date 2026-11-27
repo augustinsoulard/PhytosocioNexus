@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Mutellino adonidifoliae–Luzulion desvauxii Michalet & Philippe 1994
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, acidophiles, des ubacs
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Mutellino adonidifoliae–Luzulion desvauxii Michalet & Philippe 1994
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, hygrophiles mésotrophiles, acidophiles, des ubacs
 
 ## Répartition
 

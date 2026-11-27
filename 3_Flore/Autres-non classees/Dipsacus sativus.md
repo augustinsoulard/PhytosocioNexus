@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-août
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
 
 ## Répartition
 

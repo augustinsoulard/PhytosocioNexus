@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Araceae
+* **Famille** : Araceae
 
 ## Répartition
 

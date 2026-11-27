@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Genistion lobelii René Molinier 1934
-**Écologie (Baseflor)** : garides basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées ibéro-provençales
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Genistion lobelii René Molinier 1934
+* **Écologie (Baseflor)** : garides basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées ibéro-provençales
 
 ## Répartition
 

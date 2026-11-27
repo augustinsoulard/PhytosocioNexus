@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Isoetaceae
-**Floraison** : mai-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Isoetetea longissimae (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies, oligotrophiles, euryméditerranéennes
+* **Famille** : Isoetaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Isoetetea longissimae (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Anisantho sterilis–Cardaminetalia hirsutae de Foucault 2009
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, médio-européens, planitiaires
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Anisantho sterilis–Cardaminetalia hirsutae de Foucault 2009
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, médio-européens, planitiaires
 
 ## Répartition
 

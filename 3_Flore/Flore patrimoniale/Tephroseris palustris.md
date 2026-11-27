@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
-**Écologie (Baseflor)** : parvoroselières circumboréales pionnières
+* **Famille** : Asteraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Oenanthetalia aquaticae Hejný in Kopecký & Hejný 1965
+* **Écologie (Baseflor)** : parvoroselières circumboréales pionnières
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
-**Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
+* **Famille** : Onagraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Nasturtietea officinalis Zohary 1973
+* **Écologie (Baseflor)** : cressonnières flottantes amphibies, holarctiques
 
 ## Répartition
 

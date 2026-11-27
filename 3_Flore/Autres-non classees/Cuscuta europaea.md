@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : juin-septembre
-**Type biologique** : Test-lia-par
-**Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
-**Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
+* **Famille** : Convolvulaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Convolvulion sepium Tüxen 1947
+* **Écologie (Baseflor)** : mégaphorbiaies eutrophisées, planitiaires, médio-européennes plutôt occidentales
 
 ## Répartition
 

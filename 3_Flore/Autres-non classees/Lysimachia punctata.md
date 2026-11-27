@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Lythro salicariae–Filipenduletalia ulmariae (Passarge 1988) Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésoeutrophiles
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lythro salicariae–Filipenduletalia ulmariae (Passarge 1988) Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésoeutrophiles
 
 ## Répartition
 

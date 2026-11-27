@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Bistorto officinalis–Juncenion acutiflori de Foucault & Géhu 1980
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantico-montagnards
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Bistorto officinalis–Juncenion acutiflori de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantico-montagnards
 
 ## Répartition
 

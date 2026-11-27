@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
 
 ## Répartition
 

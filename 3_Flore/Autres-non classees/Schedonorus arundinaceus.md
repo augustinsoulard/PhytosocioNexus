@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
 
 ## Répartition
 

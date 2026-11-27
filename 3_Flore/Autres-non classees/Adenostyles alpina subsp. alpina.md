@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Adenostylion alpinae Castelli, Biondi & Ballelli 2001 ex Castelli, Biondi & Ballelli in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+* **Famille** : Asteraceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Adenostylion alpinae Castelli, Biondi & Ballelli 2001 ex Castelli, Biondi & Ballelli in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
 
 ## Répartition
 

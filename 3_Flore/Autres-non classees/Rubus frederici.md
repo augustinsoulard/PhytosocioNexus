@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Syntaxon (Baseflor)** : Rubetalia plicati Weber ex Pott 1995
-**Écologie (Baseflor)** : ronciers de clairières acidophiles médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Syntaxon (Baseflor)** : Rubetalia plicati Weber ex Pott 1995
+* **Écologie (Baseflor)** : ronciers de clairières acidophiles médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

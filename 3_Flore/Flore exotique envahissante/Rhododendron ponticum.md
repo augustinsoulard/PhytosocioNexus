@@ -10,9 +10,9 @@ sources:
 
 ## Description
 
-**Famille** : Ericaceae
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Vaccinio arctostaphyli–Rhododendrion pontici de Foucault 2021
+* **Famille** : Ericaceae
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Vaccinio arctostaphyli–Rhododendrion pontici de Foucault 2021
 
 ## Répartition
 
@@ -80,7 +80,6 @@ Il faut exercer une pression permanente et assidue sur l’espèce de manière �
 
 * **Indigénat (TAXREF v18)** : J
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

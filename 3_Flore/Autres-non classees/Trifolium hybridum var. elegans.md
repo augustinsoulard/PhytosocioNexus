@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Loto tenuis–Lolienalia arundinacei subsp. arundinacei Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, européennes, thermophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Test(Hbis)
-**Syntaxon (Baseflor)** : Smyrnion olusatri Rivas Goday 1964
-**Écologie (Baseflor)** : friches bisannuelles euryméditerranéennes, héliophiles, mésohydriques
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Smyrnion olusatri Rivas Goday 1964
+* **Écologie (Baseflor)** : friches bisannuelles euryméditerranéennes, héliophiles, mésohydriques
 
 ## Répartition
 

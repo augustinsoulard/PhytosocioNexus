@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mars-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Rosaceae
+* **Floraison** : mars-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Malcolmietalia lacerae Rivas Goday 1958
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : mai-juin
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Armerio maritimae–Festucetea rubrae subsp. pruinosae Bioret & Géhu 2008
-**Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes atlantico-européennes
+* **Famille** : Plumbaginaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Armerio maritimae–Festucetea rubrae subsp. pruinosae Bioret & Géhu 2008
+* **Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes atlantico-européennes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

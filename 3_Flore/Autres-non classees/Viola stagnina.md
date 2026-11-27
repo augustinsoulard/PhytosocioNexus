@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
-**Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
+* **Famille** : Violaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Carici vulpinae–Eleocharitenalia palustris subsp. palustris Julve 1993
+* **Écologie (Baseflor)** : prairies hydrophiles médio-européennes, mésothermes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

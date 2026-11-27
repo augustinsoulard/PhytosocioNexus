@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricion viridulo–trinervis (de Foucault 1984) Julve 1989 ex 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, submaritimes, des pannes dunaires atlantiques
+* **Famille** : Ericaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion viridulo–trinervis (de Foucault 1984) Julve 1989 ex 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, submaritimes, des pannes dunaires atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

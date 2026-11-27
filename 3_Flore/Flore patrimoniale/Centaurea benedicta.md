@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : avril-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures basophiles
+* **Famille** : Asteraceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Papaveretalia rhoeadis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures basophiles
 
-**Habitats :** Taxon rudéral instable des ejunes friches et des moissons [[Roemerion hybridae]], préférent les terrains sableux.
+* **Habitats :** Taxon rudéral instable des ejunes friches et des moissons [[Roemerion hybridae]], préférent les terrains sableux.
 
 ## Répartition
 

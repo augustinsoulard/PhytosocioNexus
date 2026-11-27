@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Anemono nemorosae–Caricetea sylvaticae Gillet 1986 em. Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, planitiaires à montagnards
 
 ## Répartition
 

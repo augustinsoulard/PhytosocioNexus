@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Oxalidaceae
-**Type biologique** : test(hsto)
-**Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
+* **Famille** : Oxalidaceae
+* **Type biologique** : Thérophyte estival (stolonifère)
+* **Syntaxon (Baseflor)** : Matricario discoideae–Polygonion avicularis subsp. depressi (Braun–Blanquet 1931) Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, sur substrats sableux à limoneux
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
-**Type biologique** : test-lia
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Solanaceae
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

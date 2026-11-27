@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
 
 ## Répartition
 

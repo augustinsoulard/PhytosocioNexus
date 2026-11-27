@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Saxifragion pedemontanae Barbero & Bono 1968
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, ligures
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Saxifragion pedemontanae Barbero & Bono 1968
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines-alpines, ligures
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

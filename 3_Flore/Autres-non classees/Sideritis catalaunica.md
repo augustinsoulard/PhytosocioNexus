@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Syntaxon (Baseflor)** : Festucion gautieri subsp. scopariae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
+* **Famille** : Lamiaceae
+* **Syntaxon (Baseflor)** : Festucion gautieri subsp. scopariae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohydriques
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-juin
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
+* **Famille** : Rubiaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietalia onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

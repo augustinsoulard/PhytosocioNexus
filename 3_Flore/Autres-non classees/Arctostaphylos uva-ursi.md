@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : avril-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Juniperion communis subsp. nanae Braun–Blanquet in Braun–Blanquet, Sissingh & Vlieger 1939
-**Écologie (Baseflor)** : landines alpines à subalpines, des adrets, chionophobes
+* **Famille** : Ericaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Juniperion communis subsp. nanae Braun–Blanquet in Braun–Blanquet, Sissingh & Vlieger 1939
+* **Écologie (Baseflor)** : landines alpines à subalpines, des adrets, chionophobes
 
 ## Répartition
 

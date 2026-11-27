@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
-**Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Globularion cordifoliae Allier & Ritter 1971
+* **Écologie (Baseflor)** : pelouses basophiles sub/supraméditerranéennes, mésohydriques, des ubacs provençaux
 
 ## D'après INVMED (consulté en 2026)
 
@@ -33,7 +33,6 @@ sources:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

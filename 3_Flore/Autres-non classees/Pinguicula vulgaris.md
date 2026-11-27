@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
+* **Famille** : Lentibulariaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
 
 ## Répartition
 

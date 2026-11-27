@@ -10,9 +10,9 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Amorphion fruticosae auct. ukr.
+* **Famille** : Fabaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Amorphion fruticosae auct. ukr.
 
 ## Répartition
 

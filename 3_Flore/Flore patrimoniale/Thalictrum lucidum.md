@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
 
 ## Répartition
 

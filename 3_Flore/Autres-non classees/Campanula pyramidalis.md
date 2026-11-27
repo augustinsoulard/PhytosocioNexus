@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
-**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+* **Famille** : Campanulaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Parietarietea judaicae Oberdorfer 1977
+* **Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
 
 ## Répartition
 

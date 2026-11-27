@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenion cuneifolii Braun–Blanquet & Tüxen 1943 nn
-**Écologie (Baseflor)** : chasmophytes de parois européennes, serpentinicoles
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenion cuneifolii Braun–Blanquet & Tüxen 1943 nn
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, serpentinicoles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : CR
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

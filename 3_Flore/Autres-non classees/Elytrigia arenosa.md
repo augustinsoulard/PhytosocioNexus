@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Elytrigietalia acutae Géhu 1968
-**Écologie (Baseflor)** : végétation halonitrophile, mésohygrophile, des bordures estuariennes
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Elytrigietalia acutae Géhu 1968
+* **Écologie (Baseflor)** : végétation halonitrophile, mésohygrophile, des bordures estuariennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Calamagrostion arundinaceae (Luquet 1926) Oberdorfer 1950
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, acidophiles, occidentales
 
 ## Répartition
 

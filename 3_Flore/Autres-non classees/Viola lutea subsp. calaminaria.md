@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : hbis(csuf)
-**Syntaxon (Baseflor)** : Violetalia calaminariae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : pelouses métallicoles médio-européennes
+* **Famille** : Violaceae
+* **Type biologique** : Hémicryptophyte bisannuel (suffrutescent)
+* **Syntaxon (Baseflor)** : Violetalia calaminariae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : pelouses métallicoles médio-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

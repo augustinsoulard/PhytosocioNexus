@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
-**Écologie (Baseflor)** : friches halophiles littorales, thermophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
+* **Écologie (Baseflor)** : friches halophiles littorales, thermophiles
 
 ## Répartition
 

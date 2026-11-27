@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test-lia-par
-**Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
-**Écologie (Baseflor)** : annuelles commensales des cultures
+* **Famille** : Convolvulaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
+* **Écologie (Baseflor)** : annuelles commensales des cultures
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Hyperico perforati–Ferulion communis Vicente & Galan 2008
-**Écologie (Baseflor)** : friches mésohydriques, mésoeutrophiles, méditerranéennes
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Hyperico perforati–Ferulion communis Vicente & Galan 2008
+* **Écologie (Baseflor)** : friches mésohydriques, mésoeutrophiles, méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

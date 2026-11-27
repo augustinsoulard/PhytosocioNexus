@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Aceri opali–Quercion pubescentis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés basophiles, mésoxérophiles, méso-oligotrophiles, planitiaires-collinéens à subméditerranéens
+* **Famille** : Fagaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Aceri opali–Quercion pubescentis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés basophiles, mésoxérophiles, méso-oligotrophiles, planitiaires-collinéens à subméditerranéens
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -6,18 +6,18 @@ cd_nomv18: 139441
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Rosaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
-**Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
+* **Famille** : Rosaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
+* **Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

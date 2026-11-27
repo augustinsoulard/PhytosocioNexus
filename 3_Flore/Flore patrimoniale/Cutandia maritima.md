@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Ononido variegatae–Cutandietea maritimae de Foucault & Géhu in de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, maritimes, thermoméditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Ononido variegatae–Cutandietea maritimae de Foucault & Géhu in de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, maritimes, thermoméditerranéennes
 
 ## Répartition
 

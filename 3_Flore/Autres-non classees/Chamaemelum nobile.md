@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Lepidio squamati–Polygonetea avicularis subsp. depressi Lohmeyer 1970
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Poo perconcinnae–Sedion montani Royer & Ferrez 2018
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, montagnardes, centro-européennes
 
 ## Répartition
 

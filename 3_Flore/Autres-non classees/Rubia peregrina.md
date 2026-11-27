@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : Hsto-lia
-**Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietea onopteridis de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte stolonifère lianescent
+* **Syntaxon (Baseflor)** : Rubio peregrinae–Asplenietea onopteridis de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés, méditerranéens
 
 Sous-espèce : [[Rubia peregrina subsp. peregrina]]
 

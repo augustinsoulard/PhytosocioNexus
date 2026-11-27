@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juin-octobre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. australis Braun-Blanquet (1931) 1933 em. Géhu & Géhu-Franck 1988
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles méditerranéennes
+* **Famille** : Polygonaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. australis Braun-Blanquet (1931) 1933 em. Géhu & Géhu-Franck 1988
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles méditerranéennes
 
 ## Répartition
 

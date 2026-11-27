@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenion marini Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
-**Écologie (Baseflor)** : pelouses aérohalines ouvertes, chasmophytiques, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenion marini Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Écologie (Baseflor)** : pelouses aérohalines ouvertes, chasmophytiques, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
 
 ## Répartition
 

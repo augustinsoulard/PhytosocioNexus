@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

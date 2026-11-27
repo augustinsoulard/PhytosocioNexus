@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : juin-septembre
-**Type biologique** : test-lia-par
-**Syntaxon (Baseflor)** : Anthyllidion hermanniae Klein 1972
-**Écologie (Baseflor)** : landes oroméditerranéennes, corses
+* **Famille** : Convolvulaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Anthyllidion hermanniae Klein 1972
+* **Écologie (Baseflor)** : landes oroméditerranéennes, corses
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

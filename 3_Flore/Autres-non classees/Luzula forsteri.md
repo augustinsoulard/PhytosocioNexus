@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mars-mai
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Luzulion forsteri Julve 2006 all. nov. hoc loco
-**Écologie (Baseflor)** : sous-bois herbacés acidophiles, planitiaires-collinéens, subatlantiques à subméditerranéens, mésothermes à thermophiles
+* **Famille** : Juncaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Luzulion forsteri Julve 2006 all. nov. hoc loco
+* **Écologie (Baseflor)** : sous-bois herbacés acidophiles, planitiaires-collinéens, subatlantiques à subméditerranéens, mésothermes à thermophiles
 
 ## Répartition
 

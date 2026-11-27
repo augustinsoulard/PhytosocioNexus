@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Viburnaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
-**Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
+* **Famille** : Viburnaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
+* **Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
 
 ## Répartition
 

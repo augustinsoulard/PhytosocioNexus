@@ -6,13 +6,13 @@ tags:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
 
-**Habitats :** Espèces basophile des lieux temporairement inondés ([[Deschampsion mediae]]).
+* **Habitats :** Espèces basophile des lieux temporairement inondés ([[Deschampsion mediae]]).
 
 ## Répartition
 

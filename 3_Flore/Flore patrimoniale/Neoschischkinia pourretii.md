@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juin
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Neoschischkinion pourretii Rivas Goday 1958
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Neoschischkinion pourretii Rivas Goday 1958
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, méditerranéennes
 
 ## Répartition
 

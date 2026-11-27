@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Anacardiaceae
+* **Famille** : Anacardiaceae
 
 ## Répartition
 

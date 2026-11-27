@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crypsio alopecuroidis–Cyperion micheliani Pietsch & Müller–Stoll 1968
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subméditerranéennes, mésotrophiles
 
 ## Répartition
 

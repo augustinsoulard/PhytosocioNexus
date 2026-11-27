@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
-**Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
+* **Famille** : Rosaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
+* **Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
 
 ## Répartition
 

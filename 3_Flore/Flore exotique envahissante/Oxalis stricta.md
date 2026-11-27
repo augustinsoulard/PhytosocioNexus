@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Oxalidaceae
-**Floraison** : juin-octobre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Oxalidaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

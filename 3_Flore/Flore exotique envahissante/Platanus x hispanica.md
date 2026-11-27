@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Platanaceae
-**Floraison** : avril-mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Fraxino excelsioris–Alnetalia glutinosae Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés hygrophiles à amphibies
+* **Famille** : Platanaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Fraxino excelsioris–Alnetalia glutinosae Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés hygrophiles à amphibies
 
 ## Répartition
 

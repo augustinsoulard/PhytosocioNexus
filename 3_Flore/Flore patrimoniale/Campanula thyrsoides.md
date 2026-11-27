@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juillet-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Calamagrostion variae Sillinger 1932 em. Hadàč & al. 1969
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, basophiles, héliophiles
+* **Famille** : Campanulaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Calamagrostion variae Sillinger 1932 em. Hadàč & al. 1969
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, basophiles, héliophiles
 
 ## Répartition
 

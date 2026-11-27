@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Onopordetalia acanthii Braun-Blanquet & Tüxen 1943 ex Klika in Klika & Hadàč 1944
-**Écologie (Baseflor)** : friches armées monocarpiques, xérophiles, mésothermophiles, médio-européennes
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordetalia acanthii Braun-Blanquet & Tüxen 1943 ex Klika in Klika & Hadàč 1944
+* **Écologie (Baseflor)** : friches armées monocarpiques, xérophiles, mésothermophiles, médio-européennes
 
 ## Répartition
 

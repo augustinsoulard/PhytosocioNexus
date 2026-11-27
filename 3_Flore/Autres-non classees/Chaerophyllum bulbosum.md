@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hbis(Gtub)
-**Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
-**Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
+* **Famille** : Apiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (à tubercule)
+* **Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
+* **Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

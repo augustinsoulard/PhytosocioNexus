@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Caricetalia curvulae subsp. curvulae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses acidophiles alpines climaciques, chionophobes
+* **Famille** : Primulaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Caricetalia curvulae subsp. curvulae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses acidophiles alpines climaciques, chionophobes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

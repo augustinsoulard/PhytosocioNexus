@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Achilleo ptarmicae subsp. ptarmicae–Cirsion palustris Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, acidophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Achilleo ptarmicae subsp. ptarmicae–Cirsion palustris Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, acidophiles
 
 ## Répartition
 

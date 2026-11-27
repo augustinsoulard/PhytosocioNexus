@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Bolboschoenion yagaro–laticarpi Delcoigne & Thébaud 2018
+* **Famille** : Cyperaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Bolboschoenion yagaro–laticarpi Delcoigne & Thébaud 2018
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

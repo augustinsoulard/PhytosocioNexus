@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Verbenaceae
-**Floraison** : juin-octobre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Menthion cervinae Braun–Blanquet 1931 ex Moor 1937
-**Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, pâturées
+* **Famille** : Verbenaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Menthion cervinae Braun–Blanquet 1931 ex Moor 1937
+* **Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, pâturées
 
 ## Répartition
 

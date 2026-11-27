@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
+* **Famille** : Pinaceae
 
 ## Répartition
 

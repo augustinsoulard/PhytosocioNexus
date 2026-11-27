@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
-**Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Drabion hoppeanae Zollitsch 1968
+* **Écologie (Baseflor)** : Gprts vivaces des éboulis fins stabilisés sur schistes calcareux et moraines des étages alpin et nival
 
 ## Répartition
 

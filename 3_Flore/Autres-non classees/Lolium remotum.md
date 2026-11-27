@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Limonion avei Brullo 1988
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, centroméditerranéennes
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Limonion avei Brullo 1988
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, centroméditerranéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

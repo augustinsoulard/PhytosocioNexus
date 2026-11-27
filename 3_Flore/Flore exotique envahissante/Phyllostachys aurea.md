@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
-**Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
+* **Famille** : Poaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Phyllostachyetea nigro–viridis Julve 2024 cla. nov. prov. hoc loco
+* **Écologie (Baseflor)** : Bambouseraies mésohygrophiles de Chine
 
 ## Répartition
 

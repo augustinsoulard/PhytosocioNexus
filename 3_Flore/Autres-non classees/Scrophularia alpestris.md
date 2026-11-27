@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Arunco dioici–Petasition albi Braun–Blanquet & Sutter 1977
-**Écologie (Baseflor)** : mégaphorbiaies montagnardes d'éboulis fins, mésohydriques, méso-oligotrophiles, basophiles, hémisciaphiles
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Arunco dioici–Petasition albi Braun–Blanquet & Sutter 1977
+* **Écologie (Baseflor)** : mégaphorbiaies montagnardes d'éboulis fins, mésohydriques, méso-oligotrophiles, basophiles, hémisciaphiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

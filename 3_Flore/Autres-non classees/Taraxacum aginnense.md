@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
 
 ## Répartition
 

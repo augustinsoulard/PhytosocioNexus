@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
 
 ## Répartition
 

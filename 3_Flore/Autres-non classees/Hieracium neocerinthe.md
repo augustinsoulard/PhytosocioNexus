@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Sedion brevifolio–anglici (Tüxen ex Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas in T.E. Díaz & Fernández Prieto 1994) de Foucault 2021
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Pyrénées
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : janvier-mars
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
-**Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
+* **Famille** : Ericaceae
+* **Floraison** : janvier-mars
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Cytision scoparii subsp. scoparii Tüxen apud Preising 1949
+* **Écologie (Baseflor)** : buissons d'arbrisseaux pionniers, acidophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

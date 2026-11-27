@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : avril-juin
-**Type biologique** : Hbis(Csuf)
-**Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
-**Écologie (Baseflor)** : friches halophiles littorales, thermophiles
+* **Famille** : Malvaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte bisannuel (suffrutescent)
+* **Syntaxon (Baseflor)** : Brassico oleraceae–Malvetalia arboreae Rivas–Martínez 2011
+* **Écologie (Baseflor)** : friches halophiles littorales, thermophiles
 
 ## Répartition
 

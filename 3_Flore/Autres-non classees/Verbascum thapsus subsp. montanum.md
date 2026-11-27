@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-novembre
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-novembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
 
 ## Répartition
 

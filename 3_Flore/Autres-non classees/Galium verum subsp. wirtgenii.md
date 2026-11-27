@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
-**Écologie (Baseflor)** : ourlets basophiles médio-européens
+* **Famille** : Rubiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Trifolio medii–Geranietea sanguinei Müller 1962
+* **Écologie (Baseflor)** : ourlets basophiles médio-européens
 
 ## Répartition
 

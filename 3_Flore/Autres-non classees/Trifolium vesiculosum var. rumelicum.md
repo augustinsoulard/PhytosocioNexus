@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Syntaxon (Baseflor)** : Frankenion pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, d'optimum catalano-provençales, arénicoles
+* **Famille** : Fabaceae
+* **Syntaxon (Baseflor)** : Frankenion pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, d'optimum catalano-provençales, arénicoles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Saxifragetalia aizoidis Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes neutrophiles, héliophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Syntaxon (Baseflor)** : Taeniathero capitis–medusae–Aegilopion geniculatae Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles, thermo- à mésoméditerranéennes
+* **Famille** : Brassicaceae
+* **Syntaxon (Baseflor)** : Taeniathero capitis–medusae–Aegilopion geniculatae Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles, thermo- à mésoméditerranéennes
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

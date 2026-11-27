@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Aristolochiaceae
-**Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
+* **Famille** : Aristolochiaceae
+* **Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Salicetea bicolori–lapponum Julve 2003 class. nov. hoc loco
-**Écologie (Baseflor)** : arbrisseaux hydrophiles, boréaux à subalpins
+* **Famille** : Salicaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salicetea bicolori–lapponum Julve 2003 class. nov. hoc loco
+* **Écologie (Baseflor)** : arbrisseaux hydrophiles, boréaux à subalpins
 
 ## Répartition
 

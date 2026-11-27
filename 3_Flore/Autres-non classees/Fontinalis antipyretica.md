@@ -7,9 +7,8 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fontinalaceae
+* **Famille** : Fontinalaceae
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Astragalo incani–Festucion cinereae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses calcicoles xérophiles, montagnardes, du sud-est de la France
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Astragalo incani–Festucion cinereae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses calcicoles xérophiles, montagnardes, du sud-est de la France
 
 ## Répartition
 

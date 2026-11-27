@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
+* **Famille** : Cyperaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

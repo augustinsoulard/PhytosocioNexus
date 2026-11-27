@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Puccinellion maritimae Christiansen 1927 em. Tüxen 1937
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hydrophiles du schorre inférieur
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Puccinellion maritimae Christiansen 1927 em. Tüxen 1937
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hydrophiles du schorre inférieur
 
 ## Répartition
 

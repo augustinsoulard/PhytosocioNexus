@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : août-octobre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
+* **Famille** : Asparagaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

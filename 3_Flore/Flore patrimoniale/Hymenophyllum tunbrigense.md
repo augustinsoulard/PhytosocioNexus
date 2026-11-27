@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hymenophyllaceae
-**Floraison** : juillet-novembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Hymenophyllion tunbrigensis Tüxen in Tüxen & Oberdorfer 1958
-**Écologie (Baseflor)** : chasmophytes de parois acidophiles hyperocéaniques
+* **Famille** : Hymenophyllaceae
+* **Floraison** : juillet-novembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Hymenophyllion tunbrigensis Tüxen in Tüxen & Oberdorfer 1958
+* **Écologie (Baseflor)** : chasmophytes de parois acidophiles hyperocéaniques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ date_maj: "2026-11-26"
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

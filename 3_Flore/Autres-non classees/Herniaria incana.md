@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
 
 ## Répartition
 

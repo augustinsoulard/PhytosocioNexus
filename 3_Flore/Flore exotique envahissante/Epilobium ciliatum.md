@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Onagraceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Onagraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 

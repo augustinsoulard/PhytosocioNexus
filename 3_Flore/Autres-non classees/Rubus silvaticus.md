@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juillet
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Lonicero periclymeni écoph. rampant–Rubion sylvatici Tüxen & Neumann in Tüxen 1950 ex Wittig 1977
-**Écologie (Baseflor)** : ronciers de clairières acidoclines, planitiaires-collinéennes, mésotrophiles, mésohydriques
+* **Famille** : Rosaceae
+* **Floraison** : juillet
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Lonicero periclymeni écoph. rampant–Rubion sylvatici Tüxen & Neumann in Tüxen 1950 ex Wittig 1977
+* **Écologie (Baseflor)** : ronciers de clairières acidoclines, planitiaires-collinéennes, mésotrophiles, mésohydriques
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

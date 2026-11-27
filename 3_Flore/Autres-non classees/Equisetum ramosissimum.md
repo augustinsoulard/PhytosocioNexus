@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Equisetaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Equisetaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : mai-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
+* **Famille** : Boraginaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : CR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

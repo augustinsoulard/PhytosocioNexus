@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Gentianaceae
-**Floraison** : avril-juin
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Cicendion filiformis (Rivas Goday in Rivas Goday & Borja 1961) Rivas Goday 1964 em. Braun–Blanquet 1967
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, thermo-atlantiques à méditerranéennes
+* **Famille** : Gentianaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Cicendion filiformis (Rivas Goday in Rivas Goday & Borja 1961) Rivas Goday 1964 em. Braun–Blanquet 1967
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, thermo-atlantiques à méditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Salvietalia rosmarini Braun-Blanquet 1931 em. Julve 1993 prov.
-**Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salvietalia rosmarini Braun-Blanquet 1931 em. Julve 1993 prov.
+* **Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
 
 ## Répartition
 

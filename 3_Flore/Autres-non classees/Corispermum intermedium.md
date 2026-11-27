@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
+* **Famille** : Amaranthaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : mai
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
+* **Famille** : Cupressaceae
+* **Floraison** : mai
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
 
 ## Répartition
 

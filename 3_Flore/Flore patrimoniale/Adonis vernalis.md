@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : avril-mai
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
+* **Famille** : Ranunculaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
 
 ## Répartition
 

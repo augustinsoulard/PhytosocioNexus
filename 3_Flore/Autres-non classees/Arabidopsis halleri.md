@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
-**Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Armerion halleri Ernst 1965
+* **Écologie (Baseflor)** : pelouses métallicoles médio-européennes, planitiaires
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

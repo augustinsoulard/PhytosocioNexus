@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Potentillion caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, subalpins à montagnards, alpiens et auvergnat
+* **Famille** : Brassicaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Potentillion caulescentis Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : lithophytes des dalles en pente de falaises basophiles, subalpins à montagnards, alpiens et auvergnat
 
 ## Répartition
 

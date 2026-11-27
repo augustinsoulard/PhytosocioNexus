@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
 
 ## Répartition
 

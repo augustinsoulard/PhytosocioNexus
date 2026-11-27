@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Woodsiaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenietalia septentrionalis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967 ex Loisel 1970
-**Écologie (Baseflor)** : chasmophytes de parois européennes, acidophiles, planitiaires-montagnardes
+* **Famille** : Woodsiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenietalia septentrionalis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967 ex Loisel 1970
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, acidophiles, planitiaires-montagnardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : CR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
+* **Famille** : Ericaceae
+* **Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

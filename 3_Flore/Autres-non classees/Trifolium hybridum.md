@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : hsto(tver)
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte stolonifère (vernal)
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
 
 ## Répartition
 

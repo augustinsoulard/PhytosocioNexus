@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : avril-juin
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Junco bulbosi écoph. stagnophile–Potamogetonion polygonifolii Passarge 1996
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, dystrophiles organiques
+* **Famille** : Ranunculaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Junco bulbosi écoph. stagnophile–Potamogetonion polygonifolii Passarge 1996
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, dystrophiles organiques
 
 ## Répartition
 

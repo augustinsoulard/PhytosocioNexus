@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
-**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
+* **Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
 
 ## Répartition
 

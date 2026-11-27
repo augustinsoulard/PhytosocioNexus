@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
+* **Famille** : Plantaginaceae
 
 ## Répartition
 
@@ -22,4 +22,3 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT

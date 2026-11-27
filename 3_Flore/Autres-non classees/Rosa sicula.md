@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
-**Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
+* **Famille** : Rosaceae
+* **Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
+* **Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
 
 ## Répartition
 

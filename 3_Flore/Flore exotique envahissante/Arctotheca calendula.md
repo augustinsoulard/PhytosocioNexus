@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : test(heri)
-**Syntaxon (Baseflor)** : Laguro ovati–Bromion rigidi Géhu & Géhu–Franck 1985
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, atlantiques
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Laguro ovati–Bromion rigidi Géhu & Géhu–Franck 1985
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, atlantiques
 
 ## Répartition
 

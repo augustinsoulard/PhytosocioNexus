@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Syntaxon (Baseflor)** : Rhododendretalia tomentosi Nordhagen 1936
-**Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
+* **Famille** : Salicaceae
+* **Syntaxon (Baseflor)** : Rhododendretalia tomentosi Nordhagen 1936
+* **Écologie (Baseflor)** : landes acidophiles hygrophiles, boréales à montagnardes, plus ou moins tourbeuses
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE

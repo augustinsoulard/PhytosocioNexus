@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
+* **Famille** : Amaranthaceae
+* **Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

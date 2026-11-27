@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Salviniaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
-**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
+* **Famille** : Salviniaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
 
 ## Répartition
 

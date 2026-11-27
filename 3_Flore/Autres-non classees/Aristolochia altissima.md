@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Aristolochiaceae
-**Floraison** : mars-juillet
-**Type biologique** : B-semp-lia
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Aristolochiaceae
+* **Floraison** : mars-juillet
+* **Type biologique** : Microphanérophyte sempervirent lianescent
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Répartition
 

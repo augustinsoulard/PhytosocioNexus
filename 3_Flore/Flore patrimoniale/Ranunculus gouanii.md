@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
-**Écologie (Baseflor)** : pelouses acidoclines montagnardes
+* **Famille** : Ranunculaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
+* **Écologie (Baseflor)** : pelouses acidoclines montagnardes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

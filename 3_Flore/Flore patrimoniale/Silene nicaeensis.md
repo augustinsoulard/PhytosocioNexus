@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-juin
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Ononido variegatae–Cutandietea maritimae de Foucault & Géhu in de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, maritimes, thermoméditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Ononido variegatae–Cutandietea maritimae de Foucault & Géhu in de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, maritimes, thermoméditerranéennes
 
 ## Répartition
 

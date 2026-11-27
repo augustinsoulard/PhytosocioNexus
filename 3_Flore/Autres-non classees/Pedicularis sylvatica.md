@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : hbis-hpar
-**Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
+* **Famille** : Orobanchaceae
+* **Type biologique** : Hémicryptophyte bisannuel hémiparasite
+* **Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
 
 ## Répartition
 

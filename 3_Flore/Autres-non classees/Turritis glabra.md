@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-juillet
-**Type biologique** : hbis(heri)
-**Syntaxon (Baseflor)** : Galeopsio tetrahit–Senecionetea sylvatici Passarge 1981 ex de Foucault 2011
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles
+* **Famille** : Brassicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Galeopsio tetrahit–Senecionetea sylvatici Passarge 1981 ex de Foucault 2011
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles
 
 ## Répartition
 

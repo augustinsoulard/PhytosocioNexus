@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : avril-mai
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Pruno prostratae–Juniperion sabinae Rivas Martínez & J.A. Molina in Rivas Martínez, Fernández-González & Loidi 1999
-**Écologie (Baseflor)** : altiméditerranéen inférieur
+* **Famille** : Cupressaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Pruno prostratae–Juniperion sabinae Rivas Martínez & J.A. Molina in Rivas Martínez, Fernández-González & Loidi 1999
+* **Écologie (Baseflor)** : altiméditerranéen inférieur
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
 
 ## Répartition
 

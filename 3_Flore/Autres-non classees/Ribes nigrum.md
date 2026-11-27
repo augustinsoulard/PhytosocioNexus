@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Grossulariaceae
-**Floraison** : avril-mai
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Ribesion rubri Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux, planitiaires à montagnards, hygrophiles, basophiles, mésotrophiles, sciatolérants
+* **Famille** : Grossulariaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Ribesion rubri Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux, planitiaires à montagnards, hygrophiles, basophiles, mésotrophiles, sciatolérants
 
 ## Répartition
 

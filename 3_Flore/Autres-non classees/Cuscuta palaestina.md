@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
+* **Famille** : Convolvulaceae
+* **Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

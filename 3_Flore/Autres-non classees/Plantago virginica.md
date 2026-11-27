@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
-**Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lolio perennis–Plantaginion majoris subsp. majoris Sissingh 1969
+* **Écologie (Baseflor)** : prairies mésohydriques, surpâturées ou surpiétinées, planitiaires à montagnardes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

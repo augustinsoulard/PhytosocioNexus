@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Colchicaceae
-**Floraison** : août-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
+* **Famille** : Colchicaceae
+* **Floraison** : août-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Trifolio alpini–Meetalia athamantici de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles montagnardes à subalpines
 
 ## Répartition
 

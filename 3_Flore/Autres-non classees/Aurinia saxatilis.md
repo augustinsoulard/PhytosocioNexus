@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Diantho gratianopolitani–Melicion ciliatae subsp. ciliatae (Korneck 1974) Royer 1987
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, des dalles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : hsto(hbis)
-**Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte stolonifère (bisannuel)
+* **Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

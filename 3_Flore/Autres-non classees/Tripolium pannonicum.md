@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hbis(Test)
-**Syntaxon (Baseflor)** : Tripolietea pannonici Westhoff & Beeftink in Westhoff, van Leeuwen & Adriani 1962
-**Écologie (Baseflor)** : végétation herbacée vivace des prés salés vasicoles holarctiques
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte bisannuel (estival)
+* **Syntaxon (Baseflor)** : Tripolietea pannonici Westhoff & Beeftink in Westhoff, van Leeuwen & Adriani 1962
+* **Écologie (Baseflor)** : végétation herbacée vivace des prés salés vasicoles holarctiques
 
 ## Répartition
 

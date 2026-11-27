@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
 
 ## Répartition
 

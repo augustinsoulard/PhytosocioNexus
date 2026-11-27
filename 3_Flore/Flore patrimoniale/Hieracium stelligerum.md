@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
 
 ## Répartition
 

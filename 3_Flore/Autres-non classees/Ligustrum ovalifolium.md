@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Oleaceae
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
-**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+* **Famille** : Oleaceae
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+* **Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

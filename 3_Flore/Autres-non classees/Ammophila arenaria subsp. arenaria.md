@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. arenariae (Tüxen in Braun-Blanquet & Tüxen 1952) Géhu 1988
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles atlantiques
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. arenariae (Tüxen in Braun-Blanquet & Tüxen 1952) Géhu 1988
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

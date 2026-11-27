@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : avril-mai
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
+* **Famille** : Asteraceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
 
 ## Répartition
 

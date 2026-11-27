@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Buxaceae
-**Floraison** : mars-avril
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
-**Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
+* **Famille** : Buxaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Crataego monogynae–Coryletea avellanae Julve 2023
+* **Écologie (Baseflor)** : grpts de petits arbres surtout endozoochores et polyarchiques, dilués en sous-bois des forêts ou en écotones de lisières stabilisées en limite de la forêt climacique.
 
 ## Répartition
 

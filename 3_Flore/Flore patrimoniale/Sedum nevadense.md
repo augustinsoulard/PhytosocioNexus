@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : mai-août
-**Type biologique** : tver-suc
-**Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses médio-européennes à boréo-subalpines, acidophiles, sur sols asphyxiques
+* **Famille** : Crassulaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte vernal succulent
+* **Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses médio-européennes à boréo-subalpines, acidophiles, sur sols asphyxiques
 
 ## Répartition
 

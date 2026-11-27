@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
+* **Famille** : Juncaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Campanulo barbatae–Potentillion aureae de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles fermées, subalpines à alpines, chionophiles, alpiennes et hercyniennes, des ubacs
 
 ## Répartition
 

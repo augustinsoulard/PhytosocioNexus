@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : mai-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Eleocharitetalia multicaulis de Foucault 2010
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques à subméditerranéennes
+* **Famille** : Alismataceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Eleocharitetalia multicaulis de Foucault 2010
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques à subméditerranéennes
 
 ## Répartition
 

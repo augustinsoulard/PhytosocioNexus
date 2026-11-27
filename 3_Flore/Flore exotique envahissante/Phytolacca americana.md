@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Phytolaccaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
+* **Famille** : Phytolaccaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Atropion bellae–donnae Braun–Blanquet 1930 ex Aichinger 1933
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières basophiles, médio-européennes, mésoeutrophiles, mésohydriques
 
 ## Répartition
 

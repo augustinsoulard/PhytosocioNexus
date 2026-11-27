@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-mai
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
-**Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
+* **Famille** : Boraginaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
+* **Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

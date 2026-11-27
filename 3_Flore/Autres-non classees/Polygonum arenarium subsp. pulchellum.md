@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juin-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Euphorbion peplidis Tüxen 1950
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, méditerranéennes
+* **Famille** : Polygonaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Euphorbion peplidis Tüxen 1950
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, méditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mai-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
+* **Famille** : Lamiaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Koelerio macranthae–Phleion phleoidis Korneck 1974
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, sabulicoles
 
 ## Répartition
 

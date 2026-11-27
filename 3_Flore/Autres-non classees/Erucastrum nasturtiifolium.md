@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-septembre
-**Type biologique** : hbis(hros)
-**Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
+* **Famille** : Brassicaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (rosetté)
+* **Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
 
 ## Répartition
 

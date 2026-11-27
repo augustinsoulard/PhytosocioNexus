@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Euphorbion dendroidis Julve 2025 prov.
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Euphorbion dendroidis Julve 2025 prov.
 
 ## Répartition
 

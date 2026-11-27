@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-août
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
+* **Famille** : Crassulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
 
 ## Répartition
 

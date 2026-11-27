@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Solanaceae
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
+* **Famille** : Solanaceae
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Rubo ulmifolii–Rosetea caninae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards
 
 ## Répartition
 

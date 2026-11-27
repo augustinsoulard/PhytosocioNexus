@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
+* **Famille** : Plantaginaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

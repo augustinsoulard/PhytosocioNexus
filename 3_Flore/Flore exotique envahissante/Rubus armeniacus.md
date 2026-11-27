@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
+* **Famille** : Rosaceae
 
 ## Répartition
 
@@ -80,4 +80,3 @@ La **rouille *Phragmidium violaceum*** est étudiée comme agent potentiel de lu
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juin-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Campanulo rhomboidalis–Trisetenion flavescentis Dierschke in Theurillat 1992
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, subalpines à montagnardes, neutroclines
+* **Famille** : Campanulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Campanulo rhomboidalis–Trisetenion flavescentis Dierschke in Theurillat 1992
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, subalpines à montagnardes, neutroclines
 
 ## Répartition
 

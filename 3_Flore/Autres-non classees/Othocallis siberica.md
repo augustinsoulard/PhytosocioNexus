@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
-**Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
+* **Famille** : Asparagaceae
+* **Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
+* **Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

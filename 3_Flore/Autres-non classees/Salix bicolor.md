@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mai-juillet
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Salicetea bicolori–lapponum Julve 2003 class. nov. hoc loco
-**Écologie (Baseflor)** : arbrisseaux hydrophiles, boréaux à subalpins
+* **Famille** : Salicaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salicetea bicolori–lapponum Julve 2003 class. nov. hoc loco
+* **Écologie (Baseflor)** : arbrisseaux hydrophiles, boréaux à subalpins
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

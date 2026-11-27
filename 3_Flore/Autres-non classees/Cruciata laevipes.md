@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : avril-juin
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
-**Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
+* **Famille** : Rubiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Aegopodion podagrariae Tüxen 1967 em. Hilbig, Heinrich & Niemann 1972
+* **Écologie (Baseflor)** : ourlets externes et friches eutrophiles, mésohydriques à mésohygrophiles, estivaux
 
 ## Répartition
 

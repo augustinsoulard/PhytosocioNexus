@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juillet
-**Type biologique** : hros(tver)
-**Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté (vernal)
+* **Syntaxon (Baseflor)** : Koelerio glaucae–Corynephoretea canescentis Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : pelouses des sables continentaux à submaritimes, médio-européennes à méditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
-**Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
+* **Famille** : Brassicaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
+* **Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

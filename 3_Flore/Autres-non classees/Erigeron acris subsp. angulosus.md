@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis(hces)
-**Syntaxon (Baseflor)** : Epilobion fleischeri Braun–Blanquet in G. & J. Braun–Blanquet 1933
-**Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières orophiles
+* **Famille** : Asteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (cespiteux)
+* **Syntaxon (Baseflor)** : Epilobion fleischeri Braun–Blanquet in G. & J. Braun–Blanquet 1933
+* **Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières orophiles
 
 ## Répartition
 

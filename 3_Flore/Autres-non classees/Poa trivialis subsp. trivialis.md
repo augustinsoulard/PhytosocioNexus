@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
-**Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Arrhenatheretea elatioris subsp. elatioris (Tüxen 1937 em. 1970) de Foucault 1984
+* **Écologie (Baseflor)** : prairies européennes mésotrophiles à eutrophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

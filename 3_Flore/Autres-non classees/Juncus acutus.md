@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Juncetalia maritimi Braun–Blanquet 1931 em. Julve 1992 ex 1993
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles, méditerranéens
+* **Famille** : Juncaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Juncetalia maritimi Braun–Blanquet 1931 em. Julve 1992 ex 1993
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles, méditerranéens
 
 ## Répartition
 

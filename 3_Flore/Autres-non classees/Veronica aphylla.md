@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
-**Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Arabidetalia caeruleae Rübel 1933 ex Nordhagen 1936
+* **Écologie (Baseflor)** : pelouses alpines climaciques chionophiles, basophiles
 
 ## Répartition
 

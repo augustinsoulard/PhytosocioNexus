@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Armerion maritimae subsp. elongatae Krausch (1962) 1968
-**Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, centro-européennes
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Armerion maritimae subsp. elongatae Krausch (1962) 1968
+* **Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, centro-européennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

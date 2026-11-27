@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Carici distichae–Oenanthion fistulosae (de Foucault 1984) Julve 1993 prov.
-**Écologie (Baseflor)** : prairies hydrophiles psychro-atlantiques à continentales
+* **Famille** : Brassicaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Carici distichae–Oenanthion fistulosae (de Foucault 1984) Julve 1993 prov.
+* **Écologie (Baseflor)** : prairies hydrophiles psychro-atlantiques à continentales
 
 ## Répartition
 

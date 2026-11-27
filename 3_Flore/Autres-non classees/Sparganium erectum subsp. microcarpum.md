@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juin-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
-**Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
+* **Famille** : Typhaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Oenanthion aquaticae Hejný 1948 ex Neuhäusl 1959
+* **Écologie (Baseflor)** : parvoroselières médio-européennes pionnières
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

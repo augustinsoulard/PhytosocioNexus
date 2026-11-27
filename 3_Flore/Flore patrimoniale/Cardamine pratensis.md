@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
 
 ## Répartition
 

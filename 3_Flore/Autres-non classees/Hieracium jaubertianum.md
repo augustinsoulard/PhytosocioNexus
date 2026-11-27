@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Potentillion micranthae Julve 2010 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets basophiles supraméditerranéens, mésoxérophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cryptogrammion crispae Jenny–Lips 1930
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles grossiers, sciaphiles, montagnards à subalpins
+* **Famille** : Pteridaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cryptogrammion crispae Jenny–Lips 1930
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles grossiers, sciaphiles, montagnards à subalpins
 
 ## Répartition
 

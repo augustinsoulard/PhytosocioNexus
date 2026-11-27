@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Urticaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Urticaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Glechomo hederaceae–Urticetea dioicae (Passarge 1967) Julve 2003 nom. nov. hoc loco
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 

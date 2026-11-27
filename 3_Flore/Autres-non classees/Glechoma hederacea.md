@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : mars-mai
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
+* **Famille** : Lamiaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
 
 ## Répartition
 

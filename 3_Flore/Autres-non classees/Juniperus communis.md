@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cupressaceae
-**Floraison** : avril-mai
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa Juniperetea communis subsp. communis 2025 class. nov. hoc loco
-**Écologie (Baseflor)** : petits arbres conifériens eurasiatiques relictuels de climats froids paléohistoriques
+* **Famille** : Cupressaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Juniperetea communis subsp. communis 2025 class. nov. hoc loco
+* **Écologie (Baseflor)** : petits arbres conifériens eurasiatiques relictuels de climats froids paléohistoriques
 
 ## Répartition
 

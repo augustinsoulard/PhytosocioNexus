@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Floraison** : juillet-octobre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
+* **Famille** : Dryopteridaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

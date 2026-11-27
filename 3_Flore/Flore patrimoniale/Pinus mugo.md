@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pinaceae
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : Pinion mugo Pawłowski in Pawłowski, Sokołowski & Wallisch 1928
-**Écologie (Baseflor)** : buissons d'arbrisseaux des ubacs, subalpins, méridionalo-orientaux
+* **Famille** : Pinaceae
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Pinion mugo Pawłowski in Pawłowski, Sokołowski & Wallisch 1928
+* **Écologie (Baseflor)** : buissons d'arbrisseaux des ubacs, subalpins, méridionalo-orientaux
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Epilobion fleischeri Braun–Blanquet in G. & J. Braun–Blanquet 1932
-**Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières orophiles
+* **Famille** : Onagraceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Epilobion fleischeri Braun–Blanquet in G. & J. Braun–Blanquet 1932
+* **Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières orophiles
 
 ## Répartition
 

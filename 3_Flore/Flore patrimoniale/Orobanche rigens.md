@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : avril-mai
-**Type biologique** : gtub-par
-**Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
-**Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
+* **Famille** : Orobanchaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Géophyte à tubercule parasite
+* **Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
+* **Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

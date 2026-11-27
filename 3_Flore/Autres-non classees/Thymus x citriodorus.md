@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
+* **Famille** : Lamiaceae
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub-suc
-**Syntaxon (Baseflor)** : Asplenietalia septentrionalis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967 ex Loisel 1970
-**Écologie (Baseflor)** : chasmophytes de parois européennes, acidophiles, planitiaires-montagnardes
+* **Famille** : Crassulaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule succulent
+* **Syntaxon (Baseflor)** : Asplenietalia septentrionalis Oberdorfer, Görs, Korneck, Lohmeyer, Müller, Philippi & Seibert 1967 ex Loisel 1970
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, acidophiles, planitiaires-montagnardes
 
 ## Répartition
 

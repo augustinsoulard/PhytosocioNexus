@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
-**Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
+* **Famille** : Polygonaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion binervosi (Géhu & Géhu–Franck 1984) Géhu 1997
+* **Écologie (Baseflor)** : pelouses aérohalines ouvertes, des bas de falaises maritimes atlantiques recevant beaucoup d'embruns
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

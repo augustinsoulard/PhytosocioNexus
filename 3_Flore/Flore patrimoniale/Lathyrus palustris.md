@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Caricion elatae Koch 1926
-**Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricion elatae Koch 1926
+* **Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
 
 ## Répartition
 

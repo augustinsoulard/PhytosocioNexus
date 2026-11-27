@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Marsileaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
+* **Famille** : Marsileaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Hydrocotylo vulgaris–Baldellion ranunculoidis Tüxen & Dierßen in Dierßen 1972 ex Dierßen 1975
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, oligotrophiles, atlantiques, planitiaires-collinéennes, acidophiles, des grèves sablonneuses ou tourbeuses
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : mai-juillet
-**Type biologique** : csuf-cad
-**Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
+* **Famille** : Cistaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte suffrutescent caducifolié
+* **Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
 
 ## Répartition
 

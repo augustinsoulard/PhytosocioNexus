@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-juillet
-**Type biologique** : Grhi-par
-**Syntaxon (Baseflor)** : Scillion bifoliae Gillet 1986 em. Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohydriques, planitiaires-collinéens
+* **Famille** : Orchidaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome parasite
+* **Syntaxon (Baseflor)** : Scillion bifoliae Gillet 1986 em. Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohydriques, planitiaires-collinéens
 
 ## Répartition
 

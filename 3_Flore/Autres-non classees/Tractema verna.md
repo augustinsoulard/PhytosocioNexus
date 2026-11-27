@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : avril-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
+* **Famille** : Asparagaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

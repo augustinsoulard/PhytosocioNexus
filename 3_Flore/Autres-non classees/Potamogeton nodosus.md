@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Ranunculion fluitantis Neuhäusl 1959
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux douces, courantes, peu profondes
+* **Famille** : Potamogetonaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ranunculion fluitantis Neuhäusl 1959
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux douces, courantes, peu profondes
 
 ## Répartition
 

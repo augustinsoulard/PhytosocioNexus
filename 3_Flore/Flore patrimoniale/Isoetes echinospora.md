@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Isoetaceae
-**Floraison** : juillet-octobre
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Littorellion uniflorae Koch 1926
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, vivaces, oligotrophiles, des grèves d'étangs et lacs boréomontagnards à alpins
+* **Famille** : Isoetaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Littorellion uniflorae Koch 1926
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, vivaces, oligotrophiles, des grèves d'étangs et lacs boréomontagnards à alpins
 
 ## Répartition
 
@@ -24,7 +24,6 @@ date_maj: "2026-11-26"
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

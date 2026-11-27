@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
 
 ## Répartition
 

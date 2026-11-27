@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ulmaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Pruno avium–Carpinetalia betuli Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés médio-européens, mésotrophiles, planitiaires-collinéens
+* **Famille** : Ulmaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Pruno avium–Carpinetalia betuli Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés médio-européens, mésotrophiles, planitiaires-collinéens
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

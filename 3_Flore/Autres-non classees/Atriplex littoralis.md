@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Atriplicion littoralis (Nordhagen 1940) Tüxen 1950
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer vasicoles, européo-atlantiques
+* **Famille** : Amaranthaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Atriplicion littoralis (Nordhagen 1940) Tüxen 1950
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer vasicoles, européo-atlantiques
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : hbis(hros)
-**Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Hémicryptophyte bisannuel (rosetté)
+* **Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
 
 ## Répartition
 

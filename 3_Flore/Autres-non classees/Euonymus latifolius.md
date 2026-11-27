@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Celastraceae
-**Floraison** : mai-juin
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Berberidetalia vulgaris de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons arbustifs basophiles, mésotrophiles
+* **Famille** : Celastraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Berberidetalia vulgaris de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons arbustifs basophiles, mésotrophiles
 
 ## Répartition
 

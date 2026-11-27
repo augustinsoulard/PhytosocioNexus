@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Malvaceae
-**Type biologique** : test(heri)
-**Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
-**Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
+* **Famille** : Malvaceae
+* **Type biologique** : Thérophyte estival (érigé)
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
 
 ## Répartition
 
@@ -35,7 +35,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

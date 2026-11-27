@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
+* **Famille** : Juncaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

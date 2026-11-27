@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
+* **Famille** : Ranunculaceae
+* **Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

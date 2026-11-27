@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
+* **Famille** : Fabaceae
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
 
 ## Répartition
 

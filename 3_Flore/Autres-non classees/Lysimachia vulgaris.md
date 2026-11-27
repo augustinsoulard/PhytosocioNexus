@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
-**Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Phragmito australis–Caricetea elatae Klika in Klika & Novák 1941
+* **Écologie (Baseflor)** : roselières et grandes cariçaies eurasiatiques, amphibies à hydrophiles
 
 ## Répartition
 

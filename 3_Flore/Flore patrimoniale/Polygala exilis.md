@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygalaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
+* **Famille** : Polygalaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
 
-**Habitat :** Pelouses ouvertes ouvertes temporairement humides en hiver, mais sèches l'été, sur marnes dénudées ou alluvions des cours d'eau ([[Deschampsion mediae]]).
+* **Habitat :** Pelouses ouvertes ouvertes temporairement humides en hiver, mais sèches l'été, sur marnes dénudées ou alluvions des cours d'eau ([[Deschampsion mediae]]).
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : juin-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Salicetea herbaceae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses arctico-alpines climaciques, chionophiles, mésohygrophiles
+* **Famille** : Salicaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Salicetea herbaceae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses arctico-alpines climaciques, chionophiles, mésohygrophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Plantaginion crassifoliae Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : jonçaies et parvocariçaies des prés paratourbeux thermoméditerranéens submaritimes
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Plantaginion crassifoliae Braun–Blanquet 1931 ex Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : jonçaies et parvocariçaies des prés paratourbeux thermoméditerranéens submaritimes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : juin-juillet
-**Type biologique** : Gbul
-**Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
-**Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
+* **Famille** : Liliaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
 
 ## Répartition
 

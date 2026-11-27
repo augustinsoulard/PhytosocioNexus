@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Artemisio albae–Bromopsietalia erectae Ubaldi 1997 ex Dengler & Mucina in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Artemisio albae–Bromopsietalia erectae Ubaldi 1997 ex Dengler & Mucina in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 

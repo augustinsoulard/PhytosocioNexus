@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
-**Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
+* **Famille** : Geraniaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Cirsion rivularis de Foucault 1984 em. Passarge 1988
+* **Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

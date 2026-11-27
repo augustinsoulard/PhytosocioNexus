@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Deschampsion mediae (Braun–Blanque 1947) Braun–Blanquet, Roussine & Nègre 1952
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, subméditerranéennes, des sols tassés
 
 ## Répartition
 

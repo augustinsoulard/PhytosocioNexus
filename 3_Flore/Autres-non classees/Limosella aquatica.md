@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
+* **Famille** : Scrophulariaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

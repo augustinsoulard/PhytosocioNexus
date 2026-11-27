@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Oxybasion rubrae (Tüxen in Poli & J. Tüxen 1960) Hilbig & Jäger 1972
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles
+* **Famille** : Amaranthaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Oxybasion rubrae (Tüxen in Poli & J. Tüxen 1960) Hilbig & Jäger 1972
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

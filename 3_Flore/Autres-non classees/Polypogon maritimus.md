@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Frankenietalia pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
-**Écologie (Baseflor)** : annuelles tardivernales ou préestivales des tonsures subnitrophiles maritimes, méditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Frankenietalia pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
+* **Écologie (Baseflor)** : annuelles tardivernales ou préestivales des tonsures subnitrophiles maritimes, méditerranéennes
 
 ## Répartition
 

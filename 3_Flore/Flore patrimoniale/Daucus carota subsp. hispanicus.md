@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
 
 ## Répartition
 

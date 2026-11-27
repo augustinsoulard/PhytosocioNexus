@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Onagraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 

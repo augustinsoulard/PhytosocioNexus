@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Rubo ulmifolii–Ulicion europaei de Foucault & Julve 2001
 
 ## Répartition
 

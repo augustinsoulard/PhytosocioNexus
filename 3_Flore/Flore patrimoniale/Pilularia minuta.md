@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Marsileaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
+* **Famille** : Marsileaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, méditerranéennes
 
 ## Répartition
 

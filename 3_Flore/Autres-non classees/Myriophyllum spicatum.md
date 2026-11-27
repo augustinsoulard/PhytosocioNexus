@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Haloragaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
+* **Famille** : Haloragaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Nymphaeion albae Oberdorfer 1957
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces profondes, eutrophiles à mésotrophiles, planitiaire à collinéen
 
 ## Répartition
 

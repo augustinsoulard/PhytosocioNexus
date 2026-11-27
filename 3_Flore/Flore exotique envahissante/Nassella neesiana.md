@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Hyparrhenion hirtae Braun–Blanquet, Pinto da Silva & Rozeira 1956
-**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles, sur pentes caillouteuses, infra- thermo- et mésoméditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Hyparrhenion hirtae Braun–Blanquet, Pinto da Silva & Rozeira 1956
+* **Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles, sur pentes caillouteuses, infra- thermo- et mésoméditerranéennes
 
 ## Répartition
 

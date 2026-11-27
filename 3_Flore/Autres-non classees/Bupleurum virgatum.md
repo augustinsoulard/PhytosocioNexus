@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
+* **Famille** : Apiaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
 
 ## Répartition
 

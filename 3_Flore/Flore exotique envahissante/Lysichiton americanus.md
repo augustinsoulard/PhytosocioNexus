@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Araceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
+* **Famille** : Araceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Mercurialietalia perennis Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles
 
 ## Répartition
 
@@ -92,7 +92,6 @@ Le lysichiton américain peut également être contrôlé par **arrachage mécan
 
 * **Indigénat (TAXREF v18)** : J
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

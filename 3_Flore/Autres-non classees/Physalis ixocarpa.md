@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Solanaceae
+* **Famille** : Solanaceae
 
 ## Répartition
 

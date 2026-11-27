@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
+* **Famille** : Cyperaceae
 
 ## Répartition
 
@@ -33,4 +33,3 @@ sources:
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : NUL

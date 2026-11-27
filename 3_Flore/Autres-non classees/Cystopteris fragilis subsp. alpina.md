@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cystopteridaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Violo biflorae–Cystopteridion alpinae Fernandez Casas 1970
+* **Famille** : Cystopteridaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Violo biflorae–Cystopteridion alpinae Fernandez Casas 1970
 
 ## Répartition
 

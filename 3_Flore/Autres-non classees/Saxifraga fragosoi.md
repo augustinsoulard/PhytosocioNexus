@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Type biologique** : ccou
-**Syntaxon (Baseflor)** : Asarinion procumbentis Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, pyrénéo-auvergnates
+* **Famille** : Saxifragaceae
+* **Type biologique** : Chaméphyte en coussinets
+* **Syntaxon (Baseflor)** : Asarinion procumbentis Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, pyrénéo-auvergnates
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cucurbitaceae
-**Type biologique** : test-lia
-**Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
-**Écologie (Baseflor)** : annuelles commensales des cultures
+* **Famille** : Cucurbitaceae
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
+* **Écologie (Baseflor)** : annuelles commensales des cultures
 
 ## Répartition
 

@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Commelinaceae
+* **Famille** : Commelinaceae
 
 ## Répartition
 

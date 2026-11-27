@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : hces-hpar
-**Syntaxon (Baseflor)** : Seslerietalia caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
+* **Famille** : Orobanchaceae
+* **Type biologique** : Hémicryptophyte cespiteux hémiparasite
+* **Syntaxon (Baseflor)** : Seslerietalia caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
 
 ## Répartition
 

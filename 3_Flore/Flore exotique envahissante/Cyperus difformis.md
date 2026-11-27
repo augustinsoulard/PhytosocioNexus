@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Oryzetea sativae Miyawaki 1960
-**Écologie (Baseflor)** : commensales subtropicales des cultures de riz, holarctiques
+* **Famille** : Cyperaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Oryzetea sativae Miyawaki 1960
+* **Écologie (Baseflor)** : commensales subtropicales des cultures de riz, holarctiques
 
 ## Répartition
 

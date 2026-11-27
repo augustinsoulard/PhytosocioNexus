@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juin
-**Type biologique** : Tver
-**Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Carthametalia lanati Brullo in Brullo & Marcenò 1985
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles, méditerranéennes à euryméditerranéennes
 
 ## Répartition
 

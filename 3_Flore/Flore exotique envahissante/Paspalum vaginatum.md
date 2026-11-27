@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Scorzonero parviflorae–Juncetea gerardii Vicherek 1973
-**Écologie (Baseflor)** : prairies hygrophiles subhalophiles, steppiques, centro-européennes
+* **Famille** : Poaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Scorzonero parviflorae–Juncetea gerardii Vicherek 1973
+* **Écologie (Baseflor)** : prairies hygrophiles subhalophiles, steppiques, centro-européennes
 
 ## Répartition
 
@@ -35,7 +35,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

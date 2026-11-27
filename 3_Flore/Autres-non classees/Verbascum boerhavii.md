@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : avril-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1960
-**Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
+* **Famille** : Scrophulariaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1960
+* **Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
 
 ## Répartition
 

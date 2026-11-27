@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juin-août
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Limoniastrion monopetali Pignatti 1953
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales, sabulicoles
+* **Famille** : Plumbaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Limoniastrion monopetali Pignatti 1953
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales, sabulicoles
 
 ## Répartition
 

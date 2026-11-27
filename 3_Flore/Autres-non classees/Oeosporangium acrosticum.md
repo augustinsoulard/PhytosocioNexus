@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : février-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Asplenietalia petrarchae Braun–Blanquet & Meier in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes, basophiles héliophiles
+* **Famille** : Pteridaceae
+* **Floraison** : février-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Asplenietalia petrarchae Braun–Blanquet & Meier in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes, basophiles héliophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
-**Écologie (Baseflor)** : pelouses acidoclines montagnardes
+* **Famille** : Rosaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
+* **Écologie (Baseflor)** : pelouses acidoclines montagnardes
 
 ## Répartition
 

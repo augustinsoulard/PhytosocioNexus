@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Syntaxon (Baseflor)** : σA Pinetea nigrae Julve 2016 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes
+* **Famille** : Pinaceae
+* **Syntaxon (Baseflor)** : σA Pinetea nigrae Julve 2016 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

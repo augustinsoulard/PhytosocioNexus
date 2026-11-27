@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Jacobaeion aquaticae Julve 2020 all. nov. prov. hoc loco
-**Écologie (Baseflor)** : prairies hygrophiles fauchées septentrionales, psychro-atlantiques à centro-européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Jacobaeion aquaticae Julve 2020 all. nov. prov. hoc loco
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées septentrionales, psychro-atlantiques à centro-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

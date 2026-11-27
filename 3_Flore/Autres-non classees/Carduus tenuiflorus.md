@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : avril-juin
-**Type biologique** : Test(Hbis)
-**Syntaxon (Baseflor)** : Onopordetea acanthii Braun-Blanquet 1964
-**Écologie (Baseflor)** : friches vivaces thermoxérophiles euryméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Onopordetea acanthii Braun-Blanquet 1964
+* **Écologie (Baseflor)** : friches vivaces thermoxérophiles euryméditerranéennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Actaeo spicatae–Mercurialion perennis Gillet 1986 prov.
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, montagnards à planitiaires, des ubacs ou gorges profondes aérohygrophiles
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Actaeo spicatae–Mercurialion perennis Gillet 1986 prov.
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, montagnards à planitiaires, des ubacs ou gorges profondes aérohygrophiles
 
 ## Répartition
 

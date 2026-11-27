@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
+* **Famille** : Convolvulaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

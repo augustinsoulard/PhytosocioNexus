@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-juillet
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
-**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+* **Famille** : Fabaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+* **Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
 
 ## Répartition
 

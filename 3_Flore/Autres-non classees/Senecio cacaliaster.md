@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Prenanthion purpureae Julve 1993
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles, méso-eutrophiles, médio-européennes, montagnardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juillet
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Rubenion grati Weber 1977
-**Écologie (Baseflor)** : ronciers de clairières acidophiles, planitiaires-collinéennes, méso-oligotrophiles, mésohygrophiles
+* **Famille** : Rosaceae
+* **Floraison** : juillet
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Rubenion grati Weber 1977
+* **Écologie (Baseflor)** : ronciers de clairières acidophiles, planitiaires-collinéennes, méso-oligotrophiles, mésohygrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

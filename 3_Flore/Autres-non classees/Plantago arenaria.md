@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Salsolion squarrosae Philippi 1971
-**Écologie (Baseflor)** : friches annuelles, subnitrophiles, médio-européennes, des sols sablo-graveleux
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Salsolion squarrosae Philippi 1971
+* **Écologie (Baseflor)** : friches annuelles, subnitrophiles, médio-européennes, des sols sablo-graveleux
 
 ## Répartition
 

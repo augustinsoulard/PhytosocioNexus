@@ -6,20 +6,20 @@ cd_nomv18: 131706
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Asteraceae
-**Floraison** : septembre-octobre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : septembre-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Limonion confusi (Braun–Blanquet 1933) Rivas Martínez & Costa 1984
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales des zones arides méditerranéennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

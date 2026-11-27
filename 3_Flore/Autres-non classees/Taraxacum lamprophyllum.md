@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : avril
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
-**Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
+* **Famille** : Asteraceae
+* **Floraison** : avril
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lamio albi–Chenopodietalia boni–henrici Kopecký 1969
+* **Écologie (Baseflor)** : friches et lisières vivaces médio-européennes, eutrophiles, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

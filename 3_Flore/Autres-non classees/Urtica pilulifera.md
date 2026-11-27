@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Urticaceae
-**Floraison** : avril-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1959
-**Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, estivales, mésohydriques
+* **Famille** : Urticaceae
+* **Floraison** : avril-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1959
+* **Écologie (Baseflor)** : friches annuelles, nitrophiles, thermophiles, estivales, mésohydriques
 
 ## Répartition
 

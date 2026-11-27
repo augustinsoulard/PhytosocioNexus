@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
+* **Famille** : Campanulaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

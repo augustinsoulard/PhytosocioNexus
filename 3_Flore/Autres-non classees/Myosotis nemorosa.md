@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
+* **Famille** : Boraginaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Juncion acutiflori Braun–Blanquet 1947
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

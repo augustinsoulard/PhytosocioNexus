@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
-**Floraison** : juin-août
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
+* **Famille** : Liliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
 
 ## Répartition
 

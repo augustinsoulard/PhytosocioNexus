@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Selaginellaceae
-**Floraison** : décembre-juin
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Selaginello denticulatae–Anogrammion leptophyllae Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : microfougeraies acidophiles thermophiles
+* **Famille** : Selaginellaceae
+* **Floraison** : décembre-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Selaginello denticulatae–Anogrammion leptophyllae Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : microfougeraies acidophiles thermophiles
 
 ## Répartition
 

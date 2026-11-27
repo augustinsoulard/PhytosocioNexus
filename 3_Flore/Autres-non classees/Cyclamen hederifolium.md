@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : août-novembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
+* **Famille** : Primulaceae
+* **Floraison** : août-novembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
 
 ## Répartition
 

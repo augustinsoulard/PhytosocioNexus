@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
-**Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
+* **Famille** : Fabaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Acacietea pycnanthae auct.
+* **Écologie (Baseflor)** : forêts tropicales tropophiles d'Australie
 
 ## Répartition
 
@@ -35,7 +35,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : J
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

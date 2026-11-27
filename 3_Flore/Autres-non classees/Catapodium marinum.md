@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Saginetea maritimae Westhoff, van Leeuwen & Adriani 1962
-**Écologie (Baseflor)** : annuelles pionnières des tonsures subnitrophiles maritimes européennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Saginetea maritimae Westhoff, van Leeuwen & Adriani 1962
+* **Écologie (Baseflor)** : annuelles pionnières des tonsures subnitrophiles maritimes européennes
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
+* **Famille** : Rosaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

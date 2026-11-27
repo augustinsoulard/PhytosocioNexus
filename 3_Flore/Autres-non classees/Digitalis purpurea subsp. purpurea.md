@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-septembre
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Epilobion angustifolii Soó 1933 em. Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières de clairières acidophiles planitiaires-collinéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

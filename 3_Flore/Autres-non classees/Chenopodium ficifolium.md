@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Persicario maculosae–Lipandrion polyspermae Koch 1926 em. Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohygrophiles, des sols limoneux
+* **Famille** : Amaranthaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Persicario maculosae–Lipandrion polyspermae Koch 1926 em. Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohygrophiles, des sols limoneux
 
 ## Répartition
 

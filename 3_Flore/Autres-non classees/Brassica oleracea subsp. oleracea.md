@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Syntaxon (Baseflor)** : Brassicion oleraceae Rivas–Martínez, Fernandez–Gonzalez & Loidi 1999
-**Écologie (Baseflor)** : friches pionnières aérohalines
+* **Famille** : Brassicaceae
+* **Syntaxon (Baseflor)** : Brassicion oleraceae Rivas–Martínez, Fernandez–Gonzalez & Loidi 1999
+* **Écologie (Baseflor)** : friches pionnières aérohalines
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

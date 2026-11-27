@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Calamagrostion variae Sillinger 1932 em. Hadàč & al. 1969
-**Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, basophiles, héliophiles
+* **Famille** : Poaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Calamagrostion variae Sillinger 1932 em. Hadàč & al. 1969
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines à montagnardes, mésohydriques, méso-oligotrophiles, basophiles, héliophiles
 
 ## Répartition
 

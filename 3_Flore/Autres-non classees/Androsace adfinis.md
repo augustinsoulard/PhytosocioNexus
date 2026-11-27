@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Seslerietalia caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
+* **Famille** : Primulaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Seslerietalia caeruleae Braun–Blanquet in Braun–Blanquet & Jenny 1926
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pionnières, chionophiles
 
 ## Répartition
 

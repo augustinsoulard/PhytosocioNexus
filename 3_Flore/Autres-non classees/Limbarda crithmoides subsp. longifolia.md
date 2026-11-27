@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : Csuf-suc
-**Syntaxon (Baseflor)** : Sarcocornietea fruticosae Braun–Blanquet & Tüxen 1943 ex A. & O. de Bolòs 1950
-**Écologie (Baseflor)** : micromangroves (chaméphytaies maritimes)
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sarcocornietea fruticosae Braun–Blanquet & Tüxen 1943 ex A. & O. de Bolòs 1950
+* **Écologie (Baseflor)** : micromangroves (chaméphytaies maritimes)
 
 ## Répartition
 

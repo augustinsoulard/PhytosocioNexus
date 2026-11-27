@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Floraison** : avril-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens à proximite des buis
+* **Famille** : Primulaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens à proximite des buis
 
 ## Répartition
 

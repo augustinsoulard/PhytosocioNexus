@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-mai
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
+* **Famille** : Fabaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
 
 ## Répartition
 

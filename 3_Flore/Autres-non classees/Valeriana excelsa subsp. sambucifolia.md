@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Syntaxon (Baseflor)** : Lythro salicariae–Filipenduletalia ulmariae (Passarge 1988) Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésoeutrophiles
+* **Famille** : Caprifoliaceae
+* **Syntaxon (Baseflor)** : Lythro salicariae–Filipenduletalia ulmariae (Passarge 1988) Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésoeutrophiles
 
 ## Répartition
 

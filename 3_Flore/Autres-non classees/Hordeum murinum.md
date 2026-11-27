@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Anisantho sterilis–Hordeion murinum Hejný 1978
-**Écologie (Baseflor)** : friches annuelles hypernitrophiles, médio-européenne, des sols limono-sableux
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Anisantho sterilis–Hordeion murinum Hejný 1978
+* **Écologie (Baseflor)** : friches annuelles hypernitrophiles, médio-européenne, des sols limono-sableux
 
 ## Répartition
 

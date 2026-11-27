@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Crassulaceae
+* **Famille** : Crassulaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -72,4 +72,3 @@ Pour les populations de petites et moyennes tailles, c'est à ce jour la seule g
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

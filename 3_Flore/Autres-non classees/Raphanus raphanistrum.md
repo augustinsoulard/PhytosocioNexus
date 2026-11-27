@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : tver(hbis)
-**Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte vernal (bisannuel)
+* **Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
 
 ## Répartition
 

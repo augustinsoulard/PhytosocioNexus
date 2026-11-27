@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Salicetea herbaceae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses arctico-alpines climaciques, chionophiles, mésohygrophiles
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Salicetea herbaceae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses arctico-alpines climaciques, chionophiles, mésohygrophiles
 
 ## Répartition
 

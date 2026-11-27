@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
+* **Famille** : Malvaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD

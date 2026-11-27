@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σa Pino halepensis–Quercetea ilicis (Braun–Blanquet 1947) de Foucault & Julve 1991
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes sclérophylles des méso à thermoméditerranéens européens
+* **Famille** : Fagaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Pino halepensis–Quercetea ilicis (Braun–Blanquet 1947) de Foucault & Julve 1991
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes sclérophylles des méso à thermoméditerranéens européens
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

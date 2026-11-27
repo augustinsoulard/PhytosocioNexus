@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Armerion girardii Braun–Blanquet 1931 em. Quézel 1971
-**Écologie (Baseflor)** : pelouses des sables basophiles, dolomiticoles, euryméditerranéennes
+* **Famille** : Brassicaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Armerion girardii Braun–Blanquet 1931 em. Quézel 1971
+* **Écologie (Baseflor)** : pelouses des sables basophiles, dolomiticoles, euryméditerranéennes
 
 ## Répartition
 

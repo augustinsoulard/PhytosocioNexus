@@ -6,16 +6,16 @@ cd_nomv18: 4964
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Meesiaceae
-**Type biologique** : C
-**Syntaxon (Baseflor)** : Meesio triquetrae - Sphagnion contorti
-**Écologie (Baseflor)** : amphibie exondable, basophile, tremblant tourbeux
+* **Famille** : Meesiaceae
+* **Type biologique** : Chaméphyte
+* **Syntaxon (Baseflor)** : Meesio triquetrae - Sphagnion contorti
+* **Écologie (Baseflor)** : amphibie exondable, basophile, tremblant tourbeux
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Directive Habitats** : CDH2
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE

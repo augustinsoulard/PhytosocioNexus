@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Tuberarietea guttatae Braun–Blanquet (1961) 1964
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, européennes
 
 ## Répartition
 

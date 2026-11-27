@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Lathyro linifolii–Trisetenion flavescentis Dierschke 1981 ex de Foucault 2016
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, montagnardes, continentales, acidoclines
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lathyro linifolii–Trisetenion flavescentis Dierschke 1981 ex de Foucault 2016
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, montagnardes, continentales, acidoclines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

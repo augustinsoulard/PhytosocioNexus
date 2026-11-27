@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Caricion myosuroidis Gams 1936
-**Écologie (Baseflor)** : pelouses basophiles alpines climaciques, alpiennes, chionophobes
+* **Famille** : Poaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Caricion myosuroidis Gams 1936
+* **Écologie (Baseflor)** : pelouses basophiles alpines climaciques, alpiennes, chionophobes
 
 ## Répartition
 

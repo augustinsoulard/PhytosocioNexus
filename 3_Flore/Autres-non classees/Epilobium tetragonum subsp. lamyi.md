@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
+* **Famille** : Onagraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
 
 ## Répartition
 

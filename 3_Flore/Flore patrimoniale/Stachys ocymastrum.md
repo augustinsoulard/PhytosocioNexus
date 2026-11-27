@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Frankenietalia pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
-**Écologie (Baseflor)** : annuelles tardivernales ou préestivales des tonsures subnitrophiles maritimes, méditerranéennes
+* **Famille** : Lamiaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Frankenietalia pulverulentae Rivas–Martínez 1975 apud Rivas–Martínez & Costa 1976
+* **Écologie (Baseflor)** : annuelles tardivernales ou préestivales des tonsures subnitrophiles maritimes, méditerranéennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
+* **Famille** : Rosaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arrhenatherion elatioris subsp. elatioris Luquet 1926
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, mésothermes, planitiaires à montagnardes inférieures
 
 ## Répartition
 

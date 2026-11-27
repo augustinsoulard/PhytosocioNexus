@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Luzulion forsteri Julve 2006 all. nov. hoc loco
-**Écologie (Baseflor)** : sous-bois herbacés acidophiles, planitiaires-collinéens, subatlantiques à subméditerranéens, mésothermes à thermophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Luzulion forsteri Julve 2006 all. nov. hoc loco
+* **Écologie (Baseflor)** : sous-bois herbacés acidophiles, planitiaires-collinéens, subatlantiques à subméditerranéens, mésothermes à thermophiles
 
 ## Répartition
 

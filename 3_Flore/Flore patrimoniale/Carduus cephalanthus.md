@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

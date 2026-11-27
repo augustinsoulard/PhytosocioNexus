@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Colchicaceae
-**Floraison** : août-octobre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Colchico autumnalis–Arrhenatherenion elatioris subsp. elatioris de Foucault 1989
-**Écologie (Baseflor)** : prairies mésohygroclines fauchées, mésothermes, planitiaires collinéennes
+* **Famille** : Colchicaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Colchico autumnalis–Arrhenatherenion elatioris subsp. elatioris de Foucault 1989
+* **Écologie (Baseflor)** : prairies mésohygroclines fauchées, mésothermes, planitiaires collinéennes
 
 ## Répartition
 

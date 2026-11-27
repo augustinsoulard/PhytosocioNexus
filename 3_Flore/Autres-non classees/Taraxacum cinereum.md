@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

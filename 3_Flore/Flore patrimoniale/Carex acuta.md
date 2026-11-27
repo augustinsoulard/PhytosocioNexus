@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Caricion acutae (J. Duvigneaud 1958) Balátová–Tulačková 1963
-**Écologie (Baseflor)** : magnocariçaies sur sols minéraux, eutrophiles, des zones inondables à nappe mobile horizontalement
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricion acutae (J. Duvigneaud 1958) Balátová–Tulačková 1963
+* **Écologie (Baseflor)** : magnocariçaies sur sols minéraux, eutrophiles, des zones inondables à nappe mobile horizontalement
 
 ## Répartition
 

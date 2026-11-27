@@ -6,12 +6,13 @@ cd_nomv18: 81522
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Amaryllidaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
+* **Famille** : Amaryllidaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Xerobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, aéromésohygrophiles, submontagnardes, généralement d'ubac
 
 ## Statuts
 
@@ -20,7 +21,6 @@ auteurs:
 * **Statut ZNIEFF PACA** : D
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

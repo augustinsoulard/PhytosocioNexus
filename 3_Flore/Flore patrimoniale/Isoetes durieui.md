@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Isoetaceae
-**Floraison** : mars-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : pelouses vivaces hygrophiles, oligotrophiles, surtout acidiphiles
+* **Famille** : Isoetaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Antinorio agrostideae–Isoetion longissimae (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : pelouses vivaces hygrophiles, oligotrophiles, surtout acidiphiles
 
 ## Répartition
 

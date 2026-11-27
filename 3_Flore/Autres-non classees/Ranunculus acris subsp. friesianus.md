@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Poo alpinae–Trisetetalia flavescentis Ellmauer & Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : prairies mésohydriques, subalpines à montagnardes supérieures
 
 ## Répartition
 

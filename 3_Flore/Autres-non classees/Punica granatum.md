@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lythraceae
-**Floraison** : juin-juillet
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Lythraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2025
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Répartition
 

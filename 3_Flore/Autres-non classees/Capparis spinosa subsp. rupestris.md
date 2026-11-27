@@ -9,8 +9,8 @@ auteurs:
 
 ## Description
 
-**Famille** : Capparaceae
-**Syntaxon (Baseflor)** : Capparidetalia spinosae Biondi, Blasi & Galdenzi in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+* **Famille** : Capparaceae
+* **Syntaxon (Baseflor)** : Capparidetalia spinosae Biondi, Blasi & Galdenzi in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
 
 ## Répartition
 

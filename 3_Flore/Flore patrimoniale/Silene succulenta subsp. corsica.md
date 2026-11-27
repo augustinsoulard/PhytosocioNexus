@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : avril-juin
-**Type biologique** : hcou
-**Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. australis Braun-Blanquet (1931) 1933 em. Géhu & Géhu-Franck 1988
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles méditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : avril-juin
+* **Type biologique** : hcou
+* **Syntaxon (Baseflor)** : Calamagrostion arenariae subsp. australis Braun-Blanquet (1931) 1933 em. Géhu & Géhu-Franck 1988
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles méditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

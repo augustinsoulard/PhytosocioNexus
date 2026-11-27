@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Type biologique** : gtub-lia
-**Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
+* **Famille** : Convolvulaceae
+* **Type biologique** : Géophyte à tubercule lianescent
+* **Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : CR
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

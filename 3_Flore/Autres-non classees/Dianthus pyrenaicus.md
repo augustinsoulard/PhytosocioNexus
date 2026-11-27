@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Diantho pyrenaici–Scrophularion caninae subsp. Pinnatifidae var. pinnatifidae Baudière & Simmoneau 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, méditerranéennes, catalanes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Diantho pyrenaici–Scrophularion caninae subsp. Pinnatifidae var. pinnatifidae Baudière & Simmoneau 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, méditerranéennes, catalanes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

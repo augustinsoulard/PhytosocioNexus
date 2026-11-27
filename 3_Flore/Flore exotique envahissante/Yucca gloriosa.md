@@ -11,12 +11,12 @@ sources:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Asparagaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
-**Habitats** : Dunes du littoral et çà et là ailleurs autour des habitations.
+* **Habitats** : Dunes du littoral et çà et là ailleurs autour des habitations.
 
 ## Répartition
 

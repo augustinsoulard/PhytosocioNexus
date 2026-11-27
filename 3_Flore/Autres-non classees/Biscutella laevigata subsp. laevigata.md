@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
+* **Famille** : Brassicaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Cyperaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

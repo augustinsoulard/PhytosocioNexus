@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : ccou-suc
-**Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte en coussinets succulent
+* **Syntaxon (Baseflor)** : Sedion albo–sediformis de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, mésoméditerranéennes
 
 ## Répartition
 

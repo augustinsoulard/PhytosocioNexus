@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
+* **Famille** : Asphodelaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Agrostion curtisii de Foucault 1986
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires, thermo-atlantiques
 
 ## Répartition
 

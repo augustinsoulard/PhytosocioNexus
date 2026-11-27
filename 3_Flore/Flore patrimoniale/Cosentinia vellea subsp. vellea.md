@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : novembre-mai
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Pteridaceae
+* **Floraison** : novembre-mai
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

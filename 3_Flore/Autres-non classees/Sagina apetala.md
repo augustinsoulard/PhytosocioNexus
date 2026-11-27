@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Lepidio squamati–Polygonetalia avicularis subsp. depressi Lohmeyer 1970
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, médio-européennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Lepidio squamati–Polygonetalia avicularis subsp. depressi Lohmeyer 1970
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, médio-européennes
 
 ## Répartition
 

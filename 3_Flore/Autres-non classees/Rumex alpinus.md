@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Rumicion alpinum Rübel 1933 ex Scharfetter 1938
-**Écologie (Baseflor)** : mégaphorbiaies subalpines, eutrophiles
+* **Famille** : Polygonaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Rumicion alpinum Rübel 1933 ex Scharfetter 1938
+* **Écologie (Baseflor)** : mégaphorbiaies subalpines, eutrophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juin-août
-**Type biologique** : heri-hpar
-**Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Orobanchaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte érigé hémiparasite
+* **Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 

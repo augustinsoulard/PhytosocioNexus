@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-août
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
-**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+* **Famille** : Asteraceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+* **Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
 
 ## Répartition
 

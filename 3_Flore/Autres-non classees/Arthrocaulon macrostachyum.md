@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : mai-juillet
-**Type biologique** : Cfru-suc
-**Syntaxon (Baseflor)** : Arthrocnemion macrostachyi Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdes 1980
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales
+* **Famille** : Amaranthaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent succulent
+* **Syntaxon (Baseflor)** : Arthrocnemion macrostachyi Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdes 1980
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales
 
 ## Répartition
 

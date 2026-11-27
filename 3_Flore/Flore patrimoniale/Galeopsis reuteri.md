@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Galeopsion segetum Oberdorfer 1957
-**Écologie (Baseflor)** : annuelles pionnières des éboulis planitiaires
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Galeopsion segetum Oberdorfer 1957
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis planitiaires
 
 ## Répartition
 

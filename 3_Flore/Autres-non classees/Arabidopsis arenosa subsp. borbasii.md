@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juillet
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

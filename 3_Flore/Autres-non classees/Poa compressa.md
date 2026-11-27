@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Sedo albi–Poion compressae (Oberdorfer & Müller in Müller 1961) de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles et terrils basophiles, atlantiques, planitiaires-collinéennes
+* **Famille** : Poaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Sedo albi–Poion compressae (Oberdorfer & Müller in Müller 1961) de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles et terrils basophiles, atlantiques, planitiaires-collinéennes
 
 ## Répartition
 

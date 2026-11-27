@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
-**Écologie (Baseflor)** : pelouses acidoclines montagnardes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Nardo strictae–Agrostion capillaris subsp. capillaris Sillinger 1933
+* **Écologie (Baseflor)** : pelouses acidoclines montagnardes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

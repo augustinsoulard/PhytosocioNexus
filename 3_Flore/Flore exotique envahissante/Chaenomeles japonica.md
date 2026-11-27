@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
+* **Famille** : Rosaceae
 
 ## Répartition
 

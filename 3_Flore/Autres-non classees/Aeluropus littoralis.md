@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Juncion maritimi Braun–Blanquet 1931
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles méditerranéens
 
 ## Répartition
 

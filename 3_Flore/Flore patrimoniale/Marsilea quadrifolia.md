@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Marsileaceae
-**Floraison** : juillet-octobre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
+* **Famille** : Marsileaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Eleocharition acicularis Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies oligotrophiles, centro-européennes, planitiaires-collinéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ date_maj: "2026-11-26"
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

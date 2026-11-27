@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Laguro ovati–Vulpion fasciculatae Géhu & Biondi 1994
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Laguro ovati–Vulpion fasciculatae Géhu & Biondi 1994
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, méditerranéennes
 
 ## Répartition
 

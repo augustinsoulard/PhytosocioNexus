@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Arabidion alpinae Béguin 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis grossiers de calcaires compacts, montagnards-subalpins, sciaphiles
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Arabidion alpinae Béguin 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis grossiers de calcaires compacts, montagnards-subalpins, sciaphiles
 
 ## Répartition
 

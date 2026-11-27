@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Cactaceae
+* **Famille** : Cactaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -28,4 +28,3 @@ sources:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

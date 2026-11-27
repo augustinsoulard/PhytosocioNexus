@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lycopodiaceae
-**Type biologique** : csuf-semp
-**Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
-**Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
+* **Famille** : Lycopodiaceae
+* **Type biologique** : Chaméphyte suffrutescent sempervirent
+* **Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
+* **Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Nartheciaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
+* **Famille** : Nartheciaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

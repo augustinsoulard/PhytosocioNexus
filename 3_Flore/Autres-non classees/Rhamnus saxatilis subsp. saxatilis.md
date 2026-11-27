@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Floraison** : mai-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
+* **Famille** : Rhamnaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
 
 ## Répartition
 

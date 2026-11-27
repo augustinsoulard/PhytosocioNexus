@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Floraison** : avril-juillet
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2021
+* **Famille** : Rhamnaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2021
 
 ## Répartition
 

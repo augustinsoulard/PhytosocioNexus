@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : Cfru-suc
-**Syntaxon (Baseflor)** : Suaedion verae Brullo & Furnari 1988
-**Écologie (Baseflor)** : micromangroves de haut-niveau topographique (haut-schorre), sur sol enrichi en matière organique (laisses de mer)
+* **Famille** : Amaranthaceae
+* **Type biologique** : Chaméphyte frutescent succulent
+* **Syntaxon (Baseflor)** : Suaedion verae Brullo & Furnari 1988
+* **Écologie (Baseflor)** : micromangroves de haut-niveau topographique (haut-schorre), sur sol enrichi en matière organique (laisses de mer)
 
 ## Répartition
 

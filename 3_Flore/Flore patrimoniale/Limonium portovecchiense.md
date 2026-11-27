@@ -6,19 +6,19 @@ cd_nomv18: 160018
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Erodio corsici–Limonion articulati (Gamisans & Murraciole 1985) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, corso-sardes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : CR
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

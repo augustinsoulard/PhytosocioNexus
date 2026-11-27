@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Rhodendro hirsuti–Ericetalia herbaceae Grabherr, Greimler & Mucina in Mucina & Grabherr 1993
-**Écologie (Baseflor)** : landes basophiles, subalpines méridionalo-orientales
+* **Famille** : Ericaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Rhodendro hirsuti–Ericetalia herbaceae Grabherr, Greimler & Mucina in Mucina & Grabherr 1993
+* **Écologie (Baseflor)** : landes basophiles, subalpines méridionalo-orientales
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

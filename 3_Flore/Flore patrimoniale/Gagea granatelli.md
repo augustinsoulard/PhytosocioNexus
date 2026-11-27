@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
+* **Famille** : Liliaceae
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE

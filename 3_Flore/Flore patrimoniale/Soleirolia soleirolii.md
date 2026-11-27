@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Urticaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies méditerranéennes
+* **Famille** : Urticaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies méditerranéennes
 
 ## Répartition
 

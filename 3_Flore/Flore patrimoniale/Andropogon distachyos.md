@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-novembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Hyparrhenion hirtae Braun–Blanquet, Pinto da Silva & Rozeira 1956
-**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles, sur pentes caillouteuses, infra- thermo- et mésoméditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-novembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Hyparrhenion hirtae Braun–Blanquet, Pinto da Silva & Rozeira 1956
+* **Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles, sur pentes caillouteuses, infra- thermo- et mésoméditerranéennes
 
 ## Répartition
 

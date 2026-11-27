@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
 
 ## Répartition
 

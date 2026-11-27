@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juin-octobre
-**Type biologique** : Test(Grhi)
-**Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
+* **Famille** : Amaranthaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival (à rhizome)
+* **Syntaxon (Baseflor)** : Chenopodietalia muralis Braun–Blanquet in Braun–Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches annuelles rudérales, nitrophiles, estivales, thermophiles, euryméditerranéennes
 
 ## Répartition
 

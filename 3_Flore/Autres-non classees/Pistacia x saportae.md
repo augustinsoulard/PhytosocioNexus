@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Anacardiaceae
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
+* **Famille** : Anacardiaceae
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
 
 ## Répartition
 

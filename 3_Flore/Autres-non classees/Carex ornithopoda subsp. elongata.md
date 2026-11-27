@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Mesobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, aéromésohygrophiles, submontagnardes, d'ubac
+* **Famille** : Cyperaceae
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Mesobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, aéromésohygrophiles, submontagnardes, d'ubac
 
 ## Répartition
 

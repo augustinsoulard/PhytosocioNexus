@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
-**Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
 
 ## Répartition
 

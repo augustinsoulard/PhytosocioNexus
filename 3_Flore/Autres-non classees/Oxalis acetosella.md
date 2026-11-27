@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Oxalidaceae
-**Floraison** : avril-mai
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
+* **Famille** : Oxalidaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Luzuletalia pilosae Julve 2006 ord. nov. hoc loco
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, acidophiles
 
 ## Répartition
 

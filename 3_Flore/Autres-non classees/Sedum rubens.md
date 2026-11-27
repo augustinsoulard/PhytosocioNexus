@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : tver-suc
-**Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
+* **Famille** : Crassulaceae
+* **Type biologique** : Thérophyte vernal succulent
+* **Syntaxon (Baseflor)** : Geranio purpurei–Cardaminetalia hirsutae Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méso- à subméditerranéens
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-août
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Phyllodoco caeruleae–Vaccinion uliginosi Nordhagen 1936
-**Écologie (Baseflor)** : landes hygrophiles boréales à montagnardes, sur tourbière minéralisée
+* **Famille** : Ericaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Phyllodoco caeruleae–Vaccinion uliginosi Nordhagen 1936
+* **Écologie (Baseflor)** : landes hygrophiles boréales à montagnardes, sur tourbière minéralisée
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

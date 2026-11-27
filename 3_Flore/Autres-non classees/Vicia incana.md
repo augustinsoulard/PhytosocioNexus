@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto-lia
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère lianescent
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetalia mollis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles médio-européens
 
 ## Répartition
 

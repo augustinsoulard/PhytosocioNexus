@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+* **Famille** : Papaveraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
 
 ## Répartition
 

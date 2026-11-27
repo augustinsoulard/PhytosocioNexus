@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : avril-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Parietarietalia judaicae Rivas–Martínez 1960 ex Rivas Goday 1964
-**Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
+* **Famille** : Papaveraceae
+* **Floraison** : avril-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Parietarietalia judaicae Rivas–Martínez 1960 ex Rivas Goday 1964
+* **Écologie (Baseflor)** : chasmophytes de parois européennes et murs eutrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

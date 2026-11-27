@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Sclerochloo durae–Lepidion squamati Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles des tonsures des lieux surpiétinés eutrophiles, sur substrats argileux
+* **Famille** : Poaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sclerochloo durae–Lepidion squamati Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles des tonsures des lieux surpiétinés eutrophiles, sur substrats argileux
 
 ## Répartition
 

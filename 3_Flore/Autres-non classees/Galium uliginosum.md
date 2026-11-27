@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
+* **Famille** : Rubiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
 
 ## Répartition
 

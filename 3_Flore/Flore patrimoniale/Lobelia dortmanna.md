@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juin-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Lobelio dortmannae–Isoetion lacustris Pietsch 1965
-**Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, hyperatlantiques, acidophiles
+* **Famille** : Campanulaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lobelio dortmannae–Isoetion lacustris Pietsch 1965
+* **Écologie (Baseflor)** : parvogéophytaies amphibies courtement exondables, oligotrophiles, hyperatlantiques, acidophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

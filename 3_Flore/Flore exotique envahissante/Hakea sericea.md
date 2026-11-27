@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Proteaceae
+* **Famille** : Proteaceae
 
 ## Répartition
 

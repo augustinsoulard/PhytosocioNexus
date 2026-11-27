@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-juillet
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
+* **Famille** : Rubiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
+* **Famille** : Ranunculaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
 
 ## Répartition
 

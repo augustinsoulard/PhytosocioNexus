@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juillet
-**Type biologique** : test-lia
-**Syntaxon (Baseflor)** : Trifolion dubii Julve 2011 all. nov. hoc loco
-**Écologie (Baseflor)** : annuelles mésohydriques des trouées des prairies (mosaïques contigües)
+* **Famille** : Fabaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival lianescent
+* **Syntaxon (Baseflor)** : Trifolion dubii Julve 2011 all. nov. hoc loco
+* **Écologie (Baseflor)** : annuelles mésohydriques des trouées des prairies (mosaïques contigües)
 
 ## Répartition
 

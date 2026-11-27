@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Achnatherion calamagrostis Jenny–Lips 1930
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, montagnards, héliophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

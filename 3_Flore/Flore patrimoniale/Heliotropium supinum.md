@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Heliotropiaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Verbenion supinae Slavníč 1951
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, en climat continental
+* **Famille** : Heliotropiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Verbenion supinae Slavníč 1951
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, en climat continental
 
 ## Répartition
 

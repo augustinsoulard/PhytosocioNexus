@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
-**Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
+* **Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
 
 ## Répartition
 

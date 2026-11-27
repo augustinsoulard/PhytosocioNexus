@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
-**Écologie (Baseflor)** : annuelles pionnières des éboulis européens
+* **Famille** : Lamiaceae
+* **Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis européens
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cabombaceae
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
+* **Famille** : Cabombaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ranunculion aquatilis Passarge 1964
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, peu profondes, méso à eutrophiles
 
 ## Répartition
 
@@ -37,7 +37,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : J
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

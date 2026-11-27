@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetea mollis Passarge 1979
-**Écologie (Baseflor)** : ourlets acidophiles médio-européens
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetea mollis Passarge 1979
+* **Écologie (Baseflor)** : ourlets acidophiles médio-européens
 
 ## Répartition
 

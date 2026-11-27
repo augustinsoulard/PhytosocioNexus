@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : février-avril
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Callitricho obtusangulae–Ranunculetalia peltati (Passarge 1978) Julve 2004 ord. nov. hoc loco
-**Écologie (Baseflor)** : Pelousesméso à hygrophile, oligotrophiles, thermophiles
+* **Famille** : Plantaginaceae
+* **Floraison** : février-avril
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Callitricho obtusangulae–Ranunculetalia peltati (Passarge 1978) Julve 2004 ord. nov. hoc loco
+* **Écologie (Baseflor)** : Pelousesméso à hygrophile, oligotrophiles, thermophiles
 
 ## Répartition
 

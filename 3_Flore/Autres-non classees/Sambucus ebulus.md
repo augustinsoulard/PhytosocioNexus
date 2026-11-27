@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Viburnaceae
-**Floraison** : juin-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Sambucion ebuli Eliáš 1979
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles, thermophiles
+* **Famille** : Viburnaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Sambucion ebuli Eliáš 1979
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles, thermophiles
 
 ## Répartition
 

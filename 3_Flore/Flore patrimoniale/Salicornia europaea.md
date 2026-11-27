@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-octobre
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Salicornion europaeae Tüxen 1974
-**Écologie (Baseflor)** : annuelles pionnières hygrophiles des vases maritimes, méditerranéo-atlantiques, des schorre inférieur, moyen à supérieur et des sansouires
+* **Famille** : Amaranthaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Salicornion europaeae Tüxen 1974
+* **Écologie (Baseflor)** : annuelles pionnières hygrophiles des vases maritimes, méditerranéo-atlantiques, des schorre inférieur, moyen à supérieur et des sansouires
 
 ## Répartition
 

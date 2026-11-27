@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Asphodelion fistulosi Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
-**Écologie (Baseflor)** : friches xérophiles
+* **Famille** : Asphodelaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Asphodelion fistulosi Biondi, Pesaresi, Galdenzi, Gasparri, Biscotti, del Viscio & Casavecchia 2016
+* **Écologie (Baseflor)** : friches xérophiles
 
 ## Répartition
 

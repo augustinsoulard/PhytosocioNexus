@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1964
-**Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
+* **Famille** : Scrophulariaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Silybo mariani–Urticion piluliferae Sissingh 1950 ex Braun-Blanquet & O. de Bolòs 1964
+* **Écologie (Baseflor)** : friches mésoméditerranéennes occidentales, sur sols profonds humifères
 
 ## Répartition
 

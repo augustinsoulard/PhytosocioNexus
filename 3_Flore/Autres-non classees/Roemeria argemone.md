@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
-**Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
+* **Famille** : Papaveraceae
+* **Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
+* **Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

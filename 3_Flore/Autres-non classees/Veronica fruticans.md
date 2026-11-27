@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
-**Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Caricetea curvulae subsp. curvulae Braun–Blanquet 1948
+* **Écologie (Baseflor)** : pelouses acidophiles arctico-alpines climaciques, chionophobes
 
 ## Répartition
 

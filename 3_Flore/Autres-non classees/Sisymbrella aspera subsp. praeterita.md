@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

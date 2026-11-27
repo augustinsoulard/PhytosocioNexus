@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
+* **Famille** : Solanaceae
 
 ## Répartition
 

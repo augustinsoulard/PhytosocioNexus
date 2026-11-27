@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
+* **Famille** : Euphorbiaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Brometalia rubenti–tectorum Rivas–Martínez & Izco 1977
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophiles à eutrophiles, méditerranéo-atlantiques, vernales
 
 ## D'après INVMED (consulté en 2026)
 
@@ -30,7 +30,6 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

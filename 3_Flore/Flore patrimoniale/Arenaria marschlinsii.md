@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : test(csuf)
-**Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
-**Écologie (Baseflor)** : annuelles pionnières des éboulis européens
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte estival (suffrutescent)
+* **Syntaxon (Baseflor)** : Galeopsietea ladani O. de Bolòs 1968
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis européens
 
 ## Répartition
 

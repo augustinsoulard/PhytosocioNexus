@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mars-juin
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Montio fontanae–Cardaminetea amarae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes
+* **Famille** : Ranunculaceae
+* **Floraison** : mars-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Montio fontanae–Cardaminetea amarae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes
 
 ## Répartition
 

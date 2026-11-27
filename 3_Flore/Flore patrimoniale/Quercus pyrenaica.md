@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fagaceae
-**Floraison** : mai-juin
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Quercion subero–pyrenaicae Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés médio-européens, acidophiles, oligotrophiles, thermophiles, européo-occidentaux
+* **Famille** : Fagaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercion subero–pyrenaicae Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés médio-européens, acidophiles, oligotrophiles, thermophiles, européo-occidentaux
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

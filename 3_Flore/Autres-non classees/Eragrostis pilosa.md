@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+* **Famille** : Poaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
 
 ## Répartition
 

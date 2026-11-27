@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : avril-juin
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Geraniaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : Y
 * **Liste rouge nationale** : RE
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

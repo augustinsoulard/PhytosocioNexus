@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Floraison** : mai-août
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Asphodeletalia macrocarpi Biondi & Allegrezza in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+* **Famille** : Asphodelaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Asphodeletalia macrocarpi Biondi & Allegrezza in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
 
 ## Répartition
 

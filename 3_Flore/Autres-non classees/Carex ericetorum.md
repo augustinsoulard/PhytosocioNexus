@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto(grhi)
-**Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
-**Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère (à rhizome)
+* **Syntaxon (Baseflor)** : Nardetea strictae Rivas Goday & Borja–Carbonell 1961 em. de Foucault 1994
+* **Écologie (Baseflor)** : pelouses acidophiles médio-européennes à boréo-subalpines
 
 ## Répartition
 

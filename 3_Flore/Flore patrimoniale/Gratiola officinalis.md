@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
-**Écologie (Baseflor)** : prairies hydrophiles européennes
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
+* **Écologie (Baseflor)** : prairies hydrophiles européennes
 
-**Habitats :** Lieux humides s'assèchant l'été (ruisseaux, mares, étangs), uniquement sur sol acide et aux eau pauvres en éléments minéraux ([[Phragmition communis]], [[Glycerio fluitantis-Sparganion neglecti]]).
+* **Habitats :** Lieux humides s'assèchant l'été (ruisseaux, mares, étangs), uniquement sur sol acide et aux eau pauvres en éléments minéraux ([[Phragmition communis]], [[Glycerio fluitantis-Sparganion neglecti]]).
 
 ## Répartition
 

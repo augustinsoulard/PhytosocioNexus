@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Ulicetalia minoris Quantin 1935
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Fabaceae
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ulicetalia minoris Quantin 1935
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

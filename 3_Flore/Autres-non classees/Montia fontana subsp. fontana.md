@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Montiaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Montio fontanae–Cardaminetalia amarae Pawłowski in Pawłowski, Sokołowski & Wallisch 1928 em. Maas 1959
-**Écologie (Baseflor)** : microphorbiaies des sources européennes acidophiles, héliophiles
+* **Famille** : Montiaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Montio fontanae–Cardaminetalia amarae Pawłowski in Pawłowski, Sokołowski & Wallisch 1928 em. Maas 1959
+* **Écologie (Baseflor)** : microphorbiaies des sources européennes acidophiles, héliophiles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

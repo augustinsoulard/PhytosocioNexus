@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Convolvulaceae
-**Floraison** : juin-août
-**Type biologique** : test-lia-par
-**Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
+* **Famille** : Convolvulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival lianescent parasite
+* **Syntaxon (Baseflor)** : Lolio remotae–Linion usitatissimi Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures de lin basophiles
 
 ## Répartition
 

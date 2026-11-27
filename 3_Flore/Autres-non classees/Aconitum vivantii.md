@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juillet-août
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
+* **Famille** : Ranunculaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Adenostylion alpinae subsp. pyrenaicae Rivas–Martínez, T.E. Díaz, F. Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles subalpines, pyrénéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

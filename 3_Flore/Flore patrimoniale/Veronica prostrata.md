@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
-**Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Festucion rupicolae Soó (1929) 1940
+* **Écologie (Baseflor)** : pelouses basophiles pannonico-sarmatiques
 
 ## Répartition
 

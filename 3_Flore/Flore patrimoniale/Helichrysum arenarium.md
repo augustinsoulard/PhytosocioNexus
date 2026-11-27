@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Armerion maritimae subsp. elongatae Krausch (1962) 1968
-**Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, centro-européennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Armerion maritimae subsp. elongatae Krausch (1962) 1968
+* **Écologie (Baseflor)** : pelouses des sables basophiles, mésohydriques, centro-européennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : CR*
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

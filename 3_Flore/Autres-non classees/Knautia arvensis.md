@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-août
-**Type biologique** : hbis(hros)
-**Syntaxon (Baseflor)** : Knautio arvensis–Agrimonion eupatoriae Julve 1993
-**Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, planitiaires-collinéens
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte bisannuel (rosetté)
+* **Syntaxon (Baseflor)** : Knautio arvensis–Agrimonion eupatoriae Julve 1993
+* **Écologie (Baseflor)** : ourlets basophiles à neutroclines, mésohydriques, planitiaires-collinéens
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
-**Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
+* **Famille** : Fabaceae
+* **Syntaxon (Baseflor)** : Genistion tinctorio–germanicae (Böcher 1943) de Foucault 1990
+* **Écologie (Baseflor)** : landes planitiaires à collinéennes, centro-européennes, neutroclines
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

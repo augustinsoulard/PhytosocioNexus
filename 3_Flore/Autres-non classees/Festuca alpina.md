@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-août
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
+* **Famille** : Poaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Agrostio capillaris–Oreoselinion nigri Reichhoff & Warthemann 2003
-**Écologie (Baseflor)** : ourlets externes basophiles neutroclines
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Agrostio capillaris–Oreoselinion nigri Reichhoff & Warthemann 2003
+* **Écologie (Baseflor)** : ourlets externes basophiles neutroclines
 
 ## Répartition
 

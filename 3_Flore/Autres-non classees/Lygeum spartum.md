@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
-**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
+* **Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
 
 ## Répartition
 

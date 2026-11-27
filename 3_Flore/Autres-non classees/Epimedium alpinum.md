@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Berberidaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Scillion bifoliae Gillet 1986 em. Julve 1989
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohydriques, planitiaires-collinéens
+* **Famille** : Berberidaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Scillion bifoliae Gillet 1986 em. Julve 1989
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, mésohydriques, planitiaires-collinéens
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

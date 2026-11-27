@@ -9,8 +9,8 @@ auteurs:
 
 ## Description
 
-**Famille** : Apocynaceae
-**Type biologique** : c-suc
+* **Famille** : Apocynaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
+* **Famille** : Caprifoliaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
 
 ## Répartition
 

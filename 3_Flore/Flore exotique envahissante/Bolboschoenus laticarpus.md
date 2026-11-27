@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Bolboschoenion yagaro–laticarpi Delcoigne & Thébaud 2018
+* **Famille** : Cyperaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Bolboschoenion yagaro–laticarpi Delcoigne & Thébaud 2018
 
 ## Répartition
 

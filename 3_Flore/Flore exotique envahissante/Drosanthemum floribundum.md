@@ -10,8 +10,8 @@ sources:
 
 ## Description
 
-**Famille** : Aizoaceae
-**Type biologique** : c-suc
+* **Famille** : Aizoaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 

@@ -6,19 +6,19 @@ cd_nomv18: 1051987
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Juncaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Juncaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

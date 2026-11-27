@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Oleaceae
-**Floraison** : avril-mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Syringo vulgaris–Cotinion coggygriae Jakucs & Vida 1959
-**Écologie (Baseflor)** : buissons thermophiles subméditerranéens serbo-pannoniques
+* **Famille** : Oleaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Syringo vulgaris–Cotinion coggygriae Jakucs & Vida 1959
+* **Écologie (Baseflor)** : buissons thermophiles subméditerranéens serbo-pannoniques
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Oenanthion globulosae de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, sublittorales
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Oenanthion globulosae de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hydrophiles, méditerranéennes, sublittorales
 
 ## Répartition
 

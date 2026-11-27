@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : avril-juin
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
+* **Famille** : Plantaginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
 
 ## Répartition
 

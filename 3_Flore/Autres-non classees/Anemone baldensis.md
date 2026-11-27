@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
-**Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
+* **Famille** : Ranunculaceae
+* **Floraison** : juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Noccaeion rotundifoliae Braun–Blanquet in Braun–Blanquet & Jenny 1926 em. Zollitsch 1966
+* **Écologie (Baseflor)** : grpts vivaces des éboulis basophiles, alpiens, subalpins-alpins, héliophiles
 
 ## Répartition
 

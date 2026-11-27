@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Santalaceae
-**Floraison** : juin-août
-**Type biologique** : hces-hpar
-**Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
+* **Famille** : Santalaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux hémiparasite
+* **Syntaxon (Baseflor)** : Tanaceto corymbosi–Bupleurion falcati subsp. falcati Julve 1993
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, occidentaux
 
 ## Répartition
 

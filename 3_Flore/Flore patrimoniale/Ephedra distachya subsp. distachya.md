@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ephedraceae
-**Floraison** : mai-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
+* **Famille** : Ephedraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
 
 ## Répartition
 

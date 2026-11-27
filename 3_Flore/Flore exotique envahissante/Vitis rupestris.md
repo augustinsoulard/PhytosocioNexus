@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Vitaceae
-**Type biologique** : b-lia-cad
-**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2026
-**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+* **Famille** : Vitaceae
+* **Type biologique** : Nanophanérophyte lianescent caducifolié
+* **Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2026
+* **Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
 
 ## Répartition
 

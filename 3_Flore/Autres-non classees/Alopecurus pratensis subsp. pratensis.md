@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
 
 ## Répartition
 

@@ -7,12 +7,12 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ephedraceae
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
+* **Famille** : Ephedraceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Euphorbio portlandicae–Helichrysion stoechadis Géhu & Tüxen 1972 ex Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, subsubmaritimes, thermo-atlantiques, mésoxérophiles
 
-**Habitats :** Psammophile sur les côtes rocheuses et littorale sableux ([[Ammophiletea]]) notamment le [[Malcolmio littoreae-Ephedretum distachyae]]. Parfois dans des rochers thermophiles calcaires [[Genistion lobelii]]. 
+* **Habitats :** Psammophile sur les côtes rocheuses et littorale sableux ([[Ammophiletea]]) notamment le [[Malcolmio littoreae-Ephedretum distachyae]]. Parfois dans des rochers thermophiles calcaires [[Genistion lobelii]]. 
 
 ## Répartition
 

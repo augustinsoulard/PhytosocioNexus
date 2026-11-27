@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
-**Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
+* **Famille** : Amaranthaceae
+* **Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
+* **Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

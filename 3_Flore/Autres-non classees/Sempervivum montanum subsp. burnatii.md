@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-août
-**Type biologique** : ccou-suc
-**Syntaxon (Baseflor)** : Sedo albi–Scleranthion perennis subsp. perennis Braun–Blanquet (1947) 1955
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Alpes
+* **Famille** : Crassulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte en coussinets succulent
+* **Syntaxon (Baseflor)** : Sedo albi–Scleranthion perennis subsp. perennis Braun–Blanquet (1947) 1955
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles montagnardes, des Alpes
 
 ## Répartition
 

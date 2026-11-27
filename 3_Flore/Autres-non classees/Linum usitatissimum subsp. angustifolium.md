@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Linaceae
-**Floraison** : mai-juillet
-**Type biologique** : hbis(hsto)
-**Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1989
-**Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
+* **Famille** : Linaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (stolonifère)
+* **Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1989
+* **Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
 
 ## Répartition
 

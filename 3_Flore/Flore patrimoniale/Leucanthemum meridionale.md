@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Sedo albi–Poion compressae (Oberdorfer & Müller in Müller 1961) de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles et terrils basophiles, atlantiques, planitiaires-collinéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Sedo albi–Poion compressae (Oberdorfer & Müller in Müller 1961) de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles et terrils basophiles, atlantiques, planitiaires-collinéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

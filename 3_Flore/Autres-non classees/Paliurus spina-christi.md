@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Floraison** : juin-septembre
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Paliuretalia spinae–christi Trinajstić 1978
-**Écologie (Baseflor)** : buissons thermophiles subméditerranéens
+* **Famille** : Rhamnaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Paliuretalia spinae–christi Trinajstić 1978
+* **Écologie (Baseflor)** : buissons thermophiles subméditerranéens
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
+* **Famille** : Brassicaceae
+* **Syntaxon (Baseflor)** : Roemerion hybridae Braun–Blanquet 1931 ex Rivas–Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : annuelles commensales des moissons basophiles, thermophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

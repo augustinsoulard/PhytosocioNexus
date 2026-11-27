@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Sapindaceae
-**Floraison** : mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Aceri campestris–Carpinion betuli Gillet 1986 em. Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés médio-européens, planitiaires-collinéens, basoclines
+* **Famille** : Sapindaceae
+* **Floraison** : mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Aceri campestris–Carpinion betuli Gillet 1986 em. Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés médio-européens, planitiaires-collinéens, basoclines
 
 ## Répartition
 

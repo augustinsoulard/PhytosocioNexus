@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
 
 ## Répartition
 

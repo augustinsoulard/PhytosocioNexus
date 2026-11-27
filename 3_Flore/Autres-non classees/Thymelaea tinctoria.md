@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Salvion rosmarini Braun-Blanquet 1931 ex Molinier 1934
-**Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
+* **Famille** : Thymelaeaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salvion rosmarini Braun-Blanquet 1931 ex Molinier 1934
+* **Écologie (Baseflor)** : garrigues méso à subméditerranéennes occidentales
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

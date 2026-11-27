@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Melampyro pratensis–Holcetea mollis Passarge 1979
-**Écologie (Baseflor)** : ourlets acidophiles médio-européens
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Melampyro pratensis–Holcetea mollis Passarge 1979
+* **Écologie (Baseflor)** : ourlets acidophiles médio-européens
 
 ## Répartition
 

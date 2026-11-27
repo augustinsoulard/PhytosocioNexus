@@ -6,9 +6,10 @@ cd_nomv18: 907646
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Boraginaceae
+* **Famille** : Boraginaceae
 
 ## Statuts
 
@@ -17,4 +18,3 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
 
 ## Répartition
 

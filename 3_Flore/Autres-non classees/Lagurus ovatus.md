@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Laguro ovati–Bromion rigidi Géhu & Géhu–Franck 1985
-**Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, atlantiques
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Laguro ovati–Bromion rigidi Géhu & Géhu–Franck 1985
+* **Écologie (Baseflor)** : friches annuelles, méso-eutrophile, arénicoles, maritimes, atlantiques
 
 ## Répartition
 

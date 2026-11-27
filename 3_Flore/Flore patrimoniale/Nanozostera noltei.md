@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Zosteraceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi-aqua
-**Syntaxon (Baseflor)** : Zosteretalia marinae Béguinot 1941 em. Tüxen & Oberdorfer 1958
-**Écologie (Baseflor)** : herbiers marins phanérogamiques européens
+* **Famille** : Zosteraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Zosteretalia marinae Béguinot 1941 em. Tüxen & Oberdorfer 1958
+* **Écologie (Baseflor)** : herbiers marins phanérogamiques européens
 
 ## Répartition
 

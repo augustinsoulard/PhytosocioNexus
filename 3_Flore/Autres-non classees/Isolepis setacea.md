@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à mésohygrophiles
+* **Famille** : Cyperaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Isolepidetalia setacei de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à mésohygrophiles
 
 ## Répartition
 

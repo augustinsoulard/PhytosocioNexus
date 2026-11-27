@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Amaryllidaceae
+* **Famille** : Amaryllidaceae
 
 ## Répartition
 

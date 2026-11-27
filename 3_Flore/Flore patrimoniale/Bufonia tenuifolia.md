@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Brachypodietalia distachyi Rivas–Martínez 1978
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, méso à subméditerranéennes
 
-**Habitats :** Espèce héliophile, thermophile, xérophile, psammophile des pâturages xériques du [[Trachynion distachyae]].
+* **Habitats :** Espèce héliophile, thermophile, xérophile, psammophile des pâturages xériques du [[Trachynion distachyae]].
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-août
-**Type biologique** : test(hsto)
-**Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival (stolonifère)
+* **Syntaxon (Baseflor)** : Phleo arenarii–Cerastietalia semidecandri (Glowacki 1988) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, sabulicoles, mésohydriques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

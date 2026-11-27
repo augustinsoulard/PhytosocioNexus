@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Radiolion linoidis (Rivas Goday 1964) Pietsch 1965
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, psychro-atlantiques
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Radiolion linoidis (Rivas Goday 1964) Pietsch 1965
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, psychro-atlantiques
 
 ## Répartition
 

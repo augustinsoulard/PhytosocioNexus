@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Allio sphaerocephali–Sedion albi (Oberdorfer & Müller in Müller 1961) de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, planitiaires collinéennes, centro-européennes
+* **Famille** : Brassicaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Allio sphaerocephali–Sedion albi (Oberdorfer & Müller in Müller 1961) de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, planitiaires collinéennes, centro-européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : EN
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

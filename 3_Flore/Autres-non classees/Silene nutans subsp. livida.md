@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
-**Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
+* **Famille** : Caryophyllaceae
+* **Syntaxon (Baseflor)** : Silenion nutantis Catteau 2012 in prep.
+* **Écologie (Baseflor)** : ourlets externes acidophiles des dalles héliophiles
 
 ## Répartition
 

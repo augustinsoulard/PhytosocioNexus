@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-septembre
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
-**Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
+* **Famille** : Asteraceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Corynephorion canescentis Klika 1931
+* **Écologie (Baseflor)** : pelouses des sables mobiles neutroclines
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : NT
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

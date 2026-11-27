@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Trichophorion alpini Julve (1983) 1993
-**Écologie (Baseflor)** : cariçaies des tremblants tourbeux boréo-montagnards basophiles
+* **Famille** : Saxifragaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Trichophorion alpini Julve (1983) 1993
+* **Écologie (Baseflor)** : cariçaies des tremblants tourbeux boréo-montagnards basophiles
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : CR
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

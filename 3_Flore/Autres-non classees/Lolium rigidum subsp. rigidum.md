@@ -7,18 +7,17 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
-**Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Sisymbrietalia officinalis J. Tüxen in Lohmeyer, A. & W. Matuszkiewicz, Merker, Moore, Müller, Oberdorfer, Poli, Seibert, Sukopp, Trautmann, J. Tüxen, R. Tüxen, & Westhoff 1962 ex Görs 1966
+* **Écologie (Baseflor)** : friches annuelles médio-européennes, subnitrophiles à nitrophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

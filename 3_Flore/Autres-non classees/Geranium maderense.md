@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Geraniaceae
+* **Famille** : Geraniaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Directive Habitats** : CDH2, CDH4
-* **Intérêt patrimonial PACA** : NUL

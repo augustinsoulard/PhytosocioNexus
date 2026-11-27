@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-juillet
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
-**Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
+* **Famille** : Apiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Hordeion secalini Horvatić 1934
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées, méditerranéo-atlantiques, glycophiles à subhalophiles
 
 ## Répartition
 

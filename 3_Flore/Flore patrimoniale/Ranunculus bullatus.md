@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Bellido sylvestris–Arisaretalia vulgaris Biondi, Pesaresi, Gasparri, Biscotti, del Viscio, Bonsanto & Casavecchia 2017
-**Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
+* **Famille** : Ranunculaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Bellido sylvestris–Arisaretalia vulgaris Biondi, Pesaresi, Gasparri, Biscotti, del Viscio, Bonsanto & Casavecchia 2017
+* **Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

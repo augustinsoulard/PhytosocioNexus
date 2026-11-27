@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Mentho aquaticae–Juncion inflexi (de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles pâturées, mésothermes, basophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Mentho aquaticae–Juncion inflexi (de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles pâturées, mésothermes, basophiles
 
 ## Répartition
 

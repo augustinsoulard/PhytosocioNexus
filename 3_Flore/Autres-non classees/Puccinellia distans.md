@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces(test)
-**Syntaxon (Baseflor)** : Taraxaco bessarabici–Juncion gerardii Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles à mésohygrophiles, subhalophiles, continentales à arrière-littorale
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux (estival)
+* **Syntaxon (Baseflor)** : Taraxaco bessarabici–Juncion gerardii Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles à mésohygrophiles, subhalophiles, continentales à arrière-littorale
 
 ## Répartition
 

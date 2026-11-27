@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
+* **Famille** : Asteraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Arabidion soyeri Julve ex de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, boréomontagnardes à subalpines
 
 ## Répartition
 

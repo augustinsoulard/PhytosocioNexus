@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
-**Écologie (Baseflor)** : annuelles commensales des cultures
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Stellarietea mediae (Braun–Blanquet 1921) Tüxen, Lohmeyer & Preising in Tüxen 1950 em. Schubert in Schubert, Hilbig & Klotz 1995
+* **Écologie (Baseflor)** : annuelles commensales des cultures
 
 ## Répartition
 

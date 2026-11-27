@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Hordeion marini Ladero, Navarro, Valle, Marcos, Ruiz & Santos 1984
-**Écologie (Baseflor)** : annuelles vernales et rudérales des tonsures subnitrophiles maritimes, thermophiles
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Hordeion marini Ladero, Navarro, Valle, Marcos, Ruiz & Santos 1984
+* **Écologie (Baseflor)** : annuelles vernales et rudérales des tonsures subnitrophiles maritimes, thermophiles
 
 ## Répartition
 

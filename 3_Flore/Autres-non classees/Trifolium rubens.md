@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Anemono sylvestris–Trifolion alpestris Julve 2017 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets externes basophiles médio-européens, mésoxérophiles, orientaux
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
+* **Famille** : Rosaceae
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
 
 ## Répartition
 

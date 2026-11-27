@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Bellio bellidioidis–Schoenion nigricantis Julve 2012 all. nov. hoc loco
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses supraméditerranéennes, basophiles, corso-sardes
+* **Famille** : Asteraceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Bellio bellidioidis–Schoenion nigricantis Julve 2012 all. nov. hoc loco
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses supraméditerranéennes, basophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

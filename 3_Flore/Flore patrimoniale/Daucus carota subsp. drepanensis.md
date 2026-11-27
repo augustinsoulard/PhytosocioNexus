@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-août
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
-**Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
+* **Famille** : Apiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
+* **Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
 
 ## Répartition
 

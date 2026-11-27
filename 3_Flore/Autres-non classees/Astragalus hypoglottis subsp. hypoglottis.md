@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Aphyllanthion monspeliensis Braun–Blanquet (1931) 1947 em. Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : pelouses basophiles méridionales, sub/supraméditerranéennes, marnicoles, mésohygroclines
 
 ## Répartition
 

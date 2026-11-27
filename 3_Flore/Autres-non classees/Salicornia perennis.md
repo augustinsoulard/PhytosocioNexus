@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sarcocornion fruticosae Braun–Blanquet 1933
-**Écologie (Baseflor)** : micromangroves de bas-niveau topographique (bas-schorre)
+* **Famille** : Amaranthaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sarcocornion fruticosae Braun–Blanquet 1933
+* **Écologie (Baseflor)** : micromangroves de bas-niveau topographique (bas-schorre)
 
 ## Répartition
 

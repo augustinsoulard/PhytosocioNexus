@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Sileno uniflorae subsp. uniflorae–Festucion rubrae subsp. pruinosae (Géhu & Géhu–Franck 1984) Géhu in Bardat, Bioret, Botineau, Boullet, Delpech, Géhu, Haury, Lacoste, Rameau, Royer, Roux & Touffet 2004
-**Écologie (Baseflor)** : pelouses aérohalines fermées, des hauts de falaises maritimes atlantiques mieux protégés, souvent sur des replats
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Sileno uniflorae subsp. uniflorae–Festucion rubrae subsp. pruinosae (Géhu & Géhu–Franck 1984) Géhu in Bardat, Bioret, Botineau, Boullet, Delpech, Géhu, Haury, Lacoste, Rameau, Royer, Roux & Touffet 2004
+* **Écologie (Baseflor)** : pelouses aérohalines fermées, des hauts de falaises maritimes atlantiques mieux protégés, souvent sur des replats
 
 ## Répartition
 
@@ -20,7 +20,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

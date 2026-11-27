@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Phillyreo angustifoliae–Pistacietalia lentisci Julve 2025 prov.
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Phillyreo angustifoliae–Pistacietalia lentisci Julve 2025 prov.
 
 ## Répartition
 

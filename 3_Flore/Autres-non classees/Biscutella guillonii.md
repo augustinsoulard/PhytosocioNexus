@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
-**Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Festucion auquieri–marginatae Royer & Ferrez 2019
+* **Écologie (Baseflor)** : pelouses du sud-ouest et d’une partie du centre de la France
 
 ## Répartition
 
@@ -20,7 +20,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

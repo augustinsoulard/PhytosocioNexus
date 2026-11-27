@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : mars-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Galio veri subsp. veri–Geranion sanguinei J.–M. Géhu & J. Géhu 1983
-**Écologie (Baseflor)** : ourlets basophiles mésohydriques, submaritimes
+* **Famille** : Amaryllidaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Galio veri subsp. veri–Geranion sanguinei J.–M. Géhu & J. Géhu 1983
+* **Écologie (Baseflor)** : ourlets basophiles mésohydriques, submaritimes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Directive Habitats** : CDH4, CDH2
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

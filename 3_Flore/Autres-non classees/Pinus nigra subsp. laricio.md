@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : mai-juin
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Pinion nigrae subsp. laricionis Julve 2016 all. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes, tyrrhéniennes, acidophiles
+* **Famille** : Pinaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Pinion nigrae subsp. laricionis Julve 2016 all. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes, tyrrhéniennes, acidophiles
 
 ## Répartition
 

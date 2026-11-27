@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Juncaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

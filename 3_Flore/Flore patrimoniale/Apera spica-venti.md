@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
-**Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Scleranthion annui (Kruseman & Vlieger 1939) Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946
+* **Écologie (Baseflor)** : annuelles commensales des moissons acidophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

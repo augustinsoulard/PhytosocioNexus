@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Rumicenea acetosellae de Foucault 2001
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, médio-européennes à méditerranéennes
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Rumicenea acetosellae de Foucault 2001
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, médio-européennes à méditerranéennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

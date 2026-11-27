@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mai-août
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
+* **Famille** : Caryophyllaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Blechnaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cyclosoro pozoi–Woodwardion radicantis Fernandez–Prieto & Aguiar in Fernandez–Prieto, Aguiar & Dias 2012
-**Écologie (Baseflor)** : associations à fougères des ravins ombragés et humides, acidophiles
+* **Famille** : Blechnaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cyclosoro pozoi–Woodwardion radicantis Fernandez–Prieto & Aguiar in Fernandez–Prieto, Aguiar & Dias 2012
+* **Écologie (Baseflor)** : associations à fougères des ravins ombragés et humides, acidophiles
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

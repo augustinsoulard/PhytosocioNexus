@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cryptogrammion crispae Jenny–Lips 1930
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles grossiers, sciaphiles, montagnards à subalpins
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cryptogrammion crispae Jenny–Lips 1930
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles grossiers, sciaphiles, montagnards à subalpins
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

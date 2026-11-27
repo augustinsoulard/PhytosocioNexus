@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
+* **Famille** : Ranunculaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : Q
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FAIBLE

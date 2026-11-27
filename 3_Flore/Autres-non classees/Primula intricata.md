@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Syntaxon (Baseflor)** : Primulion elatioris subsp. intricatae Braun–Blanquet 1948 ex Vigo 1972
-**Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohygrophiles
+* **Famille** : Primulaceae
+* **Syntaxon (Baseflor)** : Primulion elatioris subsp. intricatae Braun–Blanquet 1948 ex Vigo 1972
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, pyrénéennes, mésohygrophiles
 
 ## Répartition
 

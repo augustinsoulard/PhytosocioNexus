@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-octobre
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Ericaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 

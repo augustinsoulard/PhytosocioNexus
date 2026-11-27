@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Juniperion phoeniceae subsp. turbinatae Rivas Martínez 1975 corr. 1987
+* **Famille** : Cupressaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Juniperion phoeniceae subsp. turbinatae Rivas Martínez 1975 corr. 1987
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mars-avril
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Pruno avium–Carpinetalia betuli Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés médio-européens, mésotrophiles, planitiaires-collinéens
+* **Famille** : Salicaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Pruno avium–Carpinetalia betuli Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés médio-européens, mésotrophiles, planitiaires-collinéens
 
 ## Répartition
 

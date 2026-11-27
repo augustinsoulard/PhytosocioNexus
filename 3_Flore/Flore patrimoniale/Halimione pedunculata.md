@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Salicornion europaeae Tüxen 1974
-**Écologie (Baseflor)** : annuelles pionnières hygrophiles des vases maritimes, méditerranéo-atlantiques, des schorre inférieur, moyen à supérieur et des sansouires
+* **Famille** : Amaranthaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Salicornion europaeae Tüxen 1974
+* **Écologie (Baseflor)** : annuelles pionnières hygrophiles des vases maritimes, méditerranéo-atlantiques, des schorre inférieur, moyen à supérieur et des sansouires
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

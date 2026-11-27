@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
+* **Famille** : Asteraceae
+* **Floraison** : juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricenea nigrae subsp. nigrae (Julve 1983) de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières médio-européennes à boréo-subalpines
 
 ## Répartition
 

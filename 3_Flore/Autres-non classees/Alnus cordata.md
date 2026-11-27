@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Betulaceae
-**Floraison** : février
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Fraxinion angustifoliae subsp. angustifoliae Pedrotti 1970
-**Écologie (Baseflor)** : bois caducifoliés hygrophiles, méso- à supraméditerranéens
+* **Famille** : Betulaceae
+* **Floraison** : février
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Fraxinion angustifoliae subsp. angustifoliae Pedrotti 1970
+* **Écologie (Baseflor)** : bois caducifoliés hygrophiles, méso- à supraméditerranéens
 
 ## Répartition
 

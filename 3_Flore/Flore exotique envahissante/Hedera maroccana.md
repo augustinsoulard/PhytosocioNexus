@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Araliaceae
+* **Famille** : Araliaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -27,4 +27,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

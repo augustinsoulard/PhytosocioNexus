@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
+* **Famille** : Thymelaeaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
 
 ## Répartition
 

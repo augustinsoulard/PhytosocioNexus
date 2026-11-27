@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Thelypteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
+* **Famille** : Thelypteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

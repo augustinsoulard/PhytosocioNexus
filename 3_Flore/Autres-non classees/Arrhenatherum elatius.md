@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Arrhenatheretalia elatioris subsp. elatioris Tüxen 1931
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, planitiaires à montagnardes
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Arrhenatheretalia elatioris subsp. elatioris Tüxen 1931
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, planitiaires à montagnardes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juin
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
-**Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
+* **Écologie (Baseflor)** : matorrals héliophiles thermoméditerranéens
 
 ## Répartition
 

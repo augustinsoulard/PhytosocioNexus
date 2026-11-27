@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-octobre
-**Type biologique** : b-semp
-**Syntaxon (Baseflor)** : σb Ericion terminalis (Gamisans 2013) de Foucault 2018
-**Écologie (Baseflor)** : buissons d'arbrisseaux de Corse
+* **Famille** : Ericaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Nanophanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σb Ericion terminalis (Gamisans 2013) de Foucault 2018
+* **Écologie (Baseflor)** : buissons d'arbrisseaux de Corse
 
 ## Répartition
 
@@ -23,7 +23,6 @@ date_maj: "2026-11-26"
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

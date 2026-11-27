@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-août
-**Type biologique** : ccou-suc
-**Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
+* **Famille** : Crassulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte en coussinets succulent
+* **Syntaxon (Baseflor)** : Sedion hirsuti Julve 2014 all. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles méditerranéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ date_maj: "2026-11-26"
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

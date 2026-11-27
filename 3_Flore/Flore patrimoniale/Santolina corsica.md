@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
-**Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
+* **Famille** : Asteraceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Genistetea corsico–salzmannii (Klein 1972) Julve, de Foucault, Argagnon & Paradis 2012 class. nov. hoc loco
+* **Écologie (Baseflor)** : landes orophiles pulviniformes corso-sardes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

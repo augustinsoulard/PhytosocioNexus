@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Droseraceae
-**Floraison** : juin-août
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
+* **Famille** : Droseraceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
 
 ## Répartition
 

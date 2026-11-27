@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Helictotricho cincinnati–Ampelodesmion mauritanici Minissale 1995
-**Écologie (Baseflor)** : Pelouses et fruticées méditéranéennes xérophiles
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Helictotricho cincinnati–Ampelodesmion mauritanici Minissale 1995
+* **Écologie (Baseflor)** : Pelouses et fruticées méditéranéennes xérophiles
 
 ## Répartition
 

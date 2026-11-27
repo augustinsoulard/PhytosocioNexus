@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : mars-avril
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Salicetalia auritae Doing ex Krausch 1968
-**Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards, hydrophiles, des sols tourbeux
+* **Famille** : Salicaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salicetalia auritae Doing ex Krausch 1968
+* **Écologie (Baseflor)** : buissons d'arbrisseaux médio-européens, planitiaires à montagnards, hydrophiles, des sols tourbeux
 
 ## Répartition
 

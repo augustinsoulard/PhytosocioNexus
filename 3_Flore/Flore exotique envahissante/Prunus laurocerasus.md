@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
-**Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
+* **Famille** : Rosaceae
+* **Floraison** : juin
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Rhamno catharticae–Prunetea spinosae Rivas Goday & Borja Carbonell 1961 ex Tüxen 1962
+* **Écologie (Baseflor)** : buissons arbustifs médio-européens, planitiaires à montagnards
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rhamnaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
-**Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
+* **Famille** : Rhamnaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Myrto communis–Rhamnetea alaterni Julve 2026
+* **Écologie (Baseflor)** : matorrals d'arbustes méditerranéens
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lycopodiaceae
-**Type biologique** : csuf-semp
-**Syntaxon (Baseflor)** : Empetretalia nigri subsp. hermaphroditi Schubert 1960
-**Écologie (Baseflor)** : landes acidophiles psychrophiles arctico-alpines à boréo-subalpines
+* **Famille** : Lycopodiaceae
+* **Type biologique** : Chaméphyte suffrutescent sempervirent
+* **Syntaxon (Baseflor)** : Empetretalia nigri subsp. hermaphroditi Schubert 1960
+* **Écologie (Baseflor)** : landes acidophiles psychrophiles arctico-alpines à boréo-subalpines
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Directive Habitats** : CDH5
 * **Liste rouge nationale** : VU
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cystopteridaceae
-**Floraison** : juin-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Gymnocarpion robertiani Fernandez Casas 1970
-**Écologie (Baseflor)** : pelouses sciaphiles d'éboulis calcaires
+* **Famille** : Cystopteridaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Gymnocarpion robertiani Fernandez Casas 1970
+* **Écologie (Baseflor)** : pelouses sciaphiles d'éboulis calcaires
 
 ## Répartition
 

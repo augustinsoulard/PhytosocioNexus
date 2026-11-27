@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygalaceae
-**Floraison** : mars-mai
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Mesobromopsion erectae Braun-Blanquet & Moor 1938
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales (subatlantiques), mésohydriques à mésohygroclines, mésothermes
+* **Famille** : Polygalaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Mesobromopsion erectae Braun-Blanquet & Moor 1938
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales (subatlantiques), mésohydriques à mésohygroclines, mésothermes
 
 ## Répartition
 

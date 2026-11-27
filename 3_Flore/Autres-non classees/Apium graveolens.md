@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
-**Écologie (Baseflor)** : prairies hydrophiles européennes
+* **Famille** : Apiaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
+* **Écologie (Baseflor)** : prairies hydrophiles européennes
 
 ## Répartition
 

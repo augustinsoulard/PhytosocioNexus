@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lycopodiaceae
-**Floraison** : juin-septembre
-**Type biologique** : csuf-semp
-**Syntaxon (Baseflor)** : Empetretalia nigri subsp. hermaphroditi Schubert 1960
-**Écologie (Baseflor)** : landes acidophiles psychrophiles arctico-alpines à boréo-subalpines
+* **Famille** : Lycopodiaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Chaméphyte suffrutescent sempervirent
+* **Syntaxon (Baseflor)** : Empetretalia nigri subsp. hermaphroditi Schubert 1960
+* **Écologie (Baseflor)** : landes acidophiles psychrophiles arctico-alpines à boréo-subalpines
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
+* **Famille** : Violaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : Z
 * **Liste rouge nationale** : EX
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MAJEUR
 
 ## Indices écologiques (Ellenberg)
 

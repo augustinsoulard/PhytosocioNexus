@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Comaro palustris–Menyanthenea trifoliatae Julve 1998 ex 1999
-**Écologie (Baseflor)** : cariçaies des tremblants tourbeux et gouilles holarctiques
+* **Famille** : Rosaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Comaro palustris–Menyanthenea trifoliatae Julve 1998 ex 1999
+* **Écologie (Baseflor)** : cariçaies des tremblants tourbeux et gouilles holarctiques
 
 ## Répartition
 

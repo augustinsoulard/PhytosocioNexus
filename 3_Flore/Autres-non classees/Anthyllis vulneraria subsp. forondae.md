@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Teucrio pyrenaici–Bromopsion erectae Rivas Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : pelouses basophiles à neutroclines mésoxérophiles, montagnardes, pyrénéennes
+* **Famille** : Fabaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Teucrio pyrenaici–Bromopsion erectae Rivas Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : pelouses basophiles à neutroclines mésoxérophiles, montagnardes, pyrénéennes
 
 ## Répartition
 

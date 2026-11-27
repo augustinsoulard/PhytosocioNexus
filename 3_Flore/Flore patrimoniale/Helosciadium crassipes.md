@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : avril-juin
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Isoetetea longissimae (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies, oligotrophiles, euryméditerranéennes
+* **Famille** : Apiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Isoetetea longissimae (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

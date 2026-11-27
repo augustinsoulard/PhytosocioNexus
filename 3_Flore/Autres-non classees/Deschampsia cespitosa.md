@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
-**Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
+* **Famille** : Poaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Filipendulo ulmariae–Convolvuletea sepium (Preising apud Hülbusch 1973) Géhu & Géhu–Franck 1987
+* **Écologie (Baseflor)** : mégaphorbiaies hygrophiles, planitiaires-collinéennes à montagnardes
 
 ## Répartition
 

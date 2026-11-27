@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Typhaceae
-**Floraison** : juin-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Phragmition australis Koch 1926
-**Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
+* **Famille** : Typhaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Phragmition australis Koch 1926
+* **Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
 
 ## Répartition
 

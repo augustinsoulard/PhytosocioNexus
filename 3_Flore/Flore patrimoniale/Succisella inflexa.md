@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
-**Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
+* **Famille** : Caprifoliaceae
+* **Syntaxon (Baseflor)** : Molinion caeruleae Koch 1926 em. Braun–Blanquet 1947
+* **Écologie (Baseflor)** : moliniaies des prés paratourbeux médio-européens, basophiles
 
 ## Répartition
 
@@ -22,4 +22,3 @@ auteurs:
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MAJEUR

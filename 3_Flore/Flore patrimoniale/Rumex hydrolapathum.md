@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : mai-septembre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
-**Écologie (Baseflor)** : roselières amphibies européennes
+* **Famille** : Polygonaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Phragmitetalia australis Koch 1926 em. Pignatti 1953
+* **Écologie (Baseflor)** : roselières amphibies européennes
 
 ## Répartition
 

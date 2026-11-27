@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-août
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
-**Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
+* **Famille** : Orchidaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
+* **Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Sideriti romanae–Hypochaeridion achyrophori (Braun–Blanquet 1925) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, mésoméditerranéennes, de l'intérieur des terres
+* **Famille** : Rosaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sideriti romanae–Hypochaeridion achyrophori (Braun–Blanquet 1925) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, mésoméditerranéennes, de l'intérieur des terres
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

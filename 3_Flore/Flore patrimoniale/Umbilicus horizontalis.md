@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Crassulaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Phagnalo saxatilis–Allosorion pteridioidis Loisel 1970 corr. Pérez–Carro, T.E. Díaz, P. Fernández & Salvo 1989
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes occidentales, acidophiles, héliophiles, thermoxérophiles
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

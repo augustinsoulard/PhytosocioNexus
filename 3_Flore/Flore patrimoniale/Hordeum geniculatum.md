@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
+* **Famille** : Poaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
 
-**Habitats :** Pelouses à thérophytes hygrophiles.
+* **Habitats :** Pelouses à thérophytes hygrophiles.
 
 ## Répartition
 

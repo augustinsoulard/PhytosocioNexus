@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
-**Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
+* **Famille** : Poaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Geo urbani–Brachypodion sylvatici Julve 2019 all. nov. hoc loco
+* **Écologie (Baseflor)** : ourlets internes eutrophiles, hémisciaphiles, vernaux
 
 ## Répartition
 

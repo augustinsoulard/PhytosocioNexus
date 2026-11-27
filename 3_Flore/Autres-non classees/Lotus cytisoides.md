@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Helichrysetalia italici Biondi & Géhu in Géhu & Biondi 1994
-**Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Helichrysetalia italici Biondi & Géhu in Géhu & Biondi 1994
+* **Écologie (Baseflor)** : pelouses basophiles thermophiles, méditerranéennes-atlantiques, maritimes, mésoxérophiles
 
 ## Répartition
 

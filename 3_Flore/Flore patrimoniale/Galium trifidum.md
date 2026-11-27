@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Rubiaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : EN
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

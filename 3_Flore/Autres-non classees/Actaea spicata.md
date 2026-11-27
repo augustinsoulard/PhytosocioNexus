@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Arunco dioici–Petasition albi Braun–Blanquet & Sutter 1977
-**Écologie (Baseflor)** : mégaphorbiaies montagnardes d'éboulis fins, mésohydriques, méso-oligotrophiles, basophiles, hémisciaphiles
+* **Famille** : Ranunculaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arunco dioici–Petasition albi Braun–Blanquet & Sutter 1977
+* **Écologie (Baseflor)** : mégaphorbiaies montagnardes d'éboulis fins, mésohydriques, méso-oligotrophiles, basophiles, hémisciaphiles
 
 ## Répartition
 

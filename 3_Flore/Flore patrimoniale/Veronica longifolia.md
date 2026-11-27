@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
 
 ## Répartition
 

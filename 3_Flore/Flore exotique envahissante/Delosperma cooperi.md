@@ -10,8 +10,8 @@ sources:
 
 ## Description
 
-**Famille** : Aizoaceae
-**Type biologique** : C-suc
+* **Famille** : Aizoaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 
@@ -33,7 +33,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

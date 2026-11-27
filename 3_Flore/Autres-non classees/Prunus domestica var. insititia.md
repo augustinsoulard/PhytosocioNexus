@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mars-avril
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : σB Ribeso alpini–Viburnion lantanae de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons arbustifs, centro-européens à septentrionaux, planitiaires à montagnards
+* **Famille** : Rosaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σB Ribeso alpini–Viburnion lantanae de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons arbustifs, centro-européens à septentrionaux, planitiaires à montagnards
 
 ## Répartition
 

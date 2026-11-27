@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Cannabaceae
+* **Famille** : Cannabaceae
 
 ## Répartition
 

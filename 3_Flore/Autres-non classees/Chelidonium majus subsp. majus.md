@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Parietarion officinalis Gergely & al. 1966
-**Écologie (Baseflor)** : ourlets eutrophiles ombragés
+* **Famille** : Papaveraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Parietarion officinalis Gergely & al. 1966
+* **Écologie (Baseflor)** : ourlets eutrophiles ombragés
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

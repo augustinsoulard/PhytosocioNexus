@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-septembre
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
-**Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
+* **Famille** : Amaranthaceae
+* **Floraison** : août-septembre
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Pegano harmalae–Salsoletea vermiculatae Braun–Blanquet & O. de Bolòs 1958
+* **Écologie (Baseflor)** : Chaméphytaies halophiles nitrophiles, argillicoles à marneuses, méditerranéennes à atlantico-sahariennes et macaronésiennes, thermoxérophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

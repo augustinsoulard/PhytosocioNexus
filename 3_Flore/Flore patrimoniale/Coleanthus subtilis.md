@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : août-novembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
+* **Famille** : Poaceae
+* **Floraison** : août-novembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
 
 ## Répartition
 
@@ -26,7 +26,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

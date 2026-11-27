@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Buxaceae
+* **Famille** : Buxaceae
 
 ## Répartition
 

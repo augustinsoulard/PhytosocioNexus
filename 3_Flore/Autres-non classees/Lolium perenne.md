@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-octobre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
-**Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
+* **Famille** : Poaceae
+* **Floraison** : mai-octobre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
+* **Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
 
 ## Répartition
 

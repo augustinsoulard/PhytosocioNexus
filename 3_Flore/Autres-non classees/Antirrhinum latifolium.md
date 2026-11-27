@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : avril-novembre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
+* **Famille** : Plantaginaceae
+* **Floraison** : avril-novembre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Sedetalia albi de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, méditerranéennes atlantiques
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Utriculario minoris–Nymphaeion candidae Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
-**Écologie (Baseflor)** : herbiers aquatiques vivaces, des eaux douces moyennement profondes, dystrophiles organiques
+* **Famille** : Potamogetonaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Utriculario minoris–Nymphaeion candidae Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
+* **Écologie (Baseflor)** : herbiers aquatiques vivaces, des eaux douces moyennement profondes, dystrophiles organiques
 
 ## Répartition
 

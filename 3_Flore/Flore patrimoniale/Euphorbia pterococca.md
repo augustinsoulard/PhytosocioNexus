@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
+* **Famille** : Euphorbiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

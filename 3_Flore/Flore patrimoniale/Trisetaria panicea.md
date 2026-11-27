@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
 
 ## Répartition
 

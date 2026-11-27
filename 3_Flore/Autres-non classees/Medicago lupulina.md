@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Trifolion dubii Julve 2011 all. nov. hoc loco
-**Écologie (Baseflor)** : annuelles mésohydriques des trouées des prairies (mosaïques contigües)
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Trifolion dubii Julve 2011 all. nov. hoc loco
+* **Écologie (Baseflor)** : annuelles mésohydriques des trouées des prairies (mosaïques contigües)
 
 ## Répartition
 

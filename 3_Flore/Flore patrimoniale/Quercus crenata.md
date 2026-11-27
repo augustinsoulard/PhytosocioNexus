@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fagaceae
-**Floraison** : avril-mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Fraxino orni–Ostryetalia carpinifoliae Jakucs 1959
-**Écologie (Baseflor)** : associations arborescentes caducifoliées, basophiles, sub/supraméditerranéennes orientales, Italie orientale, Balkans, Anatolie
+* **Famille** : Fagaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Fraxino orni–Ostryetalia carpinifoliae Jakucs 1959
+* **Écologie (Baseflor)** : associations arborescentes caducifoliées, basophiles, sub/supraméditerranéennes orientales, Italie orientale, Balkans, Anatolie
 
 ## Répartition
 

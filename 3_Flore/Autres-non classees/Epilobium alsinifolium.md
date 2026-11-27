@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Onagraceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Montio fontanae–Cardaminetea amarae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes
+* **Famille** : Onagraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Montio fontanae–Cardaminetea amarae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes
 
 ## Répartition
 

@@ -6,19 +6,19 @@ cd_nomv18: 131775
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Actaeo spicatae–Mercurialion perennis Gillet 1986 prov.
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, montagnards à planitiaires, des ubacs ou gorges profondes aérohygrophiles
+* **Famille** : Rubiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Actaeo spicatae–Mercurialion perennis Gillet 1986 prov.
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, montagnards à planitiaires, des ubacs ou gorges profondes aérohygrophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

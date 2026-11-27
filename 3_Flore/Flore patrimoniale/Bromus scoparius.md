@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

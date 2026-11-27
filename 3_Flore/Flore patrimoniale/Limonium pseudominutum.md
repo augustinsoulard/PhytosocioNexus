@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : juin-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Crithmo maritimi - Limonion pseudominuti René Molinier 1934
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
+* **Famille** : Plumbaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Crithmo maritimi - Limonion pseudominuti René Molinier 1934
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
 
 ## Répartition
 

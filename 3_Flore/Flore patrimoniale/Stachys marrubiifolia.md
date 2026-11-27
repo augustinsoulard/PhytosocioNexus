@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
+* **Famille** : Lamiaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

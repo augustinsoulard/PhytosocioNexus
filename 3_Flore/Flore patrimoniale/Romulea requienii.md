@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Floraison** : mars-avril
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
+* **Famille** : Iridaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Ophioglosso lusitanici–Isoetion histricis (Braun–Blanquet 1936) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies longuement exondables, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

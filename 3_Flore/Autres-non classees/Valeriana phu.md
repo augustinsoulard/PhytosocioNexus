@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
+* **Famille** : Caprifoliaceae
+* **Syntaxon (Baseflor)** : Veronico longifoliae–Lysimachienion vulgaris Passarge 1977
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles, centro-européennes
 
 ## Répartition
 

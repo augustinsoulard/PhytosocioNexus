@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Onopordion acanthii Braun-Blanquet in Braun-Blanquet, Gajewski, Wraber & Walas 1936
-**Écologie (Baseflor)** : friches armées monocarpiques, xérophiles, mésothermophiles, centro-européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordion acanthii Braun-Blanquet in Braun-Blanquet, Gajewski, Wraber & Walas 1936
+* **Écologie (Baseflor)** : friches armées monocarpiques, xérophiles, mésothermophiles, centro-européennes
 
 ## Répartition
 

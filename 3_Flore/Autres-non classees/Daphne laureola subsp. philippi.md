@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : février-mai
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Ruscion aculeati Julve 2012 all. nov. hoc loco
-**Écologie (Baseflor)** : chaméphytaies sciaphiles de sous-bois forestier méditerranéo-atlantique
+* **Famille** : Thymelaeaceae
+* **Floraison** : février-mai
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ruscion aculeati Julve 2012 all. nov. hoc loco
+* **Écologie (Baseflor)** : chaméphytaies sciaphiles de sous-bois forestier méditerranéo-atlantique
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

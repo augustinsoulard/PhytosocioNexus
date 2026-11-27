@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cystopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Violo biflorae–Cystopteridion alpinae Fernandez Casas 1970
+* **Famille** : Cystopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Violo biflorae–Cystopteridion alpinae Fernandez Casas 1970
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

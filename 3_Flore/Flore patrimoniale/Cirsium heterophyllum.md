@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Cirsienion heterophyllo–palustris Julve 2011 suball nov. prov. hoc loco
-**Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes acidophiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cirsienion heterophyllo–palustris Julve 2011 suball nov. prov. hoc loco
+* **Écologie (Baseflor)** : mégaphorbiaies boréomontagnardes acidophiles
 
 ## Répartition
 

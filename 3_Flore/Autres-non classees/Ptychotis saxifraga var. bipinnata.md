@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
+* **Famille** : Apiaceae
+* **Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
 
 ## Répartition
 

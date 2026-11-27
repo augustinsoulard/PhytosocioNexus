@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Lavandulo angustifoliae–Genistion cinereae Barbero, Loisel & Quézel 1972
-**Écologie (Baseflor)** : garides basophiles orophiles, mésohydriques, des préalpes
+* **Famille** : Fabaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Lavandulo angustifoliae–Genistion cinereae Barbero, Loisel & Quézel 1972
+* **Écologie (Baseflor)** : garides basophiles orophiles, mésohydriques, des préalpes
 
 ## Répartition
 

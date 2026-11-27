@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Epilobion fleischeri Braun–Blanquet in G. & J. Braun–Blanquet 1934
-**Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières orophiles
+* **Famille** : Asteraceae
+* **Floraison** : août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Epilobion fleischeri Braun–Blanquet in G. & J. Braun–Blanquet 1934
+* **Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières orophiles
 
 ## Répartition
 

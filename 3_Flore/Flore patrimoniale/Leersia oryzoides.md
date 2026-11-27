@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Glycerio fluitantis–Sparganion erecti subsp. neglecti Braun-Blanquet & Sissingh in Boer 1942
-**Écologie (Baseflor)** : parvoglycériaies flottantes amphibies, mésothermes
+* **Famille** : Poaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Glycerio fluitantis–Sparganion erecti subsp. neglecti Braun-Blanquet & Sissingh in Boer 1942
+* **Écologie (Baseflor)** : parvoglycériaies flottantes amphibies, mésothermes
 
 ## Répartition
 

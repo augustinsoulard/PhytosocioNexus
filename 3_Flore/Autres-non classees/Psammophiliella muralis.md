@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Lysimachienion minimae (Rivas Goday 1964) Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, psychro-atlantiques, messicoles
+* **Famille** : Caryophyllaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Lysimachienion minimae (Rivas Goday 1964) Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, psychro-atlantiques, messicoles
 
 ## Répartition
 

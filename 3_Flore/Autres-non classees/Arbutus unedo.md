@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : octobre-janvier
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa alliance acidophile
+* **Famille** : Ericaceae
+* **Floraison** : octobre-janvier
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa alliance acidophile
 
 ## Répartition
 

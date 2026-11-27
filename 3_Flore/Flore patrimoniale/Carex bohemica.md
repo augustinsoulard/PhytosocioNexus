@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-septembre
-**Type biologique** : test(grhi)
-**Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
+* **Famille** : Cyperaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival (à rhizome)
+* **Syntaxon (Baseflor)** : Eleocharitenion ovatae Pietsch 1973
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles centro-européennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

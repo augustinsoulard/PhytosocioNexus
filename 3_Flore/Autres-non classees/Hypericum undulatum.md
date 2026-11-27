@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Hypericaceae
-**Syntaxon (Baseflor)** : Trocdarido verticillati–Juncenion acutiflori de Foucault & Géhu 1980
-**Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques, planitiaires, thermophiles à mésothermophiles
+* **Famille** : Hypericaceae
+* **Syntaxon (Baseflor)** : Trocdarido verticillati–Juncenion acutiflori de Foucault & Géhu 1980
+* **Écologie (Baseflor)** : jonçaies des prés paratourbeux acidophiles, atlantiques, planitiaires, thermophiles à mésothermophiles
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

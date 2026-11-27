@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Crassulaceae
-**Type biologique** : csuf-suc
-**Syntaxon (Baseflor)** : Sedo albi–Scleranthetea perennis subsp. perennis (Braun–Blanquet 1955) Julve 2014 cla. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles horizontales européennes héliophiles, planitiaires à orophiles
+* **Famille** : Crassulaceae
+* **Type biologique** : Chaméphyte suffrutescent succulent
+* **Syntaxon (Baseflor)** : Sedo albi–Scleranthetea perennis subsp. perennis (Braun–Blanquet 1955) Julve 2014 cla. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles horizontales européennes héliophiles, planitiaires à orophiles
 
 ## Répartition
 

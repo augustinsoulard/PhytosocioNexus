@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto-aqua
-**Syntaxon (Baseflor)** : Potamogetonion graminei (Den Hartog & Segal 1964) Westhoff & Den Held 1969
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, moyennement profondes, oligotrophiles
+* **Famille** : Potamogetonaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Potamogetonion graminei (Den Hartog & Segal 1964) Westhoff & Den Held 1969
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, européens, des eaux douces stagnantes, moyennement profondes, oligotrophiles
 
 ## Répartition
 

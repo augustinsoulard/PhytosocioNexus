@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Tripolietea pannonici Westhoff & Beeftink in Westhoff, van Leeuwen & Adriani 1962
-**Écologie (Baseflor)** : végétation herbacée vivace des prés salés vasicoles holarctiques
+* **Famille** : Juncaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Tripolietea pannonici Westhoff & Beeftink in Westhoff, van Leeuwen & Adriani 1962
+* **Écologie (Baseflor)** : végétation herbacée vivace des prés salés vasicoles holarctiques
 
 ## Répartition
 

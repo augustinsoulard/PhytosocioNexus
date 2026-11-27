@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Elaeagnaceae
-**Floraison** : mars-mai
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Salici eleagni subsp. eleagni–Hippophaeion rhamnoidis subsp. fluviatilis de Foucault & Julve 2001
-**Écologie (Baseflor)** : buissons arbustifs montagnards, mésohygrophiles
+* **Famille** : Elaeagnaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salici eleagni subsp. eleagni–Hippophaeion rhamnoidis subsp. fluviatilis de Foucault & Julve 2001
+* **Écologie (Baseflor)** : buissons arbustifs montagnards, mésohygrophiles
 
 ## Répartition
 

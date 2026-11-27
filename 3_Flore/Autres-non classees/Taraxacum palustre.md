@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : avril-juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
+* **Famille** : Asteraceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
 
 ## Répartition
 

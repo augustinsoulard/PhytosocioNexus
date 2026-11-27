@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
+* **Famille** : Poaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -30,4 +30,3 @@ sources:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

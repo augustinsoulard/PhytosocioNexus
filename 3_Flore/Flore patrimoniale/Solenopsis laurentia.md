@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Cicendio filiformis–Solenopsion laurentiae Brullo & Minissale 1998
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, méditerranéennes
+* **Famille** : Campanulaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Cicendio filiformis–Solenopsion laurentiae Brullo & Minissale 1998
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles, acidophiles, méditerranéennes
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : mars-octobre
-**Type biologique** : test(csuf)
-**Syntaxon (Baseflor)** : Ornithopo pinnati–Malcolmion ramosissimae (Rivas Goday 1958) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes, catalano-provençales à corse
+* **Famille** : Caryophyllaceae
+* **Floraison** : mars-octobre
+* **Type biologique** : Thérophyte estival (suffrutescent)
+* **Syntaxon (Baseflor)** : Ornithopo pinnati–Malcolmion ramosissimae (Rivas Goday 1958) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, thermoméditerranéennes, maritimes, catalano-provençales à corse
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Araceae
-**Type biologique** : gbul-aqua
-**Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
-**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
+* **Famille** : Araceae
+* **Type biologique** : Géophyte à bulbe aquatique
+* **Syntaxon (Baseflor)** : Lemnion gibbae Tüxen & Schwabe in Tüxen 1974
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : J
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

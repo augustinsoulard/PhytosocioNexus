@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
-**Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Lygeo sparti–Macrochloetea tenacissimae Rivas–Martínez 1978
+* **Écologie (Baseflor)** : pelouses basophiles subdésertiques, xérophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

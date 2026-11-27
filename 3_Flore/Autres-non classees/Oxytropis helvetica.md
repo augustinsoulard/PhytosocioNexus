@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Caricion myosuroidis Gams 1936
-**Écologie (Baseflor)** : pelouses basophiles alpines climaciques, alpiennes, chionophobes
+* **Famille** : Fabaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Caricion myosuroidis Gams 1936
+* **Écologie (Baseflor)** : pelouses basophiles alpines climaciques, alpiennes, chionophobes
 
 ## Répartition
 

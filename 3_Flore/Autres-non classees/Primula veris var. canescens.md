@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
+* **Famille** : Primulaceae
 
 ## Répartition
 

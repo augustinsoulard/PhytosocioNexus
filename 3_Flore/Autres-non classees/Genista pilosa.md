@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
-**Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
+* **Famille** : Fabaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
+* **Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Tamaricaceae
-**Type biologique** : B-cad
-**Syntaxon (Baseflor)** : Rubo ulmifolii–Nerion oleandri O. de Bolòs 1985
-**Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, dulçaquicoles, méditerranéo-atlantiques, des sols minéraux
+* **Famille** : Tamaricaceae
+* **Type biologique** : Microphanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rubo ulmifolii–Nerion oleandri O. de Bolòs 1985
+* **Écologie (Baseflor)** : buissons d'arbrisseaux hydrophiles, dulçaquicoles, méditerranéo-atlantiques, des sols minéraux
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
+* **Famille** : Ranunculaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

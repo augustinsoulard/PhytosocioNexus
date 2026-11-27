@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Floraison** : mai-septembre
-**Type biologique** : Hsto-aqua-car
-**Syntaxon (Baseflor)** : Utricularion vulgaris Passarge 1964
-**Écologie (Baseflor)** : Utriculaires annuelles, libres, flottantes, européennes, oligotrophiles
+* **Famille** : Lentibulariaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère aquatique carnivore
+* **Syntaxon (Baseflor)** : Utricularion vulgaris Passarge 1964
+* **Écologie (Baseflor)** : Utriculaires annuelles, libres, flottantes, européennes, oligotrophiles
 
 ## Répartition
 

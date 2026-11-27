@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Loto pedunculati–Cardaminenalia pratensis subsp. pratensis Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles, médio-européennes, mésothermes
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
-* **Intérêt patrimonial PACA** : MAJEUR

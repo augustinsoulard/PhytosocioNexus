@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
-**Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
+* **Famille** : Amaryllidaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Agrostio stoloniferae–Scirpoidion holoschoeni de Foucault in de Foucault & Catteau 2012
+* **Écologie (Baseflor)** : prairies hygrophiles, thermophiles, mésoméditerranéennes
 
 ## Répartition
 

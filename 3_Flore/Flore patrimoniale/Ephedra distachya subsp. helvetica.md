@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ephedraceae
-**Floraison** : avril-mai
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
-**Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
+* **Famille** : Ephedraceae
+* **Floraison** : avril-mai
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Stipo capillatae–Poion perconcinnae Braun–Blanquet 1961
+* **Écologie (Baseflor)** : pelouses basophiles centro-européennes, steppiques, des sols constitués des Alpes internes
 
 ## Répartition
 

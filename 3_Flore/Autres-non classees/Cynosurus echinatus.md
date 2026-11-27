@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Hispidello hispanicae–Ctenopsion delicatulae de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes, xérophiles, oligotrophiles
+* **Famille** : Poaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Hispidello hispanicae–Ctenopsion delicatulae de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures acidophiles, thermophiles, mésoméditerranéennes, xérophiles, oligotrophiles
 
 ## Répartition
 

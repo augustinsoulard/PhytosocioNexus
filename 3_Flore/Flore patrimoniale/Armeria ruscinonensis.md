@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : avril-juin
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
+* **Famille** : Plumbaginaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

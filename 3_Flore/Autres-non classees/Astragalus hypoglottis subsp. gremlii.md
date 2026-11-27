@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Ononidion cristatae Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses des adrets montagnards supérieurs des alpes méridionales
+* **Famille** : Fabaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Ononidion cristatae Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses des adrets montagnards supérieurs des alpes méridionales
 
 ## Répartition
 

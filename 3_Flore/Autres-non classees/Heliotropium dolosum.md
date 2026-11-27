@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Heliotropiaceae
+* **Famille** : Heliotropiaceae
 
 ## Répartition
 

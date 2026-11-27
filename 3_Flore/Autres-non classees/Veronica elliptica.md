@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-septembre
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2021
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σB Lonicero periclymeni–Franguletalia alni de Foucault 2021
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-août
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
-**Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-août
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Teucrion mari Gamisans & Murraciole 1985
+* **Écologie (Baseflor)** : landes thermo à mésoméditerranéennes corso-sardes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

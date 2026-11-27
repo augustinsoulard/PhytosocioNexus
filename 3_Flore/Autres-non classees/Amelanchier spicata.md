@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
+* **Famille** : Rosaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

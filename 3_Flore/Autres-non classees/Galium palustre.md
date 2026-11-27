@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
-**Écologie (Baseflor)** : prairies hydrophiles européennes
+* **Famille** : Rubiaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Eleocharitetalia palustris subsp. palustris de Foucault 1984
+* **Écologie (Baseflor)** : prairies hydrophiles européennes
 
 ## Répartition
 

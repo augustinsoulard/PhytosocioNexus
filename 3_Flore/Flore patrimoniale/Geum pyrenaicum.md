@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juillet-août
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
-**Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
+* **Famille** : Rosaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
+* **Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

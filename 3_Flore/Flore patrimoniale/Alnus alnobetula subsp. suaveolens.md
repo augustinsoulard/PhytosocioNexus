@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Betulaceae
-**Floraison** : avril-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Alnion alnobetulae Schnyder 1930
-**Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, des zones d'éboulis subalpins
+* **Famille** : Betulaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Alnion alnobetulae Schnyder 1930
+* **Écologie (Baseflor)** : buissons d'arbrisseaux mésohydriques, des zones d'éboulis subalpins
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

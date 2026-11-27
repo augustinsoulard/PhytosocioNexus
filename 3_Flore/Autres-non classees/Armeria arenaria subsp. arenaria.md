@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : mai-septembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
+* **Famille** : Plumbaginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

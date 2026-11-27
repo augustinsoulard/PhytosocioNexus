@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
-**Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
+* **Famille** : Plumbaginaceae
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonion pseudominuti René Molinier 1934
+* **Écologie (Baseflor)** : pelouses aérohalines méditerranéennes, catalano-provençales
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

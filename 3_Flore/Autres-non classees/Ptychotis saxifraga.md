@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
+* **Famille** : Apiaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Achnatheretalia calamagrostis Oberdorfer & Seibert in Oberdorfer 1977
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins à moyens, médio-européens, basophiles, planitiaires à montagnards (adrets), héliophiles, thermophiles
 
 ## Répartition
 

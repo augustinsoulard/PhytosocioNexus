@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Liliaceae
+* **Famille** : Liliaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Z
-* **Intérêt patrimonial PACA** : FAIBLE

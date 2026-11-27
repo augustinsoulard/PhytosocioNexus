@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Eragrostio minoris–Polygonion avicularis subsp. depressi Couderc & Izco 1986 ex Čarni & Mucina 1997
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, méditerranéennes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eragrostio minoris–Polygonion avicularis subsp. depressi Couderc & Izco 1986 ex Čarni & Mucina 1997
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, méditerranéennes
 
 ## Répartition
 

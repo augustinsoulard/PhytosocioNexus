@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Floraison** : avril-juin
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Hyperico linariifolii–Sedion rupestris de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles acidophiles atlantiques
+* **Famille** : Ranunculaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Hyperico linariifolii–Sedion rupestris de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles acidophiles atlantiques
 
 ## Répartition
 

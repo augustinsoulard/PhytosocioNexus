@@ -6,18 +6,18 @@ cd_nomv18: 134106
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Ephedraceae
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : ?
-**Écologie (Baseflor)** : garides basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées ibéro-provençales
+* **Famille** : Ephedraceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : ?
+* **Écologie (Baseflor)** : garides basophiles orophiles, mésoxérophiles, mésothermes, des crêtes ventées ibéro-provençales
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

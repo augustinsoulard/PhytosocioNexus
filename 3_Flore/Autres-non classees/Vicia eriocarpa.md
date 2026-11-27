@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : Tver
-**Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
+* **Famille** : Fabaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
 
 ## Répartition
 

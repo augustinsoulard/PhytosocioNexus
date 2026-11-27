@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Phragmition australis Koch 1926
-**Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Phragmition australis Koch 1926
+* **Écologie (Baseflor)** : magnoroselières médio-européennes stabilisées
 
 ## Répartition
 

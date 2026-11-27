@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : landes atlantiques
+* **Famille** : Ericaceae
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Calluno vulgaris–Ulicetea minoris Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : landes atlantiques
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

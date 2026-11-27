@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-juillet
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Artemision arborescentis (Géhu & Biondi in Géhu, Biondi & Géhu–Franck 1986) Géhu & Biondi 1994
-**Écologie (Baseflor)** : friches halophiles littorales, corses
+* **Famille** : Asteraceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Artemision arborescentis (Géhu & Biondi in Géhu, Biondi & Géhu–Franck 1986) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : friches halophiles littorales, corses
 
 ## Répartition
 

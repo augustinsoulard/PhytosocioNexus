@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Ruppion maritimae Braun–Blanquet 1931 em. Den Hartog & Segal 1964
-**Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux stagnantes peu profondes, saumâtres
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Ruppion maritimae Braun–Blanquet 1931 em. Den Hartog & Segal 1964
+* **Écologie (Baseflor)** : herbiers aquatiques, vivaces, enracinés, des eaux stagnantes peu profondes, saumâtres
 
 ## Répartition
 

@@ -10,8 +10,8 @@ sources:
 
 ## Description
 
-**Famille** : Cactaceae
-**Type biologique** : c-suc
+* **Famille** : Cactaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 

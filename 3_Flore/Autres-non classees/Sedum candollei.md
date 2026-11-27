@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : juin-août
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Galeopsion pyrenaicae Rivas–Martínez 1977
-**Écologie (Baseflor)** : annuelles pionnières des éboulis acidophiles de montagne, pyrénéens à cévenoles
+* **Famille** : Crassulaceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Galeopsion pyrenaicae Rivas–Martínez 1977
+* **Écologie (Baseflor)** : annuelles pionnières des éboulis acidophiles de montagne, pyrénéens à cévenoles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

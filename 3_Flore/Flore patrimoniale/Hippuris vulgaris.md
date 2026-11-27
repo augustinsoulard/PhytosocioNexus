@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Equisetion fluviatilis Passarge 1999
-**Écologie (Baseflor)** : parvoroselières amphibies, pionnières de bords d'étangs et de mares méso-oligotrophiles
+* **Famille** : Plantaginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Equisetion fluviatilis Passarge 1999
+* **Écologie (Baseflor)** : parvoroselières amphibies, pionnières de bords d'étangs et de mares méso-oligotrophiles
 
 ## Répartition
 

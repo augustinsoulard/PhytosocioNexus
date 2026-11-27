@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-juillet
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Vaccinio microcarpi–Empetrion nigri subsp. hermaphroditi Nordhagen 1936
-**Écologie (Baseflor)** : landes hygrophiles boréales à montagnardes, sur tourbière active
+* **Famille** : Ericaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Vaccinio microcarpi–Empetrion nigri subsp. hermaphroditi Nordhagen 1936
+* **Écologie (Baseflor)** : landes hygrophiles boréales à montagnardes, sur tourbière active
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

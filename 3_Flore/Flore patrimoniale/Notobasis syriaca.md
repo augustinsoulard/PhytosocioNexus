@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Onopordion illyrici subsp. illyrici Oberdorfer 1954
-**Écologie (Baseflor)** : friches mésoméditerranéennes centrales à orientales
+* **Famille** : Asteraceae
+* **Floraison** : juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Onopordion illyrici subsp. illyrici Oberdorfer 1954
+* **Écologie (Baseflor)** : friches mésoméditerranéennes centrales à orientales
 
 ## Répartition
 

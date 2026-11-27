@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Bupleuro baldensis–Brachypodion distachyi (Braun–Blanquet 1925) de Foucault 1999
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, subméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : juin-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bupleuro baldensis–Brachypodion distachyi (Braun–Blanquet 1925) de Foucault 1999
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéromésohydriques, subméditerranéennes
 
 ## Répartition
 

@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : mai-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
+* **Famille** : Asteraceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Hordeion murinum subsp. leporinum (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : friches annuelles, eutrophiles, mésoméditerranéennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Scheuchzerio palustris–Caricetea nigrae (Nordhagen 1936) Tüxen 1937 em. Julve 1999
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières holarctiques
 
 ## Répartition
 

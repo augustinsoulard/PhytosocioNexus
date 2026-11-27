@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
-**Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
+* **Famille** : Plumbaginaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
+* **Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
 
 ## Répartition
 

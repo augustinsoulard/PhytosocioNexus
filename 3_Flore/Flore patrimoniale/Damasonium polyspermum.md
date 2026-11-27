@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Alismataceae
-**Floraison** : mai-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
+* **Famille** : Alismataceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crassulo vaillantii–Lythrion borysthenici de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles subméditerranéennes, oligotrophiles
 
 ## Répartition
 

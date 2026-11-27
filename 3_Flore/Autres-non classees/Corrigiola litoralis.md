@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Spergulo arvensis–Corrigiolenion litoralis Felzines & Loiseau 2005
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles, mésotrophiles, mésothermes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Spergulo arvensis–Corrigiolenion litoralis Felzines & Loiseau 2005
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles, mésotrophiles, mésothermes
 
 ## Répartition
 

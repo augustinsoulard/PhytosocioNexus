@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : mai-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Cistion ladaniferi (Braun–Blanquet 1931) Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
-**Écologie (Baseflor)** : cistaies méso- à thermoméditerranéennes occidentales
+* **Famille** : Cistaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Cistion ladaniferi (Braun–Blanquet 1931) Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
+* **Écologie (Baseflor)** : cistaies méso- à thermoméditerranéennes occidentales
 
 ## Répartition
 

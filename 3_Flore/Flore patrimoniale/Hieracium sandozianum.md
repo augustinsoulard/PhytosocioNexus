@@ -6,12 +6,12 @@ cd_nomv18: 102492
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Asteraceae
+* **Famille** : Asteraceae
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
-* **Intérêt patrimonial PACA** : MAJEUR

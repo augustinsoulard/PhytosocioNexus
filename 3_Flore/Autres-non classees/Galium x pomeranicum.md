@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
+* **Famille** : Rubiaceae
 
 ## Répartition
 

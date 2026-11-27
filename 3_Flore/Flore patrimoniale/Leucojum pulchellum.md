@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : février-avril
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies méditerranéennes
+* **Famille** : Amaryllidaceae
+* **Floraison** : février-avril
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies méditerranéennes
 
 ## Répartition
 

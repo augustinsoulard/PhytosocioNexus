@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Solanaceae
-**Floraison** : juin-septembre
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
-**Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
+* **Famille** : Solanaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Artemisietalia vulgaris Lohmeyer in Tüxen 1947
+* **Écologie (Baseflor)** : friches vivaces mésoxérophiles européennes
 
 ## Répartition
 

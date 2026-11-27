@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lentibulariaceae
-**Floraison** : juin-août
-**Type biologique** : hros-car
-**Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Lentibulariaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté carnivore
+* **Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 

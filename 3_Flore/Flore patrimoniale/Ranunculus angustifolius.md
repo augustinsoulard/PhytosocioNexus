@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Eriophorion scheuchzeri Hadàč 1939
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles alpines à subalpines
+* **Famille** : Ranunculaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Eriophorion scheuchzeri Hadàč 1939
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles alpines à subalpines
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

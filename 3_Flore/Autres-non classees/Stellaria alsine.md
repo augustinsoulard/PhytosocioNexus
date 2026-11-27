@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Montio fontanae–Cardaminetea amarae Braun–Blanquet & Tüxen 1943
-**Écologie (Baseflor)** : microphorbiaies des sources laurasiennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Montio fontanae–Cardaminetea amarae Braun–Blanquet & Tüxen 1943
+* **Écologie (Baseflor)** : microphorbiaies des sources laurasiennes
 
 ## Répartition
 

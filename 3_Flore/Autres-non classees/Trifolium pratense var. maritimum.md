@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Sileno uniflorae subsp. uniflorae–Festucion rubrae subsp. pruinosae (Géhu & Géhu–Franck 1984) Géhu in Bardat, Bioret, Botineau, Boullet, Delpech, Géhu, Haury, Lacoste, Rameau, Royer, Roux & Touffet 2004
-**Écologie (Baseflor)** : pelouses aérohalines fermées, des hauts de falaises maritimes atlantiques mieux protégés, souvent sur des replats
+* **Famille** : Fabaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Sileno uniflorae subsp. uniflorae–Festucion rubrae subsp. pruinosae (Géhu & Géhu–Franck 1984) Géhu in Bardat, Bioret, Botineau, Boullet, Delpech, Géhu, Haury, Lacoste, Rameau, Royer, Roux & Touffet 2004
+* **Écologie (Baseflor)** : pelouses aérohalines fermées, des hauts de falaises maritimes atlantiques mieux protégés, souvent sur des replats
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

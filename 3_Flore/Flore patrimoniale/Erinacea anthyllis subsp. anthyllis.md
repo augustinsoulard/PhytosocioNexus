@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mai-juin
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Erinaceetalia anthyllidis Quézel 1953
-**Écologie (Baseflor)** : garides oroméditerranéennes à orophiles méridionales
+* **Famille** : Fabaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Erinaceetalia anthyllidis Quézel 1953
+* **Écologie (Baseflor)** : garides oroméditerranéennes à orophiles méridionales
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

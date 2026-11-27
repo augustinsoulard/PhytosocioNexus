@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : avril-mai
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : Pinetalia halepensis Biondi, Blasi, Galdenzi, Pesaresi & Vagge in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
-**Écologie (Baseflor)** : pinèdes pionnières thermo à mésoméditerranéennes
+* **Famille** : Pinaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Pinetalia halepensis Biondi, Blasi, Galdenzi, Pesaresi & Vagge in Biondi, Allegrezza, Casavecchia, Galdenzi, Gasparri, Pesaresi, Vagge & Blasi 2014
+* **Écologie (Baseflor)** : pinèdes pionnières thermo à mésoméditerranéennes
 
 ## Répartition
 

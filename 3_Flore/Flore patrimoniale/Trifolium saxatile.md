@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juillet-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Trifolion saxatilis Julve 2024 all. nov. prov. hoc loco
-**Écologie (Baseflor)** : annuelles orophiles des graviers de torrents
+* **Famille** : Fabaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Trifolion saxatilis Julve 2024 all. nov. prov. hoc loco
+* **Écologie (Baseflor)** : annuelles orophiles des graviers de torrents
 
 ## Répartition
 

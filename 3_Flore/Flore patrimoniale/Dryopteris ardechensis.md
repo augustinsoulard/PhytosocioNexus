@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Dryopteridaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
-**Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
+* **Famille** : Dryopteridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Epilobion collini Lacourt 1993 mscr
+* **Écologie (Baseflor)** : grpts vivaces des éboulis acidophiles fins à moyens, planitiaires à subalpins
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
-**Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Crithmo maritimi–Limonietea pseudominuti Braun–Blanquet 1947
+* **Écologie (Baseflor)** : pelouses aérohalines des falaises maritimes méditerranéennes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : S
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

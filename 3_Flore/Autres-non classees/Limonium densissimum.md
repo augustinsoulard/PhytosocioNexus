@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Limoniastrion monopetali Pignatti 1953
-**Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales, sabulicoles
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Limoniastrion monopetali Pignatti 1953
+* **Écologie (Baseflor)** : parvochaméphytaies halophiles supralittorales, sabulicoles
 
 ## Répartition
 

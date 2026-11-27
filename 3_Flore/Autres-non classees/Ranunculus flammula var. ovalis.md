@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Littorellion uniflorae Koch 1926
-**Écologie (Baseflor)** : parvogéophytaies amphibies exondables, vivaces, oligotrophiles, des grèves d'étangs et lacs boréomontagnards à alpins
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Littorellion uniflorae Koch 1926
+* **Écologie (Baseflor)** : parvogéophytaies amphibies exondables, vivaces, oligotrophiles, des grèves d'étangs et lacs boréomontagnards à alpins
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

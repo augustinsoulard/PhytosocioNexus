@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Juncaginaceae
-**Floraison** : mai-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
+* **Famille** : Juncaginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
 
 ## Répartition
 

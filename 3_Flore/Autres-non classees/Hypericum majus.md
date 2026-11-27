@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Hypericaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
+* **Famille** : Hypericaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -6,18 +6,18 @@ cd_nomv18: 139690
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Bellidio bernardii–Bellion nivalis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses oro à altiméditerranéennes, acidophiles, corso-sardes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

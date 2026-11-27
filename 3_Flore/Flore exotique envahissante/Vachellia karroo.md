@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-juillet
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : Vachellietea karroo Du Preez & Bredenkamp 1991
-**Écologie (Baseflor)** : forêts d'Afrique du sud tempérée
+* **Famille** : Fabaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Vachellietea karroo Du Preez & Bredenkamp 1991
+* **Écologie (Baseflor)** : forêts d'Afrique du sud tempérée
 
 ## Répartition
 
@@ -36,7 +36,6 @@ sources:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

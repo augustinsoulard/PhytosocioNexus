@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
+* **Famille** : Poaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Elatino triandrae–Cyperetalia fusci de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles (longuement inondables)
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
+* **Famille** : Asteraceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : D
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

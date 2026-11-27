@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Écologie (Baseflor)** : lieux humides, bords des rivières, buissons des lieux montagneux
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Écologie (Baseflor)** : lieux humides, bords des rivières, buissons des lieux montagneux
 
 ## Répartition
 

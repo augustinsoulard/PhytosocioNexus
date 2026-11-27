@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Portulacaceae
+* **Famille** : Portulacaceae
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-juillet
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Genistion hispanicae subsp. occidentalis Rivas Martínez in Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : garrigues basophiles orophiles, mésohydriques, pyrénéo-cantabriques
+* **Famille** : Fabaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Genistion hispanicae subsp. occidentalis Rivas Martínez in Rivas Martínez, T.E. Díaz, Fernández Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : garrigues basophiles orophiles, mésohydriques, pyrénéo-cantabriques
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

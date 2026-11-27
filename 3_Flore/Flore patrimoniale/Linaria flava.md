@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
+* **Famille** : Plantaginaceae
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 * **Directive Habitats** : CDH2, CDH4
 * **Liste rouge nationale** : NT
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
-**Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
+* **Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 

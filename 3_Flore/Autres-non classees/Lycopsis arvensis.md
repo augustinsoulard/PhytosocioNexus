@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : mai-septembre
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
+* **Famille** : Boraginaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Digitario sanguinalis–Setarion viridis Sissingh in Westhoff, Dijk, Passchier & Sissingh 1946 em. Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées acidophiles, mésohydriques, des sols sableux
 
 ## Répartition
 

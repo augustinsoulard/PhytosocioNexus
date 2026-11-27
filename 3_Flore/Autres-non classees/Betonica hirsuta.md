@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
-**Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Helictotrichion sempervirentis Barbero 1968 em. Gaultier 1989
+* **Écologie (Baseflor)** : pelouses basophiles alpiennes, liguriennes, mésohydriques, adrets abrupts
 
 ## Répartition
 

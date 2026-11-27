@@ -13,10 +13,10 @@ sources:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Hbis
-**Syntaxon (Baseflor)** : Onopordion illyrici subsp. illyrici Oberdorfer 1954
-**Écologie (Baseflor)** : friches mésoméditerranéennes centrales à orientales
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordion illyrici subsp. illyrici Oberdorfer 1954
+* **Écologie (Baseflor)** : friches mésoméditerranéennes centrales à orientales
 
 ## Répartition
 

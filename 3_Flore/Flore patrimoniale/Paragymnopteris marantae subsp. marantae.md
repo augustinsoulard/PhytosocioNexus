@@ -6,19 +6,19 @@ cd_nomv18: 612658
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Pteridaceae
-**Floraison** : avril-novembre
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Paragymnopterido marantae–Allosorietalia pteridioidis Sáenz & Rivas–Martínez 1979
-**Écologie (Baseflor)** : dalles méditerranéennes, acidophiles, héliophiles, thermoxérophiles
+* **Famille** : Pteridaceae
+* **Floraison** : avril-novembre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Paragymnopterido marantae–Allosorietalia pteridioidis Sáenz & Rivas–Martínez 1979
+* **Écologie (Baseflor)** : dalles méditerranéennes, acidophiles, héliophiles, thermoxérophiles
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

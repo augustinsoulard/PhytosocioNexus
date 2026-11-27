@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cytinaceae
-**Floraison** : avril-juin
-**Type biologique** : hces-par
-**Syntaxon (Baseflor)** : Cisto salvifolii–Lavanduletea stoechadis (Braun-Blanquet in Braun-Blanquet, Molinier & Wagner 1940) Julve 1993 prov.
-**Écologie (Baseflor)** : chaméphytaies méditerranéennes acidophiles
+* **Famille** : Cytinaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Hémicryptophyte cespiteux parasite
+* **Syntaxon (Baseflor)** : Cisto salvifolii–Lavanduletea stoechadis (Braun-Blanquet in Braun-Blanquet, Molinier & Wagner 1940) Julve 1993 prov.
+* **Écologie (Baseflor)** : chaméphytaies méditerranéennes acidophiles
 
 ## Répartition
 

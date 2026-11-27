@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
+* **Famille** : Euphorbiaceae
 
 ## Répartition
 

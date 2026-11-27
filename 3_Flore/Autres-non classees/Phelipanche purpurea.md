@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub-par
-**Syntaxon (Baseflor)** : Arrhenatheretalia elatioris subsp. elatioris Tüxen 1931
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, planitiaires à montagnardes
+* **Famille** : Orobanchaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule parasite
+* **Syntaxon (Baseflor)** : Arrhenatheretalia elatioris subsp. elatioris Tüxen 1931
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, planitiaires à montagnardes
 
 ## Répartition
 

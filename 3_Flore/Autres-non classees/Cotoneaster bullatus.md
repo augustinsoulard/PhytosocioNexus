@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
+* **Famille** : Rosaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Rosion glaucae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux montagnards
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

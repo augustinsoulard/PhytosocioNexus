@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Mesobromopsenion erectae Oberdorfer 1957
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, aéromésohygrophiles, submontagnardes, d'ubac
+* **Famille** : Violaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Mesobromopsenion erectae Oberdorfer 1957
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésohydriques, aéromésohygrophiles, submontagnardes, d'ubac
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Lycopodiaceae
-**Type biologique** : csuf-semp
-**Syntaxon (Baseflor)** : Genisto pilosae–Vaccinion uliginosi Braun–Blanquet 1926
-**Écologie (Baseflor)** : landes boréomontagnardes, acidophiles
+* **Famille** : Lycopodiaceae
+* **Type biologique** : Chaméphyte suffrutescent sempervirent
+* **Syntaxon (Baseflor)** : Genisto pilosae–Vaccinion uliginosi Braun–Blanquet 1926
+* **Écologie (Baseflor)** : landes boréomontagnardes, acidophiles
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Directive Habitats** : CDH5
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

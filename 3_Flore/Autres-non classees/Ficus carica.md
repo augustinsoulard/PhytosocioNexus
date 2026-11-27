@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Moraceae
-**Floraison** : juin-septembre
-**Type biologique** : B-semp
-**Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
+* **Famille** : Moraceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Microphanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
 
 ## Répartition
 

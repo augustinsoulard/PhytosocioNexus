@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : mai-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Alysso montani–Sedetalia albi (Moravec 1967) Julve 2004 nom. nov. hoc loco
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, centro-européennes
+* **Famille** : Brassicaceae
+* **Floraison** : mai-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Alysso montani–Sedetalia albi (Moravec 1967) Julve 2004 nom. nov. hoc loco
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, centro-européennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

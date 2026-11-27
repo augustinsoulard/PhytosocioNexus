@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Aizoaceae
-**Type biologique** : c-suc
-**Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables basophiles, européennes
+* **Famille** : Aizoaceae
+* **Type biologique** : Chaméphyte succulent
+* **Syntaxon (Baseflor)** : Sedenea acris de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables basophiles, européennes
 
 ## Répartition
 

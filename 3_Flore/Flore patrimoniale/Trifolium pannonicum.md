@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Cirsio pannonici–Brachypodion pinnati Hadač & Klika in Klika & Hadač 1944
-**Écologie (Baseflor)** : pelouses centro-européennes (Allemagne, Pologne, Autriche, Tchéquie, etc. )
+* **Famille** : Fabaceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Cirsio pannonici–Brachypodion pinnati Hadač & Klika in Klika & Hadač 1944
+* **Écologie (Baseflor)** : pelouses centro-européennes (Allemagne, Pologne, Autriche, Tchéquie, etc. )
 
 ## Répartition
 

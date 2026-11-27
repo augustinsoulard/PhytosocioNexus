@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Thymelaeaceae
-**Floraison** : février-mai
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
-**Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
+* **Famille** : Thymelaeaceae
+* **Floraison** : février-mai
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Vaccinio myrtilli–Genistetalia pilosae subsp. pilosae Schubert 1960
+* **Écologie (Baseflor)** : landes boréocentroeuropéennes à montagnardes
 
 ## Répartition
 

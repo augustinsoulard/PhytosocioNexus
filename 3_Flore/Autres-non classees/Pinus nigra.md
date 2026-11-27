@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : mai-juin
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : σA Pinetea nigrae Julve 2016 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes
+* **Famille** : Pinaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σA Pinetea nigrae Julve 2016 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, oroméditerranéennes
 
 ## Répartition
 

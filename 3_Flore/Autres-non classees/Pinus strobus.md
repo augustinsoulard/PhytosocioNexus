@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pinaceae
-**Floraison** : mai
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Abieti balsameae–Piceetea glaucae Knapp 1957 ex Grandtner 1966
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, du tempéré froid boréal de la Taïga nord-américaine
+* **Famille** : Pinaceae
+* **Floraison** : mai
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Abieti balsameae–Piceetea glaucae Knapp 1957 ex Grandtner 1966
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes, aciculifoliées, du tempéré froid boréal de la Taïga nord-américaine
 
 ## Répartition
 

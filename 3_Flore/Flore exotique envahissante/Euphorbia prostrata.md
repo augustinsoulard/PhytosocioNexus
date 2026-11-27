@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Euphorbion prostratae Rivas–Martínez 1976
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées sabulicoles, subtropicales
+* **Famille** : Euphorbiaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Euphorbion prostratae Rivas–Martínez 1976
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées sabulicoles, subtropicales
 
 ## Répartition
 

@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Floraison** : juin-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
+* **Famille** : Asphodelaceae
+* **Floraison** : juin-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Convolvuletalia sepium Tüxen 1950 ex Mucina in Mucina, Grabherr & Ellmauer 1993
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, eutrophiles, nitrophiles
 
 ## Répartition
 

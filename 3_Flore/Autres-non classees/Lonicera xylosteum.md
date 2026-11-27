@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : mai-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Ribesion alpini Julve 2025
-**Écologie (Baseflor)** : fourré d'arbrisseaux basophiles, centro-européens
+* **Famille** : Caprifoliaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Ribesion alpini Julve 2025
+* **Écologie (Baseflor)** : fourré d'arbrisseaux basophiles, centro-européens
 
 ## Répartition
 

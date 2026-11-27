@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
-**Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Bolboschoenion maritimi Dahl & Hadàč 1941
+* **Écologie (Baseflor)** : roselières et cariçaies submaritimes des vases saumâtres
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : TFO
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : TRES FORT
 
 ## Indices écologiques (Ellenberg)
 

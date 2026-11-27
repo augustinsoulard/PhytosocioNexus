@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
-**Type biologique** : Csuf
-**Syntaxon (Baseflor)** : Artemision arborescentis (Géhu & Biondi in Géhu, Biondi & Géhu–Franck 1986) Géhu & Biondi 1994
-**Écologie (Baseflor)** : friches halophiles littorales, corses
+* **Famille** : Solanaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Artemision arborescentis (Géhu & Biondi in Géhu, Biondi & Géhu–Franck 1986) Géhu & Biondi 1994
+* **Écologie (Baseflor)** : friches halophiles littorales, corses
 
 ## Répartition
 

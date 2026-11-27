@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
-**Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Epilobietea angustifolii Tüxen & Preising in Tüxen 1950
+* **Écologie (Baseflor)** : mégaphorbiaies pionnières et ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 

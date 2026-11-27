@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Elaeagnaceae
-**Floraison** : mai-juillet
-**Type biologique** : a-cad
-**Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
+* **Famille** : Elaeagnaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Méso-phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σa Pistacio terebenthi–Phillyreetea latifoliae Julve 2025
 
 ## Répartition
 

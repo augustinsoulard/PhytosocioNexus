@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygalaceae
-**Floraison** : mai-juin
-**Type biologique** : cfru-semp
-**Syntaxon (Baseflor)** : Ericion herbaceae (Gams 1936) Eggler 1952
-**Écologie (Baseflor)** : landes basophiles des adrets, subalpines méridionalo-orientales
+* **Famille** : Polygalaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ericion herbaceae (Gams 1936) Eggler 1952
+* **Écologie (Baseflor)** : landes basophiles des adrets, subalpines méridionalo-orientales
 
 ## Répartition
 

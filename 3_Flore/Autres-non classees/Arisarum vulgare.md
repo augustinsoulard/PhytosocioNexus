@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Araceae
-**Floraison** : mars-mai
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Bellido sylvestris–Arisaretalia vulgaris Biondi, Pesaresi, Gasparri, Biscotti, del Viscio, Bonsanto & Casavecchia 2017
-**Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
+* **Famille** : Araceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Bellido sylvestris–Arisaretalia vulgaris Biondi, Pesaresi, Gasparri, Biscotti, del Viscio, Bonsanto & Casavecchia 2017
+* **Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
 
 ## Répartition
 

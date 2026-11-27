@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-août
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
-**Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
+* **Famille** : Rosaceae
+* **Floraison** : juin-août
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σb Rosetalia tomentoso–rubiginosae Julve 2025
+* **Écologie (Baseflor)** : buissons d'arbrisseaux basophiles, mésotrophiles
 
 ## Répartition
 

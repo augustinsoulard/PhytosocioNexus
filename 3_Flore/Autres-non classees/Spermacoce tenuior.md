@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
+* **Famille** : Rubiaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : A
-* **Intérêt patrimonial PACA** : TRES FAIBLE

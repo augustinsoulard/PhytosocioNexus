@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Urticaceae
-**Floraison** : juin-octobre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Parietarion officinalis Gergely & al. 1966
-**Écologie (Baseflor)** : ourlets eutrophiles ombragés
+* **Famille** : Urticaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Parietarion officinalis Gergely & al. 1966
+* **Écologie (Baseflor)** : ourlets eutrophiles ombragés
 
 ## Répartition
 

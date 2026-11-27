@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juillet
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Drabo muralis–Cardaminion hirsutae de Foucault 1988
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, planitiaires-atlantiques à subméditerranéens
 
 ## Répartition
 

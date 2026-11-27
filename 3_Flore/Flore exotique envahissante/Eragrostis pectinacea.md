@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Spergulo arvensis–Corrigiolenion litoralis Felzines & Loiseau 2005
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles, mésotrophiles, mésothermes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Spergulo arvensis–Corrigiolenion litoralis Felzines & Loiseau 2005
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, pionnières, sabulicoles, mésotrophiles, mésothermes
 
 ## Répartition
 

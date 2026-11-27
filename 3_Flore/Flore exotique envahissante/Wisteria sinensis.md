@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : a-lia-cad
-**Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
-**Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
+* **Famille** : Fabaceae
+* **Type biologique** : Méso-phanérophyte lianescent caducifolié
+* **Syntaxon (Baseflor)** : Hederetea helicis Julve 2005 cla. nov. hoc loco
+* **Écologie (Baseflor)** : lianes grimpantes sur parois de falaises ou murs, épiphytes sur troncs d'arbres et d'arbustes
 
 ## Répartition
 

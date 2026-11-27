@@ -10,11 +10,11 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-septembre
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Glycerio fluitantis–Sparganion erecti subsp. neglecti Braun-Blanquet & Sissingh in Boer 1942
-**Écologie (Baseflor)** : parvoglycériaies flottantes amphibies, mésothermes
+* **Famille** : Cyperaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Glycerio fluitantis–Sparganion erecti subsp. neglecti Braun-Blanquet & Sissingh in Boer 1942
+* **Écologie (Baseflor)** : parvoglycériaies flottantes amphibies, mésothermes
 
 ## Répartition
 
@@ -37,7 +37,6 @@ sources:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Indicatrice zone humide** : Oui
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

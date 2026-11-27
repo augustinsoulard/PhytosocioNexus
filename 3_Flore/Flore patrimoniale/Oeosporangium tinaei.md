@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Pteridaceae
-**Floraison** : février-juillet
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Allosorion hispanicae Rivas Goday in Rivas Goday, Borja, Monasterio, Galiano & Rivas–Martínez 1956 em. Saenz & Rivas–Martínez 1979
-**Écologie (Baseflor)** : dalles européennes, acidophiles, planitiaires, méditerranéennes, aéromésohygrophiles
+* **Famille** : Pteridaceae
+* **Floraison** : février-juillet
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Allosorion hispanicae Rivas Goday in Rivas Goday, Borja, Monasterio, Galiano & Rivas–Martínez 1956 em. Saenz & Rivas–Martínez 1979
+* **Écologie (Baseflor)** : dalles européennes, acidophiles, planitiaires, méditerranéennes, aéromésohygrophiles
 
 ## Répartition
 

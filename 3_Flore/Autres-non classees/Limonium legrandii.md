@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plumbaginaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Juncetalia maritimi Braun–Blanquet 1931 em. Julve 1992 ex 1993
-**Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles, méditerranéens
+* **Famille** : Plumbaginaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Juncetalia maritimi Braun–Blanquet 1931 em. Julve 1992 ex 1993
+* **Écologie (Baseflor)** : végétations herbacées vivaces des prés salés vasicoles hygrophiles, méditerranéens
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : E
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

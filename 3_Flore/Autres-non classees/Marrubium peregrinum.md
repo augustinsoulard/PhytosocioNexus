@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
-**Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
+* **Famille** : Lamiaceae
+* **Syntaxon (Baseflor)** : Artemisio campestris–Elytrigion intermediae Müller & Görs 1969
+* **Écologie (Baseflor)** : friches vivaces pionnières mésoxérophiles, des substrats argileux
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polygonaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Noccaeetea rotundifoliae Braun–Blanquet 1947
-**Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles
+* **Famille** : Polygonaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Noccaeetea rotundifoliae Braun–Blanquet 1947
+* **Écologie (Baseflor)** : grpts vivaces des éboulis médio-européens orophiles
 
 ## Répartition
 

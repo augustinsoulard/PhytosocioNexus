@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Rubion grabowskii–vestiti Royer 2013
-**Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques, centro-européens
+* **Famille** : Rosaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Rubion grabowskii–vestiti Royer 2013
+* **Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques, centro-européens
 
 ## Répartition
 

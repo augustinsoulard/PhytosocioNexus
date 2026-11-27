@@ -6,18 +6,18 @@ cd_nomv18: 131826
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Aspleniaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Cystopteridion fragilis (Nordhagen 1936) Richard 1972
-**Écologie (Baseflor)** : chasmophytes de parois européennes, basophiles, sciaphiles, psychrophiles, médio-européennes
+* **Famille** : Aspleniaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Cystopteridion fragilis (Nordhagen 1936) Richard 1972
+* **Écologie (Baseflor)** : chasmophytes de parois européennes, basophiles, sciaphiles, psychrophiles, médio-européennes
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

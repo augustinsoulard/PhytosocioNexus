@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Fumano procumbentis–Koelerienea vallesianae Julve 2019 subcla. nov. hoc loco
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes, mésoxérophiles à mésohydriques, méridionales, plutôt primaires, sur lithosols à rendosols peu profonds
 
 ## Répartition
 

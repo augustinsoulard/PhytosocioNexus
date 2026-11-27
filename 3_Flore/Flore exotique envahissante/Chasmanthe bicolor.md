@@ -10,9 +10,9 @@ sources:
 
 ## Description
 
-**Famille** : Iridaceae
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
+* **Famille** : Iridaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Gladiolo italici–Allion rosei Julve 2021 prov. hoc loco
 
 ## Répartition
 

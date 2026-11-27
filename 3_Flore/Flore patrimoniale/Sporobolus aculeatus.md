@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crypsietea aculeatae Vicherek 1973
+* **Famille** : Poaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crypsietea aculeatae Vicherek 1973
 
 ## Répartition
 

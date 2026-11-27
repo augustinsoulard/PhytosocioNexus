@@ -10,8 +10,8 @@ sources:
 
 ## Description
 
-**Famille** : Asphodelaceae
-**Type biologique** : C-suc
+* **Famille** : Asphodelaceae
+* **Type biologique** : Chaméphyte succulent
 
 ## Répartition
 

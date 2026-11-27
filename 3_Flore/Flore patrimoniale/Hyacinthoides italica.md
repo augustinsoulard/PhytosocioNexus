@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asparagaceae
-**Floraison** : mars-mai
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
-**Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
+* **Famille** : Asparagaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Cyclamini hederifolii–Lathyretalia veneti de Foucault 2020b
+* **Écologie (Baseflor)** : sous-bois herbacés subméditerranéens
 
 ## Répartition
 

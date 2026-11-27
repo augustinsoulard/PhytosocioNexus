@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Fagaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Quercenea robori–petraeae Julve 2023
-**Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, planitiaires-collinéennes
+* **Famille** : Fagaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Quercenea robori–petraeae Julve 2023
+* **Écologie (Baseflor)** : associations arborescentes des forêts et bois caducifoliés climaciques, malacophylles, du tempéré modal médio-européen, planitiaires-collinéennes
 
 ## Répartition
 
@@ -21,7 +21,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

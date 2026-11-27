@@ -9,8 +9,8 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Syntaxon (Baseflor)** : Malvion subovatae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Famille** : Asteraceae
+* **Syntaxon (Baseflor)** : Malvion subovatae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
 
 ## Répartition
 

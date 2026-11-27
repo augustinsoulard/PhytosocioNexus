@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Callitricho obtusangulae–Ranunculetalia peltati (Passarge 1978) Julve 2004 ord. nov. hoc loco
-**Écologie (Baseflor)** : herbiers aquatiques vivaces, enracinés, européens, des eaux douces à saumâtres, peu profondes
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Callitricho obtusangulae–Ranunculetalia peltati (Passarge 1978) Julve 2004 ord. nov. hoc loco
+* **Écologie (Baseflor)** : herbiers aquatiques vivaces, enracinés, européens, des eaux douces à saumâtres, peu profondes
 
 ## Répartition
 

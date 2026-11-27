@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
-**Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
+* **Famille** : Orchidaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Caricetalia davallianae Julve 1983 em. de Foucault 1984
+* **Écologie (Baseflor)** : hémicrypto-géophytaies des tourbières basses médio-européennes à boréo-subalpines, basophiles
 
-**Habitats :** Prairies humides, prairies sablonneuses darrière-dune, marais ([[Molinio arundinaceae-Holoschoenion vulgaris]], [[Arrhenatherion elatioris]], [[Juncion maritimi]], [[Gaudinio fragilis-Arrhenatheretum elatioris])
+* **Habitats :** Prairies humides, prairies sablonneuses darrière-dune, marais ([[Molinio arundinaceae-Holoschoenion vulgaris]], [[Arrhenatherion elatioris]], [[Juncion maritimi]], [[Gaudinio fragilis-Arrhenatheretum elatioris])
 
 ## Répartition
 

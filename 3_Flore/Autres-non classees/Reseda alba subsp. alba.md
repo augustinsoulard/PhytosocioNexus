@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Resedaceae
-**Floraison** : mai-septembre
-**Type biologique** : hros(tver)
-**Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
-**Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
+* **Famille** : Resedaceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte rosetté (vernal)
+* **Syntaxon (Baseflor)** : Phlomido lychnitidis–Brachypodion retusi (Rivas–Martínez 1978) Mateo 1983
+* **Écologie (Baseflor)** : pelouses basophiles mésoméditerranéennes, mésoxérophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Lepidion latifolii Golub & Mirkin 1986
-**Écologie (Baseflor)** : herbacées vivaces des graviers submaritimes portuaires
+* **Famille** : Brassicaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Lepidion latifolii Golub & Mirkin 1986
+* **Écologie (Baseflor)** : herbacées vivaces des graviers submaritimes portuaires
 
 ## Répartition
 

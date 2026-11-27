@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
+* **Famille** : Caprifoliaceae
 
 ## Répartition
 

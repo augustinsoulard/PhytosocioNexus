@@ -7,13 +7,13 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juin-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
-**Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
+* **Famille** : Orchidaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Circaeo lutetianae–Stachyetalia sylvaticae Passarge 1967
+* **Écologie (Baseflor)** : ourlets internes et clairières vivaces médio-européennes, eutrophiles, mésohygrophiles
 
-**Habitats :** Neutrobasophile à marnicole, mésohygrophile, ripisylves ([[Populetalia albae]]), mais aussi en bordure de près humides ([[Arrhenatherion elatioris]]).
+* **Habitats :** Neutrobasophile à marnicole, mésohygrophile, ripisylves ([[Populetalia albae]]), mais aussi en bordure de près humides ([[Arrhenatherion elatioris]]).
 
 ## Répartition
 

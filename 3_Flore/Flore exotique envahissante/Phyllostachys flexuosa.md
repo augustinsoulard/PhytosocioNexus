@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
+* **Famille** : Poaceae
 
 ## Répartition
 
@@ -33,4 +33,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

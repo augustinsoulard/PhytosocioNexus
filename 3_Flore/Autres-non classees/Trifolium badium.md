@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juillet-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
-**Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
+* **Famille** : Fabaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
+* **Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
 
 ## Répartition
 

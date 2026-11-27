@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Crassulaceae
-**Floraison** : avril-mai
-**Type biologique** : tver-suc
-**Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
-**Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
+* **Famille** : Crassulaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Thérophyte vernal succulent
+* **Syntaxon (Baseflor)** : Sileno sedoidis–Catapodion marini de Foucault & Bioret 2010
+* **Écologie (Baseflor)** : annuelles des tonsures maritimes thermophiles méditerranéennes orientales à irradiation centroméditerranéenne
 
 ## Répartition
 

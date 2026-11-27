@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
+* **Famille** : Poaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -28,4 +28,3 @@ sources:
 
 * **Indigénat (TAXREF v18)** : M
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD

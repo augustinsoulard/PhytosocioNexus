@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orchidaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi-par
-**Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
+* **Famille** : Orchidaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome parasite
+* **Syntaxon (Baseflor)** : Goodyerion repentis de Foucault & Julve 2002
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, boréaux à montagnards, des humus bruts (mor)
 
 ## Répartition
 

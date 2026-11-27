@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : juin-août
-**Type biologique** : csuf-lia
-**Syntaxon (Baseflor)** : Sambucion ebuli Eliáš 1979
-**Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles, thermophiles
+* **Famille** : Rubiaceae
+* **Floraison** : juin-août
+* **Type biologique** : Chaméphyte suffrutescent lianescent
+* **Syntaxon (Baseflor)** : Sambucion ebuli Eliáš 1979
+* **Écologie (Baseflor)** : friches vivaces eutrophiles, mésohydriques, héliophiles, thermophiles
 
 ## Répartition
 

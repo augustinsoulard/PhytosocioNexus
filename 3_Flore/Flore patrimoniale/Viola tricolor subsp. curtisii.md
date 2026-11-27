@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Violaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
+* **Famille** : Violaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Koelerion arenariae Tüxen 1937
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, psychro-atlantiques, mésohydriques
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

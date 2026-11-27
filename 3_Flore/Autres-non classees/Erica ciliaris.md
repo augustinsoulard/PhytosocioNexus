@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Ericaceae
-**Floraison** : juin-octobre
-**Type biologique** : Cfru-semp
-**Syntaxon (Baseflor)** : Ulici minoris–Ericion tetralicis (Schwickerath 1933) Tüxen 1937
-**Écologie (Baseflor)** : landes atlantiques, hygrophiles à mésohygrophiles
+* **Famille** : Ericaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Chaméphyte frutescent sempervirent
+* **Syntaxon (Baseflor)** : Ulici minoris–Ericion tetralicis (Schwickerath 1933) Tüxen 1937
+* **Écologie (Baseflor)** : landes atlantiques, hygrophiles à mésohygrophiles
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

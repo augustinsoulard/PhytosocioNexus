@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Amaryllidaceae
-**Floraison** : avril-juin
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Brassicion insularis Gamisans 1991 ex Terzi, Jasprica & Cakovic 2017
-**Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, corso-sardes
+* **Famille** : Amaryllidaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Brassicion insularis Gamisans 1991 ex Terzi, Jasprica & Cakovic 2017
+* **Écologie (Baseflor)** : lithophytes des replats de falaises basophiles, orophiles, corso-sardes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

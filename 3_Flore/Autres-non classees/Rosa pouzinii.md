@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : juin-juillet
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Rosion carioto–pouzinii (Arnaiz 1979) Arlot 1985
-**Écologie (Baseflor)** : buissons d'arbrisseaux planitiaires-collinéens à subméditerranéens, méso-oligotrophiles, ibériques
+* **Famille** : Rosaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rosion carioto–pouzinii (Arnaiz 1979) Arlot 1985
+* **Écologie (Baseflor)** : buissons d'arbrisseaux planitiaires-collinéens à subméditerranéens, méso-oligotrophiles, ibériques
 
 ## Répartition
 

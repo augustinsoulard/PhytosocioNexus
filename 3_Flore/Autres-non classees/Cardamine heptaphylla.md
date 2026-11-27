@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Actaeo spicatae–Mercurialion perennis Gillet 1986 prov.
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, montagnards à planitiaires, des ubacs ou gorges profondes aérohygrophiles
+* **Famille** : Brassicaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Actaeo spicatae–Mercurialion perennis Gillet 1986 prov.
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, montagnards à planitiaires, des ubacs ou gorges profondes aérohygrophiles
 
 ## Répartition
 

@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Saxifragaceae
+* **Famille** : Saxifragaceae
 
 ## Répartition
 
@@ -18,4 +18,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

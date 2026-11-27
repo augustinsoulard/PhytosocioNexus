@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : mai-juillet
-**Type biologique** : gtub
-**Syntaxon (Baseflor)** : Caricion caryophylleae var. insularis Gamisans 1975 ex 1977
-**Écologie (Baseflor)** : pelouses acidophiles supraméditerranéennes, corso-sardes
+* **Famille** : Apiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Caricion caryophylleae var. insularis Gamisans 1975 ex 1977
+* **Écologie (Baseflor)** : pelouses acidophiles supraméditerranéennes, corso-sardes
 
 ## Répartition
 

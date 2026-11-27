@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : juillet-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Atriplici laciniatae–Salsolion kali (Tüxen 1950) Géhu 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, européo-atlantiques
+* **Famille** : Amaranthaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Atriplici laciniatae–Salsolion kali (Tüxen 1950) Géhu 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, européo-atlantiques
 
 ## Répartition
 

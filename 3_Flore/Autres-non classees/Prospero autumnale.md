@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asparagaceae
-**Type biologique** : gbul
-**Syntaxon (Baseflor)** : Bellido sylvestris–Arisaretalia vulgaris Biondi, Pesaresi, Gasparri, Biscotti, del Viscio, Bonsanto & Casavecchia 2017
-**Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
+* **Famille** : Asparagaceae
+* **Type biologique** : Géophyte à bulbe
+* **Syntaxon (Baseflor)** : Bellido sylvestris–Arisaretalia vulgaris Biondi, Pesaresi, Gasparri, Biscotti, del Viscio, Bonsanto & Casavecchia 2017
+* **Écologie (Baseflor)** : ourlets mésohydriques, mésoeutrophiles, méditerranéens
 
 ## Répartition
 

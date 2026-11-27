@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Petrocoptido pyrenaicae–Sarcocapnetea enneaphyllae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
-**Écologie (Baseflor)** : chasmophytes héliophiles basophiles des parois et canyons ibérico-nord-africains
+* **Famille** : Papaveraceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Petrocoptido pyrenaicae–Sarcocapnetea enneaphyllae Rivas–Martínez, Fernández–González, Loidi, Lousã & Penas 2001
+* **Écologie (Baseflor)** : chasmophytes héliophiles basophiles des parois et canyons ibérico-nord-africains
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : NT
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

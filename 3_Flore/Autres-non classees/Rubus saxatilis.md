@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-juin
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Seslerio caeruleae–Mercurialion perennis Gillet 1986 prov.
-**Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, planitiaires à montagnards, méso-oligotrophiles, des adrets
+* **Famille** : Rosaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Seslerio caeruleae–Mercurialion perennis Gillet 1986 prov.
+* **Écologie (Baseflor)** : sous-bois herbacés médio-européens, basophiles, planitiaires à montagnards, méso-oligotrophiles, des adrets
 
 ## Répartition
 

@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : test(hsto)
-**Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
-**Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Thérophyte estival (stolonifère)
+* **Syntaxon (Baseflor)** : Polycarpion tetraphylli Rivas–Martínez 1975
+* **Écologie (Baseflor)** : annuelles eutrophiles des tonsures surpiétinées, thermophiles, mésohydriques, sabulicoles
 
 ## Répartition
 

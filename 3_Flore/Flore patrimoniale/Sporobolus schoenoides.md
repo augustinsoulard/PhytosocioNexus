@@ -9,11 +9,11 @@ sources:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Crypsion schoenoidis Braun–Blanquet 1951 ex Rivas Goday, Borja, Monasterio, Galiano & Rivas–Martínez 1956
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles, subméditerranéennes, mésotrophiles
+* **Famille** : Poaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Crypsion schoenoidis Braun–Blanquet 1951 ex Rivas Goday, Borja, Monasterio, Galiano & Rivas–Martínez 1956
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles, subméditerranéennes, mésotrophiles
 
 Syn : Crypsis schoenoides
 

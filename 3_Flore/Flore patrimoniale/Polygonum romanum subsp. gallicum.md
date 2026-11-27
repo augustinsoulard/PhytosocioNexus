@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygonaceae
-**Floraison** : juillet-octobre
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Isoetetea longissimae (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : parvogéophytaies amphibies, oligotrophiles, euryméditerranéennes
+* **Famille** : Polygonaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Isoetetea longissimae (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : parvogéophytaies amphibies, oligotrophiles, euryméditerranéennes
 
 ## Répartition
 

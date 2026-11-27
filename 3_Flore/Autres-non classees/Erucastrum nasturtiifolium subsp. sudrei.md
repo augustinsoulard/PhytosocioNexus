@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

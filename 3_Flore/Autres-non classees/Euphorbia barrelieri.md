@@ -9,8 +9,8 @@ auteurs:
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
+* **Famille** : Euphorbiaceae
+* **Syntaxon (Baseflor)** : Dittrichion viscosae Trinajstić, de Foucault & Jasprica in de Foucault & Jasprica 2019
 
 ## Répartition
 

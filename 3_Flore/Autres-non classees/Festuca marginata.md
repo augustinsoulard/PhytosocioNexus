@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Artemisio albae–Bromopsietalia erectae Ubaldi 1997 ex Dengler & Mucina in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Artemisio albae–Bromopsietalia erectae Ubaldi 1997 ex Dengler & Mucina in Mucina, Dengler, Bergmeier, Čarni, Dimopoulos, Jahn & Matevski 2009
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles
 
 ## Répartition
 

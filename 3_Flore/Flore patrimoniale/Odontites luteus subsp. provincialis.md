@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Floraison** : juin-octobre
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
-**Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
+* **Famille** : Orobanchaceae
+* **Floraison** : juin-octobre
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Juncion squarrosi Oberdorfer 1957 em. 1978
+* **Écologie (Baseflor)** : pelouses acidophiles planitiaires-montagnardes, mésohygroclines
 
 ## Répartition
 

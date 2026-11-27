@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Droseraceae
-**Syntaxon (Baseflor)** : Lemnion trisulcae Den Hartog & Segal 1964 ex Tüxen & Schwabe in Tüxen 1974 em. Julve 2004 hoc loco
-**Écologie (Baseflor)** : voiles de lentilles aquatiques, annuelles, libres, flottantes en surface, européennes, mésotrophiles
+* **Famille** : Droseraceae
+* **Syntaxon (Baseflor)** : Lemnion trisulcae Den Hartog & Segal 1964 ex Tüxen & Schwabe in Tüxen 1974 em. Julve 2004 hoc loco
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques, annuelles, libres, flottantes en surface, européennes, mésotrophiles
 
 ## Répartition
 

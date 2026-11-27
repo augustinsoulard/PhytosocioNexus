@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Euphorbiaceae
-**Floraison** : mai-juillet
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Artemisio campestris subsp. maritimae–Koelerietalia arenariae Sissingh 1974
-**Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, atlantiques
+* **Famille** : Euphorbiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Artemisio campestris subsp. maritimae–Koelerietalia arenariae Sissingh 1974
+* **Écologie (Baseflor)** : pelouses des sables basophiles, submaritimes, atlantiques
 
 ## Répartition
 
@@ -21,7 +21,6 @@ date_maj: "2026-11-26"
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

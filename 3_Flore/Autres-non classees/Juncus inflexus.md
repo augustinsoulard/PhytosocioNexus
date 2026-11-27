@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Juncaceae
-**Floraison** : juin-août
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Mentho aquaticae–Juncion inflexi (de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : prairies hygrophiles pâturées, mésothermes, basophiles
+* **Famille** : Juncaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Mentho aquaticae–Juncion inflexi (de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : prairies hygrophiles pâturées, mésothermes, basophiles
 
 ## Répartition
 

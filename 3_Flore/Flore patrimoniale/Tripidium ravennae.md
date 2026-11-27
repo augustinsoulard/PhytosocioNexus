@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : août-octobre
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Imperato cylindricae–Tripidion ravennae Braun–Blanquet & de Bolòs 1958
-**Écologie (Baseflor)** : roselières et cariçaies méditerranéennes oligohalophiles
+* **Famille** : Poaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Imperato cylindricae–Tripidion ravennae Braun–Blanquet & de Bolòs 1958
+* **Écologie (Baseflor)** : roselières et cariçaies méditerranéennes oligohalophiles
 
 ## Répartition
 

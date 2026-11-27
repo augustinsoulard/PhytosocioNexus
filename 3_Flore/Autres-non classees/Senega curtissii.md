@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Polygalaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
-**Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
+* **Famille** : Polygalaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Juncetea bufonii (Braun–Blanquet & Tüxen 1943) de Foucault 1988
+* **Écologie (Baseflor)** : annuelles des tonsures hygrophiles à hydrophiles, européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Aizoaceae
-**Floraison** : avril-juillet
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Mesembryanthemion crystallini Rivas–Martínez, Wildpret, Del Arco, Rodríguez, Pérez de Paz, García Gallo, Acebes, Díaz & Fernández–González 1993
-**Écologie (Baseflor)** : friches thermoméditerranéennes nitrohalophiles
+* **Famille** : Aizoaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Mesembryanthemion crystallini Rivas–Martínez, Wildpret, Del Arco, Rodríguez, Pérez de Paz, García Gallo, Acebes, Díaz & Fernández–González 1993
+* **Écologie (Baseflor)** : friches thermoméditerranéennes nitrohalophiles
 
 ## Répartition
 

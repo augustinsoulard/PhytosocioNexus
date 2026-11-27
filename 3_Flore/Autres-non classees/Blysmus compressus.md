@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
-**Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
+* **Famille** : Cyperaceae
+* **Floraison** : mai-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
+* **Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
 
 ## Répartition
 

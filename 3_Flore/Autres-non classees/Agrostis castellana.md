@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Agrostietalia castellanae Rivas–Martínez in Rivas–Martínez, Costa, Castroviejo & Valdès 1980
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, méditerranéennes
 
 ## Répartition
 

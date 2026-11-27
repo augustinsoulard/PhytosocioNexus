@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : juillet-août
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
-**Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
+* **Famille** : Lamiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Calamagrostion pseudophragmitidis Rivas–Martínez, Diaz, Prieto, Loidi & Penas 1984
+* **Écologie (Baseflor)** : grpts vivaces des alluvions fines à moyennes, pédomésohydriques, aéromésohygrophiles, des hautes terrasses des zones alluviales orophiles
 
 ## Répartition
 

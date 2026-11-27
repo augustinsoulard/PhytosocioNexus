@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
+* **Famille** : Caprifoliaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Cymbalarion hepaticifoliae Gamisans 1975 em. Julve 2003 prov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies des sources neutrophiles, orophiles, corso-sardes
 
 ## Répartition
 

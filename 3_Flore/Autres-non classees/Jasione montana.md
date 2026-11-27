@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Campanulaceae
-**Floraison** : juin-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Rumicenea acetosellae de Foucault 1999
-**Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, médio-européennes à méditerranéennes
+* **Famille** : Campanulaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Rumicenea acetosellae de Foucault 1999
+* **Écologie (Baseflor)** : pelouses des sables continentaux acidophiles, médio-européennes à méditerranéennes
 
 ## Répartition
 

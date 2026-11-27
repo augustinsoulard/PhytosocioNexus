@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Xanthion orientalis subsp. italici Felzines & Loiseau 2005
-**Écologie (Baseflor)** : friches annuelles thermophiles méditerranéennes à centro-européennes
+* **Famille** : Asteraceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Xanthion orientalis subsp. italici Felzines & Loiseau 2005
+* **Écologie (Baseflor)** : friches annuelles thermophiles méditerranéennes à centro-européennes
 
 ## Répartition
 

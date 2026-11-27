@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Malvaceae
-**Floraison** : juin-septembre
-**Type biologique** : Heri
-**Syntaxon (Baseflor)** : Convolvulo sepium–Althaeion officinalis de Foucault 2011
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires oligohalines, des estuaires atlantiques et salines continentales
+* **Famille** : Malvaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Convolvulo sepium–Althaeion officinalis de Foucault 2011
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires oligohalines, des estuaires atlantiques et salines continentales
 
 ## Répartition
 

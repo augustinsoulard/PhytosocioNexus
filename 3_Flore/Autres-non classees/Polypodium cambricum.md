@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Polypodiaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
-**Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
+* **Famille** : Polypodiaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Polypodion cambrici (Braun–Blanquet 1931) Braun–Blanquet 1947
+* **Écologie (Baseflor)** : chasmophytes de parois méditerranéennes basophiles, sciaphiles
 
 ## Répartition
 

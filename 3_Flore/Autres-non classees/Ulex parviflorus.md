@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Cistion ladaniferi (Braun–Blanquet 1931) Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
-**Écologie (Baseflor)** : cistaies méso- à thermoméditerranéennes occidentales
+* **Famille** : Fabaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Cistion ladaniferi (Braun–Blanquet 1931) Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
+* **Écologie (Baseflor)** : cistaies méso- à thermoméditerranéennes occidentales
 
 ## Répartition
 

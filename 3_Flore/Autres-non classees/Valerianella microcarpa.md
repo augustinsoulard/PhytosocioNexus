@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Valantio muralis–Galion muralis Brullo in Brullo & Marceno 1985
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, xérophiles, méso- à subméditerranéens centraux
+* **Famille** : Caprifoliaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Valantio muralis–Galion muralis Brullo in Brullo & Marceno 1985
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, xérophiles, méso- à subméditerranéens centraux
 
 ## Répartition
 

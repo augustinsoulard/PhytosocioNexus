@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Hydrocharitaceae
-**Floraison** : juin-août
-**Type biologique** : hros-aqua
-**Syntaxon (Baseflor)** : Hydrocharition morsus–ranae Rübel 1933 em. Westhoff & Den Held 1969
-**Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
+* **Famille** : Hydrocharitaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte rosetté aquatique
+* **Syntaxon (Baseflor)** : Hydrocharition morsus–ranae Rübel 1933 em. Westhoff & Den Held 1969
+* **Écologie (Baseflor)** : voiles de lentilles aquatiques libres, flottantes en surface, européennes, eutrophiles
 
 ## Répartition
 

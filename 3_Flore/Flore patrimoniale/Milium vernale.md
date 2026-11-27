@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Stipello capensis–Brachypodietea distachyi (Braun–Blanquet 1947) Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, européennes
 
 ## Répartition
 

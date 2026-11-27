@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Colchicaceae
+* **Famille** : Colchicaceae
 
 ## Répartition
 

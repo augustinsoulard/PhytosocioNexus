@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juin-septembre
-**Type biologique** : Hsto
-**Syntaxon (Baseflor)** : Elytrigietalia acutae Géhu 1968
-**Écologie (Baseflor)** : végétation halonitrophile, mésohygrophile, des bordures estuariennes
+* **Famille** : Poaceae
+* **Floraison** : juin-septembre
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Elytrigietalia acutae Géhu 1968
+* **Écologie (Baseflor)** : végétation halonitrophile, mésohygrophile, des bordures estuariennes
 
 ## Répartition
 

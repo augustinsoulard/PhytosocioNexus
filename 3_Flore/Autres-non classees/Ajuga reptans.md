@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Lamiaceae
-**Floraison** : avril-juillet
-**Type biologique** : hros-sto
-**Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
-**Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
+* **Famille** : Lamiaceae
+* **Floraison** : avril-juillet
+* **Type biologique** : Hémicryptophyte rosetté stolonifère
+* **Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
+* **Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
 
 ## Répartition
 

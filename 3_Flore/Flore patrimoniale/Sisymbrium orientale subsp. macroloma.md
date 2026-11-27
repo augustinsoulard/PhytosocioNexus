@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Atriplicion sagittatae Passarge 1978
-**Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture fine
+* **Famille** : Brassicaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Atriplicion sagittatae Passarge 1978
+* **Écologie (Baseflor)** : friches annuelles vernales à estivales, médio-européennes, des sols à texture fine
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : EN
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

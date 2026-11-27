@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Allio sphaerocephali–Sedion albi (Oberdorfer & Müller in Müller 1961) de Foucault 1999
-**Écologie (Baseflor)** : lithophytes des dalles basophiles, planitiaires collinéennes, centro-européennes
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Allio sphaerocephali–Sedion albi (Oberdorfer & Müller in Müller 1961) de Foucault 1999
+* **Écologie (Baseflor)** : lithophytes des dalles basophiles, planitiaires collinéennes, centro-européennes
 
 ## Répartition
 

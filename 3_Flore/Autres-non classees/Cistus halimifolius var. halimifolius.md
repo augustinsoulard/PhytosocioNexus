@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cistaceae
-**Floraison** : avril-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Ulici parviflori–Cistetalia ladaniferi Braun-Blanquet, Pinto da Silva & Rozeira 1965
-**Écologie (Baseflor)** : cistaies méditerranéennes occidentales
+* **Famille** : Cistaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Ulici parviflori–Cistetalia ladaniferi Braun-Blanquet, Pinto da Silva & Rozeira 1965
+* **Écologie (Baseflor)** : cistaies méditerranéennes occidentales
 
 ## Répartition
 

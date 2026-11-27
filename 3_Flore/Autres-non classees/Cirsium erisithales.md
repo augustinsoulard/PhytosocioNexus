@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juillet-août
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Arunco dioici–Petasition albi Braun–Blanquet & Sutter 1977
-**Écologie (Baseflor)** : mégaphorbiaies montagnardes d'éboulis fins, mésohydriques, méso-oligotrophiles, basophiles, hémisciaphiles
+* **Famille** : Asteraceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Arunco dioici–Petasition albi Braun–Blanquet & Sutter 1977
+* **Écologie (Baseflor)** : mégaphorbiaies montagnardes d'éboulis fins, mésohydriques, méso-oligotrophiles, basophiles, hémisciaphiles
 
 ## Répartition
 

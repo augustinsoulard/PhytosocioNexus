@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juillet-août
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Caricion firmae Gams 1936
-**Écologie (Baseflor)** : pelouses neutroclines subalpines, alpiennes, mésohydriques
+* **Famille** : Cyperaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricion firmae Gams 1936
+* **Écologie (Baseflor)** : pelouses neutroclines subalpines, alpiennes, mésohydriques
 
 ## Répartition
 

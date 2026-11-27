@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Equisetaceae
-**Floraison** : mars-mai
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Stachyo palustris–Cirsion oleracei Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles
+* **Famille** : Equisetaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Stachyo palustris–Cirsion oleracei Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, neutrophiles
 
 ## Répartition
 

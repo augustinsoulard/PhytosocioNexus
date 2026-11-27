@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
-**Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
+* **Famille** : Poaceae
+* **Syntaxon (Baseflor)** : Polypogonion subspathacei Gamisans 1991
+* **Écologie (Baseflor)** : annuelles des tonsures subnitrophiles maritimes, thermophiles, corso-sardes
 
 ## Répartition
 

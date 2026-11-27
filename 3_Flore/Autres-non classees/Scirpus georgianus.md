@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Syntaxon (Baseflor)** : Achilleo ptarmicae subsp. ptarmicae–Cirsion palustris Julve & Gillet 1994
-**Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, acidophiles
+* **Famille** : Cyperaceae
+* **Syntaxon (Baseflor)** : Achilleo ptarmicae subsp. ptarmicae–Cirsion palustris Julve & Gillet 1994
+* **Écologie (Baseflor)** : mégaphorbiaies planitiaires-collinéennes, mésotrophiles, acidophiles
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : M
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

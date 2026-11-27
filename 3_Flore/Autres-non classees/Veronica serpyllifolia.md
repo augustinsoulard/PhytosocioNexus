@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
-**Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Trifolio repentis–Phleetalia pratensis Passarge 1969
+* **Écologie (Baseflor)** : prairies mésohydriques européennes, pâturées, planitaires à montagnardes
 
 ## Répartition
 

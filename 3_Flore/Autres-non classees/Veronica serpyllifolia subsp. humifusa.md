@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
-**Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
+* **Famille** : Plantaginaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Poion alpinae Gams 1927 ex Oberdorfer 1950
+* **Écologie (Baseflor)** : prairies mésohydriques eutrophiles, pâturées, subalpines
 
 ## Répartition
 

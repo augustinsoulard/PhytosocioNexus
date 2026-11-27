@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
-**Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
+* **Famille** : Rosaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Argentinion anserinae Tüxen 1947
+* **Écologie (Baseflor)** : prairies hygrophiles mésothermes, surpiétinées
 
 ## Répartition
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : mars-mai
-**Type biologique** : cfru
-**Syntaxon (Baseflor)** : Lavanduletalia stoechadis Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
-**Écologie (Baseflor)** : chaméphytaies méditerranéennes occidentales
+* **Famille** : Fabaceae
+* **Floraison** : mars-mai
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Lavanduletalia stoechadis Braun–Blanquet in Braun–Blanquet, Molinier & Wagner 1940
+* **Écologie (Baseflor)** : chaméphytaies méditerranéennes occidentales
 
 ## Répartition
 

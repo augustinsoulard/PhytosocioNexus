@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Iridaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
-**Écologie (Baseflor)** : magnocariçaies européennes
+* **Famille** : Iridaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Caricetalia elatae Pignatti 1953
+* **Écologie (Baseflor)** : magnocariçaies européennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

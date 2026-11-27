@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Apiaceae
+* **Famille** : Apiaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -29,4 +29,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : A
-* **Intérêt patrimonial PACA** : NUL

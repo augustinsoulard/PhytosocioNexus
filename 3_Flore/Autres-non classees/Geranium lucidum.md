@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Geraniaceae
-**Floraison** : mai-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
-**Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
+* **Famille** : Geraniaceae
+* **Floraison** : mai-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Cardaminetea hirsutae Géhu 1999
+* **Écologie (Baseflor)** : ourlets thérophytiques vernaux, nitrophiles, méridionaux, hémisciaphiles à hémihéliophiles
 
 ## Répartition
 

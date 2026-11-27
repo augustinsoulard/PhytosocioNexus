@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : mai-juin
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Alopecurion rendlei Zeidler 1954
-**Écologie (Baseflor)** : annuelles hydrophiles des prairies
+* **Famille** : Poaceae
+* **Floraison** : mai-juin
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Alopecurion rendlei Zeidler 1954
+* **Écologie (Baseflor)** : annuelles hydrophiles des prairies
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Colchico autumnalis–Arrhenatherenion elatioris subsp. elatioris de Foucault 1989
-**Écologie (Baseflor)** : prairies mésohygroclines fauchées, mésothermes, planitiaires collinéennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Colchico autumnalis–Arrhenatherenion elatioris subsp. elatioris de Foucault 1989
+* **Écologie (Baseflor)** : prairies mésohygroclines fauchées, mésothermes, planitiaires collinéennes
 
 ## Répartition
 

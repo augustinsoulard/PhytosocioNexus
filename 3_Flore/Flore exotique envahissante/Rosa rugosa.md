@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Rosaceae
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Salicion arenariae Tüxen 1952
-**Écologie (Baseflor)** : buissons d'arbrisseaux maritimes, psychrophiles
+* **Famille** : Rosaceae
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Salicion arenariae Tüxen 1952
+* **Écologie (Baseflor)** : buissons d'arbrisseaux maritimes, psychrophiles
 
 ## Répartition
 

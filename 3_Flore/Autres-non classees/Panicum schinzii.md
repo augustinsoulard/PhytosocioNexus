@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
-**Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
+* **Famille** : Poaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Eragrostion minoris Tüxen in Slavníč 1944 apud Tüxen 1950
+* **Écologie (Baseflor)** : annuelles commensales des cultures sarclées basophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

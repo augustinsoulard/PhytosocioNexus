@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Plantaginaceae
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
-**Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
+* **Famille** : Plantaginaceae
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Armerion maritimae subsp. maritimae Braun–Blanquet & De Leeuw 1936
+* **Écologie (Baseflor)** : prés salés vasicoles hygrophiles, du schorre moyen atlantique
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Test
-**Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
+* **Famille** : Asteraceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

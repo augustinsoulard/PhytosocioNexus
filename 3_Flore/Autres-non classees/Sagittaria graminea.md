@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Alismataceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
-**Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
+* **Famille** : Alismataceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Eleocharito palustris–Sagittarion sagittifoliae Passarge 1964 em. 1999
+* **Écologie (Baseflor)** : parvoroselières thermoestivales des bords d'eaux courantes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL
 
 ## Indices écologiques (Ellenberg)
 

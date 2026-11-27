@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Resedaceae
-**Type biologique** : tver
-**Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
-**Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
+* **Famille** : Resedaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Plantagini weldenii–Catapodion marini Brullo 1985
+* **Écologie (Baseflor)** : annuelles des tonsures basophiles, aéroxérophiles, thermophiles, thermoméditerranéennes, maritimes
 
 ## Répartition
 

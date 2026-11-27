@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : avril-juin
-**Type biologique** : b-cad
-**Syntaxon (Baseflor)** : Rosion micranthae Arlot 1985
-**Écologie (Baseflor)** : buissons d'arbrisseaux, méridionaux à atlantiques, planitiaires à collinéens
+* **Famille** : Fabaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Nanophanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Rosion micranthae Arlot 1985
+* **Écologie (Baseflor)** : buissons d'arbrisseaux, méridionaux à atlantiques, planitiaires à collinéens
 
 ## Répartition
 

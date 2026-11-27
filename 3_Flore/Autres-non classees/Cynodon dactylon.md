@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Trifolio fragiferi–Cynodontion dactyli Braun–Blanquet & O. de Bolòs 1954
-**Écologie (Baseflor)** : prairies hygrophiles pâturées à surpiétinées, méditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Trifolio fragiferi–Cynodontion dactyli Braun–Blanquet & O. de Bolòs 1954
+* **Écologie (Baseflor)** : prairies hygrophiles pâturées à surpiétinées, méditerranéennes
 
 ## Répartition
 

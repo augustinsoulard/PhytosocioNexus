@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Poaceae
-**Floraison** : avril-août
-**Type biologique** : test(hbis)
-**Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1989
-**Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
+* **Famille** : Poaceae
+* **Floraison** : avril-août
+* **Type biologique** : Thérophyte estival (bisannuel)
+* **Syntaxon (Baseflor)** : Lino biennis–Gaudinion fragilis écoph. vivace (Braun–Blanquet 1967) de Foucault 1989
+* **Écologie (Baseflor)** : prairies mésohydriques à mésohygroclines, fauchées, thermo-atlantiques à subméditerranéennes
 
 ## Répartition
 

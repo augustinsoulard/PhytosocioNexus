@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asparagaceae
-**Type biologique** : Grhi-semp
-**Syntaxon (Baseflor)** : Ruscion aculeati Julve 2012 all. nov. hoc loco
-**Écologie (Baseflor)** : chaméphytaies sciaphiles de sous-bois forestier méditerranéo-atlantique
+* **Famille** : Asparagaceae
+* **Type biologique** : Géophyte à rhizome sempervirent
+* **Syntaxon (Baseflor)** : Ruscion aculeati Julve 2012 all. nov. hoc loco
+* **Écologie (Baseflor)** : chaméphytaies sciaphiles de sous-bois forestier méditerranéo-atlantique
 
 ## Répartition
 

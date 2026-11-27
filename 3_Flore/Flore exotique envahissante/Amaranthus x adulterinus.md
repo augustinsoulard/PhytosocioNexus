@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Amaranthaceae
+* **Famille** : Amaranthaceae
 
 ## Répartition
 
@@ -31,4 +31,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

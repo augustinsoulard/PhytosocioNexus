@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
-**Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Lysimachio tenellae–Scirpoidion holoschoeni de Foucault 2019
+* **Écologie (Baseflor)** : cariçaies des prés paratourbeux basophiles, euryméditerranéens à thermohyperatlantiques
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
-**Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
+* **Famille** : Apiaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Triseto flavescentis–Bistortion officinalis Braun–Blanquet & Tüxen 1943 ex Marschall 1947
+* **Écologie (Baseflor)** : prairies mésohydriques, fauchées, subalpines à montagnardes supérieures
 
 ## Répartition
 

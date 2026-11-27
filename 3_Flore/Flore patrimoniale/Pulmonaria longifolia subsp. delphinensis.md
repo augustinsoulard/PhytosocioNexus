@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
-**Floraison** : avril-mai
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
-**Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
+* **Famille** : Boraginaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Melampyrion pratensis Passarge 1967
+* **Écologie (Baseflor)** : ourlets externes acidophiles, boréocentro-européens, planitiaires-collinéens, mésoxérophiles, oligotrophiles
 
 ## Répartition
 

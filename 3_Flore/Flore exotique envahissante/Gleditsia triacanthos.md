@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Fabaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Aceri sacchari–Fagetea grandifoliae Julve 2019 class. nov. hoc loco
-**Écologie (Baseflor)** : associations arborescentes climaciques caducifoliées malacophylles des forêts du tempéré modal nord-est américain
+* **Famille** : Fabaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Aceri sacchari–Fagetea grandifoliae Julve 2019 class. nov. hoc loco
+* **Écologie (Baseflor)** : associations arborescentes climaciques caducifoliées malacophylles des forêts du tempéré modal nord-est américain
 
 ## Répartition
 

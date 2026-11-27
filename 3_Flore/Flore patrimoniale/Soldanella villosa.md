@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Primulaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Lysimachio nemorum–Saxifragion hirsutae de Foucault 2018
-**Écologie (Baseflor)** : microphorbiaies hyperatlantiques
+* **Famille** : Primulaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Lysimachio nemorum–Saxifragion hirsutae de Foucault 2018
+* **Écologie (Baseflor)** : microphorbiaies hyperatlantiques
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : NT
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
-**Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Bidention tripartitae Nordhagen 1940 em. Tüxen in Poli & J.Tüxen 1960
+* **Écologie (Baseflor)** : friches annuelles hygrophiles à hydrophiles, eutrophiles pionnières, vasicoles
 
 ## Répartition
 

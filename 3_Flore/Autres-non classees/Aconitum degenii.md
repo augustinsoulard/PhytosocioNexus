@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Aconito napellii–Cirsienion oleracei Julve 2011 suball nov. prov. hoc loco
-**Écologie (Baseflor)** : mégaphorbiaies montagnardes basophiles
+* **Famille** : Ranunculaceae
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Aconito napellii–Cirsienion oleracei Julve 2011 suball nov. prov. hoc loco
+* **Écologie (Baseflor)** : mégaphorbiaies montagnardes basophiles
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
-**Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Syntaxon (Baseflor)** : Rubion macrophylli Weber 1981
+* **Écologie (Baseflor)** : ronciers de clairières basophiles, mésotrophiles, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : Q
-* **Intérêt patrimonial PACA** : TRES FAIBLE

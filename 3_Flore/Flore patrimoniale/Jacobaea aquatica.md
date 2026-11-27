@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Type biologique** : Hbis(Heri)
-**Syntaxon (Baseflor)** : Jacobaeion aquaticae Julve 2020 all. nov. prov. hoc loco
-**Écologie (Baseflor)** : prairies hygrophiles fauchées septentrionales, psychro-atlantiques à centro-européennes
+* **Famille** : Asteraceae
+* **Type biologique** : Hémicryptophyte bisannuel (érigé)
+* **Syntaxon (Baseflor)** : Jacobaeion aquaticae Julve 2020 all. nov. prov. hoc loco
+* **Écologie (Baseflor)** : prairies hygrophiles fauchées septentrionales, psychro-atlantiques à centro-européennes
 
 ## Répartition
 

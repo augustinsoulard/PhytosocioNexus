@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cupressaceae
-**Type biologique** : A-semp
-**Syntaxon (Baseflor)** : Abietetea spectabilis Miehe 1990 prov.
-**Écologie (Baseflor)** : forêts conifériennes himalayennes, tempérées
+* **Famille** : Cupressaceae
+* **Type biologique** : Phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : Abietetea spectabilis Miehe 1990 prov.
+* **Écologie (Baseflor)** : forêts conifériennes himalayennes, tempérées
 
 ## Répartition
 

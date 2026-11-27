@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : avril-octobre
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
-**Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
+* **Famille** : Asteraceae
+* **Floraison** : avril-octobre
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Sperguletalia arvensis Hüppe & Hofmeister 1990
+* **Écologie (Baseflor)** : annuelles commensales des cultures acidophiles
 
 ## Répartition
 

@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Fabaceae
-**Floraison** : juin-août
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
-**Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
+* **Famille** : Fabaceae
+* **Floraison** : juin-août
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Honckenyo peploidis–Crambion maritimae J.–M. & J. Géhu 1969
+* **Écologie (Baseflor)** : herbacées vivaces des rivages maritimes européeo-atlantiques graveleux
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

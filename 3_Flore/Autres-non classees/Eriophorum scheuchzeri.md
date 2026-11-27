@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : juin-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Cyperaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Caricetalia magellanicae subsp. irriguae (de Foucault 1984) Julve 1993 prov.
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses acidophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 

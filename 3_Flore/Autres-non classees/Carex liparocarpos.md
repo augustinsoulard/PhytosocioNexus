@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : avril-juin
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Carici liparocarpos–Helichrysetalia stoechadis (de Foucault 1999) Julve 2003 ord. nov. prov. hoc loco
-**Écologie (Baseflor)** : pelouses des sables basophiles, euryméditerranéennes
+* **Famille** : Cyperaceae
+* **Floraison** : avril-juin
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Carici liparocarpos–Helichrysetalia stoechadis (de Foucault 1999) Julve 2003 ord. nov. prov. hoc loco
+* **Écologie (Baseflor)** : pelouses des sables basophiles, euryméditerranéennes
 
 ## Répartition
 

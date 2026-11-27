@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Apiaceae
-**Floraison** : juillet-août
-**Type biologique** : Gtub
-**Syntaxon (Baseflor)** : Cicution virosae Hejný 1960 ex Segal in Westhoff & Den Held 1969
-**Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
+* **Famille** : Apiaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Géophyte à tubercule
+* **Syntaxon (Baseflor)** : Cicution virosae Hejný 1960 ex Segal in Westhoff & Den Held 1969
+* **Écologie (Baseflor)** : magnocariçaies et roselières tourbeuses mésotrophiles, des eaux stagnantes ou à battement vertical
 
 ## Répartition
 

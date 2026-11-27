@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Rubiaceae
-**Floraison** : mai-juillet
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
+* **Famille** : Rubiaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Leontodontion hispidi subsp. hyoseroidis J. Duvigneaud, Durin & Mullenders 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins marneux médio-européens, basophiles, planitiaires, héliophiles, amphithermiques, méso-oligotrophiles
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Malvaceae
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Pruno avium–Carpinetalia betuli Gillet 1986 ex Julve 1993
-**Écologie (Baseflor)** : bois caducifoliés médio-européens, mésotrophiles, planitiaires-collinéens
+* **Famille** : Malvaceae
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Pruno avium–Carpinetalia betuli Gillet 1986 ex Julve 1993
+* **Écologie (Baseflor)** : bois caducifoliés médio-européens, mésotrophiles, planitiaires-collinéens
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Syntaxon (Baseflor)** : Salicornion europaeae Tüxen 1974
-**Écologie (Baseflor)** : annuelles pionnières hygrophiles des vases maritimes, méditerranéo-atlantiques, des schorre inférieur, moyen à supérieur et des sansouires
+* **Famille** : Orobanchaceae
+* **Syntaxon (Baseflor)** : Salicornion europaeae Tüxen 1974
+* **Écologie (Baseflor)** : annuelles pionnières hygrophiles des vases maritimes, méditerranéo-atlantiques, des schorre inférieur, moyen à supérieur et des sansouires
 
 ## Répartition
 
@@ -21,4 +21,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : W
 * **Liste rouge nationale** : RE
-* **Intérêt patrimonial PACA** : MAJEUR

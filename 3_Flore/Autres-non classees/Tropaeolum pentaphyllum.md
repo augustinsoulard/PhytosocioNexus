@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Tropaeolaceae
-**Type biologique** : Gtub-lia
-**Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
-**Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
+* **Famille** : Tropaeolaceae
+* **Type biologique** : Géophyte à tubercule lianescent
+* **Syntaxon (Baseflor)** : σb Pistacio lentisci–Rhamnetea lycioidis Julve 2025
+* **Écologie (Baseflor)** : arbrisseaux des matorrals méditerranéens sempervirents
 
 ## Répartition
 

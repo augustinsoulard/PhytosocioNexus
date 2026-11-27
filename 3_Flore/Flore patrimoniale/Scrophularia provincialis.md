@@ -7,9 +7,9 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Floraison** : mai-juillet
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques, lieux secs et pierreux
+* **Famille** : Scrophulariaceae
+* **Floraison** : mai-juillet
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques, lieux secs et pierreux
 
 ## Répartition
 

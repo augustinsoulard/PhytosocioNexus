@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Syntaxon (Baseflor)** : Fimbristylidion dichotomae Horvatić 1954
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subtropicales
+* **Famille** : Cyperaceae
+* **Syntaxon (Baseflor)** : Fimbristylidion dichotomae Horvatić 1954
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subtropicales
 
 ## Répartition
 

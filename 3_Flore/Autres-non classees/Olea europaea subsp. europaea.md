@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Oleaceae
-**Type biologique** : a-semp
-**Syntaxon (Baseflor)** : σa Pino halepensis–Quercetea ilicis (Braun–Blanquet 1947) de Foucault & Julve 1991
-**Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes sclérophylles des méso à thermoméditerranéens européens
+* **Famille** : Oleaceae
+* **Type biologique** : Méso-phanérophyte sempervirent
+* **Syntaxon (Baseflor)** : σa Pino halepensis–Quercetea ilicis (Braun–Blanquet 1947) de Foucault & Julve 1991
+* **Écologie (Baseflor)** : associations arborescentes climaciques des forêts sempervirentes sclérophylles des méso à thermoméditerranéens européens
 
 ## Répartition
 

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Ranunculaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
-**Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
+* **Famille** : Ranunculaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Petasition paradoxi Zollitsch 1966 em. Béguin 1970
+* **Écologie (Baseflor)** : grpts vivaces des éboulis fins crayeux ou marneux, montagnards-subalpins, sciaphiles
 
 ## Répartition
 

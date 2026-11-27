@@ -7,13 +7,12 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Leucobryaceae
-**Type biologique** : C
-**Syntaxon (Baseflor)** : Polytrichion formosi
-**Écologie (Baseflor)** : climacique, sciaphile, humicole, acidophile, mésohydrique à mésohygrophile
+* **Famille** : Leucobryaceae
+* **Type biologique** : Chaméphyte
+* **Syntaxon (Baseflor)** : Polytrichion formosi
+* **Écologie (Baseflor)** : climacique, sciaphile, humicole, acidophile, mésohydrique à mésohygrophile
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Directive Habitats** : CDH5
-* **Intérêt patrimonial PACA** : TRES FAIBLE

@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Melanthiaceae
-**Type biologique** : Grhi
-**Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
-**Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
+* **Famille** : Melanthiaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Petasito hybridi–Chaerophylletalia hirsuti Morariu 1967
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à montagnardes, mésoeutrophiles
 
 ## Répartition
 

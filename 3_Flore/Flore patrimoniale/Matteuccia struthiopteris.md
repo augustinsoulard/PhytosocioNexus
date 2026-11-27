@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Onocleaceae
-**Floraison** : juillet-octobre
-**Type biologique** : Hces
-**Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
-**Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
+* **Famille** : Onocleaceae
+* **Floraison** : juillet-octobre
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Lactuco alpinae–Aconitetea variegati Hadàč & Klika in Klika & Hadàč 1944
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Indicatrice zone humide** : Oui
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

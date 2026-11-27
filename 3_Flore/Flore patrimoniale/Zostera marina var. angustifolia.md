@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Zosteraceae
-**Type biologique** : Grhi-aqua
-**Syntaxon (Baseflor)** : Zosterion marinae Christiansen 1934
-**Écologie (Baseflor)** : herbiers marins phanérogamiques, psychrophiles
+* **Famille** : Zosteraceae
+* **Type biologique** : Géophyte à rhizome aquatique
+* **Syntaxon (Baseflor)** : Zosterion marinae Christiansen 1934
+* **Écologie (Baseflor)** : herbiers marins phanérogamiques, psychrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Protection** : régionale
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Balsaminaceae
-**Floraison** : juillet-août
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Impatiention noli–tangeris Julve 2009 all. nov. hoc loco
-**Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, hygrophiles
+* **Famille** : Balsaminaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Impatiention noli–tangeris Julve 2009 all. nov. hoc loco
+* **Écologie (Baseflor)** : annuelles pionnières nitrophiles des clairières et lisières européennes, psychrophiles, hémisciaphiles, hygrophiles
 
 ## Répartition
 

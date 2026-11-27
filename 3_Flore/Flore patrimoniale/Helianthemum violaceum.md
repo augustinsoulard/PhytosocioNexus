@@ -7,14 +7,14 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Cistaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
-**Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
+* **Famille** : Cistaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Brachypodietalia retusi Julve 1993
+* **Écologie (Baseflor)** : pelouses basophiles méditerranéennes, mésoxérophiles à mésohydriques
 
-**Habitats :** Espèces des garrigues méditerranéennes.
+* **Habitats :** Espèces des garrigues méditerranéennes.
 
-**Confusions :** A ne pas confondre avec [[Helianthemum apenninum]] aux sépales entièrement tomeux.
+* **Confusions :** A ne pas confondre avec [[Helianthemum apenninum]] aux sépales entièrement tomeux.
 
 ## Répartition
 

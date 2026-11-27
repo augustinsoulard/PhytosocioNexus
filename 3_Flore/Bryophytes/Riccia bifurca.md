@@ -11,12 +11,11 @@ sources:
 
 ## Description
 
-**Famille** : Ricciaceae
-**Type biologique** : H, T
-**Syntaxon (Baseflor)** : Tortulion acaulonis var. acaulonis
-**Écologie (Baseflor)** : épigé, pionnier, vernal, annuel, culture eutrophile limono-argileuse, basophile, humifère, médioeuropéen
+* **Famille** : Ricciaceae
+* **Type biologique** : Hémicryptophyte, Thérophyte
+* **Syntaxon (Baseflor)** : Tortulion acaulonis var. acaulonis
+* **Écologie (Baseflor)** : épigé, pionnier, vernal, annuel, culture eutrophile limono-argileuse, basophile, humifère, médioeuropéen
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE

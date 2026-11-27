@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Sapindaceae
-**Floraison** : mars-avril
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : σA Sorbo ariae–Quercetalia pubescentis Gillet 1986 em. Julve 1991 ex 1993
-**Écologie (Baseflor)** : associations arborescentes caducifoliées, basophiles, oligotrophiles, planitiaires-collinéennes à subméditerranéennes septentrionales
+* **Famille** : Sapindaceae
+* **Floraison** : mars-avril
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : σA Sorbo ariae–Quercetalia pubescentis Gillet 1986 em. Julve 1991 ex 1993
+* **Écologie (Baseflor)** : associations arborescentes caducifoliées, basophiles, oligotrophiles, planitiaires-collinéennes à subméditerranéennes septentrionales
 
 ## Répartition
 

@@ -9,9 +9,9 @@ auteurs:
 
 ## Description
 
-**Famille** : Campanulaceae
-**Syntaxon (Baseflor)** : Asplenietea trichomanis Braun–Blanquet in Meier & Braun–Blanquet 1934
-**Écologie (Baseflor)** : chasmophytes des parois européennes
+* **Famille** : Campanulaceae
+* **Syntaxon (Baseflor)** : Asplenietea trichomanis Braun–Blanquet in Meier & Braun–Blanquet 1934
+* **Écologie (Baseflor)** : chasmophytes des parois européennes
 
 ## Répartition
 
@@ -20,4 +20,3 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : M
-* **Intérêt patrimonial PACA** : NUL

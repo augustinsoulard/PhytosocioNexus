@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Type biologique** : csuf
-**Syntaxon (Baseflor)** : Teucrio pyrenaici–Bromopsion erectae Rivas Martínez, Fernández–González & Loidi 1999
-**Écologie (Baseflor)** : pelouses basophiles à neutroclines mésoxérophiles, montagnardes, pyrénéennes
+* **Famille** : Caryophyllaceae
+* **Type biologique** : Chaméphyte suffrutescent
+* **Syntaxon (Baseflor)** : Teucrio pyrenaici–Bromopsion erectae Rivas Martínez, Fernández–González & Loidi 1999
+* **Écologie (Baseflor)** : pelouses basophiles à neutroclines mésoxérophiles, montagnardes, pyrénéennes
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

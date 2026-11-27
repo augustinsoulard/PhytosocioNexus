@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Brassicaceae
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
-**Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
+* **Famille** : Brassicaceae
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Calamagrostietea arenariae Braun-Blanquet & Tüxen 1943 ex Westhoff, Dijk & Passchier 1942
+* **Écologie (Baseflor)** : végétation vivace des dunes maritimes bordières à mobiles
 
 ## Répartition
 

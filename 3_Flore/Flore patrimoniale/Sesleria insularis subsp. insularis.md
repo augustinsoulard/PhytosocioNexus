@@ -6,18 +6,18 @@ cd_nomv18: 141053
 date_maj: "2026-11-26"
 auteurs:
   - Augustin Soulard
----## Description
+---
+## Description
 
-**Famille** : Poaceae
-**Type biologique** : hsto
-**Syntaxon (Baseflor)** : Seslerietalia juncifoliae Horvat (1930) 1956
-**Écologie (Baseflor)** : pelouses basophiles subalpines, chionophiles, des Balkans NW et Apennins
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte stolonifère
+* **Syntaxon (Baseflor)** : Seslerietalia juncifoliae Horvat (1930) 1956
+* **Écologie (Baseflor)** : pelouses basophiles subalpines, chionophiles, des Balkans NW et Apennins
 
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : MODERE
 
 ## Indices écologiques (Ellenberg)
 

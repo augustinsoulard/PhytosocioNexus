@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Boraginaceae
+* **Famille** : Boraginaceae
 
 ## Répartition
 
@@ -19,4 +19,3 @@ auteurs:
 
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
-* **Intérêt patrimonial PACA** : NUL

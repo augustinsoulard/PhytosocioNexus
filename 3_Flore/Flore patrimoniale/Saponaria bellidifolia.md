@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caryophyllaceae
-**Floraison** : juin-juillet
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Armerion girardii Braun–Blanquet 1931 em. Quézel 1971
-**Écologie (Baseflor)** : pelouses des sables basophiles, dolomiticoles, euryméditerranéennes
+* **Famille** : Caryophyllaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Armerion girardii Braun–Blanquet 1931 em. Quézel 1971
+* **Écologie (Baseflor)** : pelouses des sables basophiles, dolomiticoles, euryméditerranéennes
 
 ## Répartition
 
@@ -25,7 +25,6 @@ auteurs:
 * **Liste rouge nationale** : VU
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
 * **Protection** : nationale
-* **Intérêt patrimonial PACA** : FORT
 
 ## Indices écologiques (Ellenberg)
 

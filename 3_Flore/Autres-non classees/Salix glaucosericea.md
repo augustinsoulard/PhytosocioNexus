@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Salicaceae
-**Floraison** : juillet-août
-**Type biologique** : Cfru
-**Syntaxon (Baseflor)** : Salicion helveticae Rübel 1912 ex Theurillat in Theurillat, Aeschimann, Küpfer & Spichiger 1995
-**Écologie (Baseflor)** : sous-arbrisseaux hydrophiles, subalpins
+* **Famille** : Salicaceae
+* **Floraison** : juillet-août
+* **Type biologique** : Chaméphyte frutescent
+* **Syntaxon (Baseflor)** : Salicion helveticae Rübel 1912 ex Theurillat in Theurillat, Aeschimann, Küpfer & Spichiger 1995
+* **Écologie (Baseflor)** : sous-arbrisseaux hydrophiles, subalpins
 
 ## Répartition
 

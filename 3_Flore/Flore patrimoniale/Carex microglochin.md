@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
-**Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
+* **Famille** : Cyperaceae
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Junco triglumis–Equisetetalia variegati (Julve 1983 em. de Foucault 1984) Julve 1993
+* **Écologie (Baseflor)** : parvocariçaies des tourbières basses basophiles, arctico-alpines à boréo-subalpines
 
 ## Répartition
 

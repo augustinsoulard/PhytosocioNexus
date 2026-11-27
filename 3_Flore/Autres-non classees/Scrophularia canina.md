@@ -7,10 +7,10 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Scrophulariaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Glaucion flavi Braun–Blanquet 1947
-**Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières euryméditerranéennes
+* **Famille** : Scrophulariaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Glaucion flavi Braun–Blanquet 1947
+* **Écologie (Baseflor)** : grpts vivaces hygrophiles des alluvions grossières euryméditerranéennes
 
 ## Répartition
 

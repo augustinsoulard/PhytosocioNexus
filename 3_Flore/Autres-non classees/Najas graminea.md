@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Hydrocharitaceae
-**Type biologique** : test-aqua
-**Syntaxon (Baseflor)** : Najadion marinae Passarge 1978
-**Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux profondes
+* **Famille** : Hydrocharitaceae
+* **Type biologique** : Thérophyte estival aquatique
+* **Syntaxon (Baseflor)** : Najadion marinae Passarge 1978
+* **Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux profondes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : I
 * **Liste rouge nationale** : NA
 * **Enjeu RESEDA Flore 2021 (CBN)** : DD
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

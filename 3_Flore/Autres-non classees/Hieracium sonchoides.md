@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : juin
-**Type biologique** : hros
-**Syntaxon (Baseflor)** : Dianthion gratianopolitani Focquet 1982
-**Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines, auvergnates
+* **Famille** : Asteraceae
+* **Floraison** : juin
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Dianthion gratianopolitani Focquet 1982
+* **Écologie (Baseflor)** : lithophytes des replats de falaises européennes, acidophiles, subalpines, auvergnates
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
-**Type biologique** : Tver
-**Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
-**Écologie (Baseflor)** : friches annuelles rudérales, européennes
+* **Famille** : Solanaceae
+* **Type biologique** : Thérophyte vernal
+* **Syntaxon (Baseflor)** : Sisymbrietea officinalis Korneck 1974
+* **Écologie (Baseflor)** : friches annuelles rudérales, européennes
 
 ## Répartition
 

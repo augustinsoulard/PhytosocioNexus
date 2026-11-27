@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Papaveraceae
-**Floraison** : mai-septembre
-**Type biologique** : heri
-**Syntaxon (Baseflor)** : Parietarion officinalis Gergely & al. 1966
-**Écologie (Baseflor)** : ourlets eutrophiles ombragés
+* **Famille** : Papaveraceae
+* **Floraison** : mai-septembre
+* **Type biologique** : Hémicryptophyte érigé
+* **Syntaxon (Baseflor)** : Parietarion officinalis Gergely & al. 1966
+* **Écologie (Baseflor)** : ourlets eutrophiles ombragés
 
 ## Répartition
 

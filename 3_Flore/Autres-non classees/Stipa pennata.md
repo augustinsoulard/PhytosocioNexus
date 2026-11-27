@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Poaceae
-**Type biologique** : hces
-**Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
-**Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
+* **Famille** : Poaceae
+* **Type biologique** : Hémicryptophyte cespiteux
+* **Syntaxon (Baseflor)** : Xerobromopsion erectae (Braun–Blanquet & Moor 1938) Moravec 1967
+* **Écologie (Baseflor)** : pelouses basophiles médio-européennes occidentales, mésoxérophiles, planitiaires à montagnardes (Bénélux, Bassin parisien, Allemagne occidentale, Suisse)
 
 ## Répartition
 

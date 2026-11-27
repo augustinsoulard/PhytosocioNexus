@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Betulaceae
-**Floraison** : avril-mai
-**Type biologique** : A-cad
-**Syntaxon (Baseflor)** : Betulion pendulae Lakušić, Pavlović, Abadžić & Grgić 1978
-**Écologie (Baseflor)** : associations arborescentes pionnières plutôt héliophiles, oligotrophiles, mésohydriques
+* **Famille** : Betulaceae
+* **Floraison** : avril-mai
+* **Type biologique** : Phanérophyte caducifolié
+* **Syntaxon (Baseflor)** : Betulion pendulae Lakušić, Pavlović, Abadžić & Grgić 1978
+* **Écologie (Baseflor)** : associations arborescentes pionnières plutôt héliophiles, oligotrophiles, mésohydriques
 
 ## Répartition
 

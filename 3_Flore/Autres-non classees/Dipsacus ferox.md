@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Caprifoliaceae
-**Floraison** : juin-juillet
-**Type biologique** : Hros
-**Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
-**Écologie (Baseflor)** : microphorbiaies méditerranéennes
+* **Famille** : Caprifoliaceae
+* **Floraison** : juin-juillet
+* **Type biologique** : Hémicryptophyte rosetté
+* **Syntaxon (Baseflor)** : Arenarietalia balearicae Julve 2025 ord. nov. hoc loco
+* **Écologie (Baseflor)** : microphorbiaies méditerranéennes
 
 ## Répartition
 
@@ -24,7 +24,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : LC
 * **Enjeu RESEDA Flore 2021 (CBN)** : MOY
-* **Intérêt patrimonial PACA** : FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

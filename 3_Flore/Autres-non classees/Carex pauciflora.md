@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Floraison** : mai-juillet
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Molinio caeruleae–Eriophorion vaginati subsp. vaginati Julve 2003 all. nov. hoc loco
-**Écologie (Baseflor)** : parvocariçaies des tourbières hautes médio-européennes à boréo-subalpines, acidophiles
+* **Famille** : Cyperaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Molinio caeruleae–Eriophorion vaginati subsp. vaginati Julve 2003 all. nov. hoc loco
+* **Écologie (Baseflor)** : parvocariçaies des tourbières hautes médio-européennes à boréo-subalpines, acidophiles
 
 ## Répartition
 

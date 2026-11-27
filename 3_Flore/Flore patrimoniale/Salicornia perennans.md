@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Amaranthaceae
-**Floraison** : août-octobre
-**Type biologique** : test-suc
-**Syntaxon (Baseflor)** : Salicornion perennantis Géhu 1992
-**Écologie (Baseflor)** : annuelles des zones salées pannoniques
+* **Famille** : Amaranthaceae
+* **Floraison** : août-octobre
+* **Type biologique** : Thérophyte estival succulent
+* **Syntaxon (Baseflor)** : Salicornion perennantis Géhu 1992
+* **Écologie (Baseflor)** : annuelles des zones salées pannoniques
 
 ## Répartition
 

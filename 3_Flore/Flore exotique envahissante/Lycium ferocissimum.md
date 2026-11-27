@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Solanaceae
+* **Famille** : Solanaceae
 
 ## D'après INVMED (consulté en 2026)
 
@@ -83,4 +83,3 @@ Le Lyciet féroce se régénère rapidement à la suite d'un **incendie** ou d'u
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

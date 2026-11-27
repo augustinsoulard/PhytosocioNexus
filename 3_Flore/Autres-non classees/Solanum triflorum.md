@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Solanaceae
-**Type biologique** : test
-**Syntaxon (Baseflor)** : Atriplici laciniatae–Salsolion kali (Tüxen 1950) Géhu 1978
-**Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, européo-atlantiques
+* **Famille** : Solanaceae
+* **Type biologique** : Thérophyte estival
+* **Syntaxon (Baseflor)** : Atriplici laciniatae–Salsolion kali (Tüxen 1950) Géhu 1978
+* **Écologie (Baseflor)** : annuelles eutrophiles des laisses de mer arénicoles, européo-atlantiques
 
 ## Répartition
 

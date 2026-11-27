@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Saururaceae
+* **Famille** : Saururaceae
 
 ## Répartition
 
@@ -31,4 +31,3 @@ sources:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : I
-* **Intérêt patrimonial PACA** : NUL

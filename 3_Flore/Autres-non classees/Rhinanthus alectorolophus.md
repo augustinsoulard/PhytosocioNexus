@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Orobanchaceae
-**Type biologique** : test-hpar
-**Syntaxon (Baseflor)** : Campanulo rhomboidalis–Trisetenion flavescentis Dierschke in Theurillat 1992
-**Écologie (Baseflor)** : prairies mésohydriques fauchées, subalpines à montagnardes, neutroclines
+* **Famille** : Orobanchaceae
+* **Type biologique** : Thérophyte estival hémiparasite
+* **Syntaxon (Baseflor)** : Campanulo rhomboidalis–Trisetenion flavescentis Dierschke in Theurillat 1992
+* **Écologie (Baseflor)** : prairies mésohydriques fauchées, subalpines à montagnardes, neutroclines
 
 ## Répartition
 

@@ -10,10 +10,10 @@ sources:
 
 ## Description
 
-**Famille** : Cyperaceae
-**Type biologique** : Test(Hces)
-**Syntaxon (Baseflor)** : Fimbristylidion dichotomae Horvatić 1954
-**Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subtropicales
+* **Famille** : Cyperaceae
+* **Type biologique** : Thérophyte estival (cespiteux)
+* **Syntaxon (Baseflor)** : Fimbristylidion dichotomae Horvatić 1954
+* **Écologie (Baseflor)** : annuelles des tonsures hydrophiles inondables, thermophiles, subtropicales
 
 ## Répartition
 

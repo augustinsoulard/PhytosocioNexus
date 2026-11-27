@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Asteraceae
-**Floraison** : août-septembre
-**Type biologique** : hbis
-**Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
-**Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
+* **Famille** : Asteraceae
+* **Floraison** : août-septembre
+* **Type biologique** : Hémicryptophyte bisannuel
+* **Syntaxon (Baseflor)** : Onopordetea acanthii Braun–Blanquet 1964
+* **Écologie (Baseflor)** : friches armées monocarpiques, thermoxérophiles
 
 ## Répartition
 

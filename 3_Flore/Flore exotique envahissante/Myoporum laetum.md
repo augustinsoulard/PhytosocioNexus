@@ -10,7 +10,7 @@ sources:
 
 ## Description
 
-**Famille** : Scrophulariaceae
+* **Famille** : Scrophulariaceae
 
 ## Répartition
 

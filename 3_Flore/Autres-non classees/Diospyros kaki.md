@@ -9,7 +9,7 @@ auteurs:
 
 ## Description
 
-**Famille** : Ebenaceae
+* **Famille** : Ebenaceae
 
 ## Répartition
 

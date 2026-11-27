@@ -9,11 +9,11 @@ auteurs:
 
 ## Description
 
-**Famille** : Rosaceae
-**Floraison** : mai-juillet
-**Type biologique** : Hrub
-**Syntaxon (Baseflor)** : Lonicero periclymeni–Rubetea plicati Haveman, Schaminée & Stortelder in Stortelder, Schaminée & Hommel 1999
-**Écologie (Baseflor)** : ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
+* **Famille** : Rosaceae
+* **Floraison** : mai-juillet
+* **Type biologique** : Hémicryptophyte ruboïde
+* **Syntaxon (Baseflor)** : Lonicero periclymeni–Rubetea plicati Haveman, Schaminée & Stortelder in Stortelder, Schaminée & Hommel 1999
+* **Écologie (Baseflor)** : ronciers de clairières médio-européennes, mésohydriques à mésohygrophiles
 
 ## Répartition
 
@@ -22,7 +22,6 @@ auteurs:
 ## Statuts
 
 * **Indigénat (TAXREF v18)** : P
-* **Intérêt patrimonial PACA** : TRES FAIBLE
 
 ## Indices écologiques (Ellenberg)
 

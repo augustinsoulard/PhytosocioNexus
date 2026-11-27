@@ -9,10 +9,10 @@ auteurs:
 
 ## Description
 
-**Famille** : Potamogetonaceae
-**Type biologique** : hsto-aqua
-**Syntaxon (Baseflor)** : Potamogetonion pusilli Wiegleb ex Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
-**Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux peu profondes
+* **Famille** : Potamogetonaceae
+* **Type biologique** : Hémicryptophyte stolonifère aquatique
+* **Syntaxon (Baseflor)** : Potamogetonion pusilli Wiegleb ex Vahle in Preising, Vahle, Brandes, Hofmeister, J.Tüxen & Weber 1990
+* **Écologie (Baseflor)** : herbiers dulcaquicoles, annuels, enracinés, européens, pionniers d'eaux peu profondes
 
 ## Répartition
 
@@ -23,7 +23,6 @@ auteurs:
 * **Indigénat (TAXREF v18)** : P
 * **Liste rouge nationale** : DD
 * **Enjeu RESEDA Flore 2021 (CBN)** : FOR
-* **Intérêt patrimonial PACA** : DD
 
 ## Indices écologiques (Ellenberg)
 

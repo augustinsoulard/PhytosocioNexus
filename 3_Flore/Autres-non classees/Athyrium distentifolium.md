@@ -7,11 +7,11 @@ date_maj: "2026-11-26"
 
 ## Description
 
-**Famille** : Athyriaceae
-**Floraison** : juillet-septembre
-**Type biologique** : grhi
-**Syntaxon (Baseflor)** : Dryopterido filicis–maris–Athyrion distentifolii Holub in Holub, Hejný, Moravec & Neuhäusl 1967
-**Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines, ombragées
+* **Famille** : Athyriaceae
+* **Floraison** : juillet-septembre
+* **Type biologique** : Géophyte à rhizome
+* **Syntaxon (Baseflor)** : Dryopterido filicis–maris–Athyrion distentifolii Holub in Holub, Hejný, Moravec & Neuhäusl 1967
+* **Écologie (Baseflor)** : mégaphorbiaies boréales à subalpines, ombragées
 
 ## Répartition
 
